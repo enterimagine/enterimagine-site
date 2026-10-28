@@ -1,0 +1,31 @@
+{
+  "trailingSlash": "auto",
+  "responseOverrides": {
+    "404": {
+      "rewrite": "/404.html",
+      "statusCode": 404
+    }
+  },
+  "mimeTypes": {
+    ".webp": "image/webp",
+    ".js": "text/javascript; charset=utf-8",
+    ".json": "application/json"
+  },
+  "globalHeaders": {
+    "Strict-Transport-Security": "max-age=86400",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Frame-Options": "DENY",
+    "Cross-Origin-Opener-Policy": "same-origin",
+    "Permissions-Policy": "camera=(), microphone=(), geolocation=(), payment=(), usb=()",
+    "Content-Security-Policy": "default-src 'none'; script-src 'self'; style-src 'self'; style-src-attr 'unsafe-inline'; img-src 'self' data:; frame-src https://www.youtube-nocookie.com; connect-src 'self'; font-src 'self'; manifest-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'; frame-ancestors 'none'; upgrade-insecure-requests",
+    "Cache-Control": "public, max-age=0, must-revalidate",
+    "X-Robots-Tag": "noindex, nofollow"
+  },
+  "routes": [
+    { "route": "/staticwebapp.config.json", "statusCode": 404 },
+    { "route": "/api/*", "statusCode": 404 },
+    { "route": "/src/*", "headers": { "Cache-Control": "public, max-age=3600" } },
+    { "route": "/assets/*", "headers": { "Cache-Control": "public, max-age=86400" } }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "schemaVersion": 1,
+  "kind": "imagine-public-release",
+  "sourceCommit": "57db150bc2b450164c5cb30b654b413402ccab95",
+  "publicPolicySha256": "bcd487a0382cebdcaf178176827fa157b2248e2ab84bc7b1d9ac979f67bae3e6",
+  "nodeVersion": "v24.19.0",
+  "payloadId": "43656b112a111819e940b7b0a74f1af4b30fa9e60f5a5526f1222d519fa4da60",
+  "files": [
+    {
+      "path": "404.html",
+      "size": 2288,
+      "sha256": "418b1a5855436579a9e290ddc909dd4af0a1de4894819e4656cea76a98c313ff"
+    },
+    {
+      "path": "assets/episodes/when-mobility-meets-energy.webp",
+      "size": 86612,
+      "sha256": "ca3e3b21cf815ea92bfac8bcef08fd9dfe87a5a3858724027b15fdee784b4fc1"
+    },
+    {
+      "path": "assets/episodes/when-stations-become-a-network.webp",
+      "size": 153432,
+      "sha256": "78c9075c0270d1996c2ece744b342d0464a00770df7065e11363c79682a70934"
+    },
+    {
+      "path": "assets/hero.webp",
+      "size": 272042,
+      "sha256": "359346e3cd6c4124e2d8a684cba5f1ce5e7435891fb8302c12ad4a1b77adc595"
+    },
+    {
+      "path": "assets/minds/dali.webp",
+      "size": 103264,
+      "sha256": "254d135f1d862e7f8dbe31f67d5838a30e022862bd0430905a8902f3ec9dde36"
+    },
+    {
+      "path": "assets/minds/ethan.webp",
+      "size": 112896,
+      "sha256": "8f8a71418e0939a2e3b0d7acc0201d1a6a4c28af14875d6a0fa4f522c255cb14"
+    },
+    {
+      "path": "assets/minds/leo.webp",
+      "size": 120378,
+      "sha256": "f736b6fd7e6082a398663adbf34872ff51b691f13fd0e365caa32644e81c0117"
+    },
+    {
+      "path": "assets/minds/maya.webp",
+      "size": 105538,
+      "sha256": "9ecf15a138748a9fb9c3a5961aa905136013e92494f2115e74c7d969708b1b47"
+    },
+    {
+      "path": "assets/minds/sofia.webp",
+      "size": 122176,
+      "sha256": "b941a019e375bf7a5eab353d16c5d419ca97d944adb3cccd53ab91080a8996ee"
+    },
+    {
+      "path": "assets/technology/ai-data.webp",
+      "size": 240488,
+      "sha256": "5d886d33aa453018c01233950a0f6b95c864542ed5089203a8bdc498d3371391"
+    },
+    {
+      "path": "assets/technology/biotech.webp",
+      "size": 267194,
+      "sha256": "4b805f8dca1988d1f1eb0676007ca0d4260ea5306c15704f49ca207b61586cd8"
+    },
+    {
+      "path": "assets/technology/energy.webp",
+      "size": 232512,
+      "sha256": "2a80893b646ad6bdb4f6e0aee3fd2c0bd578a65d202ce24f1758445d41165551"
+    },
+    {
+      "path": "assets/technology/innovation.webp",
+      "size": 275008,
+      "sha256": "b0fc38d82547ec43505aaca39a73f62564d6f87d35dee816553775fd3cd25b5e"
+    },
+    {
+      "path": "assets/technology/quantum-computing.webp",
+      "size": 257606,
+      "sha256": "84b65cd2f09e8bf46bd86a623e56be2567fc165579074002bc714403bc985bdc"
+    },
+    {
+      "path": "assets/technology/robotics.webp",
+      "size": 278798,
+      "sha256": "ce9dde143c02a246f5582717b0ad2476aa9c7b0264c172deb22d342081e1b1f1"
+    },
+    {
+      "path": "assets/technology/smart-cities.webp",
+      "size": 272904,
+      "sha256": "d0611d61c776793103a468350a60d2587cfa801d564dcf92b96a1699fc54f6ce"
+    },
+    {
+      "path": "assets/technology/smart-mobility.webp",
+      "size": 256226,
+      "sha256": "88f1bfef2e4924325f5b15b626cde5ae77e498435f173610c00e00fcc3f23f22"
+    },
+    {
+      "path": "assets/technology/space.webp",
+      "size": 233174,
+      "sha256": "6e9b5b31dbc3e4134291e1a34c851187e07ae7da4ed817fc98179cd4882c1f12"
+    },
+    {
+      "path": "collective-minds/index.html",
+      "size": 20691,
+      "sha256": "58dbd431a751ca3ced3004f85a06ae2d6dbef6f0e6416dbdcb518e58a9c5c5f2"
+    },
+    {
+      "path": "episodes/index.html",
+      "size": 7139,
+      "sha256": "26c94dd53c81498919d200e24ae381241eb3c512c139091d8648f9217fab9df1"
+    },
+    {
+      "path": "episodes/when-gpus-meet-quantum-computing/index.html",
+      "size": 18379,
+      "sha256": "a7227fad1571ef6f70c0a556461f240ccdba7204bb92feb1116de096acf46e05"
+    },
+    {
+      "path": "episodes/when-mobility-meets-energy/index.html",
+      "size": 14191,
+      "sha256": "785a54f8f2b31f61ce754fe6c0c3c60855da1bfe40caf7bbf2961ad88b1c5c7f"
+    },
+    {
+      "path": "episodes/when-stations-become-a-network/index.html",
+      "size": 13152,
+      "sha256": "5fa9d111c9fb16c96bc00decd8ca9df26ef83bb4d4a897c234f9869b075ae214"
+    },
+    {
+      "path": "explore/ai-data/index.html",
+      "size": 8543,
+      "sha256": "4d920b4ce3e09ce94a576d80db0bc044a4a54b4e2ff5581db1b12c8fb526bb22"
+    },
+    {
+      "path": "explore/biotech/index.html",
+      "size": 7964,
+      "sha256": "849f2731d5d219a83e0700aa7a99fd2bfbe29ef3be87b34965e46fddc56d5fc6"
+    },
+    {
+      "path": "explore/energy/index.html",
+      "size": 8678,
+      "sha256": "b314af15a9c11d5faa115814ab916ade5767c5772bb27967a8310cdb7c52d111"
+    },
+    {
+      "path": "explore/index.html",
+      "size": 14102,
+      "sha256": "050976c5beeba4525cf56f0bbf6d3317e72c7255531ccba8653acdd39b0aee84"
+    },
+    {
+      "path": "explore/innovation/index.html",
+      "size": 8199,
+      "sha256": "de08305715296b11bf2afbbe251ba4db763aa6b17b79910ae1dd940188e40e50"
+    },
+    {
+      "path": "explore/quantum-computing/index.html",
+      "size": 12613,
+      "sha256": "2b3ff29673a74fd272617715bb690c0beb84d8aeccc2dcfd46266c7b06b4477e"
+    },
+    {
+      "path": "explore/robotics/index.html",
+      "size": 7528,
+      "sha256": "504c902f6ef87d03ba011a7da209284e7afc2cdda08d9790c6eb3092a6c80cc2"
+    },
+    {
+      "path": "explore/smart-cities/index.html",
+      "size": 8277,
+      "sha256": "11eed794fa108ca061b0536c3e29b0d90dd7d2e33f7dc79b75d03380a2f3d536"
+    },
+    {
+      "path": "explore/smart-mobility/index.html",
+      "size": 8317,
+      "sha256": "65435cd85f2402803f7f6d6e26cbb91e48fd8237448a289d60374ad95ba69981"
+    },
+    {
+      "path": "explore/space/index.html",
+      "size": 7697,
+      "sha256": "05db4e9f821ca4c8b1a82e3cd1d66aae41e1d6b693e66c909f9c304f0aa92bca"
+    },
+    {
+      "path": "index.html",
+      "size": 6052,
+      "sha256": "63b89dd73aa5ac9743b2b5b95b637e3fb69ac7d18284090a50c3eaad51b1afbb"
+    },
+    {
+      "path": "legal/index.html",
+      "size": 3987,
+      "sha256": "00bf54fcd6ca65d26b0d76f6a85c1d8c6014c5f57c3fcd5c23266afae563fdb2"
+    },
+    {
+      "path": "minds/dali/index.html",
+      "size": 7868,
+      "sha256": "1fdccc488dc9f58081edd1ecefccb382bd176f67230392756d1117a8e1141907"
+    },
+    {
+      "path": "minds/ethan/index.html",
+      "size": 9230,
+      "sha256": "ea86c538aaf5b010bfbf723fe3d1e802fb080c13cc2497756614fa78cad84b41"
+    },
+    {
+      "path": "minds/index.html",
+      "size": 7550,
+      "sha256": "0b366d11c877fbe5438d763b38d2cf68e417bdeff84bfe2b62ddbb48ab503007"
+    },
+    {
+      "path": "minds/leo/index.html",
+      "size": 6020,
+      "sha256": "66205ee244fa4f790113e3f4940e7b11025fe5315b3ef5e8f0e39d67cdc111ed"
+    },
+    {
+      "path": "minds/maya/index.html",
+      "size": 6464,
+      "sha256": "8e487dfcdf221b45521c8df5da0d3117e2b72c9d5f96a5085888afd53b740294"
+    },
+    {
+      "path": "minds/sofia/index.html",
+      "size": 6372,
+      "sha256": "7e22a07571163c4b87a03ef38c9d95e050bc039010ea01c32108afcc34403337"
+    },
+    {
+      "path": "privacy/index.html",
+      "size": 5163,
+      "sha256": "6c1bb92713f6dc6de9044e84e75299e532a5b3d59153b6b7ceb7d60cae28abbb"
+    },
+    {
+      "path": "src/character-assets.js",
+      "size": 731,
+      "sha256": "c80c4ca4c564711626eb02063fd555d3a419f1ca0e7dd589f80ce05088ad92b1"
+    },
+    {
+      "path": "src/components.js",
+      "size": 6395,
+      "sha256": "9b3c185504e6a1a4dc14c24f868a2522975d00aa5635845d9e274b7a4f498ee5"
+    },
+    {
+      "path": "src/content.js",
+      "size": 12340,
+      "sha256": "84bc6b03f8f4f4a22c22ceec2ab7a43800f68093feed9388f825b7d98d0fa608"
+    },
+    {
+      "path": "src/main.js",
+      "size": 920,
+      "sha256": "ad56e53f6911b6cbf20cc066ab264d79378edfc72fbce3e07d20ca813fc4d612"
+    },
+    {
+      "path": "src/navigation.js",
+      "size": 1024,
+      "sha256": "f29debcdf9ea7a95fd9bae092ad2f58208639720f83ff9ad3143ba214316c496"
+    },
+    {
+      "path": "src/page-main.js",
+      "size": 1577,
+      "sha256": "0dfc5b67fc7c08d131ff5224134e05e7070c81296a6d81d66c146b20cdfdf5b9"
+    },
+    {
+      "path": "src/routes.js",
+      "size": 676,
+      "sha256": "bc68877e8c64f5451e7a26e33ad609fb2700ae6d238b09880fb196e659f9fdf5"
+    },
+    {
+      "path": "src/styles.css",
+      "size": 37073,
+      "sha256": "f84b2b529d3d417d572a35548d45c27c8e183f34158385bafbfda293ccc1983c"
+    },
+    {
+      "path": "src/universe-components.js",
+      "size": 4607,
+      "sha256": "6ebd80d4c4d0be387a57db93d7962ab37fb92eafaa3c82f48520a952a4d82108"
+    },
+    {
+      "path": "src/universe.js",
+      "size": 8355,
+      "sha256": "8eea84955038042d45a3b5fc21107b51b0be0da2bfdf2ac6be9f5ff8be972191"
+    },
+    {
+      "path": "src/what-if-components.js",
+      "size": 6380,
+      "sha256": "581fc6ff11964710e1313dd3f7d39ca8480dd43e21a7ff3fc26330950691652f"
+    },
+    {
+      "path": "src/what-if-data.js",
+      "size": 16140,
+      "sha256": "b606116e43c926c5a83d5262173be503de9a06c00b57a24bab72163e3ce7faf7"
+    },
+    {
+      "path": "src/what-if-main.js",
+      "size": 2683,
+      "sha256": "7714e0da0a58cc21f4a911e58d740f40b42a1ea8dabff84d0912b0d17517c575"
+    },
+    {
+      "path": "src/what-if-model.js",
+      "size": 2191,
+      "sha256": "64b5c6085541809bf0b65c2e6dcffb7ed16e21d21fccf9b9bff145c7ea64b531"
+    },
+    {
+      "path": "staticwebapp.config.json",
+      "size": 1355,
+      "sha256": "3dff1d16885fd745c4d08c75abbaf03fe398d4c909d5f36d07d15cdc9adb732f"
+    },
+    {
+      "path": "what-if/index.html",
+      "size": 7894,
+      "sha256": "812c68ec9f29c187a355d4db638bd84a7cf19161195e32bee1ae22e9fc099053"
+    }
+  ],
+  "tooling": [
+    {
+      "path": ".node-version",
+      "sha256": "b7677d3ec37ee1897ba07dc2cfe8292fe421c9ac93396cca5bbece486d1a2a41"
+    },
+    {
+      "path": "package.json",
+      "sha256": "a17ce8ea84dd609d4067173fcc16b6e343b5dc8078a42a1ee7d33c953534582a"
+    },
+    {
+      "path": "tools/backup-source.mjs",
+      "sha256": "db845dbfba06eb2a9a433d7143a6f9d0375077c50e46c82226b1a9188de7a2d6"
+    },
+    {
+      "path": "tools/build.mjs",
+      "sha256": "f405fa927e4deae2297f2e21522ea17190412165585606dd28c93ef8c8761ad9"
+    },
+    {
+      "path": "tools/check-public.mjs",
+      "sha256": "24512e398484ec5bb597f9489f6b851bdee2427f29bb0d3306a10b207f694c1d"
+    },
+    {
+      "path": "tools/collective-minds-qa.mjs",
+      "sha256": "c4f866f0333bed03acdb3715b14cf514a45a87dbdfa1fee88d0b8c7af6e8abdf"
+    },
+    {
+      "path": "tools/development-policy.mjs",
+      "sha256": "c1043af6bcd51d0dcde3d65425c80298719cf3e62e5aef8609f8a3feed7de3e8"
+    },
+    {
+      "path": "tools/encrypted-backup.mjs",
+      "sha256": "855239b1cc3d82a67711fde0b6d8b2e835026679e4cfa49a5d72ef47b7f4fea3"
+    },
+    {
+      "path": "tools/episode-publication-policy.mjs",
+      "sha256": "2dba6eae02a56be3a85c0f207079ee75fee11049282e0d6baf563f01f078bc6f"
+    },
+    {
+      "path": "tools/full-universe-backup.py",
+      "sha256": "8eb5a21a1a2e00acb5c4789ea092693168254ffc7f20b382517f3bf279b623e5"
+    },
+    {
+      "path": "tools/full-universe-kit.mjs",
+      "sha256": "940e52e738b2d2ea6e0776b4cfe0c6132e35772d49e36f4b7f17a9b8dadea908"
+    },
+    {
+      "path": "tools/local-safety.mjs",
+      "sha256": "65e9f0d34ec009175fe0d89880c28cea029017a56d5ad48368c23cf98b1c56cd"
+    },
+    {
+      "path": "tools/package-public.mjs",
+      "sha256": "72301da39c13c69a6064a09959db2d22a342e85f4a8c776bbb58615553f73b2e"
+    },
+    {
+      "path": "tools/preview-public.mjs",
+      "sha256": "3d0de2a15c01725c9e06d3b198ecdfd412c22deb50766f44c31d409624dc7a6e"
+    },
+    {
+      "path": "tools/promote.mjs",
+      "sha256": "1434f31e0b11a2e1acb5cedc946f9327922f3f0e14a0507c2e1d3b91405697f6"
+    },
+    {
+      "path": "tools/publication-policy.mjs",
+      "sha256": "bcd487a0382cebdcaf178176827fa157b2248e2ab84bc7b1d9ac979f67bae3e6"
+    },
+    {
+      "path": "tools/recovery-kit.mjs",
+      "sha256": "80329af67d4d09996b6d952d963c25e03ac09899c6f7ecfb1f8b6d23ed0df501"
+    },
+    {
+      "path": "tools/rehearse-recovery.mjs",
+      "sha256": "f82f9ce7f42769735b59f9e9f8384b98f79ab5cfd9fbb29075699ce9db45abc7"
+    },
+    {
+      "path": "tools/release-validation.mjs",
+      "sha256": "731f99fc76dcecebbd0571553d7691c06216d7a66f8e54ffea83926367684673"
+    },
+    {
+      "path": "tools/serve.mjs",
+      "sha256": "06278a52aa864bcde6a3b8d7cab08c29d55155c8f8130aea0be96a8aa03ae5b2"
+    },
+    {
+      "path": "tools/serve.ps1",
+      "sha256": "e4fe32629ef3fd60580d0784d48e3decb17e69c32e45ca641410a4cef86eadd6"
+    }
+  ],
+  "productionEligible": true,
+  "reviewMode": "committed-clean",
+  "uncommittedPaths": []
+}
