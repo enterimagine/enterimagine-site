@@ -52,7 +52,6 @@ jobs:
           app_location: public
           output_location: ""
           skip_app_build: true
-          skip_api_build: true
   smoke:
     needs: deploy
     runs-on: ubuntu-24.04

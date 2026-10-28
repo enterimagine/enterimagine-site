@@ -41,17 +41,19 @@ if (liveIndex === -1) {
 } else {
   const base = (process.argv[liveIndex + 1] || '').replace(/\/+$/, '');
   if (!/^https:\/\/[a-z0-9.-]+$/i.test(base)) throw new Error('A https site URL is required (repository variable SITE_URL).');
-  const get = async path => {
+  const get = async (path, redirect = 'manual') => {
     for (let attempt = 1; ; attempt++) {
-      try { return await fetch(base + path, { redirect: 'manual', cache: 'no-store' }); }
+      try { return await fetch(base + path, { redirect, cache: 'no-store' }); }
       catch (error) { if (attempt >= 3) throw error; await new Promise(r => setTimeout(r, 2000 * attempt)); }
     }
   };
   let checked = 0;
   for (const [name, want] of expected) {
     if (name === 'staticwebapp.config.json') continue;
-    const response = await get('/' + name);
+    // Static Web Apps serves clean URLs: /x/index.html is /x/ and /404.html redirects to /404.
+    const response = await get('/' + name.replace(/(^|\/)index\.html$/, '$1'), 'follow');
     if (response.status !== 200) { fail(`${name}: HTTP ${response.status}`); continue; }
+    if (new URL(response.url).origin !== base) { fail(`${name}: redirected off-site to ${response.url}`); continue; }
     const bytes = Buffer.from(await response.arrayBuffer());
     if (sha256(bytes) !== want.sha256) fail('live content differs: ' + name);
     checked++;
