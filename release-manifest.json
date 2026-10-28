@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "57db150bc2b450164c5cb30b654b413402ccab95",
+  "sourceCommit": "1e2a1468a4603b767e34b066d7266287c138920f",
   "publicPolicySha256": "bcd487a0382cebdcaf178176827fa157b2248e2ab84bc7b1d9ac979f67bae3e6",
   "nodeVersion": "v24.19.0",
-  "payloadId": "43656b112a111819e940b7b0a74f1af4b30fa9e60f5a5526f1222d519fa4da60",
+  "payloadId": "c19cb89f9972538544dd9d7ba67c281231ee325f3e24c3dfb5f077f18edafad9",
   "files": [
     {
       "path": "404.html",
@@ -288,8 +288,8 @@
     },
     {
       "path": "staticwebapp.config.json",
-      "size": 1355,
-      "sha256": "3dff1d16885fd745c4d08c75abbaf03fe398d4c909d5f36d07d15cdc9adb732f"
+      "size": 1409,
+      "sha256": "7e80452261427cfd01d37025f582445ffbea23b9ec77bf286cfafff559633e13"
     },
     {
       "path": "what-if/index.html",
