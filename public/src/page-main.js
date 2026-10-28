@@ -35,7 +35,19 @@ export function initializeEpisodePlayers(root = document) {
     });
   }
 }
+// Opening an article always starts at its title. A link to a citation (#ref-3) and the
+// browser's Back/Forward keep their own position; this also scrolls a hosting frame.
+export function startArticleAtTop(root = document) {
+  const article = root.querySelector('.article-page');
+  if (!article || location.hash) return;
+  const nav = performance.getEntriesByType?.('navigation')?.[0];
+  if (nav && nav.type === 'back_forward') return;
+  const reveal = () => { scrollTo(0, 0); root.body.scrollIntoView({ block: 'start', behavior: 'instant' }); };
+  reveal();
+  addEventListener('load', reveal, { once: true });
+}
 if (typeof document !== 'undefined') {
   initializeNavigation();
   initializeEpisodePlayers();
+  startArticleAtTop();
 }

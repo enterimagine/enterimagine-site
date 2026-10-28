@@ -328,3 +328,117 @@
 .episode-unload{background:transparent;border:1px solid var(--line);color:var(--cyan);padding:10px 14px;min-height:44px;cursor:pointer}
 .episode-music-credit{margin-top:24px}.episode-music-credit p{font-size:.95rem;overflow-wrap:anywhere}
 @media(max-width:480px){.episode-load{font-size:.82rem;padding:12px 14px}.episode-player-actions{gap:14px}}
+/* Scientific Universe */
+.article-hero{max-width:820px;margin:0 auto;padding:40px 5vw 30px}
+.article-hero h1{font-size:clamp(2.3rem,5vw,4rem);line-height:1.08;margin:0 0 22px}
+.article-standfirst{font-style:italic;color:var(--muted)}
+.article-meta{display:flex;flex-wrap:wrap;gap:8px 22px;font-size:.85rem;color:var(--muted);margin:26px 0 14px}
+.article-meta span+span:before{content:"·";margin-right:22px;color:var(--line)}
+.article-domains{display:flex;flex-wrap:wrap;gap:8px;margin:0}
+.article-domain{font-size:.72rem;color:var(--cyan);border:1px solid #41606b;padding:5px 11px;text-decoration:none}
+.article-domain:hover,.article-domain:focus-visible{border-color:var(--cyan)}
+.article-body{max-width:820px;margin:0 auto;padding:0 5vw 80px}
+.article-section{padding:38px 0 8px;border-top:1px solid var(--line)}
+.article-section h2{font-size:clamp(1.5rem,2.6vw,2rem);line-height:1.2;margin:0 0 20px}
+.article-section p,.article-list li{font-size:1.08rem;line-height:1.75;color:var(--text)}
+.article-section p{margin:0 0 20px}
+.article-list{padding-left:22px;margin:0 0 22px}
+.article-list li{margin-bottom:14px}
+.article-list li::marker{color:var(--cyan)}
+.article-section a{color:var(--cyan)}
+.article-cite{font-size:.78em;text-decoration:none;vertical-align:.15em;margin-left:1px}
+.article-cite:hover,.article-cite:focus-visible{text-decoration:underline}
+.article-figure{margin:30px 0 34px}
+.article-figure img{display:block;width:100%;height:auto;background:#fff;border:1px solid var(--line);border-radius:4px}
+.article-figure figcaption{font-size:.85rem;line-height:1.55;color:var(--muted);margin-top:12px}
+.article-figure figcaption>span:first-child{color:var(--text);font-weight:600;margin-right:6px}
+.article-figure-credit{color:#86a0ab}
+.article-speculation{border:1px solid var(--warm);background:#1a1a14;padding:18px 22px;margin:4px 0 28px;border-radius:4px}
+.article-speculation p{margin:10px 0 0;font-size:1rem}
+.article-imagined p strong:first-child{color:var(--warm)}
+.reality-label{display:inline-block;font-size:.66rem;letter-spacing:.16em;font-weight:700;padding:4px 9px;border:1px solid currentColor;border-radius:2px}
+.reality-label.today{color:#8de4a0}.reality-label.emerging{color:var(--cyan)}.reality-label.possible{color:#c3b5f2}.reality-label.imagined{color:var(--warm)}
+.reality-legend{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px;margin:26px 0 0}
+.reality-legend div{background:var(--surface);border:1px solid var(--line);padding:18px}
+.reality-legend dd{margin:12px 0 0;color:var(--muted);font-size:.92rem;line-height:1.5}
+.article-references ol{padding-left:24px;margin:0}
+.article-references li{font-size:.9rem;line-height:1.6;color:var(--muted);margin-bottom:10px;scroll-margin-top:110px}
+.article-references li:target{color:var(--text)}
+.article-reference-note{font-size:.88rem!important;color:var(--muted)!important;line-height:1.6!important}
+.article-series{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px;padding:38px 0 0;border-top:1px solid var(--line);margin-top:30px}
+.article-series h3,.article-card h3{margin:10px 0 0}
+.article-related{margin-top:38px}
+.article-related .article-domains{margin-bottom:26px}
+.article-grid{grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}
+.article-card p{color:var(--muted);line-height:1.55}
+.article-card-domains{display:block;margin-top:16px;font-size:.75rem;color:var(--cyan)}
+.article-hub-hero{max-width:var(--width);padding-bottom:10px}
+@media(max-width:760px){.article-hero{padding-top:20px}.article-section p,.article-list li{font-size:1rem}.article-meta span+span:before{margin-right:12px}.article-meta{gap:6px 12px}}
+/* Scientific Universe series map (site palette) */
+.su-hero{max-width:var(--width);margin:0 auto;padding:40px 5vw 34px}
+.su-hero h1{font-size:clamp(2.2rem,5vw,4rem);line-height:1.06;margin:0 0 20px;max-width:16ch;text-wrap:balance}
+.su-stats{display:flex;flex-wrap:wrap;gap:8px 26px;margin:22px 0 0;font-size:.85rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.su-stats b{color:var(--text);font-weight:650}
+.su-wrap{max-width:var(--width);margin:0 auto;padding:0 5vw 70px}
+.su-main{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:28px;align-items:start;scroll-margin-top:100px}
+.su-map{background:var(--surface);border:1px solid var(--line);border-radius:4px;padding:12px;position:sticky;top:96px}
+.su-svg{display:block;width:100%;height:auto}
+.su-hub{fill:none;stroke:var(--line);stroke-dasharray:2 6;opacity:.6}
+.su-edge{fill:none;stroke:#3d5866;stroke-linecap:round;transition:stroke .25s,opacity .25s}
+.su-edge.on{stroke:var(--cyan)}
+.su-edge.dim{opacity:.15}
+.su-node .ring{fill:#173040;stroke:#41606b;stroke-width:1.5;transition:fill .25s,stroke .25s}
+.su-node .count{font-size:13px;fill:var(--muted);text-anchor:middle;dominant-baseline:central;font-variant-numeric:tabular-nums}
+.su-node .label{font-size:14px;font-weight:600;fill:var(--text)}
+.su-node.empty .ring{fill:none;stroke-dasharray:4 4}
+.su-node.empty .label{fill:var(--muted)}
+.su-node.on .ring{fill:rgba(141,228,239,.16);stroke:var(--cyan)}
+.su-node.on .count{fill:var(--cyan)}
+.su-node.dim{opacity:.32}
+.su-ready .su-node{cursor:pointer}
+.su-ready .su-node:hover .ring{stroke:var(--cyan)}
+.su-node:focus-visible{outline:none}
+.su-node:focus-visible .ring{stroke:var(--warm);stroke-width:3}
+.su-map-help{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;padding:6px 6px 2px;font-size:.75rem;color:var(--muted)}
+.su-reset{font:inherit;color:var(--cyan);background:none;border:1px solid #41606b;padding:5px 12px;cursor:pointer}
+.su-reset:hover,.su-reset:focus-visible{border-color:var(--cyan)}
+.su-panel{display:grid;gap:12px;min-width:0}
+.su-panel h2{font-size:clamp(1.5rem,2.6vw,2rem);line-height:1.15;margin:0}
+.su-panel .eyebrow{margin:0}
+.su-panel-text{margin:0;color:var(--muted);line-height:1.6}
+.su-cards{display:grid;gap:10px;margin-top:6px}
+.su-card{display:grid;grid-template-columns:auto minmax(0,1fr);gap:4px 14px;background:var(--surface);border:1px solid var(--line);padding:16px 18px;transition:border-color .2s,background .2s}
+.su-ready .su-card{cursor:pointer}
+.su-card:hover,.su-card:focus-visible{border-color:var(--cyan);outline:none}
+.su-card.on{border-color:var(--cyan);background:#142a38}
+.su-no{grid-row:span 4;font-size:.78rem;color:var(--cyan);padding-top:3px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.su-card h3{margin:0;font-size:1.02rem;line-height:1.3}
+.su-card h3 a{color:var(--text);text-decoration:none}
+.su-card h3 a:hover,.su-card h3 a:focus-visible{color:var(--cyan)}
+.su-card p{margin:0;color:var(--muted);font-size:.9rem;line-height:1.55}
+.su-chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px!important}
+.su-chip{font-size:.68rem;letter-spacing:.04em;padding:3px 8px;border:1px solid #41606b;color:var(--muted)}
+.su-chip.hl{border-color:var(--cyan);color:var(--cyan)}
+.su-read{color:var(--cyan);font-size:.82rem;text-decoration:none;justify-self:start;margin-top:4px}
+.su-read:hover,.su-read:focus-visible{text-decoration:underline}
+.su-empty{background:rgba(239,196,139,.1);border:1px dashed var(--warm);padding:14px 16px;margin:0;line-height:1.55}
+.su-empty strong{color:var(--warm)}
+.su-threads,.su-gaps{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:14px;margin-top:24px}
+.su-thread{background:var(--surface);border:1px solid var(--line);padding:18px;display:grid;gap:10px;align-content:start;transition:border-color .2s}
+.su-thread.on{border-color:var(--cyan);background:#142a38}
+.su-thread-pick{font:inherit;font-size:1.15rem;font-weight:650;color:var(--text);background:none;border:0;padding:0;text-align:left;cursor:pointer}
+.su-thread-pick:hover,.su-thread-pick:focus-visible{color:var(--cyan)}
+.su-flow{margin:0;font-size:.8rem;color:var(--cyan);font-variant-numeric:tabular-nums}
+.su-flow a{color:var(--cyan)}
+.su-thread>p:last-child{margin:0;color:var(--muted);font-size:.9rem;line-height:1.55}
+.su-gap{border:1px dashed var(--warm);background:rgba(239,196,139,.07);padding:18px;display:grid;gap:8px;align-content:start}
+.su-gap h3{margin:0;font-size:1.05rem}
+.su-gap p{margin:0;color:var(--muted);font-size:.9rem;line-height:1.55}
+.su-gap-tag{font-size:.65rem;letter-spacing:.16em;text-transform:uppercase;font-weight:650;color:var(--warm)}
+.su-wrap .editorial-section>p{color:var(--muted);max-width:70ch}
+@media(max-width:900px){.su-main{grid-template-columns:1fr}.su-map{position:static}}
+@media(prefers-reduced-motion:reduce){.su-edge,.su-node .ring,.su-card,.su-thread{transition:none}}
+/* Eight menu items (with "Scientific Universe"): keep them on one tidy line where possible */
+nav a{white-space:nowrap}
+@media(min-width:761px) and (max-width:1240px){#main-nav{gap:18px}}
+@media(min-width:761px) and (max-width:1060px){#main-nav{flex-wrap:wrap;justify-content:flex-end;gap:6px 16px}#main-nav a{font-size:.82rem}}
