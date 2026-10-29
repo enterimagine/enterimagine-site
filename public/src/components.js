@@ -20,7 +20,7 @@ export function technologyCard(technology, index) {
     <details><summary>Explore ${e(technology.name)}</summary><p><strong>Where we are:</strong> ${e(technology.maturity)}.</p><p><strong>Horizon:</strong> ${e(technology.horizon)}.</p><p class="detail-label">Connected technologies</p><ul class="detail-links">${technology.relatedTechnologies.map(id => '<li><a href="' + e(entityUrl('technologies', technologyById[id])) + '">' + e(technologyById[id].name) + '</a></li>').join('')}</ul>${technology.episodes.length ? '<a href="' + e(episodes.find(item => item.id === technology.episodes[0]).path) + '">Discover the featured episode →</a>' : ''}</details></div></article>`;
 }
 export function episodeFeature(episode) {
-  return `<article class="episode-feature"><div class="episode-media">${image(technologyById['quantum-computing'].image, 'IMAGINE quantum computing laboratory')}</div>
+  return `<article class="episode-feature"><div class="episode-media">${episode.artwork ? image(episode.artwork, episode.artworkAlt || episode.title) : image(technologyById['quantum-computing'].image, 'IMAGINE quantum computing laboratory')}</div>
     <div class="episode-copy">${tags(episode.technologies.map(id => technologyById[id].name))}
     <h2 id="episode-title"><a href="${e(entityUrl('episodes', episode))}">${e(episode.title)}</a></h2><p class="lead">${e(episode.hook)}</p><p>${e(episode.summary)}</p>
     <p>With ${episode.characters.map(id => '<a href="' + e(entityUrl('characters', characterById[id])) + '">' + e(characterById[id].name) + '</a>').join(' &amp; ')} · Challenged by <a href="${e(entityUrl('characters', characterById['ethan']))}">Ethan</a></p>

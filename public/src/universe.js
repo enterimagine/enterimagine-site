@@ -63,6 +63,11 @@ export const episodeCapabilities = {
     capability('emerging','Swap stations providing grid services','Pilots and markets exist in parts of China; rules differ by country.'),
     capability('experimental','Coordinated station networks as virtual power plants','Scale, standards and permissions determine what is possible.'),
     capability('imagined','Energy Ports balancing cities, data centers and mobility','A concept, not an existing product.')
+  ],
+  'when-parking-goes-underground': [
+    capability('established','Automated and mechanical parking systems','Operating in cities today; designs and capacity vary.'),
+    capability('established','License plate recognition at parking garages','Standard at many garages; privacy rules differ by country.'),
+    capability('imagined','A self-moving underground loop that charges while it rotates','An IMAGINE concept, not an existing product; digging, groundwater, fire safety and rescue access are real challenges.')
   ]
 };
 

@@ -525,3 +525,4 @@ nav a{white-space:nowrap}
 .article-cover{max-width:820px;margin:0 auto 10px;padding:0 5vw}
 .article-cover img{display:block;width:100%;height:auto;border-radius:6px;border:1px solid var(--line)}
 .article-cover figcaption{font-size:.78rem;color:#86a0ab;margin-top:8px}
+[data-episode-navigation]{display:block}[data-episode-navigation] a{white-space:normal}

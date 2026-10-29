@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "4c36fd46df7be4e00464467b8ac5777b1c3e95cf",
-  "publicPolicySha256": "199b71852846dbfdc062615cfacabfd0c5dbcd9dbad182d711df26c0c4038f9f",
+  "sourceCommit": "fc5776cd2a5c466ace85a886398a8ae9644e5cec",
+  "publicPolicySha256": "db3d0829272eea2eb73693da91c9575d5534bce82b8dc44f8dd5ba746ddc528f",
   "nodeVersion": "v24.19.0",
-  "payloadId": "4f3898953cb73b6266220f0d3db09a39ff2cbc789cee0270d8883910b748d1b5",
+  "payloadId": "92fb089405a8bc112da3ccf1668d516cbe0b61121de41bcb34c40d08eb8732a9",
   "files": [
     {
       "path": "404.html",
@@ -117,6 +117,11 @@
       "sha256": "ca3e3b21cf815ea92bfac8bcef08fd9dfe87a5a3858724027b15fdee784b4fc1"
     },
     {
+      "path": "assets/episodes/when-parking-goes-underground.webp",
+      "size": 86742,
+      "sha256": "d38da3a3d5b5bc0790a8e55f0800945de436e7ea1fbd2dacb5d2dd62957cfae8"
+    },
+    {
       "path": "assets/episodes/when-stations-become-a-network.webp",
       "size": 153432,
       "sha256": "78c9075c0270d1996c2ece744b342d0464a00770df7065e11363c79682a70934"
@@ -218,8 +223,8 @@
     },
     {
       "path": "episodes/index.html",
-      "size": 8015,
-      "sha256": "af072be22c33aa7a6b761ab2e2ef46a7d67fdb4ff86cba9a5e3a6956a522e81d"
+      "size": 9350,
+      "sha256": "a198248af6cb1512abe4f7897eab4bf4e8222e38bfb0c9201052a98bf0775a0b"
     },
     {
       "path": "episodes/when-gpus-meet-quantum-computing/index.html",
@@ -232,9 +237,14 @@
       "sha256": "6007b2d1e5e90ca220e2840d376f0b497fb4eaf4c45a853a50f9e9573275e9b2"
     },
     {
+      "path": "episodes/when-parking-goes-underground/index.html",
+      "size": 15159,
+      "sha256": "36a685bf42104f3ce416fcd5b32074cf7ecffa46185d4abfdd2b1dfca578584b"
+    },
+    {
       "path": "episodes/when-stations-become-a-network/index.html",
-      "size": 14952,
-      "sha256": "ca995ee45c2587dc3b1c12f0ad36910df795a5c64aeb17506c5bbb00e549178f"
+      "size": 15128,
+      "sha256": "acae4973d0f3d4d0db0ecfe76fe24abf43331c4991057502e0be71f1093674ee"
     },
     {
       "path": "explore/ai-data/index.html",
@@ -273,13 +283,13 @@
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 12105,
-      "sha256": "db3075d9159fac5ed3059df6663c5441060498be4bd04bf29c14042eaad1928e"
+      "size": 12654,
+      "sha256": "2af076da1984b8b383069e2887a31381f982bd3e86babc65c18a371dc06a41d8"
     },
     {
       "path": "explore/smart-mobility/index.html",
-      "size": 11491,
-      "sha256": "b432ea08b12b03547b1f7e5f96f3e87d49b58038c90af1b69706806fc848ed11"
+      "size": 12040,
+      "sha256": "687454317ae9f3cb07564042b8ab99ef0c419911f978e5b635959b7a8e2a6379"
     },
     {
       "path": "explore/space/index.html",
@@ -288,8 +298,8 @@
     },
     {
       "path": "index.html",
-      "size": 7850,
-      "sha256": "8b81238f1ecdafb84a34df2f13915965eecfe5949800520b10d88b37d630060c"
+      "size": 7821,
+      "sha256": "1f2c7a6170c3a1908c62937bcd9b8148df048c7ebac125f26c6563974677db92"
     },
     {
       "path": "legal/index.html",
@@ -298,13 +308,13 @@
     },
     {
       "path": "minds/dali/index.html",
-      "size": 8744,
-      "sha256": "694cf2320c5279170251e4b737da7642c382e066ebb6aa1c44886ff3e8a601cf"
+      "size": 10464,
+      "sha256": "ede9123b23566029ee0f69ba67d4456865e258420f72b2e5c99cde5072186e77"
     },
     {
       "path": "minds/ethan/index.html",
-      "size": 10106,
-      "sha256": "a605518cc15d0b0202a2b57b2e5d2cdd741f269861d8053583b12d1cccdda873"
+      "size": 11016,
+      "sha256": "d5889a53138367014b59846b871d5dd31c1a30fb17b380fb03e72ff9f2e19f00"
     },
     {
       "path": "minds/index.html",
@@ -348,13 +358,13 @@
     },
     {
       "path": "src/components.js",
-      "size": 6395,
-      "sha256": "9b3c185504e6a1a4dc14c24f868a2522975d00aa5635845d9e274b7a4f498ee5"
+      "size": 6475,
+      "sha256": "e096d28cf07db7b044e1c28b7f3693422b6c057321fac8de26c1e5a3e3e83290"
     },
     {
       "path": "src/content.js",
-      "size": 12340,
-      "sha256": "84bc6b03f8f4f4a22c22ceec2ab7a43800f68093feed9388f825b7d98d0fa608"
+      "size": 14718,
+      "sha256": "a17ea60a4d5dd199c1238757b3007cef9a23e9898c361db09f3b7ad36929d2e2"
     },
     {
       "path": "src/main.js",
@@ -378,13 +388,13 @@
     },
     {
       "path": "src/routes.js",
-      "size": 676,
-      "sha256": "bc68877e8c64f5451e7a26e33ad609fb2700ae6d238b09880fb196e659f9fdf5"
+      "size": 709,
+      "sha256": "b240bb3d153bce544e8f9dfa9d94378bd3d2f1c95c6f803c82244f1e13b82867"
     },
     {
       "path": "src/styles.css",
-      "size": 52639,
-      "sha256": "449fe052a67ad9580348bf87b6fdcd22adb8022109c4d1bddf2fe4524f603d25"
+      "size": 52727,
+      "sha256": "0e711cf5730aaac6faade6b93244624f45a41e94c840be8fd6a45af8dff27478"
     },
     {
       "path": "src/universe-components.js",
@@ -398,8 +408,8 @@
     },
     {
       "path": "src/universe.js",
-      "size": 8355,
-      "sha256": "8eea84955038042d45a3b5fc21107b51b0be0da2bfdf2ac6be9f5ff8be972191"
+      "size": 8876,
+      "sha256": "433d39063b1a4870e04143bc23e50d2a740b412691024a641d42543881a4ab55"
     },
     {
       "path": "src/what-if-components.js",
@@ -438,8 +448,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 26918,
-      "sha256": "c100e83270629c1051502c9d8bbd1b5046af2b8b4d914cebad3a457f43498285"
+      "size": 27162,
+      "sha256": "2f569a81e3300c88a31d41cb7ba12035ee9de4317c5f726683bf7b76ea6fe377"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -453,8 +463,8 @@
     },
     {
       "path": "universe/the-city-that-parks-itself/index.html",
-      "size": 16719,
-      "sha256": "a5a2a55c18c1819a883ced402d9134d81e8d9e73e367a270b65fd7ff9f562c70"
+      "size": 17014,
+      "sha256": "d57f10205e4d1fa23b8d92ff54ff8c8df6fddaf6574de9a87e5a4ba8b0b89d61"
     },
     {
       "path": "universe/the-lab-that-never-sleeps/index.html",
@@ -590,7 +600,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "199b71852846dbfdc062615cfacabfd0c5dbcd9dbad182d711df26c0c4038f9f"
+      "sha256": "db3d0829272eea2eb73693da91c9575d5534bce82b8dc44f8dd5ba746ddc528f"
     },
     {
       "path": "tools/recovery-kit.mjs",

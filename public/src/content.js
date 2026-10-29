@@ -19,18 +19,18 @@ export const assets = {
 };
 const episodeId = 'when-gpus-meet-quantum-computing';
 export const characters = [
-  { id: 'dali', name: 'Dali', role: 'The Systems Thinker', tagline: 'Connects the systems.', focus: ['Smart Mobility', 'Energy', 'Future Systems'], description: 'Connects technology, infrastructure and human needs to see the bigger picture.', perspective: 'What happens when technologies stop evolving separately and start working as one system?', technologies: ['smart-mobility', 'energy', 'smart-cities'], episodes: ['when-mobility-meets-energy'] },
+  { id: 'dali', name: 'Dali', role: 'The Systems Thinker', tagline: 'Connects the systems.', focus: ['Smart Mobility', 'Energy', 'Future Systems'], description: 'Connects technology, infrastructure and human needs to see the bigger picture.', perspective: 'What happens when technologies stop evolving separately and start working as one system?', technologies: ['smart-mobility', 'energy', 'smart-cities'], episodes: ['when-mobility-meets-energy', 'when-stations-become-a-network', 'when-parking-goes-underground'] },
   { id: 'sofia', name: 'Sofia', role: 'The Intelligence Architect', tagline: 'Explores intelligence.', focus: ['AI', 'Data', 'Digital Intelligence'], description: 'Explores how intelligence, data and human creativity can work together to expand what is possible.', perspective: 'What happens when AI stops being just a tool and becomes a partner in how we think, create and solve problems?', technologies: ['ai-data', 'robotics', 'innovation'], episodes: [episodeId] },
   { id: 'leo', name: 'Leo', role: 'The Quantum Explorer', tagline: 'Tests the science.', focus: ['Quantum Computing', 'Advanced Science', 'Future Computing'], description: 'Looks beyond the limits of classical computing to explore entirely new ways of solving the impossible.', perspective: 'What becomes possible when computing is no longer limited by the rules we know today?', technologies: ['quantum-computing', 'space'], episodes: [episodeId] },
   { id: 'maya', name: 'Maya', role: 'The Life Innovator', tagline: 'Considers life and humanity.', focus: ['Biotech', 'Health', 'Human Longevity'], description: 'Explores how science and technology can help us live longer, healthier lives while working with nature rather than against it.', perspective: 'What happens when we learn not only to treat disease, but to understand and redesign the biology of life itself?', technologies: ['biotech'], episodes: [] },
-  { id: 'ethan', name: 'Ethan', role: 'The Challenger', tagline: 'Challenges the assumptions.', focus: ['Risk & Ethics', 'Economics & Scalability', 'Technology Adoption', 'Critical Thinking'], description: 'Challenges assumptions and brings a practical perspective to ambitious ideas. He questions assumptions, exposes trade-offs and tests whether an idea can work responsibly in the real world.', perspective: 'But what are we missing?', technologies: ['innovation'], episodes: [episodeId, 'when-mobility-meets-energy', 'when-stations-become-a-network'] }
+  { id: 'ethan', name: 'Ethan', role: 'The Challenger', tagline: 'Challenges the assumptions.', focus: ['Risk & Ethics', 'Economics & Scalability', 'Technology Adoption', 'Critical Thinking'], description: 'Challenges assumptions and brings a practical perspective to ambitious ideas. He questions assumptions, exposes trade-offs and tests whether an idea can work responsibly in the real world.', perspective: 'But what are we missing?', technologies: ['innovation'], episodes: [episodeId, 'when-mobility-meets-energy', 'when-stations-become-a-network', 'when-parking-goes-underground'] }
 ].map(character => ({ ...character, portrait: assets[character.id], path: '/minds/' + character.id + '/' }));
 
 // Broad editorial labels, not predictions of deployment dates.
 const domain = (id, name, shortDescription, characters, relatedTechnologies, maturity, horizon) => ({
   id, name, shortDescription, description: shortDescription, image: assets[id],
   characters, relatedTechnologies, maturity, horizon,
-  episodes: ['ai-data', 'quantum-computing'].includes(id) ? [episodeId] : id === 'energy' ? ['when-mobility-meets-energy', 'when-stations-become-a-network'] : id === 'smart-mobility' ? ['when-mobility-meets-energy'] : id === 'smart-cities' ? ['when-stations-become-a-network'] : [],
+  episodes: ['ai-data', 'quantum-computing'].includes(id) ? [episodeId] : id === 'energy' ? ['when-mobility-meets-energy', 'when-stations-become-a-network'] : id === 'smart-mobility' ? ['when-mobility-meets-energy', 'when-parking-goes-underground'] : id === 'smart-cities' ? ['when-stations-become-a-network', 'when-parking-goes-underground'] : [],
   path: '/explore/' + id + '/'
 });
 export const technologies = [
@@ -153,6 +153,49 @@ export const episodes = [{
     "when-mobility-meets-energy"
   ],
   "path": "/episodes/when-stations-become-a-network/"
+}, {
+  "id": "when-parking-goes-underground",
+  "slug": "when-parking-goes-underground",
+  "number": 4,
+  "title": "When Parking Goes Underground",
+  "hook": "What if the best parking space is the one you never see?",
+  "summary": "Surface parking takes up some of the most valuable land in our cities. Episode 004 imagines a glass pavilion on a city square: you drive in, step out, and the whole bay sinks below the street. Underground, a loop of ten self-moving bays keeps charging and brings your car back up, already facing the exit.",
+  "videoProvider": "youtube",
+  "videoId": "1jCs3TcN6uo",
+  "videoUrl": "https://youtu.be/1jCs3TcN6uo",
+  "status": "Published on YouTube",
+  "artwork": "/assets/episodes/when-parking-goes-underground.webp",
+  "artworkAlt": "Illustrative glass parking pavilion with an underground loop of car bays, from IMAGINE Episode 004",
+  "perspectiveLabel": "Editorial perspectives",
+  "characters": [
+    "dali"
+  ],
+  "supportingCharacters": [
+    "ethan"
+  ],
+  "technologies": [
+    "smart-cities",
+    "smart-mobility"
+  ],
+  "classification": {
+    "maturity": "Automated parking operating; loop pavilion is a concept",
+    "horizon": "Today and future possibilities"
+  },
+  "applications": [
+    "Automated and mechanical parking",
+    "License plate recognition",
+    "Charging while parked",
+    "Streets and squares returned to people"
+  ],
+  "currentReality": "Automated and mechanical parking systems already operate in cities today, and license plate recognition is standard at many parking garages.",
+  "futurePossibility": "Could a drive-in, walk-away pavilion with a self-moving underground loop free city squares for trees, walkways and people while cars keep charging below?",
+  "realismNotes": "The self-moving loop pavilion, its charging rail and the space figures shown are an IMAGINE concept, not an existing product. Digging costs, groundwater, fire safety and rescue access are real challenges that would need to be solved.",
+  "whatIfQuestion": "What if the best parking space is the one you never see?",
+  "relatedEpisodes": [
+    "when-stations-become-a-network",
+    "when-mobility-meets-energy"
+  ],
+  "path": "/episodes/when-parking-goes-underground/"
 }];
 export const characterById = Object.fromEntries(characters.map(item => [item.id, item]));
 export const technologyById = Object.fromEntries(technologies.map(item => [item.id, item]));
