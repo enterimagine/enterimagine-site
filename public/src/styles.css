@@ -495,3 +495,14 @@ nav a{white-space:nowrap}
 .mod-card{background:var(--surface);border:1px solid var(--line);padding:18px;display:grid;gap:10px}
 .mod-actions{display:flex;flex-wrap:wrap;gap:10px;margin:0}
 .mod-count{color:var(--muted);font-weight:400;font-size:.8em}
+/* Official social channels (footer, home closing band, Legal page) */
+.social-links{display:flex;flex-wrap:wrap;gap:6px 18px;list-style:none;margin:0;padding:0}
+.social-links a{font-size:.8rem;color:var(--text);text-decoration:none;border-bottom:1px solid transparent}
+.social-links a:hover,.social-links a:focus-visible{color:var(--cyan);border-bottom-color:currentColor}
+.social-links--list{margin-top:12px;gap:10px 24px}
+.social-links--list a{font-size:1rem;color:var(--cyan)}
+.follow-band{margin-top:44px;display:grid;justify-items:center;gap:14px}
+.follow-band .eyebrow{margin:0}
+.social-links--buttons{justify-content:center;gap:12px}
+.social-links--buttons a{display:inline-block;font-size:.95rem;padding:10px 22px;border:1px solid #41606b;border-radius:999px}
+.social-links--buttons a:hover,.social-links--buttons a:focus-visible{border-color:var(--cyan);border-bottom-color:var(--cyan)}
