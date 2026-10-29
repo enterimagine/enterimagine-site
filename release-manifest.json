@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "0a9868c2ce12ca5bf7d922b96720503014618ae4",
-  "publicPolicySha256": "9fdb710d6e21f0b6704f93ac15423eff549b05df23d0108c55f73483baacf3d1",
+  "sourceCommit": "4c36fd46df7be4e00464467b8ac5777b1c3e95cf",
+  "publicPolicySha256": "199b71852846dbfdc062615cfacabfd0c5dbcd9dbad182d711df26c0c4038f9f",
   "nodeVersion": "v24.19.0",
-  "payloadId": "3ca59690a9b66c73fe0f2634df408df9ba43b72b6be0062e62e99ed429072fef",
+  "payloadId": "4f3898953cb73b6266220f0d3db09a39ff2cbc789cee0270d8883910b748d1b5",
   "files": [
     {
       "path": "404.html",
@@ -20,6 +20,56 @@
       "path": "assets/articles/can-you-cool-a-data-center-in-space.webp",
       "size": 21364,
       "sha256": "4266c8a0a3b9a6a7453079807508172087bd13457d4ed56f18311dbddf842720"
+    },
+    {
+      "path": "assets/articles/covers/batteries-in-waiting.webp",
+      "size": 33212,
+      "sha256": "a00064074d2caa9f763aa9b41944398e2d5fc5a447071f75d4890f57d45662a3"
+    },
+    {
+      "path": "assets/articles/covers/can-you-cool-a-data-center-in-space.webp",
+      "size": 54532,
+      "sha256": "394b859c22d16b151e53986bd7fb9634af29ffec534037e9408db26f73c35a22"
+    },
+    {
+      "path": "assets/articles/covers/medicine-for-one.webp",
+      "size": 21856,
+      "sha256": "22a8f3d0bfee9316d7def94421bffd5d8184f27f9f68c49a8b04f09035c542a4"
+    },
+    {
+      "path": "assets/articles/covers/navigating-by-the-rocks-beneath-us.webp",
+      "size": 65546,
+      "sha256": "61bc9f82dffc978ce7d0ab6af480132e5f5426bf21b7e51c8d8be1eeae24e729"
+    },
+    {
+      "path": "assets/articles/covers/the-city-that-parks-itself.webp",
+      "size": 81582,
+      "sha256": "db94a678850897edeb45044cab126f60442dc1eb5aeb47238c9bc5fc3f62915e"
+    },
+    {
+      "path": "assets/articles/covers/the-lab-that-never-sleeps.webp",
+      "size": 48904,
+      "sha256": "b329a852be6ef2862b98a0fa316c70d05ef54201eacb24e143dd1f039cf99651"
+    },
+    {
+      "path": "assets/articles/covers/the-planet-in-the-mirror.webp",
+      "size": 31230,
+      "sha256": "7e09b36e9fb097538b0e96dfb4ff9ceb1c11fa918d4bf2dfd8365d3036319970"
+    },
+    {
+      "path": "assets/articles/covers/the-quantum-computers-secret-partner.webp",
+      "size": 48642,
+      "sha256": "3e66c757e25ebd5f4f4b60b95f51a7ad9a8957e8852fabab551120a1e74814a2"
+    },
+    {
+      "path": "assets/articles/covers/the-robot-in-the-next-aisle.webp",
+      "size": 47146,
+      "sha256": "e56cf6dff7fae611bbb032c3e92a6c7551cd51c32bf3b0c75c2f0fff9fdea6ca"
+    },
+    {
+      "path": "assets/articles/covers/the-server-farm-that-warms-your-living-room.webp",
+      "size": 68878,
+      "sha256": "654a6c468c89b1409398533574e0ec7437efed25add0253715485c50df925081"
     },
     {
       "path": "assets/articles/medicine-for-one.webp",
@@ -173,33 +223,33 @@
     },
     {
       "path": "episodes/when-gpus-meet-quantum-computing/index.html",
-      "size": 20008,
-      "sha256": "741504141a72361935c86ccba463ea96b5c538e9b7764153700caa5cf127b36a"
+      "size": 20174,
+      "sha256": "1c0db1ad874b45829b45af7b568bc7572dde571dfdb44880a0d287b4c7a77f0e"
     },
     {
       "path": "episodes/when-mobility-meets-energy/index.html",
-      "size": 15841,
-      "sha256": "dac727317b7fd2c5985cbe1321608b643092e49a458e63f0ef4d2aaf60f32594"
+      "size": 15991,
+      "sha256": "6007b2d1e5e90ca220e2840d376f0b497fb4eaf4c45a853a50f9e9573275e9b2"
     },
     {
       "path": "episodes/when-stations-become-a-network/index.html",
-      "size": 14802,
-      "sha256": "cf917f6da0de55806a32724cc3083fcf1679325792ffe9d384954a8e7f03b1f9"
+      "size": 14952,
+      "sha256": "ca995ee45c2587dc3b1c12f0ad36910df795a5c64aeb17506c5bbb00e549178f"
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 13735,
-      "sha256": "f2f0fb7238acd16523b9cbdcaf5d9efb4a4317a7d17943a8173343f7ea5f419f"
+      "size": 15001,
+      "sha256": "0cfcfe2386f00c33bed2dd4548091e9968f78324d07beeae334fc257a1517bf9"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 9547,
-      "sha256": "d85a7d9bcb5cce69d7f4d0ee3b29b287bd240fbf4a524f17fdfb813cf4c1959e"
+      "size": 9693,
+      "sha256": "775c347e3d9eae5dfc799a9ba13ce3c3828173e66126720d753da1b2adf0e8ed"
     },
     {
       "path": "explore/energy/index.html",
-      "size": 12914,
-      "sha256": "1f442c8ab1dfb1e52db7cf2d0cc8bf8632ae333e77abb32e70f943bae02b88e1"
+      "size": 13877,
+      "sha256": "55206ae1773572dc94862daa4851f6d455b22f615ba43710433a3de65fdfa6e0"
     },
     {
       "path": "explore/index.html",
@@ -213,28 +263,28 @@
     },
     {
       "path": "explore/quantum-computing/index.html",
-      "size": 15324,
-      "sha256": "415185dc02178011a5a32d686b9d9631a6bf6ce1a1e46e4bf751cbfa9871a495"
+      "size": 15809,
+      "sha256": "916be4f68b98bcd7fed0378f7fdccbab596376b4ed6b5c17eb4e86d8149e77c2"
     },
     {
       "path": "explore/robotics/index.html",
-      "size": 10231,
-      "sha256": "fd61f07c9130b7fca3f81dd36323609f15deeeaf0ddd310788b80aac6411556a"
+      "size": 10699,
+      "sha256": "6b808c557d6759e196cb73084c849aeeb3585974d13a85da58a9b0f20abac822"
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 11472,
-      "sha256": "ac7ed04ecb42f65709facf1804b77883987b3252d0a933fc01f1e61ad951d411"
+      "size": 12105,
+      "sha256": "db3075d9159fac5ed3059df6663c5441060498be4bd04bf29c14042eaad1928e"
     },
     {
       "path": "explore/smart-mobility/index.html",
-      "size": 11021,
-      "sha256": "c82d1af2f7325beb89c8763f42334ba1d4c22319463c09dce9e872190dfe354f"
+      "size": 11491,
+      "sha256": "b432ea08b12b03547b1f7e5f96f3e87d49b58038c90af1b69706806fc848ed11"
     },
     {
       "path": "explore/space/index.html",
-      "size": 10399,
-      "sha256": "246ef7957bf6294680f34088259ec64137889552ecc24ef5073c2ae7d6e7d348"
+      "size": 10882,
+      "sha256": "7de929828a80a024ffa9dbb4ccf70ca65247e1726b724473dcacab10ad6c7cf0"
     },
     {
       "path": "index.html",
@@ -333,8 +383,8 @@
     },
     {
       "path": "src/styles.css",
-      "size": 51647,
-      "sha256": "54563667cfde440795a228676970e59af89b1b8a4ca54a627b4d2efff68e125f"
+      "size": 52639,
+      "sha256": "449fe052a67ad9580348bf87b6fdcd22adb8022109c4d1bddf2fe4524f603d25"
     },
     {
       "path": "src/universe-components.js",
@@ -378,58 +428,58 @@
     },
     {
       "path": "universe/batteries-in-waiting/index.html",
-      "size": 22683,
-      "sha256": "e6936f6dcac8cfc421f03ec82a799c5acf8d63639ebd19fd10f8b68da14820c6"
+      "size": 23029,
+      "sha256": "c2417de5cd87704b6b6f15c89eac437bd3cf0e208a770079d213ed02966f4c19"
     },
     {
       "path": "universe/can-you-cool-a-data-center-in-space/index.html",
-      "size": 17480,
-      "sha256": "ab0f0ebe749a857ad39c59e7174cfd6d4295d256bf6d963eeec2b17ac87f1c1b"
+      "size": 17840,
+      "sha256": "47b955fda2c8f77f18e936589b55b9c43056b1c62dbca4160b962c5c5db61091"
     },
     {
       "path": "universe/index.html",
-      "size": 25412,
-      "sha256": "f950a32097aa6b60de8d4e5d4d826c446a152219c5da4a0ec443f4a190d7d595"
+      "size": 26918,
+      "sha256": "c100e83270629c1051502c9d8bbd1b5046af2b8b4d914cebad3a457f43498285"
     },
     {
       "path": "universe/medicine-for-one/index.html",
-      "size": 17002,
-      "sha256": "2ddd300a8f422deb537c67d07c95ff21ffc109afc1932468b9ab477e54e2e828"
+      "size": 17336,
+      "sha256": "6c100b89840e84b784af2abdd7bf17a333ac59884a1fe7402b0ade5fb87a5639"
     },
     {
       "path": "universe/navigating-by-the-rocks-beneath-us/index.html",
-      "size": 18421,
-      "sha256": "a7c742213a788c8063a64cb00134ae9108ab6da1b1fab08d3474accf13c4418b"
+      "size": 18773,
+      "sha256": "ac19d8254fdac7f8628c4e0e5e6f31f8a9078531b4ae4a6d56d43acda5cdc8d4"
     },
     {
       "path": "universe/the-city-that-parks-itself/index.html",
-      "size": 16386,
-      "sha256": "5832df65b51c080e5c8381653832a36e44c2941c9616865b5dd8e5360ad815b2"
+      "size": 16719,
+      "sha256": "a5a2a55c18c1819a883ced402d9134d81e8d9e73e367a270b65fd7ff9f562c70"
     },
     {
       "path": "universe/the-lab-that-never-sleeps/index.html",
-      "size": 20425,
-      "sha256": "24bfa0c51eeed240bf2ac6eb36ecc17ea746954faf973e04867062d4be2ebc93"
+      "size": 20773,
+      "sha256": "2aa2693f1b28a62ea5d92a68f6b8d3b9d955d057c0e8169c9b57d18fad3e7d0a"
     },
     {
       "path": "universe/the-planet-in-the-mirror/index.html",
-      "size": 17971,
-      "sha256": "4837b21dc8b4479997d0aed25e50c2531ba5ac460e262b81c24632f5c9ae908e"
+      "size": 18304,
+      "sha256": "8b89fa15feb6fa42c935d2c34e45b79543bf56ba88b3ea5593f9722895bdc7b0"
     },
     {
       "path": "universe/the-quantum-computers-secret-partner/index.html",
-      "size": 20568,
-      "sha256": "efcd346f3afd411d3fe342b74b9d21ed220f94c0ed98196016937bd924f055b4"
+      "size": 20933,
+      "sha256": "94b7bb8d5577d7c4c7600fa287e0492f87d43441bbd1d9c531409be6e6a02915"
     },
     {
       "path": "universe/the-robot-in-the-next-aisle/index.html",
-      "size": 17604,
-      "sha256": "008b42d3556c0be7c2e1e78f957105bf9145f53160affb55c3b85208c70b27b2"
+      "size": 17953,
+      "sha256": "4e12e2294690bca524f5f09e680bfc80b8c559d707bfc871026d51cf989e36a5"
     },
     {
       "path": "universe/the-server-farm-that-warms-your-living-room/index.html",
-      "size": 16269,
-      "sha256": "2189cbf30c25ff5e3dd25fa8d8c35c714079179c091d28479c5078758799632b"
+      "size": 16633,
+      "sha256": "c1b8c8b8e0f4bd67ebc933565ae8313e29b7106f7e3aef995c4e8ecf4203767b"
     },
     {
       "path": "what-if/index.html",
@@ -540,7 +590,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "9fdb710d6e21f0b6704f93ac15423eff549b05df23d0108c55f73483baacf3d1"
+      "sha256": "199b71852846dbfdc062615cfacabfd0c5dbcd9dbad182d711df26c0c4038f9f"
     },
     {
       "path": "tools/recovery-kit.mjs",
