@@ -3,9 +3,10 @@
 // timestamps and a hash of the removal code. No email, no account, no IP address.
 import { createHash, createHmac, randomBytes, timingSafeEqual } from 'node:crypto';
 import { odataString } from './table.js';
+import { MINDS, REPLY_MAX } from './agent.js';
 
 export const THEMES = Object.freeze(['ai-data', 'quantum-computing', 'energy', 'smart-mobility', 'smart-cities', 'biotech', 'robotics', 'space', 'innovation']);
-export const LIMITS = Object.freeze({ textMin: 15, textMax: 300, nameMax: 40, perDay: 5, minSeconds: 3, pendingDays: 90, maxBody: 4096 });
+export const LIMITS = Object.freeze({ textMin: 15, textMax: 300, nameMax: 40, perDay: 5, minSeconds: 3, pendingDays: 90, maxBody: 4096, draftsPerDay: 50, alertMinutes: 60 });
 const IDEAS = 'ideas', RATE = 'ratelimit', PK = 'idea';
 
 const sha256 = s => createHash('sha256').update(s).digest('hex');
@@ -33,8 +34,28 @@ export function validateSubmission(input, now = Date.now()) {
   return { value: { text, name, themes } };
 }
 
-const publicIdea = e => ({ id: e.RowKey, text: e.text, name: e.name || '', themes: String(e.themes || '').split(',').filter(Boolean), approvedAt: e.approvedAt });
-const moderatorView = e => ({ ...publicIdea(e), status: e.status, createdAt: e.createdAt });
+const themesOf = e => String(e.themes || '').split(',').filter(Boolean);
+const publicIdea = e => ({ id: e.RowKey, text: e.text, name: e.name || '', themes: themesOf(e), approvedAt: e.approvedAt,
+  ...(e.replyText && MINDS[e.replyMind] ? { reply: { mind: e.replyMind, text: e.replyText } } : {}) });
+const moderatorView = e => ({ ...publicIdea(e), status: e.status, createdAt: e.createdAt,
+  ...(e.draftedAt ? { draft: { recommendation: e.draftRecommendation, reason: e.draftReason, mind: e.draftMind, reply: e.draftReply || '', at: e.draftedAt } } : {}) });
+
+// A moderator-written or edited reply: plain text, no links, signed by one of the five founding minds.
+export function validateReply(input) {
+  if (input == null || input === '') return { value: null };
+  const mind = String(input.mind || ''), text = clean(input.text);
+  if (!text) return { value: null };
+  if (!MINDS[mind]) return { error: 'Choose which founding mind signs the reply.' };
+  if (text.length > REPLY_MAX) return { error: `Please keep the reply under ${REPLY_MAX} characters.` };
+  if (LINKISH.test(text)) return { error: 'Please leave links out of the reply.' };
+  return { value: { mind, text } };
+}
+const withReply = (row, reply) => {
+  const next = { ...row };
+  if (reply) Object.assign(next, { replyMind: reply.mind, replyText: reply.text, replyAt: new Date().toISOString() });
+  else { delete next.replyMind; delete next.replyText; delete next.replyAt; }
+  return next;
+};
 
 export function isModerator(request) {
   try {
@@ -51,13 +72,23 @@ async function readJson(request) {
   try { return JSON.parse(text); } catch { return null; }
 }
 
-export function createHandlers(store, { secret, now = () => Date.now() }) {
+export function createHandlers(store, { secret, now = () => Date.now(), drafter = null, notifier = null }) {
   if (!secret) throw new Error('Missing rate-limit secret.');
   const clientKey = request => {
     const ip = (request.headers.get('x-azure-clientip') || request.headers.get('x-forwarded-for') || 'unknown').split(',')[0].trim().replace(/:\d+$/, '');
     const day = new Date(now()).toISOString().slice(0, 10).replace(/-/g, '');
     return { day, key: createHmac('sha256', secret).update(day + '|' + ip).digest('hex').slice(0, 32) };
   };
+
+  const pendingCount = async () => (await store.query(IDEAS, `PartitionKey eq ${odataString(PK)} and status eq 'pending'`, 1000)).filter(r => r.status === 'pending').length;
+  // At most one push alert per hour; the alert carries only the number of waiting ideas.
+  async function alertModerator(day) {
+    const last = await store.get(RATE, day, 'alert-last');
+    if (last && now() - Number(last.at) < LIMITS.alertMinutes * 60000) return;
+    await store.upsert(RATE, { PartitionKey: day, RowKey: 'alert-last', at: now() });
+    await notifier(await pendingCount());
+  }
+  const today = () => new Date(now()).toISOString().slice(0, 10).replace(/-/g, '');
 
   return {
     async submit(request) {
@@ -74,6 +105,7 @@ export function createHandlers(store, { secret, now = () => Date.now() }) {
       const code = removalCode(), rowId = id(), ts = new Date(now()).toISOString();
       await store.insert(IDEAS, { PartitionKey: PK, RowKey: rowId, status: 'pending', text: checked.value.text, name: checked.value.name,
         themes: checked.value.themes.join(','), consentAt: ts, createdAt: ts, codeHash: sha256(code) });
+      if (notifier) await alertModerator(day).catch(() => {});
       return json(201, { ok: true, id: rowId, removalCode: code });
     },
 
@@ -103,18 +135,40 @@ export function createHandlers(store, { secret, now = () => Date.now() }) {
         else kept.push(r);
       }
       kept.sort((a, b) => (a.status === b.status ? String(b.createdAt).localeCompare(String(a.createdAt)) : a.status === 'pending' ? -1 : 1));
-      return json(200, { ideas: kept.map(moderatorView) });
+      const used = drafter ? Number((await store.get(RATE, today(), 'agent-drafts'))?.count || 0) : 0;
+      return json(200, { ideas: kept.map(moderatorView), agent: { enabled: !!drafter, draftsLeft: drafter ? Math.max(0, LIMITS.draftsPerDay - used) : 0 } });
+    },
+
+    async draft(request) {
+      if (!isModerator(request)) return err(403, 'Moderator access required.');
+      if (!drafter) return err(409, 'The review agent is not switched on.');
+      const body = await readJson(request);
+      const rowId = String(body?.id || '');
+      if (!/^[a-z0-9]{8,40}$/.test(rowId)) return err(400, 'Unknown idea.');
+      const row = await store.get(IDEAS, PK, rowId);
+      if (!row) return err(404, 'This idea no longer exists.');
+      const day = today(), used = await store.get(RATE, day, 'agent-drafts'), count = Number(used?.count || 0);
+      if (count >= LIMITS.draftsPerDay) return err(429, `Daily limit of ${LIMITS.draftsPerDay} drafts reached. Drafting resumes tomorrow.`);
+      await store.upsert(RATE, { PartitionKey: day, RowKey: 'agent-drafts', count: count + 1 });
+      const d = await drafter({ text: row.text, name: row.name || '', themes: themesOf(row) });
+      await store.upsert(IDEAS, { ...row, draftRecommendation: d.recommendation, draftReason: d.reason, draftMind: d.mind, draftReply: d.reply, draftedAt: new Date(now()).toISOString() });
+      return json(200, { draft: { ...d, at: new Date(now()).toISOString() }, draftsLeft: LIMITS.draftsPerDay - count - 1 });
     },
 
     async decide(request) {
       if (!isModerator(request)) return err(403, 'Moderator access required.');
       const body = await readJson(request);
       const rowId = String(body?.id || ''), action = String(body?.action || '');
-      if (!/^[a-z0-9]{8,40}$/.test(rowId) || !['approve', 'reject', 'remove'].includes(action)) return err(400, 'Unknown idea or action.');
+      if (!/^[a-z0-9]{8,40}$/.test(rowId) || !['approve', 'reject', 'remove', 'reply'].includes(action)) return err(400, 'Unknown idea or action.');
+      const reply = validateReply(body?.reply);
+      if (reply.error) return err(400, reply.error);
       const row = await store.get(IDEAS, PK, rowId);
       if (!row) return err(404, 'This idea no longer exists.');
       if (action === 'approve') {
-        await store.upsert(IDEAS, { ...row, status: 'approved', approvedAt: new Date(now()).toISOString() });
+        await store.upsert(IDEAS, withReply({ ...row, status: 'approved', approvedAt: new Date(now()).toISOString() }, reply.value));
+      } else if (action === 'reply') {
+        if (row.status !== 'approved') return err(409, 'Approve the idea first.');
+        await store.upsert(IDEAS, withReply(row, reply.value));
       } else {
         await store.remove(IDEAS, PK, rowId); // rejected and removed ideas are deleted, not archived
       }

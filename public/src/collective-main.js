@@ -53,19 +53,35 @@ export function placeIdea(idea, themes, index, founders = []) {
   return first;
 }
 
+const founderOf = (cfg, id) => (cfg.founders || []).find(f => f && f.id === id);
+const replyHtml = (i, cfg) => {
+  const f = i.reply && founderOf(cfg, i.reply.mind);
+  if (!f) return '';
+  return `<div class="cm-idea-reply">${f.portrait ? `<img src="${esc(f.portrait)}" alt="" width="40" height="50" loading="lazy" decoding="async">` : ''}<div><p class="cm-reply-by">Reply from <a href="${esc(f.path)}">${esc(f.name)}</a> · ${esc(f.role)}</p><p class="cm-reply-text">${esc(i.reply.text)}</p></div></div>`;
+};
+
 function renderIdeas(ideas, cfg, root) {
   const list = root.querySelector('[data-idea-list]');
   const byId = Object.fromEntries(cfg.themes.map(t => [t.id, t]));
   if (list) list.innerHTML = ideas.length
-    ? ideas.map(i => `<article class="cm-idea-card" id="${esc(cardId(i))}" tabindex="-1"><p class="cm-idea-text">${esc(i.text)}</p><p class="cm-idea-meta"><span>${esc(i.name || 'A Collective Mind')}</span>${i.approvedAt ? `<span>${esc(monthYear(i.approvedAt))}</span>` : ''}</p><p class="cm-idea-themes">${i.themes.filter(t => byId[t]).map(t => `<a href="${esc(byId[t].path)}">${esc(byId[t].name)}</a>`).join('')}</p></article>`).join('')
+    ? ideas.map(i => `<article class="cm-idea-card" id="${esc(cardId(i))}" tabindex="-1"><p class="cm-idea-text">${esc(i.text)}</p><p class="cm-idea-meta"><span>${esc(i.name || 'A Collective Mind')}</span>${i.approvedAt ? `<span>${esc(monthYear(i.approvedAt))}</span>` : ''}</p><p class="cm-idea-themes">${i.themes.filter(t => byId[t]).map(t => `<a href="${esc(byId[t].path)}">${esc(byId[t].name)}</a>`).join('')}</p>${replyHtml(i, cfg)}</article>`).join('')
     : '<p class="cm-help">No ideas have been published yet. Yours could be the first.</p>';
+  const joined = root.querySelector('[data-minds-joined]');
+  if (joined && ideas.length) { joined.textContent = '+ ' + ideas.length + (ideas.length === 1 ? ' new mind has joined.' : ' new minds have joined.'); joined.hidden = false; }
   const layer = root.querySelector('[data-idea-layer]');
   if (!layer) return;
   layer.replaceChildren();
+  const positions = (cfg.founders || []).map(f => (Array.isArray(f) ? f : f.position));
+  const edge = (cls, x1, y1, x2, y2) => { const l = document.createElementNS(SVG, 'line'); Object.entries({ class: cls, x1, y1, x2, y2 }).forEach(([k, v]) => l.setAttribute(k, v)); return l; };
+  const links = document.createElementNS(SVG, 'g'); links.setAttribute('class', 'cm-idea-links');
+  layer.append(links);
   ideas.slice(0, cfg.maxNodes).forEach((idea, i) => {
-    const [x, y, ex, ey] = placeIdea(idea, cfg.themes, i, cfg.founders || []);
-    const line = document.createElementNS(SVG, 'line');
-    Object.entries({ class: 'cm-idea-edge', x1: ex, y1: ey, x2: x, y2: y }).forEach(([k, v]) => line.setAttribute(k, v));
+    const [x, y, ex, ey] = placeIdea(idea, cfg.themes, i, positions);
+    const line = edge('cm-idea-edge', ex, ey, x, y);
+    // Every new mind connects to each theme it touches; the theme pills are drawn on top, so lines end at their rim.
+    idea.themes.slice(1).map(t => byId[t]).filter(Boolean).forEach(t => links.append(edge('cm-idea-edge cm-idea-edge--extra', x, y, t.position[0], t.position[1])));
+    const f = idea.reply && founderOf(cfg, idea.reply.mind);
+    if (f && f.position) links.append(edge('cm-idea-reply-edge', x, y, f.position[0], f.position[1]));
     // The network graphic is decorative for assistive technology; the linked card list below carries the content.
     const link = document.createElementNS(SVG, 'a');
     link.setAttribute('href', '#' + cardId(idea)); link.setAttribute('tabindex', '-1'); link.setAttribute('class', 'cm-idea-link');
@@ -78,9 +94,16 @@ function renderIdeas(ideas, cfg, root) {
   const mlayer = root.querySelector('[data-mobile-idea-layer]');
   if (mlayer) {
     mlayer.replaceChildren();
+    const msvg = root.querySelector('.cm-mobile-lines');
+    msvg?.querySelectorAll('.cm-mobile-idea-edge').forEach(n => n.remove());
+    const mline = (cls, x1, y1, x2, y2) => { const l = document.createElementNS(SVG, 'line'); Object.entries({ class: 'cm-mobile-idea-edge ' + cls, x1, y1, x2, y2, 'vector-effect': 'non-scaling-stroke' }).forEach(([k, v]) => l.setAttribute(k, v)); msvg?.append(l); };
     const free = MOBILE_SLOTS.slice();
     ideas.slice(0, MOBILE_SLOTS.length).forEach(idea => {
       const [x, y] = free.splice(hash(idea.id) % free.length, 1)[0];
+      // Each new mind links into the shared centre, and to the founding mind who replied.
+      mline('cm-idea-edge', x, y, 50, 52.3);
+      const f = idea.reply && founderOf(cfg, idea.reply.mind);
+      if (f && f.mobilePosition) mline('cm-idea-reply-edge', x, y, f.mobilePosition[0], f.mobilePosition[1]);
       const a = document.createElement('a');
       a.className = 'cm-mobile-idea'; a.href = '#' + cardId(idea); a.tabIndex = -1;
       a.title = (idea.name || 'A Collective Mind') + ': ' + idea.text;
