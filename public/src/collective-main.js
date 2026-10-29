@@ -21,6 +21,14 @@ const inside = ([x, y], [cx, cy], [hw, hh], pad) => Math.abs(x - cx) < hw + pad 
 
 // Place a reviewed idea as a dot just outside its first theme's pill, on the side facing away from the
 // centre, never under a pill, a founder card or the centre label. Deterministic per idea id.
+// Mobile constellation (percent of its box): founders sit on a ring around (50, 52.3) at about
+// -147, -90, -33, 46 and 134 degrees; idea slots use the free arcs between them on two rings.
+const MOBILE_ANGLES = [0, 15, 75, 90, 105, 165, 180, 195, 240, 300];
+export const MOBILE_SLOTS = [40, 46].flatMap(r => MOBILE_ANGLES.map(deg => {
+  const t = deg * Math.PI / 180;
+  return [Math.round((50 + r * Math.cos(t)) * 10) / 10, Math.round((52.3 + r * Math.sin(t)) * 10) / 10];
+})).filter(([x, y]) => x >= 3 && x <= 97 && y >= 3 && y <= 97);
+
 export function placeIdea(idea, themes, index, founders = []) {
   const theme = themes.find(t => t.id === idea.themes[0]) || themes[0];
   const [tx, ty] = theme.position, h = hash(idea.id);
@@ -66,6 +74,22 @@ function renderIdeas(ideas, cfg, root) {
     const title = document.createElementNS(SVG, 'title'); title.textContent = (idea.name || 'A Collective Mind') + ': ' + idea.text + ' (click to read)';
     link.append(title, dot); layer.append(line, link);
   });
+  // Mobile view: dots on the outer ring, in the arcs between the five founding minds.
+  const mlayer = root.querySelector('[data-mobile-idea-layer]');
+  if (mlayer) {
+    mlayer.replaceChildren();
+    const free = MOBILE_SLOTS.slice();
+    ideas.slice(0, MOBILE_SLOTS.length).forEach(idea => {
+      const [x, y] = free.splice(hash(idea.id) % free.length, 1)[0];
+      const a = document.createElement('a');
+      a.className = 'cm-mobile-idea'; a.href = '#' + cardId(idea); a.tabIndex = -1;
+      a.title = (idea.name || 'A Collective Mind') + ': ' + idea.text;
+      a.style.left = x + '%'; a.style.top = y + '%';
+      mlayer.append(a);
+    });
+    const note = root.querySelector('[data-mobile-idea-note]');
+    if (note) note.hidden = !ideas.length;
+  }
   const count = root.querySelector('[data-idea-count-link]');
   if (count && ideas.length) {
     count.textContent = `Read ${ideas.length === 1 ? 'the 1 visitor idea' : `the ${ideas.length} visitor ideas`} ↓`;

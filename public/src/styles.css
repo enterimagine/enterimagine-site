@@ -506,3 +506,11 @@ nav a{white-space:nowrap}
 .social-links--buttons{justify-content:center;gap:12px}
 .social-links--buttons a{display:inline-block;font-size:.95rem;padding:10px 22px;border:1px solid #41606b;border-radius:999px}
 .social-links--buttons a:hover,.social-links--buttons a:focus-visible{border-color:var(--cyan);border-bottom-color:var(--cyan)}
+.cm-mobile-idea-layer{position:absolute;inset:0;pointer-events:none}
+.cm-mobile-idea{position:absolute;width:14px;height:14px;border-radius:50%;background:var(--warm);border:2px solid #f7dcb5;transform:translate(-50%,-50%);pointer-events:auto;box-shadow:0 0 10px #efc48b80}
+.cm-mobile-idea-note{color:var(--cm-grey);font-size:.85rem;text-align:center;margin:0 0 10px}
+.cm-mobile-idea-note[hidden]{display:none}
+.su-card[hidden]{display:none}
+.social-links a{display:inline-flex;align-items:center;gap:8px}
+.social-icon{height:28px;width:auto;flex:none}
+.social-links--buttons a{padding:8px 20px 8px 14px}
