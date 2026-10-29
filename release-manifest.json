@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "e5f7ce8a37706e187a2415e613602537767b295f",
+  "sourceCommit": "042adbce862187101bfb60a2efab2a5d93e50848",
   "publicPolicySha256": "9c291cfb477ed730ff74ffeaaad935ef636a8e656dc9ec539db2d576386f44f4",
   "nodeVersion": "v24.19.0",
-  "payloadId": "7dc150f95802f76f31f7b53fcb7f99121d4907ca68a6394ecb9fd5453903df1f",
+  "payloadId": "da87cb5fd2fae7f09df0ef32a7a93e5e700ce303e5976d39ea76168f3be600e7",
   "files": [
     {
       "path": "404.html",
@@ -148,8 +148,8 @@
     },
     {
       "path": "collective-minds/index.html",
-      "size": 26558,
-      "sha256": "03d289a872a0d879bb684dcd6ed238861f7deeeed54f55ffea402fffcf6a0a3b"
+      "size": 26749,
+      "sha256": "ff7026c6a1e584317c60e53c30ffd023685a06222273ce3a5fe06f66da29caa8"
     },
     {
       "path": "episodes/index.html",
@@ -278,8 +278,8 @@
     },
     {
       "path": "src/collective-main.js",
-      "size": 6554,
-      "sha256": "c83b81e503520e6a514994ea38a326c87b52871ba3002ba4a9bfea9bd40f4c1d"
+      "size": 8610,
+      "sha256": "e5f16ccffd95eabc6010163edb2bc5026563c5cddf2a8436da4f67382de93dd2"
     },
     {
       "path": "src/components.js",
@@ -318,8 +318,8 @@
     },
     {
       "path": "src/styles.css",
-      "size": 49767,
-      "sha256": "8bd23cf36dfbc0fd9345fcce68d8798bf9271d83b114254f48b95ca55d376756"
+      "size": 50145,
+      "sha256": "054c9e1eb7069aca3d9fa8bc39add3c21d76408b1a460e463367d9e1990f8349"
     },
     {
       "path": "src/universe-components.js",

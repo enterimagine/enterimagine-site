@@ -5,7 +5,8 @@ import './page-main.js';
 const SVG = 'http://www.w3.org/2000/svg';
 const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 const hash = s => [...s].reduce((h, c) => (h * 31 + c.charCodeAt(0)) >>> 0, 7);
-const monthYear = iso => { const d = new Date(iso); return isNaN(d) ? '' : d.toLocaleDateString('en-GB', { month: 'long', year: 'numeric' }); };
+const cardId = idea => 'cm-idea-' + String(idea.id).replace(/[^A-Za-z0-9_-]/g, '');
+const monthYear =iso => { const d = new Date(iso); return isNaN(d) ? '' : d.toLocaleDateString('en-GB', { month: 'long', year: 'numeric' }); };
 
 async function api(path, options = {}) {
   const res = await fetch('/api/' + path, { headers: { 'Content-Type': 'application/json' }, ...options });
@@ -14,31 +15,62 @@ async function api(path, options = {}) {
   return { ok: res.ok, status: res.status, body };
 }
 
-export function placeIdea(idea, themes, index) {
+// Geometry of the desktop network (viewBox 1100 x 760): theme pills are 210 x 44, founder cards 118 x 144.
+const CENTRE = [550, 340], PILL = [105, 22], CARD = [59, 72], GAP = 12;
+const inside = ([x, y], [cx, cy], [hw, hh], pad) => Math.abs(x - cx) < hw + pad && Math.abs(y - cy) < hh + pad;
+
+// Place a reviewed idea as a dot just outside its first theme's pill, on the side facing away from the
+// centre, never under a pill, a founder card or the centre label. Deterministic per idea id.
+export function placeIdea(idea, themes, index, founders = []) {
   const theme = themes.find(t => t.id === idea.themes[0]) || themes[0];
   const [tx, ty] = theme.position, h = hash(idea.id);
-  const angle = (h % 360) * Math.PI / 180, r = 62 + (h >> 9) % 46 + (index % 3) * 6;
-  return [Math.max(18, Math.min(1082, tx + r * Math.cos(angle))), Math.max(18, Math.min(742, ty + r * Math.sin(angle) * 0.8)), tx, ty];
+  const outward = Math.atan2(ty - CENTRE[1], tx - CENTRE[0]);
+  const blocked = p => p[0] < 14 || p[0] > 1086 || p[1] < 14 || p[1] > 746
+    || themes.some(t => inside(p, t.position, PILL, GAP))
+    || founders.some(f => inside(p, f, CARD, GAP))
+    || inside(p, CENTRE, [60, 20], GAP);
+  const spread = ((h % 101) / 100 - 0.5) * 1.6;        // about +-46 degrees around the outward direction
+  const extra = 8 + (h >>> 9) % 26 + (index % 3) * 9;
+  let first;
+  for (let k = 0; k < 24; k++) {
+    // Try the preferred angle first, then alternate further around the pill.
+    const a = outward + spread + (k % 2 ? 1 : -1) * Math.ceil(k / 2) * 0.26;
+    const c = Math.cos(a), s = Math.sin(a);
+    const along = ([hw, hh]) => Math.min(hw / Math.max(Math.abs(c), 1e-6), hh / Math.max(Math.abs(s), 1e-6));
+    const out = along([PILL[0] + GAP, PILL[1] + GAP]) + extra, rim = along(PILL);
+    const p = [tx + out * c, ty + out * s], edge = [tx + rim * c, ty + rim * s];
+    first ||= [...p, ...edge];
+    if (!blocked(p)) return [...p, ...edge];
+  }
+  return first;
 }
 
 function renderIdeas(ideas, cfg, root) {
   const list = root.querySelector('[data-idea-list]');
   const byId = Object.fromEntries(cfg.themes.map(t => [t.id, t]));
   if (list) list.innerHTML = ideas.length
-    ? ideas.map(i => `<article class="cm-idea-card"><p class="cm-idea-text">${esc(i.text)}</p><p class="cm-idea-meta"><span>${esc(i.name || 'A Collective Mind')}</span>${i.approvedAt ? `<span>${esc(monthYear(i.approvedAt))}</span>` : ''}</p><p class="cm-idea-themes">${i.themes.filter(t => byId[t]).map(t => `<a href="${esc(byId[t].path)}">${esc(byId[t].name)}</a>`).join('')}</p></article>`).join('')
+    ? ideas.map(i => `<article class="cm-idea-card" id="${esc(cardId(i))}" tabindex="-1"><p class="cm-idea-text">${esc(i.text)}</p><p class="cm-idea-meta"><span>${esc(i.name || 'A Collective Mind')}</span>${i.approvedAt ? `<span>${esc(monthYear(i.approvedAt))}</span>` : ''}</p><p class="cm-idea-themes">${i.themes.filter(t => byId[t]).map(t => `<a href="${esc(byId[t].path)}">${esc(byId[t].name)}</a>`).join('')}</p></article>`).join('')
     : '<p class="cm-help">No ideas have been published yet. Yours could be the first.</p>';
   const layer = root.querySelector('[data-idea-layer]');
   if (!layer) return;
   layer.replaceChildren();
   ideas.slice(0, cfg.maxNodes).forEach((idea, i) => {
-    const [x, y, tx, ty] = placeIdea(idea, cfg.themes, i);
+    const [x, y, ex, ey] = placeIdea(idea, cfg.themes, i, cfg.founders || []);
     const line = document.createElementNS(SVG, 'line');
-    Object.entries({ class: 'cm-idea-edge', x1: tx, y1: ty, x2: x, y2: y }).forEach(([k, v]) => line.setAttribute(k, v));
+    Object.entries({ class: 'cm-idea-edge', x1: ex, y1: ey, x2: x, y2: y }).forEach(([k, v]) => line.setAttribute(k, v));
+    // The network graphic is decorative for assistive technology; the linked card list below carries the content.
+    const link = document.createElementNS(SVG, 'a');
+    link.setAttribute('href', '#' + cardId(idea)); link.setAttribute('tabindex', '-1'); link.setAttribute('class', 'cm-idea-link');
     const dot = document.createElementNS(SVG, 'circle');
-    Object.entries({ class: 'cm-idea-dot', cx: x, cy: y, r: 6 }).forEach(([k, v]) => dot.setAttribute(k, v));
-    const title = document.createElementNS(SVG, 'title'); title.textContent = (idea.name || 'A Collective Mind') + ': ' + idea.text;
-    dot.append(title); layer.append(line, dot);
+    Object.entries({ class: 'cm-idea-dot', cx: x, cy: y, r: 7 }).forEach(([k, v]) => dot.setAttribute(k, v));
+    const title = document.createElementNS(SVG, 'title'); title.textContent = (idea.name || 'A Collective Mind') + ': ' + idea.text + ' (click to read)';
+    link.append(title, dot); layer.append(line, link);
   });
+  const count = root.querySelector('[data-idea-count-link]');
+  if (count && ideas.length) {
+    count.textContent = `Read ${ideas.length === 1 ? 'the 1 visitor idea' : `the ${ideas.length} visitor ideas`} ↓`;
+    count.hidden = false;
+  }
 }
 
 export function initializeIdeaWall(root = document) {

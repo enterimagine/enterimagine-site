@@ -445,7 +445,14 @@ nav a{white-space:nowrap}
 /* Collective Minds idea wall */
 .cm-key-idea{background:var(--warm);border:1px solid #f7dcb5;border-radius:50%}
 .cm-idea-edge{stroke:var(--warm);stroke-width:1;opacity:.45}
-.cm-idea-dot{fill:var(--warm);stroke:#f7dcb5;stroke-width:2;cursor:help}
+.cm-idea-dot{fill:var(--warm);stroke:#f7dcb5;stroke-width:2;cursor:pointer;transition:r .15s ease}
+.cm-idea-link:hover .cm-idea-dot{r:10}
+.cm-network-links{display:flex;flex-wrap:wrap;gap:12px 28px;margin:0}
+.cm-network-links [hidden]{display:none}
+.cm-idea-card{scroll-margin-top:110px}
+.cm-idea-card:target{outline:2px solid var(--warm);outline-offset:4px}
+.cm-idea-card:focus{outline:none}
+.cm-idea-card:target:focus{outline:2px solid var(--warm)}
 .cm-idea-form,.cm-idea-done{display:grid;gap:22px;max-width:720px;margin-top:28px}
 .cm-idea-form[hidden],.cm-idea-done[hidden]{display:none}
 .cm-field{display:grid;gap:8px;border:0;padding:0;margin:0;min-width:0}
