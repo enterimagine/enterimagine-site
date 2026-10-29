@@ -545,3 +545,4 @@ nav a{white-space:nowrap}
 .mod-reply [data-reply-count]{grid-column:1/-1;margin:0}
 .article-meta [data-mod-agent]:empty{display:none}
 .cm-mobile-idea-edge.cm-idea-edge{opacity:.35;stroke-dasharray:2 4}
+.site-footer .social-links{display:grid;grid-template-columns:repeat(2,max-content);gap:8px 22px}

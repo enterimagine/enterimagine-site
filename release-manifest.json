@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "c2a6725dede6aeabd96f84106ebb229fe794fa3d",
-  "publicPolicySha256": "db3d0829272eea2eb73693da91c9575d5534bce82b8dc44f8dd5ba746ddc528f",
+  "sourceCommit": "49cbd6bab97085c30034a580681e5173aaf9a8d3",
+  "publicPolicySha256": "1f7ca7a40cd10397e5d7bc9973e51f3d4d1520b5d84dcaafe04181616bab996b",
   "nodeVersion": "v24.19.0",
-  "payloadId": "4522dc7d323be06a984e73cb47922c2ddb37c9118336f12b4b9d06a9820aaff3",
+  "payloadId": "306fa80d1c6da622003632154554d6750fac3893a80ce21543eab44714495177",
   "files": [
     {
       "path": "404.html",
-      "size": 3164,
-      "sha256": "9398d42c04b3ba8d14b9b2ce1aba20722159e7f214886048f7da90af9cacd04a"
+      "size": 3422,
+      "sha256": "68d0cbf23ba8ad6ecc078bfe3104826f83873473687cc324663ed0dd66c4789c"
     },
     {
       "path": "assets/articles/batteries-in-waiting.webp",
@@ -162,6 +162,11 @@
       "sha256": "1216e11898e54f4a445c9f97dd635a195f000664e99fa6134dcd82d405b79bae"
     },
     {
+      "path": "assets/social/tiktok.webp",
+      "size": 1736,
+      "sha256": "2d10e1acb84af307fdb29b649fde4d82912df1e02eee4599c923f129c89488e7"
+    },
+    {
       "path": "assets/social/x.webp",
       "size": 642,
       "sha256": "3cd43d0857d0333a2a40378cc8b51c2e45c6375925a08b506e3c5e81acaf9e14"
@@ -218,133 +223,133 @@
     },
     {
       "path": "collective-minds/index.html",
-      "size": 28957,
-      "sha256": "93c3a30ab59e5c54a02b7fa23550a7355327ec1162b0b5af5bc30543748d6beb"
+      "size": 29215,
+      "sha256": "ddeb7b645590360b853f5ecb7244422cbcd579af244afe673a20fc011a7c4ef6"
     },
     {
       "path": "episodes/index.html",
-      "size": 9350,
-      "sha256": "a198248af6cb1512abe4f7897eab4bf4e8222e38bfb0c9201052a98bf0775a0b"
+      "size": 9608,
+      "sha256": "858f5fbeedf60332bbc4dc9503dcf51ba9615c71be456f64fe64f3319b6c09f8"
     },
     {
       "path": "episodes/when-gpus-meet-quantum-computing/index.html",
-      "size": 20174,
-      "sha256": "1c0db1ad874b45829b45af7b568bc7572dde571dfdb44880a0d287b4c7a77f0e"
+      "size": 20432,
+      "sha256": "fdd67e00c0f0fac34f10f89f1cc0aa4a243a56e7e4c5458b0e7c1fea615eff35"
     },
     {
       "path": "episodes/when-mobility-meets-energy/index.html",
-      "size": 15991,
-      "sha256": "6007b2d1e5e90ca220e2840d376f0b497fb4eaf4c45a853a50f9e9573275e9b2"
+      "size": 16249,
+      "sha256": "b3d98e2654177623446a81c57efcf809ba8798c80386c9bc3d9dda8f20c20879"
     },
     {
       "path": "episodes/when-parking-goes-underground/index.html",
-      "size": 15159,
-      "sha256": "36a685bf42104f3ce416fcd5b32074cf7ecffa46185d4abfdd2b1dfca578584b"
+      "size": 15417,
+      "sha256": "a371e9442c66e1e1cd750cae25db9011282f241e5aa822626d9e5f09471cc3ef"
     },
     {
       "path": "episodes/when-stations-become-a-network/index.html",
-      "size": 15128,
-      "sha256": "acae4973d0f3d4d0db0ecfe76fe24abf43331c4991057502e0be71f1093674ee"
+      "size": 15386,
+      "sha256": "a8ac2c210601a19bc6e0e9166d16acde5bf10d8006beb15f47042fc34b380bec"
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 15001,
-      "sha256": "0cfcfe2386f00c33bed2dd4548091e9968f78324d07beeae334fc257a1517bf9"
+      "size": 15259,
+      "sha256": "deebb89d3a09e821afe0483764db8ce3f4c605edec61888f841c5eda8402036a"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 9693,
-      "sha256": "775c347e3d9eae5dfc799a9ba13ce3c3828173e66126720d753da1b2adf0e8ed"
+      "size": 9951,
+      "sha256": "b6a901205e8d11b13cc58ce70ed1d89e227fee70712299dfa169b9e688b26d39"
     },
     {
       "path": "explore/energy/index.html",
-      "size": 13877,
-      "sha256": "55206ae1773572dc94862daa4851f6d455b22f615ba43710433a3de65fdfa6e0"
+      "size": 14135,
+      "sha256": "9f5ffe160015ae0faee066f58ce8725ee479ae3d29d95b33bb9567ea164fa65d"
     },
     {
       "path": "explore/index.html",
-      "size": 14978,
-      "sha256": "ae273a0bd77889daa124516e31d0087740689a88b2ff51dc8147c2c5b3e6f09d"
+      "size": 15236,
+      "sha256": "b46cd92af0e9b9e562b26507467caeb1159490cf786a132c3111d302ad058dcb"
     },
     {
       "path": "explore/innovation/index.html",
-      "size": 9075,
-      "sha256": "1ff760558ccc845a00c958ecccec2fba7a7857cdc9385c503dc3699b6a9c62e7"
+      "size": 9333,
+      "sha256": "0dda6dcd59b54997205350db74131741d1b7c46673b1524262532f05d3b8b4db"
     },
     {
       "path": "explore/quantum-computing/index.html",
-      "size": 15809,
-      "sha256": "916be4f68b98bcd7fed0378f7fdccbab596376b4ed6b5c17eb4e86d8149e77c2"
+      "size": 16067,
+      "sha256": "e864ea75ffff1b4bceb01d057ed152f7526c7608a3072f3dc30fd25a8943f016"
     },
     {
       "path": "explore/robotics/index.html",
-      "size": 10699,
-      "sha256": "6b808c557d6759e196cb73084c849aeeb3585974d13a85da58a9b0f20abac822"
+      "size": 10957,
+      "sha256": "ee87e41f685073be9c7ce3941386b8fd91ff23d1afdcd0212dae5f072939bfe7"
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 12654,
-      "sha256": "2af076da1984b8b383069e2887a31381f982bd3e86babc65c18a371dc06a41d8"
+      "size": 12912,
+      "sha256": "be6b270b00f3891e80520c8cd93788ce3259a4649648421c3035804184309e93"
     },
     {
       "path": "explore/smart-mobility/index.html",
-      "size": 12040,
-      "sha256": "687454317ae9f3cb07564042b8ab99ef0c419911f978e5b635959b7a8e2a6379"
+      "size": 12298,
+      "sha256": "773b3484dcb6bcb283ca89a23a4bcd027ab3fee466f0c3b930770b3fa012e8f5"
     },
     {
       "path": "explore/space/index.html",
-      "size": 10882,
-      "sha256": "7de929828a80a024ffa9dbb4ccf70ca65247e1726b724473dcacab10ad6c7cf0"
+      "size": 11140,
+      "sha256": "bd1431fd8f5adaf439872e3e3d2f18e2314c4c94a82ae7f699f7f19d57d37c72"
     },
     {
       "path": "index.html",
-      "size": 7821,
-      "sha256": "1f2c7a6170c3a1908c62937bcd9b8148df048c7ebac125f26c6563974677db92"
+      "size": 8337,
+      "sha256": "f7c6dabdffc3d76a9b4bc7ce27e49cecc9215822696528a09d52be40d104b685"
     },
     {
       "path": "legal/index.html",
-      "size": 5934,
-      "sha256": "6dd562682b995f310d817a52a8468502a6b0252dc5d38c4d230ca0ceec742760"
+      "size": 6450,
+      "sha256": "3f0edaf6be2aa9d7daea6b137fbf90884509f2fbaacaa79ef940eff5f4b905da"
     },
     {
       "path": "minds/dali/index.html",
-      "size": 10464,
-      "sha256": "ede9123b23566029ee0f69ba67d4456865e258420f72b2e5c99cde5072186e77"
+      "size": 10722,
+      "sha256": "3e709ed1a92661b9742fed1e5687f243bf8f8bea8c37015f2f496c34b27dbdc7"
     },
     {
       "path": "minds/ethan/index.html",
-      "size": 11016,
-      "sha256": "d5889a53138367014b59846b871d5dd31c1a30fb17b380fb03e72ff9f2e19f00"
+      "size": 11274,
+      "sha256": "356c84ab0089043f0cf57e6eef3b17f823d1a2e9e742be44548871634c6648cb"
     },
     {
       "path": "minds/index.html",
-      "size": 8426,
-      "sha256": "f6d4d3eff43fb3d178f12677da5eedeb96a3e611b48bac20898ac0be0274e5be"
+      "size": 8684,
+      "sha256": "37d2005469282bfc4531cd8beb11dad962cbb4f41c0618084575623a3a2b4beb"
     },
     {
       "path": "minds/leo/index.html",
-      "size": 6896,
-      "sha256": "bdd89b951fe51a775abb458dcad598d195a9ce1bf89544b1e732b5b3e0dd23b0"
+      "size": 7154,
+      "sha256": "7a4909b663d07fe2d8a147bfcc0b8c32668ee38c087b490ac6e9003680187f47"
     },
     {
       "path": "minds/maya/index.html",
-      "size": 7340,
-      "sha256": "3efa10bee37793e1ec8370d986d164888fa43bd2447f65205775162b2c1434ef"
+      "size": 7598,
+      "sha256": "c59219425b0211e837ff7521fdee3248f17c74d314f5f0c9b7a3a706ebc3f583"
     },
     {
       "path": "minds/sofia/index.html",
-      "size": 7248,
-      "sha256": "b0c3899e5bded06c03f7cdc066d137bd59581091a54074d109da26dc31f1657a"
+      "size": 7506,
+      "sha256": "2363a2a72d44314d73961d1bc81cf47283bb207f88a6f71d046f2b3e716bc4af"
     },
     {
       "path": "moderate/index.html",
-      "size": 3715,
-      "sha256": "0107e05ecaea9b12942b2d94b2686f76bb60520ed0ce4a744585319ab99f7638"
+      "size": 3973,
+      "sha256": "a319bcdf11bee397350f6618b59b9896117da900e1d9ceb08d5ca3aa5f69c38b"
     },
     {
       "path": "privacy/index.html",
-      "size": 8417,
-      "sha256": "34fdfe085bea23c05f1978f27bdf6fe4d1b7f1ca1e29d4cc9db9b240e3d2230b"
+      "size": 8675,
+      "sha256": "3b9d3504bea876b5792ad63e63bded176328ae7b65c8e0ab864efddbfbff41d1"
     },
     {
       "path": "src/character-assets.js",
@@ -393,8 +398,8 @@
     },
     {
       "path": "src/styles.css",
-      "size": 54155,
-      "sha256": "5fea93efb446585de88d4071f5f07b778d7bbfaf933ee6a6b8feb430c63051d7"
+      "size": 54253,
+      "sha256": "6177a7c9dc28bd57d3def62aa223c1d97b6c11147d4525fa0500f273c5be68e1"
     },
     {
       "path": "src/universe-components.js",
@@ -438,63 +443,63 @@
     },
     {
       "path": "universe/batteries-in-waiting/index.html",
-      "size": 23029,
-      "sha256": "c2417de5cd87704b6b6f15c89eac437bd3cf0e208a770079d213ed02966f4c19"
+      "size": 23287,
+      "sha256": "51daa808819459521cad2e0f8e37fd46d284e341893cd8efa80822309324349f"
     },
     {
       "path": "universe/can-you-cool-a-data-center-in-space/index.html",
-      "size": 17840,
-      "sha256": "47b955fda2c8f77f18e936589b55b9c43056b1c62dbca4160b962c5c5db61091"
+      "size": 18098,
+      "sha256": "edf06263a651ed134ea8190ebe3db2a15b2c6980c4bbd487bac4bd28838691c5"
     },
     {
       "path": "universe/index.html",
-      "size": 27162,
-      "sha256": "2f569a81e3300c88a31d41cb7ba12035ee9de4317c5f726683bf7b76ea6fe377"
+      "size": 27420,
+      "sha256": "f9c7674d07a96b8314d80162b4158f4c21bb29252681d1bb186e7c891fa29a7b"
     },
     {
       "path": "universe/medicine-for-one/index.html",
-      "size": 17336,
-      "sha256": "6c100b89840e84b784af2abdd7bf17a333ac59884a1fe7402b0ade5fb87a5639"
+      "size": 17594,
+      "sha256": "02d1d35fec603ecdccac870b2ac1a4e08135af14045106f9a40af79af8480378"
     },
     {
       "path": "universe/navigating-by-the-rocks-beneath-us/index.html",
-      "size": 18773,
-      "sha256": "ac19d8254fdac7f8628c4e0e5e6f31f8a9078531b4ae4a6d56d43acda5cdc8d4"
+      "size": 19031,
+      "sha256": "430fcc5a80dcc0a5920a52e753651d038c9a9cf8417a88eebe0f1dddc82b6173"
     },
     {
       "path": "universe/the-city-that-parks-itself/index.html",
-      "size": 17014,
-      "sha256": "d57f10205e4d1fa23b8d92ff54ff8c8df6fddaf6574de9a87e5a4ba8b0b89d61"
+      "size": 17272,
+      "sha256": "c359cb48e70c5c4f6368ebe1c9800a98bbcd4cc81527c00afe1ced631aceb038"
     },
     {
       "path": "universe/the-lab-that-never-sleeps/index.html",
-      "size": 20773,
-      "sha256": "2aa2693f1b28a62ea5d92a68f6b8d3b9d955d057c0e8169c9b57d18fad3e7d0a"
+      "size": 21031,
+      "sha256": "7b0d26f9d5100ff2310abdbac2b105d1d7aa57c70f0a4caa673b5ab01a6af236"
     },
     {
       "path": "universe/the-planet-in-the-mirror/index.html",
-      "size": 18304,
-      "sha256": "8b89fa15feb6fa42c935d2c34e45b79543bf56ba88b3ea5593f9722895bdc7b0"
+      "size": 18562,
+      "sha256": "fb998c3602c270deff2c9de5bb0b78f815d88af001aef4558a0351fa8c448c21"
     },
     {
       "path": "universe/the-quantum-computers-secret-partner/index.html",
-      "size": 20933,
-      "sha256": "94b7bb8d5577d7c4c7600fa287e0492f87d43441bbd1d9c531409be6e6a02915"
+      "size": 21191,
+      "sha256": "a902b55cd39dc1d3958ace4540d72826470c6bc33f3e08b676d75dd18b2cc7c9"
     },
     {
       "path": "universe/the-robot-in-the-next-aisle/index.html",
-      "size": 17953,
-      "sha256": "4e12e2294690bca524f5f09e680bfc80b8c559d707bfc871026d51cf989e36a5"
+      "size": 18211,
+      "sha256": "56950ba976c048f8f841f676d7f002a7b77d8bae3f436db741b0ea91bce66e23"
     },
     {
       "path": "universe/the-server-farm-that-warms-your-living-room/index.html",
-      "size": 16633,
-      "sha256": "c1b8c8b8e0f4bd67ebc933565ae8313e29b7106f7e3aef995c4e8ecf4203767b"
+      "size": 16891,
+      "sha256": "e84ac2989203e06264b34ed74c05f936c0385a761785d601aa4e33e5a077e749"
     },
     {
       "path": "what-if/index.html",
-      "size": 8770,
-      "sha256": "e17be7ebea2119773827f8ad94c9bdd785191aff431e44506f4b489e3a84b0f6"
+      "size": 9028,
+      "sha256": "dc79f2a84bf01d271e4f2699a2fadec81b9abe93c48aef4f53ca6df947535644"
     }
   ],
   "api": [
@@ -605,7 +610,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "db3d0829272eea2eb73693da91c9575d5534bce82b8dc44f8dd5ba746ddc528f"
+      "sha256": "1f7ca7a40cd10397e5d7bc9973e51f3d4d1520b5d84dcaafe04181616bab996b"
     },
     {
       "path": "tools/recovery-kit.mjs",
