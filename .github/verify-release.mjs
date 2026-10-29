@@ -65,8 +65,11 @@ if (liveIndex === -1) {
     }
   };
   let checked = 0;
+  // Pages behind a role (see staticwebapp.config.json) redirect anonymous visitors to sign-in;
+  // they are checked below as "not reachable without the role" instead of byte-for-byte.
+  const PROTECTED = /^moderate\//;
   for (const [name, want] of expected) {
-    if (name === 'staticwebapp.config.json') continue;
+    if (name === 'staticwebapp.config.json' || PROTECTED.test(name)) continue;
     // Static Web Apps serves clean URLs: /x/index.html is /x/ and /404.html redirects to /404.
     const response = await get('/' + name.replace(/(^|\/)index\.html$/, '$1'), 'follow');
     if (response.status !== 200) { fail(`${name}: HTTP ${response.status}`); continue; }
