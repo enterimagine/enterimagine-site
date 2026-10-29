@@ -1,7 +1,8 @@
 // IMAGINE publication check (no dependencies). Copied into the publication repo as .github/verify-release.mjs.
 //   node .github/verify-release.mjs                 -> public/ must equal release-manifest.json exactly
 //   node .github/verify-release.mjs --live <url>    -> every manifest file served by <url> must match byte-for-byte,
-//                                                      required security headers present, /api/* and config not served
+//                                                      required security headers present, config and unknown paths 404,
+//                                                      public ideas API answers, moderation not reachable anonymously
 import { readFile, readdir, lstat } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import { join, relative, sep } from 'node:path';
@@ -36,6 +37,22 @@ if (liveIndex === -1) {
   }
   await walk('public');
   for (const name of expected.keys()) if (!found.has(name)) fail('missing file: ' + name);
+  // API files (deployed as Static Web Apps managed functions) must match the manifest exactly too.
+  const apiExpected = new Map((manifest.api || []).map(f => [f.path, f])), apiFound = new Set();
+  async function walkApi(dir) {
+    for (const entry of await readdir(dir, { withFileTypes: true })) {
+      const full = join(dir, entry.name), name = relative('.', full).split(sep).join('/');
+      if ((await lstat(full)).isSymbolicLink()) { fail('symbolic link: ' + name); continue; }
+      if (entry.isDirectory()) { await walkApi(full); continue; }
+      apiFound.add(name);
+      const want = apiExpected.get(name);
+      if (!want) { fail('API file not in manifest: ' + name); continue; }
+      const bytes = await readFile(full);
+      if (bytes.length !== want.size || sha256(bytes) !== want.sha256) fail('API content mismatch: ' + name);
+    }
+  }
+  if (apiExpected.size) await walkApi('api');
+  for (const name of apiExpected.keys()) if (!apiFound.has(name)) fail('missing API file: ' + name);
   if (!found.has('staticwebapp.config.json')) fail('staticwebapp.config.json missing');
   if (!process.exitCode) console.log('OK: public/ matches the manifest exactly.');
 } else {
@@ -64,6 +81,15 @@ if (liveIndex === -1) {
   for (const path of ['/staticwebapp.config.json', '/api/health', '/does-not-exist-' + Date.now()]) {
     const response = await get(path);
     if (response.status !== 404) fail(`${path}: expected 404, got ${response.status}`);
+  }
+  if (manifest.api?.length) {
+    const ideas = await get('/api/ideas');
+    let body = null; try { body = await ideas.json(); } catch {}
+    if (ideas.status !== 200 || !Array.isArray(body?.ideas)) fail(`/api/ideas: expected 200 with an ideas list, got ${ideas.status}`);
+    for (const path of ['/api/moderation/ideas', '/moderate/']) {
+      const response = await get(path);
+      if (response.status === 200) fail(`${path}: must not be reachable without the moderator role`);
+    }
   }
   console.log(`Robots: ${home.headers.get('x-robots-tag') || 'indexable'}`);
   if (!process.exitCode) console.log(`OK: ${checked} live files match the approved release; headers and 404s as expected.`);

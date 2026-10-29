@@ -44,12 +44,13 @@ jobs:
           node-version: '24.19.0'
       - name: Re-verify the approved commit before upload
         run: node .github/verify-release.mjs
-      - name: Upload the approved files (no build, no API)
+      - name: Upload the approved files and API (site not rebuilt; API dependencies installed from the pinned lockfile)
         uses: Azure/static-web-apps-deploy@1a947af9992250f3bc2e68ad0754c0b0c11566c9 # v1
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
           action: upload
           app_location: public
+          api_location: api
           output_location: ""
           skip_app_build: true
   smoke:

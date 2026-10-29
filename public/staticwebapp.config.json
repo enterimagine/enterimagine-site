@@ -4,6 +4,10 @@
     "404": {
       "rewrite": "/404.html",
       "statusCode": 404
+    },
+    "401": {
+      "redirect": "/.auth/login/github?post_login_redirect_uri=.referrer",
+      "statusCode": 302
     }
   },
   "mimeTypes": {
@@ -27,6 +31,43 @@
       "statusCode": 404
     },
     {
+      "route": "/.auth/login/aad",
+      "statusCode": 404
+    },
+    {
+      "route": "/.auth/login/twitter",
+      "statusCode": 404
+    },
+    {
+      "route": "/moderate*",
+      "allowedRoles": [
+        "moderator"
+      ],
+      "headers": {
+        "X-Robots-Tag": "noindex, nofollow",
+        "Cache-Control": "no-store"
+      }
+    },
+    {
+      "route": "/api/moderation/*",
+      "allowedRoles": [
+        "moderator"
+      ]
+    },
+    {
+      "route": "/api/ideas",
+      "methods": [
+        "GET",
+        "POST"
+      ]
+    },
+    {
+      "route": "/api/ideas/withdraw",
+      "methods": [
+        "POST"
+      ]
+    },
+    {
       "route": "/api/*",
       "statusCode": 404
     },
@@ -42,5 +83,8 @@
         "Cache-Control": "public, max-age=86400"
       }
     }
-  ]
+  ],
+  "platform": {
+    "apiRuntime": "node:22"
+  }
 }
