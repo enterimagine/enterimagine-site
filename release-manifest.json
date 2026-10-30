@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "3f4b79e71c298804329ff3331f36684e922db8b5",
+  "sourceCommit": "7d25110aac9a2c95a693fc93ea1d80d340fb3c9d",
   "publicPolicySha256": "5d3bcd0bebadd9e3b71a8317a2b2bef662e18da9a10dc11834b02f4ad04481ab",
   "nodeVersion": "v24.19.0",
-  "payloadId": "163e0b27288d69a47b711022bb9a309c96fbda1cd74a6ce488bc915060bee155",
+  "payloadId": "cb361ee64a2be988edd06d8165a44e8b63ae1930b743458fca87c51566c88f60",
   "files": [
     {
       "path": "404.html",
@@ -483,8 +483,8 @@
     },
     {
       "path": "universe/the-lab-that-never-sleeps/index.html",
-      "size": 21031,
-      "sha256": "7b0d26f9d5100ff2310abdbac2b105d1d7aa57c70f0a4caa673b5ab01a6af236"
+      "size": 21095,
+      "sha256": "334701693bf2deeb27dea57a0ed725f1442e8f9186ea782a2098bd12373e811c"
     },
     {
       "path": "universe/the-planet-in-the-mirror/index.html",
@@ -508,8 +508,8 @@
     },
     {
       "path": "universe/where-no-hand-can-reach/index.html",
-      "size": 22437,
-      "sha256": "f14c77b294e79450e0045197178fa28b3994f14cc3193ff36e2a876830941757"
+      "size": 22436,
+      "sha256": "f7b5c3c82ee1fa7321472ff368a965c40f69fc46417c8638628bb91e1df9b5c0"
     },
     {
       "path": "what-if/index.html",
