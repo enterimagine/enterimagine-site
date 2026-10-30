@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "7d25110aac9a2c95a693fc93ea1d80d340fb3c9d",
+  "sourceCommit": "2ec6be3f680cb5705e9f260ed74e6805bd3df846",
   "publicPolicySha256": "5d3bcd0bebadd9e3b71a8317a2b2bef662e18da9a10dc11834b02f4ad04481ab",
   "nodeVersion": "v24.19.0",
-  "payloadId": "cb361ee64a2be988edd06d8165a44e8b63ae1930b743458fca87c51566c88f60",
+  "payloadId": "b6d87cae5ca0c16ad710c0508d1ec04b272398b4f3993d198dd4f1e39c3d5662",
   "files": [
     {
       "path": "404.html",
@@ -408,8 +408,8 @@
     },
     {
       "path": "src/styles.css",
-      "size": 54253,
-      "sha256": "6177a7c9dc28bd57d3def62aa223c1d97b6c11147d4525fa0500f273c5be68e1"
+      "size": 54312,
+      "sha256": "f4a3e84ce440951335124704dfd92088dca4526ea38cfcc724c71992df258027"
     },
     {
       "path": "src/universe-components.js",
@@ -418,8 +418,8 @@
     },
     {
       "path": "src/universe-map.js",
-      "size": 5236,
-      "sha256": "934657f996afa4542a4b9544b742811076359c23a687bb94ef353346d4402f4e"
+      "size": 5428,
+      "sha256": "ef3ec1cfb61a73a7fd5435352f09d3ef39b6ea22d57bd02f1f3027395d2827ae"
     },
     {
       "path": "src/universe.js",
@@ -463,8 +463,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 28377,
-      "sha256": "3a5504af9212cb61f8daef28ce92f48d3cf47b01dd3484f2068c2c9902afd6d3"
+      "size": 29434,
+      "sha256": "9cd167d1a6246c4a17805ec1528a371ff15a63aea81fb831c55b579b53c63a85"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -484,7 +484,7 @@
     {
       "path": "universe/the-lab-that-never-sleeps/index.html",
       "size": 21095,
-      "sha256": "334701693bf2deeb27dea57a0ed725f1442e8f9186ea782a2098bd12373e811c"
+      "sha256": "40b667740911bd20832eb1c44a280a361ab2df29f4a783140b03551bf8080afd"
     },
     {
       "path": "universe/the-planet-in-the-mirror/index.html",

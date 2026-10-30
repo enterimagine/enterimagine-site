@@ -75,7 +75,11 @@ function initializeUniverseMap(root = document) {
     el.addEventListener('keydown', ev => { if ((ev.key === 'Enter' || ev.key === ' ') && ev.target === el) { ev.preventDefault(); handler(ev); } });
   };
   nodes.forEach(g => activate(g, () => select({ type: 'domain', id: g.dataset.domain })));
-  cards.forEach(c => activate(c, ev => { if (!ev.target.closest('a')) select({ type: 'article', id: Number(c.dataset.article) }); }));
+  // A card opens its article wherever it is pressed (picture, title, summary); the links inside handle it natively.
+  cards.forEach(c => c.addEventListener('click', ev => {
+    if (ev.target.closest('a') || ev.defaultPrevented) return;
+    const link = c.querySelector('.su-read'); if (link) location.href = link.href;
+  }));
   root.querySelectorAll('[data-thread-pick]').forEach(b => b.addEventListener('click', () => {
     select({ type: 'thread', id: b.dataset.threadPick });
     root.querySelector('.su-main').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' });
