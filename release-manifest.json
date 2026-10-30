@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "c68a52d4c7d446df84be485b63be7c80a5c48100",
+  "sourceCommit": "3f4b79e71c298804329ff3331f36684e922db8b5",
   "publicPolicySha256": "5d3bcd0bebadd9e3b71a8317a2b2bef662e18da9a10dc11834b02f4ad04481ab",
   "nodeVersion": "v24.19.0",
-  "payloadId": "3d9fd802845fef2487a6d1419c75b51c60d552adccf9e02e51dfa2cca8c37c5b",
+  "payloadId": "163e0b27288d69a47b711022bb9a309c96fbda1cd74a6ce488bc915060bee155",
   "files": [
     {
       "path": "404.html",
@@ -463,8 +463,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 28183,
-      "sha256": "4cd0ffdaf2675bf2d8332f5b9f9f0c6b8eea7d43a4b64b32a3c5f6d3914a895c"
+      "size": 28377,
+      "sha256": "3a5504af9212cb61f8daef28ce92f48d3cf47b01dd3484f2068c2c9902afd6d3"
     },
     {
       "path": "universe/medicine-for-one/index.html",
