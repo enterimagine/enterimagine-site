@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "690a65cc921aa44eb58f9f567fd0c6973ff0b987",
+  "sourceCommit": "fdffb3ff35c733f8fe86dff310d37ed7bc6e589e",
   "publicPolicySha256": "838ef27d9fa7756ce43a9dd6417411e9d5265ab3e1efbd57d488c975e2430723",
   "nodeVersion": "v24.19.0",
-  "payloadId": "67fb957d017e4a8eb3364b39bef4501e8daa13126a4166f498eb4643ed00f632",
+  "payloadId": "6f2a4ce1ca8f7d584bfaf02244a135652fd84084599dda78aa3a3689fae03170",
   "files": [
     {
       "path": "404.html",
@@ -448,8 +448,8 @@
     },
     {
       "path": "src/styles.css",
-      "size": 54657,
-      "sha256": "410c96f14673df8afdcfb0c298dba75c95b327a82334a76210b2b48553649d3e"
+      "size": 54653,
+      "sha256": "252f5a489a09f9260de35524759e4ba6fcbdbfd33783686575c683c2e8611a5f"
     },
     {
       "path": "src/universe-components.js",
@@ -538,8 +538,8 @@
     },
     {
       "path": "universe/the-narrow-waist-of-everything/index.html",
-      "size": 28709,
-      "sha256": "95100f6b543fa06f99aa1229fcb29cda04ae5777ab8299e72bc4d88b49159aa0"
+      "size": 28804,
+      "sha256": "22b6ae2a6077cba7953214ede1035fd96f004004c7fb79e7519d52d1a400967b"
     },
     {
       "path": "universe/the-planet-in-the-mirror/index.html",
