@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "8f38e7175a272745ac1b535326877f7c76d6f965",
-  "publicPolicySha256": "332fcbf91c88d1e0bbe18ca787fcc45631306a8196c9cff4be7e2a5f00fc9e82",
+  "sourceCommit": "ffae684150f9119e4633449ecb921cf526a11d89",
+  "publicPolicySha256": "203baa19d9239e4433c59cdd76ebc32e063d15a9c6f412f4db3667eda294049e",
   "nodeVersion": "v24.19.0",
-  "payloadId": "8bc732bbf8bad222d37c113deb426a35479bbfbfe53d3b531ac4f3210087779d",
+  "payloadId": "592ae419207c2a9c9b1ca9245ec4f0334078c0eb2cee68af043acb63c55e77a0",
   "files": [
     {
       "path": "404.html",
@@ -47,9 +47,19 @@
       "sha256": "db94a678850897edeb45044cab126f60442dc1eb5aeb47238c9bc5fc3f62915e"
     },
     {
+      "path": "assets/articles/covers/the-factory-that-falls-from-the-sky.webp",
+      "size": 53538,
+      "sha256": "2ea7696f3490508d6b043b6b6ae9b5933e71454d254305c5c7904d299ce436ab"
+    },
+    {
       "path": "assets/articles/covers/the-lab-that-never-sleeps.webp",
       "size": 48904,
       "sha256": "b329a852be6ef2862b98a0fa316c70d05ef54201eacb24e143dd1f039cf99651"
+    },
+    {
+      "path": "assets/articles/covers/the-narrow-waist-of-everything.webp",
+      "size": 94426,
+      "sha256": "064e972bbb32e78f6f36da5d431e78e826f865d9263b2f94ee5298a4048f6504"
     },
     {
       "path": "assets/articles/covers/the-planet-in-the-mirror.webp",
@@ -92,9 +102,19 @@
       "sha256": "2ee8ec8f59b9a7d5f6358a7bfa2f60d25e78d1c0419f9e78602c9c2646b86629"
     },
     {
+      "path": "assets/articles/the-factory-that-falls-from-the-sky.webp",
+      "size": 65460,
+      "sha256": "fdafccef1cda715db73d850627b53c8f7231802d61db90b5aea2cf20a13d3778"
+    },
+    {
       "path": "assets/articles/the-lab-that-never-sleeps.webp",
       "size": 17302,
       "sha256": "b6d30767ace364d2f9f8c2783378aee7c8edd12db5c0276cff671d35888167b2"
+    },
+    {
+      "path": "assets/articles/the-narrow-waist-of-everything.webp",
+      "size": 60572,
+      "sha256": "440811682830b085031ea541407f7cd9e880fe92f07b8eea2df486a02fbdf6bd"
     },
     {
       "path": "assets/articles/the-planet-in-the-mirror.webp",
@@ -273,18 +293,18 @@
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 15904,
-      "sha256": "39db887cf9f6a0e2c6067d1eb064bd299b257635ff7631a5cb68f4b9eddc653f"
+      "size": 16800,
+      "sha256": "4e0c52bb5cdc300dfd96dad06db396df01f27aae27340497a97e96a23e3320d2"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 10219,
-      "sha256": "1e86f00403b653bfbd892f845081543eaf3c367f3c3ef434dcff202854a4fdb2"
+      "size": 11910,
+      "sha256": "e7dbb1701863cf06d775b80efd7508aecaa83daec81d5fb08e3dc5bae87b60d2"
     },
     {
       "path": "explore/energy/index.html",
-      "size": 15807,
-      "sha256": "dea8f70d8489c55993c0edd948cf92f38eac4e2f9e96738f89676496100380a5"
+      "size": 16703,
+      "sha256": "350d3c0e69bf84e1762f85aed66c09ff153694638e82db5a4e0c7d7393eeef04"
     },
     {
       "path": "explore/index.html",
@@ -298,13 +318,13 @@
     },
     {
       "path": "explore/quantum-computing/index.html",
-      "size": 16712,
-      "sha256": "37cd5a838ae004962d440b17ab6ce9dd4c5f91b2ea816a8f3a2d3124fd6706db"
+      "size": 17608,
+      "sha256": "f27754f3072ef9af81cbbf17edffeecc799688c2e6d7581475ea4258b07ff7ae"
     },
     {
       "path": "explore/robotics/index.html",
-      "size": 11937,
-      "sha256": "8dca49a072ddcaf73b9ee1f50ed3450850c6e6460ce9935a5574f9b4916710e7"
+      "size": 12833,
+      "sha256": "989e1c86ee204a8e259e18502714b28b4f5cdc6b1b18980f9ab10e509b557cbb"
     },
     {
       "path": "explore/smart-cities/index.html",
@@ -313,13 +333,13 @@
     },
     {
       "path": "explore/smart-mobility/index.html",
-      "size": 13282,
-      "sha256": "47e46cb6f7ac27c643c539c709cf0e95391499ddf5f8860dae50ad1bac5cbd73"
+      "size": 14178,
+      "sha256": "d2b54496409390b5d611ebaebac481dcaca64125045c20eeb49403c3ffa9ed2d"
     },
     {
       "path": "explore/space/index.html",
-      "size": 11408,
-      "sha256": "92498a10d5eef25fb2d2e8b9a59dc2d5e2461c848f63240f23c3f7b60f43dd02"
+      "size": 13099,
+      "sha256": "ea128ff69f3f1d1ae5690d4c3f5970cccf610edc11073b3dfef7a402ceb1c34f"
     },
     {
       "path": "index.html",
@@ -418,8 +438,8 @@
     },
     {
       "path": "src/styles.css",
-      "size": 54591,
-      "sha256": "814d2399df67e81cd6499aa038e651dbcd8b9b514ec6f665d06eeb20fd2ff738"
+      "size": 54657,
+      "sha256": "410c96f14673df8afdcfb0c298dba75c95b327a82334a76210b2b48553649d3e"
     },
     {
       "path": "src/universe-components.js",
@@ -473,8 +493,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 30720,
-      "sha256": "bf3f8af0a899899d999a99c5c2d8c1fbaf6df7b63cfbf6f2e4004ab0e029fb5d"
+      "size": 35980,
+      "sha256": "2ef008d827b454229ac5a7d5b838e847945cb4de8c18c7c925d76b7a5d38c7cf"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -492,9 +512,19 @@
       "sha256": "4558a420a2ec70999c8572ef4898deca7745f890fa6809a4d3723994b501e4ba"
     },
     {
+      "path": "universe/the-factory-that-falls-from-the-sky/index.html",
+      "size": 25847,
+      "sha256": "27f46a6880e4529fb4366369f54bec4d38a20b43e9c0e3aa86c86bcda0dbe071"
+    },
+    {
       "path": "universe/the-lab-that-never-sleeps/index.html",
       "size": 21363,
       "sha256": "f8474a1267fafa15448b25e7f69758bc401a230cd2d9d9c48f33b3e3dacd15d5"
+    },
+    {
+      "path": "universe/the-narrow-waist-of-everything/index.html",
+      "size": 28547,
+      "sha256": "d629028004e813e6feba0cfadcd0a521238ba6775b187c329bf64f531633f432"
     },
     {
       "path": "universe/the-planet-in-the-mirror/index.html",
@@ -518,8 +548,8 @@
     },
     {
       "path": "universe/where-no-hand-can-reach/index.html",
-      "size": 22704,
-      "sha256": "587a1f0cbdf10ecebfa817cac49181bc55b0da584041097496476fbb9b32eb2c"
+      "size": 22974,
+      "sha256": "15e18c549cf6b6354694da39da463f8c825ba0bc6c377b64a9e24eb89aaf6ad1"
     },
     {
       "path": "what-if/index.html",
@@ -635,7 +665,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "332fcbf91c88d1e0bbe18ca787fcc45631306a8196c9cff4be7e2a5f00fc9e82"
+      "sha256": "203baa19d9239e4433c59cdd76ebc32e063d15a9c6f412f4db3667eda294049e"
     },
     {
       "path": "tools/recovery-kit.mjs",
