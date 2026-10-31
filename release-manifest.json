@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "b4f6456f97e3bcfa9fd039a3c84230edff5754bf",
+  "sourceCommit": "a6989dea0dad3d1b26efbd0b4a71c5d148aa9570",
   "publicPolicySha256": "838ef27d9fa7756ce43a9dd6417411e9d5265ab3e1efbd57d488c975e2430723",
   "nodeVersion": "v24.19.0",
-  "payloadId": "57c6657221ebbf4c2f016053647b93ef6a33577ef960b4bf535f5a2e04612ede",
+  "payloadId": "a8da0591889b9d32662d23be685f6e41a23527f83cad436dc1bf7ec7b0e19728",
   "files": [
     {
       "path": "404.html",
@@ -308,8 +308,8 @@
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 12662,
-      "sha256": "3b0d11977c9e2e299092843ad9f3f10bbb6264f54cf8cf645dd27cfe349a8e3c"
+      "size": 12687,
+      "sha256": "f22c3cdb37f31766666a1ea1e34f7ec738f7d1091363e459a24064f157b3b28a"
     },
     {
       "path": "explore/energy/index.html",
@@ -323,8 +323,8 @@
     },
     {
       "path": "explore/innovation/index.html",
-      "size": 10812,
-      "sha256": "075cddf570b539368618ca1c74476bfac010b16b94e33391cc8630b266706af4"
+      "size": 11632,
+      "sha256": "74dfdaa97ce92310bdcac0b3e8ce476cfcd8a60b41407c65c05117143b0e4a16"
     },
     {
       "path": "explore/quantum-computing/index.html",
@@ -348,8 +348,8 @@
     },
     {
       "path": "explore/space/index.html",
-      "size": 13153,
-      "sha256": "fc368432ab8d7f6b0135ac39af694be828da352c63b3d7dd53966da889005132"
+      "size": 13178,
+      "sha256": "6a6887d6e8eb6526fb1f1c90cb041323330720565267f1fab95e4f0bf4a4d775"
     },
     {
       "path": "index.html",
@@ -503,8 +503,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 39921,
-      "sha256": "7f487d6992d8f6478178fc9a22add860b18a79b2d73d119a7d7fcf30f0827797"
+      "size": 40079,
+      "sha256": "031543480212e9256ec812a312e1d3c56fcfbb054b8b0a4b4875973958a17c30"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -528,8 +528,8 @@
     },
     {
       "path": "universe/the-factory-that-falls-from-the-sky/index.html",
-      "size": 25847,
-      "sha256": "27f46a6880e4529fb4366369f54bec4d38a20b43e9c0e3aa86c86bcda0dbe071"
+      "size": 25983,
+      "sha256": "0cab63bf6e2fd01db4719d545613dad22b454dd49ce2cbd4ae018796e9d330b1"
     },
     {
       "path": "universe/the-lab-that-never-sleeps/index.html",
