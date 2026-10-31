@@ -4,6 +4,9 @@ export const escapeHtml = value => String(value).replace(/[&<>"']/g, char => ({'
 const e = escapeHtml;
 export const tags = items => '<ul class="tags">' + items.map(item => '<li>' + e(item) + '</li>').join('') + '</ul>';
 export const image = (src, alt, className = '') => '<img class="' + e(className) + '" src="' + e(src) + '" alt="' + e(alt) + '" loading="lazy" decoding="async">';
+// Every episode reference shows its picture: own artwork, or the quantum lab image for Episode 001.
+export const episodeImage = episode => image(episode.artwork || technologyById['quantum-computing'].image, episode.artworkAlt || (episode.artwork ? episode.title : 'IMAGINE quantum computing laboratory'));
+export const episodeMedia = episode => '<span class="connection-media">' + episodeImage(episode) + '</span>';
 export function characterCard(mind) {
   return `<article class="mind-card" id="mind-${e(mind.id)}">
     ${image(mind.portrait, mind.name + ', ' + mind.role, 'portrait')}

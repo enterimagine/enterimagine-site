@@ -46,6 +46,8 @@
 .connection-card:hover{border-color:var(--cyan)}
 .connection-card .eyebrow{display:block;font-size:.65rem;line-height:1.6}
 .connection-card h3{margin-bottom:14px}
+.connection-card.has-media .connection-media{display:block;aspect-ratio:16/9;margin:-28px -28px 22px;background:var(--bg);border-bottom:1px solid var(--line);overflow:hidden}
+.connection-card.has-media .connection-media img{display:block;width:100%;height:100%;object-fit:cover}
 .connection-card p{font-size:.93rem}
 .connection-arrow{color:var(--cyan);font-size:1.4rem}
 .reality-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:40px}
