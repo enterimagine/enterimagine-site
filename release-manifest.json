@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "ff30008f333ebf2038da3b28b7fc08eddb20cef7",
-  "publicPolicySha256": "838ef27d9fa7756ce43a9dd6417411e9d5265ab3e1efbd57d488c975e2430723",
+  "sourceCommit": "8e41e28fdb363711d557b1c8d4c4c24371ca83cd",
+  "publicPolicySha256": "c2d376298085560d330c9c65cf0964f06bd18a94720a783238acb60fc0d96c29",
   "nodeVersion": "v24.19.0",
-  "payloadId": "e8cd04ce8ca98b231df93d77b86dd7c8e85891b00be395783fb6e76be99573d6",
+  "payloadId": "4eee72c4b510180c79661da5603780720606a59580d5cf493144203fda0d3c47",
   "files": [
     {
       "path": "404.html",
@@ -40,6 +40,11 @@
       "path": "assets/articles/covers/navigating-by-the-rocks-beneath-us.webp",
       "size": 65546,
       "sha256": "61bc9f82dffc978ce7d0ab6af480132e5f5426bf21b7e51c8d8be1eeae24e729"
+    },
+    {
+      "path": "assets/articles/covers/running-out-of-cold.webp",
+      "size": 56444,
+      "sha256": "3ba0a7a7fc0d26ceaf61d913b1118c943c34138035ea211a0d6ee61c5163552c"
     },
     {
       "path": "assets/articles/covers/the-archive-that-fits-in-a-pill.webp",
@@ -100,6 +105,11 @@
       "path": "assets/articles/navigating-by-the-rocks-beneath-us.webp",
       "size": 23950,
       "sha256": "46ea552bfe9171bc3b6eb684b36c6f2a13bda5406b593504933852a550ac5fbc"
+    },
+    {
+      "path": "assets/articles/running-out-of-cold.webp",
+      "size": 59232,
+      "sha256": "2d2f276d2866e90b6dd4a837e86ed85c6bd287245edc13e8e12550304264f61f"
     },
     {
       "path": "assets/articles/the-archive-that-fits-in-a-pill.webp",
@@ -313,8 +323,8 @@
     },
     {
       "path": "explore/energy/index.html",
-      "size": 16724,
-      "sha256": "46cb8cddc79940cf23e755ebb46bb15d6b6538a4590af5195667a4e9358e3216"
+      "size": 17465,
+      "sha256": "afff04f5a130d62e7f4967033a1a7dd3190bfb97345b8085adc0bc1d3d6922c8"
     },
     {
       "path": "explore/index.html",
@@ -328,8 +338,8 @@
     },
     {
       "path": "explore/quantum-computing/index.html",
-      "size": 17633,
-      "sha256": "bd0cd33423210cbd720a7b77f0ee76ff21681cc2712e3992e0b4f9ba82d15fe0"
+      "size": 18374,
+      "sha256": "3606850b95031f0260eab7baac30fc6c55952a39638c37f69784ba370cba96dc"
     },
     {
       "path": "explore/robotics/index.html",
@@ -348,8 +358,8 @@
     },
     {
       "path": "explore/space/index.html",
-      "size": 13170,
-      "sha256": "0deafd8c7a0ddd74ade18332dea1a0b11411ca62d0fe7ecf25220001ab61222c"
+      "size": 13911,
+      "sha256": "f7445db5bb92878e41b0180de269a02ce4be009f0cfaba2d3473ecac627a3392"
     },
     {
       "path": "index.html",
@@ -503,8 +513,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 39512,
-      "sha256": "9844b8d4c7594b2b2c12e3ea9bf2f4384320be9d63b5633fa929ab90686e894e"
+      "size": 40613,
+      "sha256": "7f5b1782b242862deb0c5d7eacf13e0ca68a1f744fc874592bd48ce47f995ed2"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -517,9 +527,14 @@
       "sha256": "b9d766a83fcd2b5acd3ab93c33b71df855c54658251b68cce0b05ba4f2807bd5"
     },
     {
+      "path": "universe/running-out-of-cold/index.html",
+      "size": 24059,
+      "sha256": "1d1d3de589acc402d46d427adfde22296bfe8244b71021e6300e74ebec9b084c"
+    },
+    {
       "path": "universe/the-archive-that-fits-in-a-pill/index.html",
-      "size": 22759,
-      "sha256": "6b0bc53bb462278bc1c9dd66c776830f0e774965905e6e220a40376c3955ce2f"
+      "size": 22897,
+      "sha256": "69e240f27fe75a19e032dd6207ae5610d804f8258c0a3859de76f1ce6aad7e67"
     },
     {
       "path": "universe/the-city-that-parks-itself/index.html",
@@ -680,7 +695,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "838ef27d9fa7756ce43a9dd6417411e9d5265ab3e1efbd57d488c975e2430723"
+      "sha256": "c2d376298085560d330c9c65cf0964f06bd18a94720a783238acb60fc0d96c29"
     },
     {
       "path": "tools/recovery-kit.mjs",
