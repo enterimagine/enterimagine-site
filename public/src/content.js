@@ -61,6 +61,8 @@ export const episodes = [{
   futurePossibility: 'Could hybrid systems help us discover better medicines, new materials or more efficient energy systems?',
   realismNotes: 'Ethan asks: where would a quantum approach offer a useful advantage, and what would it cost? Error correction, scale, economics, adoption and ethics all matter. These applications are possibilities to explore, not promised breakthroughs.',
   whatIfQuestion: 'What if different ways of computing could open new possibilities for human wellbeing?',
+  artwork: '/assets/episodes/when-gpus-meet-quantum-computing.webp',
+  artworkAlt: 'Illustrative GPU server racks linked by streams of light to a quantum computer, from IMAGINE Episode 001',
   relatedEpisodes: [], path: '/episodes/' + episodeId + '/'
 }, {
   "id": "when-mobility-meets-energy",
