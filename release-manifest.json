@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "ffae684150f9119e4633449ecb921cf526a11d89",
-  "publicPolicySha256": "203baa19d9239e4433c59cdd76ebc32e063d15a9c6f412f4db3667eda294049e",
+  "sourceCommit": "690a65cc921aa44eb58f9f567fd0c6973ff0b987",
+  "publicPolicySha256": "838ef27d9fa7756ce43a9dd6417411e9d5265ab3e1efbd57d488c975e2430723",
   "nodeVersion": "v24.19.0",
-  "payloadId": "592ae419207c2a9c9b1ca9245ec4f0334078c0eb2cee68af043acb63c55e77a0",
+  "payloadId": "67fb957d017e4a8eb3364b39bef4501e8daa13126a4166f498eb4643ed00f632",
   "files": [
     {
       "path": "404.html",
@@ -40,6 +40,11 @@
       "path": "assets/articles/covers/navigating-by-the-rocks-beneath-us.webp",
       "size": 65546,
       "sha256": "61bc9f82dffc978ce7d0ab6af480132e5f5426bf21b7e51c8d8be1eeae24e729"
+    },
+    {
+      "path": "assets/articles/covers/the-archive-that-fits-in-a-pill.webp",
+      "size": 35614,
+      "sha256": "e74020b707ba43eccec5221a5f6b02e2577b7f9db91e02ce8465f45a5d7f71bd"
     },
     {
       "path": "assets/articles/covers/the-city-that-parks-itself.webp",
@@ -95,6 +100,11 @@
       "path": "assets/articles/navigating-by-the-rocks-beneath-us.webp",
       "size": 23950,
       "sha256": "46ea552bfe9171bc3b6eb684b36c6f2a13bda5406b593504933852a550ac5fbc"
+    },
+    {
+      "path": "assets/articles/the-archive-that-fits-in-a-pill.webp",
+      "size": 43262,
+      "sha256": "6dd7a9487f499d97e53f67d2cc460ecca238a4d36c8df1cbf1c6034fa035bcd4"
     },
     {
       "path": "assets/articles/the-city-that-parks-itself.webp",
@@ -293,13 +303,13 @@
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 16800,
-      "sha256": "4e0c52bb5cdc300dfd96dad06db396df01f27aae27340497a97e96a23e3320d2"
+      "size": 17498,
+      "sha256": "bac55903cc32e66f07076d16d0bebf3e7742a8e6a50458079d02a2ca7a3bb97a"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 11910,
-      "sha256": "e7dbb1701863cf06d775b80efd7508aecaa83daec81d5fb08e3dc5bae87b60d2"
+      "size": 12608,
+      "sha256": "bca424d645e5b7043170f87537910a49f9914c2796e506f1a28e59900c991056"
     },
     {
       "path": "explore/energy/index.html",
@@ -493,8 +503,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 35980,
-      "sha256": "2ef008d827b454229ac5a7d5b838e847945cb4de8c18c7c925d76b7a5d38c7cf"
+      "size": 37746,
+      "sha256": "e4b0802306d8f8b6dfe8793b2b8a4405209b2f72c0684722e6ff9561e5c53383"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -505,6 +515,11 @@
       "path": "universe/navigating-by-the-rocks-beneath-us/index.html",
       "size": 19299,
       "sha256": "b9d766a83fcd2b5acd3ab93c33b71df855c54658251b68cce0b05ba4f2807bd5"
+    },
+    {
+      "path": "universe/the-archive-that-fits-in-a-pill/index.html",
+      "size": 22623,
+      "sha256": "481257ea10eee2e846a873de287f7ebe2d71de52f0e83b6262cf42a1cf22526c"
     },
     {
       "path": "universe/the-city-that-parks-itself/index.html",
@@ -523,8 +538,8 @@
     },
     {
       "path": "universe/the-narrow-waist-of-everything/index.html",
-      "size": 28547,
-      "sha256": "d629028004e813e6feba0cfadcd0a521238ba6775b187c329bf64f531633f432"
+      "size": 28709,
+      "sha256": "95100f6b543fa06f99aa1229fcb29cda04ae5777ab8299e72bc4d88b49159aa0"
     },
     {
       "path": "universe/the-planet-in-the-mirror/index.html",
@@ -665,7 +680,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "203baa19d9239e4433c59cdd76ebc32e063d15a9c6f412f4db3667eda294049e"
+      "sha256": "838ef27d9fa7756ce43a9dd6417411e9d5265ab3e1efbd57d488c975e2430723"
     },
     {
       "path": "tools/recovery-kit.mjs",
