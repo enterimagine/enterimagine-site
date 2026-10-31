@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "fdffb3ff35c733f8fe86dff310d37ed7bc6e589e",
+  "sourceCommit": "b4f6456f97e3bcfa9fd039a3c84230edff5754bf",
   "publicPolicySha256": "838ef27d9fa7756ce43a9dd6417411e9d5265ab3e1efbd57d488c975e2430723",
   "nodeVersion": "v24.19.0",
-  "payloadId": "6f2a4ce1ca8f7d584bfaf02244a135652fd84084599dda78aa3a3689fae03170",
+  "payloadId": "57c6657221ebbf4c2f016053647b93ef6a33577ef960b4bf535f5a2e04612ede",
   "files": [
     {
       "path": "404.html",
@@ -303,18 +303,18 @@
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 17498,
-      "sha256": "bac55903cc32e66f07076d16d0bebf3e7742a8e6a50458079d02a2ca7a3bb97a"
+      "size": 17552,
+      "sha256": "14d6519765147e123e37621cace2ed020d92165d49c4d7023f05f0752c3d4afe"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 12608,
-      "sha256": "bca424d645e5b7043170f87537910a49f9914c2796e506f1a28e59900c991056"
+      "size": 12662,
+      "sha256": "3b0d11977c9e2e299092843ad9f3f10bbb6264f54cf8cf645dd27cfe349a8e3c"
     },
     {
       "path": "explore/energy/index.html",
-      "size": 16703,
-      "sha256": "350d3c0e69bf84e1762f85aed66c09ff153694638e82db5a4e0c7d7393eeef04"
+      "size": 16757,
+      "sha256": "8a91ec1f9fb72695bd1fd7230f46020df1a6a1daa28e10529cfca84b2ea9cdf1"
     },
     {
       "path": "explore/index.html",
@@ -323,33 +323,33 @@
     },
     {
       "path": "explore/innovation/index.html",
-      "size": 9601,
-      "sha256": "b8c281ec86784bde8cd8e97030a8734d768360780048f6f6b36173eedcd0b33d"
+      "size": 10812,
+      "sha256": "075cddf570b539368618ca1c74476bfac010b16b94e33391cc8630b266706af4"
     },
     {
       "path": "explore/quantum-computing/index.html",
-      "size": 17608,
-      "sha256": "f27754f3072ef9af81cbbf17edffeecc799688c2e6d7581475ea4258b07ff7ae"
+      "size": 17662,
+      "sha256": "33ece25ca1863c1f82eac6fa2f8000bd5676868a804b3d56c86bccf36801e06f"
     },
     {
       "path": "explore/robotics/index.html",
-      "size": 12833,
-      "sha256": "989e1c86ee204a8e259e18502714b28b4f5cdc6b1b18980f9ab10e509b557cbb"
+      "size": 12887,
+      "sha256": "6a77d4a310b2555a33f0d999be614a3a6c2730239db59de3a4ebddac10309635"
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 13881,
-      "sha256": "cc509aefb928af1cd23a760be8c0d32fd8f0ed5a688779fb48a5539528500e4b"
+      "size": 14831,
+      "sha256": "0d62818c788eba578596ec1a2b21e228e6c63fd4b6cb5c3c5d4726296c4e5d37"
     },
     {
       "path": "explore/smart-mobility/index.html",
-      "size": 14178,
-      "sha256": "d2b54496409390b5d611ebaebac481dcaca64125045c20eeb49403c3ffa9ed2d"
+      "size": 14232,
+      "sha256": "7403ac0bff52b901ead56f0c14c625eebd1d01c574cb81be88b689b12e520aef"
     },
     {
       "path": "explore/space/index.html",
-      "size": 13099,
-      "sha256": "ea128ff69f3f1d1ae5690d4c3f5970cccf610edc11073b3dfef7a402ceb1c34f"
+      "size": 13153,
+      "sha256": "fc368432ab8d7f6b0135ac39af694be828da352c63b3d7dd53966da889005132"
     },
     {
       "path": "index.html",
@@ -503,8 +503,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 37746,
-      "sha256": "e4b0802306d8f8b6dfe8793b2b8a4405209b2f72c0684722e6ff9561e5c53383"
+      "size": 39921,
+      "sha256": "7f487d6992d8f6478178fc9a22add860b18a79b2d73d119a7d7fcf30f0827797"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -538,8 +538,8 @@
     },
     {
       "path": "universe/the-narrow-waist-of-everything/index.html",
-      "size": 28804,
-      "sha256": "22b6ae2a6077cba7953214ede1035fd96f004004c7fb79e7519d52d1a400967b"
+      "size": 29084,
+      "sha256": "8a0418de6d3cc4ab260817aa20c9cfbd08a0e45c988d856cbc2134262ec793ca"
     },
     {
       "path": "universe/the-planet-in-the-mirror/index.html",
