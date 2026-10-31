@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "a6989dea0dad3d1b26efbd0b4a71c5d148aa9570",
+  "sourceCommit": "ff30008f333ebf2038da3b28b7fc08eddb20cef7",
   "publicPolicySha256": "838ef27d9fa7756ce43a9dd6417411e9d5265ab3e1efbd57d488c975e2430723",
   "nodeVersion": "v24.19.0",
-  "payloadId": "a8da0591889b9d32662d23be685f6e41a23527f83cad436dc1bf7ec7b0e19728",
+  "payloadId": "e8cd04ce8ca98b231df93d77b86dd7c8e85891b00be395783fb6e76be99573d6",
   "files": [
     {
       "path": "404.html",
@@ -288,8 +288,8 @@
     },
     {
       "path": "episodes/when-mobility-meets-energy/index.html",
-      "size": 17024,
-      "sha256": "7dbb27643e6669652329a7c0ab680e35022a43af7d7fde67473f05bdd2b6c516"
+      "size": 16995,
+      "sha256": "6acaaaca61c29d9b873f929b949eb05860fdeca1d13310de963ccfdcac0507fb"
     },
     {
       "path": "episodes/when-parking-goes-underground/index.html",
@@ -298,23 +298,23 @@
     },
     {
       "path": "episodes/when-stations-become-a-network/index.html",
-      "size": 16165,
-      "sha256": "a417943c929d02412eb20aeae3e1143e6b938f2fb1c91b2f67a5648c759dfca0"
+      "size": 16136,
+      "sha256": "f415f44ccf11b83d9551722e3bdd56d2de7dde2f4a29d45ed8febc55e6cab395"
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 17552,
-      "sha256": "14d6519765147e123e37621cace2ed020d92165d49c4d7023f05f0752c3d4afe"
+      "size": 18256,
+      "sha256": "d40b48b09b28e562de071782c4f146345f6274350a2b8bb10b97ff7588f1e0f1"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 12687,
-      "sha256": "f22c3cdb37f31766666a1ea1e34f7ec738f7d1091363e459a24064f157b3b28a"
+      "size": 12704,
+      "sha256": "abc7cf2c885a6bba7861bbb669c03574d635861e116952fa0efca8d49a0eb8b7"
     },
     {
       "path": "explore/energy/index.html",
-      "size": 16757,
-      "sha256": "8a91ec1f9fb72695bd1fd7230f46020df1a6a1daa28e10529cfca84b2ea9cdf1"
+      "size": 16724,
+      "sha256": "46cb8cddc79940cf23e755ebb46bb15d6b6538a4590af5195667a4e9358e3216"
     },
     {
       "path": "explore/index.html",
@@ -323,33 +323,33 @@
     },
     {
       "path": "explore/innovation/index.html",
-      "size": 11632,
-      "sha256": "74dfdaa97ce92310bdcac0b3e8ce476cfcd8a60b41407c65c05117143b0e4a16"
+      "size": 12347,
+      "sha256": "a94912f1caf175a072a5cd893dcb6b98f9694ec87ef36ebd74a56df3b2e43eca"
     },
     {
       "path": "explore/quantum-computing/index.html",
-      "size": 17662,
-      "sha256": "33ece25ca1863c1f82eac6fa2f8000bd5676868a804b3d56c86bccf36801e06f"
+      "size": 17633,
+      "sha256": "bd0cd33423210cbd720a7b77f0ee76ff21681cc2712e3992e0b4f9ba82d15fe0"
     },
     {
       "path": "explore/robotics/index.html",
-      "size": 12887,
-      "sha256": "6a77d4a310b2555a33f0d999be614a3a6c2730239db59de3a4ebddac10309635"
+      "size": 13724,
+      "sha256": "3147b5ee724f4f28515122034d42fcc3f6db5ac45b87441967b5fb80f57891e3"
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 14831,
-      "sha256": "0d62818c788eba578596ec1a2b21e228e6c63fd4b6cb5c3c5d4726296c4e5d37"
+      "size": 13221,
+      "sha256": "9682f2e1225c3a806be3d680eb5e6d27eb9bde1dcd966e32a3875978e3f3a8d7"
     },
     {
       "path": "explore/smart-mobility/index.html",
-      "size": 14232,
-      "sha256": "7403ac0bff52b901ead56f0c14c625eebd1d01c574cb81be88b689b12e520aef"
+      "size": 14174,
+      "sha256": "d30a6e07ac0481a96778337d946215f20020fb5130827816a53e764824c057d7"
     },
     {
       "path": "explore/space/index.html",
-      "size": 13178,
-      "sha256": "6a6887d6e8eb6526fb1f1c90cb041323330720565267f1fab95e4f0bf4a4d775"
+      "size": 13170,
+      "sha256": "0deafd8c7a0ddd74ade18332dea1a0b11411ca62d0fe7ecf25220001ab61222c"
     },
     {
       "path": "index.html",
@@ -493,8 +493,8 @@
     },
     {
       "path": "universe/batteries-in-waiting/index.html",
-      "size": 24050,
-      "sha256": "55a5bad6c0b3af22fa983960a783436aca5574e629bf847ade17b1a30ad2f30f"
+      "size": 23906,
+      "sha256": "5fbe3c4e0b9380375e91ba14a271d6fb56443cc2dfbe3f97474339cec76698c9"
     },
     {
       "path": "universe/can-you-cool-a-data-center-in-space/index.html",
@@ -503,8 +503,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 40079,
-      "sha256": "031543480212e9256ec812a312e1d3c56fcfbb054b8b0a4b4875973958a17c30"
+      "size": 39512,
+      "sha256": "9844b8d4c7594b2b2c12e3ea9bf2f4384320be9d63b5633fa929ab90686e894e"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -518,8 +518,8 @@
     },
     {
       "path": "universe/the-archive-that-fits-in-a-pill/index.html",
-      "size": 22623,
-      "sha256": "481257ea10eee2e846a873de287f7ebe2d71de52f0e83b6262cf42a1cf22526c"
+      "size": 22759,
+      "sha256": "6b0bc53bb462278bc1c9dd66c776830f0e774965905e6e220a40376c3955ce2f"
     },
     {
       "path": "universe/the-city-that-parks-itself/index.html",
@@ -528,8 +528,8 @@
     },
     {
       "path": "universe/the-factory-that-falls-from-the-sky/index.html",
-      "size": 25983,
-      "sha256": "0cab63bf6e2fd01db4719d545613dad22b454dd49ce2cbd4ae018796e9d330b1"
+      "size": 26111,
+      "sha256": "41ab58787d024ef8f63cf46e5f31f0eda78212594d00a3929cba69342b115133"
     },
     {
       "path": "universe/the-lab-that-never-sleeps/index.html",
@@ -538,8 +538,8 @@
     },
     {
       "path": "universe/the-narrow-waist-of-everything/index.html",
-      "size": 29084,
-      "sha256": "8a0418de6d3cc4ab260817aa20c9cfbd08a0e45c988d856cbc2134262ec793ca"
+      "size": 28940,
+      "sha256": "278d97f8d2b4452830e87e2f7bed40096e558e15475692ad138db625ddd2e45d"
     },
     {
       "path": "universe/the-planet-in-the-mirror/index.html",
@@ -563,8 +563,8 @@
     },
     {
       "path": "universe/where-no-hand-can-reach/index.html",
-      "size": 22974,
-      "sha256": "15e18c549cf6b6354694da39da463f8c825ba0bc6c377b64a9e24eb89aaf6ad1"
+      "size": 23110,
+      "sha256": "2ff99329b37f284b219f3c9b094522c98a80fe74736f4866bafb103893a57d3f"
     },
     {
       "path": "what-if/index.html",
