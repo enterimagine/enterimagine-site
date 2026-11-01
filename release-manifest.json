@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "8e41e28fdb363711d557b1c8d4c4c24371ca83cd",
+  "sourceCommit": "e9526e51a4d0c87e0146afa0b92431d639dcf89a",
   "publicPolicySha256": "c2d376298085560d330c9c65cf0964f06bd18a94720a783238acb60fc0d96c29",
   "nodeVersion": "v24.19.0",
-  "payloadId": "4eee72c4b510180c79661da5603780720606a59580d5cf493144203fda0d3c47",
+  "payloadId": "54b81132e32d22b059b4f21be7b17ce1eefb9c4ff58e1814a34965fd8b60cdec",
   "files": [
     {
       "path": "404.html",
@@ -293,8 +293,8 @@
     },
     {
       "path": "episodes/when-gpus-meet-quantum-computing/index.html",
-      "size": 21015,
-      "sha256": "9acfd9312fd24b4fb71499fef9fe46408694b4db2fde183bf8eb36c86c201317"
+      "size": 23374,
+      "sha256": "96ded04f131b2a56778fb7e2d0e2502cc567f2e746cf2a632eec2f24a0f81f04"
     },
     {
       "path": "episodes/when-mobility-meets-energy/index.html",
@@ -338,8 +338,8 @@
     },
     {
       "path": "explore/quantum-computing/index.html",
-      "size": 18374,
-      "sha256": "3606850b95031f0260eab7baac30fc6c55952a39638c37f69784ba370cba96dc"
+      "size": 20733,
+      "sha256": "caaaa207628c7f1257155d616e8825af7919c597a2ec0ee16a6fb9c837de6698"
     },
     {
       "path": "explore/robotics/index.html",
@@ -368,8 +368,8 @@
     },
     {
       "path": "legal/index.html",
-      "size": 7014,
-      "sha256": "c1f5560eb8176c56f7bd8f3ac18b4c939aa09599dbe84c4bfb1d39752c575a9e"
+      "size": 7429,
+      "sha256": "2ddf60fc2f09f4947f56f03cfe525ed5a2022523f7157ec77b843d229709dbbe"
     },
     {
       "path": "minds/dali/index.html",
@@ -503,8 +503,8 @@
     },
     {
       "path": "universe/batteries-in-waiting/index.html",
-      "size": 23906,
-      "sha256": "5fbe3c4e0b9380375e91ba14a271d6fb56443cc2dfbe3f97474339cec76698c9"
+      "size": 24082,
+      "sha256": "a2aacc72b3e1a164d2915690b83f8f08e63438e9586bb706aa611362b42750c6"
     },
     {
       "path": "universe/can-you-cool-a-data-center-in-space/index.html",
@@ -568,8 +568,8 @@
     },
     {
       "path": "universe/the-robot-in-the-next-aisle/index.html",
-      "size": 18479,
-      "sha256": "ecc39098bbdf01b3c36e2f155e879a3413cf58ee2d6ec30c369d7e3cfa37a8ba"
+      "size": 18655,
+      "sha256": "884947adda71fa2fdbbf52ad76f8f6dd9bfee950aaffa44a1118757b1bff0f5c"
     },
     {
       "path": "universe/the-server-farm-that-warms-your-living-room/index.html",
