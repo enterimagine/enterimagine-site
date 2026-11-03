@@ -149,6 +149,42 @@ body{margin:0;background:#081226}
       </section>
     </sc-if>
 
+    <sc-if value="{{isGameBloom}}" hint-placeholder-val="{{false}}">
+      <section class="k-pop" style="border-radius: 28px; padding: 24px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); display: flex; flex-direction: column; gap: 14px;">
+        <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px;">{{U.dnaTitle}}</h2>
+        <p style="margin: 0; font-size: 18px; color: #dfe8ff;">{{U.dnaIntro}}</p>
+        <div style="display: flex; flex-direction: column; gap: 10px;">
+          <sc-for list="{{dnaRungs}}" as="r" hint-placeholder-count="6">
+            <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
+              <span style="width: 52px; height: 52px; border-radius: 14px; display: grid; place-items: center; font-family: 'Baloo 2', sans-serif; font-weight: 800; font-size: 26px; background: #7ee08a; color: #0b1530;">{{r.left}}</span>
+              <span style="width: 70px; height: 6px; border-radius: 3px; background: {{r.color}};"></span>
+              <span style="width: 52px; height: 52px; border-radius: 14px; display: grid; place-items: center; font-family: 'Baloo 2', sans-serif; font-weight: 800; font-size: 26px; border: 3px solid {{r.color}};">{{r.cur}}</span>
+              <span style="display: flex; gap: 6px; margin-left: 8px;">
+                <sc-for list="{{r.opts}}" as="o" hint-placeholder-count="4"><button class="k-tab {{o.cls}}" onClick="{{o.pick}}" style="min-width: 48px; justify-content: center;">{{o.x}}</button></sc-for>
+              </span>
+            </div>
+          </sc-for>
+        </div>
+        <p style="margin: 0; font-weight: 800; color: #ffd84c;" aria-live="polite">{{dnaStatus}}</p>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isGameRobo}}" hint-placeholder-val="{{false}}">
+      <section class="k-pop" style="border-radius: 28px; padding: 24px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); display: flex; flex-direction: column; gap: 14px;">
+        <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px;">{{U.snTitle}}</h2>
+        <p style="margin: 0; font-size: 18px; color: #dfe8ff;">{{U.snIntro}}</p>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px;">
+          <sc-for list="{{sensors}}" as="sn" hint-placeholder-count="4">
+            <div style="border-radius: 20px; padding: 14px; background: rgba(255,255,255,.06); border: 2px solid rgba(255,255,255,.14); display: flex; flex-direction: column; gap: 8px;">
+              <p style="margin: 0; font-family: 'Baloo 2', sans-serif; font-weight: 800; font-size: 22px; color: #ff9a4c;">{{sn.name}}</p>
+              <sc-for list="{{sn.opts}}" as="o" hint-placeholder-count="3"><button class="k-opt {{o.cls}}" onClick="{{o.pick}}" style="min-height: 48px; font-size: 16px;">{{o.text}}</button></sc-for>
+            </div>
+          </sc-for>
+        </div>
+        <p style="margin: 0; font-weight: 800; color: #ffd84c;" aria-live="polite">{{snStatus}}</p>
+      </section>
+    </sc-if>
+
     <sc-if value="{{isGameQubi}}" hint-placeholder-val="{{false}}">
       <section class="k-pop" style="border-radius: 28px; padding: 24px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); display: flex; flex-direction: column; gap: 16px;">
         <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px;">{{U.qbTitle}}</h2>
