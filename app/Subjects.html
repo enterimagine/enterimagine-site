@@ -94,6 +94,33 @@ body{margin:0;background:#081226}
         </sc-for>
       </div>
     </sc-if>
+    <sc-if value="{{isMinus}}" hint-placeholder-val="{{false}}">
+      <div style="display: flex; flex-direction: column; gap: 10px;">
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+          <span style="font-weight: 800; color: #9fb4e0;">{{T.level}}</span>
+          <sc-for list="{{minusLevels}}" as="lv" hint-placeholder-count="7">
+            <button class="k-chip {{lv.cls}}" onClick="{{lv.pick}}" aria-pressed="{{lv.on}}">{{lv.label}}</button>
+          </sc-for>
+        </div>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+          <span style="font-weight: 800; color: #9fb4e0;">{{T.sModeLabel}}</span>
+          <sc-for list="{{mmodes}}" as="m" hint-placeholder-count="2">
+            <button class="k-chip {{m.cls}}" onClick="{{m.pick}}" aria-pressed="{{m.on}}">{{m.label}}</button>
+          </sc-for>
+        </div>
+      </div>
+    </sc-if>
+    <sc-if value="{{isDictTab}}" hint-placeholder-val="{{false}}">
+      <div style="display: flex; flex-direction: column; gap: 10px;">
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+          <span style="font-weight: 800; color: #9fb4e0;">{{T.level}}</span>
+          <sc-for list="{{dictLevels}}" as="lv" hint-placeholder-count="4">
+            <button class="k-chip {{lv.cls}}" onClick="{{lv.pick}}" aria-pressed="{{lv.on}}">{{lv.label}}</button>
+          </sc-for>
+        </div>
+        <p style="margin: 0; font-size: 14px; color: #9fb4e0;">{{T.dictRule}}</p>
+      </div>
+    </sc-if>
     <sc-if value="{{isSpell}}" hint-placeholder-val="{{false}}">
       <div style="display: flex; flex-direction: column; gap: 10px;">
         <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
@@ -138,7 +165,7 @@ body{margin:0;background:#081226}
             <p style="margin: 0; font-size: 14px; font-weight: 700; color: #9fb4e0;">{{counter}}</p>
           </div>
           <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: clamp(26px, 3.4vw, 38px); line-height: 1.2;">{{prompt}}</h2>
-          <sc-if value="{{notDict}}" hint-placeholder-val="{{true}}">
+          <sc-if value="{{showOpts}}" hint-placeholder-val="{{true}}">
             <div style="display: flex; flex-wrap: wrap; gap: 12px;">
               <sc-for list="{{opts}}" as="o" hint-placeholder-count="4">
                 <button class="k-opt {{o.cls}}" onClick="{{o.pick}}" disabled="{{checked}}">{{o.text}}</button>
@@ -154,6 +181,33 @@ body{margin:0;background:#081226}
               <label for="dict-input" style="font-size: 15px; font-weight: 800; color: #9fb4e0;">{{T.typeLabel}}</label>
               <input id="dict-input" type="text" value="{{typed}}" onInput="{{onType}}" onKeyDown="{{onKey}}" disabled="{{checked}}" autofocus="autofocus" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" inputmode="text" style="font-family: 'Baloo 2', sans-serif; font-weight: 700; font-size: 30px; min-height: 64px; padding: 4px 18px; border-radius: 18px; border: 3px solid rgba(127,231,255,.6); background: rgba(255,255,255,.08); color: #f2f6ff;">
               <sc-if value="{{checked}}" hint-placeholder-val="{{false}}"><p style="margin: 0; font-size: 18px; color: #dfe8ff;">{{youTyped}} <strong style="color: #38e1a0;">{{dictAnswer}}</strong></p></sc-if>
+              <p style="margin: 0; font-size: 13px; color: #9fb4e0;">{{T.dictNote}}</p>
+            </div>
+          </sc-if>
+          <sc-if value="{{isNum}}" hint-placeholder-val="{{false}}">
+            <div style="display: flex; flex-direction: column; gap: 10px; max-width: 360px;">
+              <label for="num-input" style="font-size: 15px; font-weight: 800; color: #9fb4e0;">{{T.numLabel}}</label>
+              <input id="num-input" type="text" inputmode="numeric" value="{{typed}}" onInput="{{onType}}" onKeyDown="{{onKey}}" disabled="{{checked}}" autofocus="autofocus" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" style="font-family: 'Baloo 2', sans-serif; font-weight: 700; font-size: 32px; min-height: 64px; padding: 4px 18px; border-radius: 18px; border: 3px solid rgba(127,231,255,.6); background: rgba(255,255,255,.08); color: #f2f6ff;">
+              <sc-if value="{{checked}}" hint-placeholder-val="{{false}}"><p style="margin: 0; font-size: 18px; font-weight: 800; color: #38e1a0;">{{numAnswer}}</p></sc-if>
+            </div>
+          </sc-if>
+          <sc-if value="{{isSent}}" hint-placeholder-val="{{false}}">
+            <div style="display: flex; flex-direction: column; gap: 12px; max-width: 900px;">
+              <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+                <button class="k-btn k-ghost" onClick="{{hear}}"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 9h4l5-4v14l-5-4H4zM16 9a4 4 0 0 1 0 6M18.5 6.5a8 8 0 0 1 0 11" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{T.listen}}</button>
+                <button class="k-btn k-ghost" onClick="{{hearSlow}}"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 9h4l5-4v14l-5-4H4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{T.slow}}</button>
+                <button class="k-btn k-ghost" onClick="{{hearParts}}"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 9h4l5-4v14l-5-4H4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{T.parts}}</button>
+              </div>
+              <label for="sent-input" style="font-size: 15px; font-weight: 800; color: #9fb4e0;">{{T.dictLabel}}</label>
+              <input id="sent-input" type="text" value="{{typed}}" onInput="{{onType}}" onKeyDown="{{onKey}}" disabled="{{checked}}" autofocus="autofocus" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" inputmode="text" style="width: 100%; box-sizing: border-box; font-family: 'Nunito', sans-serif; font-weight: 700; font-size: 22px; min-height: 60px; padding: 4px 16px; border-radius: 18px; border: 3px solid rgba(127,231,255,.6); background: rgba(255,255,255,.08); color: #f2f6ff;">
+              <sc-if value="{{checked}}" hint-placeholder-val="{{false}}">
+                <div style="display: flex; flex-direction: column; gap: 8px;">
+                  <p style="margin: 0; font-size: 16px; color: #9fb4e0;">{{sentTyped}}</p>
+                  <p style="margin: 0; font-size: 15px; font-weight: 800; color: #9fb4e0;">{{T.sentenceIs}}</p>
+                  <p style="margin: 0; font-family: 'Baloo 2', sans-serif; font-weight: 700; font-size: 26px; line-height: 1.4; display: flex; flex-wrap: wrap; gap: 0 10px;"><sc-for list="{{sentWords}}" as="sw" hint-placeholder-count="6"><span style="color: {{sw.color}}; text-decoration: {{sw.line}};">{{sw.t}}</span></sc-for></p>
+                  <p style="margin: 0; font-size: 17px; font-weight: 800; color: #ffd84c;">{{wordsRight}}</p>
+                </div>
+              </sc-if>
               <p style="margin: 0; font-size: 13px; color: #9fb4e0;">{{T.dictNote}}</p>
             </div>
           </sc-if>
