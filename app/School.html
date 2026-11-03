@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IMAGINE Kids: school views</title>
+
+<style>
+body{margin:0;background:#f4f6fb}
+.p-btn{font-family:'Nunito',sans-serif;font-weight:800;font-size:15px;border:2px solid #d5dcec;background:#fff;color:#14213d;border-radius:999px;min-height:44px;padding:0 16px;cursor:pointer;display:inline-flex;align-items:center;gap:8px}
+.p-btn.on{background:#14213d;border-color:#14213d;color:#fff}
+.p-btn:focus-visible{outline:3px solid #2f6fed;outline-offset:2px}
+.p-card{background:#fff;border:1px solid #e1e6f0;border-radius:20px;padding:20px;display:flex;flex-direction:column;gap:12px}
+.p-h{margin:0;font-family:'Baloo 2',sans-serif;font-size:20px;color:#14213d}
+.p-small{margin:0;font-size:14px;color:#55627e}
+.cell{min-width:44px;height:36px;border-radius:8px;display:grid;place-items:center;font-size:13px;font-weight:800}
+</style>
+
+<style>.local-bar{position:fixed;right:12px;bottom:12px;z-index:50;font:700 14px Nunito,system-ui,sans-serif}body{padding-bottom:72px}.local-bar a{display:inline-block;padding:10px 16px;border-radius:999px;background:#ffd84c;color:#1a1300;text-decoration:none;box-shadow:0 4px 0 #c9a320}</style>
+<link rel="stylesheet" href="lib/fonts.css">
+<meta name="robots" content="noindex, nofollow">
+<script src="lib/morphdom.min.js"></script>
+<script src="lib/dc-local.js"></script>
+</head>
+<body>
+<div id="dc-root"></div>
+<nav class="local-bar"><a href="index.html">All boards</a> <a href="privacy.html">Privacy</a></nav>
+<template id="dc-tpl">
+
+<div style="min-height: 100vh; background: #f4f6fb; color: #14213d; font-family: 'Nunito', system-ui, sans-serif;">
+  <header style="background: #081226; color: #f2f6ff;">
+    <div style="max-width: 1160px; margin: 0 auto; padding: 14px 20px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px;">
+      <div style="display: flex; flex-direction: column; flex: 1 1 auto;">
+        <span style="font-family: 'Baloo 2', sans-serif; font-weight: 800; font-size: 22px; letter-spacing: .12em; line-height: 1;">IMAGINE <span style="color: #ffd84c;">KIDS</span> <span style="font-family: 'Nunito', sans-serif; font-size: 14px; letter-spacing: .08em; color: #9fb4e0;">· {{L.area}}</span></span>
+        <span style="font-size: 13px; color: #9fb4e0;">{{L.sub}}</span>
+      </div>
+      <div role="group" aria-label="Language" style="display: flex; gap: 6px;">
+        <sc-for list="{{langs}}" as="l" hint-placeholder-count="3">
+          <button class="p-btn {{l.cls}}" onClick="{{l.pick}}" aria-pressed="{{l.on}}" style="min-width: 48px; justify-content: center;">{{l.code}}</button>
+        </sc-for>
+      </div>
+    </div>
+  </header>
+  <main style="max-width: 1160px; margin: 0 auto; padding: 24px 20px 64px; display: flex; flex-direction: column; gap: 20px;">
+    <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
+      <h1 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px; flex: 1 1 260px;">{{viewTitle}}</h1>
+      <div role="group" aria-label="Role" style="display: flex; gap: 8px; flex-wrap: wrap;">
+        <sc-for list="{{roles}}" as="r" hint-placeholder-count="2">
+          <button class="p-btn {{r.cls}}" onClick="{{r.pick}}" aria-pressed="{{r.on}}">{{r.label}}</button>
+        </sc-for>
+      </div>
+    </div>
+    <p class="p-small">{{L.sample}}</p>
+
+    <sc-if value="{{isTeacher}}" hint-placeholder-val="{{true}}">
+      <div style="display: flex; flex-direction: column; gap: 20px;">
+        <section style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px;">
+          <sc-for list="{{tTiles}}" as="t" hint-placeholder-count="4">
+            <div class="p-card" style="gap: 4px;"><p class="p-small" style="font-weight: 700;">{{t.label}}</p><p style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 34px; font-weight: 800;">{{t.value}}</p></div>
+          </sc-for>
+        </section>
+
+        <section class="p-card">
+          <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+            <h2 class="p-h" style="flex: 1 1 260px;">{{L.gridH}}</h2>
+            <div role="group" aria-label="{{L.filter}}" style="display: flex; gap: 8px; flex-wrap: wrap;">
+              <sc-for list="{{filters}}" as="f" hint-placeholder-count="3">
+                <button class="p-btn {{f.cls}}" onClick="{{f.pick}}" aria-pressed="{{f.on}}">{{f.label}}</button>
+              </sc-for>
+            </div>
+          </div>
+          <div style="overflow-x: auto;">
+            <div role="table" style="min-width: 760px; display: flex; flex-direction: column; gap: 6px; font-size: 14px;">
+              <div role="row" style="display: grid; grid-template-columns: 70px 140px repeat(5, 64px) minmax(180px, 1fr); gap: 6px; color: #55627e; font-weight: 800;"><span role="columnheader">{{L.seat}}</span><span role="columnheader">{{L.group}}</span><sc-for list="{{L.worlds}}" as="w" hint-placeholder-count="5"><span role="columnheader" style="font-size: 12px;">{{w}}</span></sc-for><span role="columnheader">{{L.next}}</span></div>
+              <sc-for list="{{rows}}" as="r" hint-placeholder-count="8">
+                <div role="row" style="display: grid; grid-template-columns: 70px 140px repeat(5, 64px) minmax(180px, 1fr); gap: 6px; align-items: center;">
+                  <span role="cell" style="font-weight: 800;">{{r.seat}}</span>
+                  <span role="cell"><span style="font-size: 12px; font-weight: 800; padding: 4px 10px; border-radius: 999px; background: {{r.gBg}}; color: {{r.gFg}}; white-space: nowrap;">{{r.group}}</span></span>
+                  <sc-for list="{{r.cells}}" as="c" hint-placeholder-count="5"><span role="cell" class="cell" style="background: {{c.bg}}; color: {{c.fg}};">{{c.v}}</span></sc-for>
+                  <span role="cell" style="font-size: 13px;">{{r.next}}</span>
+                </div>
+              </sc-for>
+            </div>
+          </div>
+          <div style="display: flex; flex-wrap: wrap; gap: 14px; font-size: 13px; color: #55627e;">
+            <sc-for list="{{legend}}" as="g" hint-placeholder-count="4"><span style="display: inline-flex; align-items: center; gap: 6px;"><span style="width: 14px; height: 14px; border-radius: 4px; background: {{g.bg}};"></span>{{g.label}}</span></sc-for>
+          </div>
+        </section>
+
+        <section style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px;">
+          <div class="p-card" style="border-top: 6px solid #8b5cf6;">
+            <h2 class="p-h">{{L.readyH}}</h2>
+            <p style="margin: 0;">{{readyList}}</p>
+            <p class="p-small">{{L.readyNote}}</p>
+            <button class="p-btn" style="align-self: flex-start;">{{L.assignCh}}</button>
+          </div>
+          <div class="p-card" style="border-top: 6px solid #ffb020;">
+            <h2 class="p-h">{{L.supportH}}</h2>
+            <p style="margin: 0;">{{supportList}}</p>
+            <p class="p-small">{{L.supportNote}}</p>
+            <button class="p-btn" style="align-self: flex-start;">{{L.assignEp}}</button>
+          </div>
+        </section>
+      </div>
+    </sc-if>
+
+    <sc-if value="{{isCustodian}}" hint-placeholder-val="{{false}}">
+      <div style="display: flex; flex-direction: column; gap: 20px;">
+        <section style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px;">
+          <sc-for list="{{cTiles}}" as="t" hint-placeholder-count="4">
+            <div class="p-card" style="gap: 4px;"><p class="p-small" style="font-weight: 700;">{{t.label}}</p><p style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 34px; font-weight: 800;">{{t.value}}</p><p class="p-small">{{t.note}}</p></div>
+          </sc-for>
+        </section>
+        <section class="p-card">
+          <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+            <h2 class="p-h" style="flex: 1 1 260px;">{{L.classesH}}</h2>
+            <button class="p-btn">{{L.addClass}}</button>
+            <button class="p-btn">{{L.addTeacher}}</button>
+          </div>
+          <div style="overflow-x: auto;">
+            <div role="table" style="min-width: 680px; display: flex; flex-direction: column; font-size: 15px;">
+              <div role="row" style="display: grid; grid-template-columns: 80px minmax(180px, 1fr) 90px minmax(180px, 1fr) 150px; gap: 10px; padding: 8px 10px; border-bottom: 1px solid #e1e6f0; color: #55627e; font-weight: 800; font-size: 14px;"><sc-for list="{{L.cCols}}" as="h" hint-placeholder-count="5"><span role="columnheader">{{h}}</span></sc-for></div>
+              <sc-for list="{{classes}}" as="c" hint-placeholder-count="5">
+                <div role="row" style="display: grid; grid-template-columns: 80px minmax(180px, 1fr) 90px minmax(180px, 1fr) 150px; gap: 10px; padding: 10px; border-bottom: 1px solid #f0f2f7; align-items: center;"><span role="cell" style="font-weight: 800;">{{c.name}}</span><span role="cell">{{c.teacher}}</span><span role="cell">{{c.seats}}</span><span role="cell" style="display: flex; align-items: center; gap: 8px;"><span style="flex: 1; height: 10px; background: #e6ebf5; border-radius: 999px; overflow: hidden; display: block;"><span style="display: block; height: 100%; width: {{c.pct}}; background: #2f6fed;"></span></span><strong>{{c.pct}}</strong></span><span role="cell">{{c.ready}}</span></div>
+              </sc-for>
+            </div>
+          </div>
+        </section>
+        <section class="p-card">
+          <h2 class="p-h">{{L.rulesH}}</h2>
+          <sc-for list="{{L.rules}}" as="w" hint-placeholder-count="4">
+            <p style="margin: 0; display: flex; gap: 10px; align-items: flex-start; font-size: 15px;"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" style="flex: none;"><path d="M5 12l4 4 10-10" fill="none" stroke="#16a36a" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{w}}</p>
+          </sc-for>
+        </section>
+      </div>
+    </sc-if>
+
+    <section role="note" style="display: flex; gap: 12px; align-items: flex-start; background: #fff8e0; border: 1px solid #f0d77a; border-radius: 16px; padding: 14px 16px;">
+      <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" style="flex: none;"><path d="M12 3l10 18H2zM12 10v5M12 18v.5" fill="none" stroke="#8a6a00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+      <p style="margin: 0; font-size: 15px; color: #4d3c00;">{{L.disclaimer}}</p>
+    </section>
+  </main>
+</div>
+</template>
+<script src="School.logic.js"></script>
+</body>
+</html>

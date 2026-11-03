@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IMAGINE Kids: free and family</title>
+
+<style>
+body{margin:0;background:#081226}
+.k-btn{font-family:'Nunito',system-ui,sans-serif;font-weight:800;font-size:17px;border:0;border-radius:999px;padding:13px 24px;min-height:48px;cursor:pointer;display:inline-flex;align-items:center;gap:10px}
+.k-btn:focus-visible,.k-tab:focus-visible,.k-lang:focus-visible,.k-key:focus-visible{outline:3px solid #ffd84c;outline-offset:3px}
+.k-primary{background:#ffd84c;color:#1a1300;box-shadow:0 6px 0 #c9a320}
+.k-ghost{background:rgba(255,255,255,.08);color:#f2f6ff;border:2px solid rgba(255,255,255,.22)}
+.k-lang{font-family:'Nunito',sans-serif;font-weight:800;font-size:14px;border:2px solid rgba(255,255,255,.25);background:transparent;color:#f2f6ff;border-radius:999px;min-width:48px;min-height:44px;cursor:pointer}
+.k-lang.on{background:#7fe7ff;border-color:#7fe7ff;color:#04202a}
+.k-tab{font-family:'Nunito',sans-serif;font-weight:800;font-size:16px;border:2px solid rgba(255,255,255,.18);background:rgba(255,255,255,.05);color:#f2f6ff;border-radius:18px;min-height:52px;padding:8px 16px;cursor:pointer;display:flex;align-items:center;gap:10px}
+.k-tab.on{background:#38e1a0;border-color:#38e1a0;color:#03261a}
+.k-num{width:28px;height:28px;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.14);font-size:14px}
+.k-tab.on .k-num{background:rgba(0,0,0,.15)}
+.k-card{border-radius:24px;padding:18px;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);display:flex;flex-direction:column;gap:10px}
+.k-ep{border-radius:22px;overflow:hidden;background:rgba(255,255,255,.06);border:2px solid rgba(255,255,255,.12);display:flex;flex-direction:column}
+.k-ep.locked{border-style:dashed;border-color:rgba(185,140,255,.5)}
+.k-key{font-family:'Baloo 2',sans-serif;font-weight:800;font-size:22px;min-width:64px;min-height:56px;border-radius:16px;border:2px solid rgba(255,255,255,.2);background:rgba(255,255,255,.06);color:#f2f6ff;cursor:pointer}
+.k-tick{display:flex;gap:10px;align-items:flex-start;font-size:16px;line-height:1.4}
+.k-note{border-left:4px solid #ffd84c;padding:10px 14px;background:rgba(255,216,76,.08);border-radius:0 14px 14px 0;font-size:15px;color:#f6ecc0}
+.k-pop{animation:pop .3s ease-out both}
+@keyframes pop{from{transform:translateY(8px);opacity:0}to{transform:none;opacity:1}}
+@media (prefers-reduced-motion: reduce){.k-pop{animation:none}}
+</style>
+
+<style>.local-bar{position:fixed;right:12px;bottom:12px;z-index:50;font:700 14px Nunito,system-ui,sans-serif}body{padding-bottom:72px}.local-bar a{display:inline-block;padding:10px 16px;border-radius:999px;background:#ffd84c;color:#1a1300;text-decoration:none;box-shadow:0 4px 0 #c9a320}</style>
+<link rel="stylesheet" href="lib/fonts.css">
+<meta name="robots" content="noindex, nofollow">
+<script src="lib/morphdom.min.js"></script>
+<script src="lib/dc-local.js"></script>
+</head>
+<body>
+<div id="dc-root"></div>
+<nav class="local-bar"><a href="index.html">All boards</a> <a href="privacy.html">Privacy</a></nav>
+<template id="dc-tpl">
+
+<div style="min-height: 100vh; background: radial-gradient(1000px 500px at 85% -10%, #10405a 0%, rgba(16,64,90,0) 60%), #081226; color: #f2f6ff; font-family: 'Nunito', system-ui, sans-serif;">
+  <header style="border-bottom: 1px solid rgba(255,255,255,.08);">
+    <div style="max-width: 1100px; margin: 0 auto; padding: 14px 20px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px;">
+      <div style="display: flex; flex-direction: column; flex: 1 1 auto;">
+        <span style="font-family: 'Baloo 2', sans-serif; font-weight: 800; font-size: 26px; letter-spacing: .12em; line-height: 1;">IMAGINE <span style="color: #ffd84c;">KIDS</span></span>
+        <span style="font-size: 13px; letter-spacing: .12em; text-transform: uppercase; color: #9fb4e0;">{{L.title}}</span>
+      </div>
+      <div role="group" aria-label="Language" style="display: flex; gap: 6px;">
+        <sc-for list="{{langs}}" as="l" hint-placeholder-count="3">
+          <button class="k-lang {{l.cls}}" onClick="{{l.pick}}" aria-pressed="{{l.on}}">{{l.code}}</button>
+        </sc-for>
+      </div>
+    </div>
+  </header>
+
+  <main style="max-width: 1100px; margin: 0 auto; padding: 24px 20px 64px; display: flex; flex-direction: column; gap: 20px;">
+    <p style="margin: 0; font-size: 15px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: #9fb4e0;">{{L.flow}}</p>
+    <nav aria-label="Steps" style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <sc-for list="{{tabs}}" as="t" hint-placeholder-count="4">
+        <button class="k-tab {{t.cls}}" onClick="{{t.pick}}" aria-pressed="{{t.on}}"><span class="k-num">{{t.n}}</span>{{t.label}}</button>
+      </sc-for>
+    </nav>
+
+    <sc-if value="{{isKid}}" hint-placeholder-val="{{true}}">
+      <section class="k-pop" style="display: flex; flex-direction: column; gap: 16px;">
+        <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+          <img src="assets/img_sunny.webp" alt="" style="width: 56px; height: 56px; border-radius: 50%;">
+          <div style="flex: 1 1 300px;">
+            <h1 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 32px;">{{L.kidH}}</h1>
+            <p style="margin: 0; color: #c9d6f2; font-size: 17px;">{{L.kidP}}</p>
+          </div>
+          <span style="font-weight: 800; padding: 8px 14px; border-radius: 999px; background: {{statusBg}}; color: {{statusFg}};">{{statusText}}</span>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px;">
+          <sc-for list="{{eps}}" as="e" hint-placeholder-count="6">
+            <article class="k-ep {{e.cls}}">
+              <div style="position: relative; aspect-ratio: 16 / 9; background: #0e1d3d;">
+                <img src="{{e.img}}" alt="" style="width: 100%; height: 100%; object-fit: cover; opacity: {{e.op}};">
+                <span style="position: absolute; left: 10px; top: 10px; font-size: 12px; font-weight: 800; padding: 4px 10px; border-radius: 999px; background: {{e.badgeBg}}; color: {{e.badgeFg}}; display: inline-flex; align-items: center; gap: 6px;">
+                  <sc-if value="{{e.locked}}" hint-placeholder-val="{{false}}"><svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true"><path d="M7 11V8a5 5 0 0 1 10 0v3M6 11h12v9H6z" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linejoin="round"></path></svg></sc-if>{{e.badge}}</span>
+              </div>
+              <div style="padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 6px;">
+                <p style="margin: 0; font-size: 13px; font-weight: 800; color: #9fb4e0;">{{e.num}}</p>
+                <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 20px; line-height: 1.15;">{{e.title}}</h2>
+                <sc-if value="{{e.locked}}" hint-placeholder-val="{{false}}"><p style="margin: 0; font-size: 14px; color: #d8c4ff; font-weight: 700;">{{L.askGrownUp}}</p></sc-if>
+              </div>
+            </article>
+          </sc-for>
+        </div>
+        <div class="k-note">{{L.kidNote}}</div>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isGate}}" hint-placeholder-val="{{false}}">
+      <section class="k-pop" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 18px; align-items: start;">
+        <div class="k-card" style="gap: 14px;">
+          <h1 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px;">{{L.gateH}}</h1>
+          <p style="margin: 0; font-size: 18px;">{{L.gateQ}}</p>
+          <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+            <sc-for list="{{gateKeys}}" as="g" hint-placeholder-count="4">
+              <button class="k-key" onClick="{{g.pick}}" style="border-color: {{g.border}};">{{g.v}}</button>
+            </sc-for>
+          </div>
+          <sc-if value="{{gateMsgOn}}" hint-placeholder-val="{{false}}"><p style="margin: 0; font-weight: 800; color: {{gateMsgColor}};">{{gateMsg}}</p></sc-if>
+        </div>
+        <div class="k-card">
+          <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 22px; color: #ffd84c;">{{L.whyH}}</h2>
+          <sc-for list="{{L.whyList}}" as="w" hint-placeholder-count="3">
+            <p class="k-tick" style="margin: 0;"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" style="flex: none;"><path d="M5 12l4 4 10-10" fill="none" stroke="#38e1a0" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{w}}</p>
+          </sc-for>
+        </div>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isPlans}}" hint-placeholder-val="{{false}}">
+      <section class="k-pop" style="display: flex; flex-direction: column; gap: 16px;">
+        <h1 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 32px;">{{L.plansH}}</h1>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;">
+          <sc-for list="{{plans}}" as="p" hint-placeholder-count="3">
+            <div class="k-card" style="border: 2px solid {{p.border}};">
+              <p style="margin: 0; font-size: 13px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: {{p.color}};">{{p.tag}}</p>
+              <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 26px;">{{p.name}}</h2>
+              <p style="margin: 0; font-size: 16px; color: #c9d6f2;">{{p.price}}</p>
+              <sc-for list="{{p.items}}" as="it" hint-placeholder-count="5">
+                <p class="k-tick" style="margin: 0;"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" style="flex: none;"><path d="M5 12l4 4 10-10" fill="none" stroke="{{p.color}}" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{it}}</p>
+              </sc-for>
+            </div>
+          </sc-for>
+        </div>
+        <div class="k-note">{{L.plansNote}}</div>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isCode}}" hint-placeholder-val="{{false}}">
+      <section class="k-pop" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 18px; align-items: start;">
+        <div class="k-card" style="gap: 14px;">
+          <h1 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px;">{{L.codeH}}</h1>
+          <p style="margin: 0; font-size: 17px; color: #c9d6f2;">{{L.codeP}}</p>
+          <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;" aria-label="{{L.codeH}}">
+            <sc-for list="{{codeParts}}" as="c" hint-placeholder-count="3">
+              <span style="font-family: 'Baloo 2', sans-serif; font-weight: 800; font-size: 30px; letter-spacing: .12em; padding: 6px 14px; border-radius: 14px; background: rgba(255,255,255,.08); border: 2px solid {{c.border}};">{{c.v}}</span>
+            </sc-for>
+          </div>
+          <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+            <button class="k-btn k-primary" onClick="{{enterCode}}">{{codeBtn}}</button>
+            <sc-if value="{{unlocked}}" hint-placeholder-val="{{false}}"><button class="k-btn k-ghost" onClick="{{lockAgain}}">{{L.lockAgain}}</button></sc-if>
+          </div>
+          <sc-if value="{{unlocked}}" hint-placeholder-val="{{false}}"><p class="k-pop" style="margin: 0; font-weight: 800; color: #38e1a0;">{{L.codeOk}}</p></sc-if>
+        </div>
+        <div class="k-card">
+          <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 22px; color: #ffd84c;">{{L.codeRulesH}}</h2>
+          <sc-for list="{{L.codeRules}}" as="w" hint-placeholder-count="5">
+            <p class="k-tick" style="margin: 0;"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" style="flex: none;"><path d="M5 12l4 4 10-10" fill="none" stroke="#38e1a0" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{w}}</p>
+          </sc-for>
+        </div>
+      </section>
+    </sc-if>
+  </main>
+</div>
+</template>
+<script src="Family.logic.js"></script>
+</body>
+</html>

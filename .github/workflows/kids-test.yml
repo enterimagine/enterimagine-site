@@ -1,0 +1,43 @@
+# IMAGINE Kids test site: deploys the kids-test branch to a separate Azure Static Web Apps
+# preview environment ("kidstest"). The production website (enterimagine.com) is not touched.
+# The job uses the `production` environment only to reach the deployment token, so GitHub
+# still waits for the owner's approval before anything is uploaded.
+name: kids-test
+on:
+  push:
+    branches: [kids-test]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: kids-test
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    environment:
+      name: production
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Upload the kids test site to the kidstest preview environment
+        id: swa
+        uses: Azure/static-web-apps-deploy@1a947af9992250f3bc2e68ad0754c0b0c11566c9 # v1
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
+          action: upload
+          app_location: app
+          output_location: ""
+          skip_app_build: true
+          deployment_environment: kidstest
+      - name: Smoke test
+        env:
+          URL: ${{ steps.swa.outputs.static_web_app_url }}
+        run: |
+          echo "Test site: $URL"
+          for f in index.html privacy.html Main.html Subjects.html Logic2.html Episodes.html lib/dc-local.js assets/img2_px1.webp; do
+            code=$(curl -s -o /dev/null -w '%{http_code}' "$URL/$f"); echo "$f $code"; [ "$code" = "200" ] || exit 1
+          done
+          curl -sI "$URL/index.html" | grep -i "x-robots-tag: noindex"

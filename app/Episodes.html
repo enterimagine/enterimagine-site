@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IMAGINE Kids: Pixel and Qubi episodes</title>
+
+<style>
+body{margin:0;background:#081226}
+.k-btn{font-family:'Nunito',system-ui,sans-serif;font-weight:800;font-size:17px;border:0;border-radius:999px;padding:13px 24px;min-height:48px;cursor:pointer;display:inline-flex;align-items:center;gap:10px}
+.k-btn:focus-visible,.k-tab:focus-visible,.k-opt:focus-visible,.k-lang:focus-visible{outline:3px solid #ffd84c;outline-offset:3px}
+.k-primary{background:#ffd84c;color:#1a1300;box-shadow:0 6px 0 #c9a320}
+.k-primary:disabled{opacity:.5;cursor:default}
+.k-ghost{background:rgba(255,255,255,.08);color:#f2f6ff;border:2px solid rgba(255,255,255,.22)}
+.k-ghost:disabled{opacity:.4;cursor:default}
+.k-lang{font-family:'Nunito',sans-serif;font-weight:800;font-size:14px;border:2px solid rgba(255,255,255,.25);background:transparent;color:#f2f6ff;border-radius:999px;min-width:48px;min-height:44px;cursor:pointer}
+.k-lang.on{background:#7fe7ff;border-color:#7fe7ff;color:#04202a}
+.k-tab{font-family:'Nunito',sans-serif;font-weight:800;font-size:16px;border:2px solid rgba(255,255,255,.18);background:rgba(255,255,255,.05);color:#f2f6ff;border-radius:18px;min-height:52px;padding:8px 16px;cursor:pointer;display:flex;align-items:center;gap:8px}
+.k-tab.on{background:#ffd84c;border-color:#ffd84c;color:#1a1300}
+.k-opt{font-family:'Nunito',sans-serif;font-weight:800;font-size:18px;min-height:64px;border-radius:20px;border:3px solid rgba(255,255,255,.2);background:rgba(255,255,255,.06);color:#f2f6ff;cursor:pointer;padding:10px 18px;text-align:left}
+.k-opt.picked{border-color:#7fe7ff;background:rgba(127,231,255,.14)}
+.k-opt.right{border-color:#38e1a0;background:rgba(56,225,160,.22)}
+.k-opt.wrong{border-color:#ff8a8a;background:rgba(255,138,138,.16)}
+.k-pop{animation:pop .3s ease-out both}
+@keyframes pop{from{transform:translateY(8px);opacity:0}to{transform:none;opacity:1}}
+.k-spin{animation:spin .5s linear infinite}
+@keyframes spin{from{transform:rotateY(0)}to{transform:rotateY(360deg)}}
+@media (prefers-reduced-motion: reduce){.k-pop,.k-spin{animation:none}}
+</style>
+
+<style>.local-bar{position:fixed;right:12px;bottom:12px;z-index:50;font:700 14px Nunito,system-ui,sans-serif}body{padding-bottom:72px}.local-bar a{display:inline-block;padding:10px 16px;border-radius:999px;background:#ffd84c;color:#1a1300;text-decoration:none;box-shadow:0 4px 0 #c9a320}</style>
+<link rel="stylesheet" href="lib/fonts.css">
+<meta name="robots" content="noindex, nofollow">
+<script src="lib/morphdom.min.js"></script>
+<script src="lib/dc-local.js"></script>
+</head>
+<body>
+<div id="dc-root"></div>
+<nav class="local-bar"><a href="index.html">All boards</a> <a href="privacy.html">Privacy</a></nav>
+<template id="dc-tpl">
+
+<div style="min-height: 100vh; background: radial-gradient(1000px 500px at 85% -10%, {{glow}} 0%, rgba(8,18,38,0) 60%), #081226; color: #f2f6ff; font-family: 'Nunito', system-ui, sans-serif;">
+  <header style="border-bottom: 1px solid rgba(255,255,255,.08);">
+    <div style="max-width: 1100px; margin: 0 auto; padding: 14px 20px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px;">
+      <div style="display: flex; flex-direction: column; flex: 1 1 auto;">
+        <span style="font-family: 'Baloo 2', sans-serif; font-weight: 800; font-size: 26px; letter-spacing: .12em; line-height: 1;">IMAGINE <span style="color: #ffd84c;">KIDS</span></span>
+        <span style="font-size: 13px; letter-spacing: .12em; text-transform: uppercase; color: #9fb4e0;">{{U.boardTitle}}</span>
+      </div>
+      <div role="group" aria-label="Language" style="display: flex; gap: 6px;">
+        <sc-for list="{{langs}}" as="l" hint-placeholder-count="3">
+          <button class="k-lang {{l.cls}}" onClick="{{l.pick}}" aria-pressed="{{l.on}}">{{l.code}}</button>
+        </sc-for>
+      </div>
+    </div>
+  </header>
+  <main style="max-width: 1100px; margin: 0 auto; padding: 24px 20px 64px; display: flex; flex-direction: column; gap: 18px;">
+    <nav aria-label="Worlds" style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <sc-for list="{{worlds}}" as="w" hint-placeholder-count="2">
+        <button class="k-tab" onClick="{{w.pick}}" aria-pressed="{{w.on}}" style="background: {{w.bg}}; border-color: {{w.border}}; color: {{w.fg}};"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="{{w.ic}}" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{w.label}}</button>
+      </sc-for>
+    </nav>
+    <div style="display: flex; flex-direction: column; gap: 4px;">
+      <p style="margin: 0; font-size: 14px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: {{accent}};">{{worldName}} · {{U.with}} {{guide}}</p>
+      <h1 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: clamp(28px, 3.6vw, 40px); line-height: 1.1;">{{epTitle}}</h1>
+    </div>
+    <nav aria-label="Steps" style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <sc-for list="{{modes}}" as="m" hint-placeholder-count="3">
+        <button class="k-tab {{m.cls}}" onClick="{{m.pick}}" aria-pressed="{{m.on}}">{{m.label}}</button>
+      </sc-for>
+    </nav>
+
+    <sc-if value="{{isWatch}}" hint-placeholder-val="{{true}}">
+      <section class="k-pop" key="{{sceneKey}}" style="display: flex; flex-direction: column; gap: 14px;">
+        <div style="position: relative; aspect-ratio: 16 / 9; border-radius: 28px; overflow: hidden; background: linear-gradient(135deg, {{glow}}, #0e1d3d 70%); border: 1px solid rgba(255,255,255,.12);">
+          <sc-if value="{{hasImg}}" hint-placeholder-val="{{false}}"><img src="{{sceneImg}}" alt="{{sceneAlt}}" style="width: 100%; height: 100%; object-fit: cover;"></sc-if>
+          <sc-if value="{{noImg}}" hint-placeholder-val="{{true}}">
+            <div style="position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; padding: 32px; text-align: center;">
+              <svg viewBox="0 0 24 24" width="84" height="84" aria-hidden="true"><path d="{{worldIcon}}" fill="none" stroke="{{accent}}" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+              <p style="margin: 0; font-size: 13px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: #9fb4e0;">{{U.picSoon}}</p>
+              <p style="margin: 0; max-width: 620px; font-size: 15px; color: #c9d6f2;">{{sceneAlt}}</p>
+            </div>
+          </sc-if>
+          <span style="position: absolute; left: 14px; top: 14px; font-size: 13px; font-weight: 800; padding: 6px 12px; border-radius: 999px; background: rgba(8,18,38,.75);">{{sceneCounter}}</span>
+        </div>
+        <div style="display: flex; gap: 14px; align-items: flex-start; background: rgba(8,18,38,.85); border: 1px solid rgba(255,255,255,.12); border-radius: 22px; padding: 16px 18px;">
+          <span style="flex: none; width: 52px; height: 52px; border-radius: 50%; display: grid; place-items: center; font-family: 'Baloo 2', sans-serif; font-weight: 800; font-size: 22px; background: {{speakerColor}}; color: #0b1530;">{{speakerInitial}}</span>
+          <p style="margin: 0; font-size: 20px; line-height: 1.45;"><strong style="color: {{speakerColor}};">{{speaker}}:</strong> {{line}}</p>
+        </div>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+          <button class="k-btn k-ghost" onClick="{{prev}}" disabled="{{isFirst}}">{{U.back}}</button>
+          <button class="k-btn k-primary" onClick="{{togglePlay}}">
+            <sc-if value="{{playing}}" hint-placeholder-val="{{false}}"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M7 4h4v16H7zM13 4h4v16h-4z" fill="currentColor"></path></svg></sc-if>
+            <sc-if value="{{notPlaying}}" hint-placeholder-val="{{true}}"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M7 4l13 8-13 8z" fill="currentColor"></path></svg></sc-if>
+            {{playLabel}}</button>
+          <button class="k-btn k-ghost" onClick="{{next}}">{{nextLabel}}</button>
+          <button class="k-btn k-ghost" onClick="{{toggleVoice}}" aria-pressed="{{voiceOn}}"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="{{voiceIcon}}" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{U.voice}}</button>
+        </div>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isQuiz}}" hint-placeholder-val="{{false}}">
+      <section class="k-pop" key="{{quizKey}}" style="border-radius: 28px; padding: 24px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); display: flex; flex-direction: column; gap: 16px;">
+        <sc-if value="{{quizRunning}}" hint-placeholder-val="{{true}}">
+          <div style="display: flex; flex-direction: column; gap: 16px;">
+            <p style="margin: 0; font-size: 14px; font-weight: 800; color: #9fb4e0;">{{quizCounter}}</p>
+            <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px;">{{quizQ}}</h2>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px;">
+              <sc-for list="{{quizOpts}}" as="o" hint-placeholder-count="3">
+                <button class="k-opt {{o.cls}}" onClick="{{o.pick}}" disabled="{{quizChecked}}">{{o.text}}</button>
+              </sc-for>
+            </div>
+            <sc-if value="{{quizChecked}}" hint-placeholder-val="{{false}}"><p class="k-pop" style="margin: 0; font-size: 18px; font-weight: 800; color: {{verdictColor}};">{{verdict}}</p></sc-if>
+            <div><button class="k-btn k-primary" onClick="{{quizAction}}" disabled="{{quizDisabled}}">{{quizActionLabel}}</button></div>
+          </div>
+        </sc-if>
+        <sc-if value="{{quizDone}}" hint-placeholder-val="{{false}}">
+          <div style="display: flex; flex-direction: column; gap: 12px; align-items: flex-start;">
+            <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 32px;">{{quizResult}}</h2>
+            <p style="margin: 0; font-size: 18px; color: #dfe8ff;">{{U.quizText}}</p>
+            <div style="display: flex; gap: 10px; flex-wrap: wrap;"><button class="k-btn k-ghost" onClick="{{quizAgain}}">{{U.again}}</button><button class="k-btn k-primary" onClick="{{toGame}}">{{U.playGame}}</button></div>
+          </div>
+        </sc-if>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isGamePixel}}" hint-placeholder-val="{{false}}">
+      <section class="k-pop" style="border-radius: 28px; padding: 24px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); display: flex; flex-direction: column; gap: 16px;">
+        <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px;">{{U.pxTitle}}</h2>
+        <p style="margin: 0; font-size: 18px; color: #dfe8ff;">{{U.pxIntro}}</p>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 12px;">
+          <sc-for list="{{cards}}" as="c" hint-placeholder-count="6">
+            <div style="border-radius: 20px; padding: 14px; background: rgba(255,255,255,.06); border: 2px solid {{c.border}}; display: flex; flex-direction: column; gap: 10px;">
+              <p style="margin: 0; font-size: 18px; font-weight: 700;">{{c.text}}</p>
+              <div style="display: flex; gap: 8px;">
+                <button class="k-btn k-ghost" onClick="{{c.cat}}" aria-pressed="{{c.isCat}}" style="min-height: 44px; padding: 8px 16px; font-size: 15px; background: {{c.catBg}};">{{U.cat}}</button>
+                <button class="k-btn k-ghost" onClick="{{c.dog}}" aria-pressed="{{c.isDog}}" style="min-height: 44px; padding: 8px 16px; font-size: 15px; background: {{c.dogBg}};">{{U.dog}}</button>
+              </div>
+            </div>
+          </sc-for>
+        </div>
+        <p style="margin: 0; font-weight: 800; color: #ffd84c;" aria-live="polite">{{pxStatus}}</p>
+        <sc-if value="{{pxReady}}" hint-placeholder-val="{{false}}">
+          <div class="k-pop" style="border-radius: 20px; padding: 16px; background: rgba(76,195,255,.14); border: 2px solid #4cc3ff; display: flex; flex-direction: column; gap: 8px;">
+            <p style="margin: 0; font-size: 15px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: #7fe7ff;">{{U.pxTest}}</p>
+            <p style="margin: 0; font-size: 20px;">{{U.pxNew}}</p>
+            <p style="margin: 0; font-size: 22px; font-weight: 800;">{{U.pxGuess}}</p>
+          </div>
+        </sc-if>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isGameQubi}}" hint-placeholder-val="{{false}}">
+      <section class="k-pop" style="border-radius: 28px; padding: 24px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); display: flex; flex-direction: column; gap: 16px;">
+        <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px;">{{U.qbTitle}}</h2>
+        <p style="margin: 0; font-size: 18px; color: #dfe8ff;">{{U.qbIntro}}</p>
+        <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+          <div style="perspective: 400px;">
+            <div class="{{coinCls}}" style="width: 140px; height: 140px; border-radius: 50%; background: radial-gradient(circle at 35% 30%, #fff3b0, #ffd84c 45%, #c9a320); border: 6px solid #e8bf2e; display: grid; place-items: center; font-family: 'Baloo 2', sans-serif; font-weight: 800; font-size: 26px; color: #4d3c00; text-align: center;" role="img" aria-label="{{coinText}}">{{coinText}}</div>
+          </div>
+          <div style="display: flex; flex-direction: column; gap: 10px;">
+            <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+              <button class="k-btn k-ghost" onClick="{{spin}}" disabled="{{spinning}}">{{U.spin}}</button>
+              <button class="k-btn k-primary" onClick="{{measure}}" disabled="{{notSpinning}}">{{U.measure}}</button>
+            </div>
+            <p style="margin: 0; font-size: 18px;">{{U.heads}}: <strong>{{heads}}</strong> · {{U.tails}}: <strong>{{tails}}</strong></p>
+          </div>
+        </div>
+        <sc-if value="{{qbDone}}" hint-placeholder-val="{{false}}"><p class="k-pop" style="margin: 0; font-size: 18px; font-weight: 800; color: #b98cff;">{{U.qbDone}}</p></sc-if>
+      </section>
+    </sc-if>
+
+    <p style="margin: 0; font-size: 14px; color: #9fb4e0;">{{adult}}</p>
+  </main>
+</div>
+</template>
+<script src="Episodes.logic.js"></script>
+</body>
+</html>

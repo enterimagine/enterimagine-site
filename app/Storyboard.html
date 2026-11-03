@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=1300">
+<title>IMAGINE Kids episode 1 storyboard</title>
+
+<style>body{margin:0;background:#081226}</style>
+
+<style>.local-bar{position:fixed;right:12px;bottom:12px;z-index:50;font:700 14px Nunito,system-ui,sans-serif}body{padding-bottom:72px}.local-bar a{display:inline-block;padding:10px 16px;border-radius:999px;background:#ffd84c;color:#1a1300;text-decoration:none;box-shadow:0 4px 0 #c9a320}</style>
+<link rel="stylesheet" href="lib/fonts.css">
+<meta name="robots" content="noindex, nofollow">
+<script src="lib/morphdom.min.js"></script>
+<script src="lib/dc-local.js"></script>
+</head>
+<body>
+<div id="dc-root"></div>
+<nav class="local-bar"><a href="index.html">All boards</a> <a href="privacy.html">Privacy</a></nav>
+<template id="dc-tpl">
+
+<div style="width: 1280px; height: 1240px; box-sizing: border-box; padding: 48px; background: #081226; color: #f2f6ff; font-family: 'Nunito', system-ui, sans-serif; display: flex; flex-direction: column; gap: 24px;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-end; gap: 24px;">
+    <div>
+      <p style="margin: 0; font-size: 14px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: #38e1a0;">IMAGINE KIDS · Energy · Episode 1 · storyboard</p>
+      <h1 style="margin: 6px 0 0; font-family: 'Baloo 2', sans-serif; font-size: 44px; line-height: 1.05;">How does sunshine switch on the lights?</h1>
+    </div>
+    <p style="margin: 0; max-width: 380px; font-size: 15px; line-height: 1.5; color: #c9d6f5;">About 4 minutes, 6 scenes. One video track, three voice tracks and subtitles: English, French and Dutch.</p>
+  </div>
+  <div style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px;">
+    <sc-for list="{{scenes}}" as="s" hint-placeholder-count="6">
+      <div style="background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); border-radius: 22px; overflow: hidden; display: flex; flex-direction: column;">
+        <div style="position: relative;">
+          <img src="{{s.img}}" alt="{{s.alt}}" style="display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover;">
+          <span style="position: absolute; top: 10px; left: 10px; background: #ffd84c; color: #1a1300; font-weight: 800; font-size: 13px; border-radius: 999px; padding: 4px 10px;">{{s.n}} · {{s.time}}</span>
+          <img src="{{s.avatar}}" alt="{{s.who}}" style="position: absolute; bottom: -22px; right: 14px; width: 52px; height: 52px; border-radius: 50%; border: 3px solid {{s.ring}};">
+        </div>
+        <div style="padding: 16px 16px 18px; display: flex; flex-direction: column; gap: 8px;">
+          <p style="margin: 0; font-size: 16px; font-weight: 800; line-height: 1.4;"><span style="color: {{s.ring}};">{{s.who}}:</span> {{s.en}}</p>
+          <p style="margin: 0; font-size: 12.5px; line-height: 1.45; color: #b9c8ea;"><strong style="color: #7fe7ff;">FR</strong> {{s.fr}}</p>
+          <p style="margin: 0; font-size: 12.5px; line-height: 1.45; color: #b9c8ea;"><strong style="color: #7fe7ff;">NL</strong> {{s.nl}}</p>
+          <p style="margin: 4px 0 0; font-size: 12.5px; color: #9fb4e0;"><strong style="color: #ffd84c;">On screen:</strong> {{s.shot}}</p>
+        </div>
+      </div>
+    </sc-for>
+  </div>
+</div>
+</template>
+<script src="Storyboard.logic.js"></script>
+</body>
+</html>
