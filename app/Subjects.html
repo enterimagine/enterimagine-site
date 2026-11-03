@@ -35,7 +35,7 @@ body{margin:0;background:#081226}
 </head>
 <body>
 <div id="dc-root"></div>
-<nav class="local-bar"><a href="index.html">All boards</a> <a href="privacy.html">Privacy</a></nav>
+<nav class="local-bar"><a href="index.html" data-keep-lang data-base="index.html" aria-label="Home"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" style="vertical-align:-3px;margin-right:6px"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/></svg>Home</a> <a href="privacy.html" data-keep-lang data-base="privacy.html">Privacy</a></nav>
 <template id="dc-tpl">
 
 <div style="min-height: 100vh; background: radial-gradient(1000px 500px at 85% -10%, #0f4a3a 0%, rgba(8,18,38,0) 60%), #081226; color: #f2f6ff; font-family: 'Nunito', system-ui, sans-serif;">
@@ -84,6 +84,12 @@ body{margin:0;background:#081226}
           </div>
         </sc-if>
         <p style="margin: 0; font-size: 14px; color: #9fb4e0;">{{mixedNote}}</p>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+          <span style="font-weight: 800; color: #9fb4e0;">{{T.sModeLabel}}</span>
+          <sc-for list="{{mmodes}}" as="m" hint-placeholder-count="2">
+            <button class="k-chip {{m.cls}}" onClick="{{m.pick}}" aria-pressed="{{m.on}}">{{m.label}}</button>
+          </sc-for>
+        </div>
       </div>
     </sc-if>
     <sc-if value="{{isSums}}" hint-placeholder-val="{{false}}">
@@ -93,6 +99,13 @@ body{margin:0;background:#081226}
           <button class="k-chip {{lv.cls}}" onClick="{{lv.pick}}" aria-pressed="{{lv.on}}">{{lv.label}}</button>
         </sc-for>
       </div>
+      <div style="height: 10px;"></div>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+          <span style="font-weight: 800; color: #9fb4e0;">{{T.sModeLabel}}</span>
+          <sc-for list="{{mmodes}}" as="m" hint-placeholder-count="2">
+            <button class="k-chip {{m.cls}}" onClick="{{m.pick}}" aria-pressed="{{m.on}}">{{m.label}}</button>
+          </sc-for>
+        </div>
     </sc-if>
     <sc-if value="{{isMinus}}" hint-placeholder-val="{{false}}">
       <div style="display: flex; flex-direction: column; gap: 10px;">
@@ -113,12 +126,19 @@ body{margin:0;background:#081226}
     <sc-if value="{{isDictTab}}" hint-placeholder-val="{{false}}">
       <div style="display: flex; flex-direction: column; gap: 10px;">
         <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+          <span style="font-weight: 800; color: #9fb4e0;">{{T.sModeLabel}}</span>
+          <sc-for list="{{dmodes}}" as="m" hint-placeholder-count="2">
+            <button class="k-chip {{m.cls}}" onClick="{{m.pick}}" aria-pressed="{{m.on}}">{{m.label}}</button>
+          </sc-for>
+        </div>
+        <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
           <span style="font-weight: 800; color: #9fb4e0;">{{T.level}}</span>
           <sc-for list="{{dictLevels}}" as="lv" hint-placeholder-count="4">
             <button class="k-chip {{lv.cls}}" onClick="{{lv.pick}}" aria-pressed="{{lv.on}}">{{lv.label}}</button>
           </sc-for>
         </div>
-        <p style="margin: 0; font-size: 14px; color: #9fb4e0;">{{T.dictRule}}</p>
+        <sc-if value="{{dictSents}}" hint-placeholder-val="{{false}}"><p style="margin: 0; font-size: 14px; color: #9fb4e0;">{{T.dictRule}}</p></sc-if>
+        <sc-if value="{{dictWords}}" hint-placeholder-val="{{true}}"><p style="margin: 0; font-size: 14px; color: #9fb4e0;">{{T.dwNote}}</p></sc-if>
       </div>
     </sc-if>
     <sc-if value="{{isSpell}}" hint-placeholder-val="{{false}}">

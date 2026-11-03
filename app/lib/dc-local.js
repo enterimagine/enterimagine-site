@@ -98,6 +98,8 @@
         return true;
       }
     });
+    var lg = this.comp.state && this.comp.state.lang;
+    if (lg) document.querySelectorAll('a[data-keep-lang]').forEach(function (a) { a.setAttribute('href', a.getAttribute('data-base') + '#lang=' + lg); });
     var af = this.root.querySelector('[autofocus]:not([disabled])');
     if (af && af !== document.activeElement && !(document.activeElement && /INPUT|TEXTAREA/.test(document.activeElement.tagName))) { try { af.focus(); } catch (e) {} }
   };
@@ -114,5 +116,10 @@
     window.__app = app;
     app.render();
     if (app.comp.componentDidMount) app.comp.componentDidMount();
+    var m = /lang=(en|fr|nl)/.exec(location.hash || '');
+    if (m && app.comp.state && app.comp.state.lang !== m[1]) {
+      var v = app.comp.renderVals(), hit = (v.langs || []).filter(function (x) { return String(x.code || x.key || '').toLowerCase() === m[1]; })[0];
+      if (hit && typeof hit.pick === 'function') hit.pick(); else app.comp.setState({ lang: m[1] });
+    }
   });
 })();

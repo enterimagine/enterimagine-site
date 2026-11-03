@@ -6,6 +6,9 @@
     btns.forEach(function (b) { b.setAttribute('aria-pressed', b.getAttribute('data-set') === l ? 'true' : 'false'); });
   }
   btns.forEach(function (b) { b.addEventListener('click', function () { set(b.getAttribute('data-set')); }); });
-  var q = (location.hash || '').replace('#', '');
-  if (q === 'fr' || q === 'nl' || q === 'en') set(q);
+  var m = /(?:lang=)?(en|fr|nl)/.exec(location.hash || '');
+  if (m) set(m[1]);
+  var home = document.querySelector('a[href="index.html"]');
+  btns.forEach(function (b) { b.addEventListener('click', function () { if (home) home.setAttribute('href', 'index.html#lang=' + b.getAttribute('data-set')); }); });
+  if (home && m) home.setAttribute('href', 'index.html#lang=' + m[1]);
 })();
