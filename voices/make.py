@@ -8,7 +8,7 @@ import json, os, sys, time, urllib.request, urllib.error
 from xml.sax.saxutils import escape
 
 key = os.environ.get('AZURE_SPEECH_KEY', '').strip()
-region = os.environ.get('AZURE_SPEECH_REGION', '').strip()
+region = os.environ.get('AZURE_SPEECH_REGION', '').strip().lower().replace(' ', '')  # 'North Europe' -> 'northeurope'
 if not key or not region:
     sys.exit('AZURE_SPEECH_KEY secret or AZURE_SPEECH_REGION variable is missing in the production environment.')
 url = f'https://{region}.tts.speech.microsoft.com/cognitiveservices/v1'
