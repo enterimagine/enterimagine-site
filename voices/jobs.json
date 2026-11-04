@@ -1,0 +1,542 @@
+[
+ {
+  "id": "kids-voice-en1",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Hi, I’m Sunny! Every lamp, tablet and fridge needs energy. But where does it come from?"
+ },
+ {
+  "id": "kids-voice-en2",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Look up! The Sun sends us light. Solar panels catch that light and turn it into electricity."
+ },
+ {
+  "id": "kids-voice-en3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Wind can help too. It spins the blades of a wind turbine, and a generator inside makes electricity."
+ },
+ {
+  "id": "kids-voice-en4",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "But at night the Sun is gone, and some nights there is no wind. So we store energy in big batteries for later."
+ },
+ {
+  "id": "kids-voice-en5",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "“What if everyone switches everything on at once?” Then the grid has to share energy smartly, like passing plates at a big dinner."
+ },
+ {
+  "id": "kids-voice-en6",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Now you know! What would YOU power with sunshine and wind? Let’s build your idea."
+ },
+ {
+  "id": "kids-voice-fr1",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Salut, je suis Sunny ! Chaque lampe, tablette et frigo a besoin d’énergie. Mais d’où vient-elle ?"
+ },
+ {
+  "id": "kids-voice-fr2",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Regarde en l’air ! Le Soleil nous envoie de la lumière. Les panneaux solaires l’attrapent et la transforment en électricité."
+ },
+ {
+  "id": "kids-voice-fr3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Le vent peut aussi aider. Il fait tourner les pales d’une éolienne, et un générateur à l’intérieur produit de l’électricité."
+ },
+ {
+  "id": "kids-voice-fr4",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Mais la nuit, il n’y a plus de soleil, et parfois pas de vent. Alors on garde l’énergie dans de grosses batteries pour plus tard."
+ },
+ {
+  "id": "kids-voice-fr5",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "« Et si tout le monde allume tout en même temps ? » Alors le réseau doit partager l’énergie intelligemment, comme on fait passer les plats à un grand repas."
+ },
+ {
+  "id": "kids-voice-fr6",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Maintenant tu sais ! Qu’est-ce que TOI tu alimenterais avec le soleil et le vent ? Invente ton idée."
+ },
+ {
+  "id": "kids-voice-nl1",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Hoi, ik ben Sunny! Elke lamp, tablet en koelkast heeft energie nodig. Maar waar komt die vandaan?"
+ },
+ {
+  "id": "kids-voice-nl2",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Kijk omhoog! De zon stuurt ons licht. Zonnepanelen vangen dat licht en maken er elektriciteit van."
+ },
+ {
+  "id": "kids-voice-nl3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "De wind helpt ook. Hij draait de wieken van een windmolen rond, en een generator binnenin maakt elektriciteit."
+ },
+ {
+  "id": "kids-voice-nl4",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Maar ’s nachts is de zon weg, en soms waait het niet. Daarom bewaren we energie in grote batterijen voor later."
+ },
+ {
+  "id": "kids-voice-nl5",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "“En als iedereen alles tegelijk aanzet?” Dan moet het net de energie slim verdelen, zoals je schalen doorgeeft aan een grote tafel."
+ },
+ {
+  "id": "kids-voice-nl6",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Nu weet je het! Wat zou JIJ laten werken op zon en wind? Bouw je eigen idee."
+ },
+ {
+  "id": "px-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, look at this photo. Is it a cat or a dog? I know right away. But how would a computer know?"
+ },
+ {
+  "id": "px-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "A computer doesn’t see a cat. It sees thousands of tiny colored dots, called pixels. That’s where my name comes from!"
+ },
+ {
+  "id": "px-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "So we teach it with examples. We show it thousands of photos, and each one has a label: cat, or dog. Like flashcards!"
+ },
+ {
+  "id": "px-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "The computer guesses, then checks the label. Wrong? It changes itself a tiny bit. It does this again and again. That is called training."
+ },
+ {
+  "id": "px-en-5",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "But Pixel, it called this white cat a dog! Why?"
+ },
+ {
+  "id": "px-en-6",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Because we only showed it black cats! Good examples of every kind make a smarter computer. Computers learn from data. You learn from everything you explore!"
+ },
+ {
+  "id": "px-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, regarde cette photo. C’est un chat ou un chien ? Moi, je le vois tout de suite. Mais comment un ordinateur le saurait-il ?"
+ },
+ {
+  "id": "px-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Un ordinateur ne voit pas un chat. Il voit des milliers de petits points de couleur, qu’on appelle des pixels. C’est de là que vient mon nom !"
+ },
+ {
+  "id": "px-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Alors on lui apprend avec des exemples. On lui montre des milliers de photos, et chacune a une étiquette : chat ou chien. Comme des cartes pour réviser !"
+ },
+ {
+  "id": "px-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "L’ordinateur devine, puis il regarde l’étiquette. C’est faux ? Il se corrige un tout petit peu. Il recommence encore et encore. C’est ce qu’on appelle l’entraînement."
+ },
+ {
+  "id": "px-fr-5",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Mais Pixel, il a dit que ce chat blanc était un chien ! Pourquoi ?"
+ },
+ {
+  "id": "px-fr-6",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Parce qu’on ne lui a montré que des chats noirs ! De bons exemples de toutes sortes rendent l’ordinateur plus malin. Les ordinateurs apprennent avec des données. Toi, tu apprends avec tout ce que tu explores !"
+ },
+ {
+  "id": "px-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, kijk naar deze foto. Is het een kat of een hond? Ik zie het meteen. Maar hoe weet een computer dat?"
+ },
+ {
+  "id": "px-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Een computer ziet geen kat. Hij ziet duizenden kleine gekleurde puntjes, die heten pixels. Daar komt mijn naam vandaan!"
+ },
+ {
+  "id": "px-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Dus leren we hem met voorbeelden. We laten duizenden foto’s zien, en elke foto heeft een label: kat of hond. Net als flitskaarten!"
+ },
+ {
+  "id": "px-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "De computer raadt, en kijkt dan naar het label. Fout? Dan past hij zichzelf een klein beetje aan. Dat doet hij steeds opnieuw. Dat heet trainen."
+ },
+ {
+  "id": "px-nl-5",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Maar Pixel, hij zegt dat deze witte kat een hond is! Waarom?"
+ },
+ {
+  "id": "px-nl-6",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Omdat we hem alleen zwarte katten lieten zien! Goede voorbeelden van allerlei soorten maken een slimmere computer. Computers leren van data. Jij leert van alles wat je ontdekt!"
+ },
+ {
+  "id": "qb-en-1",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Watch this coin spin, Whyzz. While it’s spinning, is it heads or tails?"
+ },
+ {
+  "id": "qb-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Hmm, a bit of both? I can’t tell until it stops!"
+ },
+ {
+  "id": "qb-en-3",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Normal computers use bits. A bit is 0 or 1, like a light switch: off or on. Like a coin lying flat: heads or tails."
+ },
+ {
+  "id": "qb-en-4",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Quantum computers use qubits. Before we look, a qubit can be a mix of 0 and 1 at once. Scientists call this superposition. The spinning coin is a picture to help us imagine it."
+ },
+ {
+  "id": "qb-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "When we measure a qubit, it chooses: 0 or 1. Just like the coin when it lands. And qubits need to be colder than outer space to stay calm!"
+ },
+ {
+  "id": "qb-en-6",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Quantum computers won’t replace your laptop. They are special helpers for very hard puzzles, like designing new medicines. What puzzle would you give one?"
+ },
+ {
+  "id": "qb-fr-1",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Regarde cette pièce tourner, Whyzz. Pendant qu’elle tourne, c’est pile ou face ?"
+ },
+ {
+  "id": "qb-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Hum, un peu des deux ? Je ne peux pas savoir tant qu’elle ne s’arrête pas !"
+ },
+ {
+  "id": "qb-fr-3",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Les ordinateurs normaux utilisent des bits. Un bit vaut 0 ou 1, comme un interrupteur : éteint ou allumé. Comme une pièce posée à plat : pile ou face."
+ },
+ {
+  "id": "qb-fr-4",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Les ordinateurs quantiques utilisent des qubits. Avant qu’on regarde, un qubit peut être un mélange de 0 et de 1 en même temps. Les scientifiques appellent ça la superposition. La pièce qui tourne est une image pour nous aider à l’imaginer."
+ },
+ {
+  "id": "qb-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Quand on mesure un qubit, il choisit : 0 ou 1. Comme la pièce quand elle retombe. Et les qubits doivent être plus froids que l’espace pour rester calmes !"
+ },
+ {
+  "id": "qb-fr-6",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Les ordinateurs quantiques ne remplaceront pas ton ordinateur portable. Ce sont des aides spéciales pour des énigmes très difficiles, comme inventer de nouveaux médicaments. Quelle énigme lui donnerais-tu ?"
+ },
+ {
+  "id": "qb-nl-1",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Kijk hoe deze munt draait, Whyzz. Is het kop of munt terwijl hij draait?"
+ },
+ {
+  "id": "qb-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Hmm, een beetje van allebei? Ik weet het pas als hij stilligt!"
+ },
+ {
+  "id": "qb-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Gewone computers gebruiken bits. Een bit is 0 of 1, zoals een lichtschakelaar: uit of aan. Zoals een munt die plat ligt: kop of munt."
+ },
+ {
+  "id": "qb-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Quantumcomputers gebruiken qubits. Voordat we kijken, kan een qubit een mengsel van 0 en 1 tegelijk zijn. Wetenschappers noemen dat superpositie. De draaiende munt is een plaatje om het ons voor te stellen."
+ },
+ {
+  "id": "qb-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Als we een qubit meten, kiest hij: 0 of 1. Net als de munt als hij neerkomt. En qubits moeten kouder zijn dan de ruimte om rustig te blijven!"
+ },
+ {
+  "id": "qb-nl-6",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Quantumcomputers vervangen je laptop niet. Het zijn speciale helpers voor heel moeilijke puzzels, zoals nieuwe medicijnen ontwerpen. Welke puzzel zou jij er een geven?"
+ },
+ {
+  "id": "bl-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Bloom, this tiny seed becomes a huge sunflower. How does it know what to become?"
+ },
+ {
+  "id": "bl-en-2",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Inside every seed is a set of instructions called DNA. It’s like a recipe book, written in a code of just four letters: A, T, C and G."
+ },
+ {
+  "id": "bl-en-3",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "When the seed gets water, warmth and soil, it wakes up. It reads its recipe and starts to grow: first a root goes down, then a shoot goes up to the light."
+ },
+ {
+  "id": "bl-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "But why does a sunflower seed never grow into an apple tree?"
+ },
+ {
+  "id": "bl-en-5",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Because its recipe only has sunflower instructions! An apple seed has a different recipe. Every living thing has its own DNA, even you."
+ },
+ {
+  "id": "bl-en-6",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Scientists can now read DNA recipes. That helps them grow stronger crops and find new medicines. What would you like to grow?"
+ },
+ {
+  "id": "bl-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Bloom, cette toute petite graine devient un énorme tournesol. Comment sait-elle ce qu’elle va devenir ?"
+ },
+ {
+  "id": "bl-fr-2",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Dans chaque graine, il y a des instructions qu’on appelle l’ADN. C’est comme un livre de recettes, écrit avec un code de seulement quatre lettres : A, T, C et G."
+ },
+ {
+  "id": "bl-fr-3",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Quand la graine reçoit de l’eau, de la chaleur et de la terre, elle se réveille. Elle lit sa recette et commence à pousser : d’abord une racine vers le bas, puis une tige vers la lumière."
+ },
+ {
+  "id": "bl-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Mais pourquoi une graine de tournesol ne devient-elle jamais un pommier ?"
+ },
+ {
+  "id": "bl-fr-5",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Parce que sa recette ne contient que les instructions du tournesol ! Une graine de pomme a une autre recette. Chaque être vivant a son propre ADN, même toi."
+ },
+ {
+  "id": "bl-fr-6",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Les scientifiques savent maintenant lire les recettes d’ADN. Cela les aide à faire pousser des plantes plus solides et à trouver de nouveaux médicaments. Et toi, qu’aimerais-tu faire pousser ?"
+ },
+ {
+  "id": "bl-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Bloom, dit kleine zaadje wordt een enorme zonnebloem. Hoe weet het wat het moet worden?"
+ },
+ {
+  "id": "bl-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "In elk zaadje zitten instructies die DNA heten. Het is net een receptenboek, geschreven in een code van maar vier letters: A, T, C en G."
+ },
+ {
+  "id": "bl-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Als het zaadje water, warmte en aarde krijgt, wordt het wakker. Het leest zijn recept en begint te groeien: eerst een worteltje naar beneden, dan een stengel omhoog naar het licht."
+ },
+ {
+  "id": "bl-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Maar waarom wordt een zonnebloemzaadje nooit een appelboom?"
+ },
+ {
+  "id": "bl-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Omdat zijn recept alleen zonnebloeminstructies heeft! Een appelpit heeft een ander recept. Elk levend wezen heeft zijn eigen DNA, ook jij."
+ },
+ {
+  "id": "bl-nl-6",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Wetenschappers kunnen nu DNA-recepten lezen. Daarmee kweken ze sterkere gewassen en vinden ze nieuwe medicijnen. Wat zou jij willen laten groeien?"
+ },
+ {
+  "id": "rb-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, how does this robot vacuum find its way around my house without bumping into everything?"
+ },
+ {
+  "id": "rb-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Robots use sensors, a bit like our senses. A camera works like eyes, and a laser scanner measures how far away the walls are."
+ },
+ {
+  "id": "rb-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "As it drives, the robot draws a map of the room in its memory and marks where it is on that map."
+ },
+ {
+  "id": "rb-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Its wheels also count how many times they turn. That tells the robot how far it has driven, like counting your steps."
+ },
+ {
+  "id": "rb-en-5",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "And what happens if someone moves a chair?"
+ },
+ {
+  "id": "rb-en-6",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Then the sensors notice it, and the robot updates its map. Robots in warehouses, hospitals and even on Mars find their way like this. Where would you send a robot?"
+ },
+ {
+  "id": "rb-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, comment ce robot aspirateur trouve-t-il son chemin dans ma maison sans se cogner partout ?"
+ },
+ {
+  "id": "rb-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Les robots utilisent des capteurs, un peu comme nos sens. Une caméra fonctionne comme des yeux, et un scanner laser mesure à quelle distance se trouvent les murs."
+ },
+ {
+  "id": "rb-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Pendant qu’il roule, le robot dessine une carte de la pièce dans sa mémoire et marque où il se trouve sur cette carte."
+ },
+ {
+  "id": "rb-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ses roues comptent aussi combien de tours elles font. Ça dit au robot quelle distance il a parcourue, comme quand tu comptes tes pas."
+ },
+ {
+  "id": "rb-fr-5",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Et que se passe-t-il si quelqu’un déplace une chaise ?"
+ },
+ {
+  "id": "rb-fr-6",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Alors les capteurs le remarquent et le robot met sa carte à jour. Les robots dans les entrepôts, les hôpitaux et même sur Mars trouvent leur chemin comme ça. Où enverrais-tu un robot ?"
+ },
+ {
+  "id": "rb-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, hoe vindt deze robotstofzuiger zijn weg in mijn huis zonder overal tegenaan te botsen?"
+ },
+ {
+  "id": "rb-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Robots gebruiken sensoren, een beetje zoals onze zintuigen. Een camera werkt als ogen, en een laserscanner meet hoe ver de muren weg zijn."
+ },
+ {
+  "id": "rb-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Terwijl hij rijdt, tekent de robot een kaart van de kamer in zijn geheugen en duidt hij aan waar hij op die kaart is."
+ },
+ {
+  "id": "rb-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Zijn wielen tellen ook hoe vaak ze ronddraaien. Zo weet de robot hoe ver hij gereden heeft, net zoals jij je stappen telt."
+ },
+ {
+  "id": "rb-nl-5",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "En wat als iemand een stoel verschuift?"
+ },
+ {
+  "id": "rb-nl-6",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Dan merken de sensoren dat op en past de robot zijn kaart aan. Robots in magazijnen, ziekenhuizen en zelfs op Mars vinden zo hun weg. Waar zou jij een robot naartoe sturen?"
+ }
+]

@@ -1,0 +1,32 @@
+# Generates the IMAGINE Kids episode voices with Azure AI Speech when
+# voices/jobs.json changes on the kids-test branch. Uses the production
+# environment so the owner approves each run; the Speech key never leaves
+# GitHub. The audio is uploaded as a workflow artifact, nothing is deployed.
+name: kids-voices
+on:
+  push:
+    branches: [kids-test]
+    paths: ['voices/**']
+permissions:
+  contents: read
+jobs:
+  voices:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    environment:
+      name: production
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Generate voices
+        env:
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+          AZURE_SPEECH_REGION: ${{ vars.AZURE_SPEECH_REGION }}
+        run: python3 voices/make.py
+      - name: Upload the audio
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        with:
+          name: kids-voices
+          path: voices/out/
+          retention-days: 7

@@ -4,7 +4,9 @@ const S = require('./stats');
 
 // The connection string is set by the site owner as the app setting
 // STATS_STORAGE in the Azure portal. Without it, visits are simply not counted.
-const TABLE = 'kidsstats';
+// The live site writes {"table":"kidslive"} to config.json at deploy time, so
+// test and live visits never mix. Without it (the test site) the table is kidsstats.
+const TABLE = (() => { try { const t = require('./config.json').table; return /^[A-Za-z][A-Za-z0-9]{2,62}$/.test(t) ? t : 'kidsstats'; } catch (e) { return 'kidsstats'; } })();
 let client = null, lastError = '';
 
 // Describes a setup problem without ever revealing the secret itself.

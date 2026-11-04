@@ -39,10 +39,10 @@ var KIDS = {
   },
   domains: [
     { id: 'energy', color: '#38e1a0', open: true, name: { en: 'Energy', fr: 'Énergie', nl: 'Energie' } },
-    { id: 'ai', color: '#4cc3ff', name: { en: 'AI & Data', fr: 'IA et données', nl: 'AI en data' } },
-    { id: 'quantum', color: '#b98cff', name: { en: 'Quantum', fr: 'Quantique', nl: 'Quantum' } },
-    { id: 'robotics', color: '#ff9a4c', name: { en: 'Robotics', fr: 'Robotique', nl: 'Robotica' } },
-    { id: 'biotech', color: '#ff7fdc', name: { en: 'Biotech', fr: 'Biotech', nl: 'Biotech' } },
+    { id: 'ai', color: '#4cc3ff', ep: 'pixel', name: { en: 'AI & Data', fr: 'IA et données', nl: 'AI en data' } },
+    { id: 'quantum', color: '#b98cff', ep: 'qubi', name: { en: 'Quantum', fr: 'Quantique', nl: 'Quantum' } },
+    { id: 'robotics', color: '#ff9a4c', ep: 'robo', name: { en: 'Robotics', fr: 'Robotique', nl: 'Robotica' } },
+    { id: 'biotech', color: '#ff7fdc', ep: 'bloom', name: { en: 'Biotech', fr: 'Biotech', nl: 'Biotech' } },
     { id: 'space', color: '#8fa4ff', name: { en: 'Space', fr: 'Espace', nl: 'Ruimte' } },
     { id: 'cities', color: '#ffd84c', name: { en: 'Smart Cities', fr: 'Villes intelligentes', nl: 'Slimme steden' } },
     { id: 'mobility', color: '#ff8a8a', name: { en: 'Smart Mobility', fr: 'Mobilité', nl: 'Slimme mobiliteit' } },
@@ -154,7 +154,7 @@ class Component extends DCLogic {
     });
     var langs = Object.keys(KIDS.langs).map(function (k) { return { code: k.toUpperCase(), name: KIDS.langs[k], on: lang === k, cls: lang === k ? 'on' : '', pick: function () { self.setState({ lang: k }); } }; });
     var domains = KIDS.domains.map(function (d) {
-      return { name: d.name[lang], color: d.color, ic: ICON[d.id], bg: d.color + '22', border: d.open ? d.color : 'rgba(255,255,255,.12)', cls: d.open ? '' : 'locked', locked: !d.open, status: d.open ? L.open : L.soon, go: function () { if (d.open) self.go('ep'); } };
+      var live = d.open || (d.ep && /\.html$/.test(location.pathname)); return { name: d.name[lang], color: d.color, ic: ICON[d.id], bg: d.color + '22', border: live ? d.color : 'rgba(255,255,255,.12)', cls: live ? '' : 'locked', locked: !live, status: live ? L.open : L.soon, go: function () { if (d.open) self.go('ep'); else if (live) location.href = 'Episodes.html#lang=' + lang + '&world=' + d.ep; } };
     });
     var sc = KIDS.scenes[s.scene];
     var scene = { key: 'sc' + s.scene, img: IMG[sc.img], alt: sc.alt, who: sc.who, text: sc.t[lang], avatar: sc.who === 'Whyzz' ? IMG.ethan : IMG.dali, ring: sc.who === 'Whyzz' ? '#ff8a8a' : '#38e1a0' };
