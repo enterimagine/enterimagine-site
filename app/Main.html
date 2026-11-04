@@ -31,6 +31,8 @@ a{color:#7fe7ff}a:hover{color:#c8f6ff}
 @keyframes pop{from{transform:translateY(10px);opacity:0}to{transform:none;opacity:1}}
 @media (prefers-reduced-motion: reduce){.k-scene,.k-pop{animation:none}}
 @media print{.k-noprint{display:none !important}body{background:#fff}}
+@media (max-width: 899px){.k-head{position:static !important}.k-aside{position:static !important}}
+.k-ghost-dark{background:transparent;color:#5a4200;border:2px solid #c9a320}
 </style>
 
 <style>.local-bar{position:fixed;right:12px;bottom:12px;z-index:50;font:700 14px Nunito,system-ui,sans-serif}body{padding-bottom:72px}.local-bar a{display:inline-block;padding:10px 16px;border-radius:999px;background:#ffd84c;color:#1a1300;text-decoration:none;box-shadow:0 4px 0 #c9a320}</style>
@@ -47,7 +49,7 @@ a{color:#7fe7ff}a:hover{color:#c8f6ff}
 
 <div style="min-height: 100vh; background: radial-gradient(1200px 600px at 80% -10%, #2a1f6b 0%, rgba(42,31,107,0) 60%), #081226; color: #f2f6ff; font-family: 'Nunito', system-ui, sans-serif;">
 
-  <header class="k-noprint" style="position: sticky; top: 0; z-index: 5; background: rgba(8,18,38,.92); border-bottom: 1px solid rgba(255,255,255,.08);">
+  <header class="k-noprint k-head" style="position: sticky; top: 0; z-index: 5; background: rgba(8,18,38,.92); border-bottom: 1px solid rgba(255,255,255,.08);">
     <div style="max-width: 1240px; margin: 0 auto; padding: 12px 20px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px;">
       <button class="k-nav" onClick="{{goHome}}" aria-label="IMAGINE Kids home" style="display: flex; flex-direction: column; align-items: flex-start; padding: 4px 8px;">
         <span style="font-family: 'Baloo 2', sans-serif; font-weight: 800; font-size: 26px; letter-spacing: .12em; color: #ffffff; line-height: 1;">IMAGINE <span style="color: #ffd84c;">KIDS</span></span>
@@ -245,7 +247,7 @@ a{color:#7fe7ff}a:hover{color:#c8f6ff}
             </div>
           </sc-for>
         </div>
-        <aside style="flex: 1 1 340px; position: sticky; top: 96px; background: #fff7e0; color: #2a1d00; border-radius: 28px; padding: 24px; display: flex; flex-direction: column; gap: 14px; box-shadow: 0 10px 0 #c9a320;">
+        <aside class="k-aside" style="flex: 1 1 340px; position: sticky; top: 96px; background: #fff7e0; color: #2a1d00; border-radius: 28px; padding: 24px; display: flex; flex-direction: column; gap: 14px; box-shadow: 0 10px 0 #c9a320;">
           <p style="margin: 0; font-size: 13px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: #8a6500;">IMAGINE KIDS · {{L.yourIdea}}</p>
           <div style="display: flex; gap: 10px;">
             <sc-for list="{{cardIcons}}" as="ci" hint-placeholder-count="3">
@@ -257,8 +259,12 @@ a{color:#7fe7ff}a:hover{color:#c8f6ff}
           <p style="margin: 0; display: flex; gap: 10px; align-items: center; font-size: 16px;">
             <img src="assets/img_ethan.webp" alt="Whyzz" style="width: 44px; height: 44px; border-radius: 50%; flex: none;">
             <span><strong>{{L.ethanAsks}}:</strong> {{ethanQ}}</span></p>
-          <button class="k-btn k-primary k-noprint" onClick="{{printCard}}" style="align-self: flex-start;">
-            <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M7 9V3h10v6M7 17H4v-7h16v7h-3M7 14h10v7H7z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"></path></svg>{{L.print}}</button>
+          <div class="k-noprint" style="display: flex; flex-wrap: wrap; gap: 10px;">
+            <button class="k-btn k-primary" onClick="{{saveCard}}">
+              <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{L.save}}</button>
+            <button class="k-btn k-ghost-dark" onClick="{{printCard}}">
+              <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M7 9V3h10v6M7 17H4v-7h16v7h-3M7 14h10v7H7z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"></path></svg>{{L.printShort}}</button>
+          </div>
           <p style="margin: 0; font-size: 14px; color: #6b5300;">{{L.keep}}</p>
         </aside>
       </section>
