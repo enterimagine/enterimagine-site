@@ -14,11 +14,23 @@ if not key or not region:
 url = f'https://{region}.tts.speech.microsoft.com/cognitiveservices/v1'
 jobs = json.load(open(os.path.join(os.path.dirname(__file__), 'jobs.json'), encoding='utf-8'))
 out = os.path.join(os.path.dirname(__file__), 'out'); os.makedirs(out, exist_ok=True)
+# Names the voices should say as words, not spell out (per language).
+SAY = {'Whyzz': {'en': 'Wiz', 'fr': 'Ouiz', 'nl': 'Wiz'}}
+# Optional voices/only.txt: regenerate just these clip ids.
+only_f = os.path.join(os.path.dirname(__file__), 'only.txt')
+if os.path.exists(only_f):
+    only = set(open(only_f).read().split())
+    jobs = [j for j in jobs if j['id'] in only]
+def to_ssml(text, lang):
+    t = escape(text)
+    for name, alias in SAY.items():
+        t = t.replace(name, f'<sub alias="{alias[lang[:2]]}">{name}</sub>')
+    return t
 failed = []
 for j in jobs:
     lang = '-'.join(j['voice'].split('-')[:2])
     ssml = (f'<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="{lang}">'
-            f'<voice name="{j["voice"]}"><prosody rate="-4%" pitch="{j["pitch"]}">{escape(j["text"])}</prosody></voice></speak>')
+            f'<voice name="{j["voice"]}"><prosody rate="-4%" pitch="{j["pitch"]}">{to_ssml(j["text"], lang)}</prosody></voice></speak>')
     req = urllib.request.Request(url, data=ssml.encode('utf-8'), method='POST', headers={
         'Ocp-Apim-Subscription-Key': key, 'Content-Type': 'application/ssml+xml',
         'X-Microsoft-OutputFormat': 'webm-24khz-16bit-mono-opus', 'User-Agent': 'imagine-kids-voices'})
