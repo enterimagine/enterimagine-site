@@ -17,6 +17,7 @@
   function load() {
     out.innerHTML = '<p>Loading…</p>';
     fetch('/api/stats?days=' + days, { credentials: 'same-origin', cache: 'no-store' }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); }).then(function (d) {
+      if (d.error) { out.innerHTML = '<p class="warn">The counter cannot reach the storage account.</p><p class="small">' + esc(d.error) + '</p>'; return; }
       if (!d.configured) { out.innerHTML = '<p class="warn">Counting is not switched on yet: the STATS_STORAGE setting is missing in Azure.</p>'; return; }
       var t = d.total, avg = t.views ? t.seconds / t.views : 0;
       var dayKeys = Object.keys(d.byDay).sort(), maxD = Math.max.apply(null, dayKeys.map(function (k) { return d.byDay[k].views; }).concat([1]));
