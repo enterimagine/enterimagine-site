@@ -99,6 +99,7 @@
       }
     });
     var lg = this.comp.state && this.comp.state.lang;
+    if (lg && /^(en|fr|nl)$/.test(lg)) document.documentElement.lang = lg;
     if (lg) document.querySelectorAll('a[data-keep-lang]').forEach(function (a) { a.setAttribute('href', a.getAttribute('data-base') + '#lang=' + lg); });
     var af = this.root.querySelector('[autofocus]:not([disabled])');
     if (af && af !== document.activeElement && !(document.activeElement && /INPUT|TEXTAREA/.test(document.activeElement.tagName))) { try { af.focus(); } catch (e) {} }

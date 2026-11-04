@@ -1,0 +1,11 @@
+{
+  "name": "imagine-kids-stats",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Anonymous visit totals for IMAGINE Kids: no cookies, no identifiers, no IP addresses.",
+  "main": "src/index.js",
+  "dependencies": {
+    "@azure/data-tables": "^13.3.0",
+    "@azure/functions": "^4.6.0"
+  }
+}

@@ -9,5 +9,42 @@
   "mimeTypes": {
     ".webm": "audio/webm",
     ".woff2": "font/woff2"
+  },
+  "platform": {
+    "apiRuntime": "node:22"
+  },
+  "routes": [
+    {
+      "route": "/stats.html",
+      "allowedRoles": [
+        "owner"
+      ],
+      "headers": {
+        "Cache-Control": "no-store"
+      }
+    },
+    {
+      "route": "/api/stats",
+      "allowedRoles": [
+        "owner"
+      ]
+    },
+    {
+      "route": "/.auth/login/twitter",
+      "statusCode": 404
+    },
+    {
+      "route": "/.auth/login/aad",
+      "statusCode": 404
+    }
+  ],
+  "responseOverrides": {
+    "401": {
+      "redirect": "/.auth/login/github?post_login_redirect_uri=/stats.html",
+      "statusCode": 302
+    },
+    "403": {
+      "rewrite": "/index.html"
+    }
   }
 }

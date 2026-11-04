@@ -29,6 +29,7 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
           action: upload
           app_location: app
+          api_location: api
           output_location: ""
           skip_app_build: true
           deployment_environment: kidstest
@@ -41,3 +42,5 @@ jobs:
             code=$(curl -s -o /dev/null -w '%{http_code}' "$URL/$f"); echo "$f $code"; [ "$code" = "200" ] || exit 1
           done
           curl -sI "$URL/index.html" | grep -i "x-robots-tag: noindex"
+          code=$(curl -s -o /dev/null -w '%{http_code}' -X POST -H 'Content-Type: text/plain' --data '{"p":"index","l":"en","d":"computer","e":"bad"}' "$URL/api/hit"); echo "api/hit $code"; [ "$code" = "204" ] || exit 1
+          code=$(curl -s -o /dev/null -w '%{http_code}' "$URL/api/stats"); echo "api/stats without login $code"; [ "$code" != "200" ] || exit 1
