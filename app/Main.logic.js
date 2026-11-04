@@ -2,9 +2,9 @@ window.__Component = (function () {
 
 var IMG = { hero: 'assets/img_hero.webp', solar: 'assets/img_solar.webp', wind: 'assets/img_wind.webp', night: 'assets/img_night.webp', dali: 'assets/img_sunny.webp', ethan: 'assets/img_ethan.webp' };
 var VOICE = {
-  en: ['assets/audio_webm_kids-voice-en1.webm','assets/audio_webm_kids-voice-en2.webm','assets/audio_webm_kids-voice-en3.webm','assets/audio_webm_kids-voice-en4.webm','assets/audio_webm_kids-voice-en5.webm','assets/audio_webm_kids-voice-en6.webm'],
-  fr: ['assets/audio_webm_kids-voice-fr1.webm','assets/audio_webm_kids-voice-fr2.webm','assets/audio_webm_kids-voice-fr3.webm','assets/audio_webm_kids-voice-fr4.webm','assets/audio_webm_kids-voice-fr5.webm','assets/audio_webm_kids-voice-fr6.webm'],
-  nl: ['assets/audio_webm_kids-voice-nl1.webm','assets/audio_webm_kids-voice-nl2.webm','assets/audio_webm_kids-voice-nl3.webm','assets/audio_webm_kids-voice-nl4.webm','assets/audio_webm_kids-voice-nl5.webm','assets/audio_webm_kids-voice-nl6.webm']
+  en: ['assets/audio4_webm_kids-voice-en1.webm','assets/audio4_webm_kids-voice-en2.webm','assets/audio4_webm_kids-voice-en3.webm','assets/audio4_webm_kids-voice-en4.webm','assets/audio4_webm_kids-voice-en5.webm','assets/audio4_webm_kids-voice-en6.webm'],
+  fr: ['assets/audio4_webm_kids-voice-fr1.webm','assets/audio4_webm_kids-voice-fr2.webm','assets/audio4_webm_kids-voice-fr3.webm','assets/audio4_webm_kids-voice-fr4.webm','assets/audio4_webm_kids-voice-fr5.webm','assets/audio4_webm_kids-voice-fr6.webm'],
+  nl: ['assets/audio4_webm_kids-voice-nl1.webm','assets/audio4_webm_kids-voice-nl2.webm','assets/audio4_webm_kids-voice-nl3.webm','assets/audio4_webm_kids-voice-nl4.webm','assets/audio4_webm_kids-voice-nl5.webm','assets/audio4_webm_kids-voice-nl6.webm']
 };
 var ICON = {
   energy: 'M13 2L4 14h7l-1 8 9-12h-7l1-8z',
