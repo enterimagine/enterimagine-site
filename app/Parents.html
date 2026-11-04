@@ -13,6 +13,7 @@ body{margin:0;background:#f4f6fb}
 .p-card{background:#fff;border:1px solid #e1e6f0;border-radius:20px;padding:20px;display:flex;flex-direction:column;gap:12px}
 .p-h{margin:0;font-family:'Baloo 2',sans-serif;font-size:20px;color:#14213d}
 .p-small{margin:0;font-size:14px;color:#55627e}
+@media (max-width: 599px){.k-tiles{grid-template-columns:1fr 1fr !important;gap:10px !important}.k-tile{padding:14px !important}.k-tile p:nth-child(2){font-size:28px !important}}
 </style>
 
 <style>.local-bar{position:fixed;right:12px;bottom:12px;z-index:50;font:700 14px Nunito,system-ui,sans-serif}body{padding-bottom:72px}.local-bar a{display:inline-block;padding:10px 16px;border-radius:999px;background:#ffd84c;color:#1a1300;text-decoration:none;box-shadow:0 4px 0 #c9a320}</style>
@@ -52,22 +53,9 @@ body{margin:0;background:#f4f6fb}
     </div>
     <p class="p-small">{{L.sample}}</p>
 
-    <section class="p-card">
-      <h2 class="p-h">{{L.profH}}</h2>
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px;">
-        <sc-for list="{{kids}}" as="k" hint-placeholder-count="2">
-          <div style="display: flex; flex-direction: column; gap: 6px;">
-            <label for="{{k.inputId}}" style="font-size: 14px; font-weight: 800;">{{k.defaultName}} · {{L.nameLabel}}</label>
-            <input id="{{k.inputId}}" type="text" maxlength="20" value="{{k.custom}}" placeholder="{{k.defaultName}}" onInput="{{k.onName}}" autocomplete="off" style="font-family: 'Nunito', sans-serif; font-size: 16px; min-height: 44px; padding: 0 12px; border: 2px solid #d5dcec; border-radius: 12px; color: #14213d; background: #fff;">
-          </div>
-        </sc-for>
-      </div>
-      <p style="margin: 0; display: flex; gap: 10px; align-items: flex-start; font-size: 14px; color: #7a1d26; background: #fdecee; border-radius: 12px; padding: 10px 12px;"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" style="flex: none;"><path d="M12 3l8 3v6c0 4.5-3.4 8.2-8 9-4.6-.8-8-4.5-8-9V6zM12 9v4M12 16v.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{L.warn}}</p>
-    </section>
-
-    <section style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px;">
+    <section class="k-tiles" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px;">
       <sc-for list="{{tiles}}" as="t" hint-placeholder-count="4">
-        <div class="p-card" style="gap: 4px;">
+        <div class="p-card k-tile" style="gap: 4px;">
           <p class="p-small" style="font-weight: 700;">{{t.label}}</p>
           <p style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 34px; font-weight: 800; color: #14213d;">{{t.value}}</p>
           <p class="p-small">{{t.note}}</p>
@@ -151,6 +139,19 @@ body{margin:0;background:#f4f6fb}
     <section role="note" style="display: flex; gap: 12px; align-items: flex-start; background: #fff8e0; border: 1px solid #f0d77a; border-radius: 16px; padding: 14px 16px;">
       <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" style="flex: none;"><path d="M12 3l10 18H2zM12 10v5M12 18v.5" fill="none" stroke="#8a6a00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>
       <p style="margin: 0; font-size: 15px; color: #4d3c00;">{{L.disclaimer}}</p>
+    </section>
+
+    <section class="p-card">
+      <h2 class="p-h">{{L.profH}}</h2>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px;">
+        <sc-for list="{{kids}}" as="k" hint-placeholder-count="2">
+          <div style="display: flex; flex-direction: column; gap: 6px;">
+            <label for="{{k.inputId}}" style="font-size: 14px; font-weight: 800;">{{k.defaultName}} · {{L.nameLabel}}</label>
+            <input id="{{k.inputId}}" type="text" maxlength="20" value="{{k.custom}}" placeholder="{{k.defaultName}}" onInput="{{k.onName}}" autocomplete="off" style="font-family: 'Nunito', sans-serif; font-size: 16px; min-height: 44px; padding: 0 12px; border: 2px solid #d5dcec; border-radius: 12px; color: #14213d; background: #fff;">
+          </div>
+        </sc-for>
+      </div>
+      <p style="margin: 0; display: flex; gap: 10px; align-items: flex-start; font-size: 14px; color: #7a1d26; background: #fdecee; border-radius: 12px; padding: 10px 12px;"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" style="flex: none;"><path d="M12 3l8 3v6c0 4.5-3.4 8.2-8 9-4.6-.8-8-4.5-8-9V6zM12 9v4M12 16v.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{L.warn}}</p>
     </section>
 
     <section class="p-card" style="flex-direction: row; flex-wrap: wrap; align-items: center; gap: 10px;">
