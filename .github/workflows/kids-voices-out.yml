@@ -1,0 +1,31 @@
+name: kids-voices-out
+# Copies the voice clips from a finished kids-voices run into the branch
+# kids-voices-out, so they can be reviewed without the artifact download.
+on:
+  push:
+    branches: [kids-test]
+    paths: ['.github/workflows/kids-voices-out.yml', '.github/voices-run-id.txt']
+permissions:
+  contents: write
+  actions: read
+jobs:
+  copy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Fetch clips and push them to kids-voices-out
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          RUN=$(cat .github/voices-run-id.txt)
+          mkdir -p /tmp/clips
+          gh run download "$RUN" -n kids-voices -D /tmp/clips
+          ls /tmp/clips | wc -l
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan kids-voices-out
+          git rm -rfq .
+          mkdir -p clips && cp -r /tmp/clips/. clips/
+          git add clips
+          git commit -qm "Voice clips from run $RUN"
+          git push -f origin kids-voices-out
