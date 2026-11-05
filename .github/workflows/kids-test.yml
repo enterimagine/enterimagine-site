@@ -6,7 +6,7 @@ name: kids-test
 on:
   push:
     branches: [kids-test]
-    paths-ignore: ['voices/**', '.github/workflows/kids-voices.yml']
+    paths-ignore: ['voices/**', 'episodes/**', '.github/workflows/kids-voices.yml', '.github/workflows/kids-voices-out.yml', '.github/voices-run-id.txt']
   workflow_dispatch:
 permissions:
   contents: read

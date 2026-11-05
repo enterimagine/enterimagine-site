@@ -1,14 +1,15 @@
 # Generates the IMAGINE Kids episode voices with Azure AI Speech when
 # voices/jobs.json changes on the kids-test branch. Uses the production
 # environment so the owner approves each run; the Speech key never leaves
-# GitHub. The audio is uploaded as a workflow artifact, nothing is deployed.
+# GitHub. The audio is uploaded as a workflow artifact and copied to the
+# branch kids-voices-out (folder clips/); nothing is deployed.
 name: kids-voices
 on:
   push:
     branches: [kids-test]
     paths: ['voices/**']
 permissions:
-  contents: read
+  contents: write
 jobs:
   voices:
     runs-on: ubuntu-24.04
@@ -30,3 +31,15 @@ jobs:
           name: kids-voices
           path: voices/out/
           retention-days: 7
+      - name: Copy the clips to the kids-voices-out branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/pub/clips" && cp voices/out/*.webm "$RUNNER_TEMP/pub/clips/"
+          cd "$RUNNER_TEMP/pub"
+          git init -q && git checkout -q -b kids-voices-out
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          echo "$GITHUB_RUN_ID" > run-id.txt
+          git add clips run-id.txt && git commit -qm "Voice clips from run $GITHUB_RUN_ID"
+          git push -qf "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" kids-voices-out
