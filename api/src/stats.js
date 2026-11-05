@@ -21,6 +21,8 @@ function clean(body) {
 
 function dayKey(now) { return new Date(now).toISOString().slice(0, 10); }
 function rowKey(r) { return `${r.page}|${r.lang}|${r.device}`; }
+// Hour of the day in Brussels time, from the server clock (nothing comes from the visitor).
+function hourKey(now) { const h = new Intl.DateTimeFormat('en-GB', { hour: '2-digit', hourCycle: 'h23', timeZone: 'Europe/Brussels' }).format(new Date(now)); return 'hour|' + String(parseInt(h, 10) % 24).padStart(2, '0'); }
 
 // Adds one record to an existing totals entity (or a fresh one).
 function apply(entity, r) {
@@ -33,10 +35,11 @@ function apply(entity, r) {
 // Sums table rows into the shape the dashboard shows.
 function summarize(rows, days, now) {
   const from = dayKey(now - (days - 1) * 86400000);
-  const out = { days, from, to: dayKey(now), total: { views: 0, visits: 0, seconds: 0, timed: 0 }, byPage: {}, byLang: {}, byDevice: {}, byDay: {} };
+  const out = { days, from, to: dayKey(now), total: { views: 0, visits: 0, seconds: 0, timed: 0 }, byPage: {}, byLang: {}, byDevice: {}, byDay: {}, byHour: {} };
   const add = (bucket, key, r) => { const b = bucket[key] || (bucket[key] = { views: 0, visits: 0, seconds: 0, timed: 0 }); b.views += r.views || 0; b.visits += r.visits || 0; b.seconds += r.seconds || 0; b.timed += r.timed || 0; };
   for (const r of rows) {
     if (r.partitionKey < from) continue;
+    if (String(r.rowKey).startsWith('hour|')) { add(out.byHour, String(r.rowKey).slice(5), r); continue; }
     const [page, lang, device] = String(r.rowKey).split('|');
     add(out, 'total', r);
     add(out.byPage, page, r); add(out.byLang, lang, r); add(out.byDevice, device, r); add(out.byDay, r.partitionKey, r);
@@ -44,4 +47,4 @@ function summarize(rows, days, now) {
   return out;
 }
 
-module.exports = { PAGES, LANGS, DEVICES, MAX_SECONDS, clean, dayKey, rowKey, apply, summarize };
+module.exports = { PAGES, LANGS, DEVICES, MAX_SECONDS, clean, dayKey, rowKey, hourKey, apply, summarize };

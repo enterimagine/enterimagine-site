@@ -40,6 +40,19 @@ async function readBody(request) {
   try { const t = await request.text(); return t && t.length < 500 ? JSON.parse(t) : null; } catch (e) { return null; }
 }
 
+// Adds one record to a totals row, retrying when two hits arrive at the same moment.
+async function bump(t, pk, rk, r) {
+  for (let i = 0; i < 4; i++) {
+    let cur = null;
+    try { cur = await t.getEntity(pk, rk); } catch (e) { cur = null; }
+    const next = Object.assign({ partitionKey: pk, rowKey: rk }, S.apply(cur && { views: cur.views, visits: cur.visits || 0, timed: cur.timed, seconds: cur.seconds }, r));
+    try {
+      if (cur) await t.updateEntity(next, 'Replace', { etag: cur.etag }); else await t.createEntity(next);
+      return;
+    } catch (e) { /* someone else wrote at the same moment: read again and retry */ }
+  }
+}
+
 // POST /api/hit: one anonymous page open or the seconds a page was open.
 app.http('hit', {
   methods: ['POST'], authLevel: 'anonymous', route: 'hit',
@@ -48,16 +61,9 @@ app.http('hit', {
     let t = null;
     try { t = r && await table(); } catch (e) { t = null; } // counting must never break a page
     if (t) {
-      const pk = S.dayKey(Date.now()), rk = S.rowKey(r);
-      for (let i = 0; i < 4; i++) {
-        let cur = null;
-        try { cur = await t.getEntity(pk, rk); } catch (e) { cur = null; }
-        const next = Object.assign({ partitionKey: pk, rowKey: rk }, S.apply(cur && { views: cur.views, visits: cur.visits || 0, timed: cur.timed, seconds: cur.seconds }, r));
-        try {
-          if (cur) await t.updateEntity(next, 'Replace', { etag: cur.etag }); else await t.createEntity(next);
-          break;
-        } catch (e) { /* someone else wrote at the same moment: read again and retry */ }
-      }
+      const now = Date.now(), pk = S.dayKey(now);
+      await bump(t, pk, S.rowKey(r), r);
+      await bump(t, pk, S.hourKey(now), r);
     }
     return { status: 204, headers: { 'Cache-Control': 'no-store' } };
   }
