@@ -65,6 +65,13 @@ body{margin:0;background:#081226}
       <p style="margin: 0; font-size: 14px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: {{accent}};">{{worldName}} · {{U.with}} {{guide}}</p>
       <h1 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: clamp(28px, 3.6vw, 40px); line-height: 1.1;">{{epTitle}}</h1>
     </div>
+    <sc-if value="{{hasEps}}" hint-placeholder-val="{{false}}">
+      <nav aria-label="Episodes" style="display: flex; gap: 10px; overflow-x: auto; padding-bottom: 4px;">
+        <sc-for list="{{eps}}" as="e" hint-placeholder-count="2">
+          <button class="k-tab {{e.cls}}" onClick="{{e.pick}}" aria-pressed="{{e.on}}" style="flex: none; max-width: 320px; font-size: 14px; text-align: left; line-height: 1.25;">{{e.label}}</button>
+        </sc-for>
+      </nav>
+    </sc-if>
     <nav aria-label="Steps" style="display: flex; flex-wrap: wrap; gap: 10px;">
       <sc-for list="{{modes}}" as="m" hint-placeholder-count="3">
         <button class="k-tab {{m.cls}}" onClick="{{m.pick}}" aria-pressed="{{m.on}}">{{m.label}}</button>
@@ -255,6 +262,37 @@ body{margin:0;background:#081226}
           </div>
         </div>
         <p style="margin: 0; font-size: 18px; font-weight: 800; color: #ffd84c;" aria-live="polite">{{ciStatus}}</p>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isGamePick}}" hint-placeholder-val="{{false}}">
+      <section class="k-pop" style="border-radius: 28px; padding: 24px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); display: flex; flex-direction: column; gap: 16px;">
+        <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px;">{{pkTitle}}</h2>
+        <p style="margin: 0; font-size: 18px; color: #dfe8ff;">{{pkIntro}}</p>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px;">
+          <sc-for list="{{pkItems}}" as="a" hint-placeholder-count="6">
+            <button class="k-opt {{a.cls}}" onClick="{{a.pick}}" disabled="{{a.dis}}">{{a.text}}</button>
+          </sc-for>
+        </div>
+        <p style="margin: 0; font-size: 18px; font-weight: 800; color: #ffd84c;" aria-live="polite">{{pkStatus}}</p>
+        <sc-if value="{{pkDone}}" hint-placeholder-val="{{false}}"><div><button class="k-btn k-ghost" onClick="{{pkAgain}}">{{U.pkAgain}}</button></div></sc-if>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isGameMatch}}" hint-placeholder-val="{{false}}">
+      <section class="k-pop" style="border-radius: 28px; padding: 24px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); display: flex; flex-direction: column; gap: 16px;">
+        <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px;">{{mtTitle}}</h2>
+        <p style="margin: 0; font-size: 18px; color: #dfe8ff;">{{mtIntro}}</p>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px;">
+          <sc-for list="{{mtRows}}" as="r" hint-placeholder-count="4">
+            <div style="border-radius: 20px; padding: 14px; background: rgba(255,255,255,.06); border: 2px solid rgba(255,255,255,.14); display: flex; flex-direction: column; gap: 8px;">
+              <p style="margin: 0; font-family: 'Baloo 2', sans-serif; font-weight: 800; font-size: 22px; color: {{accent}};">{{r.name}}</p>
+              <sc-for list="{{r.opts}}" as="o" hint-placeholder-count="3"><button class="k-opt {{o.cls}}" onClick="{{o.pick}}" style="min-height: 48px; font-size: 16px;">{{o.text}}</button></sc-for>
+            </div>
+          </sc-for>
+        </div>
+        <p style="margin: 0; font-size: 18px; font-weight: 800; color: #ffd84c;" aria-live="polite">{{mtStatus}}</p>
+        <sc-if value="{{mtDone}}" hint-placeholder-val="{{false}}"><div><button class="k-btn k-ghost" onClick="{{mtAgain}}">{{U.mtAgain}}</button></div></sc-if>
       </section>
     </sc-if>
 
