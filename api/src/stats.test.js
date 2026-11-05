@@ -12,4 +12,7 @@ assert.deepEqual(v, { views: 3, visits: 1, timed: 0, seconds: 0 });
 const now = Date.parse('2026-11-10T12:00:00Z');
 const sum = S.summarize([{ partitionKey: '2026-11-10', rowKey: 'Subjects|nl|phone', views: 3, timed: 2, seconds: 120 }, { partitionKey: '2026-11-09', rowKey: 'Episodes|en|computer', views: 1, timed: 1, seconds: 60 }, { partitionKey: '2026-10-01', rowKey: 'Main|fr|tablet', views: 9, timed: 0, seconds: 0 }], 7, now);
 assert.equal(sum.total.views, 4); assert.equal(sum.total.visits, 0); assert.equal(sum.byPage.Subjects.seconds, 120); assert.equal(sum.byLang.fr, undefined); assert.equal(sum.byDevice.computer.views, 1);
+assert.equal(S.hourKey(Date.parse('2026-11-10T12:30:00Z')), 'hour|13'); assert.equal(S.hourKey(Date.parse('2026-07-10T23:30:00Z')), 'hour|01');
+const s2 = S.summarize([{ partitionKey: '2026-11-10', rowKey: 'index|en|phone', views: 2, visits: 1, timed: 0, seconds: 0 }, { partitionKey: '2026-11-10', rowKey: 'hour|09', views: 2, visits: 1, timed: 0, seconds: 0 }], 7, now);
+assert.equal(s2.total.views, 2); assert.equal(s2.byHour['09'].visits, 1); assert.equal(s2.byPage.hour, undefined);
 console.log('stats tests passed');
