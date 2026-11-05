@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>IMAGINE Kids: Pixel and Qubi episodes</title>
+<title>IMAGINE Kids: episodes</title>
 
 <style>
 body{margin:0;background:#081226}
@@ -26,6 +26,7 @@ body{margin:0;background:#081226}
 .k-spin{animation:spin .5s linear infinite}
 @keyframes spin{from{transform:rotateY(0)}to{transform:rotateY(360deg)}}
 @media (prefers-reduced-motion: reduce){.k-pop,.k-spin{animation:none}}
+@media (max-width: 560px){.k-worlds{display:grid !important;grid-template-columns:1fr 1fr}.k-worlds .k-tab{font-size:14px;padding:8px 10px;gap:6px;line-height:1.2;text-align:left}}
 </style>
 
 <style>.local-bar{position:fixed;right:12px;bottom:12px;z-index:50;font:700 14px Nunito,system-ui,sans-serif}body{padding-bottom:72px}.local-bar a{display:inline-block;padding:10px 16px;border-radius:999px;background:#ffd84c;color:#1a1300;text-decoration:none;box-shadow:0 4px 0 #c9a320}</style>
@@ -55,7 +56,7 @@ body{margin:0;background:#081226}
     </div>
   </header>
   <main style="max-width: 1100px; margin: 0 auto; padding: 24px 20px 64px; display: flex; flex-direction: column; gap: 18px;">
-    <nav aria-label="Worlds" style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <nav class="k-worlds" aria-label="Worlds" style="display: flex; flex-wrap: wrap; gap: 10px;">
       <sc-for list="{{worlds}}" as="w" hint-placeholder-count="2">
         <button class="k-tab" onClick="{{w.pick}}" aria-pressed="{{w.on}}" style="background: {{w.bg}}; border-color: {{w.border}}; color: {{w.fg}};"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><path d="{{w.ic}}" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{w.label}}</button>
       </sc-for>
@@ -203,6 +204,57 @@ body{margin:0;background:#081226}
           </div>
         </div>
         <sc-if value="{{qbDone}}" hint-placeholder-val="{{false}}"><p class="k-pop" style="margin: 0; font-size: 18px; font-weight: 800; color: #b98cff;">{{U.qbDone}}</p></sc-if>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isGameOrder}}" hint-placeholder-val="{{false}}">
+      <section class="k-pop" style="border-radius: 28px; padding: 24px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); display: flex; flex-direction: column; gap: 16px;">
+        <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px;">{{ordTitle}}</h2>
+        <p style="margin: 0; font-size: 18px; color: #dfe8ff;">{{ordIntro}}</p>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px;">
+          <sc-for list="{{ordItems}}" as="o" hint-placeholder-count="4">
+            <button class="k-opt {{o.cls}}" onClick="{{o.pick}}" style="display: flex; align-items: center; gap: 12px;"><span style="flex: none; width: 40px; height: 40px; border-radius: 50%; display: grid; place-items: center; font-family: 'Baloo 2', sans-serif; font-size: 22px; background: rgba(255,255,255,.12);">{{o.num}}</span>{{o.text}}</button>
+          </sc-for>
+        </div>
+        <p style="margin: 0; font-size: 18px; font-weight: 800; color: #ffd84c;" aria-live="polite">{{ordStatus}}</p>
+        <sc-if value="{{ordDone}}" hint-placeholder-val="{{false}}"><div><button class="k-btn k-ghost" onClick="{{ordAgain}}">{{U.orAgain}}</button></div></sc-if>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isGameMobility}}" hint-placeholder-val="{{false}}">
+      <section class="k-pop" style="border-radius: 28px; padding: 24px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); display: flex; flex-direction: column; gap: 16px;">
+        <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px;">{{U.moTitle}}</h2>
+        <p style="margin: 0; font-size: 18px; color: #dfe8ff;">{{U.moIntro}}</p>
+        <div role="img" aria-label="{{moStatus}}" style="position: relative; height: 44px; max-width: 520px; border-radius: 12px; border: 3px solid rgba(255,255,255,.5); overflow: hidden; background: rgba(255,255,255,.06);">
+          <div style="height: 100%; width: {{moPct}}%; background: {{moBar}}; transition: width .5s;"></div>
+          <span style="position: absolute; inset: 0; display: grid; place-items: center; font-weight: 800; font-size: 18px; color: #0b1530; text-shadow: 0 0 6px rgba(255,255,255,.7);">{{moPct}}%</span>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px;">
+          <sc-for list="{{moActs}}" as="a" hint-placeholder-count="5">
+            <button class="k-opt {{a.cls}}" onClick="{{a.pick}}" disabled="{{a.dis}}">{{a.text}}</button>
+          </sc-for>
+        </div>
+        <p style="margin: 0; font-size: 18px; font-weight: 800; color: #ffd84c;" aria-live="polite">{{moStatus}}</p>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isGameCities}}" hint-placeholder-val="{{false}}">
+      <section class="k-pop" style="border-radius: 28px; padding: 24px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); display: flex; flex-direction: column; gap: 16px;">
+        <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px;">{{U.ciTitle}}</h2>
+        <p style="margin: 0; font-size: 18px; color: #dfe8ff;">{{U.ciIntro}}</p>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px;">
+          <sc-for list="{{ciTiles}}" as="t" hint-placeholder-count="6">
+            <button onClick="{{t.pick}}" aria-pressed="{{t.on}}" style="font-family: 'Nunito', sans-serif; cursor: pointer; min-height: 96px; border-radius: 20px; border: 3px solid {{t.border}}; background: {{t.bg}}; color: #f2f6ff; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; padding: 10px;"><span style="font-weight: 800; font-size: 18px;">{{t.text}}</span><span style="font-size: 15px; color: #bfe9ff;">{{t.drops}}</span></button>
+          </sc-for>
+        </div>
+        <div style="display: flex; flex-direction: column; gap: 6px; max-width: 520px;">
+          <p style="margin: 0; font-size: 14px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: #9fb4e0;">{{U.ciLevel}}</p>
+          <div role="img" aria-label="{{ciStatus}}" style="position: relative; height: 36px; border-radius: 12px; overflow: hidden; background: rgba(255,255,255,.06); border: 2px solid rgba(255,255,255,.3);">
+            <div style="height: 100%; width: {{ciPct}}%; background: {{ciBar}}; transition: width .5s;"></div>
+            <div style="position: absolute; top: 0; bottom: 0; left: {{ciLinePct}}%; width: 3px; background: #ff8a8a;"></div>
+          </div>
+        </div>
+        <p style="margin: 0; font-size: 18px; font-weight: 800; color: #ffd84c;" aria-live="polite">{{ciStatus}}</p>
       </section>
     </sc-if>
 

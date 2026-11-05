@@ -43,10 +43,10 @@ var KIDS = {
     { id: 'quantum', color: '#b98cff', ep: 'qubi', name: { en: 'Quantum', fr: 'Quantique', nl: 'Quantum' } },
     { id: 'robotics', color: '#ff9a4c', ep: 'robo', name: { en: 'Robotics', fr: 'Robotique', nl: 'Robotica' } },
     { id: 'biotech', color: '#ff7fdc', ep: 'bloom', name: { en: 'Biotech', fr: 'Biotech', nl: 'Biotech' } },
-    { id: 'space', color: '#8fa4ff', name: { en: 'Space', fr: 'Espace', nl: 'Ruimte' } },
-    { id: 'cities', color: '#ffd84c', name: { en: 'Smart Cities', fr: 'Villes intelligentes', nl: 'Slimme steden' } },
-    { id: 'mobility', color: '#ff8a8a', name: { en: 'Smart Mobility', fr: 'Mobilité', nl: 'Slimme mobiliteit' } },
-    { id: 'innovation', color: '#ffe066', name: { en: 'Innovation', fr: 'Innovation', nl: 'Innovatie' } }
+    { id: 'space', color: '#8fa4ff', ep: 'space', name: { en: 'Space', fr: 'Espace', nl: 'Ruimte' } },
+    { id: 'cities', color: '#ffd84c', ep: 'cities', name: { en: 'Smart Cities', fr: 'Villes intelligentes', nl: 'Slimme steden' } },
+    { id: 'mobility', color: '#ff8a8a', ep: 'mobility', name: { en: 'Smart Mobility', fr: 'Mobilité', nl: 'Slimme mobiliteit' } },
+    { id: 'innovation', color: '#ffe066', ep: 'innovation', name: { en: 'Innovation', fr: 'Innovation', nl: 'Innovatie' } }
   ],
   scenes: [
     { img: 'hero', who: 'Sunny', alt: 'A sunrise city full of lights', t: { en: 'Hi, I’m Sunny! Every lamp, tablet and fridge needs energy. But where does it come from?', fr: 'Salut, je suis Sunny ! Chaque lampe, tablette et frigo a besoin d’énergie. Mais d’où vient-elle ?', nl: 'Hoi, ik ben Sunny! Elke lamp, tablet en koelkast heeft energie nodig. Maar waar komt die vandaan?' } },

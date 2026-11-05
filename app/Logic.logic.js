@@ -28,6 +28,21 @@ var BANK = {
   pre: [ { k: 'seq', s: [7, 14, 21], o: [24, 28, 35], ok: 1, r: ['ruleAdd', 7] }, { k: 'seq', s: [30, 27, 24, 21], o: [18, 19, 17], ok: 0, r: ['ruleSub', 3] }, { k: 'pat', s: ['cR', 'sB', 'tR', 'cB', 'sR'], o: ['tB', 'tR', 'cB'], ok: 0, r: ['ruleAlt'] }, { k: 'rot', t: [180, 90], o: [270, 90, 180], ok: 0 }, { k: 'seq', s: [1, 3, 6, 10], o: [14, 15, 16], ok: 1, r: ['ruleTri'] } ],
   ch: [ { k: 'seq', s: [2, 6, 12, 20, 30], o: [40, 42, 36], ok: 1, r: ['ruleNN'] }, { k: 'rot', t: [90, 90, 90, 90, 90], o: [0, 90, 180], ok: 1 }, { k: 'seq', s: [1, 2, 6, 24], o: [48, 96, 120], ok: 2, r: ['ruleFact'] }, { k: 'seq', s: [64, 32, 16, 8], o: [4, 2, 6], ok: 0, r: ['ruleHalf'] }, { k: 'rot', t: [90, 90, 90, 90, 90, 90, 90], o: [90, 180, 270], ok: 2 } ]
 };
+var UI2 = {"en": {"sdk": "Sudoku", "sdkHow": "Pick an empty square, then tap a number. Every row, column and box must contain each number once.", "sdkNumbers": "Numbers", "sdkNew": "New puzzle", "sdkErase": "Erase", "sdkRule": "Fill in the numbers 1 to {n}.", "sdkLeft": "{n} squares to go", "sdkGood": "So far so good!", "sdkGoodText": "No mistakes yet. Keep going.", "sdkBad": "Look again.", "sdkBadText": "The red squares break a rule.", "sdkDone": "Sudoku solved!", "sdkDoneText": "Every row, column and box is complete. Try a new puzzle or the next level.", "sdkCell": "Row {r}, column {c}", "sdkEmpty": "empty"}, "fr": {"sdk": "Sudoku", "sdkHow": "Choisis une case vide, puis touche un chiffre. Chaque ligne, colonne et bloc doit contenir chaque chiffre une fois.", "sdkNumbers": "Chiffres", "sdkNew": "Nouvelle grille", "sdkErase": "Effacer", "sdkRule": "Remplis les chiffres de 1 à {n}.", "sdkLeft": "Encore {n} cases", "sdkGood": "Jusqu’ici, tout va bien !", "sdkGoodText": "Pas d’erreur pour l’instant. Continue.", "sdkBad": "Regarde encore.", "sdkBadText": "Les cases rouges ne respectent pas une règle.", "sdkDone": "Sudoku réussi !", "sdkDoneText": "Chaque ligne, colonne et bloc est complet. Essaie une nouvelle grille ou le niveau suivant.", "sdkCell": "Ligne {r}, colonne {c}", "sdkEmpty": "vide"}, "nl": {"sdk": "Sudoku", "sdkHow": "Kies een leeg vakje en tik dan op een cijfer. Elke rij, kolom en blok moet elk cijfer één keer bevatten.", "sdkNumbers": "Cijfers", "sdkNew": "Nieuwe puzzel", "sdkErase": "Wissen", "sdkRule": "Vul de cijfers 1 tot {n} in.", "sdkLeft": "Nog {n} vakjes", "sdkGood": "Tot nu toe goed!", "sdkGoodText": "Nog geen fouten. Ga zo door.", "sdkBad": "Kijk nog eens.", "sdkBadText": "De rode vakjes breken een regel.", "sdkDone": "Sudoku opgelost!", "sdkDoneText": "Elke rij, kolom en blok is af. Probeer een nieuwe puzzel of het volgende niveau.", "sdkCell": "Rij {r}, kolom {c}", "sdkEmpty": "leeg"}};
+['en', 'fr', 'nl'].forEach(function (k) { Object.assign(UI[k], UI2[k]); });
+ICON.sdk = 'M4 4h16v16H4zM9.3 4v16M14.7 4v16M4 9.3h16M4 14.7h16';
+// Sudoku: random full grid by backtracking, then remove cells while the solution stays unique.
+var SDK = [ { n: 4, br: 2, bc: 2, keep: 8 }, { n: 6, br: 2, bc: 3, keep: 18 }, { n: 9, br: 3, bc: 3, keep: 36 } ];
+function sdkShuffle(a) { for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)), t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
+function sdkOk(g, cfg, i, v) { var n = cfg.n, r = Math.floor(i / n), c = i % n; for (var k = 0; k < n; k++) { if (g[r * n + k] === v || g[k * n + c] === v) return false; } var r0 = r - r % cfg.br, c0 = c - c % cfg.bc; for (var a = 0; a < cfg.br; a++) for (var b = 0; b < cfg.bc; b++) if (g[(r0 + a) * n + c0 + b] === v) return false; return true; }
+function sdkFill(g, cfg) { var i = g.indexOf(0); if (i < 0) return true; var vs = sdkShuffle(Array.from({ length: cfg.n }, function (_, k) { return k + 1; })); for (var k = 0; k < vs.length; k++) { if (sdkOk(g, cfg, i, vs[k])) { g[i] = vs[k]; if (sdkFill(g, cfg)) return true; g[i] = 0; } } return false; }
+function sdkCount(g, cfg, limit) { var i = g.indexOf(0); if (i < 0) return 1; var tot = 0; for (var v = 1; v <= cfg.n; v++) { if (sdkOk(g, cfg, i, v)) { g[i] = v; tot += sdkCount(g, cfg, limit - tot); g[i] = 0; if (tot >= limit) break; } } return tot; }
+function sdkMake(level) {
+  var cfg = SDK[level], n = cfg.n, sol = new Array(n * n).fill(0); sdkFill(sol, cfg);
+  var puz = sol.slice(), order = sdkShuffle(Array.from({ length: n * n }, function (_, k) { return k; })), filled = n * n;
+  for (var k = 0; k < order.length && filled > cfg.keep; k++) { var i = order[k], keep = puz[i]; puz[i] = 0; if (sdkCount(puz.slice(), cfg, 2) !== 1) puz[i] = keep; else filled--; }
+  return { level: level, sol: sol, giv: puz, val: puz.slice(), sel: -1, bad: [], msg: '', done: false };
+}
 function fill(s, o) { return String(s).replace(/\{(\w+)\}/g, function (m, k) { return o[k] != null ? o[k] : m; }); }
 
 var P8 = [[6, 6], [50, 6], [94, 6], [94, 50], [94, 94], [50, 94], [6, 94], [6, 50]];
@@ -71,7 +86,7 @@ function norm(d) { return ((d % 360) + 360) % 360; }
 class Component extends DCLogic {
   constructor(props) {
     super(props);
-    this.state = { lang: 'en', tab: 'seq', level: 0, qi: 0, picked: -1, checked: false, score: 0, done: false, stars: 0, mode: 'gate', gateScore: -1, unlocked: false };
+    this.state = { sdk: null, lang: 'en', tab: 'seq', level: 0, qi: 0, picked: -1, checked: false, score: 0, done: false, stars: 0, mode: 'gate', gateScore: -1, unlocked: false };
   }
   list() {
     var s = this.state;
@@ -82,11 +97,26 @@ class Component extends DCLogic {
   renderVals() {
     var s = this.state, self = this, L = UI[s.lang];
     var langs = ['en', 'fr', 'nl'].map(function (k) { return { code: k.toUpperCase(), on: s.lang === k, cls: s.lang === k ? 'on' : '', pick: function () { self.setState({ lang: k }); } }; });
-    var tabs = ['seq', 'pat', 'rot', 'shp', 'ch'].map(function (k) { return { label: L[k], ic: ICON[k], on: s.tab === k, cls: s.tab === k ? 'on' : '', pick: function () { self.reset({ tab: k, level: 0, mode: k === 'ch' ? (s.unlocked ? 'ch' : 'gate') : s.mode }); } }; });
-    var levels = L.lvl.map(function (name, i) { return { label: name, on: s.level === i, cls: s.level === i ? 'on' : '', pick: function () { self.reset({ level: i }); } }; });
+    var tabs = ['seq', 'pat', 'rot', 'shp', 'sdk', 'ch'].map(function (k) { return { label: L[k], ic: ICON[k], on: s.tab === k, cls: s.tab === k ? 'on' : '', pick: function () { self.reset({ tab: k, level: 0, mode: k === 'ch' ? (s.unlocked ? 'ch' : 'gate') : s.mode, sdk: k === 'sdk' ? sdkMake(0) : null }); } }; });
+    var levels = L.lvl.map(function (name, i) { return { label: name, on: s.level === i, cls: s.level === i ? 'on' : '', pick: function () { self.reset({ level: i, sdk: s.tab === 'sdk' ? sdkMake(i) : null }); } }; });
+    var isSdk = s.tab === 'sdk', sd = isSdk ? (s.sdk || sdkMake(s.level)) : null;
     var isCh = s.tab === 'ch';
     var showGate = isCh && s.mode === 'gate';
-    var list = showGate ? [] : this.list();
+    var sdkVals = {};
+    if (isSdk) {
+      var cf = SDK[sd.level], N = cf.n, put = function (v) { if (sd.sel < 0 || sd.giv[sd.sel] || sd.done) return; var nv = sd.val.slice(); nv[sd.sel] = v; var nb = sd.bad.filter(function (x) { return x !== sd.sel; }); var full = nv.indexOf(0) < 0, solved = full && nv.every(function (x, i) { return x === sd.sol[i]; }); self.setState({ sdk: Object.assign({}, sd, { val: nv, bad: nb, msg: '', done: solved }), stars: s.stars + (solved ? 3 : 0), done: solved }); };
+      var selR = sd.sel < 0 ? -1 : Math.floor(sd.sel / N), selC = sd.sel < 0 ? -1 : sd.sel % N;
+      sdkVals = {
+        sdkN: N, sdkKey: 'sdk' + sd.level + sd.sol.join(''), sdkLabel: L.sdk + ' · ' + L.lvl[sd.level], sdkRule: fill(L.sdkRule, { n: N }),
+        sdkLeft: fill(L.sdkLeft, { n: sd.val.filter(function (x) { return !x; }).length }),
+        sdkCells: sd.val.map(function (v, i) { var r = Math.floor(i / N), c = i % N, cls = []; if (sd.giv[i]) cls.push('given'); if (i === sd.sel) cls.push('sel'); else if (sd.sel >= 0 && (r === selR || c === selC)) cls.push('peer'); if (sd.bad.indexOf(i) >= 0) cls.push('bad'); if ((c + 1) % cf.bc === 0 && c < N - 1) cls.push('br'); if ((r + 1) % cf.br === 0 && r < N - 1) cls.push('bb'); return { v: v || '', cls: cls.join(' '), aria: fill(L.sdkCell, { r: r + 1, c: c + 1 }) + ': ' + (v || L.sdkEmpty), pick: function () { if (!sd.giv[i]) self.setState({ sdk: Object.assign({}, sd, { sel: i }) }); } }; }),
+        sdkKeys: Array.from({ length: N }, function (_, k) { return { label: String(k + 1), aria: String(k + 1), press: function () { put(k + 1); } }; }).concat([{ label: '⌫', aria: L.sdkErase, press: function () { put(0); } }]),
+        sdkCheck: function () { var bad = []; sd.val.forEach(function (v, i) { if (v && !sd.giv[i] && v !== sd.sol[i]) bad.push(i); }); self.setState({ sdk: Object.assign({}, sd, { bad: bad, msg: bad.length ? 'bad' : 'good' }) }); },
+        sdkNew: function () { self.reset({ sdk: sdkMake(sd.level) }); },
+        sdkMsg: sd.msg ? (sd.msg === 'bad' ? L.sdkBadText : L.sdkGoodText) : '', sdkVerdict: sd.msg === 'bad' ? L.sdkBad : L.sdkGood, sdkColor: sd.msg === 'bad' ? '#ff8a8a' : '#38e1a0', sdkAvatar: sd.msg === 'bad' ? AV.whyzz : AV.sunny
+      };
+    }
+    var list = (showGate || isSdk) ? [] : this.list();
     var q = list[s.qi] || list[0] || { k: 'seq', s: [], o: [], ok: 0 };
     var kind = q.k || s.tab;
     var opts = (q.o || []).map(function (v, i) {
@@ -123,21 +153,21 @@ class Component extends DCLogic {
     };
     var label = isCh ? (s.mode === 'pre' ? L.preLabel : L.chLabel) : L[s.tab] + ' · ' + L.lvl[s.level];
     var prompt = kind === 'seq' ? L.seqPrompt : kind === 'pat' ? L.patPrompt : kind === 'shp' ? L.shpPrompt : L.rotPrompt;
-    return {
-      L: L, langs: langs, tabs: tabs, levels: levels,
+    return Object.assign(sdkVals, {
+      isSdk: isSdk && !s.done, L: L, langs: langs, tabs: tabs, levels: levels,
       showLevels: !isCh, showGate: showGate, gateFailed: showGate && s.gateScore >= 0 && s.gateScore < 5, gateResult: fill(L.gateFail, { n: s.gateScore }),
       startPretest: function () { self.reset({ mode: 'pre' }); },
-      showQuestion: !showGate && !s.done, showDone: s.done,
+      showQuestion: !showGate && !s.done && !isSdk, showDone: s.done,
       qKey: s.tab + s.level + s.mode + s.qi, qLabel: label, qCounter: (s.qi + 1) + ' / ' + list.length, qPrompt: prompt,
       accent: isCh ? '#b98cff' : '#38e1a0',
       isSeq: kind === 'seq', isPat: kind === 'pat', isRot: kind === 'rot', isShp: kind === 'shp', shpCells: shpCells, seqCells: seqCells, patCells: patCells, rotSteps: rotSteps, opts: opts,
       checked: s.checked, verdict: isRight ? L.right : L.wrong, verdictColor: isRight ? '#38e1a0' : '#ff8a8a', why: why, feedbackAvatar: isRight ? AV.sunny : AV.whyzz,
       action: action, actionDisabled: !s.checked && s.picked < 0, actionLabel: !s.checked ? L.check : (last ? L.finish : L.next),
       starsText: fill(L.stars, { n: s.stars }),
-      doneTitle: isCh ? fill(L.chDone, { n: s.score, t: list.length }) : fill(L.levelDone, { n: s.score, t: list.length }),
-      doneText: isCh ? L.chText : L.levelText,
-      again: function () { self.reset(); }, canNext: !isCh && s.level < 2, nextLabel: L.nextLevel, nextLevel: function () { self.reset({ level: s.level + 1 }); }
-    };
+      doneTitle: isSdk ? L.sdkDone : isCh ? fill(L.chDone, { n: s.score, t: list.length }) : fill(L.levelDone, { n: s.score, t: list.length }),
+      doneText: isSdk ? L.sdkDoneText : isCh ? L.chText : L.levelText,
+      again: function () { self.reset(isSdk ? { sdk: sdkMake(s.level) } : {}); }, canNext: !isCh && s.level < 2, nextLabel: L.nextLevel, nextLevel: function () { self.reset({ level: s.level + 1, sdk: isSdk ? sdkMake(s.level + 1) : null }); }
+    });
   }
 }
 
