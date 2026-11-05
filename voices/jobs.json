@@ -538,5 +538,437 @@
   "voice": "nl-NL-FennaNeural",
   "pitch": "+8%",
   "text": "Dan merken de sensoren dat op en past de robot zijn kaart aan. Robots in magazijnen, ziekenhuizen en zelfs op Mars vinden zo hun weg. Waar zou jij een robot naartoe sturen?"
+ },
+ {
+  "id": "sp-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, look at that tiny dot of light in the sky. Is it a star?"
+ },
+ {
+  "id": "sp-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, regarde ce tout petit point de lumière dans le ciel. C’est une étoile ?"
+ },
+ {
+  "id": "sp-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, kijk naar dat kleine lichtpuntje aan de hemel. Is dat een ster?"
+ },
+ {
+  "id": "sp-en-2",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Imagine it’s a spacecraft called Voyager 1. It left Earth in 1977 and it’s now the farthest object people have ever built."
+ },
+ {
+  "id": "sp-fr-2",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Imagine que c’est un vaisseau spatial appelé Voyager 1. Il a quitté la Terre en 1977 et c’est l’objet le plus lointain jamais construit par l’humain."
+ },
+ {
+  "id": "sp-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Stel je voor dat het een ruimtesonde is die Voyager 1 heet. Hij vertrok in 1977 van de aarde en is nu het verste voorwerp dat mensen ooit hebben gebouwd."
+ },
+ {
+  "id": "sp-en-3",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "We talk to it with radio waves. They travel at the speed of light: about 300,000 kilometers every second!"
+ },
+ {
+  "id": "sp-fr-3",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "On lui parle avec des ondes radio. Elles voyagent à la vitesse de la lumière : environ 300 000 kilomètres par seconde !"
+ },
+ {
+  "id": "sp-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "We praten ermee via radiogolven. Die reizen met de snelheid van het licht: ongeveer 300.000 kilometer per seconde!"
+ },
+ {
+  "id": "sp-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Then my message gets there in a second, right?"
+ },
+ {
+  "id": "sp-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Alors mon message arrive en une seconde, c’est ça ?"
+ },
+ {
+  "id": "sp-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dan is mijn bericht er in een seconde, toch?"
+ },
+ {
+  "id": "sp-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Space is huge! Light reaches the Moon in about one second and the Sun in about eight minutes. To reach Voyager 1, it needs almost a whole day."
+ },
+ {
+  "id": "sp-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "L’espace est immense ! La lumière atteint la Lune en une seconde environ et le Soleil en environ huit minutes. Pour atteindre Voyager 1, il lui faut presque une journée entière."
+ },
+ {
+  "id": "sp-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "De ruimte is enorm! Licht bereikt de maan in ongeveer één seconde en de zon in ongeveer acht minuten. Om Voyager 1 te bereiken, heeft het bijna een hele dag nodig."
+ },
+ {
+  "id": "sp-en-6",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Giant dish antennas on Earth listen for its tiny whisper. If you could send a message into space, what would you say?"
+ },
+ {
+  "id": "sp-fr-6",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "D’immenses antennes paraboliques sur Terre écoutent son tout petit murmure. Si tu pouvais envoyer un message dans l’espace, que dirais-tu ?"
+ },
+ {
+  "id": "sp-nl-6",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Enorme schotelantennes op aarde luisteren naar zijn zachte fluistering. Als jij een bericht de ruimte in kon sturen, wat zou je zeggen?"
+ },
+ {
+  "id": "mo-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, this bus is so quiet! Where is the engine noise?"
+ },
+ {
+  "id": "mo-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, ce bus est si silencieux ! Où est passé le bruit du moteur ?"
+ },
+ {
+  "id": "mo-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, deze bus is zo stil! Waar is het motorgeluid?"
+ },
+ {
+  "id": "mo-en-2",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "It’s an electric bus! Instead of a fuel tank, it has a big battery, a bit like a giant phone battery."
+ },
+ {
+  "id": "mo-fr-2",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "C’est un bus électrique ! À la place d’un réservoir d’essence, il a une grosse batterie, un peu comme une batterie de téléphone géante."
+ },
+ {
+  "id": "mo-nl-2",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Het is een elektrische bus! In plaats van een brandstoftank heeft hij een grote batterij, een beetje zoals een reuzegrote telefoonbatterij."
+ },
+ {
+  "id": "mo-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Electric motors turn the wheels. When the bus slows down, the motors work the other way and put a little energy back into the battery."
+ },
+ {
+  "id": "mo-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Des moteurs électriques font tourner les roues. Quand le bus ralentit, les moteurs fonctionnent dans l’autre sens et remettent un peu d’énergie dans la batterie."
+ },
+ {
+  "id": "mo-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Elektrische motoren laten de wielen draaien. Als de bus afremt, werken de motoren andersom en stoppen ze een beetje energie terug in de batterij."
+ },
+ {
+  "id": "mo-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "And what happens when the battery is empty?"
+ },
+ {
+  "id": "mo-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Et que se passe-t-il quand la batterie est vide ?"
+ },
+ {
+  "id": "mo-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "En wat gebeurt er als de batterij leeg is?"
+ },
+ {
+  "id": "mo-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "We don’t let it get that far! The bus charges at the depot at night, or for a few minutes at special stops. Energy from the Sun and wind makes it even cleaner."
+ },
+ {
+  "id": "mo-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "On ne la laisse pas se vider ! Le bus se recharge la nuit au dépôt, ou quelques minutes à des arrêts spéciaux. L’énergie du soleil et du vent le rend encore plus propre."
+ },
+ {
+  "id": "mo-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Zo ver laten we het niet komen! De bus laadt ’s nachts op in de stelplaats, of een paar minuten aan speciale haltes. Energie van de zon en de wind maakt hem nog schoner."
+ },
+ {
+  "id": "mo-en-6",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Smart traffic lights can even give buses a green light, so everyone gets there faster. How would you like to travel in the future?"
+ },
+ {
+  "id": "mo-fr-6",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Des feux intelligents peuvent même donner le vert aux bus, pour que tout le monde arrive plus vite. Et toi, comment aimerais-tu voyager dans le futur ?"
+ },
+ {
+  "id": "mo-nl-6",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Slimme verkeerslichten kunnen bussen zelfs groen licht geven, zodat iedereen sneller aankomt. Hoe zou jij in de toekomst willen reizen?"
+ },
+ {
+  "id": "ci-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, it rained so hard today! Where does all that water go?"
+ },
+ {
+  "id": "ci-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, il a tellement plu aujourd’hui ! Où va toute cette eau ?"
+ },
+ {
+  "id": "ci-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, het heeft vandaag zo hard geregend! Waar gaat al dat water heen?"
+ },
+ {
+  "id": "ci-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "In a city, a lot of the ground is covered with stone and asphalt. Rain can’t soak in, so it rushes into the drains."
+ },
+ {
+  "id": "ci-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "En ville, une grande partie du sol est couverte de pierre et d’asphalte. La pluie ne peut pas s’infiltrer, alors elle file dans les égouts."
+ },
+ {
+  "id": "ci-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "In een stad is veel grond bedekt met steen en asfalt. De regen kan er niet in, dus stroomt hij snel naar de riolen."
+ },
+ {
+  "id": "ci-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "If too much water arrives at once, the drains overflow and streets can flood."
+ },
+ {
+  "id": "ci-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Si trop d’eau arrive d’un coup, les égouts débordent et les rues peuvent être inondées."
+ },
+ {
+  "id": "ci-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Als er te veel water tegelijk komt, lopen de riolen over en kunnen straten onder water lopen."
+ },
+ {
+  "id": "ci-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Smart cities add green roofs, plant walls and rain gardens. Plants and soil soak up rain like a sponge."
+ },
+ {
+  "id": "ci-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Les villes intelligentes ajoutent des toits verts, des murs végétaux et des jardins de pluie. Les plantes et la terre absorbent la pluie comme une éponge."
+ },
+ {
+  "id": "ci-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Slimme steden maken groene daken, plantenmuren en regentuinen. Planten en aarde zuigen de regen op als een spons."
+ },
+ {
+  "id": "ci-en-5",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "And the city looks greener too!"
+ },
+ {
+  "id": "ci-fr-5",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Et la ville devient plus verte aussi !"
+ },
+ {
+  "id": "ci-nl-5",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "En de stad wordt er ook groener van!"
+ },
+ {
+  "id": "ci-en-6",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Yes! Sensors measure how full the drains and water tanks are, so the city knows where the water goes. Where would you add more green in your street?"
+ },
+ {
+  "id": "ci-fr-6",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Oui ! Des capteurs mesurent si les égouts et les réservoirs sont pleins, pour que la ville sache où va l’eau. Où ajouterais-tu plus de vert dans ta rue ?"
+ },
+ {
+  "id": "ci-nl-6",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Ja! Sensoren meten hoe vol de riolen en watertanks zijn, zodat de stad weet waar het water heen gaat. Waar zou jij meer groen maken in jouw straat?"
+ },
+ {
+  "id": "in-en-1",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, you ask questions all day long. Do inventors ask questions too?"
+ },
+ {
+  "id": "in-fr-1",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, tu poses des questions toute la journée. Les inventeurs posent-ils aussi des questions ?"
+ },
+ {
+  "id": "in-nl-1",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Whyzz, jij stelt de hele dag vragen. Stellen uitvinders ook vragen?"
+ },
+ {
+  "id": "in-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "All the time! Every invention starts with a problem and a question: how could this work better?"
+ },
+ {
+  "id": "in-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Tout le temps ! Chaque invention commence par un problème et une question : comment est-ce que ça pourrait mieux marcher ?"
+ },
+ {
+  "id": "in-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "De hele tijd! Elke uitvinding begint met een probleem en een vraag: hoe kan dit beter werken?"
+ },
+ {
+  "id": "in-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Then you build a prototype: a quick first try, made of cardboard, tape or just a drawing."
+ },
+ {
+  "id": "in-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Ensuite, on construit un prototype : un premier essai rapide, en carton, avec du scotch ou juste un dessin."
+ },
+ {
+  "id": "in-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dan bouw je een prototype: een snelle eerste poging, van karton, plakband of gewoon een tekening."
+ },
+ {
+  "id": "in-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "But what if it doesn’t work?"
+ },
+ {
+  "id": "in-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Mais si ça ne marche pas ?"
+ },
+ {
+  "id": "in-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Maar wat als het niet werkt?"
+ },
+ {
+  "id": "in-en-5",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Then you test it, find out what went wrong and make it better. Most inventors try many times. Mistakes are clues!"
+ },
+ {
+  "id": "in-fr-5",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Alors on le teste, on trouve ce qui ne va pas et on l’améliore. La plupart des inventeurs essaient plein de fois. Les erreurs sont des indices !"
+ },
+ {
+  "id": "in-nl-5",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dan test je het, zoek je uit wat er misging en maak je het beter. De meeste uitvinders proberen het heel vaak. Fouten zijn aanwijzingen!"
+ },
+ {
+  "id": "in-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Today’s inventors use computers and 3D printers to try ideas faster. What problem would you like to solve?"
+ },
+ {
+  "id": "in-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Les inventeurs d’aujourd’hui utilisent des ordinateurs et des imprimantes 3D pour essayer leurs idées plus vite. Quel problème aimerais-tu résoudre ?"
+ },
+ {
+  "id": "in-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Uitvinders van nu gebruiken computers en 3D-printers om ideeën sneller uit te proberen. Welk probleem zou jij willen oplossen?"
  }
 ]
