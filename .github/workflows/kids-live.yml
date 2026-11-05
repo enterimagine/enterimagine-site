@@ -1,0 +1,49 @@
+# IMAGINE Kids live site: deploys the kids branch to its own Azure Static Web App
+# (swa-imagine-kids, kids.enterimagine.com). The enterimagine.com website is not touched.
+# Uses the production environment, so GitHub waits for the owner's approval.
+name: kids-live
+on:
+  push:
+    branches: [kids]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: kids-live
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    environment:
+      name: production
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Use the live visit table
+        run: echo '{"table":"kidslive"}' > api/src/config.json
+      - name: Upload the kids site
+        id: swa
+        uses: Azure/static-web-apps-deploy@1a947af9992250f3bc2e68ad0754c0b0c11566c9 # v1
+        with:
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_SWA_KIDS_TOKEN }}
+          action: upload
+          app_location: app
+          api_location: api
+          output_location: ""
+          skip_app_build: true
+      - name: Smoke test
+        env:
+          URL: ${{ steps.swa.outputs.static_web_app_url }}
+        run: |
+          echo "Live site: $URL"
+          for f in index.html privacy.html Main.html Subjects.html Logic2.html Episodes.html robots.txt sitemap.xml lib/dc-local.js assets/img2_px1.webp; do
+            code=$(curl -s -o /dev/null -w '%{http_code}' "$URL/$f"); echo "$f $code"; [ "$code" = "200" ] || exit 1
+          done
+          for f in Parents.html School.html Family.html Storyboard.html; do
+            code=$(curl -s -o /dev/null -w '%{http_code}' "$URL/$f"); echo "$f $code (must not be 200)"; [ "$code" != "200" ] || exit 1
+          done
+          if curl -sI "$URL/index.html" | grep -qi "x-robots-tag: noindex"; then echo "home page must be indexable"; exit 1; fi
+          code=$(curl -s -o /dev/null -w '%{http_code}' -X POST -H 'Content-Type: text/plain' --data '{"p":"index","l":"en","d":"computer","e":"bad"}' "$URL/api/hit"); echo "api/hit $code"; [ "$code" = "204" ] || exit 1
+          code=$(curl -s -o /dev/null -w '%{http_code}' "$URL/api/stats"); echo "api/stats without login $code"; [ "$code" != "200" ] || exit 1

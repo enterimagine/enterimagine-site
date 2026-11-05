@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IMAGINE Kids: visits</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="stylesheet" href="lib/fonts.css">
+<style>
+body{margin:0;background:#081226;color:#f2f6ff;font-family:'Nunito',system-ui,sans-serif}
+main{max-width:900px;margin:0 auto;padding:24px 16px 64px}
+h1{font-family:'Baloo 2',sans-serif;font-size:32px;margin:0 0 4px}h1 span{color:#ffd84c}
+h2{font-family:'Baloo 2',sans-serif;font-size:21px;margin:26px 0 8px;color:#ffd84c}
+.small{font-size:14px;color:#9fb4e0}.warn{color:#ffb3b3;font-weight:700}
+.range{display:flex;gap:6px;flex-wrap:wrap;margin:12px 0}
+.range button{font:800 14px Nunito,sans-serif;border:2px solid rgba(255,255,255,.25);background:transparent;color:#f2f6ff;border-radius:999px;min-height:40px;padding:0 14px;cursor:pointer}
+.range button[aria-pressed="true"]{background:#7fe7ff;border-color:#7fe7ff;color:#04202a}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px}
+.tiles div{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);border-radius:16px;padding:14px}
+.tiles b{display:block;font-family:'Baloo 2',sans-serif;font-size:28px}.tiles span{color:#9fb4e0;font-size:14px}
+table{width:100%;border-collapse:collapse;font-size:15px}th,td{text-align:left;padding:8px 6px;border-bottom:1px solid rgba(255,255,255,.1)}th{color:#9fb4e0;font-size:13px}
+td:nth-child(n+2),th:nth-child(n+2){text-align:right;white-space:nowrap}
+.bar{display:inline-block;height:10px;border-radius:5px;background:#38e1a0;margin-right:8px;vertical-align:middle}
+.days{display:flex;align-items:flex-end;gap:3px;height:130px;overflow-x:auto;padding-bottom:4px}
+.day{display:flex;flex-direction:column;align-items:center;justify-content:flex-end;min-width:16px;height:100%}
+.day span{display:block;width:12px;background:#7fe7ff;border-radius:4px 4px 0 0}.day i{font-style:normal;font-size:10px;color:#9fb4e0}
+</style>
+</head>
+<body><main>
+<h1>IMAGINE <span>KIDS</span> visits</h1>
+<p class="small">Only for the site owner. Totals per day: no cookies, no identifiers and no IP addresses are stored.</p>
+<div class="range" role="group" aria-label="Period"><button type="button" data-days="7" aria-pressed="false">7 days</button><button type="button" data-days="30" aria-pressed="true">30 days</button><button type="button" data-days="90" aria-pressed="false">90 days</button><button type="button" data-days="365" aria-pressed="false">1 year</button></div>
+<div id="out"></div>
+<p class="small"><a style="color:#7fe7ff" href="/.auth/logout?post_logout_redirect_uri=/index.html">Sign out</a></p>
+</main><script src="lib/statsview.js"></script></body></html>

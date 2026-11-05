@@ -1,0 +1,300 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IMAGINE Kids: Energy world</title>
+
+<style>
+body{margin:0;background:#081226}
+a{color:#7fe7ff}a:hover{color:#c8f6ff}
+.k-btn{font-family:'Nunito',system-ui,sans-serif;font-weight:800;font-size:17px;border:0;border-radius:999px;padding:13px 24px;min-height:48px;cursor:pointer;display:inline-flex;align-items:center;gap:10px;transition:transform .15s ease,box-shadow .15s ease}
+.k-btn:hover{transform:translateY(-2px)}
+.k-btn:focus-visible,.k-chip:focus-visible,.k-opt:focus-visible,.k-tile:focus-visible,.k-lang:focus-visible,.k-nav:focus-visible{outline:3px solid #ffd84c;outline-offset:3px}
+.k-primary{background:#ffd84c;color:#1a1300;box-shadow:0 6px 0 #c9a320}
+.k-ghost{background:rgba(255,255,255,.08);color:#f2f6ff;border:2px solid rgba(255,255,255,.22)}
+.k-lang{font-family:'Nunito',sans-serif;font-weight:800;font-size:14px;letter-spacing:.06em;border:2px solid rgba(255,255,255,.25);background:transparent;color:#f2f6ff;border-radius:999px;min-width:48px;min-height:44px;cursor:pointer}
+.k-lang.on{background:#7fe7ff;border-color:#7fe7ff;color:#04202a}
+.k-nav{font-family:'Nunito',sans-serif;font-weight:700;font-size:15px;background:transparent;border:0;color:#cfe0ff;min-height:44px;padding:0 12px;border-radius:12px;cursor:pointer}
+.k-nav.on{background:rgba(127,231,255,.16);color:#ffffff}
+.k-tile{display:flex;flex-direction:column;align-items:flex-start;gap:10px;text-align:left;border-radius:24px;padding:20px;border:2px solid rgba(255,255,255,.12);background:rgba(255,255,255,.05);color:#f2f6ff;font-family:'Nunito',sans-serif;cursor:pointer;min-height:150px}
+.k-tile.locked{cursor:default;opacity:.62}
+.k-chip{font-family:'Nunito',sans-serif;font-weight:700;font-size:16px;display:flex;align-items:center;gap:10px;border-radius:18px;padding:12px 16px;min-height:56px;border:2px solid rgba(255,255,255,.18);background:rgba(255,255,255,.06);color:#f2f6ff;cursor:pointer;text-align:left}
+.k-chip.on{background:#38e1a0;border-color:#38e1a0;color:#03261a}
+.k-opt{font-family:'Nunito',sans-serif;font-weight:700;font-size:19px;text-align:left;border-radius:20px;padding:16px 20px;min-height:60px;border:3px solid rgba(255,255,255,.18);background:rgba(255,255,255,.06);color:#f2f6ff;cursor:pointer}
+.k-opt.picked{border-color:#7fe7ff;background:rgba(127,231,255,.14)}
+.k-opt.right{border-color:#38e1a0;background:rgba(56,225,160,.22)}
+.k-opt.wrong{border-color:#ff8a8a;background:rgba(255,138,138,.16)}
+.k-scene{animation:kenburns 7s ease-out both}
+@keyframes kenburns{from{transform:scale(1.12) translate(1.5%,1%)}to{transform:scale(1) translate(0,0)}}
+.k-pop{animation:pop .35s ease-out both}
+@keyframes pop{from{transform:translateY(10px);opacity:0}to{transform:none;opacity:1}}
+@media (prefers-reduced-motion: reduce){.k-scene,.k-pop{animation:none}}
+@media print{.k-noprint{display:none !important}body{background:#fff}}
+@media (max-width: 899px){.k-head{position:static !important}.k-aside{position:static !important}}
+.k-ghost-dark{background:transparent;color:#5a4200;border:2px solid #c9a320}
+</style>
+
+<style>.local-bar{position:fixed;right:12px;bottom:12px;z-index:50;font:700 14px Nunito,system-ui,sans-serif}body{padding-bottom:72px}.local-bar a{display:inline-block;padding:10px 16px;border-radius:999px;background:#ffd84c;color:#1a1300;text-decoration:none;box-shadow:0 4px 0 #c9a320}</style>
+<link rel="stylesheet" href="lib/fonts.css">
+<link rel="canonical" href="https://kids.enterimagine.com/Main.html">
+<script src="lib/morphdom.min.js"></script>
+<script src="lib/dc-local.js"></script>
+<script src="lib/stats.js" defer></script>
+</head>
+<body>
+<div id="dc-root"></div>
+<nav class="local-bar"><a href="index.html" data-keep-lang data-base="index.html" aria-label="Home"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" style="vertical-align:-3px;margin-right:6px"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/></svg>Home</a> <a href="privacy.html" data-keep-lang data-base="privacy.html">Privacy</a></nav>
+<template id="dc-tpl">
+
+<div style="min-height: 100vh; background: radial-gradient(1200px 600px at 80% -10%, #2a1f6b 0%, rgba(42,31,107,0) 60%), #081226; color: #f2f6ff; font-family: 'Nunito', system-ui, sans-serif;">
+
+  <header class="k-noprint k-head" style="position: sticky; top: 0; z-index: 5; background: rgba(8,18,38,.92); border-bottom: 1px solid rgba(255,255,255,.08);">
+    <div style="max-width: 1240px; margin: 0 auto; padding: 12px 20px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px;">
+      <button class="k-nav" onClick="{{goHome}}" aria-label="IMAGINE Kids home" style="display: flex; flex-direction: column; align-items: flex-start; padding: 4px 8px;">
+        <span style="font-family: 'Baloo 2', sans-serif; font-weight: 800; font-size: 26px; letter-spacing: .12em; color: #ffffff; line-height: 1;">IMAGINE <span style="color: #ffd84c;">KIDS</span></span>
+        <span style="font-size: 12px; letter-spacing: .14em; text-transform: uppercase; color: #9fb4e0;">{{L.tagline}}</span>
+      </button>
+      <nav aria-label="Main" style="display: flex; flex-wrap: wrap; gap: 4px; flex: 1 1 auto;">
+        <sc-for list="{{nav}}" as="n" hint-placeholder-count="5">
+          <button class="k-nav {{n.cls}}" onClick="{{n.go}}">{{n.label}}</button>
+        </sc-for>
+      </nav>
+      <div role="group" aria-label="Language" style="display: flex; gap: 6px;">
+        <sc-for list="{{langs}}" as="l" hint-placeholder-count="4">
+          <button class="k-lang {{l.cls}}" onClick="{{l.pick}}" aria-pressed="{{l.on}}" title="{{l.name}}">{{l.code}}</button>
+        </sc-for>
+      </div>
+    </div>
+  </header>
+
+  <main style="max-width: 1240px; margin: 0 auto; padding: 24px 20px 64px;">
+
+    <sc-if value="{{isHome}}" hint-placeholder-val="{{true}}">
+      <section style="position: relative; border-radius: 32px; overflow: hidden; min-height: 460px; display: flex; align-items: flex-end;">
+        <img src="assets/img_hero.webp" alt="A futuristic sunrise city with floating gardens and waterfalls, seen by a child sitting on a hilltop" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; inset: 0; background: linear-gradient(90deg, rgba(8,18,38,.92) 0%, rgba(8,18,38,.55) 45%, rgba(8,18,38,0) 75%);"></div>
+        <div class="k-pop" style="position: relative; padding: 40px; max-width: 560px; display: flex; flex-direction: column; gap: 16px;">
+          <h1 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-weight: 800; font-size: clamp(38px, 5vw, 60px); line-height: 1.02;">{{L.hello}}</h1>
+          <p style="margin: 0; font-size: 20px; line-height: 1.5; color: #dfe8ff;">{{L.intro}}</p>
+          <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+            <button class="k-btn k-primary" onClick="{{goEp}}">
+              <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M7 4l13 8-13 8z" fill="currentColor"></path></svg>{{L.explore}}</button>
+          </div>
+        </div>
+      </section>
+
+      <section style="margin-top: 40px;">
+        <h2 style="margin: 0 0 6px; font-family: 'Baloo 2', sans-serif; font-size: 34px;">{{L.domains}}</h2>
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 210px), 1fr)); gap: 16px; margin-top: 16px;">
+          <sc-for list="{{domains}}" as="d" hint-placeholder-count="9">
+            <button class="k-tile {{d.cls}}" onClick="{{d.go}}" disabled="{{d.locked}}" style="border-color: {{d.border}};">
+              <span style="width: 56px; height: 56px; border-radius: 18px; display: grid; place-items: center; background: {{d.bg}};">
+                <svg viewBox="0 0 24 24" width="30" height="30" aria-hidden="true"><path d="{{d.ic}}" fill="none" stroke="{{d.color}}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+              </span>
+              <span style="font-family: 'Baloo 2', sans-serif; font-weight: 700; font-size: 22px;">{{d.name}}</span>
+              <span style="font-size: 14px; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; color: {{d.color}};">{{d.status}}</span>
+            </button>
+          </sc-for>
+        </div>
+      </section>
+
+      <section style="margin-top: 40px; display: flex; flex-wrap: wrap; gap: 24px; align-items: center; background: rgba(255,255,255,.05); border-radius: 32px; padding: 24px; border: 1px solid rgba(255,255,255,.08);">
+        <img src="assets/img_guides.webp" alt="Five cartoon explorer kids, the IMAGINE Kids guides" style="flex: 1 1 420px; max-width: 100%; border-radius: 22px;">
+        <div style="flex: 1 1 320px; display: flex; flex-direction: column; gap: 12px;">
+          <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 30px;">{{L.episode}} · {{L.epTitle}}</h2>
+          <p style="margin: 0; color: #c9d6f5; font-size: 17px;">{{L.minutes}} · Sunny &amp; Whyzz</p>
+          <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+            <button class="k-btn k-primary" onClick="{{goEp}}">{{L.watch}}</button>
+            <button class="k-btn k-ghost" onClick="{{goQuiz}}">{{L.quiz}}</button>
+            <button class="k-btn k-ghost" onClick="{{goGame}}">{{L.play}}</button>
+            <button class="k-btn k-ghost" onClick="{{goBuild}}">{{L.build}}</button>
+          </div>
+          <p style="margin: 8px 0 0; font-size: 15px; color: #9fb4e0;">{{L.badges}}: <strong style="color: #ffd84c;">{{badgeText}}</strong></p>
+        </div>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isEp}}" hint-placeholder-val="{{false}}">
+      <section style="display: flex; flex-direction: column; gap: 16px;">
+        <div>
+          <p style="margin: 0; font-size: 14px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: #38e1a0;">{{domainName}} · {{L.episode}}</p>
+          <h1 style="margin: 4px 0 0; font-family: 'Baloo 2', sans-serif; font-size: clamp(28px, 4vw, 44px); line-height: 1.1;">{{L.epTitle}}</h1>
+        </div>
+        <div style="position: relative; border-radius: 28px; overflow: hidden; background: #000; aspect-ratio: 16 / 9; max-height: 680px;">
+          <img class="k-scene" src="{{scene.img}}" alt="{{scene.alt}}" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;" key="{{scene.key}}">
+          <div style="position: absolute; left: 0; right: 0; bottom: 0; padding: 20px; background: linear-gradient(0deg, rgba(0,0,0,.78) 0%, rgba(0,0,0,0) 100%);">
+            <div class="k-pop" key="{{scene.key}}" style="display: flex; gap: 14px; align-items: flex-end; max-width: 900px; margin: 0 auto;">
+              <img src="{{scene.avatar}}" alt="{{scene.who}}" style="width: 72px; height: 72px; border-radius: 50%; border: 3px solid {{scene.ring}}; flex: none;">
+              <p style="margin: 0; background: rgba(8,18,38,.88); border-radius: 18px; padding: 12px 18px; font-size: clamp(17px, 2vw, 22px); line-height: 1.45; font-weight: 700;"><strong style="color: {{scene.ring}};">{{scene.who}}:</strong> {{scene.text}}</p>
+            </div>
+          </div>
+          <span style="position: absolute; top: 16px; right: 16px; background: rgba(8,18,38,.85); border-radius: 999px; padding: 6px 14px; font-size: 14px; font-weight: 800;">{{L.voice}}: {{langName}}</span>
+        </div>
+        <div class="k-noprint" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+          <button class="k-btn k-ghost" onClick="{{prevScene}}" aria-label="{{L.prev}}">
+            <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></button>
+          <button class="k-btn k-primary" onClick="{{togglePlay}}">
+            <sc-if value="{{playing}}" hint-placeholder-val="{{false}}"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M7 4h4v16H7zM13 4h4v16h-4z" fill="currentColor"></path></svg></sc-if>
+            <sc-if value="{{notPlaying}}" hint-placeholder-val="{{true}}"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M7 4l13 8-13 8z" fill="currentColor"></path></svg></sc-if>
+            {{playLabel}}</button>
+          <button class="k-btn k-ghost" onClick="{{nextScene}}" aria-label="{{L.next}}">
+            <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></button>
+          <button class="k-btn k-ghost" onClick="{{toggleVoice}}" aria-pressed="{{voiceOn}}">
+            <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="{{voiceIcon}}" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{L.voiceBtn}}</button>
+          <div style="display: flex; gap: 8px; margin-left: 8px;" aria-label="{{sceneCounter}}">
+            <sc-for list="{{dots}}" as="dot" hint-placeholder-count="6">
+              <span style="width: {{dot.w}}; height: 12px; border-radius: 999px; background: {{dot.c}}; transition: width .2s;"></span>
+            </sc-for>
+          </div>
+          <span style="color: #9fb4e0; font-weight: 700;">{{sceneCounter}}</span>
+        </div>
+        <sc-if value="{{epDone}}" hint-placeholder-val="{{false}}">
+          <div class="k-pop" style="background: rgba(56,225,160,.12); border: 2px solid rgba(56,225,160,.5); border-radius: 24px; padding: 20px; display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+            <strong style="font-family: 'Baloo 2', sans-serif; font-size: 24px; flex: 1 1 260px;">{{L.afterEp}}</strong>
+            <button class="k-btn k-primary" onClick="{{goQuiz}}">{{L.quiz}}</button>
+            <button class="k-btn k-ghost" onClick="{{goGame}}">{{L.play}}</button>
+            <button class="k-btn k-ghost" onClick="{{goBuild}}">{{L.build}}</button>
+          </div>
+        </sc-if>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isQuiz}}" hint-placeholder-val="{{false}}">
+      <section style="max-width: 760px; margin: 0 auto; display: flex; flex-direction: column; gap: 16px;">
+        <p style="margin: 0; font-size: 14px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: #38e1a0;">{{L.quizTitle}} · {{quizCounter}}</p>
+        <sc-if value="{{quizRunning}}" hint-placeholder-val="{{true}}">
+          <h1 class="k-pop" key="{{quizKey}}" style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: clamp(28px, 4vw, 40px); line-height: 1.15;">{{qText}}</h1>
+          <div style="display: flex; flex-direction: column; gap: 12px;">
+            <sc-for list="{{qOpts}}" as="o" hint-placeholder-count="3">
+              <button class="k-opt {{o.cls}}" onClick="{{o.pick}}" disabled="{{qChecked}}">{{o.text}}</button>
+            </sc-for>
+          </div>
+          <sc-if value="{{qChecked}}" hint-placeholder-val="{{false}}">
+            <p class="k-pop" style="margin: 0; display: flex; gap: 12px; align-items: flex-start; background: rgba(255,255,255,.06); border-radius: 18px; padding: 14px 18px; font-size: 18px;">
+              <img src="assets/img_sunny.webp" alt="Sunny" style="width: 48px; height: 48px; border-radius: 50%; flex: none;">
+              <span><strong style="color: {{qVerdictColor}};">{{qVerdict}}</strong> {{qWhy}}</span></p>
+          </sc-if>
+          <div>
+            <button class="k-btn k-primary" onClick="{{qAction}}" disabled="{{qActionDisabled}}">{{qActionLabel}}</button>
+          </div>
+        </sc-if>
+        <sc-if value="{{quizDone}}" hint-placeholder-val="{{false}}">
+          <div class="k-pop" style="text-align: center; display: flex; flex-direction: column; align-items: center; gap: 14px; padding: 32px; border-radius: 28px; background: rgba(255,216,76,.1); border: 2px solid rgba(255,216,76,.5);">
+            <svg viewBox="0 0 24 24" width="84" height="84" aria-hidden="true"><path d="M12 2l3 6.5 7 .8-5.2 4.8 1.4 7L12 17.6 5.8 21.1l1.4-7L2 9.3l7-.8z" fill="#ffd84c" stroke="#c9a320" stroke-width="1.2" stroke-linejoin="round"></path></svg>
+            <h1 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 40px;">{{quizScore}}</h1>
+            <p style="margin: 0; font-size: 20px; font-weight: 800; color: #ffd84c;">{{L.badge}}</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+              <button class="k-btn k-ghost" onClick="{{quizRestart}}">{{L.again}}</button>
+              <button class="k-btn k-primary" onClick="{{goGame}}">{{L.play}}</button>
+            </div>
+          </div>
+        </sc-if>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isGame}}" hint-placeholder-val="{{false}}">
+      <section style="display: flex; flex-direction: column; gap: 18px;">
+        <div>
+          <p style="margin: 0; font-size: 14px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: #38e1a0;">{{domainName}} · {{L.play}}</p>
+          <h1 style="margin: 4px 0 6px; font-family: 'Baloo 2', sans-serif; font-size: clamp(30px, 4vw, 44px);">{{L.gameTitle}}</h1>
+          <p style="margin: 0; font-size: 18px; color: #dfe8ff; max-width: 760px;">{{gameIntro}}</p>
+        </div>
+        <div style="display: flex; flex-wrap: wrap; gap: 14px;">
+          <sc-for list="{{shop}}" as="s" hint-placeholder-count="3">
+            <div style="flex: 1 1 230px; background: rgba(255,255,255,.06); border: 2px solid rgba(255,255,255,.12); border-radius: 22px; padding: 16px; display: flex; align-items: center; gap: 14px;">
+              <span style="width: 54px; height: 54px; border-radius: 16px; display: grid; place-items: center; background: rgba(255,216,76,.14); flex: none;">
+                <svg viewBox="0 0 24 24" width="30" height="30" aria-hidden="true"><path d="{{s.ic}}" fill="none" stroke="#ffd84c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+              <span style="flex: 1; display: flex; flex-direction: column;"><strong style="font-size: 18px;">{{s.name}}</strong><span style="font-size: 14px; color: #9fb4e0;">{{s.cost}}</span></span>
+              <button class="k-lang" onClick="{{s.minus}}" aria-label="{{s.minusLabel}}">−</button>
+              <strong style="font-family: 'Baloo 2', sans-serif; font-size: 28px; min-width: 24px; text-align: center;" aria-live="polite">{{s.n}}</strong>
+              <button class="k-lang" onClick="{{s.plus}}" aria-label="{{s.plusLabel}}" disabled="{{s.cantAdd}}">+</button>
+            </div>
+          </sc-for>
+        </div>
+        <p style="margin: 0; font-size: 18px; font-weight: 800;">{{L.coins}}: <span style="color: #ffd84c;">{{coinsLeft}}</span></p>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); gap: 14px;">
+          <sc-for list="{{scenarios}}" as="sc" hint-placeholder-count="3">
+            <div style="border-radius: 24px; padding: 18px; background: {{sc.bg}}; border: 2px solid {{sc.border}}; display: flex; flex-direction: column; gap: 12px;">
+              <strong style="font-family: 'Baloo 2', sans-serif; font-size: 22px; color: {{sc.ink}};">{{sc.name}}</strong>
+              <div style="display: flex; gap: 8px;">
+                <sc-for list="{{sc.houses}}" as="h" hint-placeholder-count="4">
+                  <svg viewBox="0 0 24 24" width="48" height="48" aria-hidden="true"><path d="M3 11l9-7 9 7v10H3z" fill="{{h.fill}}" stroke="{{h.stroke}}" stroke-width="1.6" stroke-linejoin="round"></path><path d="M10 21v-5h4v5" fill="none" stroke="{{h.stroke}}" stroke-width="1.6"></path></svg>
+                </sc-for>
+              </div>
+              <span style="font-weight: 800; color: {{sc.ink}};">{{sc.status}}</span>
+            </div>
+          </sc-for>
+        </div>
+        <p class="k-pop" key="{{gameMsgKey}}" style="margin: 0; padding: 14px 18px; border-radius: 18px; background: {{gameMsgBg}}; font-size: 18px; font-weight: 700; display: flex; gap: 12px; align-items: center;">
+          <img src="{{gameMsgAvatar}}" alt="" style="width: 44px; height: 44px; border-radius: 50%; flex: none;">{{gameMsg}}</p>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isBuild}}" hint-placeholder-val="{{false}}">
+      <section style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
+        <div class="k-noprint" style="flex: 999 1 520px; min-width: 0; display: flex; flex-direction: column; gap: 18px;">
+          <h1 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: clamp(30px, 4vw, 44px);">{{L.buildTitle}}</h1>
+          <sc-for list="{{groups}}" as="g" hint-placeholder-count="3">
+            <div style="display: flex; flex-direction: column; gap: 10px;">
+              <h2 style="margin: 0; font-size: 20px;">{{g.label}}</h2>
+              <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 210px), 1fr)); gap: 10px;">
+                <sc-for list="{{g.items}}" as="it" hint-placeholder-count="4">
+                  <button class="k-chip {{it.cls}}" onClick="{{it.pick}}" aria-pressed="{{it.on}}">
+                    <svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true" style="flex: none;"><path d="{{it.ic}}" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{it.text}}</button>
+                </sc-for>
+              </div>
+            </div>
+          </sc-for>
+        </div>
+        <aside class="k-aside" style="flex: 1 1 340px; position: sticky; top: 96px; background: #fff7e0; color: #2a1d00; border-radius: 28px; padding: 24px; display: flex; flex-direction: column; gap: 14px; box-shadow: 0 10px 0 #c9a320;">
+          <p style="margin: 0; font-size: 13px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; color: #8a6500;">IMAGINE KIDS · {{L.yourIdea}}</p>
+          <div style="display: flex; gap: 10px;">
+            <sc-for list="{{cardIcons}}" as="ci" hint-placeholder-count="3">
+              <span style="width: 56px; height: 56px; border-radius: 16px; background: #ffe48a; display: grid; place-items: center;">
+                <svg viewBox="0 0 24 24" width="32" height="32" aria-hidden="true"><path d="{{ci.ic}}" fill="none" stroke="#5a4200" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+            </sc-for>
+          </div>
+          <p class="k-pop" key="{{cardKey}}" style="margin: 0; font-family: 'Baloo 2', sans-serif; font-weight: 700; font-size: 26px; line-height: 1.25;">{{cardText}}</p>
+          <p style="margin: 0; display: flex; gap: 10px; align-items: center; font-size: 16px;">
+            <img src="assets/img_ethan.webp" alt="Whyzz" style="width: 44px; height: 44px; border-radius: 50%; flex: none;">
+            <span><strong>{{L.ethanAsks}}:</strong> {{ethanQ}}</span></p>
+          <div class="k-noprint" style="display: flex; flex-wrap: wrap; gap: 10px;">
+            <button class="k-btn k-primary" onClick="{{saveCard}}">
+              <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{L.save}}</button>
+            <button class="k-btn k-ghost-dark" onClick="{{printCard}}">
+              <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M7 9V3h10v6M7 17H4v-7h16v7h-3M7 14h10v7H7z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"></path></svg>{{L.printShort}}</button>
+          </div>
+          <p style="margin: 0; font-size: 14px; color: #6b5300;">{{L.keep}}</p>
+        </aside>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isAdults}}" hint-placeholder-val="{{false}}">
+      <section style="display: flex; flex-wrap: wrap; gap: 20px;">
+        <h1 style="flex: 1 1 100%; margin: 0; font-family: 'Baloo 2', sans-serif; font-size: clamp(30px, 4vw, 44px);">{{L.adultsTitle}}</h1>
+        <div style="flex: 1 1 340px; background: rgba(56,225,160,.1); border: 2px solid rgba(56,225,160,.4); border-radius: 28px; padding: 24px; display: flex; flex-direction: column; gap: 12px;">
+          <h2 style="margin: 0; display: flex; gap: 10px; align-items: center; font-size: 24px;">
+            <svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true"><path d="M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z M8.5 12l2.5 2.5 4.5-5" fill="none" stroke="#38e1a0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{L.promise}}</h2>
+          <sc-for list="{{promiseItems}}" as="p" hint-placeholder-count="4">
+            <p style="margin: 0; font-size: 18px; display: flex; gap: 10px;"><span style="color: #38e1a0; font-weight: 800;">✓</span>{{p}}</p>
+          </sc-for>
+        </div>
+        <div style="flex: 1 1 340px; background: rgba(127,231,255,.08); border: 2px dashed rgba(127,231,255,.45); border-radius: 28px; padding: 24px; display: flex; flex-direction: column; gap: 12px;">
+          <h2 style="margin: 0; display: flex; gap: 10px; align-items: center; font-size: 24px;">
+            <svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true"><path d="M2 9l10-5 10 5-10 5z M6 11v5c3 2 9 2 12 0v-5 M22 9v6" fill="none" stroke="#7fe7ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>{{L.teachersTitle}}</h2>
+          <sc-for list="{{teacherItems}}" as="t" hint-placeholder-count="3">
+            <p style="margin: 0; font-size: 18px; display: flex; gap: 10px;"><span style="color: #7fe7ff; font-weight: 800;">→</span>{{t}}</p>
+          </sc-for>
+          <p style="margin: 6px 0 0; font-size: 16px; color: #c9d6f5;">{{L.teachersNote}}</p>
+        </div>
+      </section>
+    </sc-if>
+  </main>
+
+  <footer class="k-noprint" style="border-top: 1px solid rgba(255,255,255,.08); padding: 20px; text-align: center; color: #8ea3cf; font-size: 14px;">IMAGINE Kids · EnterImagine Media · {{L.promiseShort}}</footer>
+</div>
+</template>
+<script src="Main.logic.js"></script>
+</body>
+</html>

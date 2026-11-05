@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /stats.html
+Disallow: /api/
+Sitemap: https://kids.enterimagine.com/sitemap.xml
