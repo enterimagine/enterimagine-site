@@ -6,8 +6,10 @@ assert.equal(S.clean({ p: 'Subjects', l: 'en', d: 'phone', e: 'time', s: 99999 }
 assert.equal(S.clean({ p: 'Subjects', l: 'en', d: 'phone', e: 'time', s: 42.4 }).seconds, 42);
 assert.equal(S.clean({ p: 'Subjects', l: 'en', d: 'phone', e: 'open', ip: '1.2.3.4', name: 'x' }).ip, undefined);
 let e = S.apply(null, { kind: 'open' }); e = S.apply(e, { kind: 'time', seconds: 30 }); e = S.apply(e, { kind: 'open' });
-assert.deepEqual(e, { views: 2, timed: 1, seconds: 30 });
+assert.deepEqual(e, { views: 2, visits: 0, timed: 1, seconds: 30 });
+let v = S.apply(null, S.clean({ p: 'index', l: 'en', d: 'phone', e: 'open', v: 1 })); v = S.apply(v, S.clean({ p: 'index', l: 'en', d: 'phone', e: 'open', v: 0 })); v = S.apply(v, S.clean({ p: 'index', l: 'en', d: 'phone', e: 'open', v: 'x' }));
+assert.deepEqual(v, { views: 3, visits: 1, timed: 0, seconds: 0 });
 const now = Date.parse('2026-11-10T12:00:00Z');
 const sum = S.summarize([{ partitionKey: '2026-11-10', rowKey: 'Subjects|nl|phone', views: 3, timed: 2, seconds: 120 }, { partitionKey: '2026-11-09', rowKey: 'Episodes|en|computer', views: 1, timed: 1, seconds: 60 }, { partitionKey: '2026-10-01', rowKey: 'Main|fr|tablet', views: 9, timed: 0, seconds: 0 }], 7, now);
-assert.equal(sum.total.views, 4); assert.equal(sum.byPage.Subjects.seconds, 120); assert.equal(sum.byLang.fr, undefined); assert.equal(sum.byDevice.computer.views, 1);
+assert.equal(sum.total.views, 4); assert.equal(sum.total.visits, 0); assert.equal(sum.byPage.Subjects.seconds, 120); assert.equal(sum.byLang.fr, undefined); assert.equal(sum.byDevice.computer.views, 1);
 console.log('stats tests passed');

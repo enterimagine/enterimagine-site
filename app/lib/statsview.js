@@ -9,9 +9,9 @@
     var keys = Object.keys(obj).sort(function (a, b) { return obj[b].views - obj[a].views; });
     if (!keys.length) return '';
     var max = Math.max.apply(null, keys.map(function (k) { return obj[k].views; })) || 1;
-    return '<h2>' + title + '</h2><table><thead><tr><th scope="col">Name</th><th scope="col">Visits</th><th scope="col">Average time</th><th scope="col">Total time</th></tr></thead><tbody>' + keys.map(function (k) {
+    return '<h2>' + title + '</h2><table><thead><tr><th scope="col">Name</th><th scope="col">Page views</th><th scope="col">Visits started</th><th scope="col">Average time</th><th scope="col">Total time</th></tr></thead><tbody>' + keys.map(function (k) {
       var r = obj[k], avg = r.views ? r.seconds / r.views : 0;
-      return '<tr><td>' + esc(names[k] || k) + '</td><td><span class="bar" style="width:' + Math.max(4, Math.round(r.views / max * 120)) + 'px"></span>' + r.views + '</td><td>' + fmtT(avg) + '</td><td>' + fmtT(r.seconds) + '</td></tr>';
+      return '<tr><td>' + esc(names[k] || k) + '</td><td><span class="bar" style="width:' + Math.max(4, Math.round(r.views / max * 120)) + 'px"></span>' + r.views + '</td><td>' + (r.visits || 0) + '</td><td>' + fmtT(avg) + '</td><td>' + fmtT(r.seconds) + '</td></tr>';
     }).join('') + '</tbody></table>';
   }
   function load() {
@@ -20,10 +20,10 @@
       if (d.error) { out.innerHTML = '<p class="warn">The counter cannot reach the storage account.</p><p class="small">' + esc(d.error) + '</p>'; return; }
       if (!d.configured) { out.innerHTML = '<p class="warn">Counting is not switched on yet: the STATS_STORAGE setting is missing in Azure.</p>'; return; }
       var t = d.total, avg = t.views ? t.seconds / t.views : 0;
-      var dayKeys = Object.keys(d.byDay).sort(), maxD = Math.max.apply(null, dayKeys.map(function (k) { return d.byDay[k].views; }).concat([1]));
-      out.innerHTML = '<div class="tiles"><div><b>' + t.views + '</b><span>visits</span></div><div><b>' + fmtT(avg) + '</b><span>average time per visit</span></div><div><b>' + fmtT(t.seconds) + '</b><span>total time</span></div></div>' +
-        '<p class="small">' + esc(d.from) + ' to ' + esc(d.to) + ' (UTC days). A visit is one page opened; one child moving through three sections counts as three.</p>' +
-        (dayKeys.length ? '<h2>Visits per day</h2><div class="days">' + dayKeys.map(function (k) { var v = d.byDay[k].views; return '<div class="day" title="' + k + ': ' + v + '"><span style="height:' + Math.max(2, Math.round(v / maxD * 100)) + 'px"></span><i>' + k.slice(8) + '</i></div>'; }).join('') + '</div>' : '') +
+      var dayKeys = Object.keys(d.byDay).sort(), maxD = Math.max.apply(null, dayKeys.map(function (k) { return d.byDay[k].visits || 0; }).concat([1]));
+      out.innerHTML = '<div class="tiles"><div><b>' + (t.visits || 0) + '</b><span>visits</span></div><div><b>' + t.views + '</b><span>page views</span></div><div><b>' + ((t.visits ? (t.views / t.visits) : 0).toFixed(1)) + '</b><span>pages per visit</span></div><div><b>' + fmtT(avg) + '</b><span>average time per page view</span></div><div><b>' + fmtT(t.seconds) + '</b><span>total time</span></div></div>' +
+        '<p class="small">' + esc(d.from) + ' to ' + esc(d.to) + ' (UTC days). A visit starts when someone arrives from outside the site (a search, a link or typed in); moving through three sections is one visit and three page views. Visits are not people: nobody is recognised, so someone who comes back later counts again. Visits are counted from 6 November 2026.</p>' +
+        (dayKeys.length ? '<h2>Visits per day</h2><div class="days">' + dayKeys.map(function (k) { var v = d.byDay[k].visits || 0; return '<div class="day" title="' + k + ': ' + v + ' visits, ' + d.byDay[k].views + ' page views"><span style="height:' + Math.max(2, Math.round(v / maxD * 100)) + 'px"></span><i>' + k.slice(8) + '</i></div>'; }).join('') + '</div>' : '') +
         table('Sections', d.byPage, NAMES) + table('Language', d.byLang, LANGS) + table('Screen', d.byDevice, DEV);
     }).catch(function (e) { out.innerHTML = '<p class="warn">Could not load the totals (' + esc(e.message) + '). Are you signed in with the owner account?</p>'; });
   }

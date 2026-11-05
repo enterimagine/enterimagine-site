@@ -52,7 +52,7 @@ app.http('hit', {
       for (let i = 0; i < 4; i++) {
         let cur = null;
         try { cur = await t.getEntity(pk, rk); } catch (e) { cur = null; }
-        const next = Object.assign({ partitionKey: pk, rowKey: rk }, S.apply(cur && { views: cur.views, timed: cur.timed, seconds: cur.seconds }, r));
+        const next = Object.assign({ partitionKey: pk, rowKey: rk }, S.apply(cur && { views: cur.views, visits: cur.visits || 0, timed: cur.timed, seconds: cur.seconds }, r));
         try {
           if (cur) await t.updateEntity(next, 'Replace', { etag: cur.etag }); else await t.createEntity(next);
           break;
