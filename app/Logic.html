@@ -16,6 +16,17 @@ body{margin:0;background:#081226}
 .k-lang.on{background:#7fe7ff;border-color:#7fe7ff;color:#04202a}
 .k-tab{font-family:'Nunito',sans-serif;font-weight:800;font-size:16px;border:2px solid rgba(255,255,255,.18);background:rgba(255,255,255,.05);color:#f2f6ff;border-radius:18px;min-height:52px;padding:8px 16px;cursor:pointer;display:flex;align-items:center;gap:8px}
 .k-tab.on{background:#b98cff;border-color:#b98cff;color:#1b0b38}
+.sdk-grid{display:grid;gap:0;border:4px solid #dfe8ff;border-radius:14px;overflow:hidden;width:min(100%,520px);aspect-ratio:1/1;background:#0e1a33}
+.sdk-cell{font-family:'Baloo 2',sans-serif;font-weight:800;border:1px solid rgba(223,232,255,.22);background:transparent;color:#7fe7ff;display:grid;place-items:center;cursor:pointer;padding:0;min-width:0;min-height:0;font-size:clamp(18px,5vw,34px)}
+.sdk-cell.given{color:#f2f6ff;cursor:default;background:rgba(255,255,255,.04)}
+.sdk-cell.sel{background:rgba(255,216,76,.28);outline:3px solid #ffd84c;outline-offset:-3px}
+.sdk-cell.peer{background:rgba(127,231,255,.08)}
+.sdk-cell.bad{background:rgba(255,107,107,.30);color:#ffd2d2}
+.sdk-cell.br{border-right:3px solid #dfe8ff}.sdk-cell.bb{border-bottom:3px solid #dfe8ff}
+.sdk-cell:focus-visible{outline:3px solid #ffd84c;outline-offset:-3px}
+.sdk-pad{display:flex;flex-wrap:wrap;gap:10px}
+.sdk-key{font-family:'Baloo 2',sans-serif;font-weight:800;font-size:28px;min-width:60px;min-height:60px;border-radius:16px;border:2px solid rgba(255,255,255,.2);background:rgba(255,255,255,.07);color:#f2f6ff;cursor:pointer}
+.sdk-key:focus-visible{outline:3px solid #ffd84c;outline-offset:3px}
 .k-lvl{font-family:'Nunito',sans-serif;font-weight:800;font-size:15px;border:2px solid rgba(255,255,255,.2);background:transparent;color:#dfe8ff;border-radius:999px;min-height:44px;padding:0 16px;cursor:pointer}
 .k-lvl.on{background:#ffd84c;border-color:#ffd84c;color:#1a1300}
 .k-opt{font-family:'Baloo 2',sans-serif;font-weight:800;font-size:30px;min-width:96px;min-height:96px;border-radius:24px;border:3px solid rgba(255,255,255,.2);background:rgba(255,255,255,.06);color:#f2f6ff;cursor:pointer;display:grid;place-items:center;padding:8px}
@@ -85,6 +96,40 @@ body{margin:0;background:#081226}
           </sc-if>
         </div>
         <button class="k-btn k-primary" onClick="{{startPretest}}">{{L.startPre}}</button>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{isSdk}}" hint-placeholder-val="{{false}}">
+      <section class="k-pop" key="{{sdkKey}}" style="border-radius: 28px; padding: 24px; background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1); display: flex; flex-direction: column; gap: 18px;">
+        <div style="display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: baseline;">
+          <p style="margin: 0; font-size: 14px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: #38e1a0;">{{sdkLabel}}</p>
+          <p style="margin: 0; font-size: 14px; color: #9fb4e0; font-weight: 700;">{{sdkLeft}}</p>
+        </div>
+        <h1 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: clamp(24px, 3.2vw, 34px); line-height: 1.15;">{{sdkRule}}</h1>
+        <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
+          <div role="grid" aria-label="{{L.sdk}}" class="sdk-grid" style="grid-template-columns: repeat({{sdkN}}, minmax(0, 1fr)); grid-template-rows: repeat({{sdkN}}, minmax(0, 1fr));">
+            <sc-for list="{{sdkCells}}" as="c" hint-placeholder-count="16">
+              <button role="gridcell" class="sdk-cell {{c.cls}}" onClick="{{c.pick}}" aria-label="{{c.aria}}">{{c.v}}</button>
+            </sc-for>
+          </div>
+          <div style="flex: 1 1 220px; display: flex; flex-direction: column; gap: 14px;">
+            <p style="margin: 0; font-size: 16px; color: #9fb4e0;">{{L.sdkHow}}</p>
+            <div class="sdk-pad" role="group" aria-label="{{L.sdkNumbers}}">
+              <sc-for list="{{sdkKeys}}" as="k" hint-placeholder-count="4">
+                <button class="sdk-key" onClick="{{k.press}}" aria-label="{{k.aria}}">{{k.label}}</button>
+              </sc-for>
+            </div>
+            <sc-if value="{{sdkMsg}}" hint-placeholder-val="{{false}}">
+              <p class="k-pop" style="margin: 0; display: flex; gap: 12px; align-items: center; background: rgba(255,255,255,.06); border-radius: 18px; padding: 12px 16px; font-size: 18px;">
+                <img src="{{sdkAvatar}}" alt="" style="width: 48px; height: 48px; border-radius: 50%; flex: none;">
+                <span><strong style="color: {{sdkColor}};">{{sdkVerdict}}</strong> {{sdkMsg}}</span></p>
+            </sc-if>
+            <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+              <button class="k-btn k-primary" onClick="{{sdkCheck}}">{{L.check}}</button>
+              <button class="k-btn k-ghost" onClick="{{sdkNew}}">{{L.sdkNew}}</button>
+            </div>
+          </div>
+        </div>
       </section>
     </sc-if>
 
