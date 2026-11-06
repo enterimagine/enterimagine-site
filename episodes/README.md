@@ -84,3 +84,14 @@ Look at every picture before using it (for example on a contact sheet). If a cha
 ## Release
 
 Push to `kids-test` and then to `kids`. Both deploys wait for the owner's approval in GitHub. Never approve anything yourself.
+
+## Daily Instagram Reel
+
+After the day's episodes are live, one Reel announces them on Instagram (@enterimagine). The owner asked for this to be posted automatically.
+
+1. Wait until the `kids-live` run for that day's push has finished with success (check it with the GitHub tools). The cloud workspace cannot open kids.enterimagine.com itself.
+2. Make the Reel: `python3 episodes/tools/reel.py <yyyymmdd> <out_dir>`. It uses the day's episodes in `app/episodes/library.json`: an intro card, each episode's first picture and English title with Whyzz's opening question as sound, and an end card with the site address. It also writes the cover (`.jpg`) and the caption (`.txt`, English first, then short French and Dutch lines). Look at a few frames (for example `ffmpeg -ss 1`, `-ss 6`, the last second) to check that no text runs off the screen.
+3. Host the files on the `social-assets` branch: copy `kids-<yyyymmdd>.mp4`, `.jpg` and `.txt` into `kids/<yyyymmdd>/`, commit and push. Public address: `https://raw.githubusercontent.com/enterimagine/enterimagine-site/social-assets/kids/<yyyymmdd>/<file>`.
+4. Duplicate check: if `kids/<yyyymmdd>/posted.json` exists on `social-assets`, the Reel is already out; do not post again.
+5. Post with Windsor: connector `instagram`, account `17841411993397601`, action `create_video_post`, with `video_url`, `cover_url`, `share_to_feed: true` and `caption` = the `.txt` text. Then write `kids/<yyyymmdd>/posted.json` (time and the result) on `social-assets` and push. Never retry a post that may already have gone out; report the error instead.
+6. If the live deploy is not approved yet, do not post. A later run posts the waiting Reel once its episodes are live.
