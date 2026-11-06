@@ -1,0 +1,253 @@
+{
+ "id": "robo-20261106",
+ "world": "robo",
+ "guide": "Pixel",
+ "title": {
+  "en": "How can a robot hold an egg without breaking it?",
+  "fr": "Comment un robot tient-il un œuf sans le casser ?",
+  "nl": "Hoe houdt een robot een ei vast zonder het te breken?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, I saw a big strong robot arm pick up an egg without cracking it! How does a robot know when to be gentle?",
+   "fr": "Pixel, j’ai vu un grand bras robot très fort attraper un œuf sans le casser ! Comment un robot sait-il quand il doit être doux ?",
+   "nl": "Pixel, ik zag een grote sterke robotarm een ei oppakken zonder dat het brak! Hoe weet een robot wanneer hij voorzichtig moet zijn?",
+   "img": "Whyzz watches a big robot arm gently holding an egg, Pixel beside him"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Its fingertips have touch sensors that feel how hard they press. So the robot can feel a squeeze, just like your fingers can.",
+   "fr": "Le bout de ses doigts a des capteurs de toucher qui sentent la force avec laquelle ils appuient. Le robot peut donc sentir qu’il serre, comme tes doigts.",
+   "nl": "In de vingertoppen zitten tastsensoren die voelen hoe hard ze drukken. Zo kan de robot voelen hoe stevig hij knijpt, net als jouw vingers.",
+   "img": "Pixel shows glowing sensor pads on robot fingertips"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I know! The robot whispers “Please don’t break” to the egg, very politely.",
+   "fr": "Je sais ! Le robot chuchote « S’il te plaît, ne te casse pas » à l’œuf, très poliment.",
+   "nl": "Ik weet het! De robot fluistert heel beleefd “Alsjeblieft, niet breken” tegen het ei.",
+   "img": "A robot arm bows politely to an egg, Whyzz grins, Pixel laughs"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Nice try! The robot’s computer checks the sensors many times every second and loosens the grip the moment the squeeze gets too strong.",
+   "fr": "Bien essayé ! L’ordinateur du robot vérifie les capteurs plusieurs fois par seconde et desserre la pince dès qu’elle serre trop fort.",
+   "nl": "Goed geprobeerd! De computer van de robot kijkt elke seconde vele keren naar de sensoren en laat meteen wat losser als hij te hard knijpt.",
+   "img": "A glowing gauge on a screen shows the grip getting softer"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know that some robot grippers are soft balloons filled with coffee grounds? They squish around an egg like a pillow, then turn firm when the air is sucked out!",
+   "fr": "Savais-tu que certaines pinces de robot sont des ballons souples remplis de marc de café ? Elles entourent l’œuf comme un coussin, puis deviennent dures quand on aspire l’air !",
+   "nl": "Wist je dat sommige robotgrijpers zachte ballonnen zijn vol koffiedik? Ze vormen zich om het ei als een kussen en worden hard als de lucht eruit wordt gezogen!",
+   "img": "A soft brown balloon gripper hugs an egg on a robot arm"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a gentle robot feels, checks and adjusts, just like a careful friend. What fragile thing would you want a robot to carry?",
+   "fr": "Donc un robot doux sent, vérifie et s’adapte, comme un ami attentionné. Quel objet fragile aimerais-tu qu’un robot porte ?",
+   "nl": "Dus een voorzichtige robot voelt, controleert en past zich aan, net als een zorgzame vriend. Welk breekbaar ding zou jij een robot laten dragen?",
+   "img": "Whyzz and Pixel cheer as a robot arm places an egg safely in a nest"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches in amazement as a big shiny white robot arm in a bright workshop gently holds a single brown egg between two padded fingers, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands beside him smiling. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points at close-up robot fingertips with small glowing blue sensor pads on them, the robot hand is open and friendly, bright workshop, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans in curiously. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A big friendly robot arm bows politely toward a small egg on a cushion as if whispering to it, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge grins proudly with his hands on his hips, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs out loud, bright workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge explains next to a robot hand gently holding an egg, above it floats a glowing colorful meter shape with a needle moving from red back to green, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge nods, bright workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge shows a robot arm with a soft round squishy brown balloon gripper that wraps gently around a white egg like a pillow, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge pokes the balloon with one finger, bright workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge cheer with their arms up as a robot arm carefully places an egg into a cozy straw nest, warm sunny workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What do the robot’s fingertips have?",
+    "fr": "Qu’y a-t-il au bout des doigts du robot ?",
+    "nl": "Wat zit er in de vingertoppen van de robot?"
+   },
+   "o": {
+    "en": [
+     "Touch sensors",
+     "Tiny eyes",
+     "Glue"
+    ],
+    "fr": [
+     "Des capteurs de toucher",
+     "De minuscules yeux",
+     "De la colle"
+    ],
+    "nl": [
+     "Tastsensoren",
+     "Piepkleine oogjes",
+     "Lijm"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What does the robot do when it squeezes too hard?",
+    "fr": "Que fait le robot quand il serre trop fort ?",
+    "nl": "Wat doet de robot als hij te hard knijpt?"
+   },
+   "o": {
+    "en": [
+     "It squeezes even harder",
+     "It loosens its grip",
+     "It takes a nap"
+    ],
+    "fr": [
+     "Il serre encore plus fort",
+     "Il desserre sa pince",
+     "Il fait la sieste"
+    ],
+    "nl": [
+     "Hij knijpt nog harder",
+     "Hij laat wat losser",
+     "Hij doet een dutje"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How often does the computer check the sensors?",
+    "fr": "À quelle fréquence l’ordinateur vérifie-t-il les capteurs ?",
+    "nl": "Hoe vaak kijkt de computer naar de sensoren?"
+   },
+   "o": {
+    "en": [
+     "Once a year",
+     "Once a day",
+     "Many times every second"
+    ],
+    "fr": [
+     "Une fois par an",
+     "Une fois par jour",
+     "Plusieurs fois par seconde"
+    ],
+    "nl": [
+     "Eén keer per jaar",
+     "Eén keer per dag",
+     "Vele keren per seconde"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What can a soft robot gripper be filled with?",
+    "fr": "Avec quoi une pince de robot souple peut-elle être remplie ?",
+    "nl": "Waarmee kan een zachte robotgrijper gevuld zijn?"
+   },
+   "o": {
+    "en": [
+     "Honey",
+     "Coffee grounds",
+     "Marbles"
+    ],
+    "fr": [
+     "Du miel",
+     "Du marc de café",
+     "Des billes"
+    ],
+    "nl": [
+     "Honing",
+     "Koffiedik",
+     "Knikkers"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Does the robot keep the egg safe by whispering to it?",
+    "fr": "Le robot protège-t-il l’œuf en lui chuchotant des mots ?",
+    "nl": "Houdt de robot het ei heel door ertegen te fluisteren?"
+   },
+   "o": {
+    "en": [
+     "Yes, it asks nicely",
+     "Only on Sundays",
+     "No, it uses its touch sensors"
+    ],
+    "fr": [
+     "Oui, il demande gentiment",
+     "Seulement le dimanche",
+     "Non, il utilise ses capteurs de toucher"
+    ],
+    "nl": [
+     "Ja, hij vraagt het lief",
+     "Alleen op zondag",
+     "Nee, hij gebruikt zijn tastsensoren"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Robot body, your body",
+   "fr": "Le corps du robot, ton corps",
+   "nl": "Robotlijf, jouw lijf"
+  },
+  "intro": {
+   "en": "Robot parts work a bit like parts of your body. Match each robot part to what it does!",
+   "fr": "Les pièces d’un robot fonctionnent un peu comme ton corps. Associe chaque pièce à ce qu’elle fait !",
+   "nl": "Robotonderdelen werken een beetje zoals jouw lichaam. Koppel elk onderdeel aan wat het doet!"
+  },
+  "done": {
+   "en": "Super! You know how a robot’s body works.",
+   "fr": "Super ! Tu sais comment fonctionne le corps d’un robot.",
+   "nl": "Super! Je weet hoe het lijf van een robot werkt."
+  },
+  "left": {
+   "en": [
+    "Camera",
+    "Touch sensor",
+    "Motor",
+    "Computer",
+    "Battery"
+   ],
+   "fr": [
+    "Caméra",
+    "Capteur de toucher",
+    "Moteur",
+    "Ordinateur",
+    "Batterie"
+   ],
+   "nl": [
+    "Camera",
+    "Tastsensor",
+    "Motor",
+    "Computer",
+    "Batterij"
+   ]
+  },
+  "right": {
+   "en": [
+    "Sees, like your eyes",
+    "Feels, like your fingertips",
+    "Moves, like your muscles",
+    "Decides, like your brain",
+    "Gives energy, like your food"
+   ],
+   "fr": [
+    "Voit, comme tes yeux",
+    "Sent, comme le bout de tes doigts",
+    "Bouge, comme tes muscles",
+    "Décide, comme ton cerveau",
+    "Donne de l’énergie, comme ta nourriture"
+   ],
+   "nl": [
+    "Ziet, zoals je ogen",
+    "Voelt, zoals je vingertoppen",
+    "Beweegt, zoals je spieren",
+    "Beslist, zoals je hersenen",
+    "Geeft energie, zoals je eten"
+   ]
+  }
+ }
+}

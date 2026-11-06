@@ -970,5 +970,545 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Uitvinders van nu gebruiken computers en 3D-printers om ideeën sneller uit te proberen. Welk probleem zou jij willen oplossen?"
+ },
+ {
+  "id": "pixel-20261106-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, I asked my phone for a pizza joke and it answered me! How can a phone understand what I say?"
+ },
+ {
+  "id": "pixel-20261106-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, j’ai demandé une blague sur la pizza à mon téléphone et il m’a répondu ! Comment un téléphone peut-il comprendre ce que je dis ?"
+ },
+ {
+  "id": "pixel-20261106-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, ik vroeg mijn telefoon om een mop over pizza en hij gaf antwoord! Hoe kan een telefoon begrijpen wat ik zeg?"
+ },
+ {
+  "id": "pixel-20261106-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "When you talk, your voice makes the air wiggle in tiny waves. The microphone catches those waves like a net catches butterflies."
+ },
+ {
+  "id": "pixel-20261106-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Quand tu parles, ta voix fait vibrer l’air en petites vagues. Le micro attrape ces vagues comme un filet attrape des papillons."
+ },
+ {
+  "id": "pixel-20261106-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Als je praat, laat je stem de lucht trillen in kleine golfjes. De microfoon vangt die golfjes op, zoals een net vlinders vangt."
+ },
+ {
+  "id": "pixel-20261106-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Oh, I get it! There’s a tiny person inside my phone who listens and types super fast!"
+ },
+ {
+  "id": "pixel-20261106-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Ah, j’ai compris ! Il y a une toute petite personne dans mon téléphone qui écoute et tape super vite !"
+ },
+ {
+  "id": "pixel-20261106-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "O, ik snap het! Er zit een piepklein mannetje in mijn telefoon dat luistert en supersnel typt!"
+ },
+ {
+  "id": "pixel-20261106-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no tiny person in there! The phone turns the sound waves into numbers and chops them into little sound pieces, like puzzle pieces."
+ },
+ {
+  "id": "pixel-20261106-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, il n’y a personne là-dedans ! Le téléphone transforme les vagues de son en nombres et les découpe en petits morceaux de son, comme les pièces d’un puzzle."
+ },
+ {
+  "id": "pixel-20261106-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, er zit niemand in! De telefoon verandert de geluidsgolven in getallen en knipt ze in kleine stukjes geluid, zoals puzzelstukjes."
+ },
+ {
+  "id": "pixel-20261106-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know that the computer learned by listening to thousands of hours of people talking? Now it can guess which words fit the sound pieces best."
+ },
+ {
+  "id": "pixel-20261106-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu que l’ordinateur a appris en écoutant des milliers d’heures de gens qui parlent ? Maintenant, il devine quels mots vont le mieux avec les morceaux de son."
+ },
+ {
+  "id": "pixel-20261106-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat de computer heeft geleerd door duizenden uren naar pratende mensen te luisteren? Nu raadt hij welke woorden het best bij de geluidsstukjes passen."
+ },
+ {
+  "id": "pixel-20261106-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the phone listens, turns sound into numbers and guesses the words. What would you ask a phone that understands you?"
+ },
+ {
+  "id": "pixel-20261106-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc le téléphone écoute, transforme le son en nombres et devine les mots. Qu’est-ce que tu demanderais à un téléphone qui te comprend ?"
+ },
+ {
+  "id": "pixel-20261106-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de telefoon luistert, maakt van geluid getallen en raadt de woorden. Wat zou jij vragen aan een telefoon die je begrijpt?"
+ },
+ {
+  "id": "qubi-20261106-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, the science museum has a laser that draws a perfect red line across the room! How can light stay so thin and straight?"
+ },
+ {
+  "id": "qubi-20261106-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, au musée des sciences, un laser trace une ligne rouge parfaite à travers toute la salle ! Comment la lumière peut-elle rester si fine et si droite ?"
+ },
+ {
+  "id": "qubi-20261106-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, in het wetenschapsmuseum tekent een laser een perfecte rode lijn door de hele zaal! Hoe kan licht zo dun en recht blijven?"
+ },
+ {
+  "id": "qubi-20261106-en-2",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "A laser starts with atoms that get extra energy, like kids after birthday cake. They calm down by giving off tiny bits of light called photons."
+ },
+ {
+  "id": "qubi-20261106-fr-2",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Un laser commence avec des atomes qui reçoivent de l’énergie en plus, comme des enfants après un gâteau d’anniversaire. Ils se calment en lâchant de minuscules grains de lumière, les photons."
+ },
+ {
+  "id": "qubi-20261106-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Een laser begint met atomen die extra energie krijgen, zoals kinderen na verjaardagstaart. Ze kalmeren door piepkleine stukjes licht af te geven: fotonen."
+ },
+ {
+  "id": "qubi-20261106-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a laser is just a flashlight that went to the gym? Super-muscle light!"
+ },
+ {
+  "id": "qubi-20261106-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc un laser, c’est juste une lampe de poche qui a fait de la muscu ? De la lumière super musclée !"
+ },
+ {
+  "id": "qubi-20261106-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus een laser is gewoon een zaklamp die naar de sportschool is geweest? Superspierlicht!"
+ },
+ {
+  "id": "qubi-20261106-en-4",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Ha, not quite! When a photon passes an excited atom, the atom sends out a twin photon with the same color going the same way, while mirrors bounce them back and forth until there is a huge crowd."
+ },
+ {
+  "id": "qubi-20261106-fr-4",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Pas tout à fait ! Quand un photon passe près d’un atome excité, l’atome envoie un photon jumeau de la même couleur dans la même direction, et des miroirs les renvoient jusqu’à former une énorme foule."
+ },
+ {
+  "id": "qubi-20261106-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Niet helemaal! Als een foton langs een opgewonden atoom komt, stuurt het atoom een tweelingfoton uit met dezelfde kleur en richting, en spiegels kaatsen ze heen en weer tot er een enorme menigte is."
+ },
+ {
+  "id": "qubi-20261106-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Did you know that scientists shine lasers at mirrors that astronauts left on the Moon? The light bounces back and tells them exactly how far away the Moon is!"
+ },
+ {
+  "id": "qubi-20261106-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Savais-tu que des scientifiques envoient des lasers vers des miroirs laissés sur la Lune par des astronautes ? La lumière revient et leur dit exactement à quelle distance se trouve la Lune !"
+ },
+ {
+  "id": "qubi-20261106-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Wist je dat wetenschappers lasers richten op spiegels die astronauten op de maan hebben achtergelaten? Het licht kaatst terug en vertelt hen precies hoe ver de maan is!"
+ },
+ {
+  "id": "qubi-20261106-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a laser is a parade of matching light bits that all march the same way, never toward anyone’s eyes. What would you build with a laser beam?"
+ },
+ {
+  "id": "qubi-20261106-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc un laser, c’est une parade de grains de lumière identiques qui marchent tous dans le même sens, et on ne le pointe jamais vers les yeux. Que construirais-tu avec un rayon laser ?"
+ },
+ {
+  "id": "qubi-20261106-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus een laser is een optocht van dezelfde lichtdeeltjes die allemaal dezelfde kant op marcheren, en we richten hem nooit op iemands ogen. Wat zou jij bouwen met een laserstraal?"
+ },
+ {
+  "id": "bloom-20261106-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Bloom, our bread dough doubled in size while we played outside! Is the dough alive or something?"
+ },
+ {
+  "id": "bloom-20261106-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Bloom, notre pâte à pain a doublé de volume pendant qu’on jouait dehors ! Elle est vivante ou quoi ?"
+ },
+ {
+  "id": "bloom-20261106-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Bloom, ons brooddeeg is twee keer zo groot geworden terwijl we buiten speelden! Leeft dat deeg soms?"
+ },
+ {
+  "id": "bloom-20261106-en-2",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Almost! The dough is full of yeast, tiny living helpers that are cousins of mushrooms."
+ },
+ {
+  "id": "bloom-20261106-fr-2",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Presque ! La pâte est pleine de levure, de minuscules êtres vivants qui sont des cousins des champignons."
+ },
+ {
+  "id": "bloom-20261106-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Bijna! Het deeg zit vol gist, piepkleine levende helpers die familie zijn van paddenstoelen."
+ },
+ {
+  "id": "bloom-20261106-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I bet the yeast are doing push-ups in there to make the dough big and strong!"
+ },
+ {
+  "id": "bloom-20261106-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je parie que les levures font des pompes là-dedans pour rendre la pâte grande et forte !"
+ },
+ {
+  "id": "bloom-20261106-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik wed dat de gistjes daarbinnen push-ups doen om het deeg groot en sterk te maken!"
+ },
+ {
+  "id": "bloom-20261106-en-4",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "No push-ups! The yeast eat the sugar in the dough and burp out a gas called carbon dioxide, while stretchy gluten from the flour traps the bubbles like tiny balloons."
+ },
+ {
+  "id": "bloom-20261106-fr-4",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Pas de pompes ! Les levures mangent le sucre de la pâte et rotent un gaz appelé dioxyde de carbone, pendant que le gluten élastique de la farine retient les bulles comme de petits ballons."
+ },
+ {
+  "id": "bloom-20261106-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Geen push-ups! De gistjes eten de suiker in het deeg op en boeren een gas uit, koolstofdioxide, terwijl rekbaar gluten uit de bloem de belletjes vasthoudt als kleine ballonnetjes."
+ },
+ {
+  "id": "bloom-20261106-en-5",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Did you know that one spoonful of yeast holds billions of these tiny helpers? In the hot oven, the bubbles puff up one last time before the bread turns firm."
+ },
+ {
+  "id": "bloom-20261106-fr-5",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Savais-tu qu’une seule cuillère de levure contient des milliards de ces petits travailleurs ? Dans le four chaud, les bulles gonflent une dernière fois avant que le pain devienne ferme."
+ },
+ {
+  "id": "bloom-20261106-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Wist je dat één lepel gist miljarden van die kleine helpers bevat? In de hete oven zwellen de belletjes nog één keer op, en dan wordt het brood stevig."
+ },
+ {
+  "id": "bloom-20261106-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So every hole in my sandwich is a bubble that yeast made! What would you bake if you had billions of tiny helpers?"
+ },
+ {
+  "id": "bloom-20261106-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc chaque trou dans ma tartine est une bulle faite par la levure ! Que ferais-tu cuire si tu avais des milliards de petits assistants ?"
+ },
+ {
+  "id": "bloom-20261106-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus elk gaatje in mijn boterham is een belletje dat gist heeft gemaakt! Wat zou jij bakken met miljarden kleine helpers?"
+ },
+ {
+  "id": "robo-20261106-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, I saw a big strong robot arm pick up an egg without cracking it! How does a robot know when to be gentle?"
+ },
+ {
+  "id": "robo-20261106-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, j’ai vu un grand bras robot très fort attraper un œuf sans le casser ! Comment un robot sait-il quand il doit être doux ?"
+ },
+ {
+  "id": "robo-20261106-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, ik zag een grote sterke robotarm een ei oppakken zonder dat het brak! Hoe weet een robot wanneer hij voorzichtig moet zijn?"
+ },
+ {
+  "id": "robo-20261106-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Its fingertips have touch sensors that feel how hard they press. So the robot can feel a squeeze, just like your fingers can."
+ },
+ {
+  "id": "robo-20261106-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Le bout de ses doigts a des capteurs de toucher qui sentent la force avec laquelle ils appuient. Le robot peut donc sentir qu’il serre, comme tes doigts."
+ },
+ {
+  "id": "robo-20261106-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "In de vingertoppen zitten tastsensoren die voelen hoe hard ze drukken. Zo kan de robot voelen hoe stevig hij knijpt, net als jouw vingers."
+ },
+ {
+  "id": "robo-20261106-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I know! The robot whispers “Please don’t break” to the egg, very politely."
+ },
+ {
+  "id": "robo-20261106-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je sais ! Le robot chuchote « S’il te plaît, ne te casse pas » à l’œuf, très poliment."
+ },
+ {
+  "id": "robo-20261106-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik weet het! De robot fluistert heel beleefd “Alsjeblieft, niet breken” tegen het ei."
+ },
+ {
+  "id": "robo-20261106-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Nice try! The robot’s computer checks the sensors many times every second and loosens the grip the moment the squeeze gets too strong."
+ },
+ {
+  "id": "robo-20261106-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Bien essayé ! L’ordinateur du robot vérifie les capteurs plusieurs fois par seconde et desserre la pince dès qu’elle serre trop fort."
+ },
+ {
+  "id": "robo-20261106-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Goed geprobeerd! De computer van de robot kijkt elke seconde vele keren naar de sensoren en laat meteen wat losser als hij te hard knijpt."
+ },
+ {
+  "id": "robo-20261106-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know that some robot grippers are soft balloons filled with coffee grounds? They squish around an egg like a pillow, then turn firm when the air is sucked out!"
+ },
+ {
+  "id": "robo-20261106-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu que certaines pinces de robot sont des ballons souples remplis de marc de café ? Elles entourent l’œuf comme un coussin, puis deviennent dures quand on aspire l’air !"
+ },
+ {
+  "id": "robo-20261106-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat sommige robotgrijpers zachte ballonnen zijn vol koffiedik? Ze vormen zich om het ei als een kussen en worden hard als de lucht eruit wordt gezogen!"
+ },
+ {
+  "id": "robo-20261106-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a gentle robot feels, checks and adjusts, just like a careful friend. What fragile thing would you want a robot to carry?"
+ },
+ {
+  "id": "robo-20261106-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc un robot doux sent, vérifie et s’adapte, comme un ami attentionné. Quel objet fragile aimerais-tu qu’un robot porte ?"
+ },
+ {
+  "id": "robo-20261106-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus een voorzichtige robot voelt, controleert en past zich aan, net als een zorgzame vriend. Welk breekbaar ding zou jij een robot laten dragen?"
+ },
+ {
+  "id": "energy-20261106-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, my tablet ran out of battery right in the middle of my game! Where does a battery keep its energy?"
+ },
+ {
+  "id": "energy-20261106-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, ma tablette n’avait plus de batterie en plein milieu de mon jeu ! Où une batterie garde-t-elle son énergie ?"
+ },
+ {
+  "id": "energy-20261106-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, mijn tablet was leeg, midden in mijn spelletje! Waar bewaart een batterij haar energie?"
+ },
+ {
+  "id": "energy-20261106-en-2",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "A battery stores energy in special chemicals, between two ends called plus and minus. Think of it like a hill, where tiny electrons want to roll from the minus side to the plus side."
+ },
+ {
+  "id": "energy-20261106-fr-2",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Une batterie stocke l’énergie dans des produits chimiques spéciaux, entre deux bouts appelés plus et moins. Imagine une colline : de minuscules électrons veulent rouler du côté moins vers le côté plus."
+ },
+ {
+  "id": "energy-20261106-nl-2",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Een batterij bewaart energie in speciale stoffen, tussen twee kanten die plus en min heten. Denk aan een heuvel: piepkleine elektronen willen van de minkant naar de pluskant rollen."
+ },
+ {
+  "id": "energy-20261106-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Wait, so there are tiny hamsters running on wheels inside my battery? No wonder they got tired!"
+ },
+ {
+  "id": "energy-20261106-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Attends, il y a de minuscules hamsters qui courent dans des roues dans ma batterie ? Pas étonnant qu’ils soient fatigués !"
+ },
+ {
+  "id": "energy-20261106-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Wacht, zitten er dan piepkleine hamsters in tredmolentjes in mijn batterij? Geen wonder dat ze moe zijn!"
+ },
+ {
+  "id": "energy-20261106-en-4",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "No hamsters, I promise! The electrons can only roll through a wire, so they race through your tablet and power it on the way."
+ },
+ {
+  "id": "energy-20261106-fr-4",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Pas de hamsters, promis ! Les électrons ne peuvent rouler que dans un fil, alors ils foncent à travers ta tablette et la font marcher au passage."
+ },
+ {
+  "id": "energy-20261106-nl-4",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Geen hamsters, beloofd! De elektronen kunnen alleen door een draad rollen, dus racen ze door je tablet en laten hem onderweg werken."
+ },
+ {
+  "id": "energy-20261106-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Plugging in the charger pushes the electrons back up the hill, ready for your next game. Did you know that you can refill a tablet battery like this hundreds of times?"
+ },
+ {
+  "id": "energy-20261106-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Quand tu branches le chargeur, il repousse les électrons en haut de la colline, prêts pour ton prochain jeu. Savais-tu qu’on peut recharger une batterie de tablette comme ça des centaines de fois ?"
+ },
+ {
+  "id": "energy-20261106-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Als je de oplader insteekt, duwt die de elektronen terug de heuvel op, klaar voor je volgende spelletje. Wist je dat je een tabletbatterij zo honderden keren kunt opladen?"
+ },
+ {
+  "id": "energy-20261106-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a battery is a hill of electrons that the charger builds up again and again. What would you invent that runs on a battery?"
+ },
+ {
+  "id": "energy-20261106-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc une batterie, c’est une colline d’électrons que le chargeur reconstruit encore et encore. Qu’inventerais-tu qui fonctionne avec une batterie ?"
+ },
+ {
+  "id": "energy-20261106-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus een batterij is een heuvel van elektronen die de oplader steeds opnieuw opbouwt. Wat zou jij uitvinden dat op een batterij werkt?"
  }
 ]

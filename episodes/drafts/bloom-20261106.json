@@ -1,0 +1,242 @@
+{
+ "id": "bloom-20261106",
+ "world": "bloom",
+ "guide": "Bloom",
+ "title": {
+  "en": "Why does bread dough puff up?",
+  "fr": "Pourquoi la pâte à pain gonfle-t-elle ?",
+  "nl": "Waarom rijst brooddeeg?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Bloom, our bread dough doubled in size while we played outside! Is the dough alive or something?",
+   "fr": "Bloom, notre pâte à pain a doublé de volume pendant qu’on jouait dehors ! Elle est vivante ou quoi ?",
+   "nl": "Bloom, ons brooddeeg is twee keer zo groot geworden terwijl we buiten speelden! Leeft dat deeg soms?",
+   "img": "Whyzz stares at a huge puffy bowl of dough in a kitchen, Bloom smiles"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Almost! The dough is full of yeast, tiny living helpers that are cousins of mushrooms.",
+   "fr": "Presque ! La pâte est pleine de levure, de minuscules êtres vivants qui sont des cousins des champignons.",
+   "nl": "Bijna! Het deeg zit vol gist, piepkleine levende helpers die familie zijn van paddenstoelen.",
+   "img": "Bloom looks through a magnifying glass at tiny cute yeast cells in the dough"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I bet the yeast are doing push-ups in there to make the dough big and strong!",
+   "fr": "Je parie que les levures font des pompes là-dedans pour rendre la pâte grande et forte !",
+   "nl": "Ik wed dat de gistjes daarbinnen push-ups doen om het deeg groot en sterk te maken!",
+   "img": "Whyzz imagines tiny yeast cells doing push-ups, Bloom giggles"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "No push-ups! The yeast eat the sugar in the dough and burp out a gas called carbon dioxide, while stretchy gluten from the flour traps the bubbles like tiny balloons.",
+   "fr": "Pas de pompes ! Les levures mangent le sucre de la pâte et rotent un gaz appelé dioxyde de carbone, pendant que le gluten élastique de la farine retient les bulles comme de petits ballons.",
+   "nl": "Geen push-ups! De gistjes eten de suiker in het deeg op en boeren een gas uit, koolstofdioxide, terwijl rekbaar gluten uit de bloem de belletjes vasthoudt als kleine ballonnetjes.",
+   "img": "Cute yeast cells burp bubbles that get caught in a stretchy dough net"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Did you know that one spoonful of yeast holds billions of these tiny helpers? In the hot oven, the bubbles puff up one last time before the bread turns firm.",
+   "fr": "Savais-tu qu’une seule cuillère de levure contient des milliards de ces petits travailleurs ? Dans le four chaud, les bulles gonflent une dernière fois avant que le pain devienne ferme.",
+   "nl": "Wist je dat één lepel gist miljarden van die kleine helpers bevat? In de hete oven zwellen de belletjes nog één keer op, en dan wordt het brood stevig.",
+   "img": "Bloom and Whyzz watch a loaf rising through a glowing oven window"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So every hole in my sandwich is a bubble that yeast made! What would you bake if you had billions of tiny helpers?",
+   "fr": "Donc chaque trou dans ma tartine est une bulle faite par la levure ! Que ferais-tu cuire si tu avais des milliards de petits assistants ?",
+   "nl": "Dus elk gaatje in mijn boterham is een belletje dat gist heeft gemaakt! Wat zou jij bakken met miljarden kleine helpers?",
+   "img": "Whyzz holds a slice of bread up to his eye like a telescope, Bloom laughs"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stares with wide eyes at a giant puffy bread dough rising over the edge of a big bowl on a sunny kitchen table, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge stands beside him with a knowing smile. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge looks through a big magnifying glass at bread dough, inside the lens we see tiny round cute yeast cells with happy faces, warm kitchen background. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge grins with a thought cloud showing tiny round cartoon yeast cells doing push-ups inside bread dough, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge giggles behind his hand, cozy kitchen. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge points at a giant cutaway view of bread dough where tiny round cute yeast cells puff out little bubbles that get caught in a stretchy golden net, like tiny balloons, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge crouch in front of a glowing oven window watching a golden loaf of bread rising, warm orange light on their amazed faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds a slice of fluffy bread full of holes up to his eye like a telescope and peeks through a hole, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge laughs, sunny kitchen with fresh bread on the table. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What makes bread dough puff up?",
+    "fr": "Qu’est-ce qui fait gonfler la pâte à pain ?",
+    "nl": "Waardoor rijst brooddeeg?"
+   },
+   "o": {
+    "en": [
+     "Yeast",
+     "Salt",
+     "Butter"
+    ],
+    "fr": [
+     "La levure",
+     "Le sel",
+     "Le beurre"
+    ],
+    "nl": [
+     "Gist",
+     "Zout",
+     "Boter"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Yeast are cousins of…",
+    "fr": "Les levures sont des cousines…",
+    "nl": "Gist is familie van…"
+   },
+   "o": {
+    "en": [
+     "worms",
+     "mushrooms",
+     "rocks"
+    ],
+    "fr": [
+     "des vers de terre",
+     "des champignons",
+     "des cailloux"
+    ],
+    "nl": [
+     "wormen",
+     "paddenstoelen",
+     "stenen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What gas do the yeast make?",
+    "fr": "Quel gaz les levures produisent-elles ?",
+    "nl": "Welk gas maken de gistjes?"
+   },
+   "o": {
+    "en": [
+     "Helium",
+     "Oxygen",
+     "Carbon dioxide"
+    ],
+    "fr": [
+     "De l’hélium",
+     "De l’oxygène",
+     "Du dioxyde de carbone"
+    ],
+    "nl": [
+     "Helium",
+     "Zuurstof",
+     "Koolstofdioxide"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What traps the bubbles in the dough?",
+    "fr": "Qu’est-ce qui retient les bulles dans la pâte ?",
+    "nl": "Wat houdt de belletjes in het deeg vast?"
+   },
+   "o": {
+    "en": [
+     "Stretchy gluten",
+     "The water",
+     "The bowl"
+    ],
+    "fr": [
+     "Le gluten élastique",
+     "L’eau",
+     "Le saladier"
+    ],
+    "nl": [
+     "Rekbaar gluten",
+     "Het water",
+     "De kom"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "How many yeast helpers are in one spoonful?",
+    "fr": "Combien de levures y a-t-il dans une cuillère ?",
+    "nl": "Hoeveel gistjes zitten er in één lepel?"
+   },
+   "o": {
+    "en": [
+     "About ten",
+     "Billions",
+     "Exactly one"
+    ],
+    "fr": [
+     "Une dizaine",
+     "Des milliards",
+     "Une seule"
+    ],
+    "nl": [
+     "Ongeveer tien",
+     "Miljarden",
+     "Precies één"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Made by tiny helpers",
+   "fr": "Fait par de petits travailleurs",
+   "nl": "Gemaakt door kleine helpers"
+  },
+  "intro": {
+   "en": "Yeast and other tiny living helpers make lots of foods. Pick every food they helped to make!",
+   "fr": "La levure et d’autres petits êtres vivants fabriquent plein d’aliments. Choisis tous les aliments qu’ils ont aidé à faire !",
+   "nl": "Gist en andere kleine levende helpers maken veel soorten eten. Kies al het eten dat zij hebben helpen maken!"
+  },
+  "done": {
+   "en": "Yum! You found all the foods made with tiny helpers.",
+   "fr": "Miam ! Tu as trouvé tous les aliments faits avec de petits travailleurs.",
+   "nl": "Mmm! Je hebt al het eten gevonden dat kleine helpers maken."
+  },
+  "items": {
+   "en": [
+    "Bread",
+    "Yogurt",
+    "Ice cubes",
+    "Cheese",
+    "Fresh apple juice",
+    "Sauerkraut",
+    "A glass of water"
+   ],
+   "fr": [
+    "Le pain",
+    "Le yaourt",
+    "Les glaçons",
+    "Le fromage",
+    "Le jus de pomme frais",
+    "La choucroute",
+    "Un verre d’eau"
+   ],
+   "nl": [
+    "Brood",
+    "Yoghurt",
+    "IJsblokjes",
+    "Kaas",
+    "Vers appelsap",
+    "Zuurkool",
+    "Een glas water"
+   ]
+  },
+  "good": [
+   0,
+   1,
+   3,
+   5
+  ]
+ }
+}

@@ -1,0 +1,233 @@
+{
+ "id": "pixel-20261106",
+ "world": "pixel",
+ "guide": "Pixel",
+ "title": {
+  "en": "How does a phone understand your voice?",
+  "fr": "Comment un téléphone comprend-il ta voix ?",
+  "nl": "Hoe begrijpt een telefoon je stem?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, I asked my phone for a pizza joke and it answered me! How can a phone understand what I say?",
+   "fr": "Pixel, j’ai demandé une blague sur la pizza à mon téléphone et il m’a répondu ! Comment un téléphone peut-il comprendre ce que je dis ?",
+   "nl": "Pixel, ik vroeg mijn telefoon om een mop over pizza en hij gaf antwoord! Hoe kan een telefoon begrijpen wat ik zeg?",
+   "img": "Whyzz talks to a phone that shows a laughing pizza, Pixel watches"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "When you talk, your voice makes the air wiggle in tiny waves. The microphone catches those waves like a net catches butterflies.",
+   "fr": "Quand tu parles, ta voix fait vibrer l’air en petites vagues. Le micro attrape ces vagues comme un filet attrape des papillons.",
+   "nl": "Als je praat, laat je stem de lucht trillen in kleine golfjes. De microfoon vangt die golfjes op, zoals een net vlinders vangt.",
+   "img": "Pixel shows glowing sound waves flying from Whyzz's mouth into a phone"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Oh, I get it! There’s a tiny person inside my phone who listens and types super fast!",
+   "fr": "Ah, j’ai compris ! Il y a une toute petite personne dans mon téléphone qui écoute et tape super vite !",
+   "nl": "O, ik snap het! Er zit een piepklein mannetje in mijn telefoon dat luistert en supersnel typt!",
+   "img": "Whyzz imagines a tiny worker typing inside a giant phone, Pixel laughs"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, no tiny person in there! The phone turns the sound waves into numbers and chops them into little sound pieces, like puzzle pieces.",
+   "fr": "Ha, il n’y a personne là-dedans ! Le téléphone transforme les vagues de son en nombres et les découpe en petits morceaux de son, comme les pièces d’un puzzle.",
+   "nl": "Haha, er zit niemand in! De telefoon verandert de geluidsgolven in getallen en knipt ze in kleine stukjes geluid, zoals puzzelstukjes.",
+   "img": "Sound waves turn into glowing number puzzle pieces floating around Pixel"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know that the computer learned by listening to thousands of hours of people talking? Now it can guess which words fit the sound pieces best.",
+   "fr": "Savais-tu que l’ordinateur a appris en écoutant des milliers d’heures de gens qui parlent ? Maintenant, il devine quels mots vont le mieux avec les morceaux de son.",
+   "nl": "Wist je dat de computer heeft geleerd door duizenden uren naar pratende mensen te luisteren? Nu raadt hij welke woorden het best bij de geluidsstukjes passen.",
+   "img": "Pixel and Whyzz look at a huge glowing library of sound waves"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the phone listens, turns sound into numbers and guesses the words. What would you ask a phone that understands you?",
+   "fr": "Donc le téléphone écoute, transforme le son en nombres et devine les mots. Qu’est-ce que tu demanderais à un téléphone qui te comprend ?",
+   "nl": "Dus de telefoon luistert, maakt van geluid getallen en raadt de woorden. Wat zou jij vragen aan een telefoon die je begrijpt?",
+   "img": "Whyzz and Pixel wave happily next to a friendly phone"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds up a smartphone in a cozy living room and talks into it excitedly, the phone screen shows a cartoon slice of pizza with a big smile, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge watches over his shoulder with a curious grin. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points at colorful glowing sound waves flowing from the mouth of Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge into a smartphone microphone, the waves are caught in a sparkly butterfly net, bright playful room. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge daydreams with a thought cloud showing a tiny cartoon worker typing super fast on a keyboard inside a giant phone, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs with her hand over her mouth, cheerful room. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands in front of floating glowing sound waves that break apart into colorful glowing puzzle pieces made of light, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks amazed, digital wonderland background. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stand in a huge magical library where the shelves hold glowing jars of colorful sound waves instead of books, both look up in wonder. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge wave happily at the viewer next to a giant friendly smartphone with a smiling face on its screen, sunny park background. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What does the microphone catch?",
+    "fr": "Qu’est-ce que le micro attrape ?",
+    "nl": "Wat vangt de microfoon op?"
+   },
+   "o": {
+    "en": [
+     "Sound waves in the air",
+     "Light from the Sun",
+     "Smells from the kitchen"
+    ],
+    "fr": [
+     "Les vagues de son dans l’air",
+     "La lumière du Soleil",
+     "Les odeurs de la cuisine"
+    ],
+    "nl": [
+     "Geluidsgolven in de lucht",
+     "Licht van de zon",
+     "Geurtjes uit de keuken"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Is there a tiny person typing inside the phone?",
+    "fr": "Y a-t-il une toute petite personne qui tape dans le téléphone ?",
+    "nl": "Zit er een piepklein mannetje in de telefoon dat typt?"
+   },
+   "o": {
+    "en": [
+     "Yes, a very fast one",
+     "No, the phone works with numbers",
+     "Only on weekends"
+    ],
+    "fr": [
+     "Oui, et elle tape très vite",
+     "Non, le téléphone travaille avec des nombres",
+     "Seulement le week-end"
+    ],
+    "nl": [
+     "Ja, een heel snelle",
+     "Nee, de telefoon werkt met getallen",
+     "Alleen in het weekend"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does the phone turn sound waves into?",
+    "fr": "En quoi le téléphone transforme-t-il les vagues de son ?",
+    "nl": "Waarin verandert de telefoon de geluidsgolven?"
+   },
+   "o": {
+    "en": [
+     "Colors",
+     "Pictures",
+     "Numbers"
+    ],
+    "fr": [
+     "En couleurs",
+     "En images",
+     "En nombres"
+    ],
+    "nl": [
+     "Kleuren",
+     "Foto’s",
+     "Getallen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "How did the computer learn to understand voices?",
+    "fr": "Comment l’ordinateur a-t-il appris à comprendre les voix ?",
+    "nl": "Hoe heeft de computer geleerd stemmen te begrijpen?"
+   },
+   "o": {
+    "en": [
+     "By listening to thousands of hours of talking",
+     "By reading a dictionary at night",
+     "By eating pizza"
+    ],
+    "fr": [
+     "En écoutant des milliers d’heures de paroles",
+     "En lisant un dictionnaire la nuit",
+     "En mangeant de la pizza"
+    ],
+    "nl": [
+     "Door duizenden uren naar praten te luisteren",
+     "Door ’s nachts een woordenboek te lezen",
+     "Door pizza te eten"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What does the phone do with the little sound pieces?",
+    "fr": "Que fait le téléphone avec les petits morceaux de son ?",
+    "nl": "Wat doet de telefoon met de kleine geluidsstukjes?"
+   },
+   "o": {
+    "en": [
+     "It throws them away",
+     "It guesses which words fit best",
+     "It paints them blue"
+    ],
+    "fr": [
+     "Il les jette",
+     "Il devine quels mots vont le mieux",
+     "Il les peint en bleu"
+    ],
+    "nl": [
+     "Hij gooit ze weg",
+     "Hij raadt welke woorden het best passen",
+     "Hij schildert ze blauw"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "From your voice to the answer",
+   "fr": "De ta voix à la réponse",
+   "nl": "Van je stem naar het antwoord"
+  },
+  "intro": {
+   "en": "Put the steps in the right order, from the moment you speak to the phone’s answer.",
+   "fr": "Remets les étapes dans le bon ordre, du moment où tu parles jusqu’à la réponse du téléphone.",
+   "nl": "Zet de stappen in de juiste volgorde, van het moment dat je praat tot het antwoord van de telefoon."
+  },
+  "done": {
+   "en": "Great job! You know how a phone understands your voice.",
+   "fr": "Bravo ! Tu sais comment un téléphone comprend ta voix.",
+   "nl": "Goed gedaan! Je weet hoe een telefoon je stem begrijpt."
+  },
+  "items": {
+   "en": [
+    "You speak",
+    "The air wiggles in tiny waves",
+    "The microphone catches the waves",
+    "The phone turns them into numbers",
+    "The computer guesses the words",
+    "The phone answers you"
+   ],
+   "fr": [
+    "Tu parles",
+    "L’air vibre en petites vagues",
+    "Le micro attrape les vagues",
+    "Le téléphone les transforme en nombres",
+    "L’ordinateur devine les mots",
+    "Le téléphone te répond"
+   ],
+   "nl": [
+    "Je praat",
+    "De lucht trilt in kleine golfjes",
+    "De microfoon vangt de golfjes op",
+    "De telefoon maakt er getallen van",
+    "De computer raadt de woorden",
+    "De telefoon geeft antwoord"
+   ]
+  }
+ }
+}

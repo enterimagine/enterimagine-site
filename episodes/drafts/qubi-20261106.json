@@ -1,0 +1,247 @@
+{
+ "id": "qubi-20261106",
+ "world": "qubi",
+ "guide": "Qubi",
+ "title": {
+  "en": "How does a laser make such a sharp beam?",
+  "fr": "Comment un laser fait-il un rayon si précis ?",
+  "nl": "Hoe maakt een laser zo’n scherpe straal?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, the science museum has a laser that draws a perfect red line across the room! How can light stay so thin and straight?",
+   "fr": "Qubi, au musée des sciences, un laser trace une ligne rouge parfaite à travers toute la salle ! Comment la lumière peut-elle rester si fine et si droite ?",
+   "nl": "Qubi, in het wetenschapsmuseum tekent een laser een perfecte rode lijn door de hele zaal! Hoe kan licht zo dun en recht blijven?",
+   "img": "Whyzz points at a thin red laser beam in a science museum, Qubi smiles"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "A laser starts with atoms that get extra energy, like kids after birthday cake. They calm down by giving off tiny bits of light called photons.",
+   "fr": "Un laser commence avec des atomes qui reçoivent de l’énergie en plus, comme des enfants après un gâteau d’anniversaire. Ils se calment en lâchant de minuscules grains de lumière, les photons.",
+   "nl": "Een laser begint met atomen die extra energie krijgen, zoals kinderen na verjaardagstaart. Ze kalmeren door piepkleine stukjes licht af te geven: fotonen.",
+   "img": "Bouncy cartoon atoms full of energy release little glowing light dots"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a laser is just a flashlight that went to the gym? Super-muscle light!",
+   "fr": "Donc un laser, c’est juste une lampe de poche qui a fait de la muscu ? De la lumière super musclée !",
+   "nl": "Dus een laser is gewoon een zaklamp die naar de sportschool is geweest? Superspierlicht!",
+   "img": "Whyzz flexes next to a flashlight lifting tiny weights, Qubi laughs"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Ha, not quite! When a photon passes an excited atom, the atom sends out a twin photon with the same color going the same way, while mirrors bounce them back and forth until there is a huge crowd.",
+   "fr": "Pas tout à fait ! Quand un photon passe près d’un atome excité, l’atome envoie un photon jumeau de la même couleur dans la même direction, et des miroirs les renvoient jusqu’à former une énorme foule.",
+   "nl": "Niet helemaal! Als een foton langs een opgewonden atoom komt, stuurt het atoom een tweelingfoton uit met dezelfde kleur en richting, en spiegels kaatsen ze heen en weer tot er een enorme menigte is.",
+   "img": "Matching light dots march between two mirrors inside a see-through tube"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Did you know that scientists shine lasers at mirrors that astronauts left on the Moon? The light bounces back and tells them exactly how far away the Moon is!",
+   "fr": "Savais-tu que des scientifiques envoient des lasers vers des miroirs laissés sur la Lune par des astronautes ? La lumière revient et leur dit exactement à quelle distance se trouve la Lune !",
+   "nl": "Wist je dat wetenschappers lasers richten op spiegels die astronauten op de maan hebben achtergelaten? Het licht kaatst terug en vertelt hen precies hoe ver de maan is!",
+   "img": "A laser beam from a telescope reaches a small mirror on the Moon"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a laser is a parade of matching light bits that all march the same way, never toward anyone’s eyes. What would you build with a laser beam?",
+   "fr": "Donc un laser, c’est une parade de grains de lumière identiques qui marchent tous dans le même sens, et on ne le pointe jamais vers les yeux. Que construirais-tu avec un rayon laser ?",
+   "nl": "Dus een laser is een optocht van dezelfde lichtdeeltjes die allemaal dezelfde kant op marcheren, en we richten hem nooit op iemands ogen. Wat zou jij bouwen met een laserstraal?",
+   "img": "Whyzz and Qubi wave in front of a colorful laser light show"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge points excitedly at a thin bright red laser beam stretching straight across a big modern science museum hall, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge stands next to him smiling proudly, the beam hits a wall far away. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge explains with open arms while round bouncy cartoon atoms with happy faces jump around like excited kids at a party and release tiny glowing light dots, science lab background. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge flexes his arm muscles playfully next to a cartoon flashlight that is lifting tiny dumbbells in a gym, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge laughs and shakes his head, funny bright scene. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge points at a large see-through glass tube with a mirror at each end, inside rows of identical glowing red light dots march in the same direction like a tidy parade, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge stands next to a big observatory telescope at night that shoots a thin green laser beam up to the Moon, where a small flat mirror sits on the gray lunar ground, starry sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge wave happily at the viewer in front of a colorful laser light show with beams of many colors on a stage, both wear dark safety glasses pushed up on their heads. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What do atoms with extra energy give off?",
+    "fr": "Que lâchent les atomes qui ont de l’énergie en plus ?",
+    "nl": "Wat geven atomen met extra energie af?"
+   },
+   "o": {
+    "en": [
+     "Tiny bits of light called photons",
+     "Soap bubbles",
+     "Little sounds"
+    ],
+    "fr": [
+     "De minuscules grains de lumière, les photons",
+     "Des bulles de savon",
+     "De petits bruits"
+    ],
+    "nl": [
+     "Piepkleine stukjes licht: fotonen",
+     "Zeepbellen",
+     "Kleine geluidjes"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What happens when a photon passes an excited atom?",
+    "fr": "Que se passe-t-il quand un photon passe près d’un atome excité ?",
+    "nl": "Wat gebeurt er als een foton langs een opgewonden atoom komt?"
+   },
+   "o": {
+    "en": [
+     "The atom turns blue",
+     "The atom sends out a twin photon",
+     "The atom falls asleep"
+    ],
+    "fr": [
+     "L’atome devient bleu",
+     "L’atome envoie un photon jumeau",
+     "L’atome s’endort"
+    ],
+    "nl": [
+     "Het atoom wordt blauw",
+     "Het atoom stuurt een tweelingfoton uit",
+     "Het atoom valt in slaap"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Why does a laser have mirrors inside?",
+    "fr": "Pourquoi un laser a-t-il des miroirs à l’intérieur ?",
+    "nl": "Waarom zitten er spiegels in een laser?"
+   },
+   "o": {
+    "en": [
+     "To look pretty",
+     "So the atoms can see themselves",
+     "To bounce the light back and forth"
+    ],
+    "fr": [
+     "Pour faire joli",
+     "Pour que les atomes se regardent",
+     "Pour renvoyer la lumière dans les deux sens"
+    ],
+    "nl": [
+     "Om er mooi uit te zien",
+     "Zodat de atomen zichzelf zien",
+     "Om het licht heen en weer te kaatsen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What did astronauts leave on the Moon for lasers?",
+    "fr": "Qu’ont laissé les astronautes sur la Lune pour les lasers ?",
+    "nl": "Wat lieten astronauten op de maan achter voor lasers?"
+   },
+   "o": {
+    "en": [
+     "A flashlight",
+     "Mirrors",
+     "A big red ball"
+    ],
+    "fr": [
+     "Une lampe de poche",
+     "Des miroirs",
+     "Un gros ballon rouge"
+    ],
+    "nl": [
+     "Een zaklamp",
+     "Spiegels",
+     "Een grote rode bal"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Where should you never point a laser?",
+    "fr": "Où ne faut-il jamais pointer un laser ?",
+    "nl": "Waar mag je een laser nooit op richten?"
+   },
+   "o": {
+    "en": [
+     "At someone’s eyes",
+     "At a wall",
+     "At a mirror on the Moon"
+    ],
+    "fr": [
+     "Vers les yeux de quelqu’un",
+     "Vers un mur",
+     "Vers un miroir sur la Lune"
+    ],
+    "nl": [
+     "Op iemands ogen",
+     "Op een muur",
+     "Op een spiegel op de maan"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Lasers at work",
+   "fr": "Les lasers au travail",
+   "nl": "Lasers aan het werk"
+  },
+  "intro": {
+   "en": "Lasers help us in lots of places. Match each laser to its job!",
+   "fr": "Les lasers nous aident partout. Associe chaque laser à son travail !",
+   "nl": "Lasers helpen ons op veel plekken. Koppel elke laser aan zijn taak!"
+  },
+  "done": {
+   "en": "Well done! You found every laser’s job.",
+   "fr": "Bien joué ! Tu as trouvé le travail de chaque laser.",
+   "nl": "Goed zo! Je hebt de taak van elke laser gevonden."
+  },
+  "left": {
+   "en": [
+    "Checkout scanner",
+    "Moon telescope",
+    "Laser cutter",
+    "Light show"
+   ],
+   "fr": [
+    "Scanner de caisse",
+    "Télescope vers la Lune",
+    "Découpeuse laser",
+    "Spectacle de lumière"
+   ],
+   "nl": [
+    "Kassascanner",
+    "Maantelescoop",
+    "Lasersnijder",
+    "Lichtshow"
+   ]
+  },
+  "right": {
+   "en": [
+    "Reads the striped codes on food packs",
+    "Measures how far away the Moon is",
+    "Cuts shapes out of wood",
+    "Draws colorful beams at concerts"
+   ],
+   "fr": [
+    "Lit les codes à rayures sur les emballages",
+    "Mesure la distance jusqu’à la Lune",
+    "Découpe des formes dans le bois",
+    "Dessine des rayons colorés aux concerts"
+   ],
+   "nl": [
+    "Leest de streepjescodes op verpakkingen",
+    "Meet hoe ver de maan is",
+    "Snijdt vormen uit hout",
+    "Tekent kleurige stralen op concerten"
+   ]
+  }
+ }
+}

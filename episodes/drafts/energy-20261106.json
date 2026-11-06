@@ -1,0 +1,233 @@
+{
+ "id": "energy-20261106",
+ "world": "energy",
+ "guide": "Sunny",
+ "title": {
+  "en": "How does a battery keep energy for later?",
+  "fr": "Comment une batterie garde-t-elle l’énergie pour plus tard ?",
+  "nl": "Hoe bewaart een batterij energie voor later?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, my tablet ran out of battery right in the middle of my game! Where does a battery keep its energy?",
+   "fr": "Sunny, ma tablette n’avait plus de batterie en plein milieu de mon jeu ! Où une batterie garde-t-elle son énergie ?",
+   "nl": "Sunny, mijn tablet was leeg, midden in mijn spelletje! Waar bewaart een batterij haar energie?",
+   "img": "Whyzz looks sadly at a tablet with an empty battery, Sunny smiles"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "A battery stores energy in special chemicals, between two ends called plus and minus. Think of it like a hill, where tiny electrons want to roll from the minus side to the plus side.",
+   "fr": "Une batterie stocke l’énergie dans des produits chimiques spéciaux, entre deux bouts appelés plus et moins. Imagine une colline : de minuscules électrons veulent rouler du côté moins vers le côté plus.",
+   "nl": "Een batterij bewaart energie in speciale stoffen, tussen twee kanten die plus en min heten. Denk aan een heuvel: piepkleine elektronen willen van de minkant naar de pluskant rollen.",
+   "img": "Sunny shows a giant battery shaped like a hill with tiny electrons on top"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Wait, so there are tiny hamsters running on wheels inside my battery? No wonder they got tired!",
+   "fr": "Attends, il y a de minuscules hamsters qui courent dans des roues dans ma batterie ? Pas étonnant qu’ils soient fatigués !",
+   "nl": "Wacht, zitten er dan piepkleine hamsters in tredmolentjes in mijn batterij? Geen wonder dat ze moe zijn!",
+   "img": "Whyzz imagines sleepy hamsters on wheels inside a battery, Sunny laughs"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "No hamsters, I promise! The electrons can only roll through a wire, so they race through your tablet and power it on the way.",
+   "fr": "Pas de hamsters, promis ! Les électrons ne peuvent rouler que dans un fil, alors ils foncent à travers ta tablette et la font marcher au passage.",
+   "nl": "Geen hamsters, beloofd! De elektronen kunnen alleen door een draad rollen, dus racen ze door je tablet en laten hem onderweg werken.",
+   "img": "Glowing electrons race along a wire path through a tablet"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Plugging in the charger pushes the electrons back up the hill, ready for your next game. Did you know that you can refill a tablet battery like this hundreds of times?",
+   "fr": "Quand tu branches le chargeur, il repousse les électrons en haut de la colline, prêts pour ton prochain jeu. Savais-tu qu’on peut recharger une batterie de tablette comme ça des centaines de fois ?",
+   "nl": "Als je de oplader insteekt, duwt die de elektronen terug de heuvel op, klaar voor je volgende spelletje. Wist je dat je een tabletbatterij zo honderden keren kunt opladen?",
+   "img": "A charger cable pushes electrons back up a hill into a battery"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a battery is a hill of electrons that the charger builds up again and again. What would you invent that runs on a battery?",
+   "fr": "Donc une batterie, c’est une colline d’électrons que le chargeur reconstruit encore et encore. Qu’inventerais-tu qui fonctionne avec une batterie ?",
+   "nl": "Dus een batterij is een heuvel van elektronen die de oplader steeds opnieuw opbouwt. Wat zou jij uitvinden dat op een batterij werkt?",
+   "img": "Whyzz and Sunny show off a funny battery-powered invention"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits on a sofa looking sadly at a tablet with a dark screen, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands next to him with a confident encouraging smile, cozy living room. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge points at a giant cartoon battery shaped like a green grassy hill, tiny round glowing yellow electrons with happy faces wait at the top, ready to roll down, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches curiously. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge imagines with a big thought cloud showing tiny sleepy hamsters running on little wheels inside a see-through battery, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge laughs and covers her mouth, cozy living room. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge points at tiny round glowing yellow electrons racing happily along a shiny copper wire path like a roller coaster through a giant tablet, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge cheers. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge holds a glowing charger cable plugged into a giant cartoon battery hill, the cable gently pushes tiny glowing yellow electrons back up to the top of the hill, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge proudly show a funny homemade battery-powered robot dog made of cardboard boxes with spinning wheels, bright playroom. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Where does a battery store its energy?",
+    "fr": "Où une batterie stocke-t-elle son énergie ?",
+    "nl": "Waarin bewaart een batterij haar energie?"
+   },
+   "o": {
+    "en": [
+     "In special chemicals",
+     "In tiny hamsters",
+     "In the air around it"
+    ],
+    "fr": [
+     "Dans des produits chimiques spéciaux",
+     "Dans de minuscules hamsters",
+     "Dans l’air autour d’elle"
+    ],
+    "nl": [
+     "In speciale stoffen",
+     "In piepkleine hamsters",
+     "In de lucht eromheen"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What are the two ends of a battery called?",
+    "fr": "Comment s’appellent les deux bouts d’une batterie ?",
+    "nl": "Hoe heten de twee kanten van een batterij?"
+   },
+   "o": {
+    "en": [
+     "Up and down",
+     "Plus and minus",
+     "Hot and cold"
+    ],
+    "fr": [
+     "Haut et bas",
+     "Plus et moins",
+     "Chaud et froid"
+    ],
+    "nl": [
+     "Boven en onder",
+     "Plus en min",
+     "Warm en koud"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What do the electrons need to roll through?",
+    "fr": "Dans quoi les électrons doivent-ils rouler ?",
+    "nl": "Waardoor moeten de elektronen rollen?"
+   },
+   "o": {
+    "en": [
+     "A cloud",
+     "A puddle",
+     "A wire"
+    ],
+    "fr": [
+     "Un nuage",
+     "Une flaque",
+     "Un fil"
+    ],
+    "nl": [
+     "Een wolk",
+     "Een plas",
+     "Een draad"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What does the charger do?",
+    "fr": "Que fait le chargeur ?",
+    "nl": "Wat doet de oplader?"
+   },
+   "o": {
+    "en": [
+     "It pushes the electrons back up the hill",
+     "It paints the battery",
+     "It cools the tablet"
+    ],
+    "fr": [
+     "Il repousse les électrons en haut de la colline",
+     "Il peint la batterie",
+     "Il refroidit la tablette"
+    ],
+    "nl": [
+     "Hij duwt de elektronen terug de heuvel op",
+     "Hij verft de batterij",
+     "Hij koelt de tablet af"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "How many times can you recharge a tablet battery?",
+    "fr": "Combien de fois peut-on recharger une batterie de tablette ?",
+    "nl": "Hoe vaak kun je een tabletbatterij opladen?"
+   },
+   "o": {
+    "en": [
+     "Only once",
+     "Hundreds of times",
+     "Never"
+    ],
+    "fr": [
+     "Une seule fois",
+     "Des centaines de fois",
+     "Jamais"
+    ],
+    "nl": [
+     "Maar één keer",
+     "Honderden keren",
+     "Nooit"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "Full, empty, full again",
+   "fr": "Pleine, vide, pleine à nouveau",
+   "nl": "Vol, leeg en weer vol"
+  },
+  "intro": {
+   "en": "Put the battery’s adventure in the right order!",
+   "fr": "Remets l’aventure de la batterie dans le bon ordre !",
+   "nl": "Zet het avontuur van de batterij in de juiste volgorde!"
+  },
+  "done": {
+   "en": "Charged up! You know the whole battery story.",
+   "fr": "Chargé à bloc ! Tu connais toute l’histoire de la batterie.",
+   "nl": "Helemaal opgeladen! Je kent het hele batterijverhaal."
+  },
+  "items": {
+   "en": [
+    "The battery is full",
+    "You turn on the tablet",
+    "Electrons roll through the wires",
+    "The battery runs empty",
+    "You plug in the charger",
+    "The electrons are pushed back up the hill"
+   ],
+   "fr": [
+    "La batterie est pleine",
+    "Tu allumes la tablette",
+    "Les électrons roulent dans les fils",
+    "La batterie se vide",
+    "Tu branches le chargeur",
+    "Les électrons remontent en haut de la colline"
+   ],
+   "nl": [
+    "De batterij is vol",
+    "Je zet de tablet aan",
+    "Elektronen rollen door de draden",
+    "De batterij raakt leeg",
+    "Je steekt de oplader in",
+    "De elektronen worden terug de heuvel op geduwd"
+   ]
+  }
+ }
+}
