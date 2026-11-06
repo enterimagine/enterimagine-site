@@ -16,6 +16,7 @@ body{margin:0;background:#081226}
 .k-lang{font-family:'Nunito',sans-serif;font-weight:800;font-size:14px;border:2px solid rgba(255,255,255,.25);background:transparent;color:#f2f6ff;border-radius:999px;min-width:48px;min-height:44px;cursor:pointer}
 .k-lang.on{background:#7fe7ff;border-color:#7fe7ff;color:#04202a}
 .k-tab{font-family:'Nunito',sans-serif;font-weight:800;font-size:16px;border:2px solid rgba(255,255,255,.18);background:rgba(255,255,255,.05);color:#f2f6ff;border-radius:18px;min-height:52px;padding:8px 16px;cursor:pointer;display:flex;align-items:center;gap:8px}
+.k-ep{font-family:'Nunito',sans-serif;color:#f2f6ff;display:flex;align-items:center;gap:16px;width:100%;padding:12px;border-radius:22px;border:2px solid rgba(255,255,255,.14);background:rgba(255,255,255,.05);cursor:pointer}.k-ep:hover{background:rgba(255,255,255,.09)}.k-ep.on{border-color:#ffd84c;background:rgba(255,216,76,.10)}.k-ep:focus-visible{outline:3px solid #ffd84c;outline-offset:3px}
 .k-tab.on{background:#ffd84c;border-color:#ffd84c;color:#1a1300}
 .k-opt{font-family:'Nunito',sans-serif;font-weight:800;font-size:18px;min-height:64px;border-radius:20px;border:3px solid rgba(255,255,255,.2);background:rgba(255,255,255,.06);color:#f2f6ff;cursor:pointer;padding:10px 18px;text-align:left}
 .k-opt.picked{border-color:#7fe7ff;background:rgba(127,231,255,.14)}
@@ -65,13 +66,6 @@ body{margin:0;background:#081226}
       <p style="margin: 0; font-size: 14px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: {{accent}};">{{worldName}} · {{U.with}} {{guide}}</p>
       <h1 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: clamp(28px, 3.6vw, 40px); line-height: 1.1;">{{epTitle}}</h1>
     </div>
-    <sc-if value="{{hasEps}}" hint-placeholder-val="{{false}}">
-      <nav aria-label="Episodes" style="display: flex; gap: 10px; overflow-x: auto; padding-bottom: 4px;">
-        <sc-for list="{{eps}}" as="e" hint-placeholder-count="2">
-          <button class="k-tab {{e.cls}}" onClick="{{e.pick}}" aria-pressed="{{e.on}}" style="flex: none; max-width: 320px; font-size: 14px; text-align: left; line-height: 1.25;">{{e.label}}</button>
-        </sc-for>
-      </nav>
-    </sc-if>
     <nav aria-label="Steps" style="display: flex; flex-wrap: wrap; gap: 10px;">
       <sc-for list="{{modes}}" as="m" hint-placeholder-count="3">
         <button class="k-tab {{m.cls}}" onClick="{{m.pick}}" aria-pressed="{{m.on}}">{{m.label}}</button>
@@ -293,6 +287,21 @@ body{margin:0;background:#081226}
         </div>
         <p style="margin: 0; font-size: 18px; font-weight: 800; color: #ffd84c;" aria-live="polite">{{mtStatus}}</p>
         <sc-if value="{{mtDone}}" hint-placeholder-val="{{false}}"><div><button class="k-btn k-ghost" onClick="{{mtAgain}}">{{U.mtAgain}}</button></div></sc-if>
+      </section>
+    </sc-if>
+
+    <sc-if value="{{hasEps}}" hint-placeholder-val="{{false}}">
+      <section aria-label="{{U.epsTitle}}" style="display: flex; flex-direction: column; gap: 12px; margin-top: 8px;">
+        <h2 style="margin: 0; font-family: 'Baloo 2', sans-serif; font-size: 26px;">{{U.epsTitle}}</h2>
+        <sc-for list="{{eps}}" as="e" hint-placeholder-count="2">
+          <button class="k-ep {{e.cls}}" onClick="{{e.pick}}" aria-pressed="{{e.on}}">
+            <sc-if value="{{e.hasThumb}}" hint-placeholder-val="{{true}}"><img src="{{e.thumb}}" alt="" loading="lazy" style="flex: none; width: 180px; max-width: 38%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 14px;"></sc-if>
+            <span style="display: flex; flex-direction: column; gap: 4px; text-align: left;">
+              <span style="font-size: 13px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: #9fb4e0;">{{e.num}} <span style="color: #ffd84c;">{{e.badge}}</span></span>
+              <span style="font-family: 'Baloo 2', sans-serif; font-size: 20px; font-weight: 800; line-height: 1.2;">{{e.title}}</span>
+            </span>
+          </button>
+        </sc-for>
       </section>
     </sc-if>
 
