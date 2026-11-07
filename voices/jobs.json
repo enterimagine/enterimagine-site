@@ -1510,5 +1510,437 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Dus een batterij is een heuvel van elektronen die de oplader steeds opnieuw opbouwt. Wat zou jij uitvinden dat op een batterij werkt?"
+ },
+ {
+  "id": "space-20261107-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, last week the Moon was a big round ball but tonight it looks like a banana! Does it really change shape?"
+ },
+ {
+  "id": "space-20261107-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, la semaine dernière, la Lune était toute ronde, mais ce soir elle ressemble à une banane ! Est-ce qu’elle change vraiment de forme ?"
+ },
+ {
+  "id": "space-20261107-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, vorige week was de maan een grote ronde bal, maar vanavond lijkt ze op een banaan! Verandert ze echt van vorm?"
+ },
+ {
+  "id": "space-20261107-en-2",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "The Moon is always a round ball. It doesn’t make its own light: the Sun shines on it, like a flashlight on a ball in a dark room."
+ },
+ {
+  "id": "space-20261107-fr-2",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "La Lune est toujours une boule ronde. Elle ne fait pas sa propre lumière : le Soleil l’éclaire, comme une lampe de poche sur un ballon dans une pièce sombre."
+ },
+ {
+  "id": "space-20261107-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "De maan is altijd een ronde bal. Ze maakt zelf geen licht: de zon schijnt erop, zoals een zaklamp op een bal in een donkere kamer."
+ },
+ {
+  "id": "space-20261107-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Oh, I know! Somebody is taking bites out of it, like a giant space cookie!"
+ },
+ {
+  "id": "space-20261107-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Ah, je sais ! Quelqu’un la croque petit à petit, comme un biscuit géant de l’espace !"
+ },
+ {
+  "id": "space-20261107-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "O, ik weet het! Iemand neemt er hapjes uit, zoals uit een reuzenkoekje in de ruimte!"
+ },
+ {
+  "id": "space-20261107-en-4",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "No bites, Whyzz: the Sun always lights up half of the Moon! As the Moon circles Earth in about a month, we see more or less of that bright half."
+ },
+ {
+  "id": "space-20261107-fr-4",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Personne ne la croque, Whyzz : le Soleil éclaire toujours une moitié de la Lune ! Comme la Lune tourne autour de la Terre en un mois environ, on voit plus ou moins de cette moitié éclairée."
+ },
+ {
+  "id": "space-20261107-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Niemand eet ervan, Whyzz: de zon verlicht altijd de helft van de maan! Terwijl de maan in ongeveer een maand rond de aarde draait, zien we meer of minder van die lichte helft."
+ },
+ {
+  "id": "space-20261107-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "After the dark new Moon, it grows from a thin sliver to a half Moon to a full Moon, then shrinks back again. Did you know that the Moon drifts away from Earth by about 4 centimeters every year?"
+ },
+ {
+  "id": "space-20261107-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Après la nouvelle lune, toute sombre, elle grandit : un fin croissant, une demi-lune, puis la pleine lune, et ensuite elle diminue. Le savais-tu : la Lune s’éloigne de la Terre d’environ 4 centimètres chaque année !"
+ },
+ {
+  "id": "space-20261107-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Na de donkere nieuwe maan groeit ze: een dun sikkeltje, een halve maan en dan de volle maan, daarna krimpt ze weer. Wist je dat de maan elk jaar ongeveer 4 centimeter verder van de aarde weg schuift?"
+ },
+ {
+  "id": "space-20261107-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the Moon never really changes shape: we just see different parts of its sunny side! If you could visit the Moon, what would you do first?"
+ },
+ {
+  "id": "space-20261107-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc la Lune ne change jamais vraiment de forme : on voit juste différentes parties de son côté ensoleillé ! Si tu pouvais aller sur la Lune, que ferais-tu en premier ?"
+ },
+ {
+  "id": "space-20261107-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de maan verandert nooit echt van vorm: we zien gewoon andere stukken van haar zonnige kant! Als jij naar de maan kon, wat zou je dan als eerste doen?"
+ },
+ {
+  "id": "mobility-20261107-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, a big airplane is heavier than lots of elephants! So how does it stay up in the sky?"
+ },
+ {
+  "id": "mobility-20261107-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, un gros avion est plus lourd que plein d’éléphants ! Alors comment fait-il pour rester dans le ciel ?"
+ },
+ {
+  "id": "mobility-20261107-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, een groot vliegtuig is zwaarder dan een heleboel olifanten! Hoe blijft het dan in de lucht?"
+ },
+ {
+  "id": "mobility-20261107-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Wait, I know! The passengers all flap their arms really fast, right?"
+ },
+ {
+  "id": "mobility-20261107-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Attends, je sais ! Tous les passagers battent des bras super vite, c’est ça ?"
+ },
+ {
+  "id": "mobility-20261107-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Wacht, ik weet het! Alle passagiers fladderen supersnel met hun armen, toch?"
+ },
+ {
+  "id": "mobility-20261107-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Nice try! The secret is the wings: they are curved and tilted a little, so they push lots of air down as the plane zooms forward."
+ },
+ {
+  "id": "mobility-20261107-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Bien essayé ! Le secret, ce sont les ailes : elles sont courbées et un peu inclinées, alors elles poussent beaucoup d’air vers le bas quand l’avion fonce en avant."
+ },
+ {
+  "id": "mobility-20261107-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Goed geprobeerd! Het geheim zit in de vleugels: ze zijn gebogen en een beetje schuin, dus duwen ze veel lucht naar beneden als het vliegtuig vooruit raast."
+ },
+ {
+  "id": "mobility-20261107-en-4",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "When the wings push air down, the air pushes the wings up. We call that push lift, just like water pushes you up when you press it down while swimming."
+ },
+ {
+  "id": "mobility-20261107-fr-4",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Quand les ailes poussent l’air vers le bas, l’air pousse les ailes vers le haut. Cette poussée s’appelle la portance, un peu comme l’eau qui te soulève quand tu appuies dessus en nageant."
+ },
+ {
+  "id": "mobility-20261107-nl-4",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Als de vleugels lucht naar beneden duwen, duwt de lucht de vleugels omhoog. Die duw heet opwaartse kracht, net zoals water je omhoog duwt als je het naar beneden drukt tijdens het zwemmen."
+ },
+ {
+  "id": "mobility-20261107-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "The engines push the plane forward fast enough for the wings to make lots of lift. Did you know that big airplane wings are built to bend up a little in flight, like a diving board?"
+ },
+ {
+  "id": "mobility-20261107-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Les moteurs poussent l’avion vers l’avant, assez vite pour que les ailes fassent beaucoup de portance. Le savais-tu : les ailes des grands avions sont faites pour se plier un peu vers le haut en vol, comme un plongeoir !"
+ },
+ {
+  "id": "mobility-20261107-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "De motoren duwen het vliegtuig vooruit, snel genoeg zodat de vleugels veel opwaartse kracht maken. Wist je dat de vleugels van grote vliegtuigen tijdens de vlucht een beetje omhoog buigen, net als een duikplank?"
+ },
+ {
+  "id": "mobility-20261107-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So wings push air down, engines push forward and up we go, no arm flapping needed! If you could fly anywhere, where would you go?"
+ },
+ {
+  "id": "mobility-20261107-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les ailes poussent l’air vers le bas, les moteurs poussent vers l’avant, et hop, on décolle sans battre des bras ! Et toi, si tu pouvais t’envoler n’importe où, où irais-tu ?"
+ },
+ {
+  "id": "mobility-20261107-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de vleugels duwen lucht omlaag, de motoren duwen vooruit en hup, we vliegen, zonder armgefladder! Als jij overal naartoe kon vliegen, waar zou je dan heen gaan?"
+ },
+ {
+  "id": "cities-20261107-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, this sidewalk is so hot I could almost fry an egg on it! So why does it feel much cooler under this tree?"
+ },
+ {
+  "id": "cities-20261107-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, ce trottoir est tellement chaud qu’on pourrait presque y cuire un œuf ! Alors pourquoi fait-il bien plus frais sous cet arbre ?"
+ },
+ {
+  "id": "cities-20261107-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, deze stoep is zo heet dat je er bijna een ei op kunt bakken! Waarom is het dan veel koeler onder deze boom?"
+ },
+ {
+  "id": "cities-20261107-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "First, a tree is a giant umbrella. Its leaves catch the sunshine before it can heat up the ground and the walls."
+ },
+ {
+  "id": "cities-20261107-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "D’abord, un arbre est un parasol géant. Ses feuilles attrapent les rayons du soleil avant qu’ils ne chauffent le sol et les murs."
+ },
+ {
+  "id": "cities-20261107-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Ten eerste is een boom een reuzenparasol. Zijn bladeren vangen het zonlicht op voordat het de grond en de muren kan opwarmen."
+ },
+ {
+  "id": "cities-20261107-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Ooh, I bet trees hide tiny air conditioners in their branches!"
+ },
+ {
+  "id": "cities-20261107-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Oh, je parie que les arbres cachent des mini-climatiseurs dans leurs branches !"
+ },
+ {
+  "id": "cities-20261107-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "O, ik wed dat bomen kleine airco’s in hun takken verstoppen!"
+ },
+ {
+  "id": "cities-20261107-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Kind of! Leaves let out water through tiny holes, which cools the air just like sweat cools your skin."
+ },
+ {
+  "id": "cities-20261107-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Un peu, oui ! Les feuilles laissent sortir de l’eau par de minuscules trous, ce qui rafraîchit l’air, comme la transpiration rafraîchit ta peau."
+ },
+ {
+  "id": "cities-20261107-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Een beetje wel! Bladeren laten water los door piepkleine gaatjes en dat koelt de lucht af, net zoals zweet je huid afkoelt."
+ },
+ {
+  "id": "cities-20261107-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Dark roads and roofs soak up heat, so cities can get much hotter than the countryside. Did you know that ground in a tree’s shade can be more than 10 degrees Celsius cooler than ground in full sun?"
+ },
+ {
+  "id": "cities-20261107-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Les routes et les toits sombres absorbent la chaleur, alors les villes chauffent bien plus que la campagne. Le savais-tu : à l’ombre d’un arbre, le sol peut être plus de 10 degrés plus frais qu’en plein soleil !"
+ },
+ {
+  "id": "cities-20261107-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Donkere wegen en daken nemen veel warmte op, dus steden kunnen veel heter worden dan het platteland. Wist je dat de grond in de schaduw van een boom meer dan 10 graden koeler kan zijn dan in de volle zon?"
+ },
+ {
+  "id": "cities-20261107-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So trees are shady umbrellas and leafy coolers in one! If you could plant a tree anywhere in your town, where would you put it?"
+ },
+ {
+  "id": "cities-20261107-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les arbres sont à la fois des parasols et des rafraîchisseurs à feuilles ! Si tu pouvais planter un arbre n’importe où dans ta ville, où le mettrais-tu ?"
+ },
+ {
+  "id": "cities-20261107-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus bomen zijn parasols en bladerkoelers in één! Als jij ergens in je stad een boom mocht planten, waar zou je hem zetten?"
+ },
+ {
+  "id": "innovation-20261107-en-1",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, after our walk in the woods your socks are covered in prickly little balls! Why do they stick so well?"
+ },
+ {
+  "id": "innovation-20261107-fr-1",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, après notre balade dans les bois, tes chaussettes sont couvertes de petites boules piquantes ! Pourquoi est-ce qu’elles collent si bien ?"
+ },
+ {
+  "id": "innovation-20261107-nl-1",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Whyzz, na onze wandeling in het bos zitten je sokken vol stekelige bolletjes! Waarom blijven die zo goed plakken?"
+ },
+ {
+  "id": "innovation-20261107-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Maybe they just love my socks? I mean, they are pretty awesome socks!"
+ },
+ {
+  "id": "innovation-20261107-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Peut-être qu’elles adorent mes chaussettes ? Faut dire qu’elles sont plutôt géniales, mes chaussettes !"
+ },
+ {
+  "id": "innovation-20261107-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Misschien zijn ze gewoon dol op mijn sokken? Het zijn wel echt toffe sokken, hoor!"
+ },
+ {
+  "id": "innovation-20261107-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "These are burrs: seed balls covered in tiny hooks that grab fur and fabric. An inventor once looked at them under a microscope and created the hook-and-loop strips on your shoes!"
+ },
+ {
+  "id": "innovation-20261107-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Ce sont des bardanes : des boules de graines couvertes de minuscules crochets qui s’accrochent aux poils et aux tissus. Un inventeur les a regardées au microscope et a inventé les bandes auto-agrippantes de tes chaussures !"
+ },
+ {
+  "id": "innovation-20261107-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dat zijn klitten: zaadbolletjes vol piepkleine haakjes die in vacht en stof blijven hangen. Een uitvinder bekeek ze onder een microscoop en bedacht zo het klittenband op je schoenen!"
+ },
+ {
+  "id": "innovation-20261107-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "So nature gave him the idea! Do inventors copy other animals and plants too?"
+ },
+ {
+  "id": "innovation-20261107-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Donc c’est la nature qui lui a donné l’idée ! Les inventeurs copient aussi d’autres animaux et d’autres plantes ?"
+ },
+ {
+  "id": "innovation-20261107-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Dus de natuur gaf hem het idee! Kijken uitvinders ook af bij andere dieren en planten?"
+ },
+ {
+  "id": "innovation-20261107-en-5",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "All the time! Did you know that a super-fast train got a pointy nose shaped like the beak of a diving bird, the kingfisher, so it zooms out of tunnels much more quietly?"
+ },
+ {
+  "id": "innovation-20261107-fr-5",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Tout le temps ! Le savais-tu : un train ultra-rapide a reçu un long nez pointu en forme de bec de martin-pêcheur, un oiseau plongeur, pour sortir des tunnels beaucoup plus silencieusement !"
+ },
+ {
+  "id": "innovation-20261107-nl-5",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "De hele tijd! Wist je dat een supersnelle trein een spitse neus kreeg in de vorm van de snavel van een ijsvogel, een duikende vogel, zodat hij veel stiller uit tunnels raast?"
+ },
+ {
+  "id": "innovation-20261107-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So nature is the best teacher for inventors: just look closely and ask why! Which animal or plant would you copy for your next invention?"
+ },
+ {
+  "id": "innovation-20261107-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "La nature est donc la meilleure prof des inventeurs : il suffit de bien regarder et de se demander pourquoi ! Et toi, quel animal ou quelle plante copierais-tu pour ta prochaine invention ?"
+ },
+ {
+  "id": "innovation-20261107-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "De natuur is dus de beste leraar voor uitvinders: kijk gewoon goed en vraag je af waarom! Welk dier of welke plant zou jij nadoen voor je volgende uitvinding?"
  }
 ]

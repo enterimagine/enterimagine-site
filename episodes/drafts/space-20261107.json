@@ -1,0 +1,233 @@
+{
+ "id": "space-20261107",
+ "world": "space",
+ "guide": "Qubi",
+ "title": {
+  "en": "Why does the Moon change shape?",
+  "fr": "Pourquoi la Lune change-t-elle de forme ?",
+  "nl": "Waarom verandert de maan van vorm?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, last week the Moon was a big round ball but tonight it looks like a banana! Does it really change shape?",
+   "fr": "Qubi, la semaine dernière, la Lune était toute ronde, mais ce soir elle ressemble à une banane ! Est-ce qu’elle change vraiment de forme ?",
+   "nl": "Qubi, vorige week was de maan een grote ronde bal, maar vanavond lijkt ze op een banaan! Verandert ze echt van vorm?",
+   "img": "Whyzz and Qubi in a backyard at night looking up at a banana-shaped crescent Moon"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "The Moon is always a round ball. It doesn’t make its own light: the Sun shines on it, like a flashlight on a ball in a dark room.",
+   "fr": "La Lune est toujours une boule ronde. Elle ne fait pas sa propre lumière : le Soleil l’éclaire, comme une lampe de poche sur un ballon dans une pièce sombre.",
+   "nl": "De maan is altijd een ronde bal. Ze maakt zelf geen licht: de zon schijnt erop, zoals een zaklamp op een bal in een donkere kamer.",
+   "img": "Qubi shines a flashlight on a white ball in a dark room, half of it lit"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Oh, I know! Somebody is taking bites out of it, like a giant space cookie!",
+   "fr": "Ah, je sais ! Quelqu’un la croque petit à petit, comme un biscuit géant de l’espace !",
+   "nl": "O, ik weet het! Iemand neemt er hapjes uit, zoals uit een reuzenkoekje in de ruimte!",
+   "img": "Whyzz imagines a giant cookie Moon with bite marks floating in space"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "No bites, Whyzz: the Sun always lights up half of the Moon! As the Moon circles Earth in about a month, we see more or less of that bright half.",
+   "fr": "Personne ne la croque, Whyzz : le Soleil éclaire toujours une moitié de la Lune ! Comme la Lune tourne autour de la Terre en un mois environ, on voit plus ou moins de cette moitié éclairée.",
+   "nl": "Niemand eet ervan, Whyzz: de zon verlicht altijd de helft van de maan! Terwijl de maan in ongeveer een maand rond de aarde draait, zien we meer of minder van die lichte helft.",
+   "img": "Qubi and Whyzz with a lamp, a small globe and a white ball Moon moving around it"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "After the dark new Moon, it grows from a thin sliver to a half Moon to a full Moon, then shrinks back again. Did you know that the Moon drifts away from Earth by about 4 centimeters every year?",
+   "fr": "Après la nouvelle lune, toute sombre, elle grandit : un fin croissant, une demi-lune, puis la pleine lune, et ensuite elle diminue. Le savais-tu : la Lune s’éloigne de la Terre d’environ 4 centimètres chaque année !",
+   "nl": "Na de donkere nieuwe maan groeit ze: een dun sikkeltje, een halve maan en dan de volle maan, daarna krimpt ze weer. Wist je dat de maan elk jaar ongeveer 4 centimeter verder van de aarde weg schuift?",
+   "img": "Qubi in a planetarium points at a row of glowing Moon shapes from crescent to full"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the Moon never really changes shape: we just see different parts of its sunny side! If you could visit the Moon, what would you do first?",
+   "fr": "Donc la Lune ne change jamais vraiment de forme : on voit juste différentes parties de son côté ensoleillé ! Si tu pouvais aller sur la Lune, que ferais-tu en premier ?",
+   "nl": "Dus de maan verandert nooit echt van vorm: we zien gewoon andere stukken van haar zonnige kant! Als jij naar de maan kon, wat zou je dan als eerste doen?",
+   "img": "Whyzz and Qubi in spacesuits jumping happily on the Moon with Earth in the sky"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge points up in surprise at a thin banana-shaped crescent Moon in a starry night sky, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge stands next to him with a small telescope smiling, cozy backyard with grass and a wooden fence. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge shines a flashlight on a big white ball in a dark bedroom so exactly half of the ball glows bright, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with wide amazed eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs and holds a cookie while imagining a giant round cookie Moon with big bite marks floating among the stars, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge giggles next to him, a dreamy bubble of outer space around the cookie Moon. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge explains a table model with a bright lamp as the Sun, a small blue Earth globe and a white ball Moon on a stick, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge carefully moves the Moon ball around the globe, one side of the Moon ball lit by the lamp, cozy science room. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge points at a curved row of six glowing Moon shapes on a planetarium dome, from a thin crescent to a half Moon to a full Moon and back, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks up amazed with his mouth open, dark blue starry dome. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge wear cute white spacesuits with clear helmets and jump happily on the grey dusty Moon surface, the blue Earth glows in the black sky behind them. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Does the Moon make its own light?",
+    "fr": "La Lune fait-elle sa propre lumière ?",
+    "nl": "Maakt de maan zelf licht?"
+   },
+   "o": {
+    "en": [
+     "No, the Sun lights it up",
+     "Yes, like a lamp",
+     "Only on weekends"
+    ],
+    "fr": [
+     "Non, le Soleil l’éclaire",
+     "Oui, comme une lampe",
+     "Seulement le week-end"
+    ],
+    "nl": [
+     "Nee, de zon verlicht haar",
+     "Ja, zoals een lamp",
+     "Alleen in het weekend"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "How much of the Moon does the Sun always light up?",
+    "fr": "Quelle partie de la Lune le Soleil éclaire-t-il toujours ?",
+    "nl": "Hoeveel van de maan verlicht de zon altijd?"
+   },
+   "o": {
+    "en": [
+     "All of it",
+     "Half of it",
+     "None of it"
+    ],
+    "fr": [
+     "Toute la Lune",
+     "La moitié",
+     "Rien du tout"
+    ],
+    "nl": [
+     "Alles",
+     "De helft",
+     "Niets"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "About how long does the Moon take to circle Earth?",
+    "fr": "Combien de temps faut-il à la Lune pour faire le tour de la Terre ?",
+    "nl": "Hoelang doet de maan erover om rond de aarde te draaien?"
+   },
+   "o": {
+    "en": [
+     "One day",
+     "One year",
+     "About a month"
+    ],
+    "fr": [
+     "Un jour",
+     "Un an",
+     "Un mois environ"
+    ],
+    "nl": [
+     "Eén dag",
+     "Eén jaar",
+     "Ongeveer een maand"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What comes right after the dark new Moon?",
+    "fr": "Qu’est-ce qui vient juste après la nouvelle lune toute sombre ?",
+    "nl": "Wat komt er meteen na de donkere nieuwe maan?"
+   },
+   "o": {
+    "en": [
+     "A full Moon",
+     "A thin sliver",
+     "A square Moon"
+    ],
+    "fr": [
+     "La pleine lune",
+     "Un fin croissant",
+     "Une lune carrée"
+    ],
+    "nl": [
+     "Een volle maan",
+     "Een dun sikkeltje",
+     "Een vierkante maan"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What is the Moon slowly doing every year?",
+    "fr": "Que fait la Lune, tout doucement, chaque année ?",
+    "nl": "Wat doet de maan elk jaar heel langzaam?"
+   },
+   "o": {
+    "en": [
+     "Drifting away from Earth",
+     "Getting bigger",
+     "Turning blue"
+    ],
+    "fr": [
+     "Elle s’éloigne de la Terre",
+     "Elle grossit",
+     "Elle devient bleue"
+    ],
+    "nl": [
+     "Ze schuift weg van de aarde",
+     "Ze wordt groter",
+     "Ze wordt blauw"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "The Moon’s monthly show",
+   "fr": "Le spectacle mensuel de la Lune",
+   "nl": "De maandshow van de maan"
+  },
+  "intro": {
+   "en": "Put the Moon’s shapes in the right order, starting with the new Moon!",
+   "fr": "Remets les formes de la Lune dans le bon ordre, en commençant par la nouvelle lune !",
+   "nl": "Zet de vormen van de maan in de juiste volgorde, te beginnen met de nieuwe maan!"
+  },
+  "done": {
+   "en": "Great job! You followed the Moon through a whole month.",
+   "fr": "Bravo ! Tu as suivi la Lune pendant tout un mois.",
+   "nl": "Goed gedaan! Je hebt de maan een hele maand gevolgd."
+  },
+  "items": {
+   "en": [
+    "Dark new Moon",
+    "Thin growing sliver",
+    "Half Moon",
+    "Round full Moon",
+    "Half Moon again",
+    "Thin shrinking sliver"
+   ],
+   "fr": [
+    "Nouvelle lune toute sombre",
+    "Fin croissant qui grandit",
+    "Demi-lune",
+    "Pleine lune bien ronde",
+    "Demi-lune à nouveau",
+    "Fin croissant qui diminue"
+   ],
+   "nl": [
+    "Donkere nieuwe maan",
+    "Dun groeiend sikkeltje",
+    "Halve maan",
+    "Ronde volle maan",
+    "Weer een halve maan",
+    "Dun krimpend sikkeltje"
+   ]
+  }
+ }
+}

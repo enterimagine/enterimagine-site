@@ -1,0 +1,242 @@
+{
+ "id": "mobility-20261107",
+ "world": "mobility",
+ "guide": "Sunny",
+ "title": {
+  "en": "How can a heavy airplane fly?",
+  "fr": "Comment un avion si lourd peut-il voler ?",
+  "nl": "Hoe kan een zwaar vliegtuig vliegen?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, a big airplane is heavier than lots of elephants! So how does it stay up in the sky?",
+   "fr": "Sunny, un gros avion est plus lourd que plein d’éléphants ! Alors comment fait-il pour rester dans le ciel ?",
+   "nl": "Sunny, een groot vliegtuig is zwaarder dan een heleboel olifanten! Hoe blijft het dan in de lucht?",
+   "img": "Whyzz and Sunny at a big airport window watching a jet take off"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Wait, I know! The passengers all flap their arms really fast, right?",
+   "fr": "Attends, je sais ! Tous les passagers battent des bras super vite, c’est ça ?",
+   "nl": "Wacht, ik weet het! Alle passagiers fladderen supersnel met hun armen, toch?",
+   "img": "Whyzz flaps his arms like a bird in an airplane cabin while Sunny laughs"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Nice try! The secret is the wings: they are curved and tilted a little, so they push lots of air down as the plane zooms forward.",
+   "fr": "Bien essayé ! Le secret, ce sont les ailes : elles sont courbées et un peu inclinées, alors elles poussent beaucoup d’air vers le bas quand l’avion fonce en avant.",
+   "nl": "Goed geprobeerd! Het geheim zit in de vleugels: ze zijn gebogen en een beetje schuin, dus duwen ze veel lucht naar beneden als het vliegtuig vooruit raast.",
+   "img": "Sunny points at a model wing in a wind tunnel with swirly air flowing down behind it"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "When the wings push air down, the air pushes the wings up. We call that push lift, just like water pushes you up when you press it down while swimming.",
+   "fr": "Quand les ailes poussent l’air vers le bas, l’air pousse les ailes vers le haut. Cette poussée s’appelle la portance, un peu comme l’eau qui te soulève quand tu appuies dessus en nageant.",
+   "nl": "Als de vleugels lucht naar beneden duwen, duwt de lucht de vleugels omhoog. Die duw heet opwaartse kracht, net zoals water je omhoog duwt als je het naar beneden drukt tijdens het zwemmen.",
+   "img": "Whyzz and Sunny in a swimming pool pressing water down and rising up"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "The engines push the plane forward fast enough for the wings to make lots of lift. Did you know that big airplane wings are built to bend up a little in flight, like a diving board?",
+   "fr": "Les moteurs poussent l’avion vers l’avant, assez vite pour que les ailes fassent beaucoup de portance. Le savais-tu : les ailes des grands avions sont faites pour se plier un peu vers le haut en vol, comme un plongeoir !",
+   "nl": "De motoren duwen het vliegtuig vooruit, snel genoeg zodat de vleugels veel opwaartse kracht maken. Wist je dat de vleugels van grote vliegtuigen tijdens de vlucht een beetje omhoog buigen, net als een duikplank?",
+   "img": "Whyzz and Sunny look out of an airplane window at a wing bending up above the clouds"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So wings push air down, engines push forward and up we go, no arm flapping needed! If you could fly anywhere, where would you go?",
+   "fr": "Donc les ailes poussent l’air vers le bas, les moteurs poussent vers l’avant, et hop, on décolle sans battre des bras ! Et toi, si tu pouvais t’envoler n’importe où, où irais-tu ?",
+   "nl": "Dus de vleugels duwen lucht omlaag, de motoren duwen vooruit en hup, we vliegen, zonder armgefladder! Als jij overal naartoe kon vliegen, waar zou je dan heen gaan?",
+   "img": "Whyzz and Sunny run with their arms out like airplanes in a park with paper planes"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge presses his hands on a huge airport window and stares amazed at a big plain white passenger jet with no logos lifting off the runway, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands next to him smiling, bright blue sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits in an airplane seat and flaps his arms like a bird with a silly determined face, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge sits next to him laughing, bright cartoon airplane cabin with round windows and fluffy clouds outside. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge points at a big curved airplane wing model inside a glass wind tunnel, swirly light-blue air streams flow over the wing and bend downward behind it, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches closely with curious eyes, bright science lab. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge play in a sunny outdoor swimming pool, they press the water down with their hands and pop up with big smiles, happy splashes and sparkling water. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge look out of a big round airplane window at a long white wing that bends gently upward above fluffy white clouds, golden sunshine, both look amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge run across a green park with their arms stretched out like airplane wings, colorful paper airplanes glide around them, a small white airplane flies high in the blue sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What do airplane wings push down?",
+    "fr": "Que poussent les ailes d’un avion vers le bas ?",
+    "nl": "Wat duwen de vleugels van een vliegtuig naar beneden?"
+   },
+   "o": {
+    "en": [
+     "Clouds",
+     "Air",
+     "Rain"
+    ],
+    "fr": [
+     "Les nuages",
+     "L’air",
+     "La pluie"
+    ],
+    "nl": [
+     "Wolken",
+     "Lucht",
+     "Regen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What is the upward push on the wings called?",
+    "fr": "Comment s’appelle la poussée vers le haut sur les ailes ?",
+    "nl": "Hoe heet de duw omhoog op de vleugels?"
+   },
+   "o": {
+    "en": [
+     "Lift",
+     "Bounce",
+     "Wobble"
+    ],
+    "fr": [
+     "La portance",
+     "Le rebond",
+     "La bascule"
+    ],
+    "nl": [
+     "Opwaartse kracht",
+     "Stuiterkracht",
+     "Wiebelkracht"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What do the engines do?",
+    "fr": "À quoi servent les moteurs ?",
+    "nl": "Wat doen de motoren?"
+   },
+   "o": {
+    "en": [
+     "They make the wings flap",
+     "They keep the passengers warm",
+     "They push the plane forward"
+    ],
+    "fr": [
+     "Ils font battre les ailes",
+     "Ils réchauffent les passagers",
+     "Ils poussent l’avion vers l’avant"
+    ],
+    "nl": [
+     "Ze laten de vleugels klapperen",
+     "Ze houden de passagiers warm",
+     "Ze duwen het vliegtuig vooruit"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What was Whyzz’s silly guess?",
+    "fr": "Quelle était l’idée rigolote de Whyzz ?",
+    "nl": "Wat was de grappige gok van Whyzz?"
+   },
+   "o": {
+    "en": [
+     "The pilot sings very loudly",
+     "The passengers flap their arms",
+     "The plane is full of balloons"
+    ],
+    "fr": [
+     "Le pilote chante très fort",
+     "Les passagers battent des bras",
+     "L’avion est rempli de ballons"
+    ],
+    "nl": [
+     "De piloot zingt heel luid",
+     "De passagiers fladderen met hun armen",
+     "Het vliegtuig zit vol ballonnen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What do big airplane wings do in flight?",
+    "fr": "Que font les ailes des grands avions en vol ?",
+    "nl": "Wat doen de vleugels van grote vliegtuigen tijdens de vlucht?"
+   },
+   "o": {
+    "en": [
+     "They bend up a little",
+     "They fold up like a fan",
+     "They spin around"
+    ],
+    "fr": [
+     "Elles se plient un peu vers le haut",
+     "Elles se replient comme un éventail",
+     "Elles tournent sur elles-mêmes"
+    ],
+    "nl": [
+     "Ze buigen een beetje omhoog",
+     "Ze vouwen op als een waaier",
+     "Ze draaien rond"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "What helps a plane fly?",
+   "fr": "Qu’est-ce qui aide un avion à voler ?",
+   "nl": "Wat helpt een vliegtuig vliegen?"
+  },
+  "intro": {
+   "en": "Tap everything that really helps an airplane fly!",
+   "fr": "Touche tout ce qui aide vraiment un avion à voler !",
+   "nl": "Tik alles aan wat een vliegtuig echt helpt vliegen!"
+  },
+  "done": {
+   "en": "Ready for takeoff! You found all the real helpers.",
+   "fr": "Prêt pour le décollage ! Tu as trouvé toutes les vraies aides.",
+   "nl": "Klaar voor vertrek! Je hebt alle echte helpers gevonden."
+  },
+  "items": {
+   "en": [
+    "Curved, tilted wings",
+    "Strong engines",
+    "Lots of speed on the runway",
+    "Passengers flapping their arms",
+    "A tail that keeps it steady",
+    "Balloons tied to the roof",
+    "The pilot’s lucky socks"
+   ],
+   "fr": [
+    "Des ailes courbées et inclinées",
+    "Des moteurs puissants",
+    "Beaucoup de vitesse sur la piste",
+    "Des passagers qui battent des bras",
+    "Une queue qui le garde stable",
+    "Des ballons attachés sur le toit",
+    "Les chaussettes porte-bonheur du pilote"
+   ],
+   "nl": [
+    "Gebogen, schuine vleugels",
+    "Sterke motoren",
+    "Veel snelheid op de startbaan",
+    "Passagiers die met hun armen fladderen",
+    "Een staart die het stabiel houdt",
+    "Ballonnen op het dak",
+    "De gelukssokken van de piloot"
+   ]
+  },
+  "good": [
+   0,
+   1,
+   2,
+   4
+  ]
+ }
+}

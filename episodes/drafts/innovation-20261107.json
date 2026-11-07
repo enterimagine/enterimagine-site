@@ -1,0 +1,239 @@
+{
+ "id": "innovation-20261107",
+ "world": "innovation",
+ "guide": "Whyzz",
+ "title": {
+  "en": "What can inventors learn from nature?",
+  "fr": "Qu’est-ce que les inventeurs apprennent de la nature ?",
+  "nl": "Wat kunnen uitvinders leren van de natuur?"
+ },
+ "scenes": [
+  {
+   "speaker": "Pixel",
+   "en": "Whyzz, after our walk in the woods your socks are covered in prickly little balls! Why do they stick so well?",
+   "fr": "Whyzz, après notre balade dans les bois, tes chaussettes sont couvertes de petites boules piquantes ! Pourquoi est-ce qu’elles collent si bien ?",
+   "nl": "Whyzz, na onze wandeling in het bos zitten je sokken vol stekelige bolletjes! Waarom blijven die zo goed plakken?",
+   "img": "Pixel laughs at Whyzz's socks covered in burrs on a forest path"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Maybe they just love my socks? I mean, they are pretty awesome socks!",
+   "fr": "Peut-être qu’elles adorent mes chaussettes ? Faut dire qu’elles sont plutôt géniales, mes chaussettes !",
+   "nl": "Misschien zijn ze gewoon dol op mijn sokken? Het zijn wel echt toffe sokken, hoor!",
+   "img": "Whyzz proudly poses showing off his burr-covered socks"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "These are burrs: seed balls covered in tiny hooks that grab fur and fabric. An inventor once looked at them under a microscope and created the hook-and-loop strips on your shoes!",
+   "fr": "Ce sont des bardanes : des boules de graines couvertes de minuscules crochets qui s’accrochent aux poils et aux tissus. Un inventeur les a regardées au microscope et a inventé les bandes auto-agrippantes de tes chaussures !",
+   "nl": "Dat zijn klitten: zaadbolletjes vol piepkleine haakjes die in vacht en stof blijven hangen. Een uitvinder bekeek ze onder een microscoop en bedacht zo het klittenband op je schoenen!",
+   "img": "Whyzz at a microscope, a magnified bubble shows tiny hooks grabbing loops"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "So nature gave him the idea! Do inventors copy other animals and plants too?",
+   "fr": "Donc c’est la nature qui lui a donné l’idée ! Les inventeurs copient aussi d’autres animaux et d’autres plantes ?",
+   "nl": "Dus de natuur gaf hem het idee! Kijken uitvinders ook af bij andere dieren en planten?",
+   "img": "Pixel holds up a sneaker with a hook-and-loop strap in a maker workshop"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "All the time! Did you know that a super-fast train got a pointy nose shaped like the beak of a diving bird, the kingfisher, so it zooms out of tunnels much more quietly?",
+   "fr": "Tout le temps ! Le savais-tu : un train ultra-rapide a reçu un long nez pointu en forme de bec de martin-pêcheur, un oiseau plongeur, pour sortir des tunnels beaucoup plus silencieusement !",
+   "nl": "De hele tijd! Wist je dat een supersnelle trein een spitse neus kreeg in de vorm van de snavel van een ijsvogel, een duikende vogel, zodat hij veel stiller uit tunnels raast?",
+   "img": "a sleek fast train with a pointy nose leaves a tunnel next to a diving kingfisher"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So nature is the best teacher for inventors: just look closely and ask why! Which animal or plant would you copy for your next invention?",
+   "fr": "La nature est donc la meilleure prof des inventeurs : il suffit de bien regarder et de se demander pourquoi ! Et toi, quel animal ou quelle plante copierais-tu pour ta prochaine invention ?",
+   "nl": "De natuur is dus de beste leraar voor uitvinders: kijk gewoon goed en vraag je af waarom! Welk dier of welke plant zou jij nadoen voor je volgende uitvinding?",
+   "img": "Whyzz and Pixel build a funny cardboard invention with bird wings in a garden"
+  }
+ ],
+ "prompts": [
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs and points at the socks of Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge, his socks are covered with many small brown prickly burrs, sunny autumn forest path with golden leaves. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge strikes a proud funny pose and shows off his socks covered in small brown prickly burrs, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge giggles next to him, sunny forest clearing. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks into a big friendly microscope on a workbench, a large round magnified bubble floats above it showing tiny curved hooks of a burr grabbing soft fabric loops, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge watches with interest, cozy maker workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge happily holds up a sneaker with a hook-and-loop strap in a colorful maker workshop full of plants, feathers and leaves on the shelves, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge nods with a big smile. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge cheer on a green hill as a sleek white high-speed train with a long pointy nose speeds out of a tunnel, next to it a blue-and-orange kingfisher bird dives with its long pointed beak, sunny countryside. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge build a funny cardboard flying machine with big bird-like wings in a sunny garden, butterflies and flowers around them, both laughing. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What do burrs have on them?",
+    "fr": "Qu’est-ce qu’il y a sur les bardanes ?",
+    "nl": "Wat zit er op klitten?"
+   },
+   "o": {
+    "en": [
+     "Tiny hooks",
+     "Tiny wheels",
+     "Tiny feathers"
+    ],
+    "fr": [
+     "De minuscules crochets",
+     "De minuscules roues",
+     "De minuscules plumes"
+    ],
+    "nl": [
+     "Piepkleine haakjes",
+     "Piepkleine wieltjes",
+     "Piepkleine veertjes"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Which invention came from burrs?",
+    "fr": "Quelle invention vient des bardanes ?",
+    "nl": "Welke uitvinding komt van klitten?"
+   },
+   "o": {
+    "en": [
+     "The zipper",
+     "Hook-and-loop strips",
+     "The rubber band"
+    ],
+    "fr": [
+     "La fermeture éclair",
+     "Les bandes auto-agrippantes",
+     "L’élastique"
+    ],
+    "nl": [
+     "De rits",
+     "Klittenband",
+     "Het elastiekje"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What did the inventor use to look closely at the burrs?",
+    "fr": "Qu’a utilisé l’inventeur pour observer les bardanes de près ?",
+    "nl": "Waarmee bekeek de uitvinder de klitten van dichtbij?"
+   },
+   "o": {
+    "en": [
+     "A telescope",
+     "A mirror",
+     "A microscope"
+    ],
+    "fr": [
+     "Un télescope",
+     "Un miroir",
+     "Un microscope"
+    ],
+    "nl": [
+     "Een telescoop",
+     "Een spiegel",
+     "Een microscoop"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Which bird’s beak gave a fast train its nose?",
+    "fr": "Le bec de quel oiseau a donné son nez à un train rapide ?",
+    "nl": "Van welke vogel kreeg een snelle trein zijn neus?"
+   },
+   "o": {
+    "en": [
+     "The kingfisher",
+     "The parrot",
+     "The penguin"
+    ],
+    "fr": [
+     "Le martin-pêcheur",
+     "Le perroquet",
+     "Le manchot"
+    ],
+    "nl": [
+     "De ijsvogel",
+     "De papegaai",
+     "De pinguïn"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why did the train get its new nose?",
+    "fr": "Pourquoi le train a-t-il reçu un nouveau nez ?",
+    "nl": "Waarom kreeg de trein een nieuwe neus?"
+   },
+   "o": {
+    "en": [
+     "To look funny",
+     "To be quieter coming out of tunnels",
+     "To carry more bags"
+    ],
+    "fr": [
+     "Pour avoir l’air rigolo",
+     "Pour sortir des tunnels plus silencieusement",
+     "Pour transporter plus de valises"
+    ],
+    "nl": [
+     "Om er grappig uit te zien",
+     "Om stiller uit tunnels te komen",
+     "Om meer koffers te vervoeren"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Copied from nature?",
+   "fr": "Copié sur la nature ?",
+   "nl": "Afgekeken van de natuur?"
+  },
+  "intro": {
+   "en": "Tap the inventions that got their idea from animals or plants!",
+   "fr": "Touche les inventions qui ont pris leur idée chez les animaux ou les plantes !",
+   "nl": "Tik de uitvindingen aan die hun idee van dieren of planten kregen!"
+  },
+  "done": {
+   "en": "Great eye! Nature really is a super inventor.",
+   "fr": "Bien vu ! La nature est vraiment une super inventrice.",
+   "nl": "Goed gezien! De natuur is echt een super-uitvinder."
+  },
+  "items": {
+   "en": [
+    "Hook-and-loop strips (burrs)",
+    "Pointy fast-train nose (kingfisher beak)",
+    "Board game dice",
+    "Sticky climbing pads (gecko feet)",
+    "Airplane wings (bird wings)",
+    "Pizza"
+   ],
+   "fr": [
+    "Bandes auto-agrippantes (bardanes)",
+    "Nez pointu du train rapide (bec du martin-pêcheur)",
+    "Dés de jeu de société",
+    "Patins collants d’escalade (pattes du gecko)",
+    "Ailes d’avion (ailes d’oiseau)",
+    "Pizza"
+   ],
+   "nl": [
+    "Klittenband (klitten)",
+    "Spitse neus van de snelle trein (ijsvogelsnavel)",
+    "Dobbelstenen van een bordspel",
+    "Plakkerige klimkussentjes (gekkopootjes)",
+    "Vliegtuigvleugels (vogelvleugels)",
+    "Pizza"
+   ]
+  },
+  "good": [
+   0,
+   1,
+   3,
+   4
+  ]
+ }
+}
