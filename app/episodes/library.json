@@ -1463,7 +1463,7 @@
     "nl": "Voor volwassenen: de wereld Ruimte in het IMAGINE Scientific Universe"
    },
    "added": "2026-11-07",
-   "voice": false
+   "voice": true
   },
   {
    "id": "mobility-20261107",
@@ -1709,7 +1709,7 @@
     "nl": "Voor volwassenen: de wereld Slimme mobiliteit in het IMAGINE Scientific Universe"
    },
    "added": "2026-11-07",
-   "voice": false
+   "voice": true
   },
   {
    "id": "cities-20261107",
@@ -1960,7 +1960,7 @@
     "nl": "Voor volwassenen: de wereld Slimme steden in het IMAGINE Scientific Universe"
    },
    "added": "2026-11-07",
-   "voice": false
+   "voice": true
   },
   {
    "id": "innovation-20261107",
@@ -2203,7 +2203,7 @@
     "nl": "Voor volwassenen: de wereld Innovatie in het IMAGINE Scientific Universe"
    },
    "added": "2026-11-07",
-   "voice": false
+   "voice": true
   }
  ]
 }
