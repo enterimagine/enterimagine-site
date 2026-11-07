@@ -1227,6 +1227,983 @@
    },
    "added": "2026-11-06",
    "voice": true
+  },
+  {
+   "id": "space-20261107",
+   "world": "space",
+   "guide": "Qubi",
+   "title": {
+    "en": "Why does the Moon change shape?",
+    "fr": "Pourquoi la Lune change-t-elle de forme ?",
+    "nl": "Waarom verandert de maan van vorm?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, last week the Moon was a big round ball but tonight it looks like a banana! Does it really change shape?",
+     "fr": "Qubi, la semaine dernière, la Lune était toute ronde, mais ce soir elle ressemble à une banane ! Est-ce qu’elle change vraiment de forme ?",
+     "nl": "Qubi, vorige week was de maan een grote ronde bal, maar vanavond lijkt ze op een banaan! Verandert ze echt van vorm?",
+     "img": "Whyzz and Qubi in a backyard at night looking up at a banana-shaped crescent Moon"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "The Moon is always a round ball. It doesn’t make its own light: the Sun shines on it, like a flashlight on a ball in a dark room.",
+     "fr": "La Lune est toujours une boule ronde. Elle ne fait pas sa propre lumière : le Soleil l’éclaire, comme une lampe de poche sur un ballon dans une pièce sombre.",
+     "nl": "De maan is altijd een ronde bal. Ze maakt zelf geen licht: de zon schijnt erop, zoals een zaklamp op een bal in een donkere kamer.",
+     "img": "Qubi shines a flashlight on a white ball in a dark room, half of it lit"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Oh, I know! Somebody is taking bites out of it, like a giant space cookie!",
+     "fr": "Ah, je sais ! Quelqu’un la croque petit à petit, comme un biscuit géant de l’espace !",
+     "nl": "O, ik weet het! Iemand neemt er hapjes uit, zoals uit een reuzenkoekje in de ruimte!",
+     "img": "Whyzz imagines a giant cookie Moon with bite marks floating in space"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "No bites, Whyzz: the Sun always lights up half of the Moon! As the Moon circles Earth in about a month, we see more or less of that bright half.",
+     "fr": "Personne ne la croque, Whyzz : le Soleil éclaire toujours une moitié de la Lune ! Comme la Lune tourne autour de la Terre en un mois environ, on voit plus ou moins de cette moitié éclairée.",
+     "nl": "Niemand eet ervan, Whyzz: de zon verlicht altijd de helft van de maan! Terwijl de maan in ongeveer een maand rond de aarde draait, zien we meer of minder van die lichte helft.",
+     "img": "Qubi and Whyzz with a lamp, a small globe and a white ball Moon moving around it"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "After the dark new Moon, it grows from a thin sliver to a half Moon to a full Moon, then shrinks back again. Did you know that the Moon drifts away from Earth by about 4 centimeters every year?",
+     "fr": "Après la nouvelle lune, toute sombre, elle grandit : un fin croissant, une demi-lune, puis la pleine lune, et ensuite elle diminue. Le savais-tu : la Lune s’éloigne de la Terre d’environ 4 centimètres chaque année !",
+     "nl": "Na de donkere nieuwe maan groeit ze: een dun sikkeltje, een halve maan en dan de volle maan, daarna krimpt ze weer. Wist je dat de maan elk jaar ongeveer 4 centimeter verder van de aarde weg schuift?",
+     "img": "Qubi in a planetarium points at a row of glowing Moon shapes from crescent to full"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So the Moon never really changes shape: we just see different parts of its sunny side! If you could visit the Moon, what would you do first?",
+     "fr": "Donc la Lune ne change jamais vraiment de forme : on voit juste différentes parties de son côté ensoleillé ! Si tu pouvais aller sur la Lune, que ferais-tu en premier ?",
+     "nl": "Dus de maan verandert nooit echt van vorm: we zien gewoon andere stukken van haar zonnige kant! Als jij naar de maan kon, wat zou je dan als eerste doen?",
+     "img": "Whyzz and Qubi in spacesuits jumping happily on the Moon with Earth in the sky"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Does the Moon make its own light?",
+      "fr": "La Lune fait-elle sa propre lumière ?",
+      "nl": "Maakt de maan zelf licht?"
+     },
+     "o": {
+      "en": [
+       "No, the Sun lights it up",
+       "Yes, like a lamp",
+       "Only on weekends"
+      ],
+      "fr": [
+       "Non, le Soleil l’éclaire",
+       "Oui, comme une lampe",
+       "Seulement le week-end"
+      ],
+      "nl": [
+       "Nee, de zon verlicht haar",
+       "Ja, zoals een lamp",
+       "Alleen in het weekend"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "How much of the Moon does the Sun always light up?",
+      "fr": "Quelle partie de la Lune le Soleil éclaire-t-il toujours ?",
+      "nl": "Hoeveel van de maan verlicht de zon altijd?"
+     },
+     "o": {
+      "en": [
+       "All of it",
+       "Half of it",
+       "None of it"
+      ],
+      "fr": [
+       "Toute la Lune",
+       "La moitié",
+       "Rien du tout"
+      ],
+      "nl": [
+       "Alles",
+       "De helft",
+       "Niets"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "About how long does the Moon take to circle Earth?",
+      "fr": "Combien de temps faut-il à la Lune pour faire le tour de la Terre ?",
+      "nl": "Hoelang doet de maan erover om rond de aarde te draaien?"
+     },
+     "o": {
+      "en": [
+       "One day",
+       "One year",
+       "About a month"
+      ],
+      "fr": [
+       "Un jour",
+       "Un an",
+       "Un mois environ"
+      ],
+      "nl": [
+       "Eén dag",
+       "Eén jaar",
+       "Ongeveer een maand"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What comes right after the dark new Moon?",
+      "fr": "Qu’est-ce qui vient juste après la nouvelle lune toute sombre ?",
+      "nl": "Wat komt er meteen na de donkere nieuwe maan?"
+     },
+     "o": {
+      "en": [
+       "A full Moon",
+       "A thin sliver",
+       "A square Moon"
+      ],
+      "fr": [
+       "La pleine lune",
+       "Un fin croissant",
+       "Une lune carrée"
+      ],
+      "nl": [
+       "Een volle maan",
+       "Een dun sikkeltje",
+       "Een vierkante maan"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What is the Moon slowly doing every year?",
+      "fr": "Que fait la Lune, tout doucement, chaque année ?",
+      "nl": "Wat doet de maan elk jaar heel langzaam?"
+     },
+     "o": {
+      "en": [
+       "Drifting away from Earth",
+       "Getting bigger",
+       "Turning blue"
+      ],
+      "fr": [
+       "Elle s’éloigne de la Terre",
+       "Elle grossit",
+       "Elle devient bleue"
+      ],
+      "nl": [
+       "Ze schuift weg van de aarde",
+       "Ze wordt groter",
+       "Ze wordt blauw"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "The Moon’s monthly show",
+     "fr": "Le spectacle mensuel de la Lune",
+     "nl": "De maandshow van de maan"
+    },
+    "intro": {
+     "en": "Put the Moon’s shapes in the right order, starting with the new Moon!",
+     "fr": "Remets les formes de la Lune dans le bon ordre, en commençant par la nouvelle lune !",
+     "nl": "Zet de vormen van de maan in de juiste volgorde, te beginnen met de nieuwe maan!"
+    },
+    "done": {
+     "en": "Great job! You followed the Moon through a whole month.",
+     "fr": "Bravo ! Tu as suivi la Lune pendant tout un mois.",
+     "nl": "Goed gedaan! Je hebt de maan een hele maand gevolgd."
+    },
+    "items": {
+     "en": [
+      "Dark new Moon",
+      "Thin growing sliver",
+      "Half Moon",
+      "Round full Moon",
+      "Half Moon again",
+      "Thin shrinking sliver"
+     ],
+     "fr": [
+      "Nouvelle lune toute sombre",
+      "Fin croissant qui grandit",
+      "Demi-lune",
+      "Pleine lune bien ronde",
+      "Demi-lune à nouveau",
+      "Fin croissant qui diminue"
+     ],
+     "nl": [
+      "Donkere nieuwe maan",
+      "Dun groeiend sikkeltje",
+      "Halve maan",
+      "Ronde volle maan",
+      "Weer een halve maan",
+      "Dun krimpend sikkeltje"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Space",
+    "fr": "Espace",
+    "nl": "Ruimte"
+   },
+   "adult": {
+    "en": "For grown-ups: the Space world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Espace dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Ruimte in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-07",
+   "voice": false
+  },
+  {
+   "id": "mobility-20261107",
+   "world": "mobility",
+   "guide": "Sunny",
+   "title": {
+    "en": "How can a heavy airplane fly?",
+    "fr": "Comment un avion si lourd peut-il voler ?",
+    "nl": "Hoe kan een zwaar vliegtuig vliegen?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, a big airplane is heavier than lots of elephants! So how does it stay up in the sky?",
+     "fr": "Sunny, un gros avion est plus lourd que plein d’éléphants ! Alors comment fait-il pour rester dans le ciel ?",
+     "nl": "Sunny, een groot vliegtuig is zwaarder dan een heleboel olifanten! Hoe blijft het dan in de lucht?",
+     "img": "Whyzz and Sunny at a big airport window watching a jet take off"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Wait, I know! The passengers all flap their arms really fast, right?",
+     "fr": "Attends, je sais ! Tous les passagers battent des bras super vite, c’est ça ?",
+     "nl": "Wacht, ik weet het! Alle passagiers fladderen supersnel met hun armen, toch?",
+     "img": "Whyzz flaps his arms like a bird in an airplane cabin while Sunny laughs"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Nice try! The secret is the wings: they are curved and tilted a little, so they push lots of air down as the plane zooms forward.",
+     "fr": "Bien essayé ! Le secret, ce sont les ailes : elles sont courbées et un peu inclinées, alors elles poussent beaucoup d’air vers le bas quand l’avion fonce en avant.",
+     "nl": "Goed geprobeerd! Het geheim zit in de vleugels: ze zijn gebogen en een beetje schuin, dus duwen ze veel lucht naar beneden als het vliegtuig vooruit raast.",
+     "img": "Sunny points at a model wing in a wind tunnel with swirly air flowing down behind it"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "When the wings push air down, the air pushes the wings up. We call that push lift, just like water pushes you up when you press it down while swimming.",
+     "fr": "Quand les ailes poussent l’air vers le bas, l’air pousse les ailes vers le haut. Cette poussée s’appelle la portance, un peu comme l’eau qui te soulève quand tu appuies dessus en nageant.",
+     "nl": "Als de vleugels lucht naar beneden duwen, duwt de lucht de vleugels omhoog. Die duw heet opwaartse kracht, net zoals water je omhoog duwt als je het naar beneden drukt tijdens het zwemmen.",
+     "img": "Whyzz and Sunny in a swimming pool pressing water down and rising up"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "The engines push the plane forward fast enough for the wings to make lots of lift. Did you know that big airplane wings are built to bend up a little in flight, like a diving board?",
+     "fr": "Les moteurs poussent l’avion vers l’avant, assez vite pour que les ailes fassent beaucoup de portance. Le savais-tu : les ailes des grands avions sont faites pour se plier un peu vers le haut en vol, comme un plongeoir !",
+     "nl": "De motoren duwen het vliegtuig vooruit, snel genoeg zodat de vleugels veel opwaartse kracht maken. Wist je dat de vleugels van grote vliegtuigen tijdens de vlucht een beetje omhoog buigen, net als een duikplank?",
+     "img": "Whyzz and Sunny look out of an airplane window at a wing bending up above the clouds"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So wings push air down, engines push forward and up we go, no arm flapping needed! If you could fly anywhere, where would you go?",
+     "fr": "Donc les ailes poussent l’air vers le bas, les moteurs poussent vers l’avant, et hop, on décolle sans battre des bras ! Et toi, si tu pouvais t’envoler n’importe où, où irais-tu ?",
+     "nl": "Dus de vleugels duwen lucht omlaag, de motoren duwen vooruit en hup, we vliegen, zonder armgefladder! Als jij overal naartoe kon vliegen, waar zou je dan heen gaan?",
+     "img": "Whyzz and Sunny run with their arms out like airplanes in a park with paper planes"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What do airplane wings push down?",
+      "fr": "Que poussent les ailes d’un avion vers le bas ?",
+      "nl": "Wat duwen de vleugels van een vliegtuig naar beneden?"
+     },
+     "o": {
+      "en": [
+       "Clouds",
+       "Air",
+       "Rain"
+      ],
+      "fr": [
+       "Les nuages",
+       "L’air",
+       "La pluie"
+      ],
+      "nl": [
+       "Wolken",
+       "Lucht",
+       "Regen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What is the upward push on the wings called?",
+      "fr": "Comment s’appelle la poussée vers le haut sur les ailes ?",
+      "nl": "Hoe heet de duw omhoog op de vleugels?"
+     },
+     "o": {
+      "en": [
+       "Lift",
+       "Bounce",
+       "Wobble"
+      ],
+      "fr": [
+       "La portance",
+       "Le rebond",
+       "La bascule"
+      ],
+      "nl": [
+       "Opwaartse kracht",
+       "Stuiterkracht",
+       "Wiebelkracht"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What do the engines do?",
+      "fr": "À quoi servent les moteurs ?",
+      "nl": "Wat doen de motoren?"
+     },
+     "o": {
+      "en": [
+       "They make the wings flap",
+       "They keep the passengers warm",
+       "They push the plane forward"
+      ],
+      "fr": [
+       "Ils font battre les ailes",
+       "Ils réchauffent les passagers",
+       "Ils poussent l’avion vers l’avant"
+      ],
+      "nl": [
+       "Ze laten de vleugels klapperen",
+       "Ze houden de passagiers warm",
+       "Ze duwen het vliegtuig vooruit"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What was Whyzz’s silly guess?",
+      "fr": "Quelle était l’idée rigolote de Whyzz ?",
+      "nl": "Wat was de grappige gok van Whyzz?"
+     },
+     "o": {
+      "en": [
+       "The pilot sings very loudly",
+       "The passengers flap their arms",
+       "The plane is full of balloons"
+      ],
+      "fr": [
+       "Le pilote chante très fort",
+       "Les passagers battent des bras",
+       "L’avion est rempli de ballons"
+      ],
+      "nl": [
+       "De piloot zingt heel luid",
+       "De passagiers fladderen met hun armen",
+       "Het vliegtuig zit vol ballonnen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What do big airplane wings do in flight?",
+      "fr": "Que font les ailes des grands avions en vol ?",
+      "nl": "Wat doen de vleugels van grote vliegtuigen tijdens de vlucht?"
+     },
+     "o": {
+      "en": [
+       "They bend up a little",
+       "They fold up like a fan",
+       "They spin around"
+      ],
+      "fr": [
+       "Elles se plient un peu vers le haut",
+       "Elles se replient comme un éventail",
+       "Elles tournent sur elles-mêmes"
+      ],
+      "nl": [
+       "Ze buigen een beetje omhoog",
+       "Ze vouwen op als een waaier",
+       "Ze draaien rond"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "What helps a plane fly?",
+     "fr": "Qu’est-ce qui aide un avion à voler ?",
+     "nl": "Wat helpt een vliegtuig vliegen?"
+    },
+    "intro": {
+     "en": "Tap everything that really helps an airplane fly!",
+     "fr": "Touche tout ce qui aide vraiment un avion à voler !",
+     "nl": "Tik alles aan wat een vliegtuig echt helpt vliegen!"
+    },
+    "done": {
+     "en": "Ready for takeoff! You found all the real helpers.",
+     "fr": "Prêt pour le décollage ! Tu as trouvé toutes les vraies aides.",
+     "nl": "Klaar voor vertrek! Je hebt alle echte helpers gevonden."
+    },
+    "items": {
+     "en": [
+      "Curved, tilted wings",
+      "Strong engines",
+      "Lots of speed on the runway",
+      "Passengers flapping their arms",
+      "A tail that keeps it steady",
+      "Balloons tied to the roof",
+      "The pilot’s lucky socks"
+     ],
+     "fr": [
+      "Des ailes courbées et inclinées",
+      "Des moteurs puissants",
+      "Beaucoup de vitesse sur la piste",
+      "Des passagers qui battent des bras",
+      "Une queue qui le garde stable",
+      "Des ballons attachés sur le toit",
+      "Les chaussettes porte-bonheur du pilote"
+     ],
+     "nl": [
+      "Gebogen, schuine vleugels",
+      "Sterke motoren",
+      "Veel snelheid op de startbaan",
+      "Passagiers die met hun armen fladderen",
+      "Een staart die het stabiel houdt",
+      "Ballonnen op het dak",
+      "De gelukssokken van de piloot"
+     ]
+    },
+    "good": [
+     0,
+     1,
+     2,
+     4
+    ]
+   },
+   "worldName": {
+    "en": "Smart Mobility",
+    "fr": "Mobilité",
+    "nl": "Slimme mobiliteit"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Mobility world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Mobilité dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme mobiliteit in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-07",
+   "voice": false
+  },
+  {
+   "id": "cities-20261107",
+   "world": "cities",
+   "guide": "Pixel",
+   "title": {
+    "en": "How do trees cool down a hot street?",
+    "fr": "Comment les arbres rafraîchissent-ils une rue brûlante ?",
+    "nl": "Hoe koelen bomen een hete straat af?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, this sidewalk is so hot I could almost fry an egg on it! So why does it feel much cooler under this tree?",
+     "fr": "Pixel, ce trottoir est tellement chaud qu’on pourrait presque y cuire un œuf ! Alors pourquoi fait-il bien plus frais sous cet arbre ?",
+     "nl": "Pixel, deze stoep is zo heet dat je er bijna een ei op kunt bakken! Waarom is het dan veel koeler onder deze boom?",
+     "img": "Whyzz on a hot sunny sidewalk, Pixel waving from the shade of a big tree"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "First, a tree is a giant umbrella. Its leaves catch the sunshine before it can heat up the ground and the walls.",
+     "fr": "D’abord, un arbre est un parasol géant. Ses feuilles attrapent les rayons du soleil avant qu’ils ne chauffent le sol et les murs.",
+     "nl": "Ten eerste is een boom een reuzenparasol. Zijn bladeren vangen het zonlicht op voordat het de grond en de muren kan opwarmen.",
+     "img": "Pixel and Whyzz in the cool shade under a huge leafy tree"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Ooh, I bet trees hide tiny air conditioners in their branches!",
+     "fr": "Oh, je parie que les arbres cachent des mini-climatiseurs dans leurs branches !",
+     "nl": "O, ik wed dat bomen kleine airco’s in hun takken verstoppen!",
+     "img": "Whyzz imagines little air conditioner boxes hanging in a tree like fruit"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Kind of! Leaves let out water through tiny holes, which cools the air just like sweat cools your skin.",
+     "fr": "Un peu, oui ! Les feuilles laissent sortir de l’eau par de minuscules trous, ce qui rafraîchit l’air, comme la transpiration rafraîchit ta peau.",
+     "nl": "Een beetje wel! Bladeren laten water los door piepkleine gaatjes en dat koelt de lucht af, net zoals zweet je huid afkoelt.",
+     "img": "close-up of a leaf with tiny holes letting out sparkly water vapor"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Dark roads and roofs soak up heat, so cities can get much hotter than the countryside. Did you know that ground in a tree’s shade can be more than 10 degrees Celsius cooler than ground in full sun?",
+     "fr": "Les routes et les toits sombres absorbent la chaleur, alors les villes chauffent bien plus que la campagne. Le savais-tu : à l’ombre d’un arbre, le sol peut être plus de 10 degrés plus frais qu’en plein soleil !",
+     "nl": "Donkere wegen en daken nemen veel warmte op, dus steden kunnen veel heter worden dan het platteland. Wist je dat de grond in de schaduw van een boom meer dan 10 graden koeler kan zijn dan in de volle zon?",
+     "img": "a city street half dark hot asphalt, half shady tree-lined, Pixel explaining"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So trees are shady umbrellas and leafy coolers in one! If you could plant a tree anywhere in your town, where would you put it?",
+     "fr": "Donc les arbres sont à la fois des parasols et des rafraîchisseurs à feuilles ! Si tu pouvais planter un arbre n’importe où dans ta ville, où le mettrais-tu ?",
+     "nl": "Dus bomen zijn parasols en bladerkoelers in één! Als jij ergens in je stad een boom mocht planten, waar zou je hem zetten?",
+     "img": "Whyzz and Pixel plant a young tree in a city square"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What do tree leaves catch before it heats the ground?",
+      "fr": "Qu’est-ce que les feuilles attrapent avant que ça ne chauffe le sol ?",
+      "nl": "Wat vangen de bladeren op voordat het de grond opwarmt?"
+     },
+     "o": {
+      "en": [
+       "Rain",
+       "Sunshine",
+       "Wind"
+      ],
+      "fr": [
+       "La pluie",
+       "Les rayons du soleil",
+       "Le vent"
+      ],
+      "nl": [
+       "Regen",
+       "Zonlicht",
+       "Wind"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What comes out of the tiny holes in leaves?",
+      "fr": "Qu’est-ce qui sort des minuscules trous des feuilles ?",
+      "nl": "Wat komt er uit de piepkleine gaatjes in bladeren?"
+     },
+     "o": {
+      "en": [
+       "Water",
+       "Sand",
+       "Soap bubbles"
+      ],
+      "fr": [
+       "De l’eau",
+       "Du sable",
+       "Des bulles de savon"
+      ],
+      "nl": [
+       "Water",
+       "Zand",
+       "Zeepbellen"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Leaves cool the air just like…",
+      "fr": "Les feuilles rafraîchissent l’air comme…",
+      "nl": "Bladeren koelen de lucht af, net zoals…"
+     },
+     "o": {
+      "en": [
+       "a hair dryer",
+       "a warm blanket",
+       "sweat cools your skin"
+      ],
+      "fr": [
+       "un sèche-cheveux",
+       "une couverture chaude",
+       "la transpiration rafraîchit ta peau"
+      ],
+      "nl": [
+       "een haardroger",
+       "een warme deken",
+       "zweet je huid afkoelt"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Why can cities get hotter than the countryside?",
+      "fr": "Pourquoi les villes peuvent-elles être plus chaudes que la campagne ?",
+      "nl": "Waarom kunnen steden heter worden dan het platteland?"
+     },
+     "o": {
+      "en": [
+       "Dark roads and roofs soak up heat",
+       "Cities are closer to the Sun",
+       "People talk a lot"
+      ],
+      "fr": [
+       "Les routes et les toits sombres absorbent la chaleur",
+       "Les villes sont plus près du Soleil",
+       "Les gens parlent beaucoup"
+      ],
+      "nl": [
+       "Donkere wegen en daken nemen warmte op",
+       "Steden liggen dichter bij de zon",
+       "Mensen praten veel"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What was Whyzz’s silly guess?",
+      "fr": "Quelle était l’idée rigolote de Whyzz ?",
+      "nl": "Wat was de grappige gok van Whyzz?"
+     },
+     "o": {
+      "en": [
+       "Trees eat ice cream",
+       "Trees hide tiny air conditioners",
+       "Trees have fans for leaves"
+      ],
+      "fr": [
+       "Les arbres mangent de la glace",
+       "Les arbres cachent des mini-climatiseurs",
+       "Les arbres ont des ventilateurs comme feuilles"
+      ],
+      "nl": [
+       "Bomen eten ijsjes",
+       "Bomen verstoppen kleine airco’s",
+       "Bomen hebben ventilatoren als bladeren"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Cool city helpers",
+     "fr": "Les héros qui rafraîchissent la ville",
+     "nl": "Koele stadshelpers"
+    },
+    "intro": {
+     "en": "Match each helper to the way it keeps a city cool!",
+     "fr": "Associe chaque héros à sa façon de rafraîchir la ville !",
+     "nl": "Koppel elke helper aan de manier waarop hij de stad koel houdt!"
+    },
+    "done": {
+     "en": "Awesome! Your city just got cooler.",
+     "fr": "Génial ! Ta ville vient de se rafraîchir.",
+     "nl": "Super! Je stad is net wat koeler geworden."
+    },
+    "left": {
+     "en": [
+      "Tall tree",
+      "White roof",
+      "Garden on a roof",
+      "Splash fountain"
+     ],
+     "fr": [
+      "Grand arbre",
+      "Toit blanc",
+      "Jardin sur un toit",
+      "Fontaine à jets d’eau"
+     ],
+     "nl": [
+      "Hoge boom",
+      "Wit dak",
+      "Tuin op een dak",
+      "Spuitfontein"
+     ]
+    },
+    "right": {
+     "en": [
+      "Gives shade over the sidewalk",
+      "Bounces sunlight back to the sky",
+      "Plants keep the building below cooler",
+      "Tiny water drops cool the air"
+     ],
+     "fr": [
+      "Fait de l’ombre sur le trottoir",
+      "Renvoie la lumière du soleil vers le ciel",
+      "Les plantes gardent le bâtiment plus frais",
+      "De fines gouttes d’eau rafraîchissent l’air"
+     ],
+     "nl": [
+      "Geeft schaduw op de stoep",
+      "Kaatst zonlicht terug naar de lucht",
+      "Planten houden het gebouw eronder koeler",
+      "Kleine waterdruppels koelen de lucht af"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Smart Cities",
+    "fr": "Villes intelligentes",
+    "nl": "Slimme steden"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Cities world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Villes intelligentes dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme steden in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-07",
+   "voice": false
+  },
+  {
+   "id": "innovation-20261107",
+   "world": "innovation",
+   "guide": "Whyzz",
+   "title": {
+    "en": "What can inventors learn from nature?",
+    "fr": "Qu’est-ce que les inventeurs apprennent de la nature ?",
+    "nl": "Wat kunnen uitvinders leren van de natuur?"
+   },
+   "scenes": [
+    {
+     "speaker": "Pixel",
+     "en": "Whyzz, after our walk in the woods your socks are covered in prickly little balls! Why do they stick so well?",
+     "fr": "Whyzz, après notre balade dans les bois, tes chaussettes sont couvertes de petites boules piquantes ! Pourquoi est-ce qu’elles collent si bien ?",
+     "nl": "Whyzz, na onze wandeling in het bos zitten je sokken vol stekelige bolletjes! Waarom blijven die zo goed plakken?",
+     "img": "Pixel laughs at Whyzz's socks covered in burrs on a forest path"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Maybe they just love my socks? I mean, they are pretty awesome socks!",
+     "fr": "Peut-être qu’elles adorent mes chaussettes ? Faut dire qu’elles sont plutôt géniales, mes chaussettes !",
+     "nl": "Misschien zijn ze gewoon dol op mijn sokken? Het zijn wel echt toffe sokken, hoor!",
+     "img": "Whyzz proudly poses showing off his burr-covered socks"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "These are burrs: seed balls covered in tiny hooks that grab fur and fabric. An inventor once looked at them under a microscope and created the hook-and-loop strips on your shoes!",
+     "fr": "Ce sont des bardanes : des boules de graines couvertes de minuscules crochets qui s’accrochent aux poils et aux tissus. Un inventeur les a regardées au microscope et a inventé les bandes auto-agrippantes de tes chaussures !",
+     "nl": "Dat zijn klitten: zaadbolletjes vol piepkleine haakjes die in vacht en stof blijven hangen. Een uitvinder bekeek ze onder een microscoop en bedacht zo het klittenband op je schoenen!",
+     "img": "Whyzz at a microscope, a magnified bubble shows tiny hooks grabbing loops"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "So nature gave him the idea! Do inventors copy other animals and plants too?",
+     "fr": "Donc c’est la nature qui lui a donné l’idée ! Les inventeurs copient aussi d’autres animaux et d’autres plantes ?",
+     "nl": "Dus de natuur gaf hem het idee! Kijken uitvinders ook af bij andere dieren en planten?",
+     "img": "Pixel holds up a sneaker with a hook-and-loop strap in a maker workshop"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "All the time! Did you know that a super-fast train got a pointy nose shaped like the beak of a diving bird, the kingfisher, so it zooms out of tunnels much more quietly?",
+     "fr": "Tout le temps ! Le savais-tu : un train ultra-rapide a reçu un long nez pointu en forme de bec de martin-pêcheur, un oiseau plongeur, pour sortir des tunnels beaucoup plus silencieusement !",
+     "nl": "De hele tijd! Wist je dat een supersnelle trein een spitse neus kreeg in de vorm van de snavel van een ijsvogel, een duikende vogel, zodat hij veel stiller uit tunnels raast?",
+     "img": "a sleek fast train with a pointy nose leaves a tunnel next to a diving kingfisher"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So nature is the best teacher for inventors: just look closely and ask why! Which animal or plant would you copy for your next invention?",
+     "fr": "La nature est donc la meilleure prof des inventeurs : il suffit de bien regarder et de se demander pourquoi ! Et toi, quel animal ou quelle plante copierais-tu pour ta prochaine invention ?",
+     "nl": "De natuur is dus de beste leraar voor uitvinders: kijk gewoon goed en vraag je af waarom! Welk dier of welke plant zou jij nadoen voor je volgende uitvinding?",
+     "img": "Whyzz and Pixel build a funny cardboard invention with bird wings in a garden"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What do burrs have on them?",
+      "fr": "Qu’est-ce qu’il y a sur les bardanes ?",
+      "nl": "Wat zit er op klitten?"
+     },
+     "o": {
+      "en": [
+       "Tiny hooks",
+       "Tiny wheels",
+       "Tiny feathers"
+      ],
+      "fr": [
+       "De minuscules crochets",
+       "De minuscules roues",
+       "De minuscules plumes"
+      ],
+      "nl": [
+       "Piepkleine haakjes",
+       "Piepkleine wieltjes",
+       "Piepkleine veertjes"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Which invention came from burrs?",
+      "fr": "Quelle invention vient des bardanes ?",
+      "nl": "Welke uitvinding komt van klitten?"
+     },
+     "o": {
+      "en": [
+       "The zipper",
+       "Hook-and-loop strips",
+       "The rubber band"
+      ],
+      "fr": [
+       "La fermeture éclair",
+       "Les bandes auto-agrippantes",
+       "L’élastique"
+      ],
+      "nl": [
+       "De rits",
+       "Klittenband",
+       "Het elastiekje"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What did the inventor use to look closely at the burrs?",
+      "fr": "Qu’a utilisé l’inventeur pour observer les bardanes de près ?",
+      "nl": "Waarmee bekeek de uitvinder de klitten van dichtbij?"
+     },
+     "o": {
+      "en": [
+       "A telescope",
+       "A mirror",
+       "A microscope"
+      ],
+      "fr": [
+       "Un télescope",
+       "Un miroir",
+       "Un microscope"
+      ],
+      "nl": [
+       "Een telescoop",
+       "Een spiegel",
+       "Een microscoop"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Which bird’s beak gave a fast train its nose?",
+      "fr": "Le bec de quel oiseau a donné son nez à un train rapide ?",
+      "nl": "Van welke vogel kreeg een snelle trein zijn neus?"
+     },
+     "o": {
+      "en": [
+       "The kingfisher",
+       "The parrot",
+       "The penguin"
+      ],
+      "fr": [
+       "Le martin-pêcheur",
+       "Le perroquet",
+       "Le manchot"
+      ],
+      "nl": [
+       "De ijsvogel",
+       "De papegaai",
+       "De pinguïn"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why did the train get its new nose?",
+      "fr": "Pourquoi le train a-t-il reçu un nouveau nez ?",
+      "nl": "Waarom kreeg de trein een nieuwe neus?"
+     },
+     "o": {
+      "en": [
+       "To look funny",
+       "To be quieter coming out of tunnels",
+       "To carry more bags"
+      ],
+      "fr": [
+       "Pour avoir l’air rigolo",
+       "Pour sortir des tunnels plus silencieusement",
+       "Pour transporter plus de valises"
+      ],
+      "nl": [
+       "Om er grappig uit te zien",
+       "Om stiller uit tunnels te komen",
+       "Om meer koffers te vervoeren"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Copied from nature?",
+     "fr": "Copié sur la nature ?",
+     "nl": "Afgekeken van de natuur?"
+    },
+    "intro": {
+     "en": "Tap the inventions that got their idea from animals or plants!",
+     "fr": "Touche les inventions qui ont pris leur idée chez les animaux ou les plantes !",
+     "nl": "Tik de uitvindingen aan die hun idee van dieren of planten kregen!"
+    },
+    "done": {
+     "en": "Great eye! Nature really is a super inventor.",
+     "fr": "Bien vu ! La nature est vraiment une super inventrice.",
+     "nl": "Goed gezien! De natuur is echt een super-uitvinder."
+    },
+    "items": {
+     "en": [
+      "Hook-and-loop strips (burrs)",
+      "Pointy fast-train nose (kingfisher beak)",
+      "Board game dice",
+      "Sticky climbing pads (gecko feet)",
+      "Airplane wings (bird wings)",
+      "Pizza"
+     ],
+     "fr": [
+      "Bandes auto-agrippantes (bardanes)",
+      "Nez pointu du train rapide (bec du martin-pêcheur)",
+      "Dés de jeu de société",
+      "Patins collants d’escalade (pattes du gecko)",
+      "Ailes d’avion (ailes d’oiseau)",
+      "Pizza"
+     ],
+     "nl": [
+      "Klittenband (klitten)",
+      "Spitse neus van de snelle trein (ijsvogelsnavel)",
+      "Dobbelstenen van een bordspel",
+      "Plakkerige klimkussentjes (gekkopootjes)",
+      "Vliegtuigvleugels (vogelvleugels)",
+      "Pizza"
+     ]
+    },
+    "good": [
+     0,
+     1,
+     3,
+     4
+    ]
+   },
+   "worldName": {
+    "en": "Innovation",
+    "fr": "Innovation",
+    "nl": "Innovatie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Innovation world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Innovation dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Innovatie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-07",
+   "voice": false
   }
  ]
 }
