@@ -115,3 +115,35 @@ export function initializeModeration(root = document) {
   load(root);
 }
 if (typeof document !== 'undefined') initializeModeration();
+
+// Visit totals (anonymous counts only).
+const NAMES = { home: 'Home', minds: 'Minds', explore: 'Explore', episodes: 'Episodes', universe: 'Scientific Universe', 'collective-minds': 'Collective Minds', 'what-if': 'What If?', privacy: 'Privacy', legal: 'Legal', other: 'Other' };
+const dur = s => { s = Math.round(s || 0); return s < 60 ? s + ' s' : s < 3600 ? Math.floor(s / 60) + ' min ' + (s % 60) + ' s' : Math.floor(s / 3600) + ' h ' + Math.round((s % 3600) / 60) + ' min'; };
+const bars = (keys, val, label) => { const max = Math.max(1, ...keys.map(val)); return '<div class="stats-bars">' + keys.map(k => `<div class="stats-bar" title="${esc(label(k))}: ${val(k)}"><span style="height:${Math.max(2, Math.round(val(k) / max * 100))}px"></span><i>${esc(k.slice(-2))}</i></div>`).join('') + '</div>'; };
+const tableOf = (title, data, name, limit = 50) => {
+  const rows = Object.entries(data).sort((a, b) => b[1].views - a[1].views).slice(0, limit);
+  if (!rows.length) return '';
+  return `<h3>${esc(title)}</h3><table class="stats-table"><thead><tr><th scope="col">Name</th><th scope="col">Page views</th><th scope="col">Visits started</th><th scope="col">Average time</th></tr></thead><tbody>` +
+    rows.map(([k, r]) => `<tr><td>${esc(name(k))}</td><td>${r.views}</td><td>${r.visits}</td><td>${dur(r.timed ? r.seconds / r.timed : 0)}</td></tr>`).join('') + '</tbody></table>';
+};
+const pageName = k => { const [kind, slug] = k.split(':'); return slug ? ({ mind: 'Mind', technology: 'Technology', episode: 'Episode', article: 'Article' }[kind] || kind) + ': ' + slug.replace(/-/g, ' ') : (NAMES[k] || k); };
+async function loadStats(days) {
+  const out = document.querySelector('[data-stats]');
+  if (!out) return;
+  for (const b of document.querySelectorAll('[data-stats-range] button')) b.className = 'button' + (b.dataset.days === String(days) ? '' : ' cm-button-quiet');
+  try {
+    const res = await fetch('/api/moderation/stats?days=' + days, { cache: 'no-store' });
+    const d = await res.json();
+    if (!res.ok) throw new Error(d.error || 'Visit totals are unavailable.');
+    const t = d.total, dayKeys = [], hours = [];
+    for (let i = d.days - 1; i >= 0 && dayKeys.length < 90; i--) dayKeys.push(new Date(Date.parse(d.to) - i * 86400000).toISOString().slice(0, 10));
+    for (let h = 0; h < 24; h++) hours.push(String(h).padStart(2, '0'));
+    out.innerHTML = `<div class="stats-tiles"><div><b>${t.visits}</b><span>visits</span></div><div><b>${t.views}</b><span>page views</span></div><div><b>${t.visits ? (t.views / t.visits).toFixed(1) : '–'}</b><span>pages per visit</span></div><div><b>${dur(t.timed ? t.seconds / t.timed : 0)}</b><span>average time per page view</span></div><div><b>${dur(t.seconds)}</b><span>total time</span></div></div>` +
+      `<p class="cm-help">${esc(d.from)} to ${esc(d.to)} (Brussels days). Counting started on 7 November 2026.</p>` +
+      `<h3>Visits per day</h3>` + bars(dayKeys, k => (d.byDay[k] || {}).visits || 0, k => k) +
+      `<h3>Visits by time of day</h3>` + bars(hours, h => (d.byHour[h] || {}).visits || 0, h => h + ':00–' + h + ':59') +
+      tableOf('Sections', d.bySection, k => NAMES[k] || k) + tableOf('Pages', d.byPage, pageName, 30) + tableOf('Screen type', d.byDevice, k => k[0].toUpperCase() + k.slice(1));
+  } catch (e) { out.innerHTML = `<p class="cm-form-error" role="alert">${esc(e.message)}</p>`; }
+}
+document.querySelector('[data-stats-range]')?.addEventListener('click', e => { const b = e.target.closest('button[data-days]'); if (b) loadStats(+b.dataset.days); });
+loadStats(7);

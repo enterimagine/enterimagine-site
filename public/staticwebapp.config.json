@@ -68,6 +68,15 @@
       ]
     },
     {
+      "route": "/api/hit",
+      "methods": [
+        "POST"
+      ],
+      "headers": {
+        "Cache-Control": "no-store"
+      }
+    },
+    {
       "route": "/api/*",
       "statusCode": 404
     },
