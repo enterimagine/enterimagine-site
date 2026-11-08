@@ -22,7 +22,7 @@ jobs:
         with:
           persist-credentials: false
       - name: Use the live visit table
-        run: echo '{"table":"kidslive"}' > api/src/config.json
+        run: echo '{"table":"kidslive2"}' > api/src/config.json
       - name: Upload the kids site
         id: swa
         uses: Azure/static-web-apps-deploy@1a947af9992250f3bc2e68ad0754c0b0c11566c9 # v1
