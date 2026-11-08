@@ -2204,6 +2204,1231 @@
    },
    "added": "2026-11-07",
    "voice": true
+  },
+  {
+   "id": "pixel-20261108",
+   "world": "pixel",
+   "guide": "Pixel",
+   "title": {
+    "en": "How does a map app find the fastest way?",
+    "fr": "Comment une appli de cartes trouve-t-elle le chemin le plus rapide ?",
+    "nl": "Hoe vindt een kaartenapp de snelste weg?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, the map app on our phone found a faster way to the beach than we did! How does it know the quickest road?",
+     "fr": "Pixel, l’appli de cartes sur notre téléphone a trouvé un chemin plus rapide vers la plage que nous ! Comment sait-elle quelle route est la plus rapide ?",
+     "nl": "Pixel, de kaartenapp op onze telefoon vond een snellere weg naar het strand dan wij! Hoe weet die app welke weg het snelst is?",
+     "img": "Whyzz in a car back seat holds a phone with a glowing map, Pixel beside him"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "The app sees all the roads as lines between dots, like a giant connect-the-dots puzzle. Every dot is a crossing and every line is a road.",
+     "fr": "L’appli voit toutes les routes comme des lignes entre des points, comme un énorme jeu de points à relier. Chaque point est un carrefour et chaque ligne est une route.",
+     "nl": "De app ziet alle wegen als lijnen tussen stippen, zoals een reusachtige verbind-de-stippenpuzzel. Elke stip is een kruispunt en elke lijn is een weg.",
+     "img": "Pixel points at a giant floating puzzle of glowing dots and lines over a toy town"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I know! The app sends a tiny pigeon to fly ahead and peek at every street.",
+     "fr": "Je sais ! L’appli envoie un petit pigeon qui vole devant pour regarder chaque rue.",
+     "nl": "Ik weet het! De app stuurt een klein duifje vooruit om in elke straat te gaan kijken.",
+     "img": "Whyzz flaps his arms like a bird, a cartoon pigeon with tiny goggles, Pixel laughs"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, no pigeons! The app gives each road a travel time, then adds up the times of lots of possible ways in a flash and picks the smallest total.",
+     "fr": "Ha, pas de pigeons ! L’appli donne un temps de trajet à chaque route, additionne en un éclair les temps de plein de chemins possibles et choisit le plus petit total.",
+     "nl": "Haha, geen duiven! De app geeft elke weg een reistijd, telt bliksemsnel de tijden van heel veel mogelijke routes op en kiest het kleinste totaal.",
+     "img": "Glowing routes with little clocks race across a map, one route shines gold"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know that phones help spot traffic jams? When lots of phones on one road move very slowly, the app knows there is a jam and looks for another way.",
+     "fr": "Savais-tu que les téléphones aident à repérer les bouchons ? Quand plein de téléphones avancent très lentement sur une route, l’appli sait qu’il y a un bouchon et cherche un autre chemin.",
+     "nl": "Wist je dat telefoons helpen om files te vinden? Als heel veel telefoons op één weg heel traag gaan, weet de app dat er een file is en zoekt hij een andere weg.",
+     "img": "A toy road with a slow line of cars glowing red, a bright green detour beside it"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So the map app is a super-fast puzzle solver that adds up travel times. Where would you ask it to take you on your dream trip?",
+     "fr": "Donc l’appli de cartes est une super championne des puzzles qui additionne des temps de trajet. Où lui demanderais-tu de t’emmener pour le voyage de tes rêves ?",
+     "nl": "Dus de kaartenapp is een supersnelle puzzelkampioen die reistijden optelt. Waar zou jij hem naartoe laten brengen voor je droomreis?",
+     "img": "Whyzz and Pixel cheer on a sunny beach next to a parked car"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "In the app’s puzzle, what is a dot?",
+      "fr": "Dans le puzzle de l’appli, qu’est-ce qu’un point ?",
+      "nl": "Wat is een stip in de puzzel van de app?"
+     },
+     "o": {
+      "en": [
+       "A crossing",
+       "A house",
+       "A tree"
+      ],
+      "fr": [
+       "Un carrefour",
+       "Une maison",
+       "Un arbre"
+      ],
+      "nl": [
+       "Een kruispunt",
+       "Een huis",
+       "Een boom"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What does the app add up?",
+      "fr": "Qu’est-ce que l’appli additionne ?",
+      "nl": "Wat telt de app op?"
+     },
+     "o": {
+      "en": [
+       "The colors of the cars",
+       "The travel times of the roads",
+       "The number of pigeons"
+      ],
+      "fr": [
+       "Les couleurs des voitures",
+       "Les temps de trajet des routes",
+       "Le nombre de pigeons"
+      ],
+      "nl": [
+       "De kleuren van de auto’s",
+       "De reistijden van de wegen",
+       "Het aantal duiven"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How does the app know there is a traffic jam?",
+      "fr": "Comment l’appli sait-elle qu’il y a un bouchon ?",
+      "nl": "Hoe weet de app dat er een file is?"
+     },
+     "o": {
+      "en": [
+       "A pigeon tells it",
+       "It just guesses",
+       "Lots of phones on that road move slowly"
+      ],
+      "fr": [
+       "Un pigeon le lui dit",
+       "Elle devine, c’est tout",
+       "Plein de téléphones avancent lentement sur cette route"
+      ],
+      "nl": [
+       "Een duif vertelt het",
+       "Hij gokt gewoon",
+       "Veel telefoons op die weg gaan traag"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Which way does the app pick?",
+      "fr": "Quel chemin l’appli choisit-elle ?",
+      "nl": "Welke route kiest de app?"
+     },
+     "o": {
+      "en": [
+       "The longest one",
+       "The one with the smallest total time",
+       "The one with the most turns"
+      ],
+      "fr": [
+       "Le plus long",
+       "Celui avec le plus petit temps total",
+       "Celui avec le plus de virages"
+      ],
+      "nl": [
+       "De langste",
+       "De route met de kleinste totale tijd",
+       "De route met de meeste bochten"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "In the puzzle, what is a line?",
+      "fr": "Dans le puzzle, qu’est-ce qu’une ligne ?",
+      "nl": "Wat is een lijn in de puzzel?"
+     },
+     "o": {
+      "en": [
+       "A road",
+       "A river",
+       "A rainbow"
+      ],
+      "fr": [
+       "Une route",
+       "Une rivière",
+       "Un arc-en-ciel"
+      ],
+      "nl": [
+       "Een weg",
+       "Een rivier",
+       "Een regenboog"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "Find the way!",
+     "fr": "Trouve le chemin !",
+     "nl": "Vind de weg!"
+    },
+    "intro": {
+     "en": "Put the steps of the map app in the right order, from start to finish.",
+     "fr": "Remets les étapes de l’appli de cartes dans le bon ordre, du début à la fin.",
+     "nl": "Zet de stappen van de kaartenapp in de juiste volgorde, van begin tot eind."
+    },
+    "done": {
+     "en": "Great job! You think like a map app.",
+     "fr": "Bravo ! Tu réfléchis comme une appli de cartes.",
+     "nl": "Goed gedaan! Je denkt als een kaartenapp."
+    },
+    "items": {
+     "en": [
+      "You type where you want to go",
+      "The app finds where you are now",
+      "It looks at all the roads in between",
+      "It adds up the travel times of many ways",
+      "It picks the fastest way",
+      "It guides you turn by turn"
+     ],
+     "fr": [
+      "Tu tapes où tu veux aller",
+      "L’appli trouve où tu es maintenant",
+      "Elle regarde toutes les routes entre les deux",
+      "Elle additionne les temps de trajet de plein de chemins",
+      "Elle choisit le chemin le plus rapide",
+      "Elle te guide virage après virage"
+     ],
+     "nl": [
+      "Je typt waar je naartoe wilt",
+      "De app zoekt waar je nu bent",
+      "Hij bekijkt alle wegen daartussen",
+      "Hij telt de reistijden van veel routes op",
+      "Hij kiest de snelste weg",
+      "Hij wijst je bocht na bocht de weg"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "AI & Data",
+    "fr": "IA et données",
+    "nl": "AI en data"
+   },
+   "adult": {
+    "en": "For grown-ups: the AI & Data world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde IA et données dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld AI en data in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-08",
+   "voice": false
+  },
+  {
+   "id": "qubi-20261108",
+   "world": "qubi",
+   "guide": "Qubi",
+   "title": {
+    "en": "Why do quantum computers need the coldest fridge in the world?",
+    "fr": "Pourquoi les ordinateurs quantiques ont-ils besoin du frigo le plus froid du monde ?",
+    "nl": "Waarom hebben quantumcomputers de koudste koelkast ter wereld nodig?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, I heard that some quantum computers live inside a giant fridge, colder than outer space! Do they get too hot from all that thinking?",
+     "fr": "Qubi, j’ai entendu que certains ordinateurs quantiques vivent dans un frigo géant, plus froid que l’espace ! Ils ont trop chaud à force de réfléchir ?",
+     "nl": "Qubi, ik hoorde dat sommige quantumcomputers in een reuzenkoelkast wonen, kouder dan de ruimte! Krijgen ze het te warm van al dat denken?",
+     "img": "Whyzz stares up at a giant shiny golden fridge-like machine, Qubi beside him"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Not quite! Qubits are super delicate and even a tiny bit of heat makes them wobble. When they wobble, they forget their quantum information.",
+     "fr": "Pas tout à fait ! Les qubits sont super fragiles et même un tout petit peu de chaleur les fait trembler. Quand ils tremblent, ils oublient leur information quantique.",
+     "nl": "Niet helemaal! Qubits zijn supergevoelig en zelfs een heel klein beetje warmte laat ze wiebelen. Als ze wiebelen, vergeten ze hun quantuminformatie.",
+     "img": "Qubi shows a tiny glowing qubit shaking nervously next to a little flame"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I know! Let’s give each qubit a tiny winter coat and a cup of hot cocoa.",
+     "fr": "Je sais ! On n’a qu’à donner à chaque qubit un petit manteau d’hiver et une tasse de chocolat chaud.",
+     "nl": "Ik weet het! We geven elke qubit een piepklein winterjasje en een kopje warme chocolademelk.",
+     "img": "Whyzz holds a tiny winter coat and a mug of cocoa, Qubi laughs"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Ha, cocoa would make them wobble even more! The fridge works in layers, like an upside-down cake and each layer is colder than the one above it.",
+     "fr": "Ha, le chocolat chaud les ferait trembler encore plus ! Le frigo fonctionne par étages, comme un gâteau à l’envers, et chaque étage est plus froid que celui du dessus.",
+     "nl": "Haha, chocolademelk zou ze nog meer laten wiebelen! De koelkast werkt in lagen, zoals een omgekeerde taart, en elke laag is kouder dan de laag erboven.",
+     "img": "Qubi points at a golden machine with round layers, blue cold glow at the bottom"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Did you know that the bottom of this fridge is even colder than outer space? Space is about minus 270 degrees Celsius and the fridge gets almost to minus 273, the coldest cold there is!",
+     "fr": "Savais-tu que le bas de ce frigo est encore plus froid que l’espace ? L’espace est à environ moins 270 degrés et le frigo descend presque à moins 273, le froid le plus froid qui existe !",
+     "nl": "Wist je dat de onderkant van deze koelkast nog kouder is dan de ruimte? De ruimte is ongeveer min 270 graden en de koelkast gaat bijna tot min 273, de koudste kou die er bestaat!",
+     "img": "Qubi and Whyzz float in space beside the golden machine, stars and frosty glow"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So qubits need super cold to stay calm and do their quantum tricks. If you had the coldest fridge in the world, what would you put inside?",
+     "fr": "Donc les qubits ont besoin d’un froid extrême pour rester calmes et faire leurs tours quantiques. Si tu avais le frigo le plus froid du monde, qu’est-ce que tu mettrais dedans ?",
+     "nl": "Dus qubits hebben superveel kou nodig om rustig te blijven en hun quantumtrucs te doen. Als jij de koudste koelkast ter wereld had, wat zou je erin stoppen?",
+     "img": "Whyzz and Qubi high-five in a frosty lab next to a calm glowing qubit"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What makes qubits wobble?",
+      "fr": "Qu’est-ce qui fait trembler les qubits ?",
+      "nl": "Waardoor gaan qubits wiebelen?"
+     },
+     "o": {
+      "en": [
+       "Heat",
+       "Silence",
+       "Darkness"
+      ],
+      "fr": [
+       "La chaleur",
+       "Le silence",
+       "Le noir"
+      ],
+      "nl": [
+       "Warmte",
+       "Stilte",
+       "Donker"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What would hot cocoa do to a qubit?",
+      "fr": "Que ferait du chocolat chaud à un qubit ?",
+      "nl": "Wat zou warme chocolademelk met een qubit doen?"
+     },
+     "o": {
+      "en": [
+       "Make it calmer",
+       "Make it wobble even more",
+       "Make it sing"
+      ],
+      "fr": [
+       "Le rendre plus calme",
+       "Le faire trembler encore plus",
+       "Le faire chanter"
+      ],
+      "nl": [
+       "Hem rustiger maken",
+       "Hem nog meer laten wiebelen",
+       "Hem laten zingen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does the fridge look like inside?",
+      "fr": "À quoi ressemble le frigo à l’intérieur ?",
+      "nl": "Hoe ziet de koelkast er vanbinnen uit?"
+     },
+     "o": {
+      "en": [
+       "A round ball",
+       "A flat box",
+       "Layers like an upside-down cake"
+      ],
+      "fr": [
+       "Une boule ronde",
+       "Une boîte plate",
+       "Des étages comme un gâteau à l’envers"
+      ],
+      "nl": [
+       "Een ronde bal",
+       "Een platte doos",
+       "Lagen zoals een omgekeerde taart"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "About how cold is outer space?",
+      "fr": "Environ quelle température fait-il dans l’espace ?",
+      "nl": "Hoe koud is het ongeveer in de ruimte?"
+     },
+     "o": {
+      "en": [
+       "Minus 270 degrees",
+       "Zero degrees",
+       "Minus 10 degrees"
+      ],
+      "fr": [
+       "Moins 270 degrés",
+       "Zéro degré",
+       "Moins 10 degrés"
+      ],
+      "nl": [
+       "Min 270 graden",
+       "Nul graden",
+       "Min 10 graden"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Is the bottom of the fridge colder than space?",
+      "fr": "Le bas du frigo est-il plus froid que l’espace ?",
+      "nl": "Is de onderkant van de koelkast kouder dan de ruimte?"
+     },
+     "o": {
+      "en": [
+       "No, it is warmer",
+       "Yes, even colder",
+       "It is exactly the same"
+      ],
+      "fr": [
+       "Non, il est plus chaud",
+       "Oui, encore plus froid",
+       "C’est exactement pareil"
+      ],
+      "nl": [
+       "Nee, het is warmer",
+       "Ja, nog kouder",
+       "Het is precies hetzelfde"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Cold, colder, coldest",
+     "fr": "Froid, plus froid, le plus froid",
+     "nl": "Koud, kouder, koudst"
+    },
+    "intro": {
+     "en": "How cold is it? Match each place to its temperature!",
+     "fr": "Quel froid fait-il ? Associe chaque endroit à sa température !",
+     "nl": "Hoe koud is het? Koppel elke plek aan de juiste temperatuur!"
+    },
+    "done": {
+     "en": "Brrr, well done! You know your cold.",
+     "fr": "Brrr, bravo ! Le froid n’a plus de secret pour toi.",
+     "nl": "Brrr, goed gedaan! Jij weet alles over kou."
+    },
+    "left": {
+     "en": [
+      "Water turning into ice",
+      "A freezer at home",
+      "The coldest night in Antarctica",
+      "Outer space",
+      "The bottom of the qubit fridge"
+     ],
+     "fr": [
+      "L’eau qui devient de la glace",
+      "Un congélateur à la maison",
+      "La nuit la plus froide en Antarctique",
+      "L’espace",
+      "Le bas du frigo à qubits"
+     ],
+     "nl": [
+      "Water dat ijs wordt",
+      "Een diepvriezer thuis",
+      "De koudste nacht op Antarctica",
+      "De ruimte",
+      "De onderkant van de qubitkoelkast"
+     ]
+    },
+    "right": {
+     "en": [
+      "0 degrees",
+      "About minus 18 degrees",
+      "About minus 89 degrees",
+      "About minus 270 degrees",
+      "Almost minus 273 degrees"
+     ],
+     "fr": [
+      "0 degré",
+      "Environ moins 18 degrés",
+      "Environ moins 89 degrés",
+      "Environ moins 270 degrés",
+      "Presque moins 273 degrés"
+     ],
+     "nl": [
+      "0 graden",
+      "Ongeveer min 18 graden",
+      "Ongeveer min 89 graden",
+      "Ongeveer min 270 graden",
+      "Bijna min 273 graden"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Quantum",
+    "fr": "Quantique",
+    "nl": "Quantum"
+   },
+   "adult": {
+    "en": "For grown-ups: the Quantum world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Quantique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Quantum in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-08",
+   "voice": false
+  },
+  {
+   "id": "bloom-20261108",
+   "world": "bloom",
+   "guide": "Bloom",
+   "title": {
+    "en": "How do bees help plants make fruit?",
+    "fr": "Comment les abeilles aident-elles les plantes à faire des fruits ?",
+    "nl": "Hoe helpen bijen planten om fruit te maken?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Bloom, why do bees buzz from flower to flower all day long? Are they just looking for a snack?",
+     "fr": "Bloom, pourquoi les abeilles volent-elles de fleur en fleur toute la journée ? Elles cherchent juste un petit goûter ?",
+     "nl": "Bloom, waarom zoemen bijen de hele dag van bloem naar bloem? Zoeken ze gewoon een tussendoortje?",
+     "img": "Whyzz watches bees in a flower garden, Bloom kneels beside him with a magnifier"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Yes, they sip sweet nectar, that’s their snack! But while they sip, fluffy yellow pollen sticks to their hairy bodies.",
+     "fr": "Oui, elles boivent le nectar sucré, c’est leur goûter ! Mais pendant qu’elles boivent, du pollen jaune et doux se colle à leur corps tout poilu.",
+     "nl": "Ja, ze drinken zoete nectar, dat is hun tussendoortje! Maar terwijl ze drinken, blijft er zacht geel stuifmeel aan hun harige lijfje plakken.",
+     "img": "Close-up of a fuzzy bee covered in yellow pollen on a flower, Bloom points"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I know! The bees are giving the flowers tiny high fives.",
+     "fr": "Je sais ! Les abeilles font des petits tope-là aux fleurs.",
+     "nl": "Ik weet het! De bijen geven de bloemen piepkleine high fives.",
+     "img": "A cartoon bee high-fives a smiling flower, Whyzz copies it, Bloom laughs"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Ha, almost! When a bee lands on the next flower, some pollen rubs off and that helps the flower grow into a fruit with seeds.",
+     "fr": "Ha, presque ! Quand l’abeille se pose sur la fleur suivante, un peu de pollen s’y frotte et ça aide la fleur à devenir un fruit avec des graines.",
+     "nl": "Haha, bijna! Als een bij op de volgende bloem landt, wrijft er wat stuifmeel af en dat helpt de bloem om een vrucht met zaadjes te worden.",
+     "img": "A flower slowly turning into a shiny red apple, Bloom explains"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Did you know that one honeybee can visit hundreds of flowers in a single day? Apples, strawberries and blueberries all need busy helpers like bees.",
+     "fr": "Savais-tu qu’une seule abeille peut visiter des centaines de fleurs en une journée ? Les pommes, les fraises et les myrtilles ont toutes besoin d’aides travailleuses comme les abeilles.",
+     "nl": "Wist je dat één honingbij op één dag honderden bloemen kan bezoeken? Appels, aardbeien en bosbessen hebben allemaal ijverige helpers zoals bijen nodig.",
+     "img": "A happy bee zooms past apples, strawberries and blueberries, Whyzz amazed"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So bees get a snack and flowers get help making fruit, what a team! Which fruit would you like to thank a bee for?",
+     "fr": "Donc les abeilles ont leur goûter et les fleurs reçoivent de l’aide pour faire des fruits, quelle équipe ! Pour quel fruit aimerais-tu dire merci à une abeille ?",
+     "nl": "Dus bijen krijgen een tussendoortje en bloemen krijgen hulp om fruit te maken, wat een team! Voor welk fruit zou jij een bij willen bedanken?",
+     "img": "Whyzz and Bloom wave at a bee in an orchard with a basket of fruit"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What do bees sip from flowers?",
+      "fr": "Que boivent les abeilles dans les fleurs ?",
+      "nl": "Wat drinken bijen uit bloemen?"
+     },
+     "o": {
+      "en": [
+       "Sweet nectar",
+       "Lemonade",
+       "Rainwater only"
+      ],
+      "fr": [
+       "Du nectar sucré",
+       "De la limonade",
+       "Seulement de l’eau de pluie"
+      ],
+      "nl": [
+       "Zoete nectar",
+       "Limonade",
+       "Alleen regenwater"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What sticks to a bee’s hairy body?",
+      "fr": "Qu’est-ce qui se colle au corps poilu de l’abeille ?",
+      "nl": "Wat blijft er aan het harige lijfje van een bij plakken?"
+     },
+     "o": {
+      "en": [
+       "Glitter",
+       "Pollen",
+       "Sand"
+      ],
+      "fr": [
+       "Des paillettes",
+       "Du pollen",
+       "Du sable"
+      ],
+      "nl": [
+       "Glitters",
+       "Stuifmeel",
+       "Zand"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does pollen help a flower do?",
+      "fr": "À quoi le pollen aide-t-il la fleur ?",
+      "nl": "Waarbij helpt stuifmeel een bloem?"
+     },
+     "o": {
+      "en": [
+       "Fall asleep",
+       "Change color",
+       "Grow into a fruit with seeds"
+      ],
+      "fr": [
+       "À s’endormir",
+       "À changer de couleur",
+       "À devenir un fruit avec des graines"
+      ],
+      "nl": [
+       "In slaap vallen",
+       "Van kleur veranderen",
+       "Een vrucht met zaadjes worden"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Which of these needs helpers like bees?",
+      "fr": "Lequel de ces aliments a besoin d’aides comme les abeilles ?",
+      "nl": "Wat heeft helpers zoals bijen nodig?"
+     },
+     "o": {
+      "en": [
+       "Pebbles",
+       "Strawberries",
+       "Ice cubes"
+      ],
+      "fr": [
+       "Les cailloux",
+       "Les fraises",
+       "Les glaçons"
+      ],
+      "nl": [
+       "Kiezelstenen",
+       "Aardbeien",
+       "IJsblokjes"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How many flowers can one honeybee visit in a day?",
+      "fr": "Combien de fleurs une abeille peut-elle visiter en une journée ?",
+      "nl": "Hoeveel bloemen kan één honingbij op een dag bezoeken?"
+     },
+     "o": {
+      "en": [
+       "Only one",
+       "None at all",
+       "Hundreds"
+      ],
+      "fr": [
+       "Une seule",
+       "Aucune",
+       "Des centaines"
+      ],
+      "nl": [
+       "Maar één",
+       "Helemaal geen",
+       "Honderden"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Thank you, bees!",
+     "fr": "Merci, les abeilles !",
+     "nl": "Dank je wel, bijen!"
+    },
+    "intro": {
+     "en": "Pick the foods that grow with help from bees and other buzzing helpers.",
+     "fr": "Choisis les aliments qui poussent grâce aux abeilles et aux autres insectes butineurs.",
+     "nl": "Kies het eten dat groeit met hulp van bijen en andere zoemende helpers."
+    },
+    "done": {
+     "en": "Buzzing good! Those fruits say thank you to the bees.",
+     "fr": "Bzzz, bravo ! Ces fruits disent merci aux abeilles.",
+     "nl": "Zoemend goed! Die vruchten zeggen dank je wel tegen de bijen."
+    },
+    "items": {
+     "en": [
+      "Apples",
+      "Strawberries",
+      "Rice",
+      "Blueberries",
+      "Salt",
+      "Cherries",
+      "Corn"
+     ],
+     "fr": [
+      "Les pommes",
+      "Les fraises",
+      "Le riz",
+      "Les myrtilles",
+      "Le sel",
+      "Les cerises",
+      "Le maïs"
+     ],
+     "nl": [
+      "Appels",
+      "Aardbeien",
+      "Rijst",
+      "Bosbessen",
+      "Zout",
+      "Kersen",
+      "Maïs"
+     ]
+    },
+    "good": [
+     0,
+     1,
+     3,
+     5
+    ]
+   },
+   "worldName": {
+    "en": "Biotech",
+    "fr": "Biotech",
+    "nl": "Biotech"
+   },
+   "adult": {
+    "en": "For grown-ups: the Biotech world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Biotech dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Biotech in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-08",
+   "voice": false
+  },
+  {
+   "id": "robo-20261108",
+   "world": "robo",
+   "guide": "Pixel",
+   "title": {
+    "en": "How does a robot dog keep its balance?",
+    "fr": "Comment un chien robot garde-t-il l’équilibre ?",
+    "nl": "Hoe houdt een robothond zijn evenwicht?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, I saw a robot dog walk up the stairs! How does it not fall over on four skinny metal legs?",
+     "fr": "Pixel, j’ai vu un chien robot monter l’escalier ! Comment fait-il pour ne pas tomber sur ses quatre pattes en métal toutes fines ?",
+     "nl": "Pixel, ik zag een robothond de trap op lopen! Hoe valt hij niet om op vier dunne metalen poten?",
+     "img": "Whyzz watches a friendly robot dog climbing stairs, Pixel beside him"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Inside its body is a balance sensor that feels which way it is tipping. It works a bit like the tiny balance helper inside your ears.",
+     "fr": "Dans son corps, il y a un capteur d’équilibre qui sent de quel côté il penche. Ça marche un peu comme le petit organe de l’équilibre dans tes oreilles.",
+     "nl": "In zijn lijf zit een evenwichtssensor die voelt naar welke kant hij overhelt. Dat werkt een beetje zoals het kleine evenwichtsorgaan in je oren.",
+     "img": "Pixel shows a glowing sensor inside the robot dog, Whyzz touches his ear"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I know! It eats special robot dog treats that make it extra steady.",
+     "fr": "Je sais ! Il mange des friandises spéciales pour chien robot qui le rendent super stable.",
+     "nl": "Ik weet het! Hij eet speciale robothondensnoepjes waardoor hij extra stevig staat.",
+     "img": "Whyzz offers a bolt-shaped treat to the robot dog, Pixel laughs"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, no treats! Its computer checks the sensor hundreds of times every second and tells the motors in its legs exactly how to move.",
+     "fr": "Ha, pas de friandises ! Son ordinateur vérifie le capteur des centaines de fois par seconde et dit aux moteurs de ses pattes exactement comment bouger.",
+     "nl": "Haha, geen snoepjes! Zijn computer kijkt honderden keren per seconde naar de sensor en vertelt de motoren in zijn poten precies hoe ze moeten bewegen.",
+     "img": "Glowing lines run from the robot dog's head to motors in its legs"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know that if you give a robot dog a little push, it quickly takes a step to catch itself? That’s just what you do when someone bumps into you!",
+     "fr": "Savais-tu que si tu pousses un peu un chien robot, il fait vite un pas pour se rattraper ? C’est exactement ce que tu fais quand quelqu’un te bouscule !",
+     "nl": "Wist je dat een robothond die een duwtje krijgt, snel een stap zet om zichzelf op te vangen? Dat doe jij ook als iemand tegen je aan botst!",
+     "img": "Pixel gently pushes the robot dog, it steps sideways, Whyzz catches his own balance"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So a robot dog feels, thinks and steps really fast to stay balanced. What job would you teach a robot dog to do?",
+     "fr": "Donc un chien robot sent, réfléchit et fait des pas très vite pour garder l’équilibre. Quel travail apprendrais-tu à un chien robot ?",
+     "nl": "Dus een robothond voelt, denkt en zet supersnel stapjes om in evenwicht te blijven. Welk klusje zou jij een robothond leren?",
+     "img": "Whyzz and Pixel cheer as the robot dog stands proudly on a hill"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What does the balance sensor feel?",
+      "fr": "Que sent le capteur d’équilibre ?",
+      "nl": "Wat voelt de evenwichtssensor?"
+     },
+     "o": {
+      "en": [
+       "Which way the robot is tipping",
+       "How hungry the robot is",
+       "The color of the floor"
+      ],
+      "fr": [
+       "De quel côté le robot penche",
+       "Si le robot a faim",
+       "La couleur du sol"
+      ],
+      "nl": [
+       "Naar welke kant de robot overhelt",
+       "Hoeveel honger de robot heeft",
+       "De kleur van de vloer"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Where in your body is a balance helper like it?",
+      "fr": "Où se trouve dans ton corps un organe de l’équilibre comme lui ?",
+      "nl": "Waar in je lichaam zit een evenwichtsorgaan zoals dat?"
+     },
+     "o": {
+      "en": [
+       "In your elbows",
+       "In your ears",
+       "In your hair"
+      ],
+      "fr": [
+       "Dans tes coudes",
+       "Dans tes oreilles",
+       "Dans tes cheveux"
+      ],
+      "nl": [
+       "In je ellebogen",
+       "In je oren",
+       "In je haar"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How often does the computer check the sensor?",
+      "fr": "À quelle fréquence l’ordinateur vérifie-t-il le capteur ?",
+      "nl": "Hoe vaak kijkt de computer naar de sensor?"
+     },
+     "o": {
+      "en": [
+       "Once a week",
+       "Once an hour",
+       "Hundreds of times every second"
+      ],
+      "fr": [
+       "Une fois par semaine",
+       "Une fois par heure",
+       "Des centaines de fois par seconde"
+      ],
+      "nl": [
+       "Eén keer per week",
+       "Eén keer per uur",
+       "Honderden keren per seconde"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What does a robot dog do when it gets a little push?",
+      "fr": "Que fait un chien robot quand on le pousse un peu ?",
+      "nl": "Wat doet een robothond als hij een duwtje krijgt?"
+     },
+     "o": {
+      "en": [
+       "It quickly takes a step to catch itself",
+       "It barks loudly",
+       "It falls asleep"
+      ],
+      "fr": [
+       "Il fait vite un pas pour se rattraper",
+       "Il aboie très fort",
+       "Il s’endort"
+      ],
+      "nl": [
+       "Hij zet snel een stap om zich op te vangen",
+       "Hij blaft heel hard",
+       "Hij valt in slaap"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What keeps the robot dog steady?",
+      "fr": "Qu’est-ce qui permet au chien robot de rester stable ?",
+      "nl": "Waardoor blijft de robothond stevig staan?"
+     },
+     "o": {
+      "en": [
+       "Special treats",
+       "Its sensor, computer and motors",
+       "Magic glue on its paws"
+      ],
+      "fr": [
+       "Des friandises spéciales",
+       "Son capteur, son ordinateur et ses moteurs",
+       "De la colle magique sous ses pattes"
+      ],
+      "nl": [
+       "Speciale snoepjes",
+       "Zijn sensor, computer en motoren",
+       "Toverlijm onder zijn poten"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "Steady, robot dog!",
+     "fr": "Tiens bon, chien robot !",
+     "nl": "Rustig, robothond!"
+    },
+    "intro": {
+     "en": "The robot dog starts to tip over. Put the steps in the right order to help it stand steady again!",
+     "fr": "Le chien robot commence à pencher. Remets les étapes dans le bon ordre pour qu’il retrouve l’équilibre !",
+     "nl": "De robothond begint om te vallen. Zet de stappen in de juiste volgorde zodat hij weer stevig staat!"
+    },
+    "done": {
+     "en": "Woof! The robot dog stands steady thanks to you.",
+     "fr": "Ouaf ! Grâce à toi, le chien robot tient bien debout.",
+     "nl": "Woef! Dankzij jou staat de robothond weer stevig."
+    },
+    "items": {
+     "en": [
+      "The robot dog starts to tip",
+      "The balance sensor feels the tipping",
+      "The computer decides which leg to move",
+      "The motors move that leg",
+      "The robot dog stands steady again"
+     ],
+     "fr": [
+      "Le chien robot commence à pencher",
+      "Le capteur d’équilibre sent qu’il penche",
+      "L’ordinateur décide quelle patte bouger",
+      "Les moteurs bougent cette patte",
+      "Le chien robot tient de nouveau debout"
+     ],
+     "nl": [
+      "De robothond begint over te hellen",
+      "De evenwichtssensor voelt dat hij overhelt",
+      "De computer beslist welke poot moet bewegen",
+      "De motoren bewegen die poot",
+      "De robothond staat weer stevig"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Robotics",
+    "fr": "Robotique",
+    "nl": "Robotica"
+   },
+   "adult": {
+    "en": "For grown-ups: the Robotics world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Robotique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Robotica in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-08",
+   "voice": false
+  },
+  {
+   "id": "energy-20261108",
+   "world": "energy",
+   "guide": "Sunny",
+   "title": {
+    "en": "How do solar panels turn sunlight into electricity?",
+    "fr": "Comment les panneaux solaires transforment-ils la lumière du soleil en électricité ?",
+    "nl": "Hoe maken zonnepanelen stroom van zonlicht?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, our neighbors have shiny blue panels on their roof. How can sunshine turn into electricity for their TV?",
+     "fr": "Sunny, nos voisins ont des panneaux bleus tout brillants sur leur toit. Comment le soleil peut-il devenir de l’électricité pour leur télé ?",
+     "nl": "Sunny, onze buren hebben glimmende blauwe panelen op hun dak. Hoe kan zonneschijn stroom worden voor hun tv?",
+     "img": "Whyzz points at blue solar panels on a house roof, Sunny beside him"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Those are solar panels, made of thin slices of silicon, which comes from sand! When sunlight hits them, it gives tiny particles called electrons a push.",
+     "fr": "Ce sont des panneaux solaires, faits de fines tranches de silicium, qu’on fabrique à partir de sable ! Quand la lumière du soleil les touche, elle donne une poussée à de minuscules particules appelées électrons.",
+     "nl": "Dat zijn zonnepanelen, gemaakt van dunne plakjes silicium, dat uit zand komt! Als er zonlicht op valt, geeft het piepkleine deeltjes, elektronen, een duwtje.",
+     "img": "Sunny holds a shiny slice of silicon next to a pile of sand, sunbeams"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I know! The panels catch sunbeams in a jar and pour them into the wires.",
+     "fr": "Je sais ! Les panneaux attrapent les rayons du soleil dans un bocal et les versent dans les fils.",
+     "nl": "Ik weet het! De panelen vangen zonnestralen in een pot en gieten ze in de draden.",
+     "img": "Whyzz holds a glass jar full of glowing sunbeams, Sunny laughs"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Fun idea, but no jars! The pushed electrons start to flow through the wires together and flowing electrons are electricity.",
+     "fr": "Bonne idée, mais pas de bocaux ! Les électrons poussés se mettent à circuler ensemble dans les fils et des électrons qui circulent, c’est de l’électricité.",
+     "nl": "Leuk bedacht, maar geen potten! De geduwde elektronen gaan samen door de draden stromen en stromende elektronen, dat is elektriciteit.",
+     "img": "Glowing yellow dots flow along a wire from a panel to a house"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Did you know that solar panels still work on cloudy days? They make less electricity because less light gets through, but they don’t stop completely.",
+     "fr": "Savais-tu que les panneaux solaires fonctionnent aussi quand il y a des nuages ? Ils produisent moins d’électricité parce que moins de lumière passe, mais ils ne s’arrêtent pas complètement.",
+     "nl": "Wist je dat zonnepanelen ook werken als het bewolkt is? Ze maken dan minder stroom omdat er minder licht door komt, maar ze stoppen niet helemaal.",
+     "img": "Solar panels under fluffy clouds still glow softly, Whyzz surprised"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So sunlight pushes electrons and flowing electrons power our homes! Where would you put solar panels if you could choose?",
+     "fr": "Donc la lumière pousse les électrons et les électrons qui circulent alimentent nos maisons ! Où mettrais-tu des panneaux solaires si tu pouvais choisir ?",
+     "nl": "Dus zonlicht duwt elektronen en stromende elektronen geven onze huizen stroom! Waar zou jij zonnepanelen leggen als je mocht kiezen?",
+     "img": "Whyzz and Sunny cheer on a sunny rooftop full of solar panels"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What are solar panels made of?",
+      "fr": "De quoi sont faits les panneaux solaires ?",
+      "nl": "Waarvan zijn zonnepanelen gemaakt?"
+     },
+     "o": {
+      "en": [
+       "Chocolate",
+       "Silicon, which comes from sand",
+       "Paper"
+      ],
+      "fr": [
+       "De chocolat",
+       "De silicium, qu’on fabrique à partir de sable",
+       "De papier"
+      ],
+      "nl": [
+       "Chocolade",
+       "Silicium, dat uit zand komt",
+       "Papier"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does sunlight push in a solar panel?",
+      "fr": "Que pousse la lumière du soleil dans un panneau solaire ?",
+      "nl": "Wat duwt zonlicht in een zonnepaneel?"
+     },
+     "o": {
+      "en": [
+       "Tiny electrons",
+       "Raindrops",
+       "Clouds"
+      ],
+      "fr": [
+       "De minuscules électrons",
+       "Des gouttes de pluie",
+       "Des nuages"
+      ],
+      "nl": [
+       "Piepkleine elektronen",
+       "Regendruppels",
+       "Wolken"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What is electricity?",
+      "fr": "Qu’est-ce que l’électricité ?",
+      "nl": "Wat is elektriciteit?"
+     },
+     "o": {
+      "en": [
+       "Sunbeams in a jar",
+       "Warm air",
+       "Flowing electrons"
+      ],
+      "fr": [
+       "Des rayons de soleil dans un bocal",
+       "De l’air chaud",
+       "Des électrons qui circulent"
+      ],
+      "nl": [
+       "Zonnestralen in een pot",
+       "Warme lucht",
+       "Stromende elektronen"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Do solar panels work on cloudy days?",
+      "fr": "Les panneaux solaires marchent-ils quand il y a des nuages ?",
+      "nl": "Werken zonnepanelen als het bewolkt is?"
+     },
+     "o": {
+      "en": [
+       "Not at all",
+       "Yes, but they make less electricity",
+       "Only when it snows"
+      ],
+      "fr": [
+       "Pas du tout",
+       "Oui, mais ils produisent moins d’électricité",
+       "Seulement quand il neige"
+      ],
+      "nl": [
+       "Helemaal niet",
+       "Ja, maar ze maken minder stroom",
+       "Alleen als het sneeuwt"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Where did the neighbors put their solar panels?",
+      "fr": "Où les voisins ont-ils mis leurs panneaux solaires ?",
+      "nl": "Waar hebben de buren hun zonnepanelen gelegd?"
+     },
+     "o": {
+      "en": [
+       "On their roof",
+       "Under the bed",
+       "In the fridge"
+      ],
+      "fr": [
+       "Sur leur toit",
+       "Sous le lit",
+       "Dans le frigo"
+      ],
+      "nl": [
+       "Op hun dak",
+       "Onder het bed",
+       "In de koelkast"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Power from nature",
+     "fr": "L’énergie de la nature",
+     "nl": "Stroom uit de natuur"
+    },
+    "intro": {
+     "en": "Each machine makes electricity from something in nature. Match each machine to what it uses!",
+     "fr": "Chaque machine fabrique de l’électricité avec quelque chose de la nature. Associe chaque machine à ce qu’elle utilise !",
+     "nl": "Elke machine maakt stroom uit iets in de natuur. Koppel elke machine aan wat ze gebruikt!"
+    },
+    "done": {
+     "en": "Super! You know where clean electricity comes from.",
+     "fr": "Super ! Tu sais d’où vient l’électricité propre.",
+     "nl": "Super! Jij weet waar schone stroom vandaan komt."
+    },
+    "left": {
+     "en": [
+      "Solar panel",
+      "Wind turbine",
+      "Water dam",
+      "Geothermal power plant"
+     ],
+     "fr": [
+      "Panneau solaire",
+      "Éolienne",
+      "Barrage",
+      "Centrale géothermique"
+     ],
+     "nl": [
+      "Zonnepaneel",
+      "Windturbine",
+      "Stuwdam",
+      "Aardwarmtecentrale"
+     ]
+    },
+    "right": {
+     "en": [
+      "Sunlight",
+      "Wind",
+      "Flowing water",
+      "Hot rocks inside the Earth"
+     ],
+     "fr": [
+      "La lumière du soleil",
+      "Le vent",
+      "L’eau qui coule",
+      "Les roches chaudes sous la Terre"
+     ],
+     "nl": [
+      "Zonlicht",
+      "Wind",
+      "Stromend water",
+      "Hete stenen diep in de aarde"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Energy",
+    "fr": "Énergie",
+    "nl": "Energie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Energy world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Énergie dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Energie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-08",
+   "voice": false
   }
  ]
 }
