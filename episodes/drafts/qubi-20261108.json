@@ -1,0 +1,253 @@
+{
+ "id": "qubi-20261108",
+ "world": "qubi",
+ "guide": "Qubi",
+ "title": {
+  "en": "Why do quantum computers need the coldest fridge in the world?",
+  "fr": "Pourquoi les ordinateurs quantiques ont-ils besoin du frigo le plus froid du monde ?",
+  "nl": "Waarom hebben quantumcomputers de koudste koelkast ter wereld nodig?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, I heard that some quantum computers live inside a giant fridge, colder than outer space! Do they get too hot from all that thinking?",
+   "fr": "Qubi, j’ai entendu que certains ordinateurs quantiques vivent dans un frigo géant, plus froid que l’espace ! Ils ont trop chaud à force de réfléchir ?",
+   "nl": "Qubi, ik hoorde dat sommige quantumcomputers in een reuzenkoelkast wonen, kouder dan de ruimte! Krijgen ze het te warm van al dat denken?",
+   "img": "Whyzz stares up at a giant shiny golden fridge-like machine, Qubi beside him"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Not quite! Qubits are super delicate and even a tiny bit of heat makes them wobble. When they wobble, they forget their quantum information.",
+   "fr": "Pas tout à fait ! Les qubits sont super fragiles et même un tout petit peu de chaleur les fait trembler. Quand ils tremblent, ils oublient leur information quantique.",
+   "nl": "Niet helemaal! Qubits zijn supergevoelig en zelfs een heel klein beetje warmte laat ze wiebelen. Als ze wiebelen, vergeten ze hun quantuminformatie.",
+   "img": "Qubi shows a tiny glowing qubit shaking nervously next to a little flame"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I know! Let’s give each qubit a tiny winter coat and a cup of hot cocoa.",
+   "fr": "Je sais ! On n’a qu’à donner à chaque qubit un petit manteau d’hiver et une tasse de chocolat chaud.",
+   "nl": "Ik weet het! We geven elke qubit een piepklein winterjasje en een kopje warme chocolademelk.",
+   "img": "Whyzz holds a tiny winter coat and a mug of cocoa, Qubi laughs"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Ha, cocoa would make them wobble even more! The fridge works in layers, like an upside-down cake and each layer is colder than the one above it.",
+   "fr": "Ha, le chocolat chaud les ferait trembler encore plus ! Le frigo fonctionne par étages, comme un gâteau à l’envers, et chaque étage est plus froid que celui du dessus.",
+   "nl": "Haha, chocolademelk zou ze nog meer laten wiebelen! De koelkast werkt in lagen, zoals een omgekeerde taart, en elke laag is kouder dan de laag erboven.",
+   "img": "Qubi points at a golden machine with round layers, blue cold glow at the bottom"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Did you know that the bottom of this fridge is even colder than outer space? Space is about minus 270 degrees Celsius and the fridge gets almost to minus 273, the coldest cold there is!",
+   "fr": "Savais-tu que le bas de ce frigo est encore plus froid que l’espace ? L’espace est à environ moins 270 degrés et le frigo descend presque à moins 273, le froid le plus froid qui existe !",
+   "nl": "Wist je dat de onderkant van deze koelkast nog kouder is dan de ruimte? De ruimte is ongeveer min 270 graden en de koelkast gaat bijna tot min 273, de koudste kou die er bestaat!",
+   "img": "Qubi and Whyzz float in space beside the golden machine, stars and frosty glow"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So qubits need super cold to stay calm and do their quantum tricks. If you had the coldest fridge in the world, what would you put inside?",
+   "fr": "Donc les qubits ont besoin d’un froid extrême pour rester calmes et faire leurs tours quantiques. Si tu avais le frigo le plus froid du monde, qu’est-ce que tu mettrais dedans ?",
+   "nl": "Dus qubits hebben superveel kou nodig om rustig te blijven en hun quantumtrucs te doen. Als jij de koudste koelkast ter wereld had, wat zou je erin stoppen?",
+   "img": "Whyzz and Qubi high-five in a frosty lab next to a calm glowing qubit"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stares up in amazement at a giant shiny golden machine shaped like a chandelier with many round layers and tubes, hanging inside a tall open silver cylinder in a bright clean lab, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge stands beside him smiling proudly. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge kneels and points at a tiny glowing blue sphere with a worried cartoon face that is shaking nervously next to a small orange flame, wobble lines around it, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with a surprised face, bright lab. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge grins and holds up a tiny knitted winter coat in one hand and a steaming mug of hot cocoa in the other, offering them to a tiny glowing blue sphere, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge laughs with his hand over his mouth, bright lab. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge points at a big golden machine with round stacked layers that get smaller toward the bottom like an upside-down cake, the top glows warm orange and the bottom glows icy blue with frost, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks closely and nods. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge float happily in a starry outer space scene beside a big golden layered machine whose bottom glows icy blue with sparkling frost crystals, colorful planets in the distance. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge give each other a high five in a frosty bright lab, next to them a tiny glowing blue sphere with a calm happy cartoon face rests on a little cushion of frost. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What makes qubits wobble?",
+    "fr": "Qu’est-ce qui fait trembler les qubits ?",
+    "nl": "Waardoor gaan qubits wiebelen?"
+   },
+   "o": {
+    "en": [
+     "Heat",
+     "Silence",
+     "Darkness"
+    ],
+    "fr": [
+     "La chaleur",
+     "Le silence",
+     "Le noir"
+    ],
+    "nl": [
+     "Warmte",
+     "Stilte",
+     "Donker"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What would hot cocoa do to a qubit?",
+    "fr": "Que ferait du chocolat chaud à un qubit ?",
+    "nl": "Wat zou warme chocolademelk met een qubit doen?"
+   },
+   "o": {
+    "en": [
+     "Make it calmer",
+     "Make it wobble even more",
+     "Make it sing"
+    ],
+    "fr": [
+     "Le rendre plus calme",
+     "Le faire trembler encore plus",
+     "Le faire chanter"
+    ],
+    "nl": [
+     "Hem rustiger maken",
+     "Hem nog meer laten wiebelen",
+     "Hem laten zingen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does the fridge look like inside?",
+    "fr": "À quoi ressemble le frigo à l’intérieur ?",
+    "nl": "Hoe ziet de koelkast er vanbinnen uit?"
+   },
+   "o": {
+    "en": [
+     "A round ball",
+     "A flat box",
+     "Layers like an upside-down cake"
+    ],
+    "fr": [
+     "Une boule ronde",
+     "Une boîte plate",
+     "Des étages comme un gâteau à l’envers"
+    ],
+    "nl": [
+     "Een ronde bal",
+     "Een platte doos",
+     "Lagen zoals een omgekeerde taart"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "About how cold is outer space?",
+    "fr": "Environ quelle température fait-il dans l’espace ?",
+    "nl": "Hoe koud is het ongeveer in de ruimte?"
+   },
+   "o": {
+    "en": [
+     "Minus 270 degrees",
+     "Zero degrees",
+     "Minus 10 degrees"
+    ],
+    "fr": [
+     "Moins 270 degrés",
+     "Zéro degré",
+     "Moins 10 degrés"
+    ],
+    "nl": [
+     "Min 270 graden",
+     "Nul graden",
+     "Min 10 graden"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Is the bottom of the fridge colder than space?",
+    "fr": "Le bas du frigo est-il plus froid que l’espace ?",
+    "nl": "Is de onderkant van de koelkast kouder dan de ruimte?"
+   },
+   "o": {
+    "en": [
+     "No, it is warmer",
+     "Yes, even colder",
+     "It is exactly the same"
+    ],
+    "fr": [
+     "Non, il est plus chaud",
+     "Oui, encore plus froid",
+     "C’est exactement pareil"
+    ],
+    "nl": [
+     "Nee, het is warmer",
+     "Ja, nog kouder",
+     "Het is precies hetzelfde"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Cold, colder, coldest",
+   "fr": "Froid, plus froid, le plus froid",
+   "nl": "Koud, kouder, koudst"
+  },
+  "intro": {
+   "en": "How cold is it? Match each place to its temperature!",
+   "fr": "Quel froid fait-il ? Associe chaque endroit à sa température !",
+   "nl": "Hoe koud is het? Koppel elke plek aan de juiste temperatuur!"
+  },
+  "done": {
+   "en": "Brrr, well done! You know your cold.",
+   "fr": "Brrr, bravo ! Le froid n’a plus de secret pour toi.",
+   "nl": "Brrr, goed gedaan! Jij weet alles over kou."
+  },
+  "left": {
+   "en": [
+    "Water turning into ice",
+    "A freezer at home",
+    "The coldest night in Antarctica",
+    "Outer space",
+    "The bottom of the qubit fridge"
+   ],
+   "fr": [
+    "L’eau qui devient de la glace",
+    "Un congélateur à la maison",
+    "La nuit la plus froide en Antarctique",
+    "L’espace",
+    "Le bas du frigo à qubits"
+   ],
+   "nl": [
+    "Water dat ijs wordt",
+    "Een diepvriezer thuis",
+    "De koudste nacht op Antarctica",
+    "De ruimte",
+    "De onderkant van de qubitkoelkast"
+   ]
+  },
+  "right": {
+   "en": [
+    "0 degrees",
+    "About minus 18 degrees",
+    "About minus 89 degrees",
+    "About minus 270 degrees",
+    "Almost minus 273 degrees"
+   ],
+   "fr": [
+    "0 degré",
+    "Environ moins 18 degrés",
+    "Environ moins 89 degrés",
+    "Environ moins 270 degrés",
+    "Presque moins 273 degrés"
+   ],
+   "nl": [
+    "0 graden",
+    "Ongeveer min 18 graden",
+    "Ongeveer min 89 graden",
+    "Ongeveer min 270 graden",
+    "Bijna min 273 graden"
+   ]
+  }
+ }
+}

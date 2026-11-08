@@ -1,0 +1,230 @@
+{
+ "id": "robo-20261108",
+ "world": "robo",
+ "guide": "Pixel",
+ "title": {
+  "en": "How does a robot dog keep its balance?",
+  "fr": "Comment un chien robot garde-t-il l’équilibre ?",
+  "nl": "Hoe houdt een robothond zijn evenwicht?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, I saw a robot dog walk up the stairs! How does it not fall over on four skinny metal legs?",
+   "fr": "Pixel, j’ai vu un chien robot monter l’escalier ! Comment fait-il pour ne pas tomber sur ses quatre pattes en métal toutes fines ?",
+   "nl": "Pixel, ik zag een robothond de trap op lopen! Hoe valt hij niet om op vier dunne metalen poten?",
+   "img": "Whyzz watches a friendly robot dog climbing stairs, Pixel beside him"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Inside its body is a balance sensor that feels which way it is tipping. It works a bit like the tiny balance helper inside your ears.",
+   "fr": "Dans son corps, il y a un capteur d’équilibre qui sent de quel côté il penche. Ça marche un peu comme le petit organe de l’équilibre dans tes oreilles.",
+   "nl": "In zijn lijf zit een evenwichtssensor die voelt naar welke kant hij overhelt. Dat werkt een beetje zoals het kleine evenwichtsorgaan in je oren.",
+   "img": "Pixel shows a glowing sensor inside the robot dog, Whyzz touches his ear"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I know! It eats special robot dog treats that make it extra steady.",
+   "fr": "Je sais ! Il mange des friandises spéciales pour chien robot qui le rendent super stable.",
+   "nl": "Ik weet het! Hij eet speciale robothondensnoepjes waardoor hij extra stevig staat.",
+   "img": "Whyzz offers a bolt-shaped treat to the robot dog, Pixel laughs"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, no treats! Its computer checks the sensor hundreds of times every second and tells the motors in its legs exactly how to move.",
+   "fr": "Ha, pas de friandises ! Son ordinateur vérifie le capteur des centaines de fois par seconde et dit aux moteurs de ses pattes exactement comment bouger.",
+   "nl": "Haha, geen snoepjes! Zijn computer kijkt honderden keren per seconde naar de sensor en vertelt de motoren in zijn poten precies hoe ze moeten bewegen.",
+   "img": "Glowing lines run from the robot dog's head to motors in its legs"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know that if you give a robot dog a little push, it quickly takes a step to catch itself? That’s just what you do when someone bumps into you!",
+   "fr": "Savais-tu que si tu pousses un peu un chien robot, il fait vite un pas pour se rattraper ? C’est exactement ce que tu fais quand quelqu’un te bouscule !",
+   "nl": "Wist je dat een robothond die een duwtje krijgt, snel een stap zet om zichzelf op te vangen? Dat doe jij ook als iemand tegen je aan botst!",
+   "img": "Pixel gently pushes the robot dog, it steps sideways, Whyzz catches his own balance"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a robot dog feels, thinks and steps really fast to stay balanced. What job would you teach a robot dog to do?",
+   "fr": "Donc un chien robot sent, réfléchit et fait des pas très vite pour garder l’équilibre. Quel travail apprendrais-tu à un chien robot ?",
+   "nl": "Dus een robothond voelt, denkt en zet supersnel stapjes om in evenwicht te blijven. Welk klusje zou jij een robothond leren?",
+   "img": "Whyzz and Pixel cheer as the robot dog stands proudly on a hill"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches in amazement as a friendly white four-legged robot dog with a round head and glowing blue eyes climbs up a short flight of stairs in a bright park, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands beside him smiling. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points at the friendly white four-legged robot dog whose body is partly see-through, showing a small glowing orange sensor in its middle, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge touches his own ear with a curious face, bright park. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge grins and offers a small shiny treat shaped like a metal bolt to the friendly white four-legged robot dog, which tilts its head, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs out loud, bright park. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge explains next to the friendly white four-legged robot dog while glowing teal light lines run from its head down to small round motors in its knees and hips, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge nods with interest, bright workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge gently pushes the side of the friendly white four-legged robot dog with one hand, it quickly steps one leg sideways to stay steady, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge beside them wobbles on one foot with his arms out, bright park. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge cheer with their arms up as the friendly white four-legged robot dog stands proudly on top of a small green hill, sunny sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What does the balance sensor feel?",
+    "fr": "Que sent le capteur d’équilibre ?",
+    "nl": "Wat voelt de evenwichtssensor?"
+   },
+   "o": {
+    "en": [
+     "Which way the robot is tipping",
+     "How hungry the robot is",
+     "The color of the floor"
+    ],
+    "fr": [
+     "De quel côté le robot penche",
+     "Si le robot a faim",
+     "La couleur du sol"
+    ],
+    "nl": [
+     "Naar welke kant de robot overhelt",
+     "Hoeveel honger de robot heeft",
+     "De kleur van de vloer"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Where in your body is a balance helper like it?",
+    "fr": "Où se trouve dans ton corps un organe de l’équilibre comme lui ?",
+    "nl": "Waar in je lichaam zit een evenwichtsorgaan zoals dat?"
+   },
+   "o": {
+    "en": [
+     "In your elbows",
+     "In your ears",
+     "In your hair"
+    ],
+    "fr": [
+     "Dans tes coudes",
+     "Dans tes oreilles",
+     "Dans tes cheveux"
+    ],
+    "nl": [
+     "In je ellebogen",
+     "In je oren",
+     "In je haar"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How often does the computer check the sensor?",
+    "fr": "À quelle fréquence l’ordinateur vérifie-t-il le capteur ?",
+    "nl": "Hoe vaak kijkt de computer naar de sensor?"
+   },
+   "o": {
+    "en": [
+     "Once a week",
+     "Once an hour",
+     "Hundreds of times every second"
+    ],
+    "fr": [
+     "Une fois par semaine",
+     "Une fois par heure",
+     "Des centaines de fois par seconde"
+    ],
+    "nl": [
+     "Eén keer per week",
+     "Eén keer per uur",
+     "Honderden keren per seconde"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What does a robot dog do when it gets a little push?",
+    "fr": "Que fait un chien robot quand on le pousse un peu ?",
+    "nl": "Wat doet een robothond als hij een duwtje krijgt?"
+   },
+   "o": {
+    "en": [
+     "It quickly takes a step to catch itself",
+     "It barks loudly",
+     "It falls asleep"
+    ],
+    "fr": [
+     "Il fait vite un pas pour se rattraper",
+     "Il aboie très fort",
+     "Il s’endort"
+    ],
+    "nl": [
+     "Hij zet snel een stap om zich op te vangen",
+     "Hij blaft heel hard",
+     "Hij valt in slaap"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What keeps the robot dog steady?",
+    "fr": "Qu’est-ce qui permet au chien robot de rester stable ?",
+    "nl": "Waardoor blijft de robothond stevig staan?"
+   },
+   "o": {
+    "en": [
+     "Special treats",
+     "Its sensor, computer and motors",
+     "Magic glue on its paws"
+    ],
+    "fr": [
+     "Des friandises spéciales",
+     "Son capteur, son ordinateur et ses moteurs",
+     "De la colle magique sous ses pattes"
+    ],
+    "nl": [
+     "Speciale snoepjes",
+     "Zijn sensor, computer en motoren",
+     "Toverlijm onder zijn poten"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "Steady, robot dog!",
+   "fr": "Tiens bon, chien robot !",
+   "nl": "Rustig, robothond!"
+  },
+  "intro": {
+   "en": "The robot dog starts to tip over. Put the steps in the right order to help it stand steady again!",
+   "fr": "Le chien robot commence à pencher. Remets les étapes dans le bon ordre pour qu’il retrouve l’équilibre !",
+   "nl": "De robothond begint om te vallen. Zet de stappen in de juiste volgorde zodat hij weer stevig staat!"
+  },
+  "done": {
+   "en": "Woof! The robot dog stands steady thanks to you.",
+   "fr": "Ouaf ! Grâce à toi, le chien robot tient bien debout.",
+   "nl": "Woef! Dankzij jou staat de robothond weer stevig."
+  },
+  "items": {
+   "en": [
+    "The robot dog starts to tip",
+    "The balance sensor feels the tipping",
+    "The computer decides which leg to move",
+    "The motors move that leg",
+    "The robot dog stands steady again"
+   ],
+   "fr": [
+    "Le chien robot commence à pencher",
+    "Le capteur d’équilibre sent qu’il penche",
+    "L’ordinateur décide quelle patte bouger",
+    "Les moteurs bougent cette patte",
+    "Le chien robot tient de nouveau debout"
+   ],
+   "nl": [
+    "De robothond begint over te hellen",
+    "De evenwichtssensor voelt dat hij overhelt",
+    "De computer beslist welke poot moet bewegen",
+    "De motoren bewegen die poot",
+    "De robothond staat weer stevig"
+   ]
+  }
+ }
+}

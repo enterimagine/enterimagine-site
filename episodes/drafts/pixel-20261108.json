@@ -1,0 +1,233 @@
+{
+ "id": "pixel-20261108",
+ "world": "pixel",
+ "guide": "Pixel",
+ "title": {
+  "en": "How does a map app find the fastest way?",
+  "fr": "Comment une appli de cartes trouve-t-elle le chemin le plus rapide ?",
+  "nl": "Hoe vindt een kaartenapp de snelste weg?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, the map app on our phone found a faster way to the beach than we did! How does it know the quickest road?",
+   "fr": "Pixel, l’appli de cartes sur notre téléphone a trouvé un chemin plus rapide vers la plage que nous ! Comment sait-elle quelle route est la plus rapide ?",
+   "nl": "Pixel, de kaartenapp op onze telefoon vond een snellere weg naar het strand dan wij! Hoe weet die app welke weg het snelst is?",
+   "img": "Whyzz in a car back seat holds a phone with a glowing map, Pixel beside him"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "The app sees all the roads as lines between dots, like a giant connect-the-dots puzzle. Every dot is a crossing and every line is a road.",
+   "fr": "L’appli voit toutes les routes comme des lignes entre des points, comme un énorme jeu de points à relier. Chaque point est un carrefour et chaque ligne est une route.",
+   "nl": "De app ziet alle wegen als lijnen tussen stippen, zoals een reusachtige verbind-de-stippenpuzzel. Elke stip is een kruispunt en elke lijn is een weg.",
+   "img": "Pixel points at a giant floating puzzle of glowing dots and lines over a toy town"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I know! The app sends a tiny pigeon to fly ahead and peek at every street.",
+   "fr": "Je sais ! L’appli envoie un petit pigeon qui vole devant pour regarder chaque rue.",
+   "nl": "Ik weet het! De app stuurt een klein duifje vooruit om in elke straat te gaan kijken.",
+   "img": "Whyzz flaps his arms like a bird, a cartoon pigeon with tiny goggles, Pixel laughs"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, no pigeons! The app gives each road a travel time, then adds up the times of lots of possible ways in a flash and picks the smallest total.",
+   "fr": "Ha, pas de pigeons ! L’appli donne un temps de trajet à chaque route, additionne en un éclair les temps de plein de chemins possibles et choisit le plus petit total.",
+   "nl": "Haha, geen duiven! De app geeft elke weg een reistijd, telt bliksemsnel de tijden van heel veel mogelijke routes op en kiest het kleinste totaal.",
+   "img": "Glowing routes with little clocks race across a map, one route shines gold"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know that phones help spot traffic jams? When lots of phones on one road move very slowly, the app knows there is a jam and looks for another way.",
+   "fr": "Savais-tu que les téléphones aident à repérer les bouchons ? Quand plein de téléphones avancent très lentement sur une route, l’appli sait qu’il y a un bouchon et cherche un autre chemin.",
+   "nl": "Wist je dat telefoons helpen om files te vinden? Als heel veel telefoons op één weg heel traag gaan, weet de app dat er een file is en zoekt hij een andere weg.",
+   "img": "A toy road with a slow line of cars glowing red, a bright green detour beside it"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the map app is a super-fast puzzle solver that adds up travel times. Where would you ask it to take you on your dream trip?",
+   "fr": "Donc l’appli de cartes est une super championne des puzzles qui additionne des temps de trajet. Où lui demanderais-tu de t’emmener pour le voyage de tes rêves ?",
+   "nl": "Dus de kaartenapp is een supersnelle puzzelkampioen die reistijden optelt. Waar zou jij hem naartoe laten brengen voor je droomreis?",
+   "img": "Whyzz and Pixel cheer on a sunny beach next to a parked car"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits in the back seat of a family car holding up a phone that shows a glowing colorful map with a bright route line, looking amazed, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge sits beside him smiling, sunny road to the sea outside the window. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points at a giant floating puzzle of glowing orange dots connected by teal lines hovering above a colorful toy town with tiny roads, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks up curiously with his mouth open. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge flaps his arms like wings and grins, next to him a funny cartoon pigeon wearing tiny pilot goggles flies above toy streets, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs out loud holding her belly, bright sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge explains next to a big glowing map where several colorful route lines race toward a beach, each line has small floating clock shapes, one route shines bright gold, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge nods thoughtfully. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points at a toy road where a slow line of tiny cars glows red while a bright green detour road curves around them, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge gives a thumbs up, colorful miniature city. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge cheer with their arms up on a sunny sandy beach next to a small parked family car, sparkling blue sea and seagulls behind them. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "In the app’s puzzle, what is a dot?",
+    "fr": "Dans le puzzle de l’appli, qu’est-ce qu’un point ?",
+    "nl": "Wat is een stip in de puzzel van de app?"
+   },
+   "o": {
+    "en": [
+     "A crossing",
+     "A house",
+     "A tree"
+    ],
+    "fr": [
+     "Un carrefour",
+     "Une maison",
+     "Un arbre"
+    ],
+    "nl": [
+     "Een kruispunt",
+     "Een huis",
+     "Een boom"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What does the app add up?",
+    "fr": "Qu’est-ce que l’appli additionne ?",
+    "nl": "Wat telt de app op?"
+   },
+   "o": {
+    "en": [
+     "The colors of the cars",
+     "The travel times of the roads",
+     "The number of pigeons"
+    ],
+    "fr": [
+     "Les couleurs des voitures",
+     "Les temps de trajet des routes",
+     "Le nombre de pigeons"
+    ],
+    "nl": [
+     "De kleuren van de auto’s",
+     "De reistijden van de wegen",
+     "Het aantal duiven"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How does the app know there is a traffic jam?",
+    "fr": "Comment l’appli sait-elle qu’il y a un bouchon ?",
+    "nl": "Hoe weet de app dat er een file is?"
+   },
+   "o": {
+    "en": [
+     "A pigeon tells it",
+     "It just guesses",
+     "Lots of phones on that road move slowly"
+    ],
+    "fr": [
+     "Un pigeon le lui dit",
+     "Elle devine, c’est tout",
+     "Plein de téléphones avancent lentement sur cette route"
+    ],
+    "nl": [
+     "Een duif vertelt het",
+     "Hij gokt gewoon",
+     "Veel telefoons op die weg gaan traag"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Which way does the app pick?",
+    "fr": "Quel chemin l’appli choisit-elle ?",
+    "nl": "Welke route kiest de app?"
+   },
+   "o": {
+    "en": [
+     "The longest one",
+     "The one with the smallest total time",
+     "The one with the most turns"
+    ],
+    "fr": [
+     "Le plus long",
+     "Celui avec le plus petit temps total",
+     "Celui avec le plus de virages"
+    ],
+    "nl": [
+     "De langste",
+     "De route met de kleinste totale tijd",
+     "De route met de meeste bochten"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "In the puzzle, what is a line?",
+    "fr": "Dans le puzzle, qu’est-ce qu’une ligne ?",
+    "nl": "Wat is een lijn in de puzzel?"
+   },
+   "o": {
+    "en": [
+     "A road",
+     "A river",
+     "A rainbow"
+    ],
+    "fr": [
+     "Une route",
+     "Une rivière",
+     "Un arc-en-ciel"
+    ],
+    "nl": [
+     "Een weg",
+     "Een rivier",
+     "Een regenboog"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "Find the way!",
+   "fr": "Trouve le chemin !",
+   "nl": "Vind de weg!"
+  },
+  "intro": {
+   "en": "Put the steps of the map app in the right order, from start to finish.",
+   "fr": "Remets les étapes de l’appli de cartes dans le bon ordre, du début à la fin.",
+   "nl": "Zet de stappen van de kaartenapp in de juiste volgorde, van begin tot eind."
+  },
+  "done": {
+   "en": "Great job! You think like a map app.",
+   "fr": "Bravo ! Tu réfléchis comme une appli de cartes.",
+   "nl": "Goed gedaan! Je denkt als een kaartenapp."
+  },
+  "items": {
+   "en": [
+    "You type where you want to go",
+    "The app finds where you are now",
+    "It looks at all the roads in between",
+    "It adds up the travel times of many ways",
+    "It picks the fastest way",
+    "It guides you turn by turn"
+   ],
+   "fr": [
+    "Tu tapes où tu veux aller",
+    "L’appli trouve où tu es maintenant",
+    "Elle regarde toutes les routes entre les deux",
+    "Elle additionne les temps de trajet de plein de chemins",
+    "Elle choisit le chemin le plus rapide",
+    "Elle te guide virage après virage"
+   ],
+   "nl": [
+    "Je typt waar je naartoe wilt",
+    "De app zoekt waar je nu bent",
+    "Hij bekijkt alle wegen daartussen",
+    "Hij telt de reistijden van veel routes op",
+    "Hij kiest de snelste weg",
+    "Hij wijst je bocht na bocht de weg"
+   ]
+  }
+ }
+}

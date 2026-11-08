@@ -1942,5 +1942,545 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "De natuur is dus de beste leraar voor uitvinders: kijk gewoon goed en vraag je af waarom! Welk dier of welke plant zou jij nadoen voor je volgende uitvinding?"
+ },
+ {
+  "id": "pixel-20261108-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, the map app on our phone found a faster way to the beach than we did! How does it know the quickest road?"
+ },
+ {
+  "id": "pixel-20261108-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, l’appli de cartes sur notre téléphone a trouvé un chemin plus rapide vers la plage que nous ! Comment sait-elle quelle route est la plus rapide ?"
+ },
+ {
+  "id": "pixel-20261108-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, de kaartenapp op onze telefoon vond een snellere weg naar het strand dan wij! Hoe weet die app welke weg het snelst is?"
+ },
+ {
+  "id": "pixel-20261108-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "The app sees all the roads as lines between dots, like a giant connect-the-dots puzzle. Every dot is a crossing and every line is a road."
+ },
+ {
+  "id": "pixel-20261108-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "L’appli voit toutes les routes comme des lignes entre des points, comme un énorme jeu de points à relier. Chaque point est un carrefour et chaque ligne est une route."
+ },
+ {
+  "id": "pixel-20261108-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "De app ziet alle wegen als lijnen tussen stippen, zoals een reusachtige verbind-de-stippenpuzzel. Elke stip is een kruispunt en elke lijn is een weg."
+ },
+ {
+  "id": "pixel-20261108-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I know! The app sends a tiny pigeon to fly ahead and peek at every street."
+ },
+ {
+  "id": "pixel-20261108-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je sais ! L’appli envoie un petit pigeon qui vole devant pour regarder chaque rue."
+ },
+ {
+  "id": "pixel-20261108-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik weet het! De app stuurt een klein duifje vooruit om in elke straat te gaan kijken."
+ },
+ {
+  "id": "pixel-20261108-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no pigeons! The app gives each road a travel time, then adds up the times of lots of possible ways in a flash and picks the smallest total."
+ },
+ {
+  "id": "pixel-20261108-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, pas de pigeons ! L’appli donne un temps de trajet à chaque route, additionne en un éclair les temps de plein de chemins possibles et choisit le plus petit total."
+ },
+ {
+  "id": "pixel-20261108-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, geen duiven! De app geeft elke weg een reistijd, telt bliksemsnel de tijden van heel veel mogelijke routes op en kiest het kleinste totaal."
+ },
+ {
+  "id": "pixel-20261108-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know that phones help spot traffic jams? When lots of phones on one road move very slowly, the app knows there is a jam and looks for another way."
+ },
+ {
+  "id": "pixel-20261108-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu que les téléphones aident à repérer les bouchons ? Quand plein de téléphones avancent très lentement sur une route, l’appli sait qu’il y a un bouchon et cherche un autre chemin."
+ },
+ {
+  "id": "pixel-20261108-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat telefoons helpen om files te vinden? Als heel veel telefoons op één weg heel traag gaan, weet de app dat er een file is en zoekt hij een andere weg."
+ },
+ {
+  "id": "pixel-20261108-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the map app is a super-fast puzzle solver that adds up travel times. Where would you ask it to take you on your dream trip?"
+ },
+ {
+  "id": "pixel-20261108-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc l’appli de cartes est une super championne des puzzles qui additionne des temps de trajet. Où lui demanderais-tu de t’emmener pour le voyage de tes rêves ?"
+ },
+ {
+  "id": "pixel-20261108-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de kaartenapp is een supersnelle puzzelkampioen die reistijden optelt. Waar zou jij hem naartoe laten brengen voor je droomreis?"
+ },
+ {
+  "id": "qubi-20261108-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, I heard that some quantum computers live inside a giant fridge, colder than outer space! Do they get too hot from all that thinking?"
+ },
+ {
+  "id": "qubi-20261108-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, j’ai entendu que certains ordinateurs quantiques vivent dans un frigo géant, plus froid que l’espace ! Ils ont trop chaud à force de réfléchir ?"
+ },
+ {
+  "id": "qubi-20261108-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, ik hoorde dat sommige quantumcomputers in een reuzenkoelkast wonen, kouder dan de ruimte! Krijgen ze het te warm van al dat denken?"
+ },
+ {
+  "id": "qubi-20261108-en-2",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Not quite! Qubits are super delicate and even a tiny bit of heat makes them wobble. When they wobble, they forget their quantum information."
+ },
+ {
+  "id": "qubi-20261108-fr-2",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Pas tout à fait ! Les qubits sont super fragiles et même un tout petit peu de chaleur les fait trembler. Quand ils tremblent, ils oublient leur information quantique."
+ },
+ {
+  "id": "qubi-20261108-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Niet helemaal! Qubits zijn supergevoelig en zelfs een heel klein beetje warmte laat ze wiebelen. Als ze wiebelen, vergeten ze hun quantuminformatie."
+ },
+ {
+  "id": "qubi-20261108-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I know! Let’s give each qubit a tiny winter coat and a cup of hot cocoa."
+ },
+ {
+  "id": "qubi-20261108-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je sais ! On n’a qu’à donner à chaque qubit un petit manteau d’hiver et une tasse de chocolat chaud."
+ },
+ {
+  "id": "qubi-20261108-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik weet het! We geven elke qubit een piepklein winterjasje en een kopje warme chocolademelk."
+ },
+ {
+  "id": "qubi-20261108-en-4",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Ha, cocoa would make them wobble even more! The fridge works in layers, like an upside-down cake and each layer is colder than the one above it."
+ },
+ {
+  "id": "qubi-20261108-fr-4",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Ha, le chocolat chaud les ferait trembler encore plus ! Le frigo fonctionne par étages, comme un gâteau à l’envers, et chaque étage est plus froid que celui du dessus."
+ },
+ {
+  "id": "qubi-20261108-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Haha, chocolademelk zou ze nog meer laten wiebelen! De koelkast werkt in lagen, zoals een omgekeerde taart, en elke laag is kouder dan de laag erboven."
+ },
+ {
+  "id": "qubi-20261108-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Did you know that the bottom of this fridge is even colder than outer space? Space is about minus 270 degrees Celsius and the fridge gets almost to minus 273, the coldest cold there is!"
+ },
+ {
+  "id": "qubi-20261108-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Savais-tu que le bas de ce frigo est encore plus froid que l’espace ? L’espace est à environ moins 270 degrés et le frigo descend presque à moins 273, le froid le plus froid qui existe !"
+ },
+ {
+  "id": "qubi-20261108-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Wist je dat de onderkant van deze koelkast nog kouder is dan de ruimte? De ruimte is ongeveer min 270 graden en de koelkast gaat bijna tot min 273, de koudste kou die er bestaat!"
+ },
+ {
+  "id": "qubi-20261108-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So qubits need super cold to stay calm and do their quantum tricks. If you had the coldest fridge in the world, what would you put inside?"
+ },
+ {
+  "id": "qubi-20261108-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les qubits ont besoin d’un froid extrême pour rester calmes et faire leurs tours quantiques. Si tu avais le frigo le plus froid du monde, qu’est-ce que tu mettrais dedans ?"
+ },
+ {
+  "id": "qubi-20261108-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus qubits hebben superveel kou nodig om rustig te blijven en hun quantumtrucs te doen. Als jij de koudste koelkast ter wereld had, wat zou je erin stoppen?"
+ },
+ {
+  "id": "bloom-20261108-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Bloom, why do bees buzz from flower to flower all day long? Are they just looking for a snack?"
+ },
+ {
+  "id": "bloom-20261108-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Bloom, pourquoi les abeilles volent-elles de fleur en fleur toute la journée ? Elles cherchent juste un petit goûter ?"
+ },
+ {
+  "id": "bloom-20261108-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Bloom, waarom zoemen bijen de hele dag van bloem naar bloem? Zoeken ze gewoon een tussendoortje?"
+ },
+ {
+  "id": "bloom-20261108-en-2",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Yes, they sip sweet nectar, that’s their snack! But while they sip, fluffy yellow pollen sticks to their hairy bodies."
+ },
+ {
+  "id": "bloom-20261108-fr-2",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Oui, elles boivent le nectar sucré, c’est leur goûter ! Mais pendant qu’elles boivent, du pollen jaune et doux se colle à leur corps tout poilu."
+ },
+ {
+  "id": "bloom-20261108-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Ja, ze drinken zoete nectar, dat is hun tussendoortje! Maar terwijl ze drinken, blijft er zacht geel stuifmeel aan hun harige lijfje plakken."
+ },
+ {
+  "id": "bloom-20261108-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I know! The bees are giving the flowers tiny high fives."
+ },
+ {
+  "id": "bloom-20261108-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je sais ! Les abeilles font des petits tope-là aux fleurs."
+ },
+ {
+  "id": "bloom-20261108-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik weet het! De bijen geven de bloemen piepkleine high fives."
+ },
+ {
+  "id": "bloom-20261108-en-4",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Ha, almost! When a bee lands on the next flower, some pollen rubs off and that helps the flower grow into a fruit with seeds."
+ },
+ {
+  "id": "bloom-20261108-fr-4",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Ha, presque ! Quand l’abeille se pose sur la fleur suivante, un peu de pollen s’y frotte et ça aide la fleur à devenir un fruit avec des graines."
+ },
+ {
+  "id": "bloom-20261108-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Haha, bijna! Als een bij op de volgende bloem landt, wrijft er wat stuifmeel af en dat helpt de bloem om een vrucht met zaadjes te worden."
+ },
+ {
+  "id": "bloom-20261108-en-5",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Did you know that one honeybee can visit hundreds of flowers in a single day? Apples, strawberries and blueberries all need busy helpers like bees."
+ },
+ {
+  "id": "bloom-20261108-fr-5",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Savais-tu qu’une seule abeille peut visiter des centaines de fleurs en une journée ? Les pommes, les fraises et les myrtilles ont toutes besoin d’aides travailleuses comme les abeilles."
+ },
+ {
+  "id": "bloom-20261108-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Wist je dat één honingbij op één dag honderden bloemen kan bezoeken? Appels, aardbeien en bosbessen hebben allemaal ijverige helpers zoals bijen nodig."
+ },
+ {
+  "id": "bloom-20261108-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So bees get a snack and flowers get help making fruit, what a team! Which fruit would you like to thank a bee for?"
+ },
+ {
+  "id": "bloom-20261108-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les abeilles ont leur goûter et les fleurs reçoivent de l’aide pour faire des fruits, quelle équipe ! Pour quel fruit aimerais-tu dire merci à une abeille ?"
+ },
+ {
+  "id": "bloom-20261108-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus bijen krijgen een tussendoortje en bloemen krijgen hulp om fruit te maken, wat een team! Voor welk fruit zou jij een bij willen bedanken?"
+ },
+ {
+  "id": "robo-20261108-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, I saw a robot dog walk up the stairs! How does it not fall over on four skinny metal legs?"
+ },
+ {
+  "id": "robo-20261108-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, j’ai vu un chien robot monter l’escalier ! Comment fait-il pour ne pas tomber sur ses quatre pattes en métal toutes fines ?"
+ },
+ {
+  "id": "robo-20261108-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, ik zag een robothond de trap op lopen! Hoe valt hij niet om op vier dunne metalen poten?"
+ },
+ {
+  "id": "robo-20261108-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Inside its body is a balance sensor that feels which way it is tipping. It works a bit like the tiny balance helper inside your ears."
+ },
+ {
+  "id": "robo-20261108-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Dans son corps, il y a un capteur d’équilibre qui sent de quel côté il penche. Ça marche un peu comme le petit organe de l’équilibre dans tes oreilles."
+ },
+ {
+  "id": "robo-20261108-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "In zijn lijf zit een evenwichtssensor die voelt naar welke kant hij overhelt. Dat werkt een beetje zoals het kleine evenwichtsorgaan in je oren."
+ },
+ {
+  "id": "robo-20261108-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I know! It eats special robot dog treats that make it extra steady."
+ },
+ {
+  "id": "robo-20261108-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je sais ! Il mange des friandises spéciales pour chien robot qui le rendent super stable."
+ },
+ {
+  "id": "robo-20261108-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik weet het! Hij eet speciale robothondensnoepjes waardoor hij extra stevig staat."
+ },
+ {
+  "id": "robo-20261108-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no treats! Its computer checks the sensor hundreds of times every second and tells the motors in its legs exactly how to move."
+ },
+ {
+  "id": "robo-20261108-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, pas de friandises ! Son ordinateur vérifie le capteur des centaines de fois par seconde et dit aux moteurs de ses pattes exactement comment bouger."
+ },
+ {
+  "id": "robo-20261108-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, geen snoepjes! Zijn computer kijkt honderden keren per seconde naar de sensor en vertelt de motoren in zijn poten precies hoe ze moeten bewegen."
+ },
+ {
+  "id": "robo-20261108-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know that if you give a robot dog a little push, it quickly takes a step to catch itself? That’s just what you do when someone bumps into you!"
+ },
+ {
+  "id": "robo-20261108-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu que si tu pousses un peu un chien robot, il fait vite un pas pour se rattraper ? C’est exactement ce que tu fais quand quelqu’un te bouscule !"
+ },
+ {
+  "id": "robo-20261108-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat een robothond die een duwtje krijgt, snel een stap zet om zichzelf op te vangen? Dat doe jij ook als iemand tegen je aan botst!"
+ },
+ {
+  "id": "robo-20261108-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a robot dog feels, thinks and steps really fast to stay balanced. What job would you teach a robot dog to do?"
+ },
+ {
+  "id": "robo-20261108-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc un chien robot sent, réfléchit et fait des pas très vite pour garder l’équilibre. Quel travail apprendrais-tu à un chien robot ?"
+ },
+ {
+  "id": "robo-20261108-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus een robothond voelt, denkt en zet supersnel stapjes om in evenwicht te blijven. Welk klusje zou jij een robothond leren?"
+ },
+ {
+  "id": "energy-20261108-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, our neighbors have shiny blue panels on their roof. How can sunshine turn into electricity for their TV?"
+ },
+ {
+  "id": "energy-20261108-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, nos voisins ont des panneaux bleus tout brillants sur leur toit. Comment le soleil peut-il devenir de l’électricité pour leur télé ?"
+ },
+ {
+  "id": "energy-20261108-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, onze buren hebben glimmende blauwe panelen op hun dak. Hoe kan zonneschijn stroom worden voor hun tv?"
+ },
+ {
+  "id": "energy-20261108-en-2",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Those are solar panels, made of thin slices of silicon, which comes from sand! When sunlight hits them, it gives tiny particles called electrons a push."
+ },
+ {
+  "id": "energy-20261108-fr-2",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Ce sont des panneaux solaires, faits de fines tranches de silicium, qu’on fabrique à partir de sable ! Quand la lumière du soleil les touche, elle donne une poussée à de minuscules particules appelées électrons."
+ },
+ {
+  "id": "energy-20261108-nl-2",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Dat zijn zonnepanelen, gemaakt van dunne plakjes silicium, dat uit zand komt! Als er zonlicht op valt, geeft het piepkleine deeltjes, elektronen, een duwtje."
+ },
+ {
+  "id": "energy-20261108-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I know! The panels catch sunbeams in a jar and pour them into the wires."
+ },
+ {
+  "id": "energy-20261108-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je sais ! Les panneaux attrapent les rayons du soleil dans un bocal et les versent dans les fils."
+ },
+ {
+  "id": "energy-20261108-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik weet het! De panelen vangen zonnestralen in een pot en gieten ze in de draden."
+ },
+ {
+  "id": "energy-20261108-en-4",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Fun idea, but no jars! The pushed electrons start to flow through the wires together and flowing electrons are electricity."
+ },
+ {
+  "id": "energy-20261108-fr-4",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Bonne idée, mais pas de bocaux ! Les électrons poussés se mettent à circuler ensemble dans les fils et des électrons qui circulent, c’est de l’électricité."
+ },
+ {
+  "id": "energy-20261108-nl-4",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Leuk bedacht, maar geen potten! De geduwde elektronen gaan samen door de draden stromen en stromende elektronen, dat is elektriciteit."
+ },
+ {
+  "id": "energy-20261108-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Did you know that solar panels still work on cloudy days? They make less electricity because less light gets through, but they don’t stop completely."
+ },
+ {
+  "id": "energy-20261108-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu que les panneaux solaires fonctionnent aussi quand il y a des nuages ? Ils produisent moins d’électricité parce que moins de lumière passe, mais ils ne s’arrêtent pas complètement."
+ },
+ {
+  "id": "energy-20261108-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Wist je dat zonnepanelen ook werken als het bewolkt is? Ze maken dan minder stroom omdat er minder licht door komt, maar ze stoppen niet helemaal."
+ },
+ {
+  "id": "energy-20261108-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So sunlight pushes electrons and flowing electrons power our homes! Where would you put solar panels if you could choose?"
+ },
+ {
+  "id": "energy-20261108-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc la lumière pousse les électrons et les électrons qui circulent alimentent nos maisons ! Où mettrais-tu des panneaux solaires si tu pouvais choisir ?"
+ },
+ {
+  "id": "energy-20261108-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus zonlicht duwt elektronen en stromende elektronen geven onze huizen stroom! Waar zou jij zonnepanelen leggen als je mocht kiezen?"
  }
 ]

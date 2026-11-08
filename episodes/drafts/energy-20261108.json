@@ -1,0 +1,247 @@
+{
+ "id": "energy-20261108",
+ "world": "energy",
+ "guide": "Sunny",
+ "title": {
+  "en": "How do solar panels turn sunlight into electricity?",
+  "fr": "Comment les panneaux solaires transforment-ils la lumière du soleil en électricité ?",
+  "nl": "Hoe maken zonnepanelen stroom van zonlicht?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, our neighbors have shiny blue panels on their roof. How can sunshine turn into electricity for their TV?",
+   "fr": "Sunny, nos voisins ont des panneaux bleus tout brillants sur leur toit. Comment le soleil peut-il devenir de l’électricité pour leur télé ?",
+   "nl": "Sunny, onze buren hebben glimmende blauwe panelen op hun dak. Hoe kan zonneschijn stroom worden voor hun tv?",
+   "img": "Whyzz points at blue solar panels on a house roof, Sunny beside him"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Those are solar panels, made of thin slices of silicon, which comes from sand! When sunlight hits them, it gives tiny particles called electrons a push.",
+   "fr": "Ce sont des panneaux solaires, faits de fines tranches de silicium, qu’on fabrique à partir de sable ! Quand la lumière du soleil les touche, elle donne une poussée à de minuscules particules appelées électrons.",
+   "nl": "Dat zijn zonnepanelen, gemaakt van dunne plakjes silicium, dat uit zand komt! Als er zonlicht op valt, geeft het piepkleine deeltjes, elektronen, een duwtje.",
+   "img": "Sunny holds a shiny slice of silicon next to a pile of sand, sunbeams"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I know! The panels catch sunbeams in a jar and pour them into the wires.",
+   "fr": "Je sais ! Les panneaux attrapent les rayons du soleil dans un bocal et les versent dans les fils.",
+   "nl": "Ik weet het! De panelen vangen zonnestralen in een pot en gieten ze in de draden.",
+   "img": "Whyzz holds a glass jar full of glowing sunbeams, Sunny laughs"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Fun idea, but no jars! The pushed electrons start to flow through the wires together and flowing electrons are electricity.",
+   "fr": "Bonne idée, mais pas de bocaux ! Les électrons poussés se mettent à circuler ensemble dans les fils et des électrons qui circulent, c’est de l’électricité.",
+   "nl": "Leuk bedacht, maar geen potten! De geduwde elektronen gaan samen door de draden stromen en stromende elektronen, dat is elektriciteit.",
+   "img": "Glowing yellow dots flow along a wire from a panel to a house"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Did you know that solar panels still work on cloudy days? They make less electricity because less light gets through, but they don’t stop completely.",
+   "fr": "Savais-tu que les panneaux solaires fonctionnent aussi quand il y a des nuages ? Ils produisent moins d’électricité parce que moins de lumière passe, mais ils ne s’arrêtent pas complètement.",
+   "nl": "Wist je dat zonnepanelen ook werken als het bewolkt is? Ze maken dan minder stroom omdat er minder licht door komt, maar ze stoppen niet helemaal.",
+   "img": "Solar panels under fluffy clouds still glow softly, Whyzz surprised"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So sunlight pushes electrons and flowing electrons power our homes! Where would you put solar panels if you could choose?",
+   "fr": "Donc la lumière pousse les électrons et les électrons qui circulent alimentent nos maisons ! Où mettrais-tu des panneaux solaires si tu pouvais choisir ?",
+   "nl": "Dus zonlicht duwt elektronen en stromende elektronen geven onze huizen stroom! Waar zou jij zonnepanelen leggen als je mocht kiezen?",
+   "img": "Whyzz and Sunny cheer on a sunny rooftop full of solar panels"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge points up at shiny blue solar panels on the roof of a cozy house on a sunny street, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands beside him smiling with her hands on her hips, bright blue sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge holds up a thin shiny dark blue square slice of silicon that sparkles in a sunbeam, next to a small pile of golden sand on a table, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans in curiously, sunny workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge proudly holds up a big glass jar full of glowing golden sunbeams with a lid on top, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge laughs out loud, sunny garden in front of a house with solar panels. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge explains as glowing little yellow dots flow along a cable from a blue solar panel into a cozy house with lit windows, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge follows the dots with his eyes and nods, sunny day. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Blue solar panels on a roof under fluffy grey and white clouds still glow softly with a little light, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge smiles and points up, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks surprised with raised eyebrows. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge cheer with their arms up on a flat sunny rooftop covered with rows of blue solar panels, a city with green trees in the background. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What are solar panels made of?",
+    "fr": "De quoi sont faits les panneaux solaires ?",
+    "nl": "Waarvan zijn zonnepanelen gemaakt?"
+   },
+   "o": {
+    "en": [
+     "Chocolate",
+     "Silicon, which comes from sand",
+     "Paper"
+    ],
+    "fr": [
+     "De chocolat",
+     "De silicium, qu’on fabrique à partir de sable",
+     "De papier"
+    ],
+    "nl": [
+     "Chocolade",
+     "Silicium, dat uit zand komt",
+     "Papier"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does sunlight push in a solar panel?",
+    "fr": "Que pousse la lumière du soleil dans un panneau solaire ?",
+    "nl": "Wat duwt zonlicht in een zonnepaneel?"
+   },
+   "o": {
+    "en": [
+     "Tiny electrons",
+     "Raindrops",
+     "Clouds"
+    ],
+    "fr": [
+     "De minuscules électrons",
+     "Des gouttes de pluie",
+     "Des nuages"
+    ],
+    "nl": [
+     "Piepkleine elektronen",
+     "Regendruppels",
+     "Wolken"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What is electricity?",
+    "fr": "Qu’est-ce que l’électricité ?",
+    "nl": "Wat is elektriciteit?"
+   },
+   "o": {
+    "en": [
+     "Sunbeams in a jar",
+     "Warm air",
+     "Flowing electrons"
+    ],
+    "fr": [
+     "Des rayons de soleil dans un bocal",
+     "De l’air chaud",
+     "Des électrons qui circulent"
+    ],
+    "nl": [
+     "Zonnestralen in een pot",
+     "Warme lucht",
+     "Stromende elektronen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Do solar panels work on cloudy days?",
+    "fr": "Les panneaux solaires marchent-ils quand il y a des nuages ?",
+    "nl": "Werken zonnepanelen als het bewolkt is?"
+   },
+   "o": {
+    "en": [
+     "Not at all",
+     "Yes, but they make less electricity",
+     "Only when it snows"
+    ],
+    "fr": [
+     "Pas du tout",
+     "Oui, mais ils produisent moins d’électricité",
+     "Seulement quand il neige"
+    ],
+    "nl": [
+     "Helemaal niet",
+     "Ja, maar ze maken minder stroom",
+     "Alleen als het sneeuwt"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Where did the neighbors put their solar panels?",
+    "fr": "Où les voisins ont-ils mis leurs panneaux solaires ?",
+    "nl": "Waar hebben de buren hun zonnepanelen gelegd?"
+   },
+   "o": {
+    "en": [
+     "On their roof",
+     "Under the bed",
+     "In the fridge"
+    ],
+    "fr": [
+     "Sur leur toit",
+     "Sous le lit",
+     "Dans le frigo"
+    ],
+    "nl": [
+     "Op hun dak",
+     "Onder het bed",
+     "In de koelkast"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Power from nature",
+   "fr": "L’énergie de la nature",
+   "nl": "Stroom uit de natuur"
+  },
+  "intro": {
+   "en": "Each machine makes electricity from something in nature. Match each machine to what it uses!",
+   "fr": "Chaque machine fabrique de l’électricité avec quelque chose de la nature. Associe chaque machine à ce qu’elle utilise !",
+   "nl": "Elke machine maakt stroom uit iets in de natuur. Koppel elke machine aan wat ze gebruikt!"
+  },
+  "done": {
+   "en": "Super! You know where clean electricity comes from.",
+   "fr": "Super ! Tu sais d’où vient l’électricité propre.",
+   "nl": "Super! Jij weet waar schone stroom vandaan komt."
+  },
+  "left": {
+   "en": [
+    "Solar panel",
+    "Wind turbine",
+    "Water dam",
+    "Geothermal power plant"
+   ],
+   "fr": [
+    "Panneau solaire",
+    "Éolienne",
+    "Barrage",
+    "Centrale géothermique"
+   ],
+   "nl": [
+    "Zonnepaneel",
+    "Windturbine",
+    "Stuwdam",
+    "Aardwarmtecentrale"
+   ]
+  },
+  "right": {
+   "en": [
+    "Sunlight",
+    "Wind",
+    "Flowing water",
+    "Hot rocks inside the Earth"
+   ],
+   "fr": [
+    "La lumière du soleil",
+    "Le vent",
+    "L’eau qui coule",
+    "Les roches chaudes sous la Terre"
+   ],
+   "nl": [
+    "Zonlicht",
+    "Wind",
+    "Stromend water",
+    "Hete stenen diep in de aarde"
+   ]
+  }
+ }
+}

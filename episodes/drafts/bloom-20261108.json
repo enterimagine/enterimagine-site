@@ -1,0 +1,242 @@
+{
+ "id": "bloom-20261108",
+ "world": "bloom",
+ "guide": "Bloom",
+ "title": {
+  "en": "How do bees help plants make fruit?",
+  "fr": "Comment les abeilles aident-elles les plantes à faire des fruits ?",
+  "nl": "Hoe helpen bijen planten om fruit te maken?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Bloom, why do bees buzz from flower to flower all day long? Are they just looking for a snack?",
+   "fr": "Bloom, pourquoi les abeilles volent-elles de fleur en fleur toute la journée ? Elles cherchent juste un petit goûter ?",
+   "nl": "Bloom, waarom zoemen bijen de hele dag van bloem naar bloem? Zoeken ze gewoon een tussendoortje?",
+   "img": "Whyzz watches bees in a flower garden, Bloom kneels beside him with a magnifier"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Yes, they sip sweet nectar, that’s their snack! But while they sip, fluffy yellow pollen sticks to their hairy bodies.",
+   "fr": "Oui, elles boivent le nectar sucré, c’est leur goûter ! Mais pendant qu’elles boivent, du pollen jaune et doux se colle à leur corps tout poilu.",
+   "nl": "Ja, ze drinken zoete nectar, dat is hun tussendoortje! Maar terwijl ze drinken, blijft er zacht geel stuifmeel aan hun harige lijfje plakken.",
+   "img": "Close-up of a fuzzy bee covered in yellow pollen on a flower, Bloom points"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I know! The bees are giving the flowers tiny high fives.",
+   "fr": "Je sais ! Les abeilles font des petits tope-là aux fleurs.",
+   "nl": "Ik weet het! De bijen geven de bloemen piepkleine high fives.",
+   "img": "A cartoon bee high-fives a smiling flower, Whyzz copies it, Bloom laughs"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Ha, almost! When a bee lands on the next flower, some pollen rubs off and that helps the flower grow into a fruit with seeds.",
+   "fr": "Ha, presque ! Quand l’abeille se pose sur la fleur suivante, un peu de pollen s’y frotte et ça aide la fleur à devenir un fruit avec des graines.",
+   "nl": "Haha, bijna! Als een bij op de volgende bloem landt, wrijft er wat stuifmeel af en dat helpt de bloem om een vrucht met zaadjes te worden.",
+   "img": "A flower slowly turning into a shiny red apple, Bloom explains"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Did you know that one honeybee can visit hundreds of flowers in a single day? Apples, strawberries and blueberries all need busy helpers like bees.",
+   "fr": "Savais-tu qu’une seule abeille peut visiter des centaines de fleurs en une journée ? Les pommes, les fraises et les myrtilles ont toutes besoin d’aides travailleuses comme les abeilles.",
+   "nl": "Wist je dat één honingbij op één dag honderden bloemen kan bezoeken? Appels, aardbeien en bosbessen hebben allemaal ijverige helpers zoals bijen nodig.",
+   "img": "A happy bee zooms past apples, strawberries and blueberries, Whyzz amazed"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So bees get a snack and flowers get help making fruit, what a team! Which fruit would you like to thank a bee for?",
+   "fr": "Donc les abeilles ont leur goûter et les fleurs reçoivent de l’aide pour faire des fruits, quelle équipe ! Pour quel fruit aimerais-tu dire merci à une abeille ?",
+   "nl": "Dus bijen krijgen een tussendoortje en bloemen krijgen hulp om fruit te maken, wat een team! Voor welk fruit zou jij een bij willen bedanken?",
+   "img": "Whyzz and Bloom wave at a bee in an orchard with a basket of fruit"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with wide curious eyes as cute fuzzy honeybees fly between colorful flowers in a sunny garden, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge kneels beside him holding a big magnifying glass, blue sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge points at a big close-up of a fuzzy cartoon honeybee sitting on a pink flower, its hairy body covered in sparkly yellow pollen dust, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans in with a curious face, sunny garden. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A cute cartoon honeybee gives a tiny high five to a smiling cartoon flower, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge copies it and holds up his hand for a high five, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge laughs with his eyes closed, sunny garden. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge explains with one hand raised next to an apple tree branch where a white blossom with yellow pollen gently changes into a shiny red apple in a magical glowing swirl, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches amazed, sunny orchard. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A happy cartoon honeybee zooms fast through the air leaving a sparkly trail past red apples, ripe strawberries and blueberries, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge smiles and points, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks amazed with his mouth open, sunny garden. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge wave happily at a cute honeybee in a sunny orchard, a wicker basket full of apples, strawberries and blueberries at their feet. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What do bees sip from flowers?",
+    "fr": "Que boivent les abeilles dans les fleurs ?",
+    "nl": "Wat drinken bijen uit bloemen?"
+   },
+   "o": {
+    "en": [
+     "Sweet nectar",
+     "Lemonade",
+     "Rainwater only"
+    ],
+    "fr": [
+     "Du nectar sucré",
+     "De la limonade",
+     "Seulement de l’eau de pluie"
+    ],
+    "nl": [
+     "Zoete nectar",
+     "Limonade",
+     "Alleen regenwater"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What sticks to a bee’s hairy body?",
+    "fr": "Qu’est-ce qui se colle au corps poilu de l’abeille ?",
+    "nl": "Wat blijft er aan het harige lijfje van een bij plakken?"
+   },
+   "o": {
+    "en": [
+     "Glitter",
+     "Pollen",
+     "Sand"
+    ],
+    "fr": [
+     "Des paillettes",
+     "Du pollen",
+     "Du sable"
+    ],
+    "nl": [
+     "Glitters",
+     "Stuifmeel",
+     "Zand"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does pollen help a flower do?",
+    "fr": "À quoi le pollen aide-t-il la fleur ?",
+    "nl": "Waarbij helpt stuifmeel een bloem?"
+   },
+   "o": {
+    "en": [
+     "Fall asleep",
+     "Change color",
+     "Grow into a fruit with seeds"
+    ],
+    "fr": [
+     "À s’endormir",
+     "À changer de couleur",
+     "À devenir un fruit avec des graines"
+    ],
+    "nl": [
+     "In slaap vallen",
+     "Van kleur veranderen",
+     "Een vrucht met zaadjes worden"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Which of these needs helpers like bees?",
+    "fr": "Lequel de ces aliments a besoin d’aides comme les abeilles ?",
+    "nl": "Wat heeft helpers zoals bijen nodig?"
+   },
+   "o": {
+    "en": [
+     "Pebbles",
+     "Strawberries",
+     "Ice cubes"
+    ],
+    "fr": [
+     "Les cailloux",
+     "Les fraises",
+     "Les glaçons"
+    ],
+    "nl": [
+     "Kiezelstenen",
+     "Aardbeien",
+     "IJsblokjes"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How many flowers can one honeybee visit in a day?",
+    "fr": "Combien de fleurs une abeille peut-elle visiter en une journée ?",
+    "nl": "Hoeveel bloemen kan één honingbij op een dag bezoeken?"
+   },
+   "o": {
+    "en": [
+     "Only one",
+     "None at all",
+     "Hundreds"
+    ],
+    "fr": [
+     "Une seule",
+     "Aucune",
+     "Des centaines"
+    ],
+    "nl": [
+     "Maar één",
+     "Helemaal geen",
+     "Honderden"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Thank you, bees!",
+   "fr": "Merci, les abeilles !",
+   "nl": "Dank je wel, bijen!"
+  },
+  "intro": {
+   "en": "Pick the foods that grow with help from bees and other buzzing helpers.",
+   "fr": "Choisis les aliments qui poussent grâce aux abeilles et aux autres insectes butineurs.",
+   "nl": "Kies het eten dat groeit met hulp van bijen en andere zoemende helpers."
+  },
+  "done": {
+   "en": "Buzzing good! Those fruits say thank you to the bees.",
+   "fr": "Bzzz, bravo ! Ces fruits disent merci aux abeilles.",
+   "nl": "Zoemend goed! Die vruchten zeggen dank je wel tegen de bijen."
+  },
+  "items": {
+   "en": [
+    "Apples",
+    "Strawberries",
+    "Rice",
+    "Blueberries",
+    "Salt",
+    "Cherries",
+    "Corn"
+   ],
+   "fr": [
+    "Les pommes",
+    "Les fraises",
+    "Le riz",
+    "Les myrtilles",
+    "Le sel",
+    "Les cerises",
+    "Le maïs"
+   ],
+   "nl": [
+    "Appels",
+    "Aardbeien",
+    "Rijst",
+    "Bosbessen",
+    "Zout",
+    "Kersen",
+    "Maïs"
+   ]
+  },
+  "good": [
+   0,
+   1,
+   3,
+   5
+  ]
+ }
+}
