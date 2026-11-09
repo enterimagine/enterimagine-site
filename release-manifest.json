@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "022074628cb5ea17e1a2c03ac19688618b58c103",
-  "publicPolicySha256": "71ac3e18ef77e3647d7e9b7766becc29e7f387ed6c1cf757f74f45938e770b63",
+  "sourceCommit": "7b4e9bba72f192cffe5ba769b0ecb8435f8281fd",
+  "publicPolicySha256": "5581ef58e49e472bed267c5ba84fbae885debe5c28d3602c317dc7b88a2ec10c",
   "nodeVersion": "v24.19.0",
-  "payloadId": "aea96e195de4d96b6da8dc3f8b97389171983b179f2b8104f3a0138df569c326",
+  "payloadId": "094f75f4e7c6ae7528f2b4939abf8085a0142ede8fd8f27b90bc789f17bb7320",
   "files": [
     {
       "path": "404.html",
@@ -67,6 +67,11 @@
       "sha256": "db94a678850897edeb45044cab126f60442dc1eb5aeb47238c9bc5fc3f62915e"
     },
     {
+      "path": "assets/articles/covers/the-diamond-that-feels-your-heartbeat.webp",
+      "size": 34996,
+      "sha256": "e2631632fa8ce7a79bcef6f3f1ca42d76a2908bd57828aad1e00a4675f8464af"
+    },
+    {
       "path": "assets/articles/covers/the-factory-that-falls-from-the-sky.webp",
       "size": 53538,
       "sha256": "2ea7696f3490508d6b043b6b6ae9b5933e71454d254305c5c7904d299ce436ab"
@@ -97,6 +102,11 @@
       "sha256": "3e66c757e25ebd5f4f4b60b95f51a7ad9a8957e8852fabab551120a1e74814a2"
     },
     {
+      "path": "assets/articles/covers/the-reaction-that-chose-a-hand.webp",
+      "size": 38828,
+      "sha256": "e1d83901c6e651e0ccbf61d11c5baa684a3324037e9a08d39a9880da08856142"
+    },
+    {
       "path": "assets/articles/covers/the-robot-in-the-next-aisle.webp",
       "size": 47146,
       "sha256": "e56cf6dff7fae611bbb032c3e92a6c7551cd51c32bf3b0c75c2f0fff9fdea6ca"
@@ -112,6 +122,11 @@
       "sha256": "f1946d9273411c4157aa66bb66cff9db4c1e2f9575f1ea727bc40e30b7067459"
     },
     {
+      "path": "assets/articles/covers/when-cars-feel-the-road.webp",
+      "size": 66554,
+      "sha256": "a0d9ef9b4818e4edd86146f4a940963760765ef46e3b3805f78050f56d3bb746"
+    },
+    {
       "path": "assets/articles/covers/where-no-hand-can-reach.webp",
       "size": 48830,
       "sha256": "c7eb8eac9948176f5a140387a0ebf59604fb3ec1d8db3cfa5c052dfd54d8cc67"
@@ -120,6 +135,11 @@
       "path": "assets/articles/covers/who-drills-the-holes-for-the-cloud.webp",
       "size": 77890,
       "sha256": "cc7c957642db2c3893308da5b15ce1349d835ac74411984202f5e4c42e4b39b9"
+    },
+    {
+      "path": "assets/articles/covers/who-grades-the-machines-homework.webp",
+      "size": 48406,
+      "sha256": "07d8d291d25fbe23e3a740c6c939e02643ff5e84c362858af67bff3ac544938d"
     },
     {
       "path": "assets/articles/covers/who-sets-out-the-triangles-when-no-one-is-driving.webp",
@@ -147,6 +167,131 @@
       "sha256": "2d2f276d2866e90b6dd4a837e86ed85c6bd287245edc13e8e12550304264f61f"
     },
     {
+      "path": "assets/articles/share/batteries-in-waiting.jpg",
+      "size": 87754,
+      "sha256": "c8874c5b9689b62cc461ceba716af7a351f47de7974d721b54cf12ce9f19c5fb"
+    },
+    {
+      "path": "assets/articles/share/can-you-cool-a-data-center-in-space.jpg",
+      "size": 111994,
+      "sha256": "8dc4acff74457fac9654a4a9a61a4e9a2923c3f4487ebfce7b778361f4e65529"
+    },
+    {
+      "path": "assets/articles/share/medicine-for-one.jpg",
+      "size": 67871,
+      "sha256": "5985dc50e38f87033001e98d5c0ed0ace08db7c23d584b071516e33505f792e9"
+    },
+    {
+      "path": "assets/articles/share/navigating-by-the-rocks-beneath-us.jpg",
+      "size": 132278,
+      "sha256": "ca322e50f12337f841379b255e015d7e1151e3f8695440ca2b230b483bb95fb5"
+    },
+    {
+      "path": "assets/articles/share/planting-the-sun-one-panel-a-minute.jpg",
+      "size": 194742,
+      "sha256": "9255940bb5aad2010d1e080130cb50e745d028fd1893bb1f7d28f1fbc6786430"
+    },
+    {
+      "path": "assets/articles/share/running-out-of-cold.jpg",
+      "size": 101745,
+      "sha256": "ebd162971ea8751af297a412611824fcf6fa3b23634995b08e4a18ab3b78f4b1"
+    },
+    {
+      "path": "assets/articles/share/the-archive-that-fits-in-a-pill.jpg",
+      "size": 74655,
+      "sha256": "9ce70071207a5324e1047abf837862e9538e451053e8c2b78c60779b61c1bd98"
+    },
+    {
+      "path": "assets/articles/share/the-brain-scanner-that-lets-you-fidget.jpg",
+      "size": 116761,
+      "sha256": "f75ed5d40b7a58034c980fd5f67df71c681a17aaf120cb1369fdd9ae3b018c38"
+    },
+    {
+      "path": "assets/articles/share/the-city-that-parks-itself.jpg",
+      "size": 159085,
+      "sha256": "8e60482e4d9be395e16a8f3edabd453f366cfa994f825e4928f143f6ab23488a"
+    },
+    {
+      "path": "assets/articles/share/the-diamond-that-feels-your-heartbeat.jpg",
+      "size": 92265,
+      "sha256": "22f1743173040a611fa14b6aeccc4126bff4cd065d9aee5c087a4f25cc830168"
+    },
+    {
+      "path": "assets/articles/share/the-factory-that-falls-from-the-sky.jpg",
+      "size": 90586,
+      "sha256": "81ded1aba9a71bc7829d3dfff0427c5198e2fbe442275b439c9886039643aee9"
+    },
+    {
+      "path": "assets/articles/share/the-germs-that-know-where-the-pipes-will-fail.jpg",
+      "size": 169857,
+      "sha256": "969308e08e0f297f06a5f9e9c6808f6ab3dbf2b61c4b6d009bb2d3fdc1da5720"
+    },
+    {
+      "path": "assets/articles/share/the-lab-that-never-sleeps.jpg",
+      "size": 110481,
+      "sha256": "cc29e2c57aa1f9d6cc96ec8792412a853b685968eb73b5073e93f2099e7408e6"
+    },
+    {
+      "path": "assets/articles/share/the-narrow-waist-of-everything.jpg",
+      "size": 136133,
+      "sha256": "75d17198ca5795fdaff0240dbe46cd4744b8065355c37afe6add5ab4e7851b29"
+    },
+    {
+      "path": "assets/articles/share/the-planet-in-the-mirror.jpg",
+      "size": 81897,
+      "sha256": "c29222b6cb19979618eb606a43471a2dfa3cdd41c6df95d74258aa84dbad062f"
+    },
+    {
+      "path": "assets/articles/share/the-quantum-computers-secret-partner.jpg",
+      "size": 105460,
+      "sha256": "257adbf98c7d9514db3386b12b7c4d34bd508c0784604e77298cf4f928932672"
+    },
+    {
+      "path": "assets/articles/share/the-reaction-that-chose-a-hand.jpg",
+      "size": 97141,
+      "sha256": "c5981677465cc7611b788b4e6479f8617a113a430dd1ef83b4ed57cd9af72f9a"
+    },
+    {
+      "path": "assets/articles/share/the-robot-in-the-next-aisle.jpg",
+      "size": 115366,
+      "sha256": "40af5710683abb1d2b55e87186f80ea7533284f618ec64d668bd21e3915a9655"
+    },
+    {
+      "path": "assets/articles/share/the-server-farm-that-warms-your-living-room.jpg",
+      "size": 130983,
+      "sha256": "02e4219f6fc9f851b49c72dcf860fd171db31efc21206234885a83d0aacc990a"
+    },
+    {
+      "path": "assets/articles/share/the-solar-cell-that-gave-up-germanium.jpg",
+      "size": 164856,
+      "sha256": "3375ef4006e3ff677f7569ee62d0e023ab68b3f397a068fb90cc4b7108b451d1"
+    },
+    {
+      "path": "assets/articles/share/when-cars-feel-the-road.jpg",
+      "size": 133838,
+      "sha256": "84f427f411d083f33575bc2a12db980ee2033ebe918ec24a303f323ee28c090a"
+    },
+    {
+      "path": "assets/articles/share/where-no-hand-can-reach.jpg",
+      "size": 97242,
+      "sha256": "ac9a647f403abcb75d0b30622a9110885ea58e674a26e2abf280db2e8ac856dc"
+    },
+    {
+      "path": "assets/articles/share/who-drills-the-holes-for-the-cloud.jpg",
+      "size": 155257,
+      "sha256": "d1b8df35ddfd58e8bbeebb7a6792c0c492973e6573535eb48890f18359568cb0"
+    },
+    {
+      "path": "assets/articles/share/who-grades-the-machines-homework.jpg",
+      "size": 109047,
+      "sha256": "cf5c51397f87427698b37c976ca25c4921b609a42cd22305f785e2d065cf40ca"
+    },
+    {
+      "path": "assets/articles/share/who-sets-out-the-triangles-when-no-one-is-driving.jpg",
+      "size": 131167,
+      "sha256": "776fa06aa81b1685590c0a14918921bd3e9306daf289f738af3a98c015d7fd1d"
+    },
+    {
       "path": "assets/articles/the-archive-that-fits-in-a-pill.webp",
       "size": 43262,
       "sha256": "6dd7a9487f499d97e53f67d2cc460ecca238a4d36c8df1cbf1c6034fa035bcd4"
@@ -160,6 +305,11 @@
       "path": "assets/articles/the-city-that-parks-itself.webp",
       "size": 19600,
       "sha256": "2ee8ec8f59b9a7d5f6358a7bfa2f60d25e78d1c0419f9e78602c9c2646b86629"
+    },
+    {
+      "path": "assets/articles/the-diamond-that-feels-your-heartbeat.webp",
+      "size": 45778,
+      "sha256": "a9bcf5bec2c673d92e43273519f267058904fa0d0911d7895a3f0d41aa9ec7eb"
     },
     {
       "path": "assets/articles/the-factory-that-falls-from-the-sky.webp",
@@ -192,6 +342,11 @@
       "sha256": "1c843fe5ced00299738a23867054e44bfaacfdbbb67883c330dc9966dc6de8f1"
     },
     {
+      "path": "assets/articles/the-reaction-that-chose-a-hand.webp",
+      "size": 47582,
+      "sha256": "d8a3e928180a0e2ac93e637ba8d7b65db74da969a3aead55342a7d7cb4ca6048"
+    },
+    {
       "path": "assets/articles/the-robot-in-the-next-aisle.webp",
       "size": 31218,
       "sha256": "a98b34bbe9942a7fe52b59760e9b99993e075999da410675fb656c50de2fdd23"
@@ -207,6 +362,11 @@
       "sha256": "5e48de7ddcc80ad62d87564d720a96eca0987b1947988e86ec1742862843ac4b"
     },
     {
+      "path": "assets/articles/when-cars-feel-the-road.webp",
+      "size": 96310,
+      "sha256": "f7ec38ec4fb14c9efd11f8aaee8f159963e5e387c5d0d8b5389c021ddaa7a785"
+    },
+    {
       "path": "assets/articles/where-no-hand-can-reach.webp",
       "size": 78080,
       "sha256": "c9fa56523ccb620f414f03040a9bb23918a0dd279bf5db1b02001215bb43b916"
@@ -215,6 +375,11 @@
       "path": "assets/articles/who-drills-the-holes-for-the-cloud.webp",
       "size": 40476,
       "sha256": "fccbf148205ba07f96c96521cd48a9bcf117c96cf5c985ffa73a2b631d6b1837"
+    },
+    {
+      "path": "assets/articles/who-grades-the-machines-homework.webp",
+      "size": 39218,
+      "sha256": "ce2dcae628872cbb9338ce89b0190b9eedfd67f309661bbf5acaafc62e4d2829"
     },
     {
       "path": "assets/articles/who-sets-out-the-triangles-when-no-one-is-driving.webp",
@@ -373,13 +538,13 @@
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 21285,
-      "sha256": "d1de5cc021561bb021c79baf059b19bd2f4a056f9f21fbeb376c1910e6ec93f0"
+      "size": 23475,
+      "sha256": "c901bf4b1a5dd781cbfee1946e95babda95b2505c87d3434519ea8e55447a878"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 14211,
-      "sha256": "a3ce43bfde53ad24754a05662896bc67973d69d4995e89f1d8878f635a4bbd2a"
+      "size": 15710,
+      "sha256": "7e695958646211e3fda7d618a54a9588df59b0b828ac7bec7293e628282b8487"
     },
     {
       "path": "explore/energy/index.html",
@@ -393,13 +558,13 @@
     },
     {
       "path": "explore/innovation/index.html",
-      "size": 13769,
-      "sha256": "0e5021600e6d156185128c5ac00a0200133d69fc362345f420fcd3a5cabce061"
+      "size": 15178,
+      "sha256": "23f698811c07b7f98121a87c49bb981228569b83558eabe2ba4799931c4d29f8"
     },
     {
       "path": "explore/quantum-computing/index.html",
-      "size": 21472,
-      "sha256": "d3be245630c5507b4035b7d5c5aa91b00163fa8d1fbd6884a9813a7ff312e28d"
+      "size": 22236,
+      "sha256": "2e2cbd4e65de808d5079542e05c94441a63443c22bcf7d121cab2364767daec6"
     },
     {
       "path": "explore/robotics/index.html",
@@ -408,18 +573,18 @@
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 13989,
-      "sha256": "4d854983681d6609aa21befb1af7a4b5edb39cda66829769e7a0cd0ebb5f57e3"
+      "size": 14741,
+      "sha256": "d9bf3f45e92a03f676a0d4bd5f5862110e13341287b369f32f8e5b09cab825f2"
     },
     {
       "path": "explore/smart-mobility/index.html",
-      "size": 14945,
-      "sha256": "6d5bdef3083f5333610271b31458035bee58904068ee4ec9fbc5934502953209"
+      "size": 15697,
+      "sha256": "8b08c7659c730ffb09e4bd196d56f7f91c15d2e8cb181e09d109bedccb06249f"
     },
     {
       "path": "explore/space/index.html",
-      "size": 14627,
-      "sha256": "8e97a2c64f03800bfe9318c9398ea584db85d00492dfcfbac3f3ec6e05462c06"
+      "size": 15362,
+      "sha256": "ed3b74fab8acb5d9f213986faaaebe02b8e59718a8722dccff03e0153a2282a6"
     },
     {
       "path": "index.html",
@@ -558,118 +723,138 @@
     },
     {
       "path": "staticwebapp.config.json",
-      "size": 2367,
-      "sha256": "b7dc6276714cad7a8acc4d7c03d8d530a3987c6b011245224786a96a0c88f18c"
+      "size": 2393,
+      "sha256": "2a2f650c72a547c6505eef9d31b76db7f3c26b5a27e2fd507119ef176104772b"
     },
     {
       "path": "universe/batteries-in-waiting/index.html",
-      "size": 24117,
-      "sha256": "12da5f205a30ce1cfc20bd6a9e1ef98af990f31912b5ac7ef6c646673ab7b744"
+      "size": 24984,
+      "sha256": "b0fbefd78aa869aff0f8288d06666f10cd245802537cffc8965f25ea146cfcfe"
     },
     {
       "path": "universe/can-you-cool-a-data-center-in-space/index.html",
-      "size": 18401,
-      "sha256": "6751c96b5b9a73127b45f7e427438d01921e4afe698638b762ddad30dbf95572"
+      "size": 19359,
+      "sha256": "b90fb3179b3666b2db5d06090b4138f02c4e23877effee45423df7a1a83dd5aa"
     },
     {
       "path": "universe/index.html",
-      "size": 48787,
-      "sha256": "ed9f33a4443f653607f2488120ac844ca5ad556083d6577dfdf270c9022bad28"
+      "size": 54101,
+      "sha256": "7df3632ce88b4201e3e94b092085b869a76de3d044f2d375eae0e191830d44f9"
     },
     {
       "path": "universe/medicine-for-one/index.html",
-      "size": 17897,
-      "sha256": "d2efb251586c3807c674c768d6cdb19d1fd42a2aa99da3eb447350d869d2b6ce"
+      "size": 18752,
+      "sha256": "492cff7867cac925dcea3b23df9649e9a9d3d849b987366e4e3d424f79eab864"
     },
     {
       "path": "universe/navigating-by-the-rocks-beneath-us/index.html",
-      "size": 19334,
-      "sha256": "b096adb179864988d6be76bcd75a7763675d0dddabbbb58dc336f350b03888eb"
+      "size": 20279,
+      "sha256": "f4451e081c759bd95d1a3214bb90362d860bf43695dc1ca13cfe6732031db9cd"
     },
     {
       "path": "universe/planting-the-sun-one-panel-a-minute/index.html",
-      "size": 24072,
-      "sha256": "de72a2ff3db002b6c2631d68bd93360583063c2cc8bcab0a2bdf63e08704292e"
+      "size": 25119,
+      "sha256": "d9aa78d3d4560d3e6f8c11b009ee9a26f77ea3fa4131eefe7488a31488c702d4"
     },
     {
       "path": "universe/running-out-of-cold/index.html",
-      "size": 24265,
-      "sha256": "0ea8eedfc7e8412a610da61d63e403fc44887227746da8763430acdb702c3782"
+      "size": 25245,
+      "sha256": "e9d90a900f7c5677a9e7c662b869103a51eca79828b02fc6b59ef5d434c9681c"
     },
     {
       "path": "universe/the-archive-that-fits-in-a-pill/index.html",
-      "size": 22932,
-      "sha256": "e6f15ef7ecad09197db0e0d6c6bf56bc4777c8de0a7d968a4d6b1dc9f9aa7955"
+      "size": 23908,
+      "sha256": "015212808a2f13ea67fe8e3b35b23c962df2d58c10a0a6b6a5ee9281230b39c4"
     },
     {
       "path": "universe/the-brain-scanner-that-lets-you-fidget/index.html",
-      "size": 20932,
-      "sha256": "fdf36df6b1343966cd4a199655101da395760867c4647bab94f52ce604d1b739"
+      "size": 21942,
+      "sha256": "62dc50fe4acc6293bbc930d051c4ed49f93fdaf61991f66b8db17ce4db59eeb7"
     },
     {
       "path": "universe/the-city-that-parks-itself/index.html",
-      "size": 17836,
-      "sha256": "2e87dcb2106af9422593143620c9995f78df2bda152f50b288ffa7955fbdd5b8"
+      "size": 18740,
+      "sha256": "231b29380da92db680a86894bf1746ed540cbf97196f88e5a5419efbd9aceb6c"
+    },
+    {
+      "path": "universe/the-diamond-that-feels-your-heartbeat/index.html",
+      "size": 24219,
+      "sha256": "4fa74562d484a9ce030aafca1e9195ab4b3fd565296753f0c37a54f0f7bee35b"
     },
     {
       "path": "universe/the-factory-that-falls-from-the-sky/index.html",
-      "size": 26146,
-      "sha256": "69c3a3afb1733af873c00f35a1de6e2890b0dde5a02f8b269e16dbdfbf08cbf3"
+      "size": 27233,
+      "sha256": "725a989aa956bb9b48a561290902934c361299df6f81ca5bac166dcb6bcd7c31"
     },
     {
       "path": "universe/the-germs-that-know-where-the-pipes-will-fail/index.html",
-      "size": 21859,
-      "sha256": "933b341528094383d85df8ae6ceb19cb2857d897314c1350e665389384405a94"
+      "size": 22890,
+      "sha256": "672a7cd0598df8e3cf6d17220cc62c2a2dffc2c04cdc89fb3d81e94b75c8382b"
     },
     {
       "path": "universe/the-lab-that-never-sleeps/index.html",
-      "size": 21398,
-      "sha256": "0beb04acad18045c5efb73cc0a3736e606727e0f358c84310689e151647bb20d"
+      "size": 22309,
+      "sha256": "4ef8701808d19a5647b8cecea1e007fe383ca864537f42ca3fa915fcdbfdf53c"
     },
     {
       "path": "universe/the-narrow-waist-of-everything/index.html",
-      "size": 28975,
-      "sha256": "70d485215f542f8fa1294150c6b5bfe61dce2523589698d01028d011aa0db90f"
+      "size": 30023,
+      "sha256": "3b98a6043c85d1cf01b4010234405a07e8b8cd5c557c8da4337fb630935620e7"
     },
     {
       "path": "universe/the-planet-in-the-mirror/index.html",
-      "size": 18865,
-      "sha256": "feb67dc9aa1df045155f421727549d849311ca25190cdce4d95e1d3a62bf2f64"
+      "size": 19746,
+      "sha256": "15b740aa2af5726d0a439440b1025d84bf8a06c3cd35107e54a80a1e8ccb78d1"
     },
     {
       "path": "universe/the-quantum-computers-secret-partner/index.html",
-      "size": 21760,
-      "sha256": "b38b16c1a8e407112e12dc2e69ecbd3a401a0653bf0ef748f0f14f19592c05d0"
+      "size": 22661,
+      "sha256": "65a4d0b1bae28bef0a95f668dd458b800ea02eeb1daa7d95d4de8fc4e8049a08"
+    },
+    {
+      "path": "universe/the-reaction-that-chose-a-hand/index.html",
+      "size": 22318,
+      "sha256": "7f925f7ce311e5e96124d79342c1474aa177ec7f7645353c480a93bd46f40b85"
     },
     {
       "path": "universe/the-robot-in-the-next-aisle/index.html",
-      "size": 18690,
-      "sha256": "3d49ee928acaec79a78a30233fbaac2d23c29f79e2ebb893857980c75b2a5d91"
+      "size": 19629,
+      "sha256": "2279870262c9fcdcb04b756cc97dde250a8fc9961c42e21880977492a1e3ef41"
     },
     {
       "path": "universe/the-server-farm-that-warms-your-living-room/index.html",
-      "size": 17194,
-      "sha256": "1b0dc3c39c9d3ad82166019c0c2357ec65ff4c83e9feed1f8839c68abe84e8b0"
+      "size": 18166,
+      "sha256": "a5f11b09349b562aae6b1685355460c865d5ca69fa9c9c83f3594d9d1aea2988"
     },
     {
       "path": "universe/the-solar-cell-that-gave-up-germanium/index.html",
-      "size": 20999,
-      "sha256": "8ad4b896f477a8d36504398b1abbcf61898a54b6366834fc2e5c48f84f62b65d"
+      "size": 22146,
+      "sha256": "c12975aa823ffef7ce3d14b7b4280795d1353db9baf68837ef5925f89aca5d93"
+    },
+    {
+      "path": "universe/when-cars-feel-the-road/index.html",
+      "size": 19964,
+      "sha256": "ad77557563b5f54d99c49c5e723e7d6aeced37e4513ebe300b2172c444c63b6a"
     },
     {
       "path": "universe/where-no-hand-can-reach/index.html",
-      "size": 23145,
-      "sha256": "09199ddc25ebbfe033aaa5c94198e8604d3c75f69b16413cba94705ac1b0cbfe"
+      "size": 24072,
+      "sha256": "5374f196ccebf3031de121fd65067c661c43a6bc39b152fe2bb843d24abb8a92"
     },
     {
       "path": "universe/who-drills-the-holes-for-the-cloud/index.html",
-      "size": 22028,
-      "sha256": "618e4714ba75b9501b30cf667da27612e3f3a0429f247678b2905b4abcb71fd3"
+      "size": 22988,
+      "sha256": "433782ac1b28e97b792bd148834bd42e419696ab0bd3db15d7149baae74a5c95"
+    },
+    {
+      "path": "universe/who-grades-the-machines-homework/index.html",
+      "size": 24412,
+      "sha256": "f38f24ade4f7357ed591cd4a3a00a76dead887e621c0a2651ca72665d8425638"
     },
     {
       "path": "universe/who-sets-out-the-triangles-when-no-one-is-driving/index.html",
-      "size": 21455,
-      "sha256": "849d9facb92a45637b3e379cd9429127fc21b0eb3272cf0099ae90a6b062e88e"
+      "size": 22487,
+      "sha256": "57d19bc4ca6688e8ae6f501f296a0f1491bb66a88654dadcc43576979d964a58"
     },
     {
       "path": "what-if/index.html",
@@ -763,7 +948,7 @@
     },
     {
       "path": "tools/episode-publication-policy.mjs",
-      "sha256": "2dba6eae02a56be3a85c0f207079ee75fee11049282e0d6baf563f01f078bc6f"
+      "sha256": "0eb62d9d8b33dd979c7b38aa82a32caaf28d4cf2a30df97965f131de5efe6b81"
     },
     {
       "path": "tools/full-universe-backup.py",
@@ -795,7 +980,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "71ac3e18ef77e3647d7e9b7766becc29e7f387ed6c1cf757f74f45938e770b63"
+      "sha256": "5581ef58e49e472bed267c5ba84fbae885debe5c28d3602c317dc7b88a2ec10c"
     },
     {
       "path": "tools/recovery-kit.mjs",

@@ -12,6 +12,7 @@
   },
   "mimeTypes": {
     ".webp": "image/webp",
+    ".jpg": "image/jpeg",
     ".js": "text/javascript; charset=utf-8",
     ".json": "application/json"
   },

@@ -4,8 +4,10 @@
 // 1. Internal: every link inside public/universe/*/index.html that points at the site must exist in public/.
 //    A link to a draft or private document (claude.ai, Google Docs, OneDrive, ...) is an error.
 // 2. External: every outside link on the article pages (mostly references) is opened once (GET, redirects followed).
-//    broken  = 404, 410, other 4xx, 5xx, DNS or connection failure -> error annotation, job fails (red)
-//    blocked = 401, 403, 429, 999 or a timeout: the site refuses automated checks; check by hand -> warning
+//    broken  = 404, 410, other 4xx, 5xx or a site that does not exist -> error annotation, job fails (red)
+//              Some sites (nippon.com, epa.gov) answer 404 to cloud servers only: open those by hand.
+//    blocked = 401, 403, 405, 406, 429, 451, 999, a timeout or a refused connection: the site turns away
+//              automated checks (often from cloud servers); check by hand -> warning
 // The deploy job does not depend on this job: a red link check is a signal to look before approving.
 import { readFile, readdir, access } from 'node:fs/promises';
 import { join } from 'node:path';
@@ -49,7 +51,8 @@ async function probe(url) {
       if (res.status >= 500 && attempt === 0) continue;
       return res.status;
     } catch (err) {
-      if (attempt === 1) return err.name === 'TimeoutError' ? 'timeout' : 'unreachable';
+      const code = err.cause?.code || '';
+      if (attempt === 1) return err.name === 'TimeoutError' ? 'timeout' : /ENOTFOUND|EAI_AGAIN|ERR_INVALID_URL/.test(code) ? 'no such site' : 'connection refused';
     }
   }
 }
@@ -61,7 +64,7 @@ await Promise.all(Array.from({ length: 8 }, async () => {
 }));
 urls.forEach((url, i) => {
   const status = results[i], pages = external.get(url).join(', ');
-  const blocked = status === 'timeout' || [401, 403, 429, 999].includes(status);
+  const blocked = status === 'timeout' || status === 'connection refused' || [401, 403, 405, 406, 429, 451, 999].includes(status);
   const ok = typeof status === 'number' && status < 400;
   const verdict = ok ? 'ok' : blocked ? 'blocked (check by hand)' : 'BROKEN';
   if (!ok) (blocked ? warnings : errors).push(`${pages}: ${status} ${url}`);
