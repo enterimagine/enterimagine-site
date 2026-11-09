@@ -1,0 +1,58 @@
+16 1 403 https://www.pv-tech.org/youre-going-to-see-a-lot-more-of-these-maximo-on-robotic-installation-utility-scale-solar-projects/ | Just a moment...
+16 2 200 https://roboticsandautomationnews.com/2026/03/26/maximo-completes-100-mw-of-robotic-solar-installation-in-california/100157/ | Maximo completes 100 MW of robotic solar installation in California, signaling shift to utility-scale automation
+16 3 200 https://roboticsandautomationnews.com/2026/08/10/interview-with-maximos-nick-hegeman-180000-robotic-installations-of-solar-panels-and-counting/104039/ | Maximo robots surpass 180,000 solar panel installations
+16 4 200 https://www.aes.com/about-us/innovation/maximo | AES&#039; Maximo: AI Solar Robot for Clean Energy
+16 5 403 https://www.iea.org/reports/global-energy-review-2026/technology-solar-pv-and-wind | Just a moment...
+16 6 200 http://pv-magazine-usa.com/2026/04/02/global-solar-additions-reached-record-511-gw-in-2025-says-irena/ | Global solar additions reached record 511 GW in 2025, says IRENA - pv magazine USA
+16 7 200 https://pv-magazine-usa.com/2026/09/10/solar-industry-delivers-11-4-gw-in-q2-but-growth-remains-constrained/ | Solar industry delivers 11.4 GW in Q2, but growth remains constrained - pv magazine USA
+16 8 200 https://now.solar/2026/04/04/workforce-gap-of-53000-threatens-2026-solar-deployment-targets-pv-magazine-usa-com/ | 
+16 9 200 https://www.trinasolar.com/en-apac/NEG21C.20/ | Trinasolar
+16 10 404 https://www.epa.gov/climate-indicators/closer-look-heat-related-workplace-deaths | Page Not Found | US EPA
+16 11 200 https://www.pv-magazine.com/2026/10/13/arena-pumps-32-3-million-into-solar-robotics-manufacturing-projects/ | Australian-made PV installation and piling robots moving towards commercial-scale production - pv magazine Global
+16 12 200 https://energiesmedia.com/goorambat-east-victoria-culcairn-robot/ | Australian solar projects deploy five autonomous robots to increase module installation efficiency
+16 13 200 https://www.pv-magazine.com/2026/09/30/trinatracker-launches-solar-panel-installation-and-cleaning-robots/ | TrinaTracker launches solar panel installation and cleaning robots - pv magazine Global
+16 14 200 https://www.builtrobotics.com/solutions/solar-piling | 
+16 15 403 https://www.businesswire.com/news/home/20260319643382/en | Access Denied
+16 16 200 https://arena.gov.au/news/lumi-robots-scaleup-solar-deployment-with-advanced-automation/ | LUMI robots ScaleUp solar deployment with advanced automation - Australian Renewable Energy Agency (ARENA)
+16 17 200 https://reneweconomy.com.au/chinese-robot-does-job-of-three-to-four-humans-installing-thousands-of-panels-at-australian-solar-project/ | Chinese robot does job of three to four humans installing thousands of panels at Australian solar project
+17 1 403 https://www.businesswire.com/news/home/20250501031863/en/Aurora-Begins-Commercial-Driverless-Trucking-in-Texas-Ushering-in-a-New-Era-of-Freight | Access Denied
+17 2 403 https://www.businesswire.com/news/home/20260923278327/en/Aurora-Outlines-2030-Vision-to-Scale-to-30000-Driverless-Trucks-at-Analyst-and-Investor-Day | Access Denied
+17 3 403 https://www.sec.gov/Archives/edgar/data/0001828108/000182810826000092/aurora26q3shareholderlet.htm | SEC.gov | Your Request Originates from an Undeclared Automated Tool
+17 4 200 https://public-inspection.federalregister.gov/2026-20734.pdf | 
+17 5 200 https://landline.media/driverless-trucks-seek-exemption-to-avoid-regulatory-roadblock/ | Driverless trucks seek exemption to avoid regulatory roadblock &#187; Land Line Media
+17 6 403 https://www.fmcsa.dot.gov/regulations/hours-service/summary-hours-service-regulations | Access Denied
+17 7 200 https://www.act-news.com/news/aurora-sets-2030-scale-targets-as-kodiak-names-its-driverless-launch-lane/ | Aurora Sets 2030 Scale Targets as Kodiak Names Its Driverless Launch Lane - ACT News
+17 8 403 https://www.bls.gov/OOH/transportation-and-material-moving/heavy-and-tractor-trailer-truck-drivers.htm | Access Denied
+18 1 200 https://www.eurekalert.org/news-releases/1148429 | AI and wastewater DNA-based mapping helps identify sewer pipes at risk of corrosion | EurekAlert!
+18 1 200 https://linkinghub.elsevier.com/retrieve/pii/S0301479726024655 | Redirecting
+18 2 200 https://www.newswise.com/articles/ai-and-wastewater-dna-based-mapping-helps-identify-sewer-pipes-at-risk-of-corrosion | AI and Wastewater DNA-Based Mapping Helps Identify Sewer Pipes at Risk of Corrosion | Newswise
+18 3 200 https://highways.today/2026/10/26/wastewater-dna-sewer-pipe-corrosion/ | Wastewater DNA Offers New Way to Predict Sewer Pipe Corrosion - Highways Today
+18 4 200 https://www.nippon.com/en/articles/-/15097 | Buried Timebombs: Saitama Sinkhole Draws Attention to Japan’s Aging Wastewater Infrastructure | Nippon.com
+18 5 200 https://english.adnkronos.com/2026/02/19/pipe-corrosion-confirmed-as-cause-of-2025-saitama-sinkhole/ | Pipe Corrosion Confirmed as Cause of 2025 Saitama Sinkhole &#8211; Adnkronos English
+18 6 404 https://www.nippon.com/en/news/yjj2026042100297/ | Error 404 - Not Found | nippon.com
+18 7 403 https://cdc.gov/nwss/about.html | Access Denied
+18 8 200 https://www.wwdmag.com/utility-management/news/55277011/wastewater-earns-d-on-asce-2025-infrastructure-report-card | Wastewater earns &quot;D+&quot; on ASCE 2025 Infrastructure Report Card | Wastewater Digest
+18 9 200 https://eprints.lib.hokudai.ac.jp/repo/huscap/all/45290/ | Microbial community structures and in situ sulfate-reducing and sulfur-oxidizing activities in biofilms developed on mor
+19 1 403 https://news.stanford.edu/stories/2026/09/advanced-brain-scanner-imaging-opm-meg | Just a moment...
+19 2 200 https://buaa.globalimpact.cn/en/publications/assessment-of-the-utility-of-optically-pumped-magnetometer-magnet/ | 
+19 3 200 https://wellcome.org/insights/articles/opm-meg-revolution-brain-imaging-technology | A Revolution in Brain Imaging Technology | Wellcome
+19 4 200 https://physicsworld.com/a/quantum-physics-gives-brain-sensing-meg-scanners-a-boost/ | Quantum physics gives brain-sensing MEG scanners a boost &#8211; Physics World
+19 5 200 https://physicsworld.com/a/wearable-meg-system-evaluates-epilepsy-in-children/ | Wearable MEG system evaluates epilepsy in children &#8211; Physics World
+19 6 200 https://physicsworld.com/a/quantum-brainwave-using-wearable-quantum-technology-to-study-cognitive-development/ | Quantum brainwave: using wearable quantum technology to study cognitive development &#8211; Physics World
+19 7 200 https://www.nottingham.ac.uk/news/worlds-first-mobile-quantum-brain-scanner-to-measure-effects-of-blast-exposure | 
+20 1 200 https://dewalt.mediaroom.com/2026-01-20-DEWALT-R-Unveils-the-Worlds-First-Downward-Drilling,-Fleet-Capable-Robot-to-Accelerate-Data-Center-Construction | DEWALT® Unveils the World's First Downward Drilling, Fleet-Capable Robot to Accelerate Data Center Construction - Jan 20
+20 2 200 https://www.prnewswire.com/news-releases/revolutionizing-construction-introducing-the-worlds-first-fleet-capable-downward-drilling-robot-now-commercially-available-to-accelerate-data-center-construction-302821198.html | Revolutionizing Construction: Introducing the World&#39;s First Fleet-Capable Downward Drilling Robot, Now Commercially 
+20 3 200 https://www.therobotreport.com/dewalt-drilling-robot/ | 9 weeks to 9 days: How autonomous drilling is transforming data center construction - The Robot Report
+20 4 200 https://itif.org/publications/2026/01/12/construction-industry-facing-worker-shortage-driven-by-growth-of-data-centers/ | Fact of the Week: Construction Industry Facing a 439,000-Worker Shortage Driven by the Growth of Data Centers | Blogs | 
+20 5 200 https://fortune.com/2026/03/02/ai-data-centers-electrician-shortage-gen-z-training-careers/ | The AI data center boom is creating a dire electrician shortage. That’s an opportunity for Gen Z | Fortune
+20 6 200 https://forklog.com/en/meta-begins-testing-robots-in-data-centers/ | Meta Begins Testing Robots in Data Centers | ForkLog
+20 7 200 https://tech.yahoo.com/ai/meta-ai/articles/meta-data-center-robots-could-192155118.html | Meta’s New Data Center Robots Could Replace Up to 80% of Human Workload
+20 8 200 https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/ | SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO | TechCrunch
+21 1 200 https://www.fastmarkets.com/insights/esa-lunar-regolith-solar-panels/ | ESA explores lunar regolith for solar panel production
+21 2 200 https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-germanium.pdf | 
+21 3 200 https://evertiq.com/news/2025-11-10-china-suspends-ban-on-gallium-and-germanium-exports-to-the-us | China suspends ban on gallium and germanium exports to the US
+21 4 403 https://www.spglobal.com/content/dam/spglobal/global-assets/en/special-reports/critical-mineral-market-reports/Market%20Report%20-%20Germanium%20-%2008052026.pdf | Access Denied
+21 5 200 https://pv-magazine-usa.com/2026/09/10/rocket-lab-launches-lightweight-space-solar-cell-built-without-critical-minerals/ | Rocket Lab launches lightweight space solar cell built without critical minerals - pv magazine USA
+21 6 200 https://www.bgr.com/2293704/rocket-lab-solar-cell-solve-spacecraft-bottleneck/ | Rocket Lab's New Solar Cells Could Solve A Big Bottleneck For Spacecraft
+21 7 000 https://www.nrel.gov/docs/fy12osti/54049.pdf000 - | Rocket Lab's New Solar Cells Could Solve A Big Bottleneck For Spacecraft
+21 8 200 https://www.surrey.ac.uk/news/silicon-solar-cells-could-cut-satellite-power-costs-90-cent | Cheaper satellite power from silicon cells
