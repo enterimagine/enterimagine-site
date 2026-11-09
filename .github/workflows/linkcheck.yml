@@ -1,0 +1,21 @@
+name: linkcheck-tmp
+on:
+  push:
+    branches: [linkcheck-tmp]
+    paths: [links.txt]
+permissions:
+  contents: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36'
+          while read a r u; do
+            out=$(curl -s -L -m 25 -A "$UA" -H 'Accept: text/html,application/pdf,*/*' -o page.bin -w '%{http_code} %{url_effective}' "$u" || echo "000 -")
+            t=$(grep -o -i '<title[^>]*>[^<]*' page.bin 2>/dev/null | head -1 | sed 's/<[^>]*>//' | tr -d '\r\n' | cut -c1-120)
+            echo "$a $r $out | $t" >> results.txt
+          done < links.txt
+          git config user.name linkcheck; git config user.email linkcheck@users.noreply.github.com
+          git add results.txt; git commit -m "link check results"; git push
