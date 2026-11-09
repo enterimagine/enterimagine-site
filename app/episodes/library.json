@@ -2440,7 +2440,7 @@
     "nl": "Voor volwassenen: de wereld AI en data in het IMAGINE Scientific Universe"
    },
    "added": "2026-11-08",
-   "voice": false
+   "voice": true
   },
   {
    "id": "qubi-20261108",
@@ -2697,7 +2697,7 @@
     "nl": "Voor volwassenen: de wereld Quantum in het IMAGINE Scientific Universe"
    },
    "added": "2026-11-08",
-   "voice": false
+   "voice": true
   },
   {
    "id": "bloom-20261108",
@@ -2943,7 +2943,7 @@
     "nl": "Voor volwassenen: de wereld Biotech in het IMAGINE Scientific Universe"
    },
    "added": "2026-11-08",
-   "voice": false
+   "voice": true
   },
   {
    "id": "robo-20261108",
@@ -3177,7 +3177,7 @@
     "nl": "Voor volwassenen: de wereld Robotica in het IMAGINE Scientific Universe"
    },
    "added": "2026-11-08",
-   "voice": false
+   "voice": true
   },
   {
    "id": "energy-20261108",
@@ -3428,6 +3428,984 @@
     "nl": "Voor volwassenen: de wereld Energie in het IMAGINE Scientific Universe"
    },
    "added": "2026-11-08",
+   "voice": true
+  },
+  {
+   "id": "space-20261109",
+   "world": "space",
+   "guide": "Qubi",
+   "title": {
+    "en": "Why do stars twinkle?",
+    "fr": "Pourquoi les étoiles scintillent-elles ?",
+    "nl": "Waarom twinkelen de sterren?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, look up! The stars keep blinking on and off like tiny flashlights. Why do they twinkle?",
+     "fr": "Qubi, regarde là-haut ! Les étoiles clignotent comme de minuscules lampes de poche. Pourquoi est-ce qu’elles scintillent ?",
+     "nl": "Qubi, kijk eens omhoog! De sterren knipperen als piepkleine zaklampjes. Waarom twinkelen ze?",
+     "img": "Whyzz and Qubi lie on a blanket on a hill at night pointing at twinkling stars"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I know! They are winking at me because they think I am super cool.",
+     "fr": "Je sais ! Elles me font des clins d’œil parce qu’elles me trouvent super cool.",
+     "nl": "Ik weet het al! Ze knipogen naar mij omdat ze mij superstoer vinden.",
+     "img": "Whyzz winks back at the stars with a big grin while Qubi laughs"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Ha, nice try! A star shines with a steady light, but on its way to your eyes, that light must travel through our air.",
+     "fr": "Bien essayé ! Une étoile brille d’une lumière bien stable, mais pour arriver jusqu’à tes yeux, cette lumière doit traverser notre air.",
+     "nl": "Haha, goed geprobeerd! Een ster geeft gewoon een rustig licht, maar op weg naar je ogen moet dat licht door onze lucht reizen.",
+     "img": "a beam of starlight travels from a bright star down through layers of air to Earth"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "The air is always moving, with warm and cold bubbles. They bend the light a tiny bit, like looking at a coin at the bottom of a wobbly pool.",
+     "fr": "L’air bouge tout le temps, avec des bulles chaudes et froides. Elles dévient un tout petit peu la lumière, comme une pièce au fond d’une piscine qui ondule.",
+     "nl": "De lucht beweegt altijd, met warme en koude bellen. Die buigen het licht een heel klein beetje, zoals een muntje op de bodem van een golvend zwembad.",
+     "img": "Qubi and Whyzz look at a shiny coin at the bottom of a rippling swimming pool"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Did you know? Astronauts in space see the stars shining steady, without any twinkle, because there is no air up there to wiggle the light!",
+     "fr": "Le savais-tu ? Dans l’espace, les astronautes voient les étoiles briller sans scintiller, parce qu’il n’y a pas d’air là-haut pour faire trembler la lumière !",
+     "nl": "Wist je dat? Astronauten in de ruimte zien de sterren rustig schijnen, zonder twinkelen, want daar is geen lucht die het licht laat wiebelen!",
+     "img": "Qubi in a space station window looking at calm, steady stars and the Earth"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So stars twinkle because our wobbly air shakes their light. If you could fly up to the stars, what would you take with you?",
+     "fr": "Donc les étoiles scintillent parce que notre air qui bouge fait trembler leur lumière. Si tu pouvais voler jusqu’aux étoiles, qu’est-ce que tu emporterais ?",
+     "nl": "Sterren twinkelen dus omdat onze wiebelige lucht hun licht laat trillen. Als jij naar de sterren kon vliegen, wat zou je dan meenemen?",
+     "img": "Whyzz and Qubi in a little cardboard rocket under a starry sky, waving"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What do stars do in the night sky?",
+      "fr": "Que font les étoiles dans le ciel de nuit ?",
+      "nl": "Wat doen sterren aan de nachthemel?"
+     },
+     "o": {
+      "en": [
+       "They melt",
+       "They twinkle",
+       "They sing"
+      ],
+      "fr": [
+       "Elles fondent",
+       "Elles scintillent",
+       "Elles chantent"
+      ],
+      "nl": [
+       "Ze smelten",
+       "Ze twinkelen",
+       "Ze zingen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What must starlight travel through to reach your eyes?",
+      "fr": "Que doit traverser la lumière des étoiles pour arriver à tes yeux ?",
+      "nl": "Waar moet sterrenlicht doorheen om bij je ogen te komen?"
+     },
+     "o": {
+      "en": [
+       "Our air",
+       "A big tunnel",
+       "The ocean"
+      ],
+      "fr": [
+       "Notre air",
+       "Un grand tunnel",
+       "L’océan"
+      ],
+      "nl": [
+       "Onze lucht",
+       "Een grote tunnel",
+       "De oceaan"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What do warm and cold air bubbles do to the light?",
+      "fr": "Que font les bulles d’air chaudes et froides à la lumière ?",
+      "nl": "Wat doen warme en koude luchtbellen met het licht?"
+     },
+     "o": {
+      "en": [
+       "They paint it green",
+       "They switch it off",
+       "They bend it a tiny bit"
+      ],
+      "fr": [
+       "Elles la peignent en vert",
+       "Elles l’éteignent",
+       "Elles la dévient un tout petit peu"
+      ],
+      "nl": [
+       "Ze kleuren het groen",
+       "Ze doen het uit",
+       "Ze buigen het een klein beetje"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What looks wobbly like a twinkling star?",
+      "fr": "Qu’est-ce qui a l’air de trembler comme une étoile qui scintille ?",
+      "nl": "Wat lijkt te wiebelen, net als een twinkelende ster?"
+     },
+     "o": {
+      "en": [
+       "A coin in a rippling pool",
+       "A book on a table",
+       "A shoe in a box"
+      ],
+      "fr": [
+       "Une pièce au fond d’une piscine qui ondule",
+       "Un livre sur une table",
+       "Une chaussure dans une boîte"
+      ],
+      "nl": [
+       "Een muntje in een golvend zwembad",
+       "Een boek op tafel",
+       "Een schoen in een doos"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "How do astronauts in space see the stars?",
+      "fr": "Comment les astronautes voient-ils les étoiles dans l’espace ?",
+      "nl": "Hoe zien astronauten in de ruimte de sterren?"
+     },
+     "o": {
+      "en": [
+       "Twinkling even more",
+       "Shining steady",
+       "All in purple"
+      ],
+      "fr": [
+       "Encore plus scintillantes",
+       "Brillant sans scintiller",
+       "Toutes violettes"
+      ],
+      "nl": [
+       "Nog meer twinkelend",
+       "Rustig schijnend",
+       "Allemaal paars"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Lights in the night sky",
+     "fr": "Les lumières du ciel de nuit",
+     "nl": "Lichtjes aan de nachthemel"
+    },
+    "intro": {
+     "en": "Match each light in the sky to what you see.",
+     "fr": "Relie chaque lumière du ciel à ce que tu vois.",
+     "nl": "Koppel elk lichtje aan de hemel aan wat je ziet."
+    },
+    "done": {
+     "en": "Great job, sky watcher!",
+     "fr": "Bravo, observateur du ciel !",
+     "nl": "Goed gedaan, sterrenkijker!"
+    },
+    "left": {
+     "en": [
+      "A star",
+      "A planet",
+      "A satellite",
+      "An airplane"
+     ],
+     "fr": [
+      "Une étoile",
+      "Une planète",
+      "Un satellite",
+      "Un avion"
+     ],
+     "nl": [
+      "Een ster",
+      "Een planeet",
+      "Een satelliet",
+      "Een vliegtuig"
+     ]
+    },
+    "right": {
+     "en": [
+      "Twinkles a lot",
+      "Shines more steadily",
+      "A dot gliding slowly without blinking",
+      "Blinking colored lights"
+     ],
+     "fr": [
+      "Scintille beaucoup",
+      "Brille de façon plus stable",
+      "Un point qui glisse lentement sans clignoter",
+      "Des lumières de couleur qui clignotent"
+     ],
+     "nl": [
+      "Twinkelt veel",
+      "Schijnt rustiger",
+      "Een puntje dat langzaam glijdt zonder te knipperen",
+      "Gekleurde knipperlichtjes"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Space",
+    "fr": "Espace",
+    "nl": "Ruimte"
+   },
+   "adult": {
+    "en": "For grown-ups: the Space world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Espace dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Ruimte in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-09",
+   "voice": false
+  },
+  {
+   "id": "mobility-20261109",
+   "world": "mobility",
+   "guide": "Sunny",
+   "title": {
+    "en": "How can a train float above its track?",
+    "fr": "Comment un train peut-il flotter au-dessus de ses rails ?",
+    "nl": "Hoe kan een trein boven zijn spoor zweven?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, I saw a video of a train that floats above its track with no wheels touching! How is that even possible?",
+     "fr": "Sunny, j’ai vu une vidéo d’un train qui flotte au-dessus de sa voie, sans roues qui la touchent ! Comment c’est possible ?",
+     "nl": "Sunny, ik zag een filmpje van een trein die boven zijn spoor zweeft, zonder wielen die het raken! Hoe kan dat nou?",
+     "img": "Whyzz shows Sunny a tablet with a sleek floating train, amazed"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Wait, let me guess: it is pulled by invisible flying horses!",
+     "fr": "Attends, je devine : il est tiré par des chevaux volants invisibles !",
+     "nl": "Wacht, laat me raden: hij wordt getrokken door onzichtbare vliegende paarden!",
+     "img": "Whyzz imagines a train pulled by see-through flying horses, Sunny giggles"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "No horses, just magnets! Try pushing two magnets together the wrong way: they push each other apart, like two grumpy cats.",
+     "fr": "Pas de chevaux, juste des aimants ! Essaie de rapprocher deux aimants du mauvais côté : ils se repoussent, comme deux chats grognons.",
+     "nl": "Geen paarden, gewoon magneten! Duw maar eens twee magneten verkeerd om tegen elkaar: ze duwen elkaar weg, net als twee chagrijnige katten.",
+     "img": "Sunny holds two magnets that push each other apart, Whyzz tries to press them together"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "A maglev train has strong magnets underneath and in the track. They lift the whole train up and float it a little above the track.",
+     "fr": "Un train maglev a des aimants puissants en dessous et dans la voie. Ils soulèvent tout le train et le font flotter un peu au-dessus de la voie.",
+     "nl": "Een maglevtrein heeft sterke magneten onder de trein en in het spoor. Die tillen de hele trein op, zodat hij een stukje boven het spoor zweeft.",
+     "img": "a sleek maglev train hovers above its guideway with a glowing gap underneath"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Magnets in the track also pull it forward. Did you know? With no rubbing wheels, a test maglev zoomed over 600 kilometers per hour!",
+     "fr": "Les aimants de la voie le tirent aussi vers l’avant. Le savais-tu ? Sans roues qui frottent, un maglev d’essai a foncé à plus de 600 kilomètres à l’heure !",
+     "nl": "Magneten in het spoor trekken hem ook vooruit. Wist je dat? Zonder wielen die schuren, raasde een testmaglev met meer dan 600 kilometer per uur!",
+     "img": "Sunny and Whyzz cheer as a maglev zooms past in a blur with speed lines"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So magnets lift the train and pull it along, quiet and super fast. Where would you go on a floating train?",
+     "fr": "Donc les aimants soulèvent le train et le tirent, en silence et super vite. Où irais-tu avec un train qui flotte ?",
+     "nl": "Magneten tillen de trein dus op en trekken hem vooruit, stil en supersnel. Waar zou jij naartoe gaan met een zwevende trein?",
+     "img": "Whyzz and Sunny look out of a maglev window at mountains and a sea, smiling"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What makes a maglev train float?",
+      "fr": "Qu’est-ce qui fait flotter un train maglev ?",
+      "nl": "Waardoor zweeft een maglevtrein?"
+     },
+     "o": {
+      "en": [
+       "Balloons",
+       "Magnets",
+       "Flying horses"
+      ],
+      "fr": [
+       "Des ballons",
+       "Des aimants",
+       "Des chevaux volants"
+      ],
+      "nl": [
+       "Ballonnen",
+       "Magneten",
+       "Vliegende paarden"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What happens when you push two magnets together the wrong way?",
+      "fr": "Que se passe-t-il quand tu rapproches deux aimants du mauvais côté ?",
+      "nl": "Wat gebeurt er als je twee magneten verkeerd om tegen elkaar duwt?"
+     },
+     "o": {
+      "en": [
+       "They push each other apart",
+       "They change color",
+       "They melt"
+      ],
+      "fr": [
+       "Ils se repoussent",
+       "Ils changent de couleur",
+       "Ils fondent"
+      ],
+      "nl": [
+       "Ze duwen elkaar weg",
+       "Ze veranderen van kleur",
+       "Ze smelten"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Where are the magnets of a maglev?",
+      "fr": "Où sont les aimants d’un maglev ?",
+      "nl": "Waar zitten de magneten van een maglev?"
+     },
+     "o": {
+      "en": [
+       "Only on the roof",
+       "In the seats",
+       "Under the train and in the track"
+      ],
+      "fr": [
+       "Seulement sur le toit",
+       "Dans les sièges",
+       "Sous le train et dans la voie"
+      ],
+      "nl": [
+       "Alleen op het dak",
+       "In de stoelen",
+       "Onder de trein en in het spoor"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Why can a maglev go so fast?",
+      "fr": "Pourquoi un maglev peut-il aller si vite ?",
+      "nl": "Waarom kan een maglev zo snel gaan?"
+     },
+     "o": {
+      "en": [
+       "It has no rubbing wheels",
+       "It has a huge sail",
+       "It goes downhill"
+      ],
+      "fr": [
+       "Il n’a pas de roues qui frottent",
+       "Il a une énorme voile",
+       "Il descend toujours"
+      ],
+      "nl": [
+       "Er zijn geen wielen die schuren",
+       "Hij heeft een groot zeil",
+       "Hij rijdt altijd bergaf"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "How fast did a test maglev go?",
+      "fr": "À quelle vitesse a roulé un maglev d’essai ?",
+      "nl": "Hoe snel ging een testmaglev?"
+     },
+     "o": {
+      "en": [
+       "10 kilometers per hour",
+       "Over 600 kilometers per hour",
+       "As fast as a snail"
+      ],
+      "fr": [
+       "10 kilomètres à l’heure",
+       "Plus de 600 kilomètres à l’heure",
+       "Aussi vite qu’un escargot"
+      ],
+      "nl": [
+       "10 kilometer per uur",
+       "Meer dan 600 kilometer per uur",
+       "Zo snel als een slak"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "From slow to super fast",
+     "fr": "Du plus lent au plus rapide",
+     "nl": "Van traag naar supersnel"
+    },
+    "intro": {
+     "en": "Put them in order from slowest to fastest.",
+     "fr": "Range-les du plus lent au plus rapide.",
+     "nl": "Zet ze in volgorde, van traagst naar snelst."
+    },
+    "done": {
+     "en": "Zoom! You got it!",
+     "fr": "Zoum ! Tu as trouvé !",
+     "nl": "Zoef! Helemaal goed!"
+    },
+    "items": {
+     "en": [
+      "Walking",
+      "Riding a bike",
+      "A car on the highway",
+      "A fast train",
+      "A maglev train",
+      "A passenger airplane"
+     ],
+     "fr": [
+      "Marcher",
+      "Rouler à vélo",
+      "Une voiture sur l’autoroute",
+      "Un train rapide",
+      "Un train maglev",
+      "Un avion de ligne"
+     ],
+     "nl": [
+      "Wandelen",
+      "Fietsen",
+      "Een auto op de snelweg",
+      "Een snelle trein",
+      "Een maglevtrein",
+      "Een passagiersvliegtuig"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Smart Mobility",
+    "fr": "Mobilité",
+    "nl": "Slimme mobiliteit"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Mobility world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Mobilité dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme mobiliteit in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-09",
+   "voice": false
+  },
+  {
+   "id": "cities-20261109",
+   "world": "cities",
+   "guide": "Pixel",
+   "title": {
+    "en": "How do machines sort our recycling?",
+    "fr": "Comment les machines trient-elles nos déchets recyclables ?",
+    "nl": "Hoe sorteren machines ons afval voor recycling?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, we throw cans, bottles and paper all in one recycling bin. How does anyone sort out that big mix?",
+     "fr": "Pixel, on jette les canettes, les bouteilles et le papier dans la même poubelle de tri. Comment on fait pour trier ce grand mélange ?",
+     "nl": "Pixel, we gooien blikjes, flessen en papier allemaal in dezelfde recyclingbak. Hoe krijgt iemand die grote mix ooit gesorteerd?",
+     "img": "Whyzz holds a can and a bottle over a full recycling bin, puzzled"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I bet tiny elves sort it all by hand at night, with tiny flashlights!",
+     "fr": "Je parie que des petits lutins trient tout à la main pendant la nuit, avec des mini lampes de poche !",
+     "nl": "Ik wed dat kleine kaboutertjes alles 's nachts met de hand sorteren, met piepkleine zaklampjes!",
+     "img": "Whyzz imagines little elves with flashlights sorting cans, Pixel laughs"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "No elves, but clever machines! First a conveyor belt carries everything over spinning discs that bounce the flat paper away from the bottles and cans.",
+     "fr": "Pas de lutins, mais des machines malignes ! D’abord, un tapis roulant fait passer tout sur des disques qui tournent et qui séparent le papier plat des bouteilles et des canettes.",
+     "nl": "Geen kabouters, maar slimme machines! Eerst brengt een lopende band alles over draaiende schijven, die het platte papier scheiden van de flessen en blikjes.",
+     "img": "a conveyor belt carries mixed recycling over spinning discs, paper flies off"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Then a giant magnet grabs the steel cans. Light sensors spot plastic bottles and a quick puff of air shoots each one into its own bin.",
+     "fr": "Ensuite, un aimant géant attrape les boîtes en acier. Des capteurs de lumière repèrent les bouteilles en plastique et un petit jet d’air envoie chacune dans son bac.",
+     "nl": "Daarna grijpt een reuzenmagneet de stalen blikken. Lichtsensoren herkennen plastic flessen en een snel pufje lucht schiet elke fles in de juiste bak.",
+     "img": "a big magnet lifts steel cans while puffs of air shoot plastic bottles into bins"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know? Aluminum cans are not grabbed by magnets, so a spinning magnet makes them jump right off the belt, like popcorn!",
+     "fr": "Le savais-tu ? Les canettes en aluminium ne sont pas attirées par les aimants, alors un aimant qui tourne très vite les fait sauter hors du tapis, comme du pop-corn !",
+     "nl": "Wist je dat? Magneten trekken aluminium blikjes niet aan, dus laat een snel draaiende magneet ze van de band springen, net als popcorn!",
+     "img": "shiny aluminum cans jump off the end of a belt like popcorn, Pixel and Whyzz cheer"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So belts, magnets, light and air sort our recycling super fast. What new thing would you make from old bottles?",
+     "fr": "Donc les tapis, les aimants, la lumière et l’air trient nos déchets super vite. Et toi, que fabriquerais-tu avec de vieilles bouteilles ?",
+     "nl": "Lopende banden, magneten, licht en lucht sorteren ons afval dus supersnel. Wat zou jij maken van oude flessen?",
+     "img": "Whyzz and Pixel build a colorful robot sculpture from old plastic bottles"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What carries the recycling through the sorting hall?",
+      "fr": "Qu’est-ce qui transporte les déchets dans le centre de tri ?",
+      "nl": "Wat vervoert het afval door de sorteerhal?"
+     },
+     "o": {
+      "en": [
+       "Tiny elves",
+       "A conveyor belt",
+       "A river"
+      ],
+      "fr": [
+       "Des petits lutins",
+       "Un tapis roulant",
+       "Une rivière"
+      ],
+      "nl": [
+       "Kleine kaboutertjes",
+       "Een lopende band",
+       "Een rivier"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What do the spinning discs separate?",
+      "fr": "Que séparent les disques qui tournent ?",
+      "nl": "Wat scheiden de draaiende schijven?"
+     },
+     "o": {
+      "en": [
+       "Flat paper from bottles and cans",
+       "Apples from pears",
+       "Socks from shoes"
+      ],
+      "fr": [
+       "Le papier plat des bouteilles et des canettes",
+       "Les pommes des poires",
+       "Les chaussettes des chaussures"
+      ],
+      "nl": [
+       "Plat papier van flessen en blikjes",
+       "Appels van peren",
+       "Sokken van schoenen"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What grabs the steel cans?",
+      "fr": "Qu’est-ce qui attrape les boîtes en acier ?",
+      "nl": "Wat grijpt de stalen blikken?"
+     },
+     "o": {
+      "en": [
+       "A vacuum cleaner",
+       "A fishing net",
+       "A giant magnet"
+      ],
+      "fr": [
+       "Un aspirateur",
+       "Un filet de pêche",
+       "Un aimant géant"
+      ],
+      "nl": [
+       "Een stofzuiger",
+       "Een visnet",
+       "Een reuzenmagneet"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "How are plastic bottles pushed into their bin?",
+      "fr": "Comment les bouteilles en plastique sont-elles envoyées dans leur bac ?",
+      "nl": "Hoe komen plastic flessen in hun bak?"
+     },
+     "o": {
+      "en": [
+       "With a puff of air",
+       "With a broom",
+       "With a trumpet"
+      ],
+      "fr": [
+       "Avec un jet d’air",
+       "Avec un balai",
+       "Avec une trompette"
+      ],
+      "nl": [
+       "Met een pufje lucht",
+       "Met een bezem",
+       "Met een trompet"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What do aluminum cans do near a spinning magnet?",
+      "fr": "Que font les canettes en aluminium près d’un aimant qui tourne ?",
+      "nl": "Wat doen aluminium blikjes bij een draaiende magneet?"
+     },
+     "o": {
+      "en": [
+       "They fall asleep",
+       "They jump off the belt",
+       "They turn into paper"
+      ],
+      "fr": [
+       "Elles s’endorment",
+       "Elles sautent hors du tapis",
+       "Elles se transforment en papier"
+      ],
+      "nl": [
+       "Ze vallen in slaap",
+       "Ze springen van de band",
+       "Ze veranderen in papier"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Magnet test",
+     "fr": "Le test de l’aimant",
+     "nl": "De magneettest"
+    },
+    "intro": {
+     "en": "Which things can a magnet pick up? Pick all of them.",
+     "fr": "Quels objets un aimant peut-il attraper ? Choisis-les tous.",
+     "nl": "Welke dingen kan een magneet oppakken? Kies ze allemaal."
+    },
+    "done": {
+     "en": "Super sorting, recycling hero!",
+     "fr": "Super tri, héros du recyclage !",
+     "nl": "Super gesorteerd, recyclingheld!"
+    },
+    "items": {
+     "en": [
+      "A steel food can",
+      "An aluminum soda can",
+      "An iron nail",
+      "A plastic bottle",
+      "A newspaper",
+      "A steel bottle cap",
+      "A glass jar"
+     ],
+     "fr": [
+      "Une boîte de conserve en acier",
+      "Une canette en aluminium",
+      "Un clou en fer",
+      "Une bouteille en plastique",
+      "Un journal",
+      "Une capsule en acier",
+      "Un bocal en verre"
+     ],
+     "nl": [
+      "Een stalen conservenblik",
+      "Een aluminium frisdrankblikje",
+      "Een ijzeren spijker",
+      "Een plastic fles",
+      "Een krant",
+      "Een stalen kroonkurk",
+      "Een glazen pot"
+     ]
+    },
+    "good": [
+     0,
+     2,
+     5
+    ]
+   },
+   "worldName": {
+    "en": "Smart Cities",
+    "fr": "Villes intelligentes",
+    "nl": "Slimme steden"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Cities world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Villes intelligentes dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme steden in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-09",
+   "voice": false
+  },
+  {
+   "id": "innovation-20261109",
+   "world": "innovation",
+   "guide": "Whyzz",
+   "title": {
+    "en": "Can a mistake become a great invention?",
+    "fr": "Une erreur peut-elle devenir une super invention ?",
+    "nl": "Kan een foutje een geweldige uitvinding worden?"
+   },
+   "scenes": [
+    {
+     "speaker": "Pixel",
+     "en": "Oops, Whyzz! Your science project went wrong and your slime turned into a bouncy ball. Is that a disaster?",
+     "fr": "Oups, Whyzz ! Ton projet de sciences a raté et ton slime est devenu une balle rebondissante. C’est une catastrophe ?",
+     "nl": "Oeps, Whyzz! Je wetenschapsproject is mislukt en je slijm is een stuiterbal geworden. Is dat een ramp?",
+     "img": "Pixel watches Whyzz's green slime bounce like a ball in a messy workshop"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "A disaster? No way! I meant to do that. Okay, I did not, but look how high it bounces!",
+     "fr": "Une catastrophe ? Pas du tout ! Je l’ai fait exprès. Bon, pas vraiment, mais regarde comme elle rebondit haut !",
+     "nl": "Een ramp? Echt niet! Dat was de bedoeling. Oké, niet echt, maar kijk eens hoe hoog hij stuitert!",
+     "img": "Whyzz proudly bounces the slime ball very high while Pixel laughs"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Lots of inventions started as accidents! An engineer stood near a radar machine and the chocolate bar in his pocket melted. That gave him the idea for the microwave oven.",
+     "fr": "Plein d’inventions sont nées par accident ! Un ingénieur se tenait près d’une machine radar et la barre de chocolat dans sa poche a fondu. Ça lui a donné l’idée du four à micro-ondes.",
+     "nl": "Veel uitvindingen begonnen als ongelukje! Een ingenieur stond bij een radarmachine en de chocoladereep in zijn zak smolt. Zo kreeg hij het idee voor de magnetron.",
+     "img": "an engineer cartoon scene: a melted chocolate bar near a big glowing machine, Whyzz explains"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Wow! And sticky notes came from a glue that was not sticky enough, right?",
+     "fr": "Waouh ! Et les petits papiers collants viennent d’une colle qui ne collait pas assez, c’est ça ?",
+     "nl": "Wauw! En plakbriefjes kwamen van een lijm die niet sterk genoeg plakte, toch?",
+     "img": "Pixel covers a wall with colorful sticky notes, smiling"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Yes! Did you know? Over 100 years ago, an 11-year-old boy left a drink with a stirring stick outside on a freezing night and invented the ice pop!",
+     "fr": "Oui ! Le savais-tu ? Il y a plus de 100 ans, un garçon de 11 ans a oublié une boisson avec un bâtonnet dehors par une nuit glaciale, et il a inventé la sucette glacée !",
+     "nl": "Ja! Wist je dat? Meer dan 100 jaar geleden liet een jongen van 11 een drankje met een roerstokje buiten staan op een ijskoude nacht, en zo vond hij de waterijsjes uit!",
+     "img": "a frosty cup with a stick on a snowy porch at night, Whyzz and Pixel peek amazed"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So a mistake can be a surprise gift, if you look closely and ask why. What happy accident would you turn into an invention?",
+     "fr": "Une erreur peut donc être un cadeau surprise, si tu regardes bien et que tu te demandes pourquoi. Quel heureux accident transformerais-tu en invention ?",
+     "nl": "Een foutje kan dus een verrassingscadeau zijn, als je goed kijkt en je afvraagt waarom. Welk gelukkig ongelukje zou jij omtoveren tot een uitvinding?",
+     "img": "Whyzz and Pixel unwrap a gift box with a glowing lightbulb inside in the workshop"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What happened to Whyzz’s slime?",
+      "fr": "Qu’est-il arrivé au slime de Whyzz ?",
+      "nl": "Wat gebeurde er met het slijm van Whyzz?"
+     },
+     "o": {
+      "en": [
+       "It turned into a bouncy ball",
+       "It flew away",
+       "It became a cake"
+      ],
+      "fr": [
+       "Il est devenu une balle rebondissante",
+       "Il s’est envolé",
+       "Il est devenu un gâteau"
+      ],
+      "nl": [
+       "Het werd een stuiterbal",
+       "Het vloog weg",
+       "Het werd een taart"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What melted in the engineer’s pocket?",
+      "fr": "Qu’est-ce qui a fondu dans la poche de l’ingénieur ?",
+      "nl": "Wat smolt er in de zak van de ingenieur?"
+     },
+     "o": {
+      "en": [
+       "An ice cube",
+       "A chocolate bar",
+       "A crayon"
+      ],
+      "fr": [
+       "Un glaçon",
+       "Une barre de chocolat",
+       "Un crayon de cire"
+      ],
+      "nl": [
+       "Een ijsblokje",
+       "Een chocoladereep",
+       "Een waskrijtje"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Which invention came from the melted chocolate?",
+      "fr": "Quelle invention est née du chocolat fondu ?",
+      "nl": "Welke uitvinding kwam van de gesmolten chocolade?"
+     },
+     "o": {
+      "en": [
+       "The bicycle",
+       "The telephone",
+       "The microwave oven"
+      ],
+      "fr": [
+       "Le vélo",
+       "Le téléphone",
+       "Le four à micro-ondes"
+      ],
+      "nl": [
+       "De fiets",
+       "De telefoon",
+       "De magnetron"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Sticky notes came from a glue that was…",
+      "fr": "Les petits papiers collants viennent d’une colle qui…",
+      "nl": "Plakbriefjes kwamen van een lijm die…"
+     },
+     "o": {
+      "en": [
+       "Not sticky enough",
+       "Too purple",
+       "Too hot"
+      ],
+      "fr": [
+       "Ne collait pas assez",
+       "Était trop violette",
+       "Était trop chaude"
+      ],
+      "nl": [
+       "Niet sterk genoeg plakte",
+       "Te paars was",
+       "Te heet was"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "How was the ice pop invented?",
+      "fr": "Comment la sucette glacée a-t-elle été inventée ?",
+      "nl": "Hoe werd het waterijsje uitgevonden?"
+     },
+     "o": {
+      "en": [
+       "In a big factory",
+       "A drink with a stick froze outside",
+       "On the Moon"
+      ],
+      "fr": [
+       "Dans une grande usine",
+       "Une boisson avec un bâtonnet a gelé dehors",
+       "Sur la Lune"
+      ],
+      "nl": [
+       "In een grote fabriek",
+       "Een drankje met een stokje bevroor buiten",
+       "Op de maan"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Happy accidents",
+     "fr": "Heureux accidents",
+     "nl": "Gelukkige ongelukjes"
+    },
+    "intro": {
+     "en": "Match each accident to the invention it led to.",
+     "fr": "Relie chaque accident à l’invention qu’il a donnée.",
+     "nl": "Koppel elk ongelukje aan de uitvinding die eruit kwam."
+    },
+    "done": {
+     "en": "You are an invention detective!",
+     "fr": "Tu es un vrai détective des inventions !",
+     "nl": "Jij bent een echte uitvindingsdetective!"
+    },
+    "left": {
+     "en": [
+      "A chocolate bar melted near a machine",
+      "A glue was not sticky enough",
+      "A drink with a stick froze outside"
+     ],
+     "fr": [
+      "Une barre de chocolat a fondu près d’une machine",
+      "Une colle ne collait pas assez",
+      "Une boisson avec un bâtonnet a gelé dehors"
+     ],
+     "nl": [
+      "Een chocoladereep smolt bij een machine",
+      "Een lijm plakte niet sterk genoeg",
+      "Een drankje met een stokje bevroor buiten"
+     ]
+    },
+    "right": {
+     "en": [
+      "The microwave oven",
+      "Sticky notes",
+      "The ice pop"
+     ],
+     "fr": [
+      "Le four à micro-ondes",
+      "Les petits papiers collants",
+      "La sucette glacée"
+     ],
+     "nl": [
+      "De magnetron",
+      "Plakbriefjes",
+      "Het waterijsje"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Innovation",
+    "fr": "Innovation",
+    "nl": "Innovatie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Innovation world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Innovation dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Innovatie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-09",
    "voice": false
   }
  ]
