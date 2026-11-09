@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "b43e830ff8ece92b08f8aafe6d2de247adb943af",
+  "sourceCommit": "022074628cb5ea17e1a2c03ac19688618b58c103",
   "publicPolicySha256": "71ac3e18ef77e3647d7e9b7766becc29e7f387ed6c1cf757f74f45938e770b63",
   "nodeVersion": "v24.19.0",
-  "payloadId": "3e3671352670bc5dac249bed80b32e0d31d457add465a1267f8d4825a3bc5682",
+  "payloadId": "aea96e195de4d96b6da8dc3f8b97389171983b179f2b8104f3a0138df569c326",
   "files": [
     {
       "path": "404.html",
@@ -588,8 +588,8 @@
     },
     {
       "path": "universe/planting-the-sun-one-panel-a-minute/index.html",
-      "size": 24123,
-      "sha256": "c970e41e728c7aa0a334fd738766d533a06d315a2bbc9cbead392f5b9fde131b"
+      "size": 24072,
+      "sha256": "de72a2ff3db002b6c2631d68bd93360583063c2cc8bcab0a2bdf63e08704292e"
     },
     {
       "path": "universe/running-out-of-cold/index.html",
@@ -603,8 +603,8 @@
     },
     {
       "path": "universe/the-brain-scanner-that-lets-you-fidget/index.html",
-      "size": 20998,
-      "sha256": "ec178a085578bb0cee68bfd6f1bd859dbb807e2afcd86c066c3f8db63ff4f690"
+      "size": 20932,
+      "sha256": "fdf36df6b1343966cd4a199655101da395760867c4647bab94f52ce604d1b739"
     },
     {
       "path": "universe/the-city-that-parks-itself/index.html",
@@ -618,8 +618,8 @@
     },
     {
       "path": "universe/the-germs-that-know-where-the-pipes-will-fail/index.html",
-      "size": 21895,
-      "sha256": "f073d3adbf5fe483ddfc1179c63845817cef46ec6ccef3ac19d34bc0ae211f16"
+      "size": 21859,
+      "sha256": "933b341528094383d85df8ae6ceb19cb2857d897314c1350e665389384405a94"
     },
     {
       "path": "universe/the-lab-that-never-sleeps/index.html",
@@ -653,8 +653,8 @@
     },
     {
       "path": "universe/the-solar-cell-that-gave-up-germanium/index.html",
-      "size": 21035,
-      "sha256": "7f2208184abc3467f257662eac3acc2a8794fffab6fd82631560ad0f6734f414"
+      "size": 20999,
+      "sha256": "8ad4b896f477a8d36504398b1abbcf61898a54b6366834fc2e5c48f84f62b65d"
     },
     {
       "path": "universe/where-no-hand-can-reach/index.html",
@@ -663,13 +663,13 @@
     },
     {
       "path": "universe/who-drills-the-holes-for-the-cloud/index.html",
-      "size": 22086,
-      "sha256": "26e8d36f23eb1f08c11dab437ee9f1fb0083cf7773bad5bde125b0949e5fa056"
+      "size": 22028,
+      "sha256": "618e4714ba75b9501b30cf667da27612e3f3a0429f247678b2905b4abcb71fd3"
     },
     {
       "path": "universe/who-sets-out-the-triangles-when-no-one-is-driving/index.html",
-      "size": 21522,
-      "sha256": "38a540dc6249ec3b230f2df4a2e0a283d9032731c853b147a258ad18c21f626c"
+      "size": 21455,
+      "sha256": "849d9facb92a45637b3e379cd9429127fc21b0eb3272cf0099ae90a6b062e88e"
     },
     {
       "path": "what-if/index.html",
@@ -755,7 +755,7 @@
     },
     {
       "path": "tools/development-policy.mjs",
-      "sha256": "69703e99d28d67f20be9ae5dd90edac1b5bb5cca728b8101b82728eb04ebd20d"
+      "sha256": "1cff48c515cdef4565b96e7120f03611569c2130573313e6ada4f99fc83a69f1"
     },
     {
       "path": "tools/encrypted-backup.mjs",
@@ -775,7 +775,7 @@
     },
     {
       "path": "tools/import-articles.py",
-      "sha256": "91169e6e0c77cdaedaf6a785fae10511bf7fb0847bb6319b9e4ceeac68e1ae2f"
+      "sha256": "37d929c6d2df8bb0e32f9f005f5716e64a3bf192b42f59fedc10493f94eb9b92"
     },
     {
       "path": "tools/local-safety.mjs",
@@ -791,7 +791,7 @@
     },
     {
       "path": "tools/promote.mjs",
-      "sha256": "561de6a061d40d54b581c95e560efdbe753a694693764a3471f84ae7212cb520"
+      "sha256": "26bfb5f59e8606dd430aa2c4091b689d85b635987ba7ee93aadaf64665dcdda5"
     },
     {
       "path": "tools/publication-policy.mjs",

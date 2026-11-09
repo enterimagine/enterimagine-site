@@ -4,6 +4,7 @@
 # 1. verify  — the files under public/ must match release-manifest.json exactly (paths, sizes, SHA-256); nothing extra.
 # 2. deploy  — runs in the `production` environment: GitHub holds it until the owner approves this exact commit.
 #              The deployment token is an environment secret, released only after that approval.
+# 2b. links  — article links: internal and series links must exist, no draft links, every reference opened once.
 # 3. smoke   — downloads every file from the live site and compares it byte-for-byte with the manifest.
 name: deploy
 on:
@@ -28,6 +29,20 @@ jobs:
           node-version: '24.19.0'
       - name: Verify public/ against the release manifest
         run: node .github/verify-release.mjs
+  links:
+    # Standard article check (owner request, 9 Nov 2026). Results are on the run page before approval.
+    # Red = a broken link or a link to a draft; deploy does not wait for this job, so look before approving.
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '24.19.0'
+      - name: Check links in the articles (internal, series and references)
+        run: node .github/check-links.mjs
   deploy:
     needs: verify
     runs-on: ubuntu-24.04
