@@ -1,0 +1,233 @@
+{
+ "id": "mobility-20261109",
+ "world": "mobility",
+ "guide": "Sunny",
+ "title": {
+  "en": "How can a train float above its track?",
+  "fr": "Comment un train peut-il flotter au-dessus de ses rails ?",
+  "nl": "Hoe kan een trein boven zijn spoor zweven?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, I saw a video of a train that floats above its track with no wheels touching! How is that even possible?",
+   "fr": "Sunny, j’ai vu une vidéo d’un train qui flotte au-dessus de sa voie, sans roues qui la touchent ! Comment c’est possible ?",
+   "nl": "Sunny, ik zag een filmpje van een trein die boven zijn spoor zweeft, zonder wielen die het raken! Hoe kan dat nou?",
+   "img": "Whyzz shows Sunny a tablet with a sleek floating train, amazed"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Wait, let me guess: it is pulled by invisible flying horses!",
+   "fr": "Attends, je devine : il est tiré par des chevaux volants invisibles !",
+   "nl": "Wacht, laat me raden: hij wordt getrokken door onzichtbare vliegende paarden!",
+   "img": "Whyzz imagines a train pulled by see-through flying horses, Sunny giggles"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "No horses, just magnets! Try pushing two magnets together the wrong way: they push each other apart, like two grumpy cats.",
+   "fr": "Pas de chevaux, juste des aimants ! Essaie de rapprocher deux aimants du mauvais côté : ils se repoussent, comme deux chats grognons.",
+   "nl": "Geen paarden, gewoon magneten! Duw maar eens twee magneten verkeerd om tegen elkaar: ze duwen elkaar weg, net als twee chagrijnige katten.",
+   "img": "Sunny holds two magnets that push each other apart, Whyzz tries to press them together"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "A maglev train has strong magnets underneath and in the track. They lift the whole train up and float it a little above the track.",
+   "fr": "Un train maglev a des aimants puissants en dessous et dans la voie. Ils soulèvent tout le train et le font flotter un peu au-dessus de la voie.",
+   "nl": "Een maglevtrein heeft sterke magneten onder de trein en in het spoor. Die tillen de hele trein op, zodat hij een stukje boven het spoor zweeft.",
+   "img": "a sleek maglev train hovers above its guideway with a glowing gap underneath"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Magnets in the track also pull it forward. Did you know? With no rubbing wheels, a test maglev zoomed over 600 kilometers per hour!",
+   "fr": "Les aimants de la voie le tirent aussi vers l’avant. Le savais-tu ? Sans roues qui frottent, un maglev d’essai a foncé à plus de 600 kilomètres à l’heure !",
+   "nl": "Magneten in het spoor trekken hem ook vooruit. Wist je dat? Zonder wielen die schuren, raasde een testmaglev met meer dan 600 kilometer per uur!",
+   "img": "Sunny and Whyzz cheer as a maglev zooms past in a blur with speed lines"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So magnets lift the train and pull it along, quiet and super fast. Where would you go on a floating train?",
+   "fr": "Donc les aimants soulèvent le train et le tirent, en silence et super vite. Où irais-tu avec un train qui flotte ?",
+   "nl": "Magneten tillen de trein dus op en trekken hem vooruit, stil en supersnel. Waar zou jij naartoe gaan met een zwevende trein?",
+   "img": "Whyzz and Sunny look out of a maglev window at mountains and a sea, smiling"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds up a tablet and excitedly shows it to Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge, the tablet screen shows a sleek white futuristic train hovering above a track, both look amazed, bright modern train station. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge daydreams with a big silly grin, above his head a funny thought cloud shows a sleek white train pulled by glowing see-through flying horses in the sky, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge giggles next to him, train station platform. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge holds two chunky red-and-blue horseshoe magnets that push each other apart with little sparkly force lines, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge strains with puffed cheeks trying to press two magnets together, bright science classroom. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "a sleek white futuristic maglev train hovers just above a long concrete guideway with a soft glowing blue gap underneath and no wheels touching, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge points at the gap and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge crouches to look under it in amazement, sunny countryside. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge cheer and throw their arms up on a viewing platform as a sleek white maglev train zooms past in a blur with streaks of motion, green hills and blue sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge sit by a big window inside a bright modern maglev train and smile at a view of snowy mountains and a blue sea passing by, cozy seats. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What makes a maglev train float?",
+    "fr": "Qu’est-ce qui fait flotter un train maglev ?",
+    "nl": "Waardoor zweeft een maglevtrein?"
+   },
+   "o": {
+    "en": [
+     "Balloons",
+     "Magnets",
+     "Flying horses"
+    ],
+    "fr": [
+     "Des ballons",
+     "Des aimants",
+     "Des chevaux volants"
+    ],
+    "nl": [
+     "Ballonnen",
+     "Magneten",
+     "Vliegende paarden"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What happens when you push two magnets together the wrong way?",
+    "fr": "Que se passe-t-il quand tu rapproches deux aimants du mauvais côté ?",
+    "nl": "Wat gebeurt er als je twee magneten verkeerd om tegen elkaar duwt?"
+   },
+   "o": {
+    "en": [
+     "They push each other apart",
+     "They change color",
+     "They melt"
+    ],
+    "fr": [
+     "Ils se repoussent",
+     "Ils changent de couleur",
+     "Ils fondent"
+    ],
+    "nl": [
+     "Ze duwen elkaar weg",
+     "Ze veranderen van kleur",
+     "Ze smelten"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Where are the magnets of a maglev?",
+    "fr": "Où sont les aimants d’un maglev ?",
+    "nl": "Waar zitten de magneten van een maglev?"
+   },
+   "o": {
+    "en": [
+     "Only on the roof",
+     "In the seats",
+     "Under the train and in the track"
+    ],
+    "fr": [
+     "Seulement sur le toit",
+     "Dans les sièges",
+     "Sous le train et dans la voie"
+    ],
+    "nl": [
+     "Alleen op het dak",
+     "In de stoelen",
+     "Onder de trein en in het spoor"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Why can a maglev go so fast?",
+    "fr": "Pourquoi un maglev peut-il aller si vite ?",
+    "nl": "Waarom kan een maglev zo snel gaan?"
+   },
+   "o": {
+    "en": [
+     "It has no rubbing wheels",
+     "It has a huge sail",
+     "It goes downhill"
+    ],
+    "fr": [
+     "Il n’a pas de roues qui frottent",
+     "Il a une énorme voile",
+     "Il descend toujours"
+    ],
+    "nl": [
+     "Er zijn geen wielen die schuren",
+     "Hij heeft een groot zeil",
+     "Hij rijdt altijd bergaf"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "How fast did a test maglev go?",
+    "fr": "À quelle vitesse a roulé un maglev d’essai ?",
+    "nl": "Hoe snel ging een testmaglev?"
+   },
+   "o": {
+    "en": [
+     "10 kilometers per hour",
+     "Over 600 kilometers per hour",
+     "As fast as a snail"
+    ],
+    "fr": [
+     "10 kilomètres à l’heure",
+     "Plus de 600 kilomètres à l’heure",
+     "Aussi vite qu’un escargot"
+    ],
+    "nl": [
+     "10 kilometer per uur",
+     "Meer dan 600 kilometer per uur",
+     "Zo snel als een slak"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "From slow to super fast",
+   "fr": "Du plus lent au plus rapide",
+   "nl": "Van traag naar supersnel"
+  },
+  "intro": {
+   "en": "Put them in order from slowest to fastest.",
+   "fr": "Range-les du plus lent au plus rapide.",
+   "nl": "Zet ze in volgorde, van traagst naar snelst."
+  },
+  "done": {
+   "en": "Zoom! You got it!",
+   "fr": "Zoum ! Tu as trouvé !",
+   "nl": "Zoef! Helemaal goed!"
+  },
+  "items": {
+   "en": [
+    "Walking",
+    "Riding a bike",
+    "A car on the highway",
+    "A fast train",
+    "A maglev train",
+    "A passenger airplane"
+   ],
+   "fr": [
+    "Marcher",
+    "Rouler à vélo",
+    "Une voiture sur l’autoroute",
+    "Un train rapide",
+    "Un train maglev",
+    "Un avion de ligne"
+   ],
+   "nl": [
+    "Wandelen",
+    "Fietsen",
+    "Een auto op de snelweg",
+    "Een snelle trein",
+    "Een maglevtrein",
+    "Een passagiersvliegtuig"
+   ]
+  }
+ }
+}

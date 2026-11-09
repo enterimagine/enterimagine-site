@@ -2482,5 +2482,437 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Dus zonlicht duwt elektronen en stromende elektronen geven onze huizen stroom! Waar zou jij zonnepanelen leggen als je mocht kiezen?"
+ },
+ {
+  "id": "space-20261109-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, look up! The stars keep blinking on and off like tiny flashlights. Why do they twinkle?"
+ },
+ {
+  "id": "space-20261109-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, regarde là-haut ! Les étoiles clignotent comme de minuscules lampes de poche. Pourquoi est-ce qu’elles scintillent ?"
+ },
+ {
+  "id": "space-20261109-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, kijk eens omhoog! De sterren knipperen als piepkleine zaklampjes. Waarom twinkelen ze?"
+ },
+ {
+  "id": "space-20261109-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I know! They are winking at me because they think I am super cool."
+ },
+ {
+  "id": "space-20261109-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je sais ! Elles me font des clins d’œil parce qu’elles me trouvent super cool."
+ },
+ {
+  "id": "space-20261109-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik weet het al! Ze knipogen naar mij omdat ze mij superstoer vinden."
+ },
+ {
+  "id": "space-20261109-en-3",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Ha, nice try! A star shines with a steady light, but on its way to your eyes, that light must travel through our air."
+ },
+ {
+  "id": "space-20261109-fr-3",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Bien essayé ! Une étoile brille d’une lumière bien stable, mais pour arriver jusqu’à tes yeux, cette lumière doit traverser notre air."
+ },
+ {
+  "id": "space-20261109-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Haha, goed geprobeerd! Een ster geeft gewoon een rustig licht, maar op weg naar je ogen moet dat licht door onze lucht reizen."
+ },
+ {
+  "id": "space-20261109-en-4",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "The air is always moving, with warm and cold bubbles. They bend the light a tiny bit, like looking at a coin at the bottom of a wobbly pool."
+ },
+ {
+  "id": "space-20261109-fr-4",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "L’air bouge tout le temps, avec des bulles chaudes et froides. Elles dévient un tout petit peu la lumière, comme une pièce au fond d’une piscine qui ondule."
+ },
+ {
+  "id": "space-20261109-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "De lucht beweegt altijd, met warme en koude bellen. Die buigen het licht een heel klein beetje, zoals een muntje op de bodem van een golvend zwembad."
+ },
+ {
+  "id": "space-20261109-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Did you know? Astronauts in space see the stars shining steady, without any twinkle, because there is no air up there to wiggle the light!"
+ },
+ {
+  "id": "space-20261109-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Le savais-tu ? Dans l’espace, les astronautes voient les étoiles briller sans scintiller, parce qu’il n’y a pas d’air là-haut pour faire trembler la lumière !"
+ },
+ {
+  "id": "space-20261109-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Wist je dat? Astronauten in de ruimte zien de sterren rustig schijnen, zonder twinkelen, want daar is geen lucht die het licht laat wiebelen!"
+ },
+ {
+  "id": "space-20261109-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So stars twinkle because our wobbly air shakes their light. If you could fly up to the stars, what would you take with you?"
+ },
+ {
+  "id": "space-20261109-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les étoiles scintillent parce que notre air qui bouge fait trembler leur lumière. Si tu pouvais voler jusqu’aux étoiles, qu’est-ce que tu emporterais ?"
+ },
+ {
+  "id": "space-20261109-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sterren twinkelen dus omdat onze wiebelige lucht hun licht laat trillen. Als jij naar de sterren kon vliegen, wat zou je dan meenemen?"
+ },
+ {
+  "id": "mobility-20261109-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, I saw a video of a train that floats above its track with no wheels touching! How is that even possible?"
+ },
+ {
+  "id": "mobility-20261109-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, j’ai vu une vidéo d’un train qui flotte au-dessus de sa voie, sans roues qui la touchent ! Comment c’est possible ?"
+ },
+ {
+  "id": "mobility-20261109-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, ik zag een filmpje van een trein die boven zijn spoor zweeft, zonder wielen die het raken! Hoe kan dat nou?"
+ },
+ {
+  "id": "mobility-20261109-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Wait, let me guess: it is pulled by invisible flying horses!"
+ },
+ {
+  "id": "mobility-20261109-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Attends, je devine : il est tiré par des chevaux volants invisibles !"
+ },
+ {
+  "id": "mobility-20261109-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Wacht, laat me raden: hij wordt getrokken door onzichtbare vliegende paarden!"
+ },
+ {
+  "id": "mobility-20261109-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "No horses, just magnets! Try pushing two magnets together the wrong way: they push each other apart, like two grumpy cats."
+ },
+ {
+  "id": "mobility-20261109-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Pas de chevaux, juste des aimants ! Essaie de rapprocher deux aimants du mauvais côté : ils se repoussent, comme deux chats grognons."
+ },
+ {
+  "id": "mobility-20261109-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Geen paarden, gewoon magneten! Duw maar eens twee magneten verkeerd om tegen elkaar: ze duwen elkaar weg, net als twee chagrijnige katten."
+ },
+ {
+  "id": "mobility-20261109-en-4",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "A maglev train has strong magnets underneath and in the track. They lift the whole train up and float it a little above the track."
+ },
+ {
+  "id": "mobility-20261109-fr-4",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Un train maglev a des aimants puissants en dessous et dans la voie. Ils soulèvent tout le train et le font flotter un peu au-dessus de la voie."
+ },
+ {
+  "id": "mobility-20261109-nl-4",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Een maglevtrein heeft sterke magneten onder de trein en in het spoor. Die tillen de hele trein op, zodat hij een stukje boven het spoor zweeft."
+ },
+ {
+  "id": "mobility-20261109-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Magnets in the track also pull it forward. Did you know? With no rubbing wheels, a test maglev zoomed over 600 kilometers per hour!"
+ },
+ {
+  "id": "mobility-20261109-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Les aimants de la voie le tirent aussi vers l’avant. Le savais-tu ? Sans roues qui frottent, un maglev d’essai a foncé à plus de 600 kilomètres à l’heure !"
+ },
+ {
+  "id": "mobility-20261109-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Magneten in het spoor trekken hem ook vooruit. Wist je dat? Zonder wielen die schuren, raasde een testmaglev met meer dan 600 kilometer per uur!"
+ },
+ {
+  "id": "mobility-20261109-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So magnets lift the train and pull it along, quiet and super fast. Where would you go on a floating train?"
+ },
+ {
+  "id": "mobility-20261109-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les aimants soulèvent le train et le tirent, en silence et super vite. Où irais-tu avec un train qui flotte ?"
+ },
+ {
+  "id": "mobility-20261109-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Magneten tillen de trein dus op en trekken hem vooruit, stil en supersnel. Waar zou jij naartoe gaan met een zwevende trein?"
+ },
+ {
+  "id": "cities-20261109-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, we throw cans, bottles and paper all in one recycling bin. How does anyone sort out that big mix?"
+ },
+ {
+  "id": "cities-20261109-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, on jette les canettes, les bouteilles et le papier dans la même poubelle de tri. Comment on fait pour trier ce grand mélange ?"
+ },
+ {
+  "id": "cities-20261109-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, we gooien blikjes, flessen en papier allemaal in dezelfde recyclingbak. Hoe krijgt iemand die grote mix ooit gesorteerd?"
+ },
+ {
+  "id": "cities-20261109-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I bet tiny elves sort it all by hand at night, with tiny flashlights!"
+ },
+ {
+  "id": "cities-20261109-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je parie que des petits lutins trient tout à la main pendant la nuit, avec des mini lampes de poche !"
+ },
+ {
+  "id": "cities-20261109-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik wed dat kleine kaboutertjes alles 's nachts met de hand sorteren, met piepkleine zaklampjes!"
+ },
+ {
+  "id": "cities-20261109-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "No elves, but clever machines! First a conveyor belt carries everything over spinning discs that bounce the flat paper away from the bottles and cans."
+ },
+ {
+  "id": "cities-20261109-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Pas de lutins, mais des machines malignes ! D’abord, un tapis roulant fait passer tout sur des disques qui tournent et qui séparent le papier plat des bouteilles et des canettes."
+ },
+ {
+  "id": "cities-20261109-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Geen kabouters, maar slimme machines! Eerst brengt een lopende band alles over draaiende schijven, die het platte papier scheiden van de flessen en blikjes."
+ },
+ {
+  "id": "cities-20261109-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Then a giant magnet grabs the steel cans. Light sensors spot plastic bottles and a quick puff of air shoots each one into its own bin."
+ },
+ {
+  "id": "cities-20261109-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ensuite, un aimant géant attrape les boîtes en acier. Des capteurs de lumière repèrent les bouteilles en plastique et un petit jet d’air envoie chacune dans son bac."
+ },
+ {
+  "id": "cities-20261109-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Daarna grijpt een reuzenmagneet de stalen blikken. Lichtsensoren herkennen plastic flessen en een snel pufje lucht schiet elke fles in de juiste bak."
+ },
+ {
+  "id": "cities-20261109-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? Aluminum cans are not grabbed by magnets, so a spinning magnet makes them jump right off the belt, like popcorn!"
+ },
+ {
+  "id": "cities-20261109-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Les canettes en aluminium ne sont pas attirées par les aimants, alors un aimant qui tourne très vite les fait sauter hors du tapis, comme du pop-corn !"
+ },
+ {
+  "id": "cities-20261109-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat? Magneten trekken aluminium blikjes niet aan, dus laat een snel draaiende magneet ze van de band springen, net als popcorn!"
+ },
+ {
+  "id": "cities-20261109-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So belts, magnets, light and air sort our recycling super fast. What new thing would you make from old bottles?"
+ },
+ {
+  "id": "cities-20261109-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les tapis, les aimants, la lumière et l’air trient nos déchets super vite. Et toi, que fabriquerais-tu avec de vieilles bouteilles ?"
+ },
+ {
+  "id": "cities-20261109-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Lopende banden, magneten, licht en lucht sorteren ons afval dus supersnel. Wat zou jij maken van oude flessen?"
+ },
+ {
+  "id": "innovation-20261109-en-1",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Oops, Whyzz! Your science project went wrong and your slime turned into a bouncy ball. Is that a disaster?"
+ },
+ {
+  "id": "innovation-20261109-fr-1",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Oups, Whyzz ! Ton projet de sciences a raté et ton slime est devenu une balle rebondissante. C’est une catastrophe ?"
+ },
+ {
+  "id": "innovation-20261109-nl-1",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Oeps, Whyzz! Je wetenschapsproject is mislukt en je slijm is een stuiterbal geworden. Is dat een ramp?"
+ },
+ {
+  "id": "innovation-20261109-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "A disaster? No way! I meant to do that. Okay, I did not, but look how high it bounces!"
+ },
+ {
+  "id": "innovation-20261109-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Une catastrophe ? Pas du tout ! Je l’ai fait exprès. Bon, pas vraiment, mais regarde comme elle rebondit haut !"
+ },
+ {
+  "id": "innovation-20261109-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Een ramp? Echt niet! Dat was de bedoeling. Oké, niet echt, maar kijk eens hoe hoog hij stuitert!"
+ },
+ {
+  "id": "innovation-20261109-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Lots of inventions started as accidents! An engineer stood near a radar machine and the chocolate bar in his pocket melted. That gave him the idea for the microwave oven."
+ },
+ {
+  "id": "innovation-20261109-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Plein d’inventions sont nées par accident ! Un ingénieur se tenait près d’une machine radar et la barre de chocolat dans sa poche a fondu. Ça lui a donné l’idée du four à micro-ondes."
+ },
+ {
+  "id": "innovation-20261109-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Veel uitvindingen begonnen als ongelukje! Een ingenieur stond bij een radarmachine en de chocoladereep in zijn zak smolt. Zo kreeg hij het idee voor de magnetron."
+ },
+ {
+  "id": "innovation-20261109-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Wow! And sticky notes came from a glue that was not sticky enough, right?"
+ },
+ {
+  "id": "innovation-20261109-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Waouh ! Et les petits papiers collants viennent d’une colle qui ne collait pas assez, c’est ça ?"
+ },
+ {
+  "id": "innovation-20261109-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wauw! En plakbriefjes kwamen van een lijm die niet sterk genoeg plakte, toch?"
+ },
+ {
+  "id": "innovation-20261109-en-5",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Yes! Did you know? Over 100 years ago, an 11-year-old boy left a drink with a stirring stick outside on a freezing night and invented the ice pop!"
+ },
+ {
+  "id": "innovation-20261109-fr-5",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Oui ! Le savais-tu ? Il y a plus de 100 ans, un garçon de 11 ans a oublié une boisson avec un bâtonnet dehors par une nuit glaciale, et il a inventé la sucette glacée !"
+ },
+ {
+  "id": "innovation-20261109-nl-5",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ja! Wist je dat? Meer dan 100 jaar geleden liet een jongen van 11 een drankje met een roerstokje buiten staan op een ijskoude nacht, en zo vond hij de waterijsjes uit!"
+ },
+ {
+  "id": "innovation-20261109-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a mistake can be a surprise gift, if you look closely and ask why. What happy accident would you turn into an invention?"
+ },
+ {
+  "id": "innovation-20261109-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Une erreur peut donc être un cadeau surprise, si tu regardes bien et que tu te demandes pourquoi. Quel heureux accident transformerais-tu en invention ?"
+ },
+ {
+  "id": "innovation-20261109-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Een foutje kan dus een verrassingscadeau zijn, als je goed kijkt en je afvraagt waarom. Welk gelukkig ongelukje zou jij omtoveren tot een uitvinding?"
  }
 ]

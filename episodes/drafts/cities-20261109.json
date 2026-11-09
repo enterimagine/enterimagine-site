@@ -1,0 +1,241 @@
+{
+ "id": "cities-20261109",
+ "world": "cities",
+ "guide": "Pixel",
+ "title": {
+  "en": "How do machines sort our recycling?",
+  "fr": "Comment les machines trient-elles nos déchets recyclables ?",
+  "nl": "Hoe sorteren machines ons afval voor recycling?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, we throw cans, bottles and paper all in one recycling bin. How does anyone sort out that big mix?",
+   "fr": "Pixel, on jette les canettes, les bouteilles et le papier dans la même poubelle de tri. Comment on fait pour trier ce grand mélange ?",
+   "nl": "Pixel, we gooien blikjes, flessen en papier allemaal in dezelfde recyclingbak. Hoe krijgt iemand die grote mix ooit gesorteerd?",
+   "img": "Whyzz holds a can and a bottle over a full recycling bin, puzzled"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I bet tiny elves sort it all by hand at night, with tiny flashlights!",
+   "fr": "Je parie que des petits lutins trient tout à la main pendant la nuit, avec des mini lampes de poche !",
+   "nl": "Ik wed dat kleine kaboutertjes alles 's nachts met de hand sorteren, met piepkleine zaklampjes!",
+   "img": "Whyzz imagines little elves with flashlights sorting cans, Pixel laughs"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "No elves, but clever machines! First a conveyor belt carries everything over spinning discs that bounce the flat paper away from the bottles and cans.",
+   "fr": "Pas de lutins, mais des machines malignes ! D’abord, un tapis roulant fait passer tout sur des disques qui tournent et qui séparent le papier plat des bouteilles et des canettes.",
+   "nl": "Geen kabouters, maar slimme machines! Eerst brengt een lopende band alles over draaiende schijven, die het platte papier scheiden van de flessen en blikjes.",
+   "img": "a conveyor belt carries mixed recycling over spinning discs, paper flies off"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Then a giant magnet grabs the steel cans. Light sensors spot plastic bottles and a quick puff of air shoots each one into its own bin.",
+   "fr": "Ensuite, un aimant géant attrape les boîtes en acier. Des capteurs de lumière repèrent les bouteilles en plastique et un petit jet d’air envoie chacune dans son bac.",
+   "nl": "Daarna grijpt een reuzenmagneet de stalen blikken. Lichtsensoren herkennen plastic flessen en een snel pufje lucht schiet elke fles in de juiste bak.",
+   "img": "a big magnet lifts steel cans while puffs of air shoot plastic bottles into bins"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know? Aluminum cans are not grabbed by magnets, so a spinning magnet makes them jump right off the belt, like popcorn!",
+   "fr": "Le savais-tu ? Les canettes en aluminium ne sont pas attirées par les aimants, alors un aimant qui tourne très vite les fait sauter hors du tapis, comme du pop-corn !",
+   "nl": "Wist je dat? Magneten trekken aluminium blikjes niet aan, dus laat een snel draaiende magneet ze van de band springen, net als popcorn!",
+   "img": "shiny aluminum cans jump off the end of a belt like popcorn, Pixel and Whyzz cheer"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So belts, magnets, light and air sort our recycling super fast. What new thing would you make from old bottles?",
+   "fr": "Donc les tapis, les aimants, la lumière et l’air trient nos déchets super vite. Et toi, que fabriquerais-tu avec de vieilles bouteilles ?",
+   "nl": "Lopende banden, magneten, licht en lucht sorteren ons afval dus supersnel. Wat zou jij maken van oude flessen?",
+   "img": "Whyzz and Pixel build a colorful robot sculpture from old plastic bottles"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands next to an overflowing blue recycling bin in a sunny city street, holding a can in one hand and a plastic bottle in the other with a puzzled face, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge smiles next to him. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge daydreams with a big silly grin, above his head a funny thought cloud shows tiny friendly elves with little flashlights sorting cans and bottles at night, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs next to him, sunny city street with a recycling bin. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "inside a bright clean recycling sorting hall, a long conveyor belt carries a colorful mix of cans, bottles and paper over rows of spinning discs, flat sheets of paper bounce away, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points and explains to Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge from a safe walkway with railings. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "inside a bright recycling sorting hall, a big round magnet above a conveyor belt lifts steel cans into the air, little puffs of air shoot plastic bottles into bins, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watch amazed from a safe walkway with railings. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "at the end of a conveyor belt in a bright recycling hall, shiny silver aluminum cans jump high into the air like popcorn and land in a big bin, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge cheer with their arms up on a safe walkway. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge proudly build a colorful funny robot sculpture made of old plastic bottles and bottle caps in a sunny city park, happy faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What carries the recycling through the sorting hall?",
+    "fr": "Qu’est-ce qui transporte les déchets dans le centre de tri ?",
+    "nl": "Wat vervoert het afval door de sorteerhal?"
+   },
+   "o": {
+    "en": [
+     "Tiny elves",
+     "A conveyor belt",
+     "A river"
+    ],
+    "fr": [
+     "Des petits lutins",
+     "Un tapis roulant",
+     "Une rivière"
+    ],
+    "nl": [
+     "Kleine kaboutertjes",
+     "Een lopende band",
+     "Een rivier"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What do the spinning discs separate?",
+    "fr": "Que séparent les disques qui tournent ?",
+    "nl": "Wat scheiden de draaiende schijven?"
+   },
+   "o": {
+    "en": [
+     "Flat paper from bottles and cans",
+     "Apples from pears",
+     "Socks from shoes"
+    ],
+    "fr": [
+     "Le papier plat des bouteilles et des canettes",
+     "Les pommes des poires",
+     "Les chaussettes des chaussures"
+    ],
+    "nl": [
+     "Plat papier van flessen en blikjes",
+     "Appels van peren",
+     "Sokken van schoenen"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What grabs the steel cans?",
+    "fr": "Qu’est-ce qui attrape les boîtes en acier ?",
+    "nl": "Wat grijpt de stalen blikken?"
+   },
+   "o": {
+    "en": [
+     "A vacuum cleaner",
+     "A fishing net",
+     "A giant magnet"
+    ],
+    "fr": [
+     "Un aspirateur",
+     "Un filet de pêche",
+     "Un aimant géant"
+    ],
+    "nl": [
+     "Een stofzuiger",
+     "Een visnet",
+     "Een reuzenmagneet"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "How are plastic bottles pushed into their bin?",
+    "fr": "Comment les bouteilles en plastique sont-elles envoyées dans leur bac ?",
+    "nl": "Hoe komen plastic flessen in hun bak?"
+   },
+   "o": {
+    "en": [
+     "With a puff of air",
+     "With a broom",
+     "With a trumpet"
+    ],
+    "fr": [
+     "Avec un jet d’air",
+     "Avec un balai",
+     "Avec une trompette"
+    ],
+    "nl": [
+     "Met een pufje lucht",
+     "Met een bezem",
+     "Met een trompet"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What do aluminum cans do near a spinning magnet?",
+    "fr": "Que font les canettes en aluminium près d’un aimant qui tourne ?",
+    "nl": "Wat doen aluminium blikjes bij een draaiende magneet?"
+   },
+   "o": {
+    "en": [
+     "They fall asleep",
+     "They jump off the belt",
+     "They turn into paper"
+    ],
+    "fr": [
+     "Elles s’endorment",
+     "Elles sautent hors du tapis",
+     "Elles se transforment en papier"
+    ],
+    "nl": [
+     "Ze vallen in slaap",
+     "Ze springen van de band",
+     "Ze veranderen in papier"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Magnet test",
+   "fr": "Le test de l’aimant",
+   "nl": "De magneettest"
+  },
+  "intro": {
+   "en": "Which things can a magnet pick up? Pick all of them.",
+   "fr": "Quels objets un aimant peut-il attraper ? Choisis-les tous.",
+   "nl": "Welke dingen kan een magneet oppakken? Kies ze allemaal."
+  },
+  "done": {
+   "en": "Super sorting, recycling hero!",
+   "fr": "Super tri, héros du recyclage !",
+   "nl": "Super gesorteerd, recyclingheld!"
+  },
+  "items": {
+   "en": [
+    "A steel food can",
+    "An aluminum soda can",
+    "An iron nail",
+    "A plastic bottle",
+    "A newspaper",
+    "A steel bottle cap",
+    "A glass jar"
+   ],
+   "fr": [
+    "Une boîte de conserve en acier",
+    "Une canette en aluminium",
+    "Un clou en fer",
+    "Une bouteille en plastique",
+    "Un journal",
+    "Une capsule en acier",
+    "Un bocal en verre"
+   ],
+   "nl": [
+    "Een stalen conservenblik",
+    "Een aluminium frisdrankblikje",
+    "Een ijzeren spijker",
+    "Een plastic fles",
+    "Een krant",
+    "Een stalen kroonkurk",
+    "Een glazen pot"
+   ]
+  },
+  "good": [
+   0,
+   2,
+   5
+  ]
+ }
+}

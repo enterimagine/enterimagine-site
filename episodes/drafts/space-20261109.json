@@ -1,0 +1,247 @@
+{
+ "id": "space-20261109",
+ "world": "space",
+ "guide": "Qubi",
+ "title": {
+  "en": "Why do stars twinkle?",
+  "fr": "Pourquoi les étoiles scintillent-elles ?",
+  "nl": "Waarom twinkelen de sterren?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, look up! The stars keep blinking on and off like tiny flashlights. Why do they twinkle?",
+   "fr": "Qubi, regarde là-haut ! Les étoiles clignotent comme de minuscules lampes de poche. Pourquoi est-ce qu’elles scintillent ?",
+   "nl": "Qubi, kijk eens omhoog! De sterren knipperen als piepkleine zaklampjes. Waarom twinkelen ze?",
+   "img": "Whyzz and Qubi lie on a blanket on a hill at night pointing at twinkling stars"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I know! They are winking at me because they think I am super cool.",
+   "fr": "Je sais ! Elles me font des clins d’œil parce qu’elles me trouvent super cool.",
+   "nl": "Ik weet het al! Ze knipogen naar mij omdat ze mij superstoer vinden.",
+   "img": "Whyzz winks back at the stars with a big grin while Qubi laughs"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Ha, nice try! A star shines with a steady light, but on its way to your eyes, that light must travel through our air.",
+   "fr": "Bien essayé ! Une étoile brille d’une lumière bien stable, mais pour arriver jusqu’à tes yeux, cette lumière doit traverser notre air.",
+   "nl": "Haha, goed geprobeerd! Een ster geeft gewoon een rustig licht, maar op weg naar je ogen moet dat licht door onze lucht reizen.",
+   "img": "a beam of starlight travels from a bright star down through layers of air to Earth"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "The air is always moving, with warm and cold bubbles. They bend the light a tiny bit, like looking at a coin at the bottom of a wobbly pool.",
+   "fr": "L’air bouge tout le temps, avec des bulles chaudes et froides. Elles dévient un tout petit peu la lumière, comme une pièce au fond d’une piscine qui ondule.",
+   "nl": "De lucht beweegt altijd, met warme en koude bellen. Die buigen het licht een heel klein beetje, zoals een muntje op de bodem van een golvend zwembad.",
+   "img": "Qubi and Whyzz look at a shiny coin at the bottom of a rippling swimming pool"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Did you know? Astronauts in space see the stars shining steady, without any twinkle, because there is no air up there to wiggle the light!",
+   "fr": "Le savais-tu ? Dans l’espace, les astronautes voient les étoiles briller sans scintiller, parce qu’il n’y a pas d’air là-haut pour faire trembler la lumière !",
+   "nl": "Wist je dat? Astronauten in de ruimte zien de sterren rustig schijnen, zonder twinkelen, want daar is geen lucht die het licht laat wiebelen!",
+   "img": "Qubi in a space station window looking at calm, steady stars and the Earth"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So stars twinkle because our wobbly air shakes their light. If you could fly up to the stars, what would you take with you?",
+   "fr": "Donc les étoiles scintillent parce que notre air qui bouge fait trembler leur lumière. Si tu pouvais voler jusqu’aux étoiles, qu’est-ce que tu emporterais ?",
+   "nl": "Sterren twinkelen dus omdat onze wiebelige lucht hun licht laat trillen. Als jij naar de sterren kon vliegen, wat zou je dan meenemen?",
+   "img": "Whyzz and Qubi in a little cardboard rocket under a starry sky, waving"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge lie side by side on a picnic blanket on a grassy hill at night, Whyzz points up in wonder at a sky full of sparkling twinkling stars, Qubi smiles, cozy warm lantern next to them. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge winks playfully up at the starry night sky with a big cheeky grin and gives a thumbs-up to the stars, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge laughs next to him on a picnic blanket on a grassy hill. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge explains and points at a glowing ray of starlight that travels from a bright star far away down through soft swirling layers of blue air to a cozy hill on Earth, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with curiosity, night sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge kneel at the edge of a swimming pool and look at a shiny gold coin on the bottom that looks wobbly through the rippling water, sunny day, amazed faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge floats happily inside a space station and looks out of a big round window at calm, steady bright stars and the blue Earth below, playful astronaut mood. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge sit in a funny homemade cardboard rocket with a backpack and a teddy bear, waving happily under a starry night sky in a backyard. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What do stars do in the night sky?",
+    "fr": "Que font les étoiles dans le ciel de nuit ?",
+    "nl": "Wat doen sterren aan de nachthemel?"
+   },
+   "o": {
+    "en": [
+     "They melt",
+     "They twinkle",
+     "They sing"
+    ],
+    "fr": [
+     "Elles fondent",
+     "Elles scintillent",
+     "Elles chantent"
+    ],
+    "nl": [
+     "Ze smelten",
+     "Ze twinkelen",
+     "Ze zingen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What must starlight travel through to reach your eyes?",
+    "fr": "Que doit traverser la lumière des étoiles pour arriver à tes yeux ?",
+    "nl": "Waar moet sterrenlicht doorheen om bij je ogen te komen?"
+   },
+   "o": {
+    "en": [
+     "Our air",
+     "A big tunnel",
+     "The ocean"
+    ],
+    "fr": [
+     "Notre air",
+     "Un grand tunnel",
+     "L’océan"
+    ],
+    "nl": [
+     "Onze lucht",
+     "Een grote tunnel",
+     "De oceaan"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What do warm and cold air bubbles do to the light?",
+    "fr": "Que font les bulles d’air chaudes et froides à la lumière ?",
+    "nl": "Wat doen warme en koude luchtbellen met het licht?"
+   },
+   "o": {
+    "en": [
+     "They paint it green",
+     "They switch it off",
+     "They bend it a tiny bit"
+    ],
+    "fr": [
+     "Elles la peignent en vert",
+     "Elles l’éteignent",
+     "Elles la dévient un tout petit peu"
+    ],
+    "nl": [
+     "Ze kleuren het groen",
+     "Ze doen het uit",
+     "Ze buigen het een klein beetje"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What looks wobbly like a twinkling star?",
+    "fr": "Qu’est-ce qui a l’air de trembler comme une étoile qui scintille ?",
+    "nl": "Wat lijkt te wiebelen, net als een twinkelende ster?"
+   },
+   "o": {
+    "en": [
+     "A coin in a rippling pool",
+     "A book on a table",
+     "A shoe in a box"
+    ],
+    "fr": [
+     "Une pièce au fond d’une piscine qui ondule",
+     "Un livre sur une table",
+     "Une chaussure dans une boîte"
+    ],
+    "nl": [
+     "Een muntje in een golvend zwembad",
+     "Een boek op tafel",
+     "Een schoen in een doos"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "How do astronauts in space see the stars?",
+    "fr": "Comment les astronautes voient-ils les étoiles dans l’espace ?",
+    "nl": "Hoe zien astronauten in de ruimte de sterren?"
+   },
+   "o": {
+    "en": [
+     "Twinkling even more",
+     "Shining steady",
+     "All in purple"
+    ],
+    "fr": [
+     "Encore plus scintillantes",
+     "Brillant sans scintiller",
+     "Toutes violettes"
+    ],
+    "nl": [
+     "Nog meer twinkelend",
+     "Rustig schijnend",
+     "Allemaal paars"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Lights in the night sky",
+   "fr": "Les lumières du ciel de nuit",
+   "nl": "Lichtjes aan de nachthemel"
+  },
+  "intro": {
+   "en": "Match each light in the sky to what you see.",
+   "fr": "Relie chaque lumière du ciel à ce que tu vois.",
+   "nl": "Koppel elk lichtje aan de hemel aan wat je ziet."
+  },
+  "done": {
+   "en": "Great job, sky watcher!",
+   "fr": "Bravo, observateur du ciel !",
+   "nl": "Goed gedaan, sterrenkijker!"
+  },
+  "left": {
+   "en": [
+    "A star",
+    "A planet",
+    "A satellite",
+    "An airplane"
+   ],
+   "fr": [
+    "Une étoile",
+    "Une planète",
+    "Un satellite",
+    "Un avion"
+   ],
+   "nl": [
+    "Een ster",
+    "Een planeet",
+    "Een satelliet",
+    "Een vliegtuig"
+   ]
+  },
+  "right": {
+   "en": [
+    "Twinkles a lot",
+    "Shines more steadily",
+    "A dot gliding slowly without blinking",
+    "Blinking colored lights"
+   ],
+   "fr": [
+    "Scintille beaucoup",
+    "Brille de façon plus stable",
+    "Un point qui glisse lentement sans clignoter",
+    "Des lumières de couleur qui clignotent"
+   ],
+   "nl": [
+    "Twinkelt veel",
+    "Schijnt rustiger",
+    "Een puntje dat langzaam glijdt zonder te knipperen",
+    "Gekleurde knipperlichtjes"
+   ]
+  }
+ }
+}

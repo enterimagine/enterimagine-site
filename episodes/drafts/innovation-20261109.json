@@ -1,0 +1,241 @@
+{
+ "id": "innovation-20261109",
+ "world": "innovation",
+ "guide": "Whyzz",
+ "title": {
+  "en": "Can a mistake become a great invention?",
+  "fr": "Une erreur peut-elle devenir une super invention ?",
+  "nl": "Kan een foutje een geweldige uitvinding worden?"
+ },
+ "scenes": [
+  {
+   "speaker": "Pixel",
+   "en": "Oops, Whyzz! Your science project went wrong and your slime turned into a bouncy ball. Is that a disaster?",
+   "fr": "Oups, Whyzz ! Ton projet de sciences a raté et ton slime est devenu une balle rebondissante. C’est une catastrophe ?",
+   "nl": "Oeps, Whyzz! Je wetenschapsproject is mislukt en je slijm is een stuiterbal geworden. Is dat een ramp?",
+   "img": "Pixel watches Whyzz's green slime bounce like a ball in a messy workshop"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "A disaster? No way! I meant to do that. Okay, I did not, but look how high it bounces!",
+   "fr": "Une catastrophe ? Pas du tout ! Je l’ai fait exprès. Bon, pas vraiment, mais regarde comme elle rebondit haut !",
+   "nl": "Een ramp? Echt niet! Dat was de bedoeling. Oké, niet echt, maar kijk eens hoe hoog hij stuitert!",
+   "img": "Whyzz proudly bounces the slime ball very high while Pixel laughs"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Lots of inventions started as accidents! An engineer stood near a radar machine and the chocolate bar in his pocket melted. That gave him the idea for the microwave oven.",
+   "fr": "Plein d’inventions sont nées par accident ! Un ingénieur se tenait près d’une machine radar et la barre de chocolat dans sa poche a fondu. Ça lui a donné l’idée du four à micro-ondes.",
+   "nl": "Veel uitvindingen begonnen als ongelukje! Een ingenieur stond bij een radarmachine en de chocoladereep in zijn zak smolt. Zo kreeg hij het idee voor de magnetron.",
+   "img": "an engineer cartoon scene: a melted chocolate bar near a big glowing machine, Whyzz explains"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Wow! And sticky notes came from a glue that was not sticky enough, right?",
+   "fr": "Waouh ! Et les petits papiers collants viennent d’une colle qui ne collait pas assez, c’est ça ?",
+   "nl": "Wauw! En plakbriefjes kwamen van een lijm die niet sterk genoeg plakte, toch?",
+   "img": "Pixel covers a wall with colorful sticky notes, smiling"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Yes! Did you know? Over 100 years ago, an 11-year-old boy left a drink with a stirring stick outside on a freezing night and invented the ice pop!",
+   "fr": "Oui ! Le savais-tu ? Il y a plus de 100 ans, un garçon de 11 ans a oublié une boisson avec un bâtonnet dehors par une nuit glaciale, et il a inventé la sucette glacée !",
+   "nl": "Ja! Wist je dat? Meer dan 100 jaar geleden liet een jongen van 11 een drankje met een roerstokje buiten staan op een ijskoude nacht, en zo vond hij de waterijsjes uit!",
+   "img": "a frosty cup with a stick on a snowy porch at night, Whyzz and Pixel peek amazed"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a mistake can be a surprise gift, if you look closely and ask why. What happy accident would you turn into an invention?",
+   "fr": "Une erreur peut donc être un cadeau surprise, si tu regardes bien et que tu te demandes pourquoi. Quel heureux accident transformerais-tu en invention ?",
+   "nl": "Een foutje kan dus een verrassingscadeau zijn, als je goed kijkt en je afvraagt waarom. Welk gelukkig ongelukje zou jij omtoveren tot een uitvinding?",
+   "img": "Whyzz and Pixel unwrap a gift box with a glowing lightbulb inside in the workshop"
+  }
+ ],
+ "prompts": [
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge looks surprised with her hands on her cheeks as a blob of bright green slime bounces like a rubber ball off a table, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stares at it with big eyes, messy colorful kid workshop with beakers and tools. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge proudly bounces a bright green slime ball very high into the air with a big cheeky grin, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs and points, messy colorful kid workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge explains with big gestures next to a funny old-fashioned big glowing radar machine with dials in a retro lab, a melted chocolate bar drips from a jacket pocket hanging on a hook nearby, cartoon style, bright. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge happily sticks lots of bright colorful sticky notes on a wall in a kid workshop, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge has a yellow sticky note stuck on his nose and grins. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "on a snowy wooden porch on a starry winter night, a frosty cup with a frozen orange drink and a wooden stick in it sparkles with ice crystals, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge in warm scarves peek at it amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge open a big gift box together in a colorful kid workshop and a glowing lightbulb floats out of it with sparkles, joyful amazed faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What happened to Whyzz’s slime?",
+    "fr": "Qu’est-il arrivé au slime de Whyzz ?",
+    "nl": "Wat gebeurde er met het slijm van Whyzz?"
+   },
+   "o": {
+    "en": [
+     "It turned into a bouncy ball",
+     "It flew away",
+     "It became a cake"
+    ],
+    "fr": [
+     "Il est devenu une balle rebondissante",
+     "Il s’est envolé",
+     "Il est devenu un gâteau"
+    ],
+    "nl": [
+     "Het werd een stuiterbal",
+     "Het vloog weg",
+     "Het werd een taart"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What melted in the engineer’s pocket?",
+    "fr": "Qu’est-ce qui a fondu dans la poche de l’ingénieur ?",
+    "nl": "Wat smolt er in de zak van de ingenieur?"
+   },
+   "o": {
+    "en": [
+     "An ice cube",
+     "A chocolate bar",
+     "A crayon"
+    ],
+    "fr": [
+     "Un glaçon",
+     "Une barre de chocolat",
+     "Un crayon de cire"
+    ],
+    "nl": [
+     "Een ijsblokje",
+     "Een chocoladereep",
+     "Een waskrijtje"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Which invention came from the melted chocolate?",
+    "fr": "Quelle invention est née du chocolat fondu ?",
+    "nl": "Welke uitvinding kwam van de gesmolten chocolade?"
+   },
+   "o": {
+    "en": [
+     "The bicycle",
+     "The telephone",
+     "The microwave oven"
+    ],
+    "fr": [
+     "Le vélo",
+     "Le téléphone",
+     "Le four à micro-ondes"
+    ],
+    "nl": [
+     "De fiets",
+     "De telefoon",
+     "De magnetron"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Sticky notes came from a glue that was…",
+    "fr": "Les petits papiers collants viennent d’une colle qui…",
+    "nl": "Plakbriefjes kwamen van een lijm die…"
+   },
+   "o": {
+    "en": [
+     "Not sticky enough",
+     "Too purple",
+     "Too hot"
+    ],
+    "fr": [
+     "Ne collait pas assez",
+     "Était trop violette",
+     "Était trop chaude"
+    ],
+    "nl": [
+     "Niet sterk genoeg plakte",
+     "Te paars was",
+     "Te heet was"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "How was the ice pop invented?",
+    "fr": "Comment la sucette glacée a-t-elle été inventée ?",
+    "nl": "Hoe werd het waterijsje uitgevonden?"
+   },
+   "o": {
+    "en": [
+     "In a big factory",
+     "A drink with a stick froze outside",
+     "On the Moon"
+    ],
+    "fr": [
+     "Dans une grande usine",
+     "Une boisson avec un bâtonnet a gelé dehors",
+     "Sur la Lune"
+    ],
+    "nl": [
+     "In een grote fabriek",
+     "Een drankje met een stokje bevroor buiten",
+     "Op de maan"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Happy accidents",
+   "fr": "Heureux accidents",
+   "nl": "Gelukkige ongelukjes"
+  },
+  "intro": {
+   "en": "Match each accident to the invention it led to.",
+   "fr": "Relie chaque accident à l’invention qu’il a donnée.",
+   "nl": "Koppel elk ongelukje aan de uitvinding die eruit kwam."
+  },
+  "done": {
+   "en": "You are an invention detective!",
+   "fr": "Tu es un vrai détective des inventions !",
+   "nl": "Jij bent een echte uitvindingsdetective!"
+  },
+  "left": {
+   "en": [
+    "A chocolate bar melted near a machine",
+    "A glue was not sticky enough",
+    "A drink with a stick froze outside"
+   ],
+   "fr": [
+    "Une barre de chocolat a fondu près d’une machine",
+    "Une colle ne collait pas assez",
+    "Une boisson avec un bâtonnet a gelé dehors"
+   ],
+   "nl": [
+    "Een chocoladereep smolt bij een machine",
+    "Een lijm plakte niet sterk genoeg",
+    "Een drankje met een stokje bevroor buiten"
+   ]
+  },
+  "right": {
+   "en": [
+    "The microwave oven",
+    "Sticky notes",
+    "The ice pop"
+   ],
+   "fr": [
+    "Le four à micro-ondes",
+    "Les petits papiers collants",
+    "La sucette glacée"
+   ],
+   "nl": [
+    "De magnetron",
+    "Plakbriefjes",
+    "Het waterijsje"
+   ]
+  }
+ }
+}
