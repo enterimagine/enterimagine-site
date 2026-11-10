@@ -1,0 +1,247 @@
+{
+ "id": "bloom-20261110",
+ "world": "bloom",
+ "guide": "Bloom",
+ "title": {
+  "en": "How can a jellyfish glow in the dark?",
+  "fr": "Comment une méduse peut-elle briller dans le noir ?",
+  "nl": "Hoe kan een kwal in het donker gloeien?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Bloom, at the aquarium I saw a jellyfish that glowed in the dark! How can an animal shine without any batteries?",
+   "fr": "Bloom, à l’aquarium, j’ai vu une méduse qui brillait dans le noir ! Comment un animal peut-il briller sans piles ?",
+   "nl": "Bloom, in het aquarium zag ik een kwal die in het donker gloeide! Hoe kan een dier licht geven zonder batterijen?",
+   "img": "Whyzz presses his face to an aquarium glass with a glowing jellyfish"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Oh, I know! It swallowed a glow stick for dinner!",
+   "fr": "Oh, je sais ! Elle a avalé un bâton lumineux pour le dîner !",
+   "nl": "O, ik weet het! Hij heeft een glowstick opgegeten als avondeten!",
+   "img": "Whyzz imagines a jellyfish munching a glow stick, Bloom laughs"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Ha, no glow sticks! Inside the jellyfish, two special substances meet and make light, a bit like mixing two paints to get a new color.",
+   "fr": "Ha, pas de bâton lumineux ! Dans la méduse, deux substances spéciales se rencontrent et fabriquent de la lumière, un peu comme deux peintures qu’on mélange pour obtenir une nouvelle couleur.",
+   "nl": "Haha, geen glowsticks! In de kwal komen twee speciale stoffen samen die licht maken, een beetje zoals twee verfkleuren die je mengt tot een nieuwe kleur.",
+   "img": "Bloom mixes two glowing drops that make a burst of light"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Some jellyfish also have a protein that turns blue light into green light. Scientists borrow it to make cells glow, so they can watch them under a microscope.",
+   "fr": "Certaines méduses ont aussi une protéine qui transforme la lumière bleue en lumière verte. Les scientifiques l’empruntent pour faire briller des cellules et les observer au microscope.",
+   "nl": "Sommige kwallen hebben ook een eiwit dat blauw licht verandert in groen licht. Wetenschappers lenen het om cellen te laten gloeien, zodat ze die onder een microscoop kunnen bekijken.",
+   "img": "Bloom looks into a microscope at glowing green cells"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Did you know that most deep-sea animals can make their own light? The anglerfish uses a glowing lure to catch food and fireflies blink to find their friends.",
+   "fr": "Savais-tu que la plupart des animaux des grands fonds fabriquent leur propre lumière ? La baudroie attire sa nourriture avec un leurre lumineux et les lucioles clignotent pour trouver leurs amies.",
+   "nl": "Wist je dat de meeste diepzeedieren hun eigen licht kunnen maken? De hengelvis lokt eten met een gloeiend lampje en vuurvliegjes knipperen om elkaar te vinden.",
+   "img": "Glowing deep-sea fish and fireflies, Whyzz amazed"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So jellyfish make light by mixing special substances inside their bodies! If you could glow like a jellyfish, what color would you pick?",
+   "fr": "Donc les méduses fabriquent de la lumière en mélangeant des substances spéciales dans leur corps ! Si tu pouvais briller comme une méduse, quelle couleur choisirais-tu ?",
+   "nl": "Dus kwallen maken licht door speciale stoffen in hun lijf te mengen! Als jij kon gloeien zoals een kwal, welke kleur zou je kiezen?",
+   "img": "Whyzz and Bloom wave next to glowing jellyfish in a dark aquarium"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge presses his hands and nose against the glass of a big dark blue aquarium tank where a beautiful see-through jellyfish glows softly in green and blue, his face lit up with wonder, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge stands beside him smiling. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge grins with a thought cloud above his head showing a funny cartoon jellyfish happily munching on a bright glowing stick like a snack, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge laughs with his hand on his belly, dim aquarium hall with blue light. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge wears safety goggles over his glasses and pours one glowing drop from a little glass bottle into another bottle, making a bright burst of soft green light, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with big eyes, cozy science lab. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge looks through a microscope with a happy face, a big round floating bubble next to it shows cute round cells glowing bright green, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge peeks over his shoulder in amazement, bright science lab. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Deep dark blue sea full of friendly glowing creatures: a smiling cartoon anglerfish with a little glowing light, glowing fish and jellyfish, above the water on a grassy shore at dusk fireflies blink, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge in a little submarine window looks out amazed with Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge wave happily in front of a giant dark aquarium full of gently glowing pink, blue and green jellyfish, their faces lit in soft colors. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What did Whyzz guess the jellyfish ate?",
+    "fr": "Selon Whyzz, qu’a mangé la méduse ?",
+    "nl": "Wat dacht Whyzz dat de kwal had gegeten?"
+   },
+   "o": {
+    "en": [
+     "A battery",
+     "A glow stick",
+     "A star"
+    ],
+    "fr": [
+     "Une pile",
+     "Un bâton lumineux",
+     "Une étoile"
+    ],
+    "nl": [
+     "Een batterij",
+     "Een glowstick",
+     "Een ster"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How does the jellyfish really make light?",
+    "fr": "Comment la méduse fabrique-t-elle vraiment de la lumière ?",
+    "nl": "Hoe maakt de kwal echt licht?"
+   },
+   "o": {
+    "en": [
+     "Two special substances meet inside it",
+     "It stores sunlight from the beach",
+     "It uses tiny batteries"
+    ],
+    "fr": [
+     "Deux substances spéciales se rencontrent en elle",
+     "Elle garde la lumière du soleil de la plage",
+     "Elle utilise de minuscules piles"
+    ],
+    "nl": [
+     "Twee speciale stoffen komen in de kwal samen",
+     "Hij bewaart zonlicht van het strand",
+     "Hij gebruikt piepkleine batterijen"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What does the jellyfish protein do?",
+    "fr": "Que fait la protéine de la méduse ?",
+    "nl": "Wat doet het eiwit van de kwal?"
+   },
+   "o": {
+    "en": [
+     "It makes the water warm",
+     "It makes the jellyfish faster",
+     "It turns blue light into green light"
+    ],
+    "fr": [
+     "Elle réchauffe l’eau",
+     "Elle rend la méduse plus rapide",
+     "Elle transforme la lumière bleue en verte"
+    ],
+    "nl": [
+     "Het maakt het water warm",
+     "Het maakt de kwal sneller",
+     "Het verandert blauw licht in groen licht"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Why do scientists make cells glow?",
+    "fr": "Pourquoi les scientifiques font-ils briller des cellules ?",
+    "nl": "Waarom laten wetenschappers cellen gloeien?"
+   },
+   "o": {
+    "en": [
+     "To light up their lab",
+     "To watch them under a microscope",
+     "To make jellyfish jealous"
+    ],
+    "fr": [
+     "Pour éclairer leur labo",
+     "Pour les observer au microscope",
+     "Pour rendre les méduses jalouses"
+    ],
+    "nl": [
+     "Om hun lab te verlichten",
+     "Om ze onder een microscoop te bekijken",
+     "Om kwallen jaloers te maken"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Why do fireflies blink?",
+    "fr": "Pourquoi les lucioles clignotent-elles ?",
+    "nl": "Waarom knipperen vuurvliegjes?"
+   },
+   "o": {
+    "en": [
+     "To find their friends",
+     "To scare the Moon",
+     "To charge their batteries"
+    ],
+    "fr": [
+     "Pour trouver leurs amies",
+     "Pour faire peur à la Lune",
+     "Pour recharger leurs piles"
+    ],
+    "nl": [
+     "Om elkaar te vinden",
+     "Om de maan bang te maken",
+     "Om hun batterijen op te laden"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Glow buddies",
+   "fr": "Les copains lumineux",
+   "nl": "Gloeivriendjes"
+  },
+  "intro": {
+   "en": "Match each glowing living thing to what it does with its light!",
+   "fr": "Associe chaque être vivant lumineux à ce qu’il fait avec sa lumière !",
+   "nl": "Koppel elk gloeiend wezen aan wat het met zijn licht doet!"
+  },
+  "done": {
+   "en": "Shining work! You’re a real glow expert.",
+   "fr": "Lumineux ! Tu es un vrai expert de la lumière.",
+   "nl": "Stralend gedaan! Jij bent een echte gloei-expert."
+  },
+  "left": {
+   "en": [
+    "Firefly",
+    "Jellyfish protein",
+    "Anglerfish",
+    "Glowing cells"
+   ],
+   "fr": [
+    "La luciole",
+    "La protéine de méduse",
+    "La baudroie des abysses",
+    "Les cellules lumineuses"
+   ],
+   "nl": [
+    "Vuurvliegje",
+    "Kwallen-eiwit",
+    "Hengelvis",
+    "Gloeiende cellen"
+   ]
+  },
+  "right": {
+   "en": [
+    "Blinks to find friends",
+    "Turns blue light into green light",
+    "Uses a glowing lure to catch food",
+    "Help scientists see under a microscope"
+   ],
+   "fr": [
+    "Clignote pour trouver ses amies",
+    "Transforme la lumière bleue en verte",
+    "Attire sa nourriture avec un leurre lumineux",
+    "Aident les scientifiques à voir au microscope"
+   ],
+   "nl": [
+    "Knippert om vriendjes te vinden",
+    "Verandert blauw licht in groen licht",
+    "Lokt eten met een gloeiend lampje",
+    "Helpen wetenschappers kijken onder de microscoop"
+   ]
+  }
+ }
+}

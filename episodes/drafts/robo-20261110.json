@@ -1,0 +1,242 @@
+{
+ "id": "robo-20261110",
+ "world": "robo",
+ "guide": "Pixel",
+ "title": {
+  "en": "How does a robot vacuum find its way around a room?",
+  "fr": "Comment un robot aspirateur trouve-t-il son chemin dans une pièce ?",
+  "nl": "Hoe vindt een robotstofzuiger zijn weg in een kamer?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, our robot vacuum cleans the whole living room and never gets lost under the couch. How does it know where to go?",
+   "fr": "Pixel, notre robot aspirateur nettoie tout le salon et ne se perd jamais sous le canapé. Comment sait-il où aller ?",
+   "nl": "Pixel, onze robotstofzuiger maakt de hele woonkamer schoon en verdwaalt nooit onder de bank. Hoe weet hij waar hij heen moet?",
+   "img": "Whyzz watches a round robot vacuum glide across a living room"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I think it sniffs out the crumbs like a hungry puppy!",
+   "fr": "À mon avis, il renifle les miettes comme un chiot affamé !",
+   "nl": "Volgens mij snuffelt hij de kruimels op zoals een hongerig puppy!",
+   "img": "Whyzz on hands and knees sniffing the carpet like a puppy, Pixel giggles"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, no nose! Many robot vacuums have a little spinning laser on top that measures how far away the walls and furniture are.",
+   "fr": "Ha, il n’a pas de nez ! Beaucoup de robots aspirateurs ont sur le dessus un petit laser qui tourne et mesure à quelle distance se trouvent les murs et les meubles.",
+   "nl": "Haha, hij heeft geen neus! Veel robotstofzuigers hebben bovenop een draaiend laserlampje dat meet hoe ver de muren en meubels weg zijn.",
+   "img": "Pixel points at a spinning laser on top of the robot, light beams to walls"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "With all those distances, it draws a map of the room, a bit like a treasure map. Then it plans neat lines, like mowing a lawn.",
+   "fr": "Avec toutes ces distances, il dessine une carte de la pièce, un peu comme une carte au trésor. Ensuite, il prévoit des lignes bien droites, comme quand on tond une pelouse.",
+   "nl": "Met al die afstanden tekent hij een kaart van de kamer, een beetje zoals een schatkaart. Dan plant hij nette banen, zoals bij het maaien van een gazon.",
+   "img": "A glowing floor map of the room appears with neat cleaning lines"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know that robot vacuums have sensors underneath that look down? They notice the edge of the stairs, so the robot stops and never tumbles down.",
+   "fr": "Savais-tu que les robots aspirateurs ont des capteurs en dessous qui regardent vers le bas ? Ils repèrent le bord de l’escalier, alors le robot s’arrête et ne tombe jamais.",
+   "nl": "Wist je dat robotstofzuigers onderaan sensoren hebben die naar beneden kijken? Ze zien de rand van de trap, dus de robot stopt en valt nooit naar beneden.",
+   "img": "The robot vacuum stops at the top of stairs, Whyzz relieved"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So it measures, makes a map and watches out for stairs! If you had a robot helper at home, what job would you give it?",
+   "fr": "Donc il mesure, dessine une carte et fait attention aux escaliers ! Si tu avais un robot assistant à la maison, quelle tâche lui donnerais-tu ?",
+   "nl": "Dus hij meet, maakt een kaart en let op voor de trap! Als jij een robothulpje thuis had, welke klus zou je het geven?",
+   "img": "Whyzz and Pixel high-five on a clean shiny floor"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits cross-legged on a soft rug and watches a cute round white robot vacuum glide across a sunny living room toward a cozy couch, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands beside him curious, toys and a few cookie crumbs on the floor. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge crawls on his hands and knees across a carpet sniffing at cookie crumbs like a playful puppy with a silly face, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge giggles behind her hand, a cute round robot vacuum rolls past, cozy living room. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge kneels and points at a small spinning dome on top of a cute round robot vacuum that sends out thin soft red light beams toward the walls, couch and table, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with wide eyes, cozy living room. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge look down at a big glowing blue hologram map of the living room floor showing furniture shapes as simple blocks and neat back-and-forth glowing lines, a cute round robot vacuum follows the lines. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A cute round robot vacuum stops safely right at the edge of the top step of a wooden staircase with a small glowing light underneath, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge kneels next to it with a relieved smile, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge gives a thumbs up, bright cozy home. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge high-five on a clean shiny living room floor while a cute round robot vacuum rests on its charging dock with a happy glow, sunlight through the windows. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What did Whyzz think the robot uses to find crumbs?",
+    "fr": "Selon Whyzz, avec quoi le robot trouve-t-il les miettes ?",
+    "nl": "Waarmee dacht Whyzz dat de robot kruimels vindt?"
+   },
+   "o": {
+    "en": [
+     "A magnet",
+     "A nose, like a puppy",
+     "A flashlight"
+    ],
+    "fr": [
+     "Un aimant",
+     "Un nez, comme un chiot",
+     "Une lampe de poche"
+    ],
+    "nl": [
+     "Een magneet",
+     "Een neus, zoals een puppy",
+     "Een zaklamp"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does the spinning laser measure?",
+    "fr": "Que mesure le laser qui tourne ?",
+    "nl": "Wat meet de draaiende laser?"
+   },
+   "o": {
+    "en": [
+     "How far away walls and furniture are",
+     "How hot the room is",
+     "How loud the TV is"
+    ],
+    "fr": [
+     "La distance des murs et des meubles",
+     "La température de la pièce",
+     "Le volume de la télé"
+    ],
+    "nl": [
+     "Hoe ver muren en meubels weg zijn",
+     "Hoe warm de kamer is",
+     "Hoe luid de tv staat"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What does the robot make with all the distances?",
+    "fr": "Que fait le robot avec toutes ces distances ?",
+    "nl": "Wat maakt de robot met al die afstanden?"
+   },
+   "o": {
+    "en": [
+     "A song",
+     "A cake",
+     "A map of the room"
+    ],
+    "fr": [
+     "Une chanson",
+     "Un gâteau",
+     "Une carte de la pièce"
+    ],
+    "nl": [
+     "Een liedje",
+     "Een taart",
+     "Een kaart van de kamer"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "How does the robot clean the floor?",
+    "fr": "Comment le robot nettoie-t-il le sol ?",
+    "nl": "Hoe maakt de robot de vloer schoon?"
+   },
+   "o": {
+    "en": [
+     "In neat lines, like mowing a lawn",
+     "By jumping around",
+     "Only in one corner"
+    ],
+    "fr": [
+     "En lignes droites, comme quand on tond une pelouse",
+     "En sautant partout",
+     "Seulement dans un coin"
+    ],
+    "nl": [
+     "In nette banen, zoals bij het maaien van een gazon",
+     "Door rond te springen",
+     "Alleen in één hoek"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why doesn’t the robot fall down the stairs?",
+    "fr": "Pourquoi le robot ne tombe-t-il pas dans l’escalier ?",
+    "nl": "Waarom valt de robot niet van de trap?"
+   },
+   "o": {
+    "en": [
+     "It’s afraid of heights",
+     "Sensors underneath see the edge",
+     "Someone always carries it"
+    ],
+    "fr": [
+     "Il a le vertige",
+     "Des capteurs en dessous voient le bord",
+     "Quelqu’un le porte toujours"
+    ],
+    "nl": [
+     "Hij heeft hoogtevrees",
+     "Sensoren onderaan zien de rand",
+     "Iemand draagt hem altijd"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Robot vacuum toolbox",
+   "fr": "La boîte à outils du robot",
+   "nl": "De gereedschapskist van de robot"
+  },
+  "intro": {
+   "en": "Pick the things that help a robot vacuum find its way!",
+   "fr": "Choisis ce qui aide un robot aspirateur à trouver son chemin !",
+   "nl": "Kies wat een robotstofzuiger helpt om zijn weg te vinden!"
+  },
+  "done": {
+   "en": "Beep beep! The robot vacuum is ready to clean.",
+   "fr": "Bip bip ! Le robot aspirateur est prêt à nettoyer.",
+   "nl": "Biep biep! De robotstofzuiger is klaar om te poetsen."
+  },
+  "items": {
+   "en": [
+    "A spinning laser",
+    "A nose to sniff crumbs",
+    "Sensors that look down",
+    "A map of the room",
+    "A paper map in its pocket",
+    "A bumper that feels bumps",
+    "A steering wheel"
+   ],
+   "fr": [
+    "Un laser qui tourne",
+    "Un nez pour renifler les miettes",
+    "Des capteurs qui regardent vers le bas",
+    "Une carte de la pièce",
+    "Une carte en papier dans sa poche",
+    "Un pare-chocs qui sent les petits chocs",
+    "Un volant"
+   ],
+   "nl": [
+    "Een draaiende laser",
+    "Een neus om kruimels te ruiken",
+    "Sensoren die naar beneden kijken",
+    "Een kaart van de kamer",
+    "Een papieren kaart in zijn zak",
+    "Een bumper die botsingen voelt",
+    "Een stuur"
+   ]
+  },
+  "good": [
+   0,
+   2,
+   3,
+   5
+  ]
+ }
+}

@@ -1,0 +1,233 @@
+{
+ "id": "energy-20261110",
+ "world": "energy",
+ "guide": "Sunny",
+ "title": {
+  "en": "How does a wind turbine make electricity?",
+  "fr": "Comment une éolienne fabrique-t-elle de l’électricité ?",
+  "nl": "Hoe maakt een windmolen stroom?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, on our trip we drove past giant white windmills with three long arms. What are they doing up there?",
+   "fr": "Sunny, pendant notre voyage, on est passés devant des moulins géants tout blancs avec trois grands bras. Qu’est-ce qu’ils font là-haut ?",
+   "nl": "Sunny, op onze reis reden we langs reusachtige witte windmolens met drie lange armen. Wat doen die daarboven?",
+   "img": "Whyzz points out of a car window at tall white wind turbines"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Wait, I know! They’re giant fans that make the wind blow, so kites can fly!",
+   "fr": "Attends, je sais ! Ce sont des ventilateurs géants qui font souffler le vent pour que les cerfs-volants puissent voler !",
+   "nl": "Wacht, ik weet het! Het zijn reuzenventilatoren die de wind laten waaien, zodat vliegers kunnen vliegen!",
+   "img": "Whyzz holds a kite in front of a turbine, Sunny laughs"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "It’s the other way around: these wind turbines catch the wind! It pushes their long blades and makes them turn, like when you blow on a paper pinwheel.",
+   "fr": "C’est l’inverse : ces éoliennes attrapent le vent ! Il pousse leurs longues pales et les fait tourner, comme quand tu souffles sur un moulinet en papier.",
+   "nl": "Het is net andersom: deze windturbines vangen de wind! Die duwt tegen hun lange wieken en laat ze draaien, zoals wanneer je op een papieren molentje blaast.",
+   "img": "Sunny blows on a colorful paper pinwheel, turbines behind her"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "The turning blades spin a generator inside the turbine. There, magnets whirl past coils of copper wire and that makes electricity flow.",
+   "fr": "Les pales qui tournent font tourner un générateur dans l’éolienne. Là, des aimants passent à toute vitesse devant des bobines de fil de cuivre et ça fait circuler l’électricité.",
+   "nl": "De draaiende wieken laten een generator in de turbine draaien. Daar zoeven magneten langs spoelen van koperdraad en zo gaat er stroom lopen.",
+   "img": "A peek inside the turbine: magnets spin past copper coils with sparks"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Did you know that one blade of a big wind turbine can be longer than a blue whale? Cables then carry the electricity all the way to our homes.",
+   "fr": "Savais-tu qu’une seule pale d’une grande éolienne peut être plus longue qu’une baleine bleue ? Ensuite, des câbles transportent l’électricité jusqu’à nos maisons.",
+   "nl": "Wist je dat één wiek van een grote windturbine langer kan zijn dan een blauwe vinvis? Kabels brengen de stroom daarna helemaal tot bij ons thuis.",
+   "img": "A huge turbine blade lies next to a friendly blue whale, Whyzz amazed"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the wind turns the blades, the generator makes electricity and cables bring it home! Where would you build a wind turbine?",
+   "fr": "Donc le vent fait tourner les pales, le générateur fabrique l’électricité et les câbles l’amènent à la maison ! Où construirais-tu une éolienne ?",
+   "nl": "Dus de wind draait de wieken, de generator maakt stroom en kabels brengen die naar huis! Waar zou jij een windturbine bouwen?",
+   "img": "Whyzz and Sunny on a windy hill with turbines and a lit-up village"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks out of the open window of a car on a country road and points excitedly at a row of tall white wind turbines with three long blades on green hills, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge sits next to him in the back seat smiling, sunny day. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge proudly holds up a colorful kite in front of a tall white wind turbine on a grassy hill, pretending the turbine blows wind at him, his hair and jacket flapping, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge laughs with her hands on her knees. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge blows on a bright colorful paper pinwheel that spins fast, behind her on a green hill tall white wind turbines turn in the breeze, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with a big smile, blue sky with fluffy clouds. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A cutaway view inside the top of a white wind turbine showing a big spinning shaft, shiny red and blue magnets whirling past glowing orange copper wire coils with small friendly sparks, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge peek in through a little round window with amazed faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A gigantic white wind turbine blade lying on a big flat beach next to a friendly smiling cartoon blue whale floating just beside the shore, the blade is clearly longer than the whale, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands between them with his mouth open, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge grins. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stand on a windy green hill at sunset cheering with arms up, wind turbines turn behind them and glowing cables lead down to a cozy village with warmly lit windows. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What did Whyzz think the turbines do?",
+    "fr": "Selon Whyzz, que font les éoliennes ?",
+    "nl": "Wat dacht Whyzz dat de windmolens doen?"
+   },
+   "o": {
+    "en": [
+     "They catch birds",
+     "They make the wind blow",
+     "They cool the clouds"
+    ],
+    "fr": [
+     "Elles attrapent des oiseaux",
+     "Elles font souffler le vent",
+     "Elles refroidissent les nuages"
+    ],
+    "nl": [
+     "Ze vangen vogels",
+     "Ze laten de wind waaien",
+     "Ze koelen de wolken af"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What makes the blades turn?",
+    "fr": "Qu’est-ce qui fait tourner les pales ?",
+    "nl": "Wat laat de wieken draaien?"
+   },
+   "o": {
+    "en": [
+     "The wind pushing them",
+     "A big motor",
+     "The Moon"
+    ],
+    "fr": [
+     "Le vent qui les pousse",
+     "Un gros moteur",
+     "La Lune"
+    ],
+    "nl": [
+     "De wind die ertegen duwt",
+     "Een grote motor",
+     "De maan"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What whirls past the copper coils?",
+    "fr": "Qu’est-ce qui passe à toute vitesse devant les bobines de cuivre ?",
+    "nl": "Wat zoeft er langs de koperen spoelen?"
+   },
+   "o": {
+    "en": [
+     "Water",
+     "Feathers",
+     "Magnets"
+    ],
+    "fr": [
+     "De l’eau",
+     "Des plumes",
+     "Des aimants"
+    ],
+    "nl": [
+     "Water",
+     "Veren",
+     "Magneten"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "A big turbine blade can be longer than…",
+    "fr": "Une grande pale d’éolienne peut être plus longue que…",
+    "nl": "Een grote wiek kan langer zijn dan…"
+   },
+   "o": {
+    "en": [
+     "A pencil",
+     "A blue whale",
+     "The Moon"
+    ],
+    "fr": [
+     "Un crayon",
+     "Une baleine bleue",
+     "La Lune"
+    ],
+    "nl": [
+     "Een potlood",
+     "Een blauwe vinvis",
+     "De maan"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How does the electricity reach our homes?",
+    "fr": "Comment l’électricité arrive-t-elle chez nous ?",
+    "nl": "Hoe komt de stroom bij ons thuis?"
+   },
+   "o": {
+    "en": [
+     "Through cables",
+     "In buckets",
+     "With the mail"
+    ],
+    "fr": [
+     "Par des câbles",
+     "Dans des seaux",
+     "Par la poste"
+    ],
+    "nl": [
+     "Via kabels",
+     "In emmers",
+     "Met de post"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "From wind to light",
+   "fr": "Du vent à la lumière",
+   "nl": "Van wind naar licht"
+  },
+  "intro": {
+   "en": "How does the wind light up your lamp? Put the steps in the right order!",
+   "fr": "Comment le vent allume-t-il ta lampe ? Remets les étapes dans le bon ordre !",
+   "nl": "Hoe laat de wind jouw lamp branden? Zet de stappen in de juiste volgorde!"
+  },
+  "done": {
+   "en": "Whoosh! The wind just lit up your room.",
+   "fr": "Whoosh ! Le vent vient d’allumer ta chambre.",
+   "nl": "Woesj! De wind heeft net je kamer verlicht."
+  },
+  "items": {
+   "en": [
+    "The wind blows",
+    "The blades start to turn",
+    "The blades spin the generator",
+    "Magnets whirl past copper coils",
+    "Cables carry the electricity",
+    "Your lamp lights up"
+   ],
+   "fr": [
+    "Le vent souffle",
+    "Les pales se mettent à tourner",
+    "Les pales font tourner le générateur",
+    "Les aimants passent devant les bobines de cuivre",
+    "Les câbles transportent l’électricité",
+    "Ta lampe s’allume"
+   ],
+   "nl": [
+    "De wind waait",
+    "De wieken beginnen te draaien",
+    "De wieken laten de generator draaien",
+    "Magneten zoeven langs koperen spoelen",
+    "Kabels brengen de stroom",
+    "Je lamp gaat aan"
+   ]
+  }
+ }
+}

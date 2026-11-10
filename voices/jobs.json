@@ -2914,5 +2914,545 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Een foutje kan dus een verrassingscadeau zijn, als je goed kijkt en je afvraagt waarom. Welk gelukkig ongelukje zou jij omtoveren tot een uitvinding?"
+ },
+ {
+  "id": "pixel-20261110-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, on vacation I typed “Where is the ice cream?” into an app and it said it in Spanish! How does it know so many languages?"
+ },
+ {
+  "id": "pixel-20261110-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, en vacances, j’ai tapé « Où est la glace ? » dans une appli et elle l’a dit en espagnol ! Comment connaît-elle autant de langues ?"
+ },
+ {
+  "id": "pixel-20261110-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, op vakantie typte ik “Waar is het ijsje?” in een app en die zei het in het Spaans! Hoe kent die zoveel talen?"
+ },
+ {
+  "id": "pixel-20261110-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "The app learned from millions of sentences that people had already translated. It found patterns, like which words usually go together."
+ },
+ {
+  "id": "pixel-20261110-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "L’appli a appris avec des millions de phrases déjà traduites par des gens. Elle y a trouvé des modèles, comme les mots qui vont souvent ensemble."
+ },
+ {
+  "id": "pixel-20261110-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "De app heeft geleerd van miljoenen zinnen die mensen al vertaald hadden. Zo vond hij patronen, zoals welke woorden vaak samen voorkomen."
+ },
+ {
+  "id": "pixel-20261110-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I bet there’s a tiny translator living inside my phone, flipping through a hundred dictionaries super fast!"
+ },
+ {
+  "id": "pixel-20261110-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je parie qu’un minuscule traducteur habite dans mon téléphone et feuillette cent dictionnaires à toute vitesse !"
+ },
+ {
+  "id": "pixel-20261110-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik wed dat er een piepklein vertalertje in mijn telefoon woont dat supersnel door honderd woordenboeken bladert!"
+ },
+ {
+  "id": "pixel-20261110-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no tiny helper in there! The app turns each word into numbers and looks at the whole sentence, so it knows if “bat” means an animal or a baseball bat."
+ },
+ {
+  "id": "pixel-20261110-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, pas de petit assistant là-dedans ! L’appli transforme chaque mot en nombres et regarde toute la phrase pour savoir si « souris » veut dire l’animal ou la souris d’ordinateur."
+ },
+ {
+  "id": "pixel-20261110-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, er zit geen hulpje in! De app maakt van elk woord getallen en kijkt naar de hele zin, zo weet hij of “muis” een dier is of een computermuis."
+ },
+ {
+  "id": "pixel-20261110-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know that some apps can translate a sign just by looking at it through the camera? The new words appear right on top of the picture!"
+ },
+ {
+  "id": "pixel-20261110-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu que certaines applis peuvent traduire un panneau rien qu’en le regardant avec la caméra ? Les nouveaux mots apparaissent directement sur l’image !"
+ },
+ {
+  "id": "pixel-20261110-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat sommige apps een bord kunnen vertalen door er gewoon met de camera naar te kijken? De nieuwe woorden verschijnen meteen op het beeld!"
+ },
+ {
+  "id": "pixel-20261110-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the app learned from lots of examples and reads the whole sentence. Which language would you love to speak with an app’s help?"
+ },
+ {
+  "id": "pixel-20261110-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc l’appli a appris avec plein d’exemples et lit toute la phrase. Quelle langue aimerais-tu parler avec l’aide d’une appli ?"
+ },
+ {
+  "id": "pixel-20261110-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de app heeft van heel veel voorbeelden geleerd en leest de hele zin. Welke taal zou jij graag spreken met hulp van een app?"
+ },
+ {
+  "id": "qubi-20261110-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, my computer thinks with zeros and ones. Is a quantum computer just a computer with even more zeros and ones?"
+ },
+ {
+  "id": "qubi-20261110-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, mon ordinateur réfléchit avec des zéros et des uns. Un ordinateur quantique, c’est juste un ordinateur avec encore plus de zéros et de uns ?"
+ },
+ {
+  "id": "qubi-20261110-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, mijn computer denkt met nullen en enen. Is een quantumcomputer gewoon een computer met nog meer nullen en enen?"
+ },
+ {
+  "id": "qubi-20261110-en-2",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "A normal bit is like a coin lying on the table: heads is 1, tails is 0. A quantum bit, called a qubit, is more like a coin that is still spinning!"
+ },
+ {
+  "id": "qubi-20261110-fr-2",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Un bit normal, c’est comme une pièce posée sur la table : pile, c’est 1, face, c’est 0. Un bit quantique, qu’on appelle qubit, ressemble plutôt à une pièce qui tourne encore !"
+ },
+ {
+  "id": "qubi-20261110-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Een gewone bit is als een munt die op tafel ligt: kop is 1, munt is 0. Een quantumbit, een qubit, lijkt meer op een munt die nog aan het draaien is!"
+ },
+ {
+  "id": "qubi-20261110-en-3",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "While it spins, the qubit is a mix of 0 and 1 at once, which scientists call superposition. Only when you measure it does it pick 0 or 1."
+ },
+ {
+  "id": "qubi-20261110-fr-3",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Pendant qu’il tourne, le qubit est un mélange de 0 et de 1 à la fois, ce que les scientifiques appellent la superposition. C’est seulement quand on le mesure qu’il choisit 0 ou 1."
+ },
+ {
+  "id": "qubi-20261110-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Zolang hij draait, is de qubit tegelijk een mengsel van 0 en 1, wat wetenschappers superpositie noemen. Pas als je hem meet, kiest hij 0 of 1."
+ },
+ {
+  "id": "qubi-20261110-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So if I spin my homework, it’s done and not done at the same time? No more homework, yay!"
+ },
+ {
+  "id": "qubi-20261110-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Alors si je fais tourner mes devoirs, ils sont faits et pas faits en même temps ? Fini les devoirs, youpi !"
+ },
+ {
+  "id": "qubi-20261110-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus als ik mijn huiswerk laat draaien, is het tegelijk af en niet af? Nooit meer huiswerk, joepie!"
+ },
+ {
+  "id": "qubi-20261110-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Nice try, but homework doesn’t work like that! Did you know that a qubit can be one single atom, a tiny bit of light or a mini circuit colder than space?"
+ },
+ {
+  "id": "qubi-20261110-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Bien essayé, mais les devoirs, ça ne marche pas comme ça ! Savais-tu qu’un qubit peut être un seul atome, un tout petit grain de lumière ou un mini circuit plus froid que l’espace ?"
+ },
+ {
+  "id": "qubi-20261110-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Goed geprobeerd, maar zo werkt huiswerk niet! Wist je dat een qubit één enkel atoom kan zijn, een piepklein lichtdeeltje of een mini-stroomkring kouder dan de ruimte?"
+ },
+ {
+  "id": "qubi-20261110-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a bit lies still, but a qubit spins between 0 and 1 until we measure it! What would you ask a quantum computer to figure out?"
+ },
+ {
+  "id": "qubi-20261110-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc un bit reste immobile, mais un qubit tourne entre 0 et 1 jusqu’à ce qu’on le mesure ! Qu’est-ce que tu demanderais à un ordinateur quantique de trouver ?"
+ },
+ {
+  "id": "qubi-20261110-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus een bit ligt stil, maar een qubit draait tussen 0 en 1 tot we hem meten! Wat zou jij een quantumcomputer laten uitzoeken?"
+ },
+ {
+  "id": "bloom-20261110-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Bloom, at the aquarium I saw a jellyfish that glowed in the dark! How can an animal shine without any batteries?"
+ },
+ {
+  "id": "bloom-20261110-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Bloom, à l’aquarium, j’ai vu une méduse qui brillait dans le noir ! Comment un animal peut-il briller sans piles ?"
+ },
+ {
+  "id": "bloom-20261110-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Bloom, in het aquarium zag ik een kwal die in het donker gloeide! Hoe kan een dier licht geven zonder batterijen?"
+ },
+ {
+  "id": "bloom-20261110-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Oh, I know! It swallowed a glow stick for dinner!"
+ },
+ {
+  "id": "bloom-20261110-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Oh, je sais ! Elle a avalé un bâton lumineux pour le dîner !"
+ },
+ {
+  "id": "bloom-20261110-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "O, ik weet het! Hij heeft een glowstick opgegeten als avondeten!"
+ },
+ {
+  "id": "bloom-20261110-en-3",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Ha, no glow sticks! Inside the jellyfish, two special substances meet and make light, a bit like mixing two paints to get a new color."
+ },
+ {
+  "id": "bloom-20261110-fr-3",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Ha, pas de bâton lumineux ! Dans la méduse, deux substances spéciales se rencontrent et fabriquent de la lumière, un peu comme deux peintures qu’on mélange pour obtenir une nouvelle couleur."
+ },
+ {
+  "id": "bloom-20261110-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Haha, geen glowsticks! In de kwal komen twee speciale stoffen samen die licht maken, een beetje zoals twee verfkleuren die je mengt tot een nieuwe kleur."
+ },
+ {
+  "id": "bloom-20261110-en-4",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Some jellyfish also have a protein that turns blue light into green light. Scientists borrow it to make cells glow, so they can watch them under a microscope."
+ },
+ {
+  "id": "bloom-20261110-fr-4",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Certaines méduses ont aussi une protéine qui transforme la lumière bleue en lumière verte. Les scientifiques l’empruntent pour faire briller des cellules et les observer au microscope."
+ },
+ {
+  "id": "bloom-20261110-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Sommige kwallen hebben ook een eiwit dat blauw licht verandert in groen licht. Wetenschappers lenen het om cellen te laten gloeien, zodat ze die onder een microscoop kunnen bekijken."
+ },
+ {
+  "id": "bloom-20261110-en-5",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Did you know that most deep-sea animals can make their own light? The anglerfish uses a glowing lure to catch food and fireflies blink to find their friends."
+ },
+ {
+  "id": "bloom-20261110-fr-5",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Savais-tu que la plupart des animaux des grands fonds fabriquent leur propre lumière ? La baudroie attire sa nourriture avec un leurre lumineux et les lucioles clignotent pour trouver leurs amies."
+ },
+ {
+  "id": "bloom-20261110-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Wist je dat de meeste diepzeedieren hun eigen licht kunnen maken? De hengelvis lokt eten met een gloeiend lampje en vuurvliegjes knipperen om elkaar te vinden."
+ },
+ {
+  "id": "bloom-20261110-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So jellyfish make light by mixing special substances inside their bodies! If you could glow like a jellyfish, what color would you pick?"
+ },
+ {
+  "id": "bloom-20261110-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les méduses fabriquent de la lumière en mélangeant des substances spéciales dans leur corps ! Si tu pouvais briller comme une méduse, quelle couleur choisirais-tu ?"
+ },
+ {
+  "id": "bloom-20261110-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus kwallen maken licht door speciale stoffen in hun lijf te mengen! Als jij kon gloeien zoals een kwal, welke kleur zou je kiezen?"
+ },
+ {
+  "id": "robo-20261110-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, our robot vacuum cleans the whole living room and never gets lost under the couch. How does it know where to go?"
+ },
+ {
+  "id": "robo-20261110-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, notre robot aspirateur nettoie tout le salon et ne se perd jamais sous le canapé. Comment sait-il où aller ?"
+ },
+ {
+  "id": "robo-20261110-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, onze robotstofzuiger maakt de hele woonkamer schoon en verdwaalt nooit onder de bank. Hoe weet hij waar hij heen moet?"
+ },
+ {
+  "id": "robo-20261110-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I think it sniffs out the crumbs like a hungry puppy!"
+ },
+ {
+  "id": "robo-20261110-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "À mon avis, il renifle les miettes comme un chiot affamé !"
+ },
+ {
+  "id": "robo-20261110-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Volgens mij snuffelt hij de kruimels op zoals een hongerig puppy!"
+ },
+ {
+  "id": "robo-20261110-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no nose! Many robot vacuums have a little spinning laser on top that measures how far away the walls and furniture are."
+ },
+ {
+  "id": "robo-20261110-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, il n’a pas de nez ! Beaucoup de robots aspirateurs ont sur le dessus un petit laser qui tourne et mesure à quelle distance se trouvent les murs et les meubles."
+ },
+ {
+  "id": "robo-20261110-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, hij heeft geen neus! Veel robotstofzuigers hebben bovenop een draaiend laserlampje dat meet hoe ver de muren en meubels weg zijn."
+ },
+ {
+  "id": "robo-20261110-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "With all those distances, it draws a map of the room, a bit like a treasure map. Then it plans neat lines, like mowing a lawn."
+ },
+ {
+  "id": "robo-20261110-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Avec toutes ces distances, il dessine une carte de la pièce, un peu comme une carte au trésor. Ensuite, il prévoit des lignes bien droites, comme quand on tond une pelouse."
+ },
+ {
+  "id": "robo-20261110-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Met al die afstanden tekent hij een kaart van de kamer, een beetje zoals een schatkaart. Dan plant hij nette banen, zoals bij het maaien van een gazon."
+ },
+ {
+  "id": "robo-20261110-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know that robot vacuums have sensors underneath that look down? They notice the edge of the stairs, so the robot stops and never tumbles down."
+ },
+ {
+  "id": "robo-20261110-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu que les robots aspirateurs ont des capteurs en dessous qui regardent vers le bas ? Ils repèrent le bord de l’escalier, alors le robot s’arrête et ne tombe jamais."
+ },
+ {
+  "id": "robo-20261110-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat robotstofzuigers onderaan sensoren hebben die naar beneden kijken? Ze zien de rand van de trap, dus de robot stopt en valt nooit naar beneden."
+ },
+ {
+  "id": "robo-20261110-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So it measures, makes a map and watches out for stairs! If you had a robot helper at home, what job would you give it?"
+ },
+ {
+  "id": "robo-20261110-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc il mesure, dessine une carte et fait attention aux escaliers ! Si tu avais un robot assistant à la maison, quelle tâche lui donnerais-tu ?"
+ },
+ {
+  "id": "robo-20261110-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus hij meet, maakt een kaart en let op voor de trap! Als jij een robothulpje thuis had, welke klus zou je het geven?"
+ },
+ {
+  "id": "energy-20261110-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, on our trip we drove past giant white windmills with three long arms. What are they doing up there?"
+ },
+ {
+  "id": "energy-20261110-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, pendant notre voyage, on est passés devant des moulins géants tout blancs avec trois grands bras. Qu’est-ce qu’ils font là-haut ?"
+ },
+ {
+  "id": "energy-20261110-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, op onze reis reden we langs reusachtige witte windmolens met drie lange armen. Wat doen die daarboven?"
+ },
+ {
+  "id": "energy-20261110-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Wait, I know! They’re giant fans that make the wind blow, so kites can fly!"
+ },
+ {
+  "id": "energy-20261110-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Attends, je sais ! Ce sont des ventilateurs géants qui font souffler le vent pour que les cerfs-volants puissent voler !"
+ },
+ {
+  "id": "energy-20261110-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Wacht, ik weet het! Het zijn reuzenventilatoren die de wind laten waaien, zodat vliegers kunnen vliegen!"
+ },
+ {
+  "id": "energy-20261110-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "It’s the other way around: these wind turbines catch the wind! It pushes their long blades and makes them turn, like when you blow on a paper pinwheel."
+ },
+ {
+  "id": "energy-20261110-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "C’est l’inverse : ces éoliennes attrapent le vent ! Il pousse leurs longues pales et les fait tourner, comme quand tu souffles sur un moulinet en papier."
+ },
+ {
+  "id": "energy-20261110-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Het is net andersom: deze windturbines vangen de wind! Die duwt tegen hun lange wieken en laat ze draaien, zoals wanneer je op een papieren molentje blaast."
+ },
+ {
+  "id": "energy-20261110-en-4",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "The turning blades spin a generator inside the turbine. There, magnets whirl past coils of copper wire and that makes electricity flow."
+ },
+ {
+  "id": "energy-20261110-fr-4",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Les pales qui tournent font tourner un générateur dans l’éolienne. Là, des aimants passent à toute vitesse devant des bobines de fil de cuivre et ça fait circuler l’électricité."
+ },
+ {
+  "id": "energy-20261110-nl-4",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "De draaiende wieken laten een generator in de turbine draaien. Daar zoeven magneten langs spoelen van koperdraad en zo gaat er stroom lopen."
+ },
+ {
+  "id": "energy-20261110-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Did you know that one blade of a big wind turbine can be longer than a blue whale? Cables then carry the electricity all the way to our homes."
+ },
+ {
+  "id": "energy-20261110-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu qu’une seule pale d’une grande éolienne peut être plus longue qu’une baleine bleue ? Ensuite, des câbles transportent l’électricité jusqu’à nos maisons."
+ },
+ {
+  "id": "energy-20261110-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Wist je dat één wiek van een grote windturbine langer kan zijn dan een blauwe vinvis? Kabels brengen de stroom daarna helemaal tot bij ons thuis."
+ },
+ {
+  "id": "energy-20261110-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the wind turns the blades, the generator makes electricity and cables bring it home! Where would you build a wind turbine?"
+ },
+ {
+  "id": "energy-20261110-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc le vent fait tourner les pales, le générateur fabrique l’électricité et les câbles l’amènent à la maison ! Où construirais-tu une éolienne ?"
+ },
+ {
+  "id": "energy-20261110-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de wind draait de wieken, de generator maakt stroom en kabels brengen die naar huis! Waar zou jij een windturbine bouwen?"
  }
 ]

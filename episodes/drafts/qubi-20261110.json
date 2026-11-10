@@ -1,0 +1,239 @@
+{
+ "id": "qubi-20261110",
+ "world": "qubi",
+ "guide": "Qubi",
+ "title": {
+  "en": "Can a qubit be 0 and 1 at the same time?",
+  "fr": "Un qubit peut-il être 0 et 1 en même temps ?",
+  "nl": "Kan een qubit tegelijk 0 en 1 zijn?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, my computer thinks with zeros and ones. Is a quantum computer just a computer with even more zeros and ones?",
+   "fr": "Qubi, mon ordinateur réfléchit avec des zéros et des uns. Un ordinateur quantique, c’est juste un ordinateur avec encore plus de zéros et de uns ?",
+   "nl": "Qubi, mijn computer denkt met nullen en enen. Is een quantumcomputer gewoon een computer met nog meer nullen en enen?",
+   "img": "Whyzz at a desk with a laptop asks Qubi a question"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "A normal bit is like a coin lying on the table: heads is 1, tails is 0. A quantum bit, called a qubit, is more like a coin that is still spinning!",
+   "fr": "Un bit normal, c’est comme une pièce posée sur la table : pile, c’est 1, face, c’est 0. Un bit quantique, qu’on appelle qubit, ressemble plutôt à une pièce qui tourne encore !",
+   "nl": "Een gewone bit is als een munt die op tafel ligt: kop is 1, munt is 0. Een quantumbit, een qubit, lijkt meer op een munt die nog aan het draaien is!",
+   "img": "Qubi shows a coin lying flat next to a coin spinning on a table"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "While it spins, the qubit is a mix of 0 and 1 at once, which scientists call superposition. Only when you measure it does it pick 0 or 1.",
+   "fr": "Pendant qu’il tourne, le qubit est un mélange de 0 et de 1 à la fois, ce que les scientifiques appellent la superposition. C’est seulement quand on le mesure qu’il choisit 0 ou 1.",
+   "nl": "Zolang hij draait, is de qubit tegelijk een mengsel van 0 en 1, wat wetenschappers superpositie noemen. Pas als je hem meet, kiest hij 0 of 1.",
+   "img": "A glowing spinning coin with swirling blue and yellow light, Qubi explains"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So if I spin my homework, it’s done and not done at the same time? No more homework, yay!",
+   "fr": "Alors si je fais tourner mes devoirs, ils sont faits et pas faits en même temps ? Fini les devoirs, youpi !",
+   "nl": "Dus als ik mijn huiswerk laat draaien, is het tegelijk af en niet af? Nooit meer huiswerk, joepie!",
+   "img": "Whyzz spins a notebook on his finger, Qubi laughs"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Nice try, but homework doesn’t work like that! Did you know that a qubit can be one single atom, a tiny bit of light or a mini circuit colder than space?",
+   "fr": "Bien essayé, mais les devoirs, ça ne marche pas comme ça ! Savais-tu qu’un qubit peut être un seul atome, un tout petit grain de lumière ou un mini circuit plus froid que l’espace ?",
+   "nl": "Goed geprobeerd, maar zo werkt huiswerk niet! Wist je dat een qubit één enkel atoom kan zijn, een piepklein lichtdeeltje of een mini-stroomkring kouder dan de ruimte?",
+   "img": "Qubi shows three glowing orbs: an atom, a spark of light and a tiny frosty chip"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a bit lies still, but a qubit spins between 0 and 1 until we measure it! What would you ask a quantum computer to figure out?",
+   "fr": "Donc un bit reste immobile, mais un qubit tourne entre 0 et 1 jusqu’à ce qu’on le mesure ! Qu’est-ce que tu demanderais à un ordinateur quantique de trouver ?",
+   "nl": "Dus een bit ligt stil, maar een qubit draait tussen 0 en 1 tot we hem meten! Wat zou jij een quantumcomputer laten uitzoeken?",
+   "img": "Whyzz and Qubi cheer next to a big glowing quantum computer"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits at a desk in a cozy bedroom with a laptop whose screen shows only a glowing pattern of dots, he turns around with a curious face to ask Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge, who stands next to him smiling. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge stands at a wooden table and points at two big golden coins, one coin lying flat on the table and the other coin spinning fast on its edge with motion blur, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans in with wide eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A big golden coin spinning on its edge in the middle of a table, surrounded by swirling glowing blue and yellow light ribbons, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge gestures toward it with an excited smile, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches in awe, dreamy science lab. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge grins mischievously while spinning a school notebook on one finger like a basketball, loose sheets of paper flutter around, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge laughs with a hand over his mouth, bright classroom. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge proudly presents three floating glowing orbs: one containing a tiny glowing atom, one containing a bright spark of light and one containing a tiny frosty computer chip covered in ice crystals, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stares in amazement, futuristic lab. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge cheer and high-five next to a big shiny golden quantum computer that looks like a fancy chandelier with glowing tubes hanging in a bright futuristic lab. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "A normal bit is like…",
+    "fr": "Un bit normal, c’est comme…",
+    "nl": "Een gewone bit is als…"
+   },
+   "o": {
+    "en": [
+     "A coin that keeps spinning",
+     "A coin lying on the table",
+     "A ball that bounces"
+    ],
+    "fr": [
+     "Une pièce qui tourne sans arrêt",
+     "Une pièce posée sur la table",
+     "Une balle qui rebondit"
+    ],
+    "nl": [
+     "Een munt die blijft draaien",
+     "Een munt die op tafel ligt",
+     "Een bal die stuitert"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What is a qubit more like?",
+    "fr": "À quoi ressemble plutôt un qubit ?",
+    "nl": "Waar lijkt een qubit meer op?"
+   },
+   "o": {
+    "en": [
+     "A coin that is still spinning",
+     "A coin in your pocket",
+     "A coin made of chocolate"
+    ],
+    "fr": [
+     "Une pièce qui tourne encore",
+     "Une pièce dans ta poche",
+     "Une pièce en chocolat"
+    ],
+    "nl": [
+     "Een munt die nog draait",
+     "Een munt in je zak",
+     "Een munt van chocolade"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What is it called when a qubit is a mix of 0 and 1?",
+    "fr": "Comment appelle-t-on un qubit qui est un mélange de 0 et de 1 ?",
+    "nl": "Hoe heet het als een qubit een mengsel van 0 en 1 is?"
+   },
+   "o": {
+    "en": [
+     "Supermarket",
+     "Superhero",
+     "Superposition"
+    ],
+    "fr": [
+     "Le supermarché",
+     "Le super-héros",
+     "La superposition"
+    ],
+    "nl": [
+     "Supermarkt",
+     "Superheld",
+     "Superpositie"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "When does a qubit pick 0 or 1?",
+    "fr": "Quand un qubit choisit-il 0 ou 1 ?",
+    "nl": "Wanneer kiest een qubit 0 of 1?"
+   },
+   "o": {
+    "en": [
+     "When you measure it",
+     "When it gets hungry",
+     "At midnight"
+    ],
+    "fr": [
+     "Quand on le mesure",
+     "Quand il a faim",
+     "À minuit"
+    ],
+    "nl": [
+     "Als je hem meet",
+     "Als hij honger krijgt",
+     "Om middernacht"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What can a qubit be made of?",
+    "fr": "De quoi un qubit peut-il être fait ?",
+    "nl": "Waarvan kan een qubit gemaakt zijn?"
+   },
+   "o": {
+    "en": [
+     "A spinning homework notebook",
+     "One single atom",
+     "A golden coin"
+    ],
+    "fr": [
+     "D’un cahier de devoirs qui tourne",
+     "D’un seul atome",
+     "D’une pièce en or"
+    ],
+    "nl": [
+     "Een draaiend huiswerkschrift",
+     "Eén enkel atoom",
+     "Een gouden munt"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Qubit or not?",
+   "fr": "Qubit ou pas ?",
+   "nl": "Qubit of niet?"
+  },
+  "intro": {
+   "en": "Pick the sentences that are true about qubits!",
+   "fr": "Choisis les phrases qui sont vraies sur les qubits !",
+   "nl": "Kies de zinnen die kloppen over qubits!"
+  },
+  "done": {
+   "en": "Spin-tastic! You really know your qubits.",
+   "fr": "Super ! Tu connais vraiment bien les qubits.",
+   "nl": "Top! Jij weet echt alles over qubits."
+  },
+  "items": {
+   "en": [
+    "A qubit can be a mix of 0 and 1",
+    "A qubit picks 0 or 1 when you measure it",
+    "A qubit is a tiny coin in your wallet",
+    "A qubit can be one single atom",
+    "A qubit can do your homework",
+    "Some qubits must be colder than space"
+   ],
+   "fr": [
+    "Un qubit peut être un mélange de 0 et de 1",
+    "Un qubit choisit 0 ou 1 quand on le mesure",
+    "Un qubit est une petite pièce dans ton porte-monnaie",
+    "Un qubit peut être un seul atome",
+    "Un qubit peut faire tes devoirs",
+    "Certains qubits doivent être plus froids que l’espace"
+   ],
+   "nl": [
+    "Een qubit kan een mengsel van 0 en 1 zijn",
+    "Een qubit kiest 0 of 1 als je hem meet",
+    "Een qubit is een muntje in je portemonnee",
+    "Een qubit kan één enkel atoom zijn",
+    "Een qubit kan je huiswerk maken",
+    "Sommige qubits moeten kouder zijn dan de ruimte"
+   ]
+  },
+  "good": [
+   0,
+   1,
+   3,
+   5
+  ]
+ }
+}

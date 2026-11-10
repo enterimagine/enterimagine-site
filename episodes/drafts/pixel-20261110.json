@@ -1,0 +1,230 @@
+{
+ "id": "pixel-20261110",
+ "world": "pixel",
+ "guide": "Pixel",
+ "title": {
+  "en": "How does a translation app understand other languages?",
+  "fr": "Comment une appli de traduction comprend-elle les autres langues ?",
+  "nl": "Hoe begrijpt een vertaalapp andere talen?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, on vacation I typed “Where is the ice cream?” into an app and it said it in Spanish! How does it know so many languages?",
+   "fr": "Pixel, en vacances, j’ai tapé « Où est la glace ? » dans une appli et elle l’a dit en espagnol ! Comment connaît-elle autant de langues ?",
+   "nl": "Pixel, op vakantie typte ik “Waar is het ijsje?” in een app en die zei het in het Spaans! Hoe kent die zoveel talen?",
+   "img": "Whyzz shows Pixel a phone at a sunny ice cream stand"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "The app learned from millions of sentences that people had already translated. It found patterns, like which words usually go together.",
+   "fr": "L’appli a appris avec des millions de phrases déjà traduites par des gens. Elle y a trouvé des modèles, comme les mots qui vont souvent ensemble.",
+   "nl": "De app heeft geleerd van miljoenen zinnen die mensen al vertaald hadden. Zo vond hij patronen, zoals welke woorden vaak samen voorkomen.",
+   "img": "Pixel stands in front of a giant floating wall of sentence bubbles"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I bet there’s a tiny translator living inside my phone, flipping through a hundred dictionaries super fast!",
+   "fr": "Je parie qu’un minuscule traducteur habite dans mon téléphone et feuillette cent dictionnaires à toute vitesse !",
+   "nl": "Ik wed dat er een piepklein vertalertje in mijn telefoon woont dat supersnel door honderd woordenboeken bladert!",
+   "img": "Whyzz imagines a tiny person inside a phone with a stack of books"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, no tiny helper in there! The app turns each word into numbers and looks at the whole sentence, so it knows if “bat” means an animal or a baseball bat.",
+   "fr": "Ha, pas de petit assistant là-dedans ! L’appli transforme chaque mot en nombres et regarde toute la phrase pour savoir si « souris » veut dire l’animal ou la souris d’ordinateur.",
+   "nl": "Haha, er zit geen hulpje in! De app maakt van elk woord getallen en kijkt naar de hele zin, zo weet hij of “muis” een dier is of een computermuis.",
+   "img": "Pixel laughs, glowing numbers float around a sentence on a screen"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know that some apps can translate a sign just by looking at it through the camera? The new words appear right on top of the picture!",
+   "fr": "Savais-tu que certaines applis peuvent traduire un panneau rien qu’en le regardant avec la caméra ? Les nouveaux mots apparaissent directement sur l’image !",
+   "nl": "Wist je dat sommige apps een bord kunnen vertalen door er gewoon met de camera naar te kijken? De nieuwe woorden verschijnen meteen op het beeld!",
+   "img": "Whyzz points his phone camera at a street sign, amazed"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the app learned from lots of examples and reads the whole sentence. Which language would you love to speak with an app’s help?",
+   "fr": "Donc l’appli a appris avec plein d’exemples et lit toute la phrase. Quelle langue aimerais-tu parler avec l’aide d’une appli ?",
+   "nl": "Dus de app heeft van heel veel voorbeelden geleerd en leest de hele zin. Welke taal zou jij graag spreken met hulp van een app?",
+   "img": "Whyzz and Pixel wave at friendly kids from around the world"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds up a smartphone and shows it excitedly to Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge at a colorful ice cream stand on a sunny seaside square, the ice cream seller smiles behind a counter full of colorful scoops. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands in front of a giant floating wall of many colorful glowing speech bubbles connected by sparkling lines, pointing at them with a big smile, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks up in wonder. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge daydreams with a big grin, above his head a thought cloud shows a tiny cartoon person sitting inside a giant smartphone flipping through a tall stack of books very fast, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge raises an eyebrow and giggles. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs and points at a large floating screen where glowing colorful numbers swirl around a row of simple picture icons of a cute bat animal and a baseball bat, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge scratches his head, cozy futuristic classroom. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge points a smartphone camera at a colorful street sign covered only with simple arrow and shape symbols in a sunny foreign old town, the phone screen glows with sparkles, his mouth open in amazement, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge gives a thumbs up. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge wave happily in a sunny park while a group of smiling kids from around the world wave back, colorful speech bubbles with hearts and stars float in the air. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "How did the app learn languages?",
+    "fr": "Comment l’appli a-t-elle appris les langues ?",
+    "nl": "Hoe heeft de app talen geleerd?"
+   },
+   "o": {
+    "en": [
+     "From millions of translated sentences",
+     "By going to school in Spain",
+     "By guessing at random"
+    ],
+    "fr": [
+     "Avec des millions de phrases traduites",
+     "En allant à l’école en Espagne",
+     "En devinant au hasard"
+    ],
+    "nl": [
+     "Van miljoenen vertaalde zinnen",
+     "Door in Spanje naar school te gaan",
+     "Door zomaar te gokken"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What does the app turn each word into?",
+    "fr": "En quoi l’appli transforme-t-elle chaque mot ?",
+    "nl": "Waarin verandert de app elk woord?"
+   },
+   "o": {
+    "en": [
+     "Into music",
+     "Into numbers",
+     "Into colors"
+    ],
+    "fr": [
+     "En musique",
+     "En nombres",
+     "En couleurs"
+    ],
+    "nl": [
+     "In muziek",
+     "In getallen",
+     "In kleuren"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Why does the app look at the whole sentence?",
+    "fr": "Pourquoi l’appli regarde-t-elle toute la phrase ?",
+    "nl": "Waarom kijkt de app naar de hele zin?"
+   },
+   "o": {
+    "en": [
+     "To count the letters",
+     "To make the sentence longer",
+     "To know what a word means there"
+    ],
+    "fr": [
+     "Pour compter les lettres",
+     "Pour rendre la phrase plus longue",
+     "Pour savoir ce que veut dire un mot à cet endroit"
+    ],
+    "nl": [
+     "Om de letters te tellen",
+     "Om de zin langer te maken",
+     "Om te weten wat een woord daar betekent"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Is there a tiny translator inside the phone?",
+    "fr": "Y a-t-il un minuscule traducteur dans le téléphone ?",
+    "nl": "Zit er een piepklein vertalertje in de telefoon?"
+   },
+   "o": {
+    "en": [
+     "No, the app uses patterns and numbers",
+     "Yes, with a hundred dictionaries",
+     "Only on vacation"
+    ],
+    "fr": [
+     "Non, l’appli utilise des modèles et des nombres",
+     "Oui, avec cent dictionnaires",
+     "Seulement en vacances"
+    ],
+    "nl": [
+     "Nee, de app gebruikt patronen en getallen",
+     "Ja, met honderd woordenboeken",
+     "Alleen op vakantie"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What can some apps translate with the camera?",
+    "fr": "Que peuvent traduire certaines applis avec la caméra ?",
+    "nl": "Wat kunnen sommige apps vertalen met de camera?"
+   },
+   "o": {
+    "en": [
+     "The weather",
+     "A sign",
+     "A song on the radio"
+    ],
+    "fr": [
+     "La météo",
+     "Un panneau",
+     "Une chanson à la radio"
+    ],
+    "nl": [
+     "Het weer",
+     "Een bord",
+     "Een liedje op de radio"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "From your words to a new language",
+   "fr": "De tes mots à une autre langue",
+   "nl": "Van jouw woorden naar een andere taal"
+  },
+  "intro": {
+   "en": "How does the app translate your sentence? Put the steps in the right order!",
+   "fr": "Comment l’appli traduit-elle ta phrase ? Remets les étapes dans le bon ordre !",
+   "nl": "Hoe vertaalt de app jouw zin? Zet de stappen in de juiste volgorde!"
+  },
+  "done": {
+   "en": "¡Muy bien! That means “very good” in Spanish.",
+   "fr": "¡Muy bien! Ça veut dire « très bien » en espagnol.",
+   "nl": "¡Muy bien! Dat betekent “heel goed” in het Spaans."
+  },
+  "items": {
+   "en": [
+    "You type a sentence",
+    "The app turns each word into numbers",
+    "It looks at the whole sentence",
+    "It uses the patterns it learned",
+    "The sentence appears in the new language"
+   ],
+   "fr": [
+    "Tu tapes une phrase",
+    "L’appli transforme chaque mot en nombres",
+    "Elle regarde toute la phrase",
+    "Elle utilise les modèles qu’elle a appris",
+    "La phrase apparaît dans l’autre langue"
+   ],
+   "nl": [
+    "Je typt een zin",
+    "De app maakt van elk woord getallen",
+    "Hij kijkt naar de hele zin",
+    "Hij gebruikt de patronen die hij geleerd heeft",
+    "De zin verschijnt in de andere taal"
+   ]
+  }
+ }
+}
