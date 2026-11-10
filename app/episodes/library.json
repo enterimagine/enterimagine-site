@@ -4407,6 +4407,1217 @@
    },
    "added": "2026-11-09",
    "voice": true
+  },
+  {
+   "id": "pixel-20261110",
+   "world": "pixel",
+   "guide": "Pixel",
+   "title": {
+    "en": "How does a translation app understand other languages?",
+    "fr": "Comment une appli de traduction comprend-elle les autres langues ?",
+    "nl": "Hoe begrijpt een vertaalapp andere talen?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, on vacation I typed “Where is the ice cream?” into an app and it said it in Spanish! How does it know so many languages?",
+     "fr": "Pixel, en vacances, j’ai tapé « Où est la glace ? » dans une appli et elle l’a dit en espagnol ! Comment connaît-elle autant de langues ?",
+     "nl": "Pixel, op vakantie typte ik “Waar is het ijsje?” in een app en die zei het in het Spaans! Hoe kent die zoveel talen?",
+     "img": "Whyzz shows Pixel a phone at a sunny ice cream stand"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "The app learned from millions of sentences that people had already translated. It found patterns, like which words usually go together.",
+     "fr": "L’appli a appris avec des millions de phrases déjà traduites par des gens. Elle y a trouvé des modèles, comme les mots qui vont souvent ensemble.",
+     "nl": "De app heeft geleerd van miljoenen zinnen die mensen al vertaald hadden. Zo vond hij patronen, zoals welke woorden vaak samen voorkomen.",
+     "img": "Pixel stands in front of a giant floating wall of sentence bubbles"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I bet there’s a tiny translator living inside my phone, flipping through a hundred dictionaries super fast!",
+     "fr": "Je parie qu’un minuscule traducteur habite dans mon téléphone et feuillette cent dictionnaires à toute vitesse !",
+     "nl": "Ik wed dat er een piepklein vertalertje in mijn telefoon woont dat supersnel door honderd woordenboeken bladert!",
+     "img": "Whyzz imagines a tiny person inside a phone with a stack of books"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, no tiny helper in there! The app turns each word into numbers and looks at the whole sentence, so it knows if “bat” means an animal or a baseball bat.",
+     "fr": "Ha, pas de petit assistant là-dedans ! L’appli transforme chaque mot en nombres et regarde toute la phrase pour savoir si « souris » veut dire l’animal ou la souris d’ordinateur.",
+     "nl": "Haha, er zit geen hulpje in! De app maakt van elk woord getallen en kijkt naar de hele zin, zo weet hij of “muis” een dier is of een computermuis.",
+     "img": "Pixel laughs, glowing numbers float around a sentence on a screen"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know that some apps can translate a sign just by looking at it through the camera? The new words appear right on top of the picture!",
+     "fr": "Savais-tu que certaines applis peuvent traduire un panneau rien qu’en le regardant avec la caméra ? Les nouveaux mots apparaissent directement sur l’image !",
+     "nl": "Wist je dat sommige apps een bord kunnen vertalen door er gewoon met de camera naar te kijken? De nieuwe woorden verschijnen meteen op het beeld!",
+     "img": "Whyzz points his phone camera at a street sign, amazed"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So the app learned from lots of examples and reads the whole sentence. Which language would you love to speak with an app’s help?",
+     "fr": "Donc l’appli a appris avec plein d’exemples et lit toute la phrase. Quelle langue aimerais-tu parler avec l’aide d’une appli ?",
+     "nl": "Dus de app heeft van heel veel voorbeelden geleerd en leest de hele zin. Welke taal zou jij graag spreken met hulp van een app?",
+     "img": "Whyzz and Pixel wave at friendly kids from around the world"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "How did the app learn languages?",
+      "fr": "Comment l’appli a-t-elle appris les langues ?",
+      "nl": "Hoe heeft de app talen geleerd?"
+     },
+     "o": {
+      "en": [
+       "From millions of translated sentences",
+       "By going to school in Spain",
+       "By guessing at random"
+      ],
+      "fr": [
+       "Avec des millions de phrases traduites",
+       "En allant à l’école en Espagne",
+       "En devinant au hasard"
+      ],
+      "nl": [
+       "Van miljoenen vertaalde zinnen",
+       "Door in Spanje naar school te gaan",
+       "Door zomaar te gokken"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What does the app turn each word into?",
+      "fr": "En quoi l’appli transforme-t-elle chaque mot ?",
+      "nl": "Waarin verandert de app elk woord?"
+     },
+     "o": {
+      "en": [
+       "Into music",
+       "Into numbers",
+       "Into colors"
+      ],
+      "fr": [
+       "En musique",
+       "En nombres",
+       "En couleurs"
+      ],
+      "nl": [
+       "In muziek",
+       "In getallen",
+       "In kleuren"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Why does the app look at the whole sentence?",
+      "fr": "Pourquoi l’appli regarde-t-elle toute la phrase ?",
+      "nl": "Waarom kijkt de app naar de hele zin?"
+     },
+     "o": {
+      "en": [
+       "To count the letters",
+       "To make the sentence longer",
+       "To know what a word means there"
+      ],
+      "fr": [
+       "Pour compter les lettres",
+       "Pour rendre la phrase plus longue",
+       "Pour savoir ce que veut dire un mot à cet endroit"
+      ],
+      "nl": [
+       "Om de letters te tellen",
+       "Om de zin langer te maken",
+       "Om te weten wat een woord daar betekent"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Is there a tiny translator inside the phone?",
+      "fr": "Y a-t-il un minuscule traducteur dans le téléphone ?",
+      "nl": "Zit er een piepklein vertalertje in de telefoon?"
+     },
+     "o": {
+      "en": [
+       "No, the app uses patterns and numbers",
+       "Yes, with a hundred dictionaries",
+       "Only on vacation"
+      ],
+      "fr": [
+       "Non, l’appli utilise des modèles et des nombres",
+       "Oui, avec cent dictionnaires",
+       "Seulement en vacances"
+      ],
+      "nl": [
+       "Nee, de app gebruikt patronen en getallen",
+       "Ja, met honderd woordenboeken",
+       "Alleen op vakantie"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What can some apps translate with the camera?",
+      "fr": "Que peuvent traduire certaines applis avec la caméra ?",
+      "nl": "Wat kunnen sommige apps vertalen met de camera?"
+     },
+     "o": {
+      "en": [
+       "The weather",
+       "A sign",
+       "A song on the radio"
+      ],
+      "fr": [
+       "La météo",
+       "Un panneau",
+       "Une chanson à la radio"
+      ],
+      "nl": [
+       "Het weer",
+       "Een bord",
+       "Een liedje op de radio"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "From your words to a new language",
+     "fr": "De tes mots à une autre langue",
+     "nl": "Van jouw woorden naar een andere taal"
+    },
+    "intro": {
+     "en": "How does the app translate your sentence? Put the steps in the right order!",
+     "fr": "Comment l’appli traduit-elle ta phrase ? Remets les étapes dans le bon ordre !",
+     "nl": "Hoe vertaalt de app jouw zin? Zet de stappen in de juiste volgorde!"
+    },
+    "done": {
+     "en": "¡Muy bien! That means “very good” in Spanish.",
+     "fr": "¡Muy bien! Ça veut dire « très bien » en espagnol.",
+     "nl": "¡Muy bien! Dat betekent “heel goed” in het Spaans."
+    },
+    "items": {
+     "en": [
+      "You type a sentence",
+      "The app turns each word into numbers",
+      "It looks at the whole sentence",
+      "It uses the patterns it learned",
+      "The sentence appears in the new language"
+     ],
+     "fr": [
+      "Tu tapes une phrase",
+      "L’appli transforme chaque mot en nombres",
+      "Elle regarde toute la phrase",
+      "Elle utilise les modèles qu’elle a appris",
+      "La phrase apparaît dans l’autre langue"
+     ],
+     "nl": [
+      "Je typt een zin",
+      "De app maakt van elk woord getallen",
+      "Hij kijkt naar de hele zin",
+      "Hij gebruikt de patronen die hij geleerd heeft",
+      "De zin verschijnt in de andere taal"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "AI & Data",
+    "fr": "IA et données",
+    "nl": "AI en data"
+   },
+   "adult": {
+    "en": "For grown-ups: the AI & Data world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde IA et données dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld AI en data in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-10",
+   "voice": true
+  },
+  {
+   "id": "qubi-20261110",
+   "world": "qubi",
+   "guide": "Qubi",
+   "title": {
+    "en": "Can a qubit be 0 and 1 at the same time?",
+    "fr": "Un qubit peut-il être 0 et 1 en même temps ?",
+    "nl": "Kan een qubit tegelijk 0 en 1 zijn?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, my computer thinks with zeros and ones. Is a quantum computer just a computer with even more zeros and ones?",
+     "fr": "Qubi, mon ordinateur réfléchit avec des zéros et des uns. Un ordinateur quantique, c’est juste un ordinateur avec encore plus de zéros et de uns ?",
+     "nl": "Qubi, mijn computer denkt met nullen en enen. Is een quantumcomputer gewoon een computer met nog meer nullen en enen?",
+     "img": "Whyzz at a desk with a laptop asks Qubi a question"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "A normal bit is like a coin lying on the table: heads is 1, tails is 0. A quantum bit, called a qubit, is more like a coin that is still spinning!",
+     "fr": "Un bit normal, c’est comme une pièce posée sur la table : pile, c’est 1, face, c’est 0. Un bit quantique, qu’on appelle qubit, ressemble plutôt à une pièce qui tourne encore !",
+     "nl": "Een gewone bit is als een munt die op tafel ligt: kop is 1, munt is 0. Een quantumbit, een qubit, lijkt meer op een munt die nog aan het draaien is!",
+     "img": "Qubi shows a coin lying flat next to a coin spinning on a table"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "While it spins, the qubit is a mix of 0 and 1 at once, which scientists call superposition. Only when you measure it does it pick 0 or 1.",
+     "fr": "Pendant qu’il tourne, le qubit est un mélange de 0 et de 1 à la fois, ce que les scientifiques appellent la superposition. C’est seulement quand on le mesure qu’il choisit 0 ou 1.",
+     "nl": "Zolang hij draait, is de qubit tegelijk een mengsel van 0 en 1, wat wetenschappers superpositie noemen. Pas als je hem meet, kiest hij 0 of 1.",
+     "img": "A glowing spinning coin with swirling blue and yellow light, Qubi explains"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So if I spin my homework, it’s done and not done at the same time? No more homework, yay!",
+     "fr": "Alors si je fais tourner mes devoirs, ils sont faits et pas faits en même temps ? Fini les devoirs, youpi !",
+     "nl": "Dus als ik mijn huiswerk laat draaien, is het tegelijk af en niet af? Nooit meer huiswerk, joepie!",
+     "img": "Whyzz spins a notebook on his finger, Qubi laughs"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Nice try, but homework doesn’t work like that! Did you know that a qubit can be one single atom, a tiny bit of light or a mini circuit colder than space?",
+     "fr": "Bien essayé, mais les devoirs, ça ne marche pas comme ça ! Savais-tu qu’un qubit peut être un seul atome, un tout petit grain de lumière ou un mini circuit plus froid que l’espace ?",
+     "nl": "Goed geprobeerd, maar zo werkt huiswerk niet! Wist je dat een qubit één enkel atoom kan zijn, een piepklein lichtdeeltje of een mini-stroomkring kouder dan de ruimte?",
+     "img": "Qubi shows three glowing orbs: an atom, a spark of light and a tiny frosty chip"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So a bit lies still, but a qubit spins between 0 and 1 until we measure it! What would you ask a quantum computer to figure out?",
+     "fr": "Donc un bit reste immobile, mais un qubit tourne entre 0 et 1 jusqu’à ce qu’on le mesure ! Qu’est-ce que tu demanderais à un ordinateur quantique de trouver ?",
+     "nl": "Dus een bit ligt stil, maar een qubit draait tussen 0 en 1 tot we hem meten! Wat zou jij een quantumcomputer laten uitzoeken?",
+     "img": "Whyzz and Qubi cheer next to a big glowing quantum computer"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "A normal bit is like…",
+      "fr": "Un bit normal, c’est comme…",
+      "nl": "Een gewone bit is als…"
+     },
+     "o": {
+      "en": [
+       "A coin that keeps spinning",
+       "A coin lying on the table",
+       "A ball that bounces"
+      ],
+      "fr": [
+       "Une pièce qui tourne sans arrêt",
+       "Une pièce posée sur la table",
+       "Une balle qui rebondit"
+      ],
+      "nl": [
+       "Een munt die blijft draaien",
+       "Een munt die op tafel ligt",
+       "Een bal die stuitert"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What is a qubit more like?",
+      "fr": "À quoi ressemble plutôt un qubit ?",
+      "nl": "Waar lijkt een qubit meer op?"
+     },
+     "o": {
+      "en": [
+       "A coin that is still spinning",
+       "A coin in your pocket",
+       "A coin made of chocolate"
+      ],
+      "fr": [
+       "Une pièce qui tourne encore",
+       "Une pièce dans ta poche",
+       "Une pièce en chocolat"
+      ],
+      "nl": [
+       "Een munt die nog draait",
+       "Een munt in je zak",
+       "Een munt van chocolade"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What is it called when a qubit is a mix of 0 and 1?",
+      "fr": "Comment appelle-t-on un qubit qui est un mélange de 0 et de 1 ?",
+      "nl": "Hoe heet het als een qubit een mengsel van 0 en 1 is?"
+     },
+     "o": {
+      "en": [
+       "Supermarket",
+       "Superhero",
+       "Superposition"
+      ],
+      "fr": [
+       "Le supermarché",
+       "Le super-héros",
+       "La superposition"
+      ],
+      "nl": [
+       "Supermarkt",
+       "Superheld",
+       "Superpositie"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "When does a qubit pick 0 or 1?",
+      "fr": "Quand un qubit choisit-il 0 ou 1 ?",
+      "nl": "Wanneer kiest een qubit 0 of 1?"
+     },
+     "o": {
+      "en": [
+       "When you measure it",
+       "When it gets hungry",
+       "At midnight"
+      ],
+      "fr": [
+       "Quand on le mesure",
+       "Quand il a faim",
+       "À minuit"
+      ],
+      "nl": [
+       "Als je hem meet",
+       "Als hij honger krijgt",
+       "Om middernacht"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What can a qubit be made of?",
+      "fr": "De quoi un qubit peut-il être fait ?",
+      "nl": "Waarvan kan een qubit gemaakt zijn?"
+     },
+     "o": {
+      "en": [
+       "A spinning homework notebook",
+       "One single atom",
+       "A golden coin"
+      ],
+      "fr": [
+       "D’un cahier de devoirs qui tourne",
+       "D’un seul atome",
+       "D’une pièce en or"
+      ],
+      "nl": [
+       "Een draaiend huiswerkschrift",
+       "Eén enkel atoom",
+       "Een gouden munt"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Qubit or not?",
+     "fr": "Qubit ou pas ?",
+     "nl": "Qubit of niet?"
+    },
+    "intro": {
+     "en": "Pick the sentences that are true about qubits!",
+     "fr": "Choisis les phrases qui sont vraies sur les qubits !",
+     "nl": "Kies de zinnen die kloppen over qubits!"
+    },
+    "done": {
+     "en": "Spin-tastic! You really know your qubits.",
+     "fr": "Super ! Tu connais vraiment bien les qubits.",
+     "nl": "Top! Jij weet echt alles over qubits."
+    },
+    "items": {
+     "en": [
+      "A qubit can be a mix of 0 and 1",
+      "A qubit picks 0 or 1 when you measure it",
+      "A qubit is a tiny coin in your wallet",
+      "A qubit can be one single atom",
+      "A qubit can do your homework",
+      "Some qubits must be colder than space"
+     ],
+     "fr": [
+      "Un qubit peut être un mélange de 0 et de 1",
+      "Un qubit choisit 0 ou 1 quand on le mesure",
+      "Un qubit est une petite pièce dans ton porte-monnaie",
+      "Un qubit peut être un seul atome",
+      "Un qubit peut faire tes devoirs",
+      "Certains qubits doivent être plus froids que l’espace"
+     ],
+     "nl": [
+      "Een qubit kan een mengsel van 0 en 1 zijn",
+      "Een qubit kiest 0 of 1 als je hem meet",
+      "Een qubit is een muntje in je portemonnee",
+      "Een qubit kan één enkel atoom zijn",
+      "Een qubit kan je huiswerk maken",
+      "Sommige qubits moeten kouder zijn dan de ruimte"
+     ]
+    },
+    "good": [
+     0,
+     1,
+     3,
+     5
+    ]
+   },
+   "worldName": {
+    "en": "Quantum",
+    "fr": "Quantique",
+    "nl": "Quantum"
+   },
+   "adult": {
+    "en": "For grown-ups: the Quantum world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Quantique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Quantum in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-10",
+   "voice": true
+  },
+  {
+   "id": "bloom-20261110",
+   "world": "bloom",
+   "guide": "Bloom",
+   "title": {
+    "en": "How can a jellyfish glow in the dark?",
+    "fr": "Comment une méduse peut-elle briller dans le noir ?",
+    "nl": "Hoe kan een kwal in het donker gloeien?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Bloom, at the aquarium I saw a jellyfish that glowed in the dark! How can an animal shine without any batteries?",
+     "fr": "Bloom, à l’aquarium, j’ai vu une méduse qui brillait dans le noir ! Comment un animal peut-il briller sans piles ?",
+     "nl": "Bloom, in het aquarium zag ik een kwal die in het donker gloeide! Hoe kan een dier licht geven zonder batterijen?",
+     "img": "Whyzz presses his face to an aquarium glass with a glowing jellyfish"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Oh, I know! It swallowed a glow stick for dinner!",
+     "fr": "Oh, je sais ! Elle a avalé un bâton lumineux pour le dîner !",
+     "nl": "O, ik weet het! Hij heeft een glowstick opgegeten als avondeten!",
+     "img": "Whyzz imagines a jellyfish munching a glow stick, Bloom laughs"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Ha, no glow sticks! Inside the jellyfish, two special substances meet and make light, a bit like mixing two paints to get a new color.",
+     "fr": "Ha, pas de bâton lumineux ! Dans la méduse, deux substances spéciales se rencontrent et fabriquent de la lumière, un peu comme deux peintures qu’on mélange pour obtenir une nouvelle couleur.",
+     "nl": "Haha, geen glowsticks! In de kwal komen twee speciale stoffen samen die licht maken, een beetje zoals twee verfkleuren die je mengt tot een nieuwe kleur.",
+     "img": "Bloom mixes two glowing drops that make a burst of light"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Some jellyfish also have a protein that turns blue light into green light. Scientists borrow it to make cells glow, so they can watch them under a microscope.",
+     "fr": "Certaines méduses ont aussi une protéine qui transforme la lumière bleue en lumière verte. Les scientifiques l’empruntent pour faire briller des cellules et les observer au microscope.",
+     "nl": "Sommige kwallen hebben ook een eiwit dat blauw licht verandert in groen licht. Wetenschappers lenen het om cellen te laten gloeien, zodat ze die onder een microscoop kunnen bekijken.",
+     "img": "Bloom looks into a microscope at glowing green cells"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Did you know that most deep-sea animals can make their own light? The anglerfish uses a glowing lure to catch food and fireflies blink to find their friends.",
+     "fr": "Savais-tu que la plupart des animaux des grands fonds fabriquent leur propre lumière ? La baudroie attire sa nourriture avec un leurre lumineux et les lucioles clignotent pour trouver leurs amies.",
+     "nl": "Wist je dat de meeste diepzeedieren hun eigen licht kunnen maken? De hengelvis lokt eten met een gloeiend lampje en vuurvliegjes knipperen om elkaar te vinden.",
+     "img": "Glowing deep-sea fish and fireflies, Whyzz amazed"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So jellyfish make light by mixing special substances inside their bodies! If you could glow like a jellyfish, what color would you pick?",
+     "fr": "Donc les méduses fabriquent de la lumière en mélangeant des substances spéciales dans leur corps ! Si tu pouvais briller comme une méduse, quelle couleur choisirais-tu ?",
+     "nl": "Dus kwallen maken licht door speciale stoffen in hun lijf te mengen! Als jij kon gloeien zoals een kwal, welke kleur zou je kiezen?",
+     "img": "Whyzz and Bloom wave next to glowing jellyfish in a dark aquarium"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What did Whyzz guess the jellyfish ate?",
+      "fr": "Selon Whyzz, qu’a mangé la méduse ?",
+      "nl": "Wat dacht Whyzz dat de kwal had gegeten?"
+     },
+     "o": {
+      "en": [
+       "A battery",
+       "A glow stick",
+       "A star"
+      ],
+      "fr": [
+       "Une pile",
+       "Un bâton lumineux",
+       "Une étoile"
+      ],
+      "nl": [
+       "Een batterij",
+       "Een glowstick",
+       "Een ster"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How does the jellyfish really make light?",
+      "fr": "Comment la méduse fabrique-t-elle vraiment de la lumière ?",
+      "nl": "Hoe maakt de kwal echt licht?"
+     },
+     "o": {
+      "en": [
+       "Two special substances meet inside it",
+       "It stores sunlight from the beach",
+       "It uses tiny batteries"
+      ],
+      "fr": [
+       "Deux substances spéciales se rencontrent en elle",
+       "Elle garde la lumière du soleil de la plage",
+       "Elle utilise de minuscules piles"
+      ],
+      "nl": [
+       "Twee speciale stoffen komen in de kwal samen",
+       "Hij bewaart zonlicht van het strand",
+       "Hij gebruikt piepkleine batterijen"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What does the jellyfish protein do?",
+      "fr": "Que fait la protéine de la méduse ?",
+      "nl": "Wat doet het eiwit van de kwal?"
+     },
+     "o": {
+      "en": [
+       "It makes the water warm",
+       "It makes the jellyfish faster",
+       "It turns blue light into green light"
+      ],
+      "fr": [
+       "Elle réchauffe l’eau",
+       "Elle rend la méduse plus rapide",
+       "Elle transforme la lumière bleue en verte"
+      ],
+      "nl": [
+       "Het maakt het water warm",
+       "Het maakt de kwal sneller",
+       "Het verandert blauw licht in groen licht"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Why do scientists make cells glow?",
+      "fr": "Pourquoi les scientifiques font-ils briller des cellules ?",
+      "nl": "Waarom laten wetenschappers cellen gloeien?"
+     },
+     "o": {
+      "en": [
+       "To light up their lab",
+       "To watch them under a microscope",
+       "To make jellyfish jealous"
+      ],
+      "fr": [
+       "Pour éclairer leur labo",
+       "Pour les observer au microscope",
+       "Pour rendre les méduses jalouses"
+      ],
+      "nl": [
+       "Om hun lab te verlichten",
+       "Om ze onder een microscoop te bekijken",
+       "Om kwallen jaloers te maken"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Why do fireflies blink?",
+      "fr": "Pourquoi les lucioles clignotent-elles ?",
+      "nl": "Waarom knipperen vuurvliegjes?"
+     },
+     "o": {
+      "en": [
+       "To find their friends",
+       "To scare the Moon",
+       "To charge their batteries"
+      ],
+      "fr": [
+       "Pour trouver leurs amies",
+       "Pour faire peur à la Lune",
+       "Pour recharger leurs piles"
+      ],
+      "nl": [
+       "Om elkaar te vinden",
+       "Om de maan bang te maken",
+       "Om hun batterijen op te laden"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Glow buddies",
+     "fr": "Les copains lumineux",
+     "nl": "Gloeivriendjes"
+    },
+    "intro": {
+     "en": "Match each glowing living thing to what it does with its light!",
+     "fr": "Associe chaque être vivant lumineux à ce qu’il fait avec sa lumière !",
+     "nl": "Koppel elk gloeiend wezen aan wat het met zijn licht doet!"
+    },
+    "done": {
+     "en": "Shining work! You’re a real glow expert.",
+     "fr": "Lumineux ! Tu es un vrai expert de la lumière.",
+     "nl": "Stralend gedaan! Jij bent een echte gloei-expert."
+    },
+    "left": {
+     "en": [
+      "Firefly",
+      "Jellyfish protein",
+      "Anglerfish",
+      "Glowing cells"
+     ],
+     "fr": [
+      "La luciole",
+      "La protéine de méduse",
+      "La baudroie des abysses",
+      "Les cellules lumineuses"
+     ],
+     "nl": [
+      "Vuurvliegje",
+      "Kwallen-eiwit",
+      "Hengelvis",
+      "Gloeiende cellen"
+     ]
+    },
+    "right": {
+     "en": [
+      "Blinks to find friends",
+      "Turns blue light into green light",
+      "Uses a glowing lure to catch food",
+      "Help scientists see under a microscope"
+     ],
+     "fr": [
+      "Clignote pour trouver ses amies",
+      "Transforme la lumière bleue en verte",
+      "Attire sa nourriture avec un leurre lumineux",
+      "Aident les scientifiques à voir au microscope"
+     ],
+     "nl": [
+      "Knippert om vriendjes te vinden",
+      "Verandert blauw licht in groen licht",
+      "Lokt eten met een gloeiend lampje",
+      "Helpen wetenschappers kijken onder de microscoop"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Biotech",
+    "fr": "Biotech",
+    "nl": "Biotech"
+   },
+   "adult": {
+    "en": "For grown-ups: the Biotech world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Biotech dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Biotech in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-10",
+   "voice": true
+  },
+  {
+   "id": "robo-20261110",
+   "world": "robo",
+   "guide": "Pixel",
+   "title": {
+    "en": "How does a robot vacuum find its way around a room?",
+    "fr": "Comment un robot aspirateur trouve-t-il son chemin dans une pièce ?",
+    "nl": "Hoe vindt een robotstofzuiger zijn weg in een kamer?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, our robot vacuum cleans the whole living room and never gets lost under the couch. How does it know where to go?",
+     "fr": "Pixel, notre robot aspirateur nettoie tout le salon et ne se perd jamais sous le canapé. Comment sait-il où aller ?",
+     "nl": "Pixel, onze robotstofzuiger maakt de hele woonkamer schoon en verdwaalt nooit onder de bank. Hoe weet hij waar hij heen moet?",
+     "img": "Whyzz watches a round robot vacuum glide across a living room"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I think it sniffs out the crumbs like a hungry puppy!",
+     "fr": "À mon avis, il renifle les miettes comme un chiot affamé !",
+     "nl": "Volgens mij snuffelt hij de kruimels op zoals een hongerig puppy!",
+     "img": "Whyzz on hands and knees sniffing the carpet like a puppy, Pixel giggles"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, no nose! Many robot vacuums have a little spinning laser on top that measures how far away the walls and furniture are.",
+     "fr": "Ha, il n’a pas de nez ! Beaucoup de robots aspirateurs ont sur le dessus un petit laser qui tourne et mesure à quelle distance se trouvent les murs et les meubles.",
+     "nl": "Haha, hij heeft geen neus! Veel robotstofzuigers hebben bovenop een draaiend laserlampje dat meet hoe ver de muren en meubels weg zijn.",
+     "img": "Pixel points at a spinning laser on top of the robot, light beams to walls"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "With all those distances, it draws a map of the room, a bit like a treasure map. Then it plans neat lines, like mowing a lawn.",
+     "fr": "Avec toutes ces distances, il dessine une carte de la pièce, un peu comme une carte au trésor. Ensuite, il prévoit des lignes bien droites, comme quand on tond une pelouse.",
+     "nl": "Met al die afstanden tekent hij een kaart van de kamer, een beetje zoals een schatkaart. Dan plant hij nette banen, zoals bij het maaien van een gazon.",
+     "img": "A glowing floor map of the room appears with neat cleaning lines"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know that robot vacuums have sensors underneath that look down? They notice the edge of the stairs, so the robot stops and never tumbles down.",
+     "fr": "Savais-tu que les robots aspirateurs ont des capteurs en dessous qui regardent vers le bas ? Ils repèrent le bord de l’escalier, alors le robot s’arrête et ne tombe jamais.",
+     "nl": "Wist je dat robotstofzuigers onderaan sensoren hebben die naar beneden kijken? Ze zien de rand van de trap, dus de robot stopt en valt nooit naar beneden.",
+     "img": "The robot vacuum stops at the top of stairs, Whyzz relieved"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So it measures, makes a map and watches out for stairs! If you had a robot helper at home, what job would you give it?",
+     "fr": "Donc il mesure, dessine une carte et fait attention aux escaliers ! Si tu avais un robot assistant à la maison, quelle tâche lui donnerais-tu ?",
+     "nl": "Dus hij meet, maakt een kaart en let op voor de trap! Als jij een robothulpje thuis had, welke klus zou je het geven?",
+     "img": "Whyzz and Pixel high-five on a clean shiny floor"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What did Whyzz think the robot uses to find crumbs?",
+      "fr": "Selon Whyzz, avec quoi le robot trouve-t-il les miettes ?",
+      "nl": "Waarmee dacht Whyzz dat de robot kruimels vindt?"
+     },
+     "o": {
+      "en": [
+       "A magnet",
+       "A nose, like a puppy",
+       "A flashlight"
+      ],
+      "fr": [
+       "Un aimant",
+       "Un nez, comme un chiot",
+       "Une lampe de poche"
+      ],
+      "nl": [
+       "Een magneet",
+       "Een neus, zoals een puppy",
+       "Een zaklamp"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does the spinning laser measure?",
+      "fr": "Que mesure le laser qui tourne ?",
+      "nl": "Wat meet de draaiende laser?"
+     },
+     "o": {
+      "en": [
+       "How far away walls and furniture are",
+       "How hot the room is",
+       "How loud the TV is"
+      ],
+      "fr": [
+       "La distance des murs et des meubles",
+       "La température de la pièce",
+       "Le volume de la télé"
+      ],
+      "nl": [
+       "Hoe ver muren en meubels weg zijn",
+       "Hoe warm de kamer is",
+       "Hoe luid de tv staat"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What does the robot make with all the distances?",
+      "fr": "Que fait le robot avec toutes ces distances ?",
+      "nl": "Wat maakt de robot met al die afstanden?"
+     },
+     "o": {
+      "en": [
+       "A song",
+       "A cake",
+       "A map of the room"
+      ],
+      "fr": [
+       "Une chanson",
+       "Un gâteau",
+       "Une carte de la pièce"
+      ],
+      "nl": [
+       "Een liedje",
+       "Een taart",
+       "Een kaart van de kamer"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "How does the robot clean the floor?",
+      "fr": "Comment le robot nettoie-t-il le sol ?",
+      "nl": "Hoe maakt de robot de vloer schoon?"
+     },
+     "o": {
+      "en": [
+       "In neat lines, like mowing a lawn",
+       "By jumping around",
+       "Only in one corner"
+      ],
+      "fr": [
+       "En lignes droites, comme quand on tond une pelouse",
+       "En sautant partout",
+       "Seulement dans un coin"
+      ],
+      "nl": [
+       "In nette banen, zoals bij het maaien van een gazon",
+       "Door rond te springen",
+       "Alleen in één hoek"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why doesn’t the robot fall down the stairs?",
+      "fr": "Pourquoi le robot ne tombe-t-il pas dans l’escalier ?",
+      "nl": "Waarom valt de robot niet van de trap?"
+     },
+     "o": {
+      "en": [
+       "It’s afraid of heights",
+       "Sensors underneath see the edge",
+       "Someone always carries it"
+      ],
+      "fr": [
+       "Il a le vertige",
+       "Des capteurs en dessous voient le bord",
+       "Quelqu’un le porte toujours"
+      ],
+      "nl": [
+       "Hij heeft hoogtevrees",
+       "Sensoren onderaan zien de rand",
+       "Iemand draagt hem altijd"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Robot vacuum toolbox",
+     "fr": "La boîte à outils du robot",
+     "nl": "De gereedschapskist van de robot"
+    },
+    "intro": {
+     "en": "Pick the things that help a robot vacuum find its way!",
+     "fr": "Choisis ce qui aide un robot aspirateur à trouver son chemin !",
+     "nl": "Kies wat een robotstofzuiger helpt om zijn weg te vinden!"
+    },
+    "done": {
+     "en": "Beep beep! The robot vacuum is ready to clean.",
+     "fr": "Bip bip ! Le robot aspirateur est prêt à nettoyer.",
+     "nl": "Biep biep! De robotstofzuiger is klaar om te poetsen."
+    },
+    "items": {
+     "en": [
+      "A spinning laser",
+      "A nose to sniff crumbs",
+      "Sensors that look down",
+      "A map of the room",
+      "A paper map in its pocket",
+      "A bumper that feels bumps",
+      "A steering wheel"
+     ],
+     "fr": [
+      "Un laser qui tourne",
+      "Un nez pour renifler les miettes",
+      "Des capteurs qui regardent vers le bas",
+      "Une carte de la pièce",
+      "Une carte en papier dans sa poche",
+      "Un pare-chocs qui sent les petits chocs",
+      "Un volant"
+     ],
+     "nl": [
+      "Een draaiende laser",
+      "Een neus om kruimels te ruiken",
+      "Sensoren die naar beneden kijken",
+      "Een kaart van de kamer",
+      "Een papieren kaart in zijn zak",
+      "Een bumper die botsingen voelt",
+      "Een stuur"
+     ]
+    },
+    "good": [
+     0,
+     2,
+     3,
+     5
+    ]
+   },
+   "worldName": {
+    "en": "Robotics",
+    "fr": "Robotique",
+    "nl": "Robotica"
+   },
+   "adult": {
+    "en": "For grown-ups: the Robotics world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Robotique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Robotica in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-10",
+   "voice": true
+  },
+  {
+   "id": "energy-20261110",
+   "world": "energy",
+   "guide": "Sunny",
+   "title": {
+    "en": "How does a wind turbine make electricity?",
+    "fr": "Comment une éolienne fabrique-t-elle de l’électricité ?",
+    "nl": "Hoe maakt een windmolen stroom?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, on our trip we drove past giant white windmills with three long arms. What are they doing up there?",
+     "fr": "Sunny, pendant notre voyage, on est passés devant des moulins géants tout blancs avec trois grands bras. Qu’est-ce qu’ils font là-haut ?",
+     "nl": "Sunny, op onze reis reden we langs reusachtige witte windmolens met drie lange armen. Wat doen die daarboven?",
+     "img": "Whyzz points out of a car window at tall white wind turbines"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Wait, I know! They’re giant fans that make the wind blow, so kites can fly!",
+     "fr": "Attends, je sais ! Ce sont des ventilateurs géants qui font souffler le vent pour que les cerfs-volants puissent voler !",
+     "nl": "Wacht, ik weet het! Het zijn reuzenventilatoren die de wind laten waaien, zodat vliegers kunnen vliegen!",
+     "img": "Whyzz holds a kite in front of a turbine, Sunny laughs"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "It’s the other way around: these wind turbines catch the wind! It pushes their long blades and makes them turn, like when you blow on a paper pinwheel.",
+     "fr": "C’est l’inverse : ces éoliennes attrapent le vent ! Il pousse leurs longues pales et les fait tourner, comme quand tu souffles sur un moulinet en papier.",
+     "nl": "Het is net andersom: deze windturbines vangen de wind! Die duwt tegen hun lange wieken en laat ze draaien, zoals wanneer je op een papieren molentje blaast.",
+     "img": "Sunny blows on a colorful paper pinwheel, turbines behind her"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "The turning blades spin a generator inside the turbine. There, magnets whirl past coils of copper wire and that makes electricity flow.",
+     "fr": "Les pales qui tournent font tourner un générateur dans l’éolienne. Là, des aimants passent à toute vitesse devant des bobines de fil de cuivre et ça fait circuler l’électricité.",
+     "nl": "De draaiende wieken laten een generator in de turbine draaien. Daar zoeven magneten langs spoelen van koperdraad en zo gaat er stroom lopen.",
+     "img": "A peek inside the turbine: magnets spin past copper coils with sparks"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Did you know that one blade of a big wind turbine can be longer than a blue whale? Cables then carry the electricity all the way to our homes.",
+     "fr": "Savais-tu qu’une seule pale d’une grande éolienne peut être plus longue qu’une baleine bleue ? Ensuite, des câbles transportent l’électricité jusqu’à nos maisons.",
+     "nl": "Wist je dat één wiek van een grote windturbine langer kan zijn dan een blauwe vinvis? Kabels brengen de stroom daarna helemaal tot bij ons thuis.",
+     "img": "A huge turbine blade lies next to a friendly blue whale, Whyzz amazed"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So the wind turns the blades, the generator makes electricity and cables bring it home! Where would you build a wind turbine?",
+     "fr": "Donc le vent fait tourner les pales, le générateur fabrique l’électricité et les câbles l’amènent à la maison ! Où construirais-tu une éolienne ?",
+     "nl": "Dus de wind draait de wieken, de generator maakt stroom en kabels brengen die naar huis! Waar zou jij een windturbine bouwen?",
+     "img": "Whyzz and Sunny on a windy hill with turbines and a lit-up village"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What did Whyzz think the turbines do?",
+      "fr": "Selon Whyzz, que font les éoliennes ?",
+      "nl": "Wat dacht Whyzz dat de windmolens doen?"
+     },
+     "o": {
+      "en": [
+       "They catch birds",
+       "They make the wind blow",
+       "They cool the clouds"
+      ],
+      "fr": [
+       "Elles attrapent des oiseaux",
+       "Elles font souffler le vent",
+       "Elles refroidissent les nuages"
+      ],
+      "nl": [
+       "Ze vangen vogels",
+       "Ze laten de wind waaien",
+       "Ze koelen de wolken af"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What makes the blades turn?",
+      "fr": "Qu’est-ce qui fait tourner les pales ?",
+      "nl": "Wat laat de wieken draaien?"
+     },
+     "o": {
+      "en": [
+       "The wind pushing them",
+       "A big motor",
+       "The Moon"
+      ],
+      "fr": [
+       "Le vent qui les pousse",
+       "Un gros moteur",
+       "La Lune"
+      ],
+      "nl": [
+       "De wind die ertegen duwt",
+       "Een grote motor",
+       "De maan"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What whirls past the copper coils?",
+      "fr": "Qu’est-ce qui passe à toute vitesse devant les bobines de cuivre ?",
+      "nl": "Wat zoeft er langs de koperen spoelen?"
+     },
+     "o": {
+      "en": [
+       "Water",
+       "Feathers",
+       "Magnets"
+      ],
+      "fr": [
+       "De l’eau",
+       "Des plumes",
+       "Des aimants"
+      ],
+      "nl": [
+       "Water",
+       "Veren",
+       "Magneten"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "A big turbine blade can be longer than…",
+      "fr": "Une grande pale d’éolienne peut être plus longue que…",
+      "nl": "Een grote wiek kan langer zijn dan…"
+     },
+     "o": {
+      "en": [
+       "A pencil",
+       "A blue whale",
+       "The Moon"
+      ],
+      "fr": [
+       "Un crayon",
+       "Une baleine bleue",
+       "La Lune"
+      ],
+      "nl": [
+       "Een potlood",
+       "Een blauwe vinvis",
+       "De maan"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How does the electricity reach our homes?",
+      "fr": "Comment l’électricité arrive-t-elle chez nous ?",
+      "nl": "Hoe komt de stroom bij ons thuis?"
+     },
+     "o": {
+      "en": [
+       "Through cables",
+       "In buckets",
+       "With the mail"
+      ],
+      "fr": [
+       "Par des câbles",
+       "Dans des seaux",
+       "Par la poste"
+      ],
+      "nl": [
+       "Via kabels",
+       "In emmers",
+       "Met de post"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "From wind to light",
+     "fr": "Du vent à la lumière",
+     "nl": "Van wind naar licht"
+    },
+    "intro": {
+     "en": "How does the wind light up your lamp? Put the steps in the right order!",
+     "fr": "Comment le vent allume-t-il ta lampe ? Remets les étapes dans le bon ordre !",
+     "nl": "Hoe laat de wind jouw lamp branden? Zet de stappen in de juiste volgorde!"
+    },
+    "done": {
+     "en": "Whoosh! The wind just lit up your room.",
+     "fr": "Whoosh ! Le vent vient d’allumer ta chambre.",
+     "nl": "Woesj! De wind heeft net je kamer verlicht."
+    },
+    "items": {
+     "en": [
+      "The wind blows",
+      "The blades start to turn",
+      "The blades spin the generator",
+      "Magnets whirl past copper coils",
+      "Cables carry the electricity",
+      "Your lamp lights up"
+     ],
+     "fr": [
+      "Le vent souffle",
+      "Les pales se mettent à tourner",
+      "Les pales font tourner le générateur",
+      "Les aimants passent devant les bobines de cuivre",
+      "Les câbles transportent l’électricité",
+      "Ta lampe s’allume"
+     ],
+     "nl": [
+      "De wind waait",
+      "De wieken beginnen te draaien",
+      "De wieken laten de generator draaien",
+      "Magneten zoeven langs koperen spoelen",
+      "Kabels brengen de stroom",
+      "Je lamp gaat aan"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Energy",
+    "fr": "Énergie",
+    "nl": "Energie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Energy world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Énergie dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Energie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-10",
+   "voice": true
   }
  ]
 }
