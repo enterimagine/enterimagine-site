@@ -9,6 +9,7 @@
     "node": ">=22"
   },
   "dependencies": {
-    "@azure/functions": "4.17.0"
+    "@azure/functions": "4.17.0",
+    "@simplewebauthn/server": "13.3.3"
   }
 }

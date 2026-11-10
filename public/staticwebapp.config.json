@@ -69,6 +69,19 @@
       ]
     },
     {
+      "route": "/api/members",
+      "methods": [
+        "GET"
+      ]
+    },
+    {
+      "route": "/api/members/*",
+      "methods": [
+        "GET",
+        "POST"
+      ]
+    },
+    {
       "route": "/api/hit",
       "methods": [
         "POST"

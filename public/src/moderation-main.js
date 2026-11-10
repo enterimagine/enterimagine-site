@@ -60,6 +60,35 @@ async function requestDraft(el, root) {
   return true;
 }
 
+const THEME_NAMES = { 'ai-data': 'AI & Data', 'quantum-computing': 'Quantum Computing', energy: 'Energy', 'smart-mobility': 'Smart Mobility', 'smart-cities': 'Smart Cities', biotech: 'Biotech', robotics: 'Robotics', space: 'Space', innovation: 'Innovation' };
+function memberCard(m, agent) {
+  const status = { pending: 'Waiting for review', changes: 'Changes requested', approved: 'Live' }[m.status] || m.status;
+  const check = m.check ? `<p class="mod-agent ${m.check.recommendation === 'reject' ? 'is-reject' : 'is-approve'}" data-agent-note><strong>Agent suggests: ${m.check.recommendation}.</strong> ${esc(m.check.reason || '')}</p>`
+    : (agent.enabled && m.status === 'pending' ? '<p class="mod-agent" data-agent-note>Checking the card…</p>' : '');
+  return `<article class="mod-card" data-member="${esc(m.id)}" data-status="${esc(m.status)}"><p class="member-card-name">${esc(m.name)}</p>` +
+    `<p class="cm-idea-meta"><span>${esc(status)}</span><span>${m.emailVerified ? 'Email confirmed' : 'Email not confirmed yet'}</span><span>Domains: ${esc(m.domains.map(d => THEME_NAMES[d] || d).join(', '))}</span><span>Since ${esc(when(m.createdAt))}</span><span>No. ${esc(m.id)}</span></p>` +
+    (m.whatIf ? `<p class="cm-idea-text">${esc(m.whatIf)}</p>` : '') + (m.status === 'changes' && m.note ? `<p class="cm-help">Your note: ${esc(m.note)}</p>` : '') + check +
+    `<p class="mod-actions">${m.status !== 'approved' ? `<button class="button" data-mact="approve"${m.emailVerified ? '' : ' disabled title="Waiting for the member to confirm their email"'}>Approve card</button>` : ''}<button class="button cm-button-quiet" data-mact="changes">Ask for changes</button><button class="button cm-button-quiet" data-mact="remove">Remove member</button></p>` +
+    `<p class="cm-form-error" data-card-error role="alert" hidden></p></article>`;
+}
+async function loadMembers(root) {
+  const box = root.querySelector('[data-mod-members]');
+  if (!box) return;
+  const res = await fetch('/api/moderation/members', { cache: 'no-store' }).catch(() => null);
+  if (!res || !res.ok) { box.innerHTML = '<p class="cm-help">Member cards could not be loaded.</p>'; return; }
+  const { members, agent = { enabled: false } } = await res.json();
+  const waiting = members.filter(m => m.status === 'pending').length;
+  root.querySelector('[data-mod-members-count]').textContent = '(' + waiting + ' waiting · ' + members.length + ' total)';
+  box.innerHTML = members.length ? members.map(m => memberCard(m, agent)).join('') : '<p class="cm-help">No members yet.</p>';
+  if (agent.enabled) for (const m of members.filter(x => x.status === 'pending' && !x.check)) {
+    const el = box.querySelector(`[data-member="${CSS.escape(m.id)}"]`), note = el?.querySelector('[data-agent-note]');
+    const r = await post('member-check', { id: m.id }).catch(() => null);
+    const body = r ? await r.json().catch(() => ({})) : {};
+    if (!r || !r.ok) { if (note) note.textContent = body.error || 'The agent could not check this card.'; break; }
+    if (note) { note.className = 'mod-agent ' + (body.check.recommendation === 'reject' ? 'is-reject' : 'is-approve'); note.innerHTML = `<strong>Agent suggests: ${body.check.recommendation}.</strong> ${esc(body.check.reason || '')}`; }
+  }
+}
+
 async function load(root) {
   const err = root.querySelector('[data-mod-error]');
   const me = await fetch('/.auth/me').then(r => r.json()).catch(() => null);
@@ -94,7 +123,33 @@ export function initializeModeration(root = document) {
     if (ev.isTrusted) text.dataset.edited = 'yes';
     text.closest('.mod-reply').querySelector('[data-reply-count]').textContent = text.value.trim().length + ' / ' + REPLY_MAX;
   });
+  root.querySelector('[data-export-form]')?.addEventListener('submit', async ev => {
+    ev.preventDefault();
+    const status = root.querySelector('[data-export-status]');
+    status.textContent = 'Preparing…';
+    const res = await post('member-export', { query: ev.target.query.value }).catch(() => null);
+    const body = res ? await res.json().catch(() => ({})) : {};
+    if (!res || !res.ok) { status.textContent = body.error || 'The export failed. Try again.'; return; }
+    const file = new Blob([JSON.stringify(body.export, null, 2)], { type: 'application/json' });
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(file); a.download = 'imagine-member-data-' + body.export.card.number + '.json';
+    document.body.append(a); a.click(); a.remove(); URL.revokeObjectURL(a.href);
+    status.textContent = 'Downloaded. Send this file to the member by email, then delete your copy.';
+    ev.target.reset();
+  });
   root.addEventListener('click', async ev => {
+    const mbtn = ev.target.closest('[data-mact]');
+    if (mbtn) {
+      const el = mbtn.closest('[data-member]'), act = mbtn.dataset.mact, error = el.querySelector('[data-card-error]');
+      let note = '';
+      if (act === 'changes') { note = window.prompt('What should the member change? (shown to them)', 'Please choose a different display name.'); if (note === null) return; }
+      if (act === 'remove' && mbtn.dataset.confirm !== 'yes') { mbtn.dataset.confirm = 'yes'; mbtn.textContent = 'Click again to remove permanently'; return; }
+      mbtn.disabled = true;
+      const res = await post('member-decision', { id: el.dataset.member, action: act, note }).catch(() => null);
+      if (!res || !res.ok) { mbtn.disabled = false; error.textContent = 'That did not work. Try again.'; error.hidden = false; return; }
+      loadMembers(root);
+      return;
+    }
     const btn = ev.target.closest('[data-act]');
     if (!btn) return;
     const el = btn.closest('[data-id]'), act = btn.dataset.act, error = el.querySelector('[data-card-error]');
@@ -113,6 +168,7 @@ export function initializeModeration(root = document) {
     load(root);
   });
   load(root);
+  loadMembers(root);
 }
 if (typeof document !== 'undefined') initializeModeration();
 

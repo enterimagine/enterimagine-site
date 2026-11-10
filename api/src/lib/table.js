@@ -86,3 +86,15 @@ export function createTableClient(connectionString, fetchImpl = fetch) {
 }
 
 export { quote as odataString };
+
+// Test environments keep their data in separate tables (e.g. prefix "test" -> "testideas").
+export function withTablePrefix(store, prefix) {
+  if (!prefix) return store;
+  if (!/^[a-z]{1,10}$/.test(prefix)) throw new Error('TABLE_PREFIX must be 1-10 lowercase letters.');
+  const t = name => prefix + name;
+  return {
+    insert: (table, e) => store.insert(t(table), e), upsert: (table, e) => store.upsert(t(table), e),
+    get: (table, pk, rk) => store.get(t(table), pk, rk), remove: (table, pk, rk) => store.remove(t(table), pk, rk),
+    query: (table, filter, limit) => store.query(t(table), filter, limit)
+  };
+}

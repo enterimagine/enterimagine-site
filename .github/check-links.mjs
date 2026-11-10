@@ -41,6 +41,14 @@ for (const slug of dirs) {
   }
 }
 
+// Links that fail only for cloud servers but were opened by hand and work. Listed with the date of that check;
+// they count as warnings, so a red job always means a new problem. Re-check them now and then.
+const verifiedByHand = new Map([
+  ['https://epa.gov/climate-indicators/closer-look-heat-related-workplace-deaths', '2026-11-09'],
+  ['https://www.fda.gov/drugs/guidances-drugs/development-new-stereoisomeric-drugs', '2026-11-09'],
+  ['https://www.nippon.com/en/news/yjj2026042100297/', '2026-11-09'],
+  ['https://www.nippon.com/en/news/yjj2026100200125/', '2026-11-09']
+]);
 const ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36';
 async function probe(url) {
   for (let attempt = 0; attempt < 2; attempt++) {
@@ -64,9 +72,9 @@ await Promise.all(Array.from({ length: 8 }, async () => {
 }));
 urls.forEach((url, i) => {
   const status = results[i], pages = external.get(url).join(', ');
-  const blocked = status === 'timeout' || status === 'connection refused' || [401, 403, 405, 406, 429, 451, 999].includes(status);
+  const blocked = verifiedByHand.has(url) || status === 'timeout' || status === 'connection refused' || [401, 403, 405, 406, 429, 451, 999].includes(status);
   const ok = typeof status === 'number' && status < 400;
-  const verdict = ok ? 'ok' : blocked ? 'blocked (check by hand)' : 'BROKEN';
+  const verdict = ok ? 'ok' : verifiedByHand.has(url) ? 'blocked (opened by hand ' + verifiedByHand.get(url) + ')' : blocked ? 'blocked (check by hand)' : 'BROKEN';
   if (!ok) (blocked ? warnings : errors).push(`${pages}: ${status} ${url}`);
   rows.push(`| ${verdict} | ${status} | ${url} | ${pages} |`);
 });

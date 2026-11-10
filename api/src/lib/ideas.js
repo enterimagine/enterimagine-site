@@ -27,7 +27,7 @@ export function validateSubmission(input, now = Date.now()) {
   if (text.length > LIMITS.textMax) return { error: `Please keep your idea under ${LIMITS.textMax} characters.` };
   if (LINKISH.test(text) || LINKISH.test(name)) return { error: 'Please leave out links and email addresses.' };
   if (name.length > LIMITS.nameMax) return { error: `Please keep the name under ${LIMITS.nameMax} characters.` };
-  if (name && !/^[\p{L}\p{M}0-9 .'’-]+$/u.test(name)) return { error: 'Please use letters, numbers and spaces in the name.' };
+  if (name && !/^[\p{L}\p{M}0-9 ._'’-]+$/u.test(name)) return { error: 'Display name: use only letters, numbers, spaces and the signs . - _ \' (for example Sam_K or Maya-23).' };
   const themes = Array.isArray(input.themes) ? [...new Set(input.themes.map(String))] : [];
   if (!themes.length || themes.length > 3 || themes.some(t => !THEMES.includes(t))) return { error: 'Please choose one to three themes.' };
   if (input.consent !== true) return { error: 'Please confirm that your idea and display name may be shown publicly.' };
@@ -36,7 +36,8 @@ export function validateSubmission(input, now = Date.now()) {
 
 const themesOf = e => String(e.themes || '').split(',').filter(Boolean);
 const publicIdea = e => ({ id: e.RowKey, text: e.text, name: e.name || '', themes: themesOf(e), approvedAt: e.approvedAt,
-  ...(e.replyText && MINDS[e.replyMind] ? { reply: { mind: e.replyMind, text: e.replyText } } : {}) });
+  ...(e.replyText && MINDS[e.replyMind] ? { reply: { mind: e.replyMind, text: e.replyText } } : {}),
+  ...(e.memberId ? { memberId: e.memberId } : {}), ...(Number(e.sparkCount) > 0 ? { sparks: Number(e.sparkCount) } : {}) });
 const moderatorView = e => ({ ...publicIdea(e), status: e.status, createdAt: e.createdAt,
   ...(e.draftedAt ? { draft: { recommendation: e.draftRecommendation, reason: e.draftReason, mind: e.draftMind, reply: e.draftReply || '', at: e.draftedAt } } : {}) });
 
@@ -50,9 +51,9 @@ export function validateReply(input) {
   if (LINKISH.test(text)) return { error: 'Please leave links out of the reply.' };
   return { value: { mind, text } };
 }
-const withReply = (row, reply) => {
+const withReply = (row, reply, at = new Date().toISOString()) => {
   const next = { ...row };
-  if (reply) Object.assign(next, { replyMind: reply.mind, replyText: reply.text, replyAt: new Date().toISOString() });
+  if (reply) Object.assign(next, { replyMind: reply.mind, replyText: reply.text, replyAt: at });
   else { delete next.replyMind; delete next.replyText; delete next.replyAt; }
   return next;
 };
@@ -72,7 +73,7 @@ async function readJson(request) {
   try { return JSON.parse(text); } catch { return null; }
 }
 
-export function createHandlers(store, { secret, now = () => Date.now(), drafter = null, notifier = null }) {
+export function createHandlers(store, { secret, now = () => Date.now(), drafter = null, notifier = null, memberOf = null, onReply = null }) {
   if (!secret) throw new Error('Missing rate-limit secret.');
   const clientKey = request => {
     const ip = (request.headers.get('x-azure-clientip') || request.headers.get('x-forwarded-for') || 'unknown').split(',')[0].trim().replace(/:\d+$/, '');
@@ -103,8 +104,10 @@ export function createHandlers(store, { secret, now = () => Date.now(), drafter 
       // Rate-limit keys are pseudonymous and only needed for the current day: delete older days.
       for (const old of await store.query(RATE, `PartitionKey lt ${odataString(day)}`, 100)) await store.remove(RATE, old.PartitionKey, old.RowKey);
       const code = removalCode(), rowId = id(), ts = new Date(now()).toISOString();
-      await store.insert(IDEAS, { PartitionKey: PK, RowKey: rowId, status: 'pending', text: checked.value.text, name: checked.value.name,
-        themes: checked.value.themes.join(','), consentAt: ts, createdAt: ts, codeHash: sha256(code) });
+      // Signed-in members share under their card's name, and the idea is linked to their card.
+      const member = memberOf ? await memberOf(request).catch(() => null) : null;
+      await store.insert(IDEAS, { PartitionKey: PK, RowKey: rowId, status: 'pending', text: checked.value.text, name: member ? member.displayName : checked.value.name,
+        themes: checked.value.themes.join(','), consentAt: ts, createdAt: ts, codeHash: sha256(code), ...(member ? { memberId: member.RowKey } : {}) });
       if (notifier) await alertModerator(day).catch(() => {});
       return json(201, { ok: true, id: rowId, removalCode: code });
     },
@@ -164,11 +167,18 @@ export function createHandlers(store, { secret, now = () => Date.now(), drafter 
       if (reply.error) return err(400, reply.error);
       const row = await store.get(IDEAS, PK, rowId);
       if (!row) return err(404, 'This idea no longer exists.');
+      // A new or changed reply on a member's idea triggers a reply notice by email (if the member wants one).
+      const notify = async next => {
+        if (onReply && next.memberId && next.replyText && next.replyText !== row.replyText)
+          await onReply(next, request.headers.get('origin') || '').catch(() => {});
+      };
       if (action === 'approve') {
-        await store.upsert(IDEAS, withReply({ ...row, status: 'approved', approvedAt: new Date(now()).toISOString() }, reply.value));
+        const next = withReply({ ...row, status: 'approved', approvedAt: new Date(now()).toISOString() }, reply.value, new Date(now()).toISOString());
+        await store.upsert(IDEAS, next); await notify(next);
       } else if (action === 'reply') {
         if (row.status !== 'approved') return err(409, 'Approve the idea first.');
-        await store.upsert(IDEAS, withReply(row, reply.value));
+        const next = withReply(row, reply.value, new Date(now()).toISOString());
+        await store.upsert(IDEAS, next); await notify(next);
       } else {
         await store.remove(IDEAS, PK, rowId); // rejected and removed ideas are deleted, not archived
       }
