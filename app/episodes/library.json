@@ -5618,6 +5618,977 @@
    },
    "added": "2026-11-10",
    "voice": true
+  },
+  {
+   "id": "space-20261111",
+   "world": "space",
+   "guide": "Qubi",
+   "title": {
+    "en": "How does a rocket get all the way to space?",
+    "fr": "Comment une fusée arrive-t-elle jusque dans l’espace ?",
+    "nl": "Hoe komt een raket helemaal in de ruimte?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, how does a rocket get all the way up to space? It is super heavy!",
+     "fr": "Qubi, comment une fusée arrive-t-elle jusque dans l’espace ? Elle est super lourde !",
+     "nl": "Qubi, hoe komt een raket helemaal tot in de ruimte? Hij is superzwaar!",
+     "img": "Whyzz and Qubi look up at a big rocket on a launch pad"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I have a plan: we build a really, really tall ladder and just climb up there!",
+     "fr": "J’ai un plan : on construit une échelle très, très haute et on grimpe jusque là-haut !",
+     "nl": "Ik heb een plan: we bouwen een heel, heel hoge ladder en klimmen gewoon naar boven!",
+     "img": "Whyzz next to a silly ladder that reaches the clouds, Qubi laughs"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Ha, that would take ages! A rocket pushes hot gas down very hard and the gas shoves it up, like a balloon zooming away when you let it go.",
+     "fr": "Ha, ça prendrait une éternité ! Une fusée pousse très fort du gaz chaud vers le bas et ce gaz la pousse vers le haut, comme un ballon qui file quand tu le lâches.",
+     "nl": "Haha, dat duurt eeuwen! Een raket duwt heel hard hete gassen naar beneden en die duwen de raket omhoog, zoals een ballon die wegschiet als je hem loslaat.",
+     "img": "a rocket lifts off with flames pushing down while Whyzz lets go of a balloon"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Rockets carry their own oxygen to burn their fuel, because there is no air in space. When a fuel tank is empty, the rocket drops it to get lighter.",
+     "fr": "Les fusées emportent leur propre oxygène pour brûler leur carburant, car il n’y a pas d’air dans l’espace. Quand un réservoir est vide, la fusée le lâche pour être plus légère.",
+     "nl": "Raketten nemen hun eigen zuurstof mee om hun brandstof te verbranden, want in de ruimte is er geen lucht. Is een brandstoftank leeg, dan laat de raket hem vallen om lichter te worden.",
+     "img": "Qubi watches a rocket high in the sky drop its empty lower stage"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Did you know? To stay in space and circle Earth, a spacecraft must zoom at about 28,000 kilometers per hour. That is fast enough to go around the planet in about 90 minutes!",
+     "fr": "Le savais-tu ? Pour rester dans l’espace et tourner autour de la Terre, un vaisseau doit filer à environ 28 000 kilomètres par heure. Assez vite pour faire le tour de la planète en 90 minutes environ !",
+     "nl": "Wist je dat? Om in de ruimte rond de aarde te blijven draaien, moet een ruimtetuig zo’n 28.000 kilometer per uur gaan. Zo vlieg je in ongeveer 90 minuten rond de hele planeet!",
+     "img": "Qubi floats in a spacecraft looking at the Earth through a round window"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So a rocket pushes gas down to fly up and gets lighter on the way. If you could ride a rocket, what would you look at first?",
+     "fr": "Donc une fusée pousse du gaz vers le bas pour monter et s’allège en chemin. Si tu pouvais voyager en fusée, qu’est-ce que tu regarderais en premier ?",
+     "nl": "Een raket duwt dus gas naar beneden om omhoog te vliegen en wordt onderweg lichter. Als jij met een raket mocht meevliegen, waar zou je dan eerst naar kijken?",
+     "img": "Whyzz and Qubi in a cardboard rocket in a backyard at sunset, waving"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What does a rocket push down to go up?",
+      "fr": "Que pousse une fusée vers le bas pour monter ?",
+      "nl": "Wat duwt een raket naar beneden om omhoog te gaan?"
+     },
+     "o": {
+      "en": [
+       "Cold water",
+       "Hot gas",
+       "Feathers"
+      ],
+      "fr": [
+       "De l’eau froide",
+       "Du gaz chaud",
+       "Des plumes"
+      ],
+      "nl": [
+       "Koud water",
+       "Hete gassen",
+       "Veren"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Which toy zooms away a bit like a rocket?",
+      "fr": "Quel jouet file un peu comme une fusée ?",
+      "nl": "Welk speelgoed schiet weg, een beetje zoals een raket?"
+     },
+     "o": {
+      "en": [
+       "A balloon you let go",
+       "A teddy bear",
+       "A puzzle"
+      ],
+      "fr": [
+       "Un ballon que tu lâches",
+       "Un ours en peluche",
+       "Un puzzle"
+      ],
+      "nl": [
+       "Een ballon die je loslaat",
+       "Een teddybeer",
+       "Een puzzel"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why do rockets carry their own oxygen?",
+      "fr": "Pourquoi les fusées emportent-elles leur propre oxygène ?",
+      "nl": "Waarom nemen raketten hun eigen zuurstof mee?"
+     },
+     "o": {
+      "en": [
+       "To blow bubbles",
+       "To water plants",
+       "There is no air in space"
+      ],
+      "fr": [
+       "Pour faire des bulles",
+       "Pour arroser des plantes",
+       "Il n’y a pas d’air dans l’espace"
+      ],
+      "nl": [
+       "Om bellen te blazen",
+       "Om planten water te geven",
+       "In de ruimte is er geen lucht"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Why does a rocket drop its empty tanks?",
+      "fr": "Pourquoi une fusée lâche-t-elle ses réservoirs vides ?",
+      "nl": "Waarom laat een raket zijn lege tanks vallen?"
+     },
+     "o": {
+      "en": [
+       "To make music",
+       "To get lighter",
+       "To say goodbye"
+      ],
+      "fr": [
+       "Pour faire de la musique",
+       "Pour être plus légère",
+       "Pour dire au revoir"
+      ],
+      "nl": [
+       "Om muziek te maken",
+       "Om lichter te worden",
+       "Om dag te zeggen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "About how long does a spacecraft take to circle Earth once?",
+      "fr": "En combien de temps environ un vaisseau fait-il le tour de la Terre ?",
+      "nl": "Hoelang doet een ruimtetuig ongeveer over één rondje rond de aarde?"
+     },
+     "o": {
+      "en": [
+       "About 90 minutes",
+       "About 90 days",
+       "About 9 years"
+      ],
+      "fr": [
+       "Environ 90 minutes",
+       "Environ 90 jours",
+       "Environ 9 ans"
+      ],
+      "nl": [
+       "Ongeveer 90 minuten",
+       "Ongeveer 90 dagen",
+       "Ongeveer 9 jaar"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "Ready for launch",
+     "fr": "Prêts pour le décollage",
+     "nl": "Klaar voor de lancering"
+    },
+    "intro": {
+     "en": "Put the rocket’s trip in the right order.",
+     "fr": "Remets le voyage de la fusée dans le bon ordre.",
+     "nl": "Zet de reis van de raket in de juiste volgorde."
+    },
+    "done": {
+     "en": "Liftoff! Great job, space explorer!",
+     "fr": "Décollage ! Bravo, explorateur de l’espace !",
+     "nl": "Lancering gelukt! Goed gedaan, ruimteverkenner!"
+    },
+    "items": {
+     "en": [
+      "Fill the tanks with fuel and oxygen",
+      "Count down: 3, 2, 1, 0!",
+      "The engines push hot gas down",
+      "The rocket lifts off",
+      "Empty tanks drop away",
+      "The spacecraft circles Earth"
+     ],
+     "fr": [
+      "Remplir les réservoirs de carburant et d’oxygène",
+      "Compte à rebours : 3, 2, 1, 0 !",
+      "Les moteurs poussent du gaz chaud vers le bas",
+      "La fusée décolle",
+      "Les réservoirs vides se détachent",
+      "Le vaisseau tourne autour de la Terre"
+     ],
+     "nl": [
+      "De tanks vullen met brandstof en zuurstof",
+      "Aftellen: 3, 2, 1, 0!",
+      "De motoren duwen hete gassen naar beneden",
+      "De raket stijgt op",
+      "Lege tanks vallen af",
+      "Het ruimtetuig draait rond de aarde"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Space",
+    "fr": "Espace",
+    "nl": "Ruimte"
+   },
+   "adult": {
+    "en": "For grown-ups: the Space world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Espace dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Ruimte in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-11",
+   "voice": true
+  },
+  {
+   "id": "mobility-20261111",
+   "world": "mobility",
+   "guide": "Sunny",
+   "title": {
+    "en": "How can a car drive by itself?",
+    "fr": "Comment une voiture peut-elle rouler toute seule ?",
+    "nl": "Hoe kan een auto zelf rijden?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, I just saw a car drive past with nobody holding the steering wheel! How can a car drive by itself?",
+     "fr": "Sunny, je viens de voir passer une voiture où personne ne tenait le volant ! Comment une voiture peut-elle rouler toute seule ?",
+     "nl": "Sunny, ik zag net een auto voorbijrijden en niemand hield het stuur vast! Hoe kan een auto zelf rijden?",
+     "img": "Whyzz points at a self-driving car with an empty driver seat, Sunny smiles"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I know! A tiny invisible driver is hiding in the glove box and steering with a remote control.",
+     "fr": "Je sais ! Un minuscule chauffeur invisible se cache dans la boîte à gants et conduit avec une télécommande.",
+     "nl": "Ik weet het! Een piepklein onzichtbaar chauffeurtje zit verstopt in het handschoenenkastje en stuurt met een afstandsbediening.",
+     "img": "Whyzz peeks into a glove box with a tiny toy driver, Sunny laughs"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Ha, no tiny driver! The car has cameras all around that see lanes, signs and traffic lights, like eyes looking in every direction at once.",
+     "fr": "Ha, pas de mini chauffeur ! La voiture a des caméras tout autour qui voient les lignes, les panneaux et les feux, comme des yeux qui regardent partout à la fois.",
+     "nl": "Haha, geen mini-chauffeur! De auto heeft overal camera’s die rijstroken, borden en verkeerslichten zien, zoals ogen die alle kanten tegelijk op kijken.",
+     "img": "Sunny points at the small cameras on the car that see lanes and traffic lights"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Radar sends out radio waves and a laser scanner sends out light. They bounce back, so the car knows how far away cars and people are, like a bat listening to its echo.",
+     "fr": "Le radar envoie des ondes radio et un scanner laser envoie de la lumière. Elles rebondissent et la voiture sait à quelle distance sont les voitures et les gens, comme une chauve-souris qui écoute son écho.",
+     "nl": "Radar stuurt radiogolven uit en een laserscanner stuurt licht uit. Dat kaatst terug, zodat de auto weet hoe ver andere auto’s en mensen zijn, zoals een vleermuis die naar haar echo luistert.",
+     "img": "waves and light beams bounce off a cyclist while a cute bat flies above"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "A computer, the car’s brain, mixes all these clues and decides to steer, speed up or brake. Did you know? A spinning laser scanner can measure over a million dots every second!",
+     "fr": "Un ordinateur, le cerveau de la voiture, rassemble tous ces indices et décide de tourner, d’accélérer ou de freiner. Le savais-tu ? Un scanner laser qui tourne peut mesurer plus d’un million de points par seconde !",
+     "nl": "Een computer, het brein van de auto, zet al die aanwijzingen samen en beslist: sturen, gas geven of remmen. Wist je dat? Een draaiende laserscanner kan meer dan een miljoen puntjes per seconde meten!",
+     "img": "Sunny next to a glowing computer brain in the car, dots of light map the street"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So sensors are the car’s eyes and ears and a computer is its brain. Where would you like a self-driving car to take you?",
+     "fr": "Donc les capteurs sont les yeux et les oreilles de la voiture et l’ordinateur est son cerveau. Où aimerais-tu qu’une voiture autonome t’emmène ?",
+     "nl": "Sensoren zijn dus de ogen en oren van de auto en de computer is zijn brein. Waar zou jij graag naartoe willen met een zelfrijdende auto?",
+     "img": "Whyzz and Sunny wave from the back seat of a self-driving car by the sea"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What do the car’s cameras see?",
+      "fr": "Que voient les caméras de la voiture ?",
+      "nl": "Wat zien de camera’s van de auto?"
+     },
+     "o": {
+      "en": [
+       "The car’s engine",
+       "Lanes, signs and traffic lights",
+       "The songs on the radio"
+      ],
+      "fr": [
+       "Le moteur de la voiture",
+       "Les lignes, les panneaux et les feux",
+       "Les chansons à la radio"
+      ],
+      "nl": [
+       "De motor van de auto",
+       "Rijstroken, borden en verkeerslichten",
+       "De liedjes op de radio"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does radar send out?",
+      "fr": "Qu’envoie le radar ?",
+      "nl": "Wat stuurt radar uit?"
+     },
+     "o": {
+      "en": [
+       "Radio waves",
+       "Soap bubbles",
+       "Paper planes"
+      ],
+      "fr": [
+       "Des ondes radio",
+       "Des bulles de savon",
+       "Des avions en papier"
+      ],
+      "nl": [
+       "Radiogolven",
+       "Zeepbellen",
+       "Papieren vliegtuigjes"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Which animal also listens to echoes?",
+      "fr": "Quel animal écoute aussi les échos ?",
+      "nl": "Welk dier luistert ook naar echo’s?"
+     },
+     "o": {
+      "en": [
+       "A goldfish",
+       "A sheep",
+       "A bat"
+      ],
+      "fr": [
+       "Un poisson rouge",
+       "Un mouton",
+       "Une chauve-souris"
+      ],
+      "nl": [
+       "Een goudvis",
+       "Een schaap",
+       "Een vleermuis"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What is the car’s brain?",
+      "fr": "Quel est le cerveau de la voiture ?",
+      "nl": "Wat is het brein van de auto?"
+     },
+     "o": {
+      "en": [
+       "The steering wheel",
+       "The computer",
+       "The trunk"
+      ],
+      "fr": [
+       "Le volant",
+       "L’ordinateur",
+       "Le coffre"
+      ],
+      "nl": [
+       "Het stuur",
+       "De computer",
+       "De kofferbak"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How many dots can a spinning laser scanner measure every second?",
+      "fr": "Combien de points un scanner laser qui tourne peut-il mesurer par seconde ?",
+      "nl": "Hoeveel puntjes kan een draaiende laserscanner per seconde meten?"
+     },
+     "o": {
+      "en": [
+       "About ten",
+       "Exactly three",
+       "Over a million"
+      ],
+      "fr": [
+       "Environ dix",
+       "Exactement trois",
+       "Plus d’un million"
+      ],
+      "nl": [
+       "Ongeveer tien",
+       "Precies drie",
+       "Meer dan een miljoen"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "The car’s super senses",
+     "fr": "Les super-sens de la voiture",
+     "nl": "De superzintuigen van de auto"
+    },
+    "intro": {
+     "en": "Match each part of the car to its job.",
+     "fr": "Relie chaque partie de la voiture à son travail.",
+     "nl": "Koppel elk onderdeel van de auto aan zijn taak."
+    },
+    "done": {
+     "en": "Great driving, sensor expert!",
+     "fr": "Bravo, expert des capteurs !",
+     "nl": "Goed gedaan, sensorexpert!"
+    },
+    "left": {
+     "en": [
+      "Camera",
+      "Radar",
+      "Laser scanner",
+      "Computer"
+     ],
+     "fr": [
+      "La caméra",
+      "Le radar",
+      "Le scanner laser",
+      "L’ordinateur"
+     ],
+     "nl": [
+      "Camera",
+      "Radar",
+      "Laserscanner",
+      "Computer"
+     ]
+    },
+    "right": {
+     "en": [
+      "Sees lanes and traffic lights",
+      "Uses radio waves to find other cars",
+      "Builds a 3D picture with dots of light",
+      "Decides to steer, speed up or brake"
+     ],
+     "fr": [
+      "Voit les lignes et les feux",
+      "Utilise des ondes radio pour trouver les autres voitures",
+      "Construit une image en 3D avec des points de lumière",
+      "Décide de tourner, d’accélérer ou de freiner"
+     ],
+     "nl": [
+      "Ziet rijstroken en verkeerslichten",
+      "Gebruikt radiogolven om andere auto’s te vinden",
+      "Maakt een 3D-beeld met lichtpuntjes",
+      "Beslist: sturen, gas geven of remmen"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Smart Mobility",
+    "fr": "Mobilité",
+    "nl": "Slimme mobiliteit"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Mobility world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Mobilité dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme mobiliteit in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-11",
+   "voice": true
+  },
+  {
+   "id": "cities-20261111",
+   "world": "cities",
+   "guide": "Pixel",
+   "title": {
+    "en": "How can food grow inside a building?",
+    "fr": "Comment des légumes peuvent-ils pousser dans un immeuble ?",
+    "nl": "Hoe kan groente groeien in een gebouw?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, the box of my salad says it grew inside a building in the city. How can food grow inside a building?",
+     "fr": "Pixel, sur la boîte de ma salade, c’est écrit qu’elle a poussé dans un immeuble en ville. Comment des légumes peuvent-ils pousser dans un immeuble ?",
+     "nl": "Pixel, op het doosje van mijn sla staat dat hij in een gebouw in de stad is gegroeid. Hoe kan groente groeien in een gebouw?",
+     "img": "Whyzz holds a salad box, Pixel points at a tall building full of plants"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Oh, I get it! The cows take the elevator up to the tenth floor every morning.",
+     "fr": "Ah, j’ai compris ! Les vaches prennent l’ascenseur jusqu’au dixième étage tous les matins.",
+     "nl": "O, ik snap het al! De koeien nemen elke ochtend de lift naar de tiende verdieping.",
+     "img": "a happy cow rides a glass elevator, Whyzz and Pixel laugh"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, no cows up there, just plants! In a vertical farm, plants grow on shelves stacked up high, like a giant bookcase full of lettuce.",
+     "fr": "Ha, pas de vaches là-haut, seulement des plantes ! Dans une ferme verticale, les plantes poussent sur des étagères empilées très haut, comme une bibliothèque géante remplie de salades.",
+     "nl": "Haha, geen koeien daarboven, alleen planten! In een verticale boerderij groeien planten op hoge, gestapelde rekken, zoals een reuzenboekenkast vol sla.",
+     "img": "Pixel and Whyzz walk between tall stacked shelves of lettuce"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Instead of soil, the roots sit in water with plant food mixed in. Pink-purple lamps give red and blue light, the colors plants love most.",
+     "fr": "Au lieu de la terre, les racines trempent dans de l’eau mélangée à de la nourriture pour plantes. Des lampes rose-violet donnent de la lumière rouge et bleue, les couleurs que les plantes préfèrent.",
+     "nl": "In plaats van aarde staan de wortels in water met plantenvoeding erin. Roze-paarse lampen geven rood en blauw licht, de kleuren waar planten het meest van houden.",
+     "img": "Pixel shows plant roots in water under pink-purple lamps"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know? A vertical farm can use up to 90 percent less water than a field, because the water flows round and round and gets used again!",
+     "fr": "Le savais-tu ? Une ferme verticale peut utiliser jusqu’à 90 pour cent d’eau en moins qu’un champ, parce que l’eau tourne en boucle et sert encore et encore !",
+     "nl": "Wist je dat? Een verticale boerderij kan tot 90 procent minder water gebruiken dan een akker, want het water stroomt rond en wordt steeds opnieuw gebruikt!",
+     "img": "Pixel next to a loop of clear pipes carrying water to the plants"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So stacked shelves, water and special lamps grow fresh food right in the city, in any weather. What would you grow in your own tower farm?",
+     "fr": "Donc des étagères empilées, de l’eau et des lampes spéciales font pousser des légumes frais en pleine ville, par tous les temps. Qu’est-ce que tu ferais pousser dans ta propre ferme-tour ?",
+     "nl": "Gestapelde rekken, water en speciale lampen laten dus verse groente groeien midden in de stad, bij elk weer. Wat zou jij kweken in je eigen torenboerderij?",
+     "img": "Whyzz and Pixel on a rooftop next to a small tower of plant pots, waving"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Where do plants grow in a vertical farm?",
+      "fr": "Où poussent les plantes dans une ferme verticale ?",
+      "nl": "Waar groeien de planten in een verticale boerderij?"
+     },
+     "o": {
+      "en": [
+       "On stacked shelves",
+       "On the roof of a car",
+       "Inside a fridge"
+      ],
+      "fr": [
+       "Sur des étagères empilées",
+       "Sur le toit d’une voiture",
+       "Dans un frigo"
+      ],
+      "nl": [
+       "Op gestapelde rekken",
+       "Op het dak van een auto",
+       "In een koelkast"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What do the roots sit in instead of soil?",
+      "fr": "Dans quoi trempent les racines au lieu de la terre ?",
+      "nl": "Waar staan de wortels in, in plaats van aarde?"
+     },
+     "o": {
+      "en": [
+       "Sand",
+       "Water with plant food",
+       "Orange juice"
+      ],
+      "fr": [
+       "Dans du sable",
+       "Dans de l’eau avec de la nourriture pour plantes",
+       "Dans du jus d’orange"
+      ],
+      "nl": [
+       "In zand",
+       "In water met plantenvoeding",
+       "In sinaasappelsap"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Which colors of light do plants love most?",
+      "fr": "Quelles couleurs de lumière les plantes préfèrent-elles ?",
+      "nl": "Van welke kleuren licht houden planten het meest?"
+     },
+     "o": {
+      "en": [
+       "Black and white",
+       "Gold and silver",
+       "Red and blue"
+      ],
+      "fr": [
+       "Le noir et le blanc",
+       "L’or et l’argent",
+       "Le rouge et le bleu"
+      ],
+      "nl": [
+       "Zwart en wit",
+       "Goud en zilver",
+       "Rood en blauw"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Why does a vertical farm use less water?",
+      "fr": "Pourquoi une ferme verticale utilise-t-elle moins d’eau ?",
+      "nl": "Waarom gebruikt een verticale boerderij minder water?"
+     },
+     "o": {
+      "en": [
+       "The plants never drink",
+       "The water is used again and again",
+       "It only rains inside"
+      ],
+      "fr": [
+       "Les plantes ne boivent jamais",
+       "L’eau sert encore et encore",
+       "Il ne pleut qu’à l’intérieur"
+      ],
+      "nl": [
+       "De planten drinken nooit",
+       "Het water wordt steeds opnieuw gebruikt",
+       "Het regent alleen binnen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Who takes the elevator in Whyzz’s silly guess?",
+      "fr": "Qui prend l’ascenseur dans l’idée rigolote de Whyzz ?",
+      "nl": "Wie neemt de lift in het grappige idee van Whyzz?"
+     },
+     "o": {
+      "en": [
+       "Cows",
+       "Robots",
+       "Fish"
+      ],
+      "fr": [
+       "Des vaches",
+       "Des robots",
+       "Des poissons"
+      ],
+      "nl": [
+       "Koeien",
+       "Robots",
+       "Vissen"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "What does a plant need?",
+     "fr": "De quoi une plante a-t-elle besoin ?",
+     "nl": "Wat heeft een plant nodig?"
+    },
+    "intro": {
+     "en": "A vertical farm gives plants everything they need. Pick all of them.",
+     "fr": "Une ferme verticale donne aux plantes tout ce dont elles ont besoin. Choisis tout ce qu’il faut.",
+     "nl": "Een verticale boerderij geeft planten alles wat ze nodig hebben. Kies alles wat nodig is."
+    },
+    "done": {
+     "en": "Super farming, city gardener!",
+     "fr": "Bravo, jardinier de la ville !",
+     "nl": "Super gekweekt, stadstuinier!"
+    },
+    "items": {
+     "en": [
+      "Light",
+      "A tiny umbrella",
+      "Water",
+      "Chocolate milk",
+      "Plant food",
+      "A video game",
+      "Air"
+     ],
+     "fr": [
+      "De la lumière",
+      "Un mini parapluie",
+      "De l’eau",
+      "Du lait au chocolat",
+      "De la nourriture pour plantes",
+      "Un jeu vidéo",
+      "De l’air"
+     ],
+     "nl": [
+      "Licht",
+      "Een mini-paraplu",
+      "Water",
+      "Chocolademelk",
+      "Plantenvoeding",
+      "Een videogame",
+      "Lucht"
+     ]
+    },
+    "good": [
+     0,
+     2,
+     4,
+     6
+    ]
+   },
+   "worldName": {
+    "en": "Smart Cities",
+    "fr": "Villes intelligentes",
+    "nl": "Slimme steden"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Cities world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Villes intelligentes dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme steden in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-11",
+   "voice": true
+  },
+  {
+   "id": "innovation-20261111",
+   "world": "innovation",
+   "guide": "Whyzz",
+   "title": {
+    "en": "How does a 3D printer make toys?",
+    "fr": "Comment une imprimante 3D fabrique-t-elle des jouets ?",
+    "nl": "Hoe maakt een 3D-printer speelgoed?"
+   },
+   "scenes": [
+    {
+     "speaker": "Pixel",
+     "en": "Whyzz, you say a machine printed this little dinosaur toy? But printers only print on paper!",
+     "fr": "Whyzz, tu dis qu’une machine a imprimé ce petit dinosaure ? Mais les imprimantes, ça imprime seulement sur du papier !",
+     "nl": "Whyzz, zeg je nu dat een machine dit kleine dinosaurusje heeft geprint? Maar printers printen toch alleen op papier!",
+     "img": "Pixel holds a toy dinosaur, Whyzz stands proudly next to a 3D printer"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "This printer is special! I asked it for a pizza first, but it only prints plastic. Not very tasty!",
+     "fr": "Cette imprimante est spéciale ! Je lui ai d’abord demandé une pizza, mais elle n’imprime que du plastique. Pas très bon !",
+     "nl": "Deze printer is speciaal! Ik vroeg eerst om een pizza, maar hij print alleen plastic. Niet zo lekker!",
+     "img": "Whyzz holds an empty pizza plate next to the printer, Pixel laughs"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "A 3D printer melts a thin plastic string, a bit like a hot glue gun. It draws one flat layer, then another one on top, like stacking super thin pancakes.",
+     "fr": "Une imprimante 3D fait fondre un fin fil de plastique, un peu comme un pistolet à colle chaude. Elle dessine une couche plate, puis une autre par-dessus, comme une pile de crêpes super fines.",
+     "nl": "Een 3D-printer smelt een dun plastic draadje, een beetje zoals een lijmpistool. Hij tekent één platte laag en dan nog een erbovenop, zoals een stapel superdunne pannenkoeken.",
+     "img": "the printer nozzle draws a layer of melted plastic next to a stack of pancakes"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "First you design the shape on a computer. The computer slices it into hundreds of thin layers and the printer builds them one by one, from bottom to top.",
+     "fr": "D’abord, tu dessines la forme sur un ordinateur. L’ordinateur la découpe en centaines de fines couches et l’imprimante les construit une par une, de bas en haut.",
+     "nl": "Eerst ontwerp je de vorm op een computer. De computer snijdt hem in honderden dunne laagjes en de printer bouwt ze een voor een, van onder naar boven.",
+     "img": "Whyzz points at a screen with a toy rocket cut into slices"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know? Some giant 3D printers can print the walls of a small house, using a special kind of concrete instead of plastic!",
+     "fr": "Le savais-tu ? Certaines imprimantes 3D géantes peuvent imprimer les murs d’une petite maison, avec une sorte de béton spécial au lieu du plastique !",
+     "nl": "Wist je dat? Sommige reuzegrote 3D-printers kunnen de muren van een klein huis printen, met speciaal beton in plaats van plastic!",
+     "img": "Pixel in a hard hat watches a giant printer build the walls of a small house"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So a 3D printer builds things layer by layer, like a tower of pancakes. If you had one, what would you invent and print first?",
+     "fr": "Donc une imprimante 3D construit les objets couche par couche, comme une tour de crêpes. Si tu en avais une, qu’est-ce que tu inventerais et imprimerais en premier ?",
+     "nl": "Een 3D-printer bouwt dingen dus laagje voor laagje, zoals een toren pannenkoeken. Als jij er een had, wat zou je dan als eerste uitvinden en printen?",
+     "img": "Whyzz and Pixel cheer among fun 3D printed inventions"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What does a 3D printer melt?",
+      "fr": "Que fait fondre une imprimante 3D ?",
+      "nl": "Wat smelt een 3D-printer?"
+     },
+     "o": {
+      "en": [
+       "Ice cubes",
+       "A thin plastic string",
+       "Chocolate bars"
+      ],
+      "fr": [
+       "Des glaçons",
+       "Un fin fil de plastique",
+       "Des barres de chocolat"
+      ],
+      "nl": [
+       "IJsblokjes",
+       "Een dun plastic draadje",
+       "Chocoladerepen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What are the layers of a 3D print like?",
+      "fr": "À quoi ressemblent les couches d’une impression 3D ?",
+      "nl": "Waar lijken de laagjes van een 3D-print op?"
+     },
+     "o": {
+      "en": [
+       "Super thin pancakes",
+       "Big rocks",
+       "Wet socks"
+      ],
+      "fr": [
+       "À des crêpes super fines",
+       "À de gros rochers",
+       "À des chaussettes mouillées"
+      ],
+      "nl": [
+       "Superdunne pannenkoeken",
+       "Grote rotsen",
+       "Natte sokken"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Where do you design the shape first?",
+      "fr": "Où dessines-tu la forme en premier ?",
+      "nl": "Waar ontwerp je de vorm eerst?"
+     },
+     "o": {
+      "en": [
+       "On a sandwich",
+       "On the ceiling",
+       "On a computer"
+      ],
+      "fr": [
+       "Sur un sandwich",
+       "Au plafond",
+       "Sur un ordinateur"
+      ],
+      "nl": [
+       "Op een boterham",
+       "Op het plafond",
+       "Op een computer"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "In which direction does the printer build the layers?",
+      "fr": "Dans quel sens l’imprimante construit-elle les couches ?",
+      "nl": "In welke richting bouwt de printer de laagjes?"
+     },
+     "o": {
+      "en": [
+       "From top to bottom",
+       "From bottom to top",
+       "Only from left to right"
+      ],
+      "fr": [
+       "De haut en bas",
+       "De bas en haut",
+       "Seulement de gauche à droite"
+      ],
+      "nl": [
+       "Van boven naar onder",
+       "Van onder naar boven",
+       "Alleen van links naar rechts"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What can some giant 3D printers print?",
+      "fr": "Que peuvent imprimer certaines imprimantes 3D géantes ?",
+      "nl": "Wat kunnen sommige reuzegrote 3D-printers printen?"
+     },
+     "o": {
+      "en": [
+       "A real pizza",
+       "A rainbow",
+       "The walls of a small house"
+      ],
+      "fr": [
+       "Une vraie pizza",
+       "Un arc-en-ciel",
+       "Les murs d’une petite maison"
+      ],
+      "nl": [
+       "Een echte pizza",
+       "Een regenboog",
+       "De muren van een klein huis"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "From idea to toy",
+     "fr": "De l’idée au jouet",
+     "nl": "Van idee tot speelgoed"
+    },
+    "intro": {
+     "en": "Put the 3D printing steps in the right order.",
+     "fr": "Remets les étapes de l’impression 3D dans le bon ordre.",
+     "nl": "Zet de stappen van het 3D-printen in de juiste volgorde."
+    },
+    "done": {
+     "en": "Printed! Great job, young inventor!",
+     "fr": "C’est imprimé ! Bravo, jeune inventeur !",
+     "nl": "Geprint! Goed gedaan, jonge uitvinder!"
+    },
+    "items": {
+     "en": [
+      "Design the shape on a computer",
+      "Slice it into thin layers",
+      "Melt the plastic string",
+      "Print the bottom layer",
+      "Stack layer after layer",
+      "Take out your new toy"
+     ],
+     "fr": [
+      "Dessiner la forme sur l’ordinateur",
+      "La découper en fines couches",
+      "Faire fondre le fil de plastique",
+      "Imprimer la couche du bas",
+      "Empiler couche après couche",
+      "Sortir ton nouveau jouet"
+     ],
+     "nl": [
+      "De vorm ontwerpen op de computer",
+      "Hem in dunne laagjes snijden",
+      "Het plastic draadje smelten",
+      "De onderste laag printen",
+      "Laag na laag stapelen",
+      "Je nieuwe speelgoed eruit halen"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Innovation",
+    "fr": "Innovation",
+    "nl": "Innovatie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Innovation world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Innovation dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Innovatie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-11",
+   "voice": true
   }
  ]
 }
