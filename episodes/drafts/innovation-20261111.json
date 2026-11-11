@@ -1,0 +1,233 @@
+{
+ "id": "innovation-20261111",
+ "world": "innovation",
+ "guide": "Whyzz",
+ "title": {
+  "en": "How does a 3D printer make toys?",
+  "fr": "Comment une imprimante 3D fabrique-t-elle des jouets ?",
+  "nl": "Hoe maakt een 3D-printer speelgoed?"
+ },
+ "scenes": [
+  {
+   "speaker": "Pixel",
+   "en": "Whyzz, you say a machine printed this little dinosaur toy? But printers only print on paper!",
+   "fr": "Whyzz, tu dis qu’une machine a imprimé ce petit dinosaure ? Mais les imprimantes, ça imprime seulement sur du papier !",
+   "nl": "Whyzz, zeg je nu dat een machine dit kleine dinosaurusje heeft geprint? Maar printers printen toch alleen op papier!",
+   "img": "Pixel holds a toy dinosaur, Whyzz stands proudly next to a 3D printer"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "This printer is special! I asked it for a pizza first, but it only prints plastic. Not very tasty!",
+   "fr": "Cette imprimante est spéciale ! Je lui ai d’abord demandé une pizza, mais elle n’imprime que du plastique. Pas très bon !",
+   "nl": "Deze printer is speciaal! Ik vroeg eerst om een pizza, maar hij print alleen plastic. Niet zo lekker!",
+   "img": "Whyzz holds an empty pizza plate next to the printer, Pixel laughs"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "A 3D printer melts a thin plastic string, a bit like a hot glue gun. It draws one flat layer, then another one on top, like stacking super thin pancakes.",
+   "fr": "Une imprimante 3D fait fondre un fin fil de plastique, un peu comme un pistolet à colle chaude. Elle dessine une couche plate, puis une autre par-dessus, comme une pile de crêpes super fines.",
+   "nl": "Een 3D-printer smelt een dun plastic draadje, een beetje zoals een lijmpistool. Hij tekent één platte laag en dan nog een erbovenop, zoals een stapel superdunne pannenkoeken.",
+   "img": "the printer nozzle draws a layer of melted plastic next to a stack of pancakes"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "First you design the shape on a computer. The computer slices it into hundreds of thin layers and the printer builds them one by one, from bottom to top.",
+   "fr": "D’abord, tu dessines la forme sur un ordinateur. L’ordinateur la découpe en centaines de fines couches et l’imprimante les construit une par une, de bas en haut.",
+   "nl": "Eerst ontwerp je de vorm op een computer. De computer snijdt hem in honderden dunne laagjes en de printer bouwt ze een voor een, van onder naar boven.",
+   "img": "Whyzz points at a screen with a toy rocket cut into slices"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know? Some giant 3D printers can print the walls of a small house, using a special kind of concrete instead of plastic!",
+   "fr": "Le savais-tu ? Certaines imprimantes 3D géantes peuvent imprimer les murs d’une petite maison, avec une sorte de béton spécial au lieu du plastique !",
+   "nl": "Wist je dat? Sommige reuzegrote 3D-printers kunnen de muren van een klein huis printen, met speciaal beton in plaats van plastic!",
+   "img": "Pixel in a hard hat watches a giant printer build the walls of a small house"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a 3D printer builds things layer by layer, like a tower of pancakes. If you had one, what would you invent and print first?",
+   "fr": "Donc une imprimante 3D construit les objets couche par couche, comme une tour de crêpes. Si tu en avais une, qu’est-ce que tu inventerais et imprimerais en premier ?",
+   "nl": "Een 3D-printer bouwt dingen dus laagje voor laagje, zoals een toren pannenkoeken. Als jij er een had, wat zou je dan als eerste uitvinden en printen?",
+   "img": "Whyzz and Pixel cheer among fun 3D printed inventions"
+  }
+ ],
+ "prompts": [
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge holds a small bright green toy dinosaur and looks puzzled, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands proudly next to a friendly boxy 3D printer machine on a workbench, colorful kid workshop with tools and shelves. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands next to a friendly boxy 3D printer with a funny disappointed face while holding an empty pizza plate, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs with her hand over her mouth, colorful kid workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge lean close to a 3D printer as its small hot nozzle draws a glowing layer of melted orange plastic, a half-finished toy rocket shows thin stacked layers, a plate with a tall stack of thin pancakes sits next to the printer. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge points at a big computer screen showing a simple toy rocket shape split into many thin colorful slices, no text on the screen, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge watches with interest, beside them a 3D printer builds the same rocket from the bottom up, colorful kid workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge wears a yellow hard hat and stands in front of a giant 3D printer on a sunny building site as it squeezes out curvy grey concrete walls of a small round house, amazed happy face. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge cheer with their arms up in a colorful kid workshop surrounded by fun 3D printed inventions, a toy robot, a spinning top and a little rocket, the friendly 3D printer beside them. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What does a 3D printer melt?",
+    "fr": "Que fait fondre une imprimante 3D ?",
+    "nl": "Wat smelt een 3D-printer?"
+   },
+   "o": {
+    "en": [
+     "Ice cubes",
+     "A thin plastic string",
+     "Chocolate bars"
+    ],
+    "fr": [
+     "Des glaçons",
+     "Un fin fil de plastique",
+     "Des barres de chocolat"
+    ],
+    "nl": [
+     "IJsblokjes",
+     "Een dun plastic draadje",
+     "Chocoladerepen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What are the layers of a 3D print like?",
+    "fr": "À quoi ressemblent les couches d’une impression 3D ?",
+    "nl": "Waar lijken de laagjes van een 3D-print op?"
+   },
+   "o": {
+    "en": [
+     "Super thin pancakes",
+     "Big rocks",
+     "Wet socks"
+    ],
+    "fr": [
+     "À des crêpes super fines",
+     "À de gros rochers",
+     "À des chaussettes mouillées"
+    ],
+    "nl": [
+     "Superdunne pannenkoeken",
+     "Grote rotsen",
+     "Natte sokken"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Where do you design the shape first?",
+    "fr": "Où dessines-tu la forme en premier ?",
+    "nl": "Waar ontwerp je de vorm eerst?"
+   },
+   "o": {
+    "en": [
+     "On a sandwich",
+     "On the ceiling",
+     "On a computer"
+    ],
+    "fr": [
+     "Sur un sandwich",
+     "Au plafond",
+     "Sur un ordinateur"
+    ],
+    "nl": [
+     "Op een boterham",
+     "Op het plafond",
+     "Op een computer"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "In which direction does the printer build the layers?",
+    "fr": "Dans quel sens l’imprimante construit-elle les couches ?",
+    "nl": "In welke richting bouwt de printer de laagjes?"
+   },
+   "o": {
+    "en": [
+     "From top to bottom",
+     "From bottom to top",
+     "Only from left to right"
+    ],
+    "fr": [
+     "De haut en bas",
+     "De bas en haut",
+     "Seulement de gauche à droite"
+    ],
+    "nl": [
+     "Van boven naar onder",
+     "Van onder naar boven",
+     "Alleen van links naar rechts"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What can some giant 3D printers print?",
+    "fr": "Que peuvent imprimer certaines imprimantes 3D géantes ?",
+    "nl": "Wat kunnen sommige reuzegrote 3D-printers printen?"
+   },
+   "o": {
+    "en": [
+     "A real pizza",
+     "A rainbow",
+     "The walls of a small house"
+    ],
+    "fr": [
+     "Une vraie pizza",
+     "Un arc-en-ciel",
+     "Les murs d’une petite maison"
+    ],
+    "nl": [
+     "Een echte pizza",
+     "Een regenboog",
+     "De muren van een klein huis"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "From idea to toy",
+   "fr": "De l’idée au jouet",
+   "nl": "Van idee tot speelgoed"
+  },
+  "intro": {
+   "en": "Put the 3D printing steps in the right order.",
+   "fr": "Remets les étapes de l’impression 3D dans le bon ordre.",
+   "nl": "Zet de stappen van het 3D-printen in de juiste volgorde."
+  },
+  "done": {
+   "en": "Printed! Great job, young inventor!",
+   "fr": "C’est imprimé ! Bravo, jeune inventeur !",
+   "nl": "Geprint! Goed gedaan, jonge uitvinder!"
+  },
+  "items": {
+   "en": [
+    "Design the shape on a computer",
+    "Slice it into thin layers",
+    "Melt the plastic string",
+    "Print the bottom layer",
+    "Stack layer after layer",
+    "Take out your new toy"
+   ],
+   "fr": [
+    "Dessiner la forme sur l’ordinateur",
+    "La découper en fines couches",
+    "Faire fondre le fil de plastique",
+    "Imprimer la couche du bas",
+    "Empiler couche après couche",
+    "Sortir ton nouveau jouet"
+   ],
+   "nl": [
+    "De vorm ontwerpen op de computer",
+    "Hem in dunne laagjes snijden",
+    "Het plastic draadje smelten",
+    "De onderste laag printen",
+    "Laag na laag stapelen",
+    "Je nieuwe speelgoed eruit halen"
+   ]
+  }
+ }
+}

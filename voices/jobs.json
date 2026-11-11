@@ -3454,5 +3454,437 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Dus de wind draait de wieken, de generator maakt stroom en kabels brengen die naar huis! Waar zou jij een windturbine bouwen?"
+ },
+ {
+  "id": "space-20261111-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, how does a rocket get all the way up to space? It is super heavy!"
+ },
+ {
+  "id": "space-20261111-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, comment une fusée arrive-t-elle jusque dans l’espace ? Elle est super lourde !"
+ },
+ {
+  "id": "space-20261111-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, hoe komt een raket helemaal tot in de ruimte? Hij is superzwaar!"
+ },
+ {
+  "id": "space-20261111-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I have a plan: we build a really, really tall ladder and just climb up there!"
+ },
+ {
+  "id": "space-20261111-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "J’ai un plan : on construit une échelle très, très haute et on grimpe jusque là-haut !"
+ },
+ {
+  "id": "space-20261111-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik heb een plan: we bouwen een heel, heel hoge ladder en klimmen gewoon naar boven!"
+ },
+ {
+  "id": "space-20261111-en-3",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Ha, that would take ages! A rocket pushes hot gas down very hard and the gas shoves it up, like a balloon zooming away when you let it go."
+ },
+ {
+  "id": "space-20261111-fr-3",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Ha, ça prendrait une éternité ! Une fusée pousse très fort du gaz chaud vers le bas et ce gaz la pousse vers le haut, comme un ballon qui file quand tu le lâches."
+ },
+ {
+  "id": "space-20261111-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Haha, dat duurt eeuwen! Een raket duwt heel hard hete gassen naar beneden en die duwen de raket omhoog, zoals een ballon die wegschiet als je hem loslaat."
+ },
+ {
+  "id": "space-20261111-en-4",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Rockets carry their own oxygen to burn their fuel, because there is no air in space. When a fuel tank is empty, the rocket drops it to get lighter."
+ },
+ {
+  "id": "space-20261111-fr-4",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Les fusées emportent leur propre oxygène pour brûler leur carburant, car il n’y a pas d’air dans l’espace. Quand un réservoir est vide, la fusée le lâche pour être plus légère."
+ },
+ {
+  "id": "space-20261111-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Raketten nemen hun eigen zuurstof mee om hun brandstof te verbranden, want in de ruimte is er geen lucht. Is een brandstoftank leeg, dan laat de raket hem vallen om lichter te worden."
+ },
+ {
+  "id": "space-20261111-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Did you know? To stay in space and circle Earth, a spacecraft must zoom at about 28,000 kilometers per hour. That is fast enough to go around the planet in about 90 minutes!"
+ },
+ {
+  "id": "space-20261111-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Le savais-tu ? Pour rester dans l’espace et tourner autour de la Terre, un vaisseau doit filer à environ 28 000 kilomètres par heure. Assez vite pour faire le tour de la planète en 90 minutes environ !"
+ },
+ {
+  "id": "space-20261111-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Wist je dat? Om in de ruimte rond de aarde te blijven draaien, moet een ruimtetuig zo’n 28.000 kilometer per uur gaan. Zo vlieg je in ongeveer 90 minuten rond de hele planeet!"
+ },
+ {
+  "id": "space-20261111-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a rocket pushes gas down to fly up and gets lighter on the way. If you could ride a rocket, what would you look at first?"
+ },
+ {
+  "id": "space-20261111-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc une fusée pousse du gaz vers le bas pour monter et s’allège en chemin. Si tu pouvais voyager en fusée, qu’est-ce que tu regarderais en premier ?"
+ },
+ {
+  "id": "space-20261111-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Een raket duwt dus gas naar beneden om omhoog te vliegen en wordt onderweg lichter. Als jij met een raket mocht meevliegen, waar zou je dan eerst naar kijken?"
+ },
+ {
+  "id": "mobility-20261111-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, I just saw a car drive past with nobody holding the steering wheel! How can a car drive by itself?"
+ },
+ {
+  "id": "mobility-20261111-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, je viens de voir passer une voiture où personne ne tenait le volant ! Comment une voiture peut-elle rouler toute seule ?"
+ },
+ {
+  "id": "mobility-20261111-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, ik zag net een auto voorbijrijden en niemand hield het stuur vast! Hoe kan een auto zelf rijden?"
+ },
+ {
+  "id": "mobility-20261111-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I know! A tiny invisible driver is hiding in the glove box and steering with a remote control."
+ },
+ {
+  "id": "mobility-20261111-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je sais ! Un minuscule chauffeur invisible se cache dans la boîte à gants et conduit avec une télécommande."
+ },
+ {
+  "id": "mobility-20261111-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik weet het! Een piepklein onzichtbaar chauffeurtje zit verstopt in het handschoenenkastje en stuurt met een afstandsbediening."
+ },
+ {
+  "id": "mobility-20261111-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no tiny driver! The car has cameras all around that see lanes, signs and traffic lights, like eyes looking in every direction at once."
+ },
+ {
+  "id": "mobility-20261111-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Ha, pas de mini chauffeur ! La voiture a des caméras tout autour qui voient les lignes, les panneaux et les feux, comme des yeux qui regardent partout à la fois."
+ },
+ {
+  "id": "mobility-20261111-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Haha, geen mini-chauffeur! De auto heeft overal camera’s die rijstroken, borden en verkeerslichten zien, zoals ogen die alle kanten tegelijk op kijken."
+ },
+ {
+  "id": "mobility-20261111-en-4",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Radar sends out radio waves and a laser scanner sends out light. They bounce back, so the car knows how far away cars and people are, like a bat listening to its echo."
+ },
+ {
+  "id": "mobility-20261111-fr-4",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Le radar envoie des ondes radio et un scanner laser envoie de la lumière. Elles rebondissent et la voiture sait à quelle distance sont les voitures et les gens, comme une chauve-souris qui écoute son écho."
+ },
+ {
+  "id": "mobility-20261111-nl-4",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Radar stuurt radiogolven uit en een laserscanner stuurt licht uit. Dat kaatst terug, zodat de auto weet hoe ver andere auto’s en mensen zijn, zoals een vleermuis die naar haar echo luistert."
+ },
+ {
+  "id": "mobility-20261111-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "A computer, the car’s brain, mixes all these clues and decides to steer, speed up or brake. Did you know? A spinning laser scanner can measure over a million dots every second!"
+ },
+ {
+  "id": "mobility-20261111-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Un ordinateur, le cerveau de la voiture, rassemble tous ces indices et décide de tourner, d’accélérer ou de freiner. Le savais-tu ? Un scanner laser qui tourne peut mesurer plus d’un million de points par seconde !"
+ },
+ {
+  "id": "mobility-20261111-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Een computer, het brein van de auto, zet al die aanwijzingen samen en beslist: sturen, gas geven of remmen. Wist je dat? Een draaiende laserscanner kan meer dan een miljoen puntjes per seconde meten!"
+ },
+ {
+  "id": "mobility-20261111-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So sensors are the car’s eyes and ears and a computer is its brain. Where would you like a self-driving car to take you?"
+ },
+ {
+  "id": "mobility-20261111-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les capteurs sont les yeux et les oreilles de la voiture et l’ordinateur est son cerveau. Où aimerais-tu qu’une voiture autonome t’emmène ?"
+ },
+ {
+  "id": "mobility-20261111-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sensoren zijn dus de ogen en oren van de auto en de computer is zijn brein. Waar zou jij graag naartoe willen met een zelfrijdende auto?"
+ },
+ {
+  "id": "cities-20261111-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, the box of my salad says it grew inside a building in the city. How can food grow inside a building?"
+ },
+ {
+  "id": "cities-20261111-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, sur la boîte de ma salade, c’est écrit qu’elle a poussé dans un immeuble en ville. Comment des légumes peuvent-ils pousser dans un immeuble ?"
+ },
+ {
+  "id": "cities-20261111-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, op het doosje van mijn sla staat dat hij in een gebouw in de stad is gegroeid. Hoe kan groente groeien in een gebouw?"
+ },
+ {
+  "id": "cities-20261111-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Oh, I get it! The cows take the elevator up to the tenth floor every morning."
+ },
+ {
+  "id": "cities-20261111-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Ah, j’ai compris ! Les vaches prennent l’ascenseur jusqu’au dixième étage tous les matins."
+ },
+ {
+  "id": "cities-20261111-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "O, ik snap het al! De koeien nemen elke ochtend de lift naar de tiende verdieping."
+ },
+ {
+  "id": "cities-20261111-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no cows up there, just plants! In a vertical farm, plants grow on shelves stacked up high, like a giant bookcase full of lettuce."
+ },
+ {
+  "id": "cities-20261111-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, pas de vaches là-haut, seulement des plantes ! Dans une ferme verticale, les plantes poussent sur des étagères empilées très haut, comme une bibliothèque géante remplie de salades."
+ },
+ {
+  "id": "cities-20261111-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, geen koeien daarboven, alleen planten! In een verticale boerderij groeien planten op hoge, gestapelde rekken, zoals een reuzenboekenkast vol sla."
+ },
+ {
+  "id": "cities-20261111-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Instead of soil, the roots sit in water with plant food mixed in. Pink-purple lamps give red and blue light, the colors plants love most."
+ },
+ {
+  "id": "cities-20261111-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Au lieu de la terre, les racines trempent dans de l’eau mélangée à de la nourriture pour plantes. Des lampes rose-violet donnent de la lumière rouge et bleue, les couleurs que les plantes préfèrent."
+ },
+ {
+  "id": "cities-20261111-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "In plaats van aarde staan de wortels in water met plantenvoeding erin. Roze-paarse lampen geven rood en blauw licht, de kleuren waar planten het meest van houden."
+ },
+ {
+  "id": "cities-20261111-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? A vertical farm can use up to 90 percent less water than a field, because the water flows round and round and gets used again!"
+ },
+ {
+  "id": "cities-20261111-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Une ferme verticale peut utiliser jusqu’à 90 pour cent d’eau en moins qu’un champ, parce que l’eau tourne en boucle et sert encore et encore !"
+ },
+ {
+  "id": "cities-20261111-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat? Een verticale boerderij kan tot 90 procent minder water gebruiken dan een akker, want het water stroomt rond en wordt steeds opnieuw gebruikt!"
+ },
+ {
+  "id": "cities-20261111-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So stacked shelves, water and special lamps grow fresh food right in the city, in any weather. What would you grow in your own tower farm?"
+ },
+ {
+  "id": "cities-20261111-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc des étagères empilées, de l’eau et des lampes spéciales font pousser des légumes frais en pleine ville, par tous les temps. Qu’est-ce que tu ferais pousser dans ta propre ferme-tour ?"
+ },
+ {
+  "id": "cities-20261111-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Gestapelde rekken, water en speciale lampen laten dus verse groente groeien midden in de stad, bij elk weer. Wat zou jij kweken in je eigen torenboerderij?"
+ },
+ {
+  "id": "innovation-20261111-en-1",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, you say a machine printed this little dinosaur toy? But printers only print on paper!"
+ },
+ {
+  "id": "innovation-20261111-fr-1",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, tu dis qu’une machine a imprimé ce petit dinosaure ? Mais les imprimantes, ça imprime seulement sur du papier !"
+ },
+ {
+  "id": "innovation-20261111-nl-1",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Whyzz, zeg je nu dat een machine dit kleine dinosaurusje heeft geprint? Maar printers printen toch alleen op papier!"
+ },
+ {
+  "id": "innovation-20261111-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "This printer is special! I asked it for a pizza first, but it only prints plastic. Not very tasty!"
+ },
+ {
+  "id": "innovation-20261111-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Cette imprimante est spéciale ! Je lui ai d’abord demandé une pizza, mais elle n’imprime que du plastique. Pas très bon !"
+ },
+ {
+  "id": "innovation-20261111-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Deze printer is speciaal! Ik vroeg eerst om een pizza, maar hij print alleen plastic. Niet zo lekker!"
+ },
+ {
+  "id": "innovation-20261111-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "A 3D printer melts a thin plastic string, a bit like a hot glue gun. It draws one flat layer, then another one on top, like stacking super thin pancakes."
+ },
+ {
+  "id": "innovation-20261111-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Une imprimante 3D fait fondre un fin fil de plastique, un peu comme un pistolet à colle chaude. Elle dessine une couche plate, puis une autre par-dessus, comme une pile de crêpes super fines."
+ },
+ {
+  "id": "innovation-20261111-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Een 3D-printer smelt een dun plastic draadje, een beetje zoals een lijmpistool. Hij tekent één platte laag en dan nog een erbovenop, zoals een stapel superdunne pannenkoeken."
+ },
+ {
+  "id": "innovation-20261111-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "First you design the shape on a computer. The computer slices it into hundreds of thin layers and the printer builds them one by one, from bottom to top."
+ },
+ {
+  "id": "innovation-20261111-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "D’abord, tu dessines la forme sur un ordinateur. L’ordinateur la découpe en centaines de fines couches et l’imprimante les construit une par une, de bas en haut."
+ },
+ {
+  "id": "innovation-20261111-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Eerst ontwerp je de vorm op een computer. De computer snijdt hem in honderden dunne laagjes en de printer bouwt ze een voor een, van onder naar boven."
+ },
+ {
+  "id": "innovation-20261111-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? Some giant 3D printers can print the walls of a small house, using a special kind of concrete instead of plastic!"
+ },
+ {
+  "id": "innovation-20261111-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Certaines imprimantes 3D géantes peuvent imprimer les murs d’une petite maison, avec une sorte de béton spécial au lieu du plastique !"
+ },
+ {
+  "id": "innovation-20261111-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat? Sommige reuzegrote 3D-printers kunnen de muren van een klein huis printen, met speciaal beton in plaats van plastic!"
+ },
+ {
+  "id": "innovation-20261111-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a 3D printer builds things layer by layer, like a tower of pancakes. If you had one, what would you invent and print first?"
+ },
+ {
+  "id": "innovation-20261111-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc une imprimante 3D construit les objets couche par couche, comme une tour de crêpes. Si tu en avais une, qu’est-ce que tu inventerais et imprimerais en premier ?"
+ },
+ {
+  "id": "innovation-20261111-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Een 3D-printer bouwt dingen dus laagje voor laagje, zoals een toren pannenkoeken. Als jij er een had, wat zou je dan als eerste uitvinden en printen?"
  }
 ]

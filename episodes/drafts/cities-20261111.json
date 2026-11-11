@@ -1,0 +1,242 @@
+{
+ "id": "cities-20261111",
+ "world": "cities",
+ "guide": "Pixel",
+ "title": {
+  "en": "How can food grow inside a building?",
+  "fr": "Comment des légumes peuvent-ils pousser dans un immeuble ?",
+  "nl": "Hoe kan groente groeien in een gebouw?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, the box of my salad says it grew inside a building in the city. How can food grow inside a building?",
+   "fr": "Pixel, sur la boîte de ma salade, c’est écrit qu’elle a poussé dans un immeuble en ville. Comment des légumes peuvent-ils pousser dans un immeuble ?",
+   "nl": "Pixel, op het doosje van mijn sla staat dat hij in een gebouw in de stad is gegroeid. Hoe kan groente groeien in een gebouw?",
+   "img": "Whyzz holds a salad box, Pixel points at a tall building full of plants"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Oh, I get it! The cows take the elevator up to the tenth floor every morning.",
+   "fr": "Ah, j’ai compris ! Les vaches prennent l’ascenseur jusqu’au dixième étage tous les matins.",
+   "nl": "O, ik snap het al! De koeien nemen elke ochtend de lift naar de tiende verdieping.",
+   "img": "a happy cow rides a glass elevator, Whyzz and Pixel laugh"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, no cows up there, just plants! In a vertical farm, plants grow on shelves stacked up high, like a giant bookcase full of lettuce.",
+   "fr": "Ha, pas de vaches là-haut, seulement des plantes ! Dans une ferme verticale, les plantes poussent sur des étagères empilées très haut, comme une bibliothèque géante remplie de salades.",
+   "nl": "Haha, geen koeien daarboven, alleen planten! In een verticale boerderij groeien planten op hoge, gestapelde rekken, zoals een reuzenboekenkast vol sla.",
+   "img": "Pixel and Whyzz walk between tall stacked shelves of lettuce"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Instead of soil, the roots sit in water with plant food mixed in. Pink-purple lamps give red and blue light, the colors plants love most.",
+   "fr": "Au lieu de la terre, les racines trempent dans de l’eau mélangée à de la nourriture pour plantes. Des lampes rose-violet donnent de la lumière rouge et bleue, les couleurs que les plantes préfèrent.",
+   "nl": "In plaats van aarde staan de wortels in water met plantenvoeding erin. Roze-paarse lampen geven rood en blauw licht, de kleuren waar planten het meest van houden.",
+   "img": "Pixel shows plant roots in water under pink-purple lamps"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know? A vertical farm can use up to 90 percent less water than a field, because the water flows round and round and gets used again!",
+   "fr": "Le savais-tu ? Une ferme verticale peut utiliser jusqu’à 90 pour cent d’eau en moins qu’un champ, parce que l’eau tourne en boucle et sert encore et encore !",
+   "nl": "Wist je dat? Een verticale boerderij kan tot 90 procent minder water gebruiken dan een akker, want het water stroomt rond en wordt steeds opnieuw gebruikt!",
+   "img": "Pixel next to a loop of clear pipes carrying water to the plants"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So stacked shelves, water and special lamps grow fresh food right in the city, in any weather. What would you grow in your own tower farm?",
+   "fr": "Donc des étagères empilées, de l’eau et des lampes spéciales font pousser des légumes frais en pleine ville, par tous les temps. Qu’est-ce que tu ferais pousser dans ta propre ferme-tour ?",
+   "nl": "Gestapelde rekken, water en speciale lampen laten dus verse groente groeien midden in de stad, bij elk weer. Wat zou jij kweken in je eigen torenboerderij?",
+   "img": "Whyzz and Pixel on a rooftop next to a small tower of plant pots, waving"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds up a fresh green salad box with a puzzled face in a sunny city kitchen, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge smiles and points out of a big window at a tall glass building in the city that is full of green plants inside. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "a happy cartoon cow rides inside a glass elevator going up the outside of a tall city building, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs and points at it, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge giggles next to him, bright sunny city street. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge walk through a bright indoor vertical farm between tall stacked shelves full of fresh green lettuce that reach up to the ceiling like a giant bookcase, amazed happy faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge kneels by a shelf in an indoor vertical farm and points at white plant roots dangling in clear flowing water, soft pink-purple lamps glow above rows of leafy greens, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks closely with curiosity. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands next to a shiny loop of clear pipes where blue water flows round and round to rows of green plants in an indoor vertical farm, she smiles proudly, glowing pink-purple lights. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stand on a city rooftop at sunset next to a small homemade tower of stacked plant pots full of strawberries, tomatoes and herbs, smiling and waving, city skyline behind them. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Where do plants grow in a vertical farm?",
+    "fr": "Où poussent les plantes dans une ferme verticale ?",
+    "nl": "Waar groeien de planten in een verticale boerderij?"
+   },
+   "o": {
+    "en": [
+     "On stacked shelves",
+     "On the roof of a car",
+     "Inside a fridge"
+    ],
+    "fr": [
+     "Sur des étagères empilées",
+     "Sur le toit d’une voiture",
+     "Dans un frigo"
+    ],
+    "nl": [
+     "Op gestapelde rekken",
+     "Op het dak van een auto",
+     "In een koelkast"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What do the roots sit in instead of soil?",
+    "fr": "Dans quoi trempent les racines au lieu de la terre ?",
+    "nl": "Waar staan de wortels in, in plaats van aarde?"
+   },
+   "o": {
+    "en": [
+     "Sand",
+     "Water with plant food",
+     "Orange juice"
+    ],
+    "fr": [
+     "Dans du sable",
+     "Dans de l’eau avec de la nourriture pour plantes",
+     "Dans du jus d’orange"
+    ],
+    "nl": [
+     "In zand",
+     "In water met plantenvoeding",
+     "In sinaasappelsap"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Which colors of light do plants love most?",
+    "fr": "Quelles couleurs de lumière les plantes préfèrent-elles ?",
+    "nl": "Van welke kleuren licht houden planten het meest?"
+   },
+   "o": {
+    "en": [
+     "Black and white",
+     "Gold and silver",
+     "Red and blue"
+    ],
+    "fr": [
+     "Le noir et le blanc",
+     "L’or et l’argent",
+     "Le rouge et le bleu"
+    ],
+    "nl": [
+     "Zwart en wit",
+     "Goud en zilver",
+     "Rood en blauw"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Why does a vertical farm use less water?",
+    "fr": "Pourquoi une ferme verticale utilise-t-elle moins d’eau ?",
+    "nl": "Waarom gebruikt een verticale boerderij minder water?"
+   },
+   "o": {
+    "en": [
+     "The plants never drink",
+     "The water is used again and again",
+     "It only rains inside"
+    ],
+    "fr": [
+     "Les plantes ne boivent jamais",
+     "L’eau sert encore et encore",
+     "Il ne pleut qu’à l’intérieur"
+    ],
+    "nl": [
+     "De planten drinken nooit",
+     "Het water wordt steeds opnieuw gebruikt",
+     "Het regent alleen binnen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Who takes the elevator in Whyzz’s silly guess?",
+    "fr": "Qui prend l’ascenseur dans l’idée rigolote de Whyzz ?",
+    "nl": "Wie neemt de lift in het grappige idee van Whyzz?"
+   },
+   "o": {
+    "en": [
+     "Cows",
+     "Robots",
+     "Fish"
+    ],
+    "fr": [
+     "Des vaches",
+     "Des robots",
+     "Des poissons"
+    ],
+    "nl": [
+     "Koeien",
+     "Robots",
+     "Vissen"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "What does a plant need?",
+   "fr": "De quoi une plante a-t-elle besoin ?",
+   "nl": "Wat heeft een plant nodig?"
+  },
+  "intro": {
+   "en": "A vertical farm gives plants everything they need. Pick all of them.",
+   "fr": "Une ferme verticale donne aux plantes tout ce dont elles ont besoin. Choisis tout ce qu’il faut.",
+   "nl": "Een verticale boerderij geeft planten alles wat ze nodig hebben. Kies alles wat nodig is."
+  },
+  "done": {
+   "en": "Super farming, city gardener!",
+   "fr": "Bravo, jardinier de la ville !",
+   "nl": "Super gekweekt, stadstuinier!"
+  },
+  "items": {
+   "en": [
+    "Light",
+    "A tiny umbrella",
+    "Water",
+    "Chocolate milk",
+    "Plant food",
+    "A video game",
+    "Air"
+   ],
+   "fr": [
+    "De la lumière",
+    "Un mini parapluie",
+    "De l’eau",
+    "Du lait au chocolat",
+    "De la nourriture pour plantes",
+    "Un jeu vidéo",
+    "De l’air"
+   ],
+   "nl": [
+    "Licht",
+    "Een mini-paraplu",
+    "Water",
+    "Chocolademelk",
+    "Plantenvoeding",
+    "Een videogame",
+    "Lucht"
+   ]
+  },
+  "good": [
+   0,
+   2,
+   4,
+   6
+  ]
+ }
+}

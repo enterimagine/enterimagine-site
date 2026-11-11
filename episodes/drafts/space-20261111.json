@@ -1,0 +1,233 @@
+{
+ "id": "space-20261111",
+ "world": "space",
+ "guide": "Qubi",
+ "title": {
+  "en": "How does a rocket get all the way to space?",
+  "fr": "Comment une fusée arrive-t-elle jusque dans l’espace ?",
+  "nl": "Hoe komt een raket helemaal in de ruimte?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, how does a rocket get all the way up to space? It is super heavy!",
+   "fr": "Qubi, comment une fusée arrive-t-elle jusque dans l’espace ? Elle est super lourde !",
+   "nl": "Qubi, hoe komt een raket helemaal tot in de ruimte? Hij is superzwaar!",
+   "img": "Whyzz and Qubi look up at a big rocket on a launch pad"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I have a plan: we build a really, really tall ladder and just climb up there!",
+   "fr": "J’ai un plan : on construit une échelle très, très haute et on grimpe jusque là-haut !",
+   "nl": "Ik heb een plan: we bouwen een heel, heel hoge ladder en klimmen gewoon naar boven!",
+   "img": "Whyzz next to a silly ladder that reaches the clouds, Qubi laughs"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Ha, that would take ages! A rocket pushes hot gas down very hard and the gas shoves it up, like a balloon zooming away when you let it go.",
+   "fr": "Ha, ça prendrait une éternité ! Une fusée pousse très fort du gaz chaud vers le bas et ce gaz la pousse vers le haut, comme un ballon qui file quand tu le lâches.",
+   "nl": "Haha, dat duurt eeuwen! Een raket duwt heel hard hete gassen naar beneden en die duwen de raket omhoog, zoals een ballon die wegschiet als je hem loslaat.",
+   "img": "a rocket lifts off with flames pushing down while Whyzz lets go of a balloon"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Rockets carry their own oxygen to burn their fuel, because there is no air in space. When a fuel tank is empty, the rocket drops it to get lighter.",
+   "fr": "Les fusées emportent leur propre oxygène pour brûler leur carburant, car il n’y a pas d’air dans l’espace. Quand un réservoir est vide, la fusée le lâche pour être plus légère.",
+   "nl": "Raketten nemen hun eigen zuurstof mee om hun brandstof te verbranden, want in de ruimte is er geen lucht. Is een brandstoftank leeg, dan laat de raket hem vallen om lichter te worden.",
+   "img": "Qubi watches a rocket high in the sky drop its empty lower stage"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Did you know? To stay in space and circle Earth, a spacecraft must zoom at about 28,000 kilometers per hour. That is fast enough to go around the planet in about 90 minutes!",
+   "fr": "Le savais-tu ? Pour rester dans l’espace et tourner autour de la Terre, un vaisseau doit filer à environ 28 000 kilomètres par heure. Assez vite pour faire le tour de la planète en 90 minutes environ !",
+   "nl": "Wist je dat? Om in de ruimte rond de aarde te blijven draaien, moet een ruimtetuig zo’n 28.000 kilometer per uur gaan. Zo vlieg je in ongeveer 90 minuten rond de hele planeet!",
+   "img": "Qubi floats in a spacecraft looking at the Earth through a round window"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a rocket pushes gas down to fly up and gets lighter on the way. If you could ride a rocket, what would you look at first?",
+   "fr": "Donc une fusée pousse du gaz vers le bas pour monter et s’allège en chemin. Si tu pouvais voyager en fusée, qu’est-ce que tu regarderais en premier ?",
+   "nl": "Een raket duwt dus gas naar beneden om omhoog te vliegen en wordt onderweg lichter. Als jij met een raket mocht meevliegen, waar zou je dan eerst naar kijken?",
+   "img": "Whyzz and Qubi in a cardboard rocket in a backyard at sunset, waving"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge stand in a sunny green field and gaze up in wonder at a huge white rocket standing on a launch pad in the distance, Whyzz points at it with an amazed face, Qubi smiles. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands proudly next to a comically tall wobbly wooden ladder that reaches high up into the clouds, wearing a tiny backpack and a big confident grin, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge laughs with his hand on his forehead, sunny field with a rocket far away. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge points at a big white rocket lifting off from a launch pad as bright orange flames and puffy white smoke push down from its engines, next to him Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge lets go of a red balloon that zooms up into the blue sky, cheerful launch site. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge stands at a big window in a bright mission control room and points happily at a rocket high in the deep blue sky that gently drops away its empty lower stage, small puffs of smoke, excited mood. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge floats happily inside a cozy spacecraft cabin and looks out of a big round window at the blue planet Earth, a golden sunrise glowing along the edge of the planet, soft streaks of light show how fast the spacecraft moves. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge sit together in a funny homemade cardboard rocket in a backyard at sunset, wearing toy space helmets, both looking up at the sky and waving happily. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What does a rocket push down to go up?",
+    "fr": "Que pousse une fusée vers le bas pour monter ?",
+    "nl": "Wat duwt een raket naar beneden om omhoog te gaan?"
+   },
+   "o": {
+    "en": [
+     "Cold water",
+     "Hot gas",
+     "Feathers"
+    ],
+    "fr": [
+     "De l’eau froide",
+     "Du gaz chaud",
+     "Des plumes"
+    ],
+    "nl": [
+     "Koud water",
+     "Hete gassen",
+     "Veren"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Which toy zooms away a bit like a rocket?",
+    "fr": "Quel jouet file un peu comme une fusée ?",
+    "nl": "Welk speelgoed schiet weg, een beetje zoals een raket?"
+   },
+   "o": {
+    "en": [
+     "A balloon you let go",
+     "A teddy bear",
+     "A puzzle"
+    ],
+    "fr": [
+     "Un ballon que tu lâches",
+     "Un ours en peluche",
+     "Un puzzle"
+    ],
+    "nl": [
+     "Een ballon die je loslaat",
+     "Een teddybeer",
+     "Een puzzel"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why do rockets carry their own oxygen?",
+    "fr": "Pourquoi les fusées emportent-elles leur propre oxygène ?",
+    "nl": "Waarom nemen raketten hun eigen zuurstof mee?"
+   },
+   "o": {
+    "en": [
+     "To blow bubbles",
+     "To water plants",
+     "There is no air in space"
+    ],
+    "fr": [
+     "Pour faire des bulles",
+     "Pour arroser des plantes",
+     "Il n’y a pas d’air dans l’espace"
+    ],
+    "nl": [
+     "Om bellen te blazen",
+     "Om planten water te geven",
+     "In de ruimte is er geen lucht"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Why does a rocket drop its empty tanks?",
+    "fr": "Pourquoi une fusée lâche-t-elle ses réservoirs vides ?",
+    "nl": "Waarom laat een raket zijn lege tanks vallen?"
+   },
+   "o": {
+    "en": [
+     "To make music",
+     "To get lighter",
+     "To say goodbye"
+    ],
+    "fr": [
+     "Pour faire de la musique",
+     "Pour être plus légère",
+     "Pour dire au revoir"
+    ],
+    "nl": [
+     "Om muziek te maken",
+     "Om lichter te worden",
+     "Om dag te zeggen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "About how long does a spacecraft take to circle Earth once?",
+    "fr": "En combien de temps environ un vaisseau fait-il le tour de la Terre ?",
+    "nl": "Hoelang doet een ruimtetuig ongeveer over één rondje rond de aarde?"
+   },
+   "o": {
+    "en": [
+     "About 90 minutes",
+     "About 90 days",
+     "About 9 years"
+    ],
+    "fr": [
+     "Environ 90 minutes",
+     "Environ 90 jours",
+     "Environ 9 ans"
+    ],
+    "nl": [
+     "Ongeveer 90 minuten",
+     "Ongeveer 90 dagen",
+     "Ongeveer 9 jaar"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "Ready for launch",
+   "fr": "Prêts pour le décollage",
+   "nl": "Klaar voor de lancering"
+  },
+  "intro": {
+   "en": "Put the rocket’s trip in the right order.",
+   "fr": "Remets le voyage de la fusée dans le bon ordre.",
+   "nl": "Zet de reis van de raket in de juiste volgorde."
+  },
+  "done": {
+   "en": "Liftoff! Great job, space explorer!",
+   "fr": "Décollage ! Bravo, explorateur de l’espace !",
+   "nl": "Lancering gelukt! Goed gedaan, ruimteverkenner!"
+  },
+  "items": {
+   "en": [
+    "Fill the tanks with fuel and oxygen",
+    "Count down: 3, 2, 1, 0!",
+    "The engines push hot gas down",
+    "The rocket lifts off",
+    "Empty tanks drop away",
+    "The spacecraft circles Earth"
+   ],
+   "fr": [
+    "Remplir les réservoirs de carburant et d’oxygène",
+    "Compte à rebours : 3, 2, 1, 0 !",
+    "Les moteurs poussent du gaz chaud vers le bas",
+    "La fusée décolle",
+    "Les réservoirs vides se détachent",
+    "Le vaisseau tourne autour de la Terre"
+   ],
+   "nl": [
+    "De tanks vullen met brandstof en zuurstof",
+    "Aftellen: 3, 2, 1, 0!",
+    "De motoren duwen hete gassen naar beneden",
+    "De raket stijgt op",
+    "Lege tanks vallen af",
+    "Het ruimtetuig draait rond de aarde"
+   ]
+  }
+ }
+}

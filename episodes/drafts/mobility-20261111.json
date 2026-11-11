@@ -1,0 +1,247 @@
+{
+ "id": "mobility-20261111",
+ "world": "mobility",
+ "guide": "Sunny",
+ "title": {
+  "en": "How can a car drive by itself?",
+  "fr": "Comment une voiture peut-elle rouler toute seule ?",
+  "nl": "Hoe kan een auto zelf rijden?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, I just saw a car drive past with nobody holding the steering wheel! How can a car drive by itself?",
+   "fr": "Sunny, je viens de voir passer une voiture où personne ne tenait le volant ! Comment une voiture peut-elle rouler toute seule ?",
+   "nl": "Sunny, ik zag net een auto voorbijrijden en niemand hield het stuur vast! Hoe kan een auto zelf rijden?",
+   "img": "Whyzz points at a self-driving car with an empty driver seat, Sunny smiles"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I know! A tiny invisible driver is hiding in the glove box and steering with a remote control.",
+   "fr": "Je sais ! Un minuscule chauffeur invisible se cache dans la boîte à gants et conduit avec une télécommande.",
+   "nl": "Ik weet het! Een piepklein onzichtbaar chauffeurtje zit verstopt in het handschoenenkastje en stuurt met een afstandsbediening.",
+   "img": "Whyzz peeks into a glove box with a tiny toy driver, Sunny laughs"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Ha, no tiny driver! The car has cameras all around that see lanes, signs and traffic lights, like eyes looking in every direction at once.",
+   "fr": "Ha, pas de mini chauffeur ! La voiture a des caméras tout autour qui voient les lignes, les panneaux et les feux, comme des yeux qui regardent partout à la fois.",
+   "nl": "Haha, geen mini-chauffeur! De auto heeft overal camera’s die rijstroken, borden en verkeerslichten zien, zoals ogen die alle kanten tegelijk op kijken.",
+   "img": "Sunny points at the small cameras on the car that see lanes and traffic lights"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Radar sends out radio waves and a laser scanner sends out light. They bounce back, so the car knows how far away cars and people are, like a bat listening to its echo.",
+   "fr": "Le radar envoie des ondes radio et un scanner laser envoie de la lumière. Elles rebondissent et la voiture sait à quelle distance sont les voitures et les gens, comme une chauve-souris qui écoute son écho.",
+   "nl": "Radar stuurt radiogolven uit en een laserscanner stuurt licht uit. Dat kaatst terug, zodat de auto weet hoe ver andere auto’s en mensen zijn, zoals een vleermuis die naar haar echo luistert.",
+   "img": "waves and light beams bounce off a cyclist while a cute bat flies above"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "A computer, the car’s brain, mixes all these clues and decides to steer, speed up or brake. Did you know? A spinning laser scanner can measure over a million dots every second!",
+   "fr": "Un ordinateur, le cerveau de la voiture, rassemble tous ces indices et décide de tourner, d’accélérer ou de freiner. Le savais-tu ? Un scanner laser qui tourne peut mesurer plus d’un million de points par seconde !",
+   "nl": "Een computer, het brein van de auto, zet al die aanwijzingen samen en beslist: sturen, gas geven of remmen. Wist je dat? Een draaiende laserscanner kan meer dan een miljoen puntjes per seconde meten!",
+   "img": "Sunny next to a glowing computer brain in the car, dots of light map the street"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So sensors are the car’s eyes and ears and a computer is its brain. Where would you like a self-driving car to take you?",
+   "fr": "Donc les capteurs sont les yeux et les oreilles de la voiture et l’ordinateur est son cerveau. Où aimerais-tu qu’une voiture autonome t’emmène ?",
+   "nl": "Sensoren zijn dus de ogen en oren van de auto en de computer is zijn brein. Waar zou jij graag naartoe willen met een zelfrijdende auto?",
+   "img": "Whyzz and Sunny wave from the back seat of a self-driving car by the sea"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands on a sidewalk with his mouth wide open, pointing at a friendly rounded white car with a small round sensor on its roof driving past with nobody in the driver seat, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge smiles next to him, sunny tidy city street with green trees. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge grins and peeks into the open glove box of a car where a tiny toy-sized cartoon driver figure holds a little remote control, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge laughs with her hands on her hips, bright friendly car interior. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge points at small round cameras on the corners of a friendly white car on a city street, soft glowing cones show what the cameras see: painted lane lines, a blank round road sign and a traffic light, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands next to a friendly white car on a street at dusk as soft glowing rings of waves and thin beams of light spread out from the car and bounce off a cyclist and another car, a cute cartoon bat flies above, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks curious. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge sits in the front seat of a self-driving car next to a glowing friendly cartoon brain hologram floating above the dashboard, outside a spinning sensor on the roof sprays thousands of tiny glowing dots that outline the street, playful mood. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge sit happily in the back seat of a friendly self-driving car with an empty driver seat, waving out of the open window, a colorful seaside road and blue sea outside, sunny day. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What do the car’s cameras see?",
+    "fr": "Que voient les caméras de la voiture ?",
+    "nl": "Wat zien de camera’s van de auto?"
+   },
+   "o": {
+    "en": [
+     "The car’s engine",
+     "Lanes, signs and traffic lights",
+     "The songs on the radio"
+    ],
+    "fr": [
+     "Le moteur de la voiture",
+     "Les lignes, les panneaux et les feux",
+     "Les chansons à la radio"
+    ],
+    "nl": [
+     "De motor van de auto",
+     "Rijstroken, borden en verkeerslichten",
+     "De liedjes op de radio"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does radar send out?",
+    "fr": "Qu’envoie le radar ?",
+    "nl": "Wat stuurt radar uit?"
+   },
+   "o": {
+    "en": [
+     "Radio waves",
+     "Soap bubbles",
+     "Paper planes"
+    ],
+    "fr": [
+     "Des ondes radio",
+     "Des bulles de savon",
+     "Des avions en papier"
+    ],
+    "nl": [
+     "Radiogolven",
+     "Zeepbellen",
+     "Papieren vliegtuigjes"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Which animal also listens to echoes?",
+    "fr": "Quel animal écoute aussi les échos ?",
+    "nl": "Welk dier luistert ook naar echo’s?"
+   },
+   "o": {
+    "en": [
+     "A goldfish",
+     "A sheep",
+     "A bat"
+    ],
+    "fr": [
+     "Un poisson rouge",
+     "Un mouton",
+     "Une chauve-souris"
+    ],
+    "nl": [
+     "Een goudvis",
+     "Een schaap",
+     "Een vleermuis"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What is the car’s brain?",
+    "fr": "Quel est le cerveau de la voiture ?",
+    "nl": "Wat is het brein van de auto?"
+   },
+   "o": {
+    "en": [
+     "The steering wheel",
+     "The computer",
+     "The trunk"
+    ],
+    "fr": [
+     "Le volant",
+     "L’ordinateur",
+     "Le coffre"
+    ],
+    "nl": [
+     "Het stuur",
+     "De computer",
+     "De kofferbak"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How many dots can a spinning laser scanner measure every second?",
+    "fr": "Combien de points un scanner laser qui tourne peut-il mesurer par seconde ?",
+    "nl": "Hoeveel puntjes kan een draaiende laserscanner per seconde meten?"
+   },
+   "o": {
+    "en": [
+     "About ten",
+     "Exactly three",
+     "Over a million"
+    ],
+    "fr": [
+     "Environ dix",
+     "Exactement trois",
+     "Plus d’un million"
+    ],
+    "nl": [
+     "Ongeveer tien",
+     "Precies drie",
+     "Meer dan een miljoen"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "The car’s super senses",
+   "fr": "Les super-sens de la voiture",
+   "nl": "De superzintuigen van de auto"
+  },
+  "intro": {
+   "en": "Match each part of the car to its job.",
+   "fr": "Relie chaque partie de la voiture à son travail.",
+   "nl": "Koppel elk onderdeel van de auto aan zijn taak."
+  },
+  "done": {
+   "en": "Great driving, sensor expert!",
+   "fr": "Bravo, expert des capteurs !",
+   "nl": "Goed gedaan, sensorexpert!"
+  },
+  "left": {
+   "en": [
+    "Camera",
+    "Radar",
+    "Laser scanner",
+    "Computer"
+   ],
+   "fr": [
+    "La caméra",
+    "Le radar",
+    "Le scanner laser",
+    "L’ordinateur"
+   ],
+   "nl": [
+    "Camera",
+    "Radar",
+    "Laserscanner",
+    "Computer"
+   ]
+  },
+  "right": {
+   "en": [
+    "Sees lanes and traffic lights",
+    "Uses radio waves to find other cars",
+    "Builds a 3D picture with dots of light",
+    "Decides to steer, speed up or brake"
+   ],
+   "fr": [
+    "Voit les lignes et les feux",
+    "Utilise des ondes radio pour trouver les autres voitures",
+    "Construit une image en 3D avec des points de lumière",
+    "Décide de tourner, d’accélérer ou de freiner"
+   ],
+   "nl": [
+    "Ziet rijstroken en verkeerslichten",
+    "Gebruikt radiogolven om andere auto’s te vinden",
+    "Maakt een 3D-beeld met lichtpuntjes",
+    "Beslist: sturen, gas geven of remmen"
+   ]
+  }
+ }
+}
