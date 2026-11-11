@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "1355e922cf21bd7b462b72608df77cf0430b6da3",
-  "publicPolicySha256": "4ff1025cb7ab6664fc831b07280c5a4624bec3914d53db44bf8f894f687a997f",
+  "sourceCommit": "6d983841e3580e95e854bf4d065e9e1befda49e8",
+  "publicPolicySha256": "9ba6230256e0cda2726612eb6b2931c3461ea025e2549e504f0640bcb58ce664",
   "nodeVersion": "v24.19.0",
-  "payloadId": "fb2ad020621383770fb3313c4b1d270b1cb59cc2131aabfe960d4d41bee38270",
+  "payloadId": "cce24638143b25b45cce0f7f3a28f12ef9c295e8d47603f1603532322f87bc17",
   "files": [
     {
       "path": "404.html",
@@ -30,6 +30,11 @@
       "path": "assets/articles/covers/can-you-cool-a-data-center-in-space.webp",
       "size": 54532,
       "sha256": "394b859c22d16b151e53986bd7fb9634af29ffec534037e9408db26f73c35a22"
+    },
+    {
+      "path": "assets/articles/covers/how-cold-does-a-quantum-computer-need-to-be.webp",
+      "size": 115292,
+      "sha256": "240fcfff2b26e7feea8f9c48c01cb573abf5561822859c5c05d5cff4c6df7306"
     },
     {
       "path": "assets/articles/covers/medicine-for-one.webp",
@@ -87,9 +92,19 @@
       "sha256": "b329a852be6ef2862b98a0fa316c70d05ef54201eacb24e143dd1f039cf99651"
     },
     {
+      "path": "assets/articles/covers/the-last-rehearsal-before-the-first-fare.webp",
+      "size": 65154,
+      "sha256": "54f2333200fd0bbd5c629b3b647941273c6a3761489ab7d71a2af89d184bb8cf"
+    },
+    {
       "path": "assets/articles/covers/the-narrow-waist-of-everything.webp",
       "size": 94426,
       "sha256": "064e972bbb32e78f6f36da5d431e78e826f865d9263b2f94ee5298a4048f6504"
+    },
+    {
+      "path": "assets/articles/covers/the-night-shift-on-the-solar-farm.webp",
+      "size": 50018,
+      "sha256": "3608d7e74cdafa096617f85c77f7ffd98ebb0299305b7b843eed28de2b577bbc"
     },
     {
       "path": "assets/articles/covers/the-planet-in-the-mirror.webp",
@@ -122,9 +137,24 @@
       "sha256": "f1946d9273411c4157aa66bb66cff9db4c1e2f9575f1ea727bc40e30b7067459"
     },
     {
+      "path": "assets/articles/covers/waiting-on-the-plastic-eating-factory.webp",
+      "size": 109440,
+      "sha256": "ef66b64880bde6eace4c1e5fb7bb6fdc2ce469dd530a583ff61bd40341ead1cb"
+    },
+    {
+      "path": "assets/articles/covers/what-the-sewer-knew-first.webp",
+      "size": 81140,
+      "sha256": "f5b373eb3d1fba508f665dd58799befc1628ef807c63aa63959db879014c5d37"
+    },
+    {
       "path": "assets/articles/covers/when-cars-feel-the-road.webp",
       "size": 66554,
       "sha256": "a0d9ef9b4818e4edd86146f4a940963760765ef46e3b3805f78050f56d3bb746"
+    },
+    {
+      "path": "assets/articles/covers/when-the-robot-picks-up-the-surgeons-tools.webp",
+      "size": 48524,
+      "sha256": "35180352bd65f4aa05707e3fcf494fbe1fff64a18605cce0c82c25f1f01a21f9"
     },
     {
       "path": "assets/articles/covers/where-no-hand-can-reach.webp",
@@ -145,6 +175,11 @@
       "path": "assets/articles/covers/who-sets-out-the-triangles-when-no-one-is-driving.webp",
       "size": 60718,
       "sha256": "882d28fb910303e3bb3e0c1d6c0e454f2ecaa170b5c3a284be3702fe301ff982"
+    },
+    {
+      "path": "assets/articles/how-cold-does-a-quantum-computer-need-to-be.webp",
+      "size": 59004,
+      "sha256": "226c94a3d082da25efcfec17491be5e37d8c88783133afe2940153c5c47d1a9e"
     },
     {
       "path": "assets/articles/medicine-for-one.webp",
@@ -175,6 +210,11 @@
       "path": "assets/articles/share/can-you-cool-a-data-center-in-space.jpg",
       "size": 111994,
       "sha256": "8dc4acff74457fac9654a4a9a61a4e9a2923c3f4487ebfce7b778361f4e65529"
+    },
+    {
+      "path": "assets/articles/share/how-cold-does-a-quantum-computer-need-to-be.jpg",
+      "size": 201556,
+      "sha256": "e9833c99da27d8621a1cebc7baf1d2f3cf7ac47bf2e568cdb32bfe9b2554335a"
     },
     {
       "path": "assets/articles/share/medicine-for-one.jpg",
@@ -232,9 +272,19 @@
       "sha256": "cc29e2c57aa1f9d6cc96ec8792412a853b685968eb73b5073e93f2099e7408e6"
     },
     {
+      "path": "assets/articles/share/the-last-rehearsal-before-the-first-fare.jpg",
+      "size": 143292,
+      "sha256": "a6cfe06459ef17850d602fa58d76bd4c6a77f52e313e3893713404427528d02c"
+    },
+    {
       "path": "assets/articles/share/the-narrow-waist-of-everything.jpg",
       "size": 136133,
       "sha256": "75d17198ca5795fdaff0240dbe46cd4744b8065355c37afe6add5ab4e7851b29"
+    },
+    {
+      "path": "assets/articles/share/the-night-shift-on-the-solar-farm.jpg",
+      "size": 123789,
+      "sha256": "73cf466ba2d2b412eec7f8584ea6a1d81f3bfd27bb917e255288f9c385378a8c"
     },
     {
       "path": "assets/articles/share/the-planet-in-the-mirror.jpg",
@@ -267,9 +317,24 @@
       "sha256": "3375ef4006e3ff677f7569ee62d0e023ab68b3f397a068fb90cc4b7108b451d1"
     },
     {
+      "path": "assets/articles/share/waiting-on-the-plastic-eating-factory.jpg",
+      "size": 201198,
+      "sha256": "0abd110c0c56cf3fc357cd79cfe56f925532b2ce28a030ac5a0ab8a325f82054"
+    },
+    {
+      "path": "assets/articles/share/what-the-sewer-knew-first.jpg",
+      "size": 162458,
+      "sha256": "461af7a26a1cb5c9c784cff4cd8241e328a2f1616ba2894fad6975bc6452ad5f"
+    },
+    {
       "path": "assets/articles/share/when-cars-feel-the-road.jpg",
       "size": 133838,
       "sha256": "84f427f411d083f33575bc2a12db980ee2033ebe918ec24a303f323ee28c090a"
+    },
+    {
+      "path": "assets/articles/share/when-the-robot-picks-up-the-surgeons-tools.jpg",
+      "size": 114847,
+      "sha256": "85ea4758757bde0c27621bb9f0b732fe5e1d0a20400d45bb1aac21997f2af50d"
     },
     {
       "path": "assets/articles/share/where-no-hand-can-reach.jpg",
@@ -327,9 +392,19 @@
       "sha256": "b6d30767ace364d2f9f8c2783378aee7c8edd12db5c0276cff671d35888167b2"
     },
     {
+      "path": "assets/articles/the-last-rehearsal-before-the-first-fare.webp",
+      "size": 44488,
+      "sha256": "88ec3ac33be605d0d664a555f3a67c8559e8286e08e5dbd11bc4bf0a13d438c6"
+    },
+    {
       "path": "assets/articles/the-narrow-waist-of-everything.webp",
       "size": 60572,
       "sha256": "440811682830b085031ea541407f7cd9e880fe92f07b8eea2df486a02fbdf6bd"
+    },
+    {
+      "path": "assets/articles/the-night-shift-on-the-solar-farm.webp",
+      "size": 38714,
+      "sha256": "4c83f8ab80c7e90fad612886ef4cbfed2798a2b23f4adf31034bb4192761353d"
     },
     {
       "path": "assets/articles/the-planet-in-the-mirror.webp",
@@ -362,9 +437,24 @@
       "sha256": "5e48de7ddcc80ad62d87564d720a96eca0987b1947988e86ec1742862843ac4b"
     },
     {
+      "path": "assets/articles/waiting-on-the-plastic-eating-factory.webp",
+      "size": 40260,
+      "sha256": "03b867511118bd9a3043366f09f71dd3ff9aaa8286385b328d38bf854fae861a"
+    },
+    {
+      "path": "assets/articles/what-the-sewer-knew-first.webp",
+      "size": 42802,
+      "sha256": "867fa1afc7e1a03c1ec002e489296456efc8cf881bfae74526ae8409f09c2926"
+    },
+    {
       "path": "assets/articles/when-cars-feel-the-road.webp",
       "size": 96310,
       "sha256": "f7ec38ec4fb14c9efd11f8aaee8f159963e5e387c5d0d8b5389c021ddaa7a785"
+    },
+    {
+      "path": "assets/articles/when-the-robot-picks-up-the-surgeons-tools.webp",
+      "size": 46958,
+      "sha256": "cc5a051b5d5432e83f4a81896e071e412e51d176b653100ccb11d090f05f8853"
     },
     {
       "path": "assets/articles/where-no-hand-can-reach.webp",
@@ -543,18 +633,18 @@
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 23475,
-      "sha256": "c901bf4b1a5dd781cbfee1946e95babda95b2505c87d3434519ea8e55447a878"
+      "size": 25643,
+      "sha256": "d7842af2e3ba18496bdd241370f31b2ae49d3e0764fd240f893b85cd6f106518"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 15710,
-      "sha256": "7e695958646211e3fda7d618a54a9588df59b0b828ac7bec7293e628282b8487"
+      "size": 17975,
+      "sha256": "bf912ebe2afe81d1b14cbd187569a4813501ab17eda2dd26a1cc5d0c42e4055c"
     },
     {
       "path": "explore/energy/index.html",
-      "size": 18965,
-      "sha256": "165fc5432cdef5ad69eb5d59fc51f78bd67c3c34e47d08ee9f699efbe50ff460"
+      "size": 22012,
+      "sha256": "fc1c7e8cc27e65818c57bc920a0f5a2e22a50421dbd89a9806bff7a5e4e8edb1"
     },
     {
       "path": "explore/index.html",
@@ -563,33 +653,33 @@
     },
     {
       "path": "explore/innovation/index.html",
-      "size": 15178,
-      "sha256": "23f698811c07b7f98121a87c49bb981228569b83558eabe2ba4799931c4d29f8"
+      "size": 16777,
+      "sha256": "1b31751e4235077c658fa836f2c859d573b82190e7511702fc9c770213f0e6ae"
     },
     {
       "path": "explore/quantum-computing/index.html",
-      "size": 22236,
-      "sha256": "2e2cbd4e65de808d5079542e05c94441a63443c22bcf7d121cab2364767daec6"
+      "size": 23075,
+      "sha256": "5d0aa9548003988c277efd4a5f185edd9353367a7397c65261e6e8aca12ab721"
     },
     {
       "path": "explore/robotics/index.html",
-      "size": 15985,
-      "sha256": "c103377a0cb81c07660c4f0e254ccd2df6017f9a328e767b56052d0e14ad5c5a"
+      "size": 17474,
+      "sha256": "063a0c2658d5438c9e29494f46847080aab88ba650490136b5018e43c7f261e7"
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 14741,
-      "sha256": "d9bf3f45e92a03f676a0d4bd5f5862110e13341287b369f32f8e5b09cab825f2"
+      "size": 16205,
+      "sha256": "86f53b408f3ae992401df825b27076238d4f94b7c43b0c65cb6d52ef1ada6d1b"
     },
     {
       "path": "explore/smart-mobility/index.html",
-      "size": 15697,
-      "sha256": "8b08c7659c730ffb09e4bd196d56f7f91c15d2e8cb181e09d109bedccb06249f"
+      "size": 16449,
+      "sha256": "55b734f270d57934e9198ed9ba733b382a68294e55eeb672f56fb9c3ecd56b54"
     },
     {
       "path": "explore/space/index.html",
-      "size": 15362,
-      "sha256": "ed3b74fab8acb5d9f213986faaaebe02b8e59718a8722dccff03e0153a2282a6"
+      "size": 16155,
+      "sha256": "7e16df5f5fd99bddde084c26012004df81e8e6c1053ccce7cce12af49fd49b9b"
     },
     {
       "path": "index.html",
@@ -747,9 +837,14 @@
       "sha256": "b90fb3179b3666b2db5d06090b4138f02c4e23877effee45423df7a1a83dd5aa"
     },
     {
+      "path": "universe/how-cold-does-a-quantum-computer-need-to-be/index.html",
+      "size": 22599,
+      "sha256": "bf4d4b20f8c6f2cf50e6b91721019c8e0ba9a55dd30e4dbc7863d35ee07c1986"
+    },
+    {
       "path": "universe/index.html",
-      "size": 54101,
-      "sha256": "7df3632ce88b4201e3e94b092085b869a76de3d044f2d375eae0e191830d44f9"
+      "size": 62247,
+      "sha256": "5fcd18da0ed96753c008989b460e6d449f9ff09d129ca60c8eafa11c8ca6e880"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -788,8 +883,8 @@
     },
     {
       "path": "universe/the-diamond-that-feels-your-heartbeat/index.html",
-      "size": 24219,
-      "sha256": "4fa74562d484a9ce030aafca1e9195ab4b3fd565296753f0c37a54f0f7bee35b"
+      "size": 24385,
+      "sha256": "34e3522718c8ab3e0368a905bfd8db89d6145752b79a8b980d9da70f86a849c3"
     },
     {
       "path": "universe/the-factory-that-falls-from-the-sky/index.html",
@@ -807,9 +902,19 @@
       "sha256": "4ef8701808d19a5647b8cecea1e007fe383ca864537f42ca3fa915fcdbfdf53c"
     },
     {
+      "path": "universe/the-last-rehearsal-before-the-first-fare/index.html",
+      "size": 25194,
+      "sha256": "2abfaba730f0371317bbd1c40295a00d6012efb4ea57c49d91cd35c74d1e29d7"
+    },
+    {
       "path": "universe/the-narrow-waist-of-everything/index.html",
       "size": 30023,
       "sha256": "3b98a6043c85d1cf01b4010234405a07e8b8cd5c557c8da4337fb630935620e7"
+    },
+    {
+      "path": "universe/the-night-shift-on-the-solar-farm/index.html",
+      "size": 22656,
+      "sha256": "3262d61eadf073e5df705ebf4e763f17978215ee7e014a16531954ef7c31097c"
     },
     {
       "path": "universe/the-planet-in-the-mirror/index.html",
@@ -842,9 +947,24 @@
       "sha256": "03d43ac68d5505a0ef9f8080799c2143f7ee25d61194d50f6adfb89529f2d1ee"
     },
     {
+      "path": "universe/waiting-on-the-plastic-eating-factory/index.html",
+      "size": 24035,
+      "sha256": "6576f77af8e60d5d377c425bd4731386ce6a00e7b5fba6368b7560f8bebbcc56"
+    },
+    {
+      "path": "universe/what-the-sewer-knew-first/index.html",
+      "size": 24765,
+      "sha256": "e9084d3df5d3544e3143a94eafbda7ce048216dc0f94d15cbab81d8a3a730e05"
+    },
+    {
       "path": "universe/when-cars-feel-the-road/index.html",
       "size": 19964,
       "sha256": "ad77557563b5f54d99c49c5e723e7d6aeced37e4513ebe300b2172c444c63b6a"
+    },
+    {
+      "path": "universe/when-the-robot-picks-up-the-surgeons-tools/index.html",
+      "size": 24536,
+      "sha256": "f1798dcb0394665357bff27dec458a8dcbfbbeb81fb9da9042841c51b085cc18"
     },
     {
       "path": "universe/where-no-hand-can-reach/index.html",
@@ -1008,7 +1128,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "4ff1025cb7ab6664fc831b07280c5a4624bec3914d53db44bf8f894f687a997f"
+      "sha256": "9ba6230256e0cda2726612eb6b2931c3461ea025e2549e504f0640bcb58ce664"
     },
     {
       "path": "tools/recovery-kit.mjs",
