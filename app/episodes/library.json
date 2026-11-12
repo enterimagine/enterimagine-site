@@ -6589,6 +6589,1237 @@
    },
    "added": "2026-11-11",
    "voice": true
+  },
+  {
+   "id": "pixel-20261112",
+   "world": "pixel",
+   "guide": "Pixel",
+   "title": {
+    "en": "How do apps guess what you might like?",
+    "fr": "Comment les applis devinent-elles ce que tu aimes ?",
+    "nl": "Hoe raden apps wat jij leuk vindt?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, I watched one video about penguins and now my tablet shows me penguins everywhere! How does it know?",
+     "fr": "Pixel, j’ai regardé une seule vidéo sur les manchots et maintenant ma tablette m’en montre partout ! Comment elle le sait ?",
+     "nl": "Pixel, ik keek één filmpje over pinguïns en nu toont mijn tablet overal pinguïns! Hoe weet hij dat?",
+     "img": "Whyzz on a sofa, penguin pictures float out of his tablet"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Wait, I know! A tiny detective lives inside my tablet and spies on me with a magnifying glass!",
+     "fr": "Attends, je sais ! Un minuscule détective vit dans ma tablette et m’espionne avec une loupe !",
+     "nl": "Wacht, ik weet het! Er woont een piepkleine detective in mijn tablet die me bespiedt met een vergrootglas!",
+     "img": "A tiny cartoon detective peeks out of the tablet, Pixel giggles"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, no detective! The app notices clues: which videos you watch to the end, which ones you like and what you search for.",
+     "fr": "Ha, pas de détective ! L’appli remarque des indices : les vidéos que tu regardes jusqu’au bout, celles que tu aimes et ce que tu cherches.",
+     "nl": "Haha, geen detective! De app let op aanwijzingen: welke filmpjes je helemaal uitkijkt, welke je leuk vindt en waarnaar je zoekt.",
+     "img": "Pixel points at glowing clue shapes floating around a tablet"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Then it compares you with lots of other people, like a friend who says: kids who loved penguins also loved polar bears. So it shows you polar bears next!",
+     "fr": "Ensuite, elle te compare à plein d’autres gens, comme un ami qui dirait : les enfants qui adorent les manchots adorent aussi les ours polaires. Alors elle te montre des ours polaires !",
+     "nl": "Daarna vergelijkt de app jou met heel veel andere mensen, zoals een vriend die zegt: kinderen die gek zijn op pinguïns, houden ook van ijsberen. Dus krijg je daarna ijsberen!",
+     "img": "Pixel links a penguin plushie to a polar bear plushie in a glowing network"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know that skipping is a clue too? If you scroll past a video fast, the app learns you probably don’t want more like it.",
+     "fr": "Savais-tu que passer une vidéo est aussi un indice ? Si tu la fais défiler très vite, l’appli comprend que tu n’en veux sans doute pas d’autres comme ça.",
+     "nl": "Wist je dat overslaan ook een aanwijzing is? Als je snel voorbij een filmpje scrolt, leert de app dat je er waarschijnlijk niet meer van wilt zien.",
+     "img": "Whyzz swipes a broccoli picture away, Pixel raises a finger"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So the app follows my clues and guesses, but I can still explore new things myself! What would you search for to surprise your app?",
+     "fr": "Donc l’appli suit mes indices et devine, mais je peux toujours découvrir de nouvelles choses moi-même ! Que chercherais-tu pour surprendre ton appli ?",
+     "nl": "Dus de app volgt mijn aanwijzingen en raadt, maar ik kan zelf nog altijd nieuwe dingen ontdekken! Waar zou jij naar zoeken om je app te verrassen?",
+     "img": "Whyzz and Pixel explore volcanoes, planets and dinosaurs on a big tablet"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What did Whyzz think was inside his tablet?",
+      "fr": "Selon Whyzz, qu’est-ce qui se cachait dans sa tablette ?",
+      "nl": "Wat dacht Whyzz dat er in zijn tablet zat?"
+     },
+     "o": {
+      "en": [
+       "A tiny detective",
+       "A penguin",
+       "A sleeping cat"
+      ],
+      "fr": [
+       "Un minuscule détective",
+       "Un manchot",
+       "Un chat endormi"
+      ],
+      "nl": [
+       "Een piepkleine detective",
+       "Een pinguïn",
+       "Een slapende kat"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Which clue does the app notice?",
+      "fr": "Quel indice l’appli remarque-t-elle ?",
+      "nl": "Op welke aanwijzing let de app?"
+     },
+     "o": {
+      "en": [
+       "The weather outside",
+       "Videos you watch to the end",
+       "Your shoe size"
+      ],
+      "fr": [
+       "La météo dehors",
+       "Les vidéos que tu regardes jusqu’au bout",
+       "Ta pointure"
+      ],
+      "nl": [
+       "Het weer buiten",
+       "Filmpjes die je helemaal uitkijkt",
+       "Je schoenmaat"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What did kids who loved penguins also love?",
+      "fr": "Qu’adorent aussi les enfants qui adorent les manchots ?",
+      "nl": "Waar houden kinderen die gek zijn op pinguïns ook van?"
+     },
+     "o": {
+      "en": [
+       "Pizza crusts",
+       "Rainy Mondays",
+       "Polar bears"
+      ],
+      "fr": [
+       "Les croûtes de pizza",
+       "Les lundis pluvieux",
+       "Les ours polaires"
+      ],
+      "nl": [
+       "Pizzakorstjes",
+       "Regenachtige maandagen",
+       "IJsberen"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What does the app learn when you scroll past a video fast?",
+      "fr": "Qu’apprend l’appli quand tu fais défiler une vidéo très vite ?",
+      "nl": "Wat leert de app als je snel voorbij een filmpje scrolt?"
+     },
+     "o": {
+      "en": [
+       "You probably don’t want more like it",
+       "You want ten more",
+       "Your tablet is tired"
+      ],
+      "fr": [
+       "Que tu n’en veux sans doute pas d’autres",
+       "Que tu en veux dix de plus",
+       "Que ta tablette est fatiguée"
+      ],
+      "nl": [
+       "Dat je er waarschijnlijk niet meer van wilt",
+       "Dat je er nog tien wilt",
+       "Dat je tablet moe is"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Who compares you with lots of other people?",
+      "fr": "Qui te compare à plein d’autres gens ?",
+      "nl": "Wie vergelijkt jou met heel veel andere mensen?"
+     },
+     "o": {
+      "en": [
+       "A tiny detective",
+       "The app",
+       "Your teacher"
+      ],
+      "fr": [
+       "Un minuscule détective",
+       "L’appli",
+       "Ton professeur"
+      ],
+      "nl": [
+       "Een piepkleine detective",
+       "De app",
+       "Je leraar"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Clue hunter",
+     "fr": "Chasseur d’indices",
+     "nl": "Aanwijzingenjager"
+    },
+    "intro": {
+     "en": "Which clues can an app use to guess what you like? Pick all the right ones!",
+     "fr": "Quels indices une appli peut-elle utiliser pour deviner ce que tu aimes ? Choisis toutes les bonnes réponses !",
+     "nl": "Welke aanwijzingen kan een app gebruiken om te raden wat jij leuk vindt? Kies alle juiste!"
+    },
+    "done": {
+     "en": "Great detective work! Now you know how apps follow clues.",
+     "fr": "Super travail de détective ! Maintenant, tu sais comment les applis suivent les indices.",
+     "nl": "Goed speurwerk! Nu weet je hoe apps aanwijzingen volgen."
+    },
+    "items": {
+     "en": [
+      "Videos you watch to the end",
+      "Things you search for",
+      "Videos you skip fast",
+      "Videos you give a like",
+      "What you dreamed last night",
+      "The color of your socks",
+      "How loud you sneeze"
+     ],
+     "fr": [
+      "Les vidéos que tu regardes jusqu’au bout",
+      "Ce que tu cherches",
+      "Les vidéos que tu passes très vite",
+      "Les vidéos que tu aimes",
+      "Ce que tu as rêvé cette nuit",
+      "La couleur de tes chaussettes",
+      "La force de tes éternuements"
+     ],
+     "nl": [
+      "Filmpjes die je helemaal uitkijkt",
+      "Waarnaar je zoekt",
+      "Filmpjes die je snel overslaat",
+      "Filmpjes die je een like geeft",
+      "Wat je vannacht gedroomd hebt",
+      "De kleur van je sokken",
+      "Hoe hard je niest"
+     ]
+    },
+    "good": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   "worldName": {
+    "en": "AI & Data",
+    "fr": "IA et données",
+    "nl": "AI en data"
+   },
+   "adult": {
+    "en": "For grown-ups: the AI & Data world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde IA et données dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld AI en data in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-12",
+   "voice": true
+  },
+  {
+   "id": "qubi-20261112",
+   "world": "qubi",
+   "guide": "Qubi",
+   "title": {
+    "en": "How tiny is an atom?",
+    "fr": "Un atome, c’est petit comment ?",
+    "nl": "Hoe klein is een atoom?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, I built a huge castle out of toy bricks. But what are real things made of, like my chair or my sandwich?",
+     "fr": "Qubi, j’ai construit un énorme château en briques de jeu. Mais les vraies choses, comme ma chaise ou mon sandwich, elles sont faites de quoi ?",
+     "nl": "Qubi, ik heb een enorm kasteel gebouwd met speelgoedblokjes. Maar waar zijn echte dingen van gemaakt, zoals mijn stoel of mijn boterham?",
+     "img": "Whyzz next to a big toy brick castle, holding a sandwich"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Of atoms! They’re tiny building blocks and everything is made of them: your chair, your sandwich and even you.",
+     "fr": "D’atomes ! Ce sont de minuscules briques et tout en est fait : ta chaise, ton sandwich et même toi.",
+     "nl": "Van atomen! Dat zijn piepkleine bouwsteentjes en alles is ervan gemaakt: je stoel, je boterham en zelfs jij.",
+     "img": "Qubi's lens shows a sandwich made of tiny shiny spheres"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Cool, can I keep one atom as a pet? I’d call it Tiny and feed it crumbs!",
+     "fr": "Génial, je peux garder un atome comme animal de compagnie ? Je l’appellerais Minus et je lui donnerais des miettes !",
+     "nl": "Gaaf, mag ik één atoom als huisdier houden? Ik noem het Mini en geef het kruimeltjes!",
+     "img": "Whyzz offers a crumb to a glowing sphere in a jar, Qubi laughs"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "It’s way too small to see, even with a normal microscope! About a million atoms in a row would only be as wide as one hair.",
+     "fr": "Il est bien trop petit pour être vu, même avec un microscope ordinaire ! Environ un million d’atomes alignés seraient à peine aussi larges qu’un cheveu.",
+     "nl": "Het is veel te klein om te zien, zelfs met een gewone microscoop! Ongeveer een miljoen atomen op een rij zijn samen maar zo breed als één haar.",
+     "img": "A giant hair like a rope with a line of tiny spheres, Whyzz at a microscope"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Did you know an atom is mostly empty space? If its center, the nucleus, were a marble in a stadium, tiny electrons would zoom around up in the top seats.",
+     "fr": "Savais-tu qu’un atome est surtout fait de vide ? Si son centre, le noyau, était une bille au milieu d’un stade, de minuscules électrons fileraient tout en haut des gradins.",
+     "nl": "Wist je dat een atoom vooral uit lege ruimte bestaat? Als de kern een knikker midden in een stadion was, dan zoefden piepkleine elektronen helemaal bovenaan langs de tribunes.",
+     "img": "A marble in the middle of a stadium, blue dots zoom in the top seats"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So everything is built from tiny atoms, like a giant brick castle! If you could shrink to the size of an atom, what would you explore first?",
+     "fr": "Donc tout est construit avec de minuscules atomes, comme un château géant en briques ! Si tu pouvais rétrécir à la taille d’un atome, qu’explorerais-tu en premier ?",
+     "nl": "Dus alles is gebouwd uit piepkleine atomen, zoals een reuzenkasteel van blokjes! Als jij zo klein als een atoom kon worden, wat zou je dan eerst verkennen?",
+     "img": "Whyzz and Qubi float tiny among giant glowing atoms"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What are all things made of?",
+      "fr": "De quoi toutes les choses sont-elles faites ?",
+      "nl": "Waarvan zijn alle dingen gemaakt?"
+     },
+     "o": {
+      "en": [
+       "Atoms",
+       "Toy bricks",
+       "Sand"
+      ],
+      "fr": [
+       "D’atomes",
+       "De briques de jeu",
+       "De sable"
+      ],
+      "nl": [
+       "Van atomen",
+       "Van speelgoedblokjes",
+       "Van zand"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What did Whyzz want to do with an atom?",
+      "fr": "Que voulait faire Whyzz avec un atome ?",
+      "nl": "Wat wilde Whyzz met een atoom doen?"
+     },
+     "o": {
+      "en": [
+       "Eat it",
+       "Keep it as a pet",
+       "Paint it"
+      ],
+      "fr": [
+       "Le manger",
+       "Le garder comme animal de compagnie",
+       "Le peindre"
+      ],
+      "nl": [
+       "Het opeten",
+       "Het als huisdier houden",
+       "Het verven"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "About how many atoms in a row are as wide as one hair?",
+      "fr": "Combien d’atomes alignés font à peu près la largeur d’un cheveu ?",
+      "nl": "Hoeveel atomen op een rij zijn ongeveer zo breed als één haar?"
+     },
+     "o": {
+      "en": [
+       "Ten",
+       "A hundred",
+       "A million"
+      ],
+      "fr": [
+       "Dix",
+       "Cent",
+       "Un million"
+      ],
+      "nl": [
+       "Tien",
+       "Honderd",
+       "Een miljoen"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What is an atom mostly made of?",
+      "fr": "De quoi un atome est-il surtout fait ?",
+      "nl": "Waaruit bestaat een atoom vooral?"
+     },
+     "o": {
+      "en": [
+       "Chocolate",
+       "Water",
+       "Empty space"
+      ],
+      "fr": [
+       "De chocolat",
+       "D’eau",
+       "De vide"
+      ],
+      "nl": [
+       "Chocolade",
+       "Water",
+       "Lege ruimte"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "If the nucleus were a marble in a stadium, where would the electrons be?",
+      "fr": "Si le noyau était une bille dans un stade, où seraient les électrons ?",
+      "nl": "Als de kern een knikker in een stadion was, waar zouden de elektronen zijn?"
+     },
+     "o": {
+      "en": [
+       "Inside the marble",
+       "Up in the top seats",
+       "In the parking lot"
+      ],
+      "fr": [
+       "Dans la bille",
+       "Tout en haut des gradins",
+       "Sur le parking"
+      ],
+      "nl": [
+       "In de knikker",
+       "Bovenaan bij de tribunes",
+       "Op de parkeerplaats"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Atom pairs",
+     "fr": "Les paires de l’atome",
+     "nl": "Atoomparen"
+    },
+    "intro": {
+     "en": "Match each word with what it means in the atom story!",
+     "fr": "Relie chaque mot à ce qu’il veut dire dans l’histoire de l’atome !",
+     "nl": "Koppel elk woord aan wat het betekent in het atoomverhaal!"
+    },
+    "done": {
+     "en": "Super! You’re an atom expert now.",
+     "fr": "Super ! Te voilà expert des atomes.",
+     "nl": "Super! Jij bent nu een atoomexpert."
+    },
+    "left": {
+     "en": [
+      "Atom",
+      "Nucleus",
+      "Electrons",
+      "One hair"
+     ],
+     "fr": [
+      "Atome",
+      "Noyau",
+      "Électrons",
+      "Un cheveu"
+     ],
+     "nl": [
+      "Atoom",
+      "Kern",
+      "Elektronen",
+      "Eén haar"
+     ]
+    },
+    "right": {
+     "en": [
+      "A tiny building block of everything",
+      "The marble in the middle of the stadium",
+      "Zoom around up in the top seats",
+      "About a million atoms wide"
+     ],
+     "fr": [
+      "Une minuscule brique de toutes les choses",
+      "La bille au milieu du stade",
+      "Filent tout en haut des gradins",
+      "Large d’environ un million d’atomes"
+     ],
+     "nl": [
+      "Een piepklein bouwsteentje van alles",
+      "De knikker midden in het stadion",
+      "Zoeven bovenaan langs de tribunes",
+      "Ongeveer een miljoen atomen breed"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Quantum",
+    "fr": "Quantique",
+    "nl": "Quantum"
+   },
+   "adult": {
+    "en": "For grown-ups: the Quantum world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Quantique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Quantum in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-12",
+   "voice": true
+  },
+  {
+   "id": "bloom-20261112",
+   "world": "bloom",
+   "guide": "Bloom",
+   "title": {
+    "en": "How do tiny bacteria turn milk into yogurt?",
+    "fr": "Comment de minuscules bactéries transforment-elles le lait en yaourt ?",
+    "nl": "Hoe maken piepkleine bacteriën van melk yoghurt?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Bloom, my yogurt is thick and a little sour, but milk is runny. How does milk become yogurt?",
+     "fr": "Bloom, mon yaourt est épais et un peu acide, mais le lait est tout liquide. Comment le lait devient-il du yaourt ?",
+     "nl": "Bloom, mijn yoghurt is dik en een beetje zuur, maar melk is vloeibaar. Hoe wordt melk yoghurt?",
+     "img": "Whyzz holds yogurt and a glass of milk, puzzled"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Wait, I know! The cows go to the gym until their milk gets thick and strong!",
+     "fr": "Attends, je sais ! Les vaches font de la gym jusqu’à ce que leur lait devienne bien épais et costaud !",
+     "nl": "Wacht, ik weet het! De koeien gaan naar de sportschool tot hun melk lekker dik en sterk wordt!",
+     "img": "A cartoon cow lifts dumbbells, Whyzz flexes, Bloom laughs"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Ha, no gym needed! Yogurt is made by tiny living helpers called bacteria, so small that millions fit in one spoonful.",
+     "fr": "Ha, pas besoin de gym ! Le yaourt est fabriqué par de minuscules êtres vivants appelés bactéries, si petits que des millions tiennent dans une cuillère.",
+     "nl": "Haha, geen sportschool nodig! Yoghurt wordt gemaakt door piepkleine levende helpers, bacteriën, zo klein dat er miljoenen in één lepel passen.",
+     "img": "Bloom's magnifying glass shows cute tiny bacteria in yogurt"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "In warm milk, the bacteria munch on milk sugar like a snack. They turn it into an acid that makes the milk thick and a little sour.",
+     "fr": "Dans le lait tiède, les bactéries grignotent le sucre du lait comme un goûter. Elles le transforment en un acide qui épaissit le lait et lui donne un petit goût acidulé.",
+     "nl": "In warme melk knabbelen de bacteriën aan de melksuiker, als een tussendoortje. Ze maken er een zuur van, waardoor de melk dik wordt en een beetje zuur smaakt.",
+     "img": "Cute bacteria munch sugar crystals in a bowl of milk"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Did you know these are friendly bacteria? People have used them to make yogurt for thousands of years, long before anyone knew they existed.",
+     "fr": "Savais-tu que ce sont des bactéries amies ? On les utilise pour faire du yaourt depuis des milliers d’années, bien avant de savoir qu’elles existaient.",
+     "nl": "Wist je dat dit vriendelijke bacteriën zijn? Mensen maken er al duizenden jaren yoghurt mee, lang voordat iemand wist dat ze bestonden.",
+     "img": "Old clay pots of yogurt in golden light, Bloom and Whyzz amazed"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So tiny bacteria snack on milk sugar and turn milk into yogurt! What would you put on top of your yogurt?",
+     "fr": "Donc de minuscules bactéries grignotent le sucre du lait et transforment le lait en yaourt ! Qu’est-ce que tu mettrais sur ton yaourt ?",
+     "nl": "Dus piepkleine bacteriën smullen van melksuiker en maken van melk yoghurt! Wat zou jij bovenop je yoghurt doen?",
+     "img": "Whyzz and Bloom with yogurt bowls topped with fruit"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What did Whyzz think made milk thick?",
+      "fr": "Selon Whyzz, qu’est-ce qui rendait le lait épais ?",
+      "nl": "Wat dacht Whyzz dat de melk dik maakte?"
+     },
+     "o": {
+      "en": [
+       "Cows going to the gym",
+       "Cold rain",
+       "Loud music"
+      ],
+      "fr": [
+       "Des vaches qui font de la gym",
+       "La pluie froide",
+       "La musique forte"
+      ],
+      "nl": [
+       "Koeien die naar de sportschool gaan",
+       "Koude regen",
+       "Luide muziek"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Who really makes yogurt?",
+      "fr": "Qui fabrique vraiment le yaourt ?",
+      "nl": "Wie maakt eigenlijk yoghurt?"
+     },
+     "o": {
+      "en": [
+       "Little fairies",
+       "Bees",
+       "Tiny bacteria"
+      ],
+      "fr": [
+       "De petites fées",
+       "Des abeilles",
+       "De minuscules bactéries"
+      ],
+      "nl": [
+       "Kleine feeën",
+       "Bijen",
+       "Piepkleine bacteriën"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What do the bacteria munch on?",
+      "fr": "Que grignotent les bactéries ?",
+      "nl": "Waaraan knabbelen de bacteriën?"
+     },
+     "o": {
+      "en": [
+       "Salt",
+       "Milk sugar",
+       "Leaves"
+      ],
+      "fr": [
+       "Du sel",
+       "Le sucre du lait",
+       "Des feuilles"
+      ],
+      "nl": [
+       "Zout",
+       "Melksuiker",
+       "Blaadjes"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How many bacteria fit in one spoonful?",
+      "fr": "Combien de bactéries tiennent dans une cuillère ?",
+      "nl": "Hoeveel bacteriën passen er in één lepel?"
+     },
+     "o": {
+      "en": [
+       "Millions",
+       "Just one",
+       "Ten"
+      ],
+      "fr": [
+       "Des millions",
+       "Une seule",
+       "Dix"
+      ],
+      "nl": [
+       "Miljoenen",
+       "Maar één",
+       "Tien"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "How long have people been making yogurt?",
+      "fr": "Depuis combien de temps fait-on du yaourt ?",
+      "nl": "Hoelang maken mensen al yoghurt?"
+     },
+     "o": {
+      "en": [
+       "Since last week",
+       "For thousands of years",
+       "Only since phones were invented"
+      ],
+      "fr": [
+       "Depuis la semaine dernière",
+       "Depuis des milliers d’années",
+       "Seulement depuis l’invention du téléphone"
+      ],
+      "nl": [
+       "Sinds vorige week",
+       "Al duizenden jaren",
+       "Pas sinds er telefoons bestaan"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "Make your own yogurt",
+     "fr": "Fabrique ton yaourt",
+     "nl": "Maak je eigen yoghurt"
+    },
+    "intro": {
+     "en": "How does milk become yogurt? Put the steps in the right order!",
+     "fr": "Comment le lait devient-il du yaourt ? Remets les étapes dans le bon ordre !",
+     "nl": "Hoe wordt melk yoghurt? Zet de stappen in de juiste volgorde!"
+    },
+    "done": {
+     "en": "Yum! Your bacteria helpers made yogurt.",
+     "fr": "Miam ! Tes bactéries amies ont fait du yaourt.",
+     "nl": "Mmm! Je bacteriehelpers hebben yoghurt gemaakt."
+    },
+    "items": {
+     "en": [
+      "A grown-up warms the milk",
+      "Stir in a spoonful of yogurt with bacteria",
+      "Keep it warm for a few hours",
+      "The bacteria munch the milk sugar",
+      "The milk turns thick and a little sour",
+      "Cool it in the fridge"
+     ],
+     "fr": [
+      "Un adulte fait tiédir le lait",
+      "Ajoute une cuillère de yaourt avec ses bactéries",
+      "Garde-le au chaud quelques heures",
+      "Les bactéries grignotent le sucre du lait",
+      "Le lait devient épais et un peu acide",
+      "Mets-le au frigo"
+     ],
+     "nl": [
+      "Een volwassene warmt de melk op",
+      "Roer er een lepel yoghurt met bacteriën door",
+      "Hou het een paar uur warm",
+      "De bacteriën knabbelen aan de melksuiker",
+      "De melk wordt dik en een beetje zuur",
+      "Zet het in de koelkast"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Biotech",
+    "fr": "Biotech",
+    "nl": "Biotech"
+   },
+   "adult": {
+    "en": "For grown-ups: the Biotech world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Biotech dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Biotech in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-12",
+   "voice": true
+  },
+  {
+   "id": "robo-20261112",
+   "world": "robo",
+   "guide": "Pixel",
+   "title": {
+    "en": "How does a robot explore Mars?",
+    "fr": "Comment un robot explore-t-il la planète Mars ?",
+    "nl": "Hoe verkent een robot de planeet Mars?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, nobody has ever walked on Mars. So how do we know what the ground there looks like?",
+     "fr": "Pixel, personne n’a jamais marché sur Mars. Alors comment sait-on à quoi ressemble le sol là-bas ?",
+     "nl": "Pixel, nog nooit heeft iemand op Mars gelopen. Hoe weten we dan hoe de grond daar eruitziet?",
+     "img": "Whyzz and Pixel look at red Mars through a telescope"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "We send robots called rovers! A rover is like a car-sized explorer on six wheels, with cameras for eyes and an arm full of tools.",
+     "fr": "On envoie des robots appelés rovers ! Un rover, c’est comme un explorateur de la taille d’une voiture, sur six roues, avec des caméras comme yeux et un bras plein d’outils.",
+     "nl": "We sturen robots die rovers heten! Een rover is een soort ontdekkingsreiziger zo groot als een auto, op zes wielen, met camera’s als ogen en een arm vol gereedschap.",
+     "img": "Pixel shows a hologram of a six-wheeled rover"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Ooh, I bet when it gets lost, it stops and asks the Martians for directions!",
+     "fr": "Oh, et quand il se perd, il s’arrête pour demander son chemin aux Martiens !",
+     "nl": "Ooh, en als hij verdwaalt, stopt hij en vraagt hij de weg aan de marsmannetjes!",
+     "img": "Whyzz imagines the rover asking a little green alien for directions"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "There are no Martians to ask! Messages from Earth take many minutes to arrive, so the rover spots rocks with its cameras and steers around them by itself.",
+     "fr": "Il n’y a pas de Martiens à qui demander ! Les messages de la Terre mettent de longues minutes à arriver, alors le rover repère les rochers avec ses caméras et les contourne tout seul.",
+     "nl": "Er zijn daar geen marsmannetjes om de weg aan te vragen! Berichten van de aarde doen er vele minuten over, dus de rover ziet stenen met zijn camera’s en stuurt er zelf omheen.",
+     "img": "The rover steers around red rocks, watched on a hologram"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know a tiny robot helicopter once flew on Mars? The air there is so thin that its blades had to spin super fast to lift it.",
+     "fr": "Savais-tu qu’un petit hélicoptère robot a déjà volé sur Mars ? L’air y est si fin que ses pales devaient tourner super vite pour le soulever.",
+     "nl": "Wist je dat er al eens een klein robothelikoptertje op Mars heeft gevlogen? De lucht is daar zo dun dat de rotorbladen supersnel moesten draaien om op te stijgen.",
+     "img": "A tiny helicopter hovers over Mars, Pixel and Whyzz cheer"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So rovers drive, look and dig on Mars while we watch from Earth! If you could send a robot anywhere, where would it go?",
+     "fr": "Donc les rovers roulent, observent et creusent sur Mars pendant qu’on les suit depuis la Terre ! Si tu pouvais envoyer un robot n’importe où, où irait-il ?",
+     "nl": "Dus rovers rijden, kijken en graven op Mars terwijl wij vanaf de aarde meekijken! Als jij een robot overal naartoe kon sturen, waar zou hij dan heen gaan?",
+     "img": "Whyzz and Pixel drive a toy rover through a red sandbox"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Has anyone ever walked on Mars?",
+      "fr": "Quelqu’un a-t-il déjà marché sur Mars ?",
+      "nl": "Heeft er ooit iemand op Mars gelopen?"
+     },
+     "o": {
+      "en": [
+       "Yes, every summer",
+       "No, never",
+       "Only cats"
+      ],
+      "fr": [
+       "Oui, chaque été",
+       "Non, jamais",
+       "Seulement des chats"
+      ],
+      "nl": [
+       "Ja, elke zomer",
+       "Nee, nog nooit",
+       "Alleen katten"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How many wheels does the rover have?",
+      "fr": "Combien de roues le rover a-t-il ?",
+      "nl": "Hoeveel wielen heeft de rover?"
+     },
+     "o": {
+      "en": [
+       "Two",
+       "Four",
+       "Six"
+      ],
+      "fr": [
+       "Deux",
+       "Quatre",
+       "Six"
+      ],
+      "nl": [
+       "Twee",
+       "Vier",
+       "Zes"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Who did Whyzz think the rover asks for directions?",
+      "fr": "À qui le rover demande-t-il son chemin, selon Whyzz ?",
+      "nl": "Aan wie vraagt de rover de weg, volgens Whyzz?"
+     },
+     "o": {
+      "en": [
+       "Martians",
+       "Penguins",
+       "The Moon"
+      ],
+      "fr": [
+       "Aux Martiens",
+       "Aux manchots",
+       "À la Lune"
+      ],
+      "nl": [
+       "Aan marsmannetjes",
+       "Aan pinguïns",
+       "Aan de maan"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why does the rover steer around rocks by itself?",
+      "fr": "Pourquoi le rover contourne-t-il les rochers tout seul ?",
+      "nl": "Waarom stuurt de rover zelf om stenen heen?"
+     },
+     "o": {
+      "en": [
+       "It’s bored",
+       "Messages from Earth take many minutes",
+       "It has no wheels"
+      ],
+      "fr": [
+       "Il s’ennuie",
+       "Les messages de la Terre mettent de longues minutes",
+       "Il n’a pas de roues"
+      ],
+      "nl": [
+       "Hij verveelt zich",
+       "Berichten van de aarde doen er vele minuten over",
+       "Hij heeft geen wielen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What once flew on Mars?",
+      "fr": "Qu’est-ce qui a déjà volé sur Mars ?",
+      "nl": "Wat heeft er al eens op Mars gevlogen?"
+     },
+     "o": {
+      "en": [
+       "A tiny robot helicopter",
+       "A paper plane",
+       "A hot-air balloon"
+      ],
+      "fr": [
+       "Un petit hélicoptère robot",
+       "Un avion en papier",
+       "Une montgolfière"
+      ],
+      "nl": [
+       "Een klein robothelikoptertje",
+       "Een papieren vliegtuigje",
+       "Een luchtballon"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Pack the rover",
+     "fr": "Équipe le rover",
+     "nl": "Rust de rover uit"
+    },
+    "intro": {
+     "en": "What does a Mars rover need? Pick all the right things!",
+     "fr": "De quoi un rover martien a-t-il besoin ? Choisis toutes les bonnes réponses !",
+     "nl": "Wat heeft een marsrover nodig? Kies alle juiste dingen!"
+    },
+    "done": {
+     "en": "Ready for launch! Your rover can explore Mars.",
+     "fr": "Prêt pour le décollage ! Ton rover peut explorer Mars.",
+     "nl": "Klaar voor de lancering! Je rover kan Mars verkennen."
+    },
+    "items": {
+     "en": [
+      "Cameras for eyes",
+      "Six sturdy wheels",
+      "An arm with tools",
+      "A way to send messages to Earth",
+      "A steering wheel for a driver",
+      "An umbrella for the rain",
+      "A map of Martian shops"
+     ],
+     "fr": [
+      "Des caméras comme yeux",
+      "Six roues solides",
+      "Un bras avec des outils",
+      "Un moyen d’envoyer des messages à la Terre",
+      "Un volant pour un conducteur",
+      "Un parapluie contre la pluie",
+      "Une carte des magasins martiens"
+     ],
+     "nl": [
+      "Camera’s als ogen",
+      "Zes stevige wielen",
+      "Een arm met gereedschap",
+      "Een manier om berichten naar de aarde te sturen",
+      "Een stuur voor een bestuurder",
+      "Een paraplu tegen de regen",
+      "Een kaart met winkels op Mars"
+     ]
+    },
+    "good": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   "worldName": {
+    "en": "Robotics",
+    "fr": "Robotique",
+    "nl": "Robotica"
+   },
+   "adult": {
+    "en": "For grown-ups: the Robotics world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Robotique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Robotica in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-12",
+   "voice": true
+  },
+  {
+   "id": "energy-20261112",
+   "world": "energy",
+   "guide": "Sunny",
+   "title": {
+    "en": "How can a heat pump warm a house in winter?",
+    "fr": "Comment une pompe à chaleur chauffe-t-elle une maison en hiver ?",
+    "nl": "Hoe verwarmt een warmtepomp een huis in de winter?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, our neighbors have a big humming box outside their house. They say it heats their home, but it’s freezing out there!",
+     "fr": "Sunny, nos voisins ont une grosse boîte qui ronronne devant chez eux. Ils disent qu’elle chauffe leur maison, mais il gèle dehors !",
+     "nl": "Sunny, onze buren hebben een grote zoemende kast buiten hun huis. Ze zeggen dat die hun huis verwarmt, maar het vriest daarbuiten!",
+     "img": "Whyzz shivers in the snow next to a heat pump box"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Wait, I know! There’s a tiny dragon inside that breathes warm air into the house!",
+     "fr": "Attends, je sais ! Il y a un petit dragon dedans qui souffle de l’air chaud dans la maison !",
+     "nl": "Wacht, ik weet het! Er zit een klein draakje in dat warme lucht het huis in blaast!",
+     "img": "Whyzz imagines a little dragon in the box, Sunny laughs"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "No dragon, it’s a heat pump! Even cold winter air still holds some heat and the heat pump collects it, like a sponge soaking up water.",
+     "fr": "Pas de dragon, c’est une pompe à chaleur ! Même l’air froid de l’hiver contient encore un peu de chaleur et la pompe la récupère, comme une éponge qui absorbe l’eau.",
+     "nl": "Geen draak, het is een warmtepomp! Zelfs koude winterlucht bevat nog wat warmte en de warmtepomp vangt die op, zoals een spons die water opzuigt.",
+     "img": "Sunny squeezes a sponge, the box pulls warm wisps from snowy air"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "A special fluid inside carries that heat. A compressor squeezes it and makes it much hotter, like a bike pump that gets warm when you pump hard.",
+     "fr": "Un fluide spécial transporte cette chaleur. Un compresseur le comprime et le rend bien plus chaud, comme une pompe à vélo qui chauffe quand tu pompes fort.",
+     "nl": "Een speciale stof binnenin draagt die warmte mee. Een compressor perst die stof samen en maakt ze veel heter, zoals een fietspomp die warm wordt als je hard pompt.",
+     "img": "Sunny pumps a bike tire next to a cutaway of glowing pipes"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Did you know your fridge is a heat pump too? It pulls heat out of your food and lets it out at the back, which is why the back feels warm.",
+     "fr": "Savais-tu que ton frigo est aussi une pompe à chaleur ? Il retire la chaleur de tes aliments et la rejette à l’arrière, c’est pour ça que l’arrière est tiède.",
+     "nl": "Wist je dat je koelkast ook een warmtepomp is? Hij haalt warmte uit je eten en geeft die af aan de achterkant, daarom voelt die warm aan.",
+     "img": "Whyzz touches the warm back of a fridge, surprised"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So the heat pump grabs heat from cold air, squeezes it hotter and warms the house! Which room in your home would you warm up first?",
+     "fr": "Donc la pompe à chaleur attrape la chaleur de l’air froid, la comprime pour la rendre plus chaude et chauffe la maison ! Quelle pièce de chez toi réchaufferais-tu en premier ?",
+     "nl": "Dus de warmtepomp pakt warmte uit koude lucht, perst die heter en verwarmt het huis! Welke kamer in jouw huis zou jij als eerste opwarmen?",
+     "img": "Whyzz and Sunny with hot cocoa in a warm room, snow outside"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What did Whyzz think was inside the box?",
+      "fr": "Selon Whyzz, qu’y avait-il dans la boîte ?",
+      "nl": "Wat dacht Whyzz dat er in de kast zat?"
+     },
+     "o": {
+      "en": [
+       "A snowman",
+       "A tiny dragon",
+       "A sleepy bear"
+      ],
+      "fr": [
+       "Un bonhomme de neige",
+       "Un petit dragon",
+       "Un ours endormi"
+      ],
+      "nl": [
+       "Een sneeuwpop",
+       "Een klein draakje",
+       "Een slaperige beer"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Does cold winter air still hold some heat?",
+      "fr": "L’air froid de l’hiver contient-il encore de la chaleur ?",
+      "nl": "Bevat koude winterlucht nog warmte?"
+     },
+     "o": {
+      "en": [
+       "Yes, a little",
+       "No, none at all",
+       "Only on Sundays"
+      ],
+      "fr": [
+       "Oui, un peu",
+       "Non, pas du tout",
+       "Seulement le dimanche"
+      ],
+      "nl": [
+       "Ja, een beetje",
+       "Nee, helemaal niet",
+       "Alleen op zondag"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What does the compressor do to the fluid?",
+      "fr": "Que fait le compresseur au fluide ?",
+      "nl": "Wat doet de compressor met de stof?"
+     },
+     "o": {
+      "en": [
+       "It paints it",
+       "It freezes it",
+       "It squeezes it to make it hotter"
+      ],
+      "fr": [
+       "Il le peint",
+       "Il le gèle",
+       "Il le comprime pour le rendre plus chaud"
+      ],
+      "nl": [
+       "Hij verft ze",
+       "Hij bevriest ze",
+       "Hij perst ze samen zodat ze heter wordt"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What gets warm when you pump hard?",
+      "fr": "Qu’est-ce qui chauffe quand tu pompes fort ?",
+      "nl": "Wat wordt warm als je hard pompt?"
+     },
+     "o": {
+      "en": [
+       "An ice cube",
+       "A bike pump",
+       "A snowball"
+      ],
+      "fr": [
+       "Un glaçon",
+       "Une pompe à vélo",
+       "Une boule de neige"
+      ],
+      "nl": [
+       "Een ijsblokje",
+       "Een fietspomp",
+       "Een sneeuwbal"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Which machine in your kitchen is also a heat pump?",
+      "fr": "Quel appareil de ta cuisine est aussi une pompe à chaleur ?",
+      "nl": "Welk toestel in je keuken is ook een warmtepomp?"
+     },
+     "o": {
+      "en": [
+       "The fridge",
+       "The toaster",
+       "The kettle"
+      ],
+      "fr": [
+       "Le frigo",
+       "Le grille-pain",
+       "La bouilloire"
+      ],
+      "nl": [
+       "De koelkast",
+       "De broodrooster",
+       "De waterkoker"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Heat pump pairs",
+     "fr": "Les paires de la pompe à chaleur",
+     "nl": "Warmtepomp-paren"
+    },
+    "intro": {
+     "en": "Match each part with its job!",
+     "fr": "Relie chaque partie à son rôle !",
+     "nl": "Koppel elk onderdeel aan zijn taak!"
+    },
+    "done": {
+     "en": "Toasty! Now you know how a heat pump works.",
+     "fr": "Bien au chaud ! Maintenant, tu sais comment marche une pompe à chaleur.",
+     "nl": "Lekker warm! Nu weet je hoe een warmtepomp werkt."
+    },
+    "left": {
+     "en": [
+      "The box outside",
+      "The special fluid",
+      "The compressor",
+      "The fridge"
+     ],
+     "fr": [
+      "La boîte dehors",
+      "Le fluide spécial",
+      "Le compresseur",
+      "Le frigo"
+     ],
+     "nl": [
+      "De kast buiten",
+      "De speciale stof",
+      "De compressor",
+      "De koelkast"
+     ]
+    },
+    "right": {
+     "en": [
+      "Collects heat from the cold air",
+      "Carries the heat",
+      "Squeezes the fluid to make it hotter",
+      "A heat pump in your kitchen"
+     ],
+     "fr": [
+      "Récupère la chaleur de l’air froid",
+      "Transporte la chaleur",
+      "Comprime le fluide pour le rendre plus chaud",
+      "Une pompe à chaleur dans ta cuisine"
+     ],
+     "nl": [
+      "Vangt warmte op uit koude lucht",
+      "Draagt de warmte mee",
+      "Perst de stof samen zodat ze heter wordt",
+      "Een warmtepomp in je keuken"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Energy",
+    "fr": "Énergie",
+    "nl": "Energie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Energy world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Énergie dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Energie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-12",
+   "voice": true
   }
  ]
 }
