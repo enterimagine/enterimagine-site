@@ -1,0 +1,233 @@
+{
+ "id": "bloom-20261112",
+ "world": "bloom",
+ "guide": "Bloom",
+ "title": {
+  "en": "How do tiny bacteria turn milk into yogurt?",
+  "fr": "Comment de minuscules bactéries transforment-elles le lait en yaourt ?",
+  "nl": "Hoe maken piepkleine bacteriën van melk yoghurt?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Bloom, my yogurt is thick and a little sour, but milk is runny. How does milk become yogurt?",
+   "fr": "Bloom, mon yaourt est épais et un peu acide, mais le lait est tout liquide. Comment le lait devient-il du yaourt ?",
+   "nl": "Bloom, mijn yoghurt is dik en een beetje zuur, maar melk is vloeibaar. Hoe wordt melk yoghurt?",
+   "img": "Whyzz holds yogurt and a glass of milk, puzzled"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Wait, I know! The cows go to the gym until their milk gets thick and strong!",
+   "fr": "Attends, je sais ! Les vaches font de la gym jusqu’à ce que leur lait devienne bien épais et costaud !",
+   "nl": "Wacht, ik weet het! De koeien gaan naar de sportschool tot hun melk lekker dik en sterk wordt!",
+   "img": "A cartoon cow lifts dumbbells, Whyzz flexes, Bloom laughs"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Ha, no gym needed! Yogurt is made by tiny living helpers called bacteria, so small that millions fit in one spoonful.",
+   "fr": "Ha, pas besoin de gym ! Le yaourt est fabriqué par de minuscules êtres vivants appelés bactéries, si petits que des millions tiennent dans une cuillère.",
+   "nl": "Haha, geen sportschool nodig! Yoghurt wordt gemaakt door piepkleine levende helpers, bacteriën, zo klein dat er miljoenen in één lepel passen.",
+   "img": "Bloom's magnifying glass shows cute tiny bacteria in yogurt"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "In warm milk, the bacteria munch on milk sugar like a snack. They turn it into an acid that makes the milk thick and a little sour.",
+   "fr": "Dans le lait tiède, les bactéries grignotent le sucre du lait comme un goûter. Elles le transforment en un acide qui épaissit le lait et lui donne un petit goût acidulé.",
+   "nl": "In warme melk knabbelen de bacteriën aan de melksuiker, als een tussendoortje. Ze maken er een zuur van, waardoor de melk dik wordt en een beetje zuur smaakt.",
+   "img": "Cute bacteria munch sugar crystals in a bowl of milk"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Did you know these are friendly bacteria? People have used them to make yogurt for thousands of years, long before anyone knew they existed.",
+   "fr": "Savais-tu que ce sont des bactéries amies ? On les utilise pour faire du yaourt depuis des milliers d’années, bien avant de savoir qu’elles existaient.",
+   "nl": "Wist je dat dit vriendelijke bacteriën zijn? Mensen maken er al duizenden jaren yoghurt mee, lang voordat iemand wist dat ze bestonden.",
+   "img": "Old clay pots of yogurt in golden light, Bloom and Whyzz amazed"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So tiny bacteria snack on milk sugar and turn milk into yogurt! What would you put on top of your yogurt?",
+   "fr": "Donc de minuscules bactéries grignotent le sucre du lait et transforment le lait en yaourt ! Qu’est-ce que tu mettrais sur ton yaourt ?",
+   "nl": "Dus piepkleine bacteriën smullen van melksuiker en maken van melk yoghurt! Wat zou jij bovenop je yoghurt doen?",
+   "img": "Whyzz and Bloom with yogurt bowls topped with fruit"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits at a kitchen table holding a spoon of thick white yogurt in one hand and a glass of runny milk in the other, looking puzzled, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge smiles next to him, bright sunny morning kitchen. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A funny cartoon cow happily lifts small dumbbells in a sunny barn, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge flexes his arms excitedly next to her, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge laughs out loud, hay bales and a milk pail nearby. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge holds up a big magnifying glass over a bowl of yogurt and inside the lens tiny cute friendly round and rod-shaped bacteria characters wave, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stares into the lens amazed, bright kitchen. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Close-up inside a glass bowl of warm milk where tiny cute cartoon bacteria happily munch on little glowing sugar crystals and the milk turns into thick creamy swirls, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge peek over the rim of the bowl with big smiles. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A rustic wooden table with old clay pots of creamy yogurt in warm golden evening light in a peaceful village courtyard, tiny friendly sparkles float above the pots, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stand beside the table looking amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge sit at a kitchen table with big bowls of yogurt topped with strawberries, blueberries, honey and crunchy granola, both smiling and holding spoons, bright cheerful kitchen. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What did Whyzz think made milk thick?",
+    "fr": "Selon Whyzz, qu’est-ce qui rendait le lait épais ?",
+    "nl": "Wat dacht Whyzz dat de melk dik maakte?"
+   },
+   "o": {
+    "en": [
+     "Cows going to the gym",
+     "Cold rain",
+     "Loud music"
+    ],
+    "fr": [
+     "Des vaches qui font de la gym",
+     "La pluie froide",
+     "La musique forte"
+    ],
+    "nl": [
+     "Koeien die naar de sportschool gaan",
+     "Koude regen",
+     "Luide muziek"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Who really makes yogurt?",
+    "fr": "Qui fabrique vraiment le yaourt ?",
+    "nl": "Wie maakt eigenlijk yoghurt?"
+   },
+   "o": {
+    "en": [
+     "Little fairies",
+     "Bees",
+     "Tiny bacteria"
+    ],
+    "fr": [
+     "De petites fées",
+     "Des abeilles",
+     "De minuscules bactéries"
+    ],
+    "nl": [
+     "Kleine feeën",
+     "Bijen",
+     "Piepkleine bacteriën"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What do the bacteria munch on?",
+    "fr": "Que grignotent les bactéries ?",
+    "nl": "Waaraan knabbelen de bacteriën?"
+   },
+   "o": {
+    "en": [
+     "Salt",
+     "Milk sugar",
+     "Leaves"
+    ],
+    "fr": [
+     "Du sel",
+     "Le sucre du lait",
+     "Des feuilles"
+    ],
+    "nl": [
+     "Zout",
+     "Melksuiker",
+     "Blaadjes"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How many bacteria fit in one spoonful?",
+    "fr": "Combien de bactéries tiennent dans une cuillère ?",
+    "nl": "Hoeveel bacteriën passen er in één lepel?"
+   },
+   "o": {
+    "en": [
+     "Millions",
+     "Just one",
+     "Ten"
+    ],
+    "fr": [
+     "Des millions",
+     "Une seule",
+     "Dix"
+    ],
+    "nl": [
+     "Miljoenen",
+     "Maar één",
+     "Tien"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "How long have people been making yogurt?",
+    "fr": "Depuis combien de temps fait-on du yaourt ?",
+    "nl": "Hoelang maken mensen al yoghurt?"
+   },
+   "o": {
+    "en": [
+     "Since last week",
+     "For thousands of years",
+     "Only since phones were invented"
+    ],
+    "fr": [
+     "Depuis la semaine dernière",
+     "Depuis des milliers d’années",
+     "Seulement depuis l’invention du téléphone"
+    ],
+    "nl": [
+     "Sinds vorige week",
+     "Al duizenden jaren",
+     "Pas sinds er telefoons bestaan"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "Make your own yogurt",
+   "fr": "Fabrique ton yaourt",
+   "nl": "Maak je eigen yoghurt"
+  },
+  "intro": {
+   "en": "How does milk become yogurt? Put the steps in the right order!",
+   "fr": "Comment le lait devient-il du yaourt ? Remets les étapes dans le bon ordre !",
+   "nl": "Hoe wordt melk yoghurt? Zet de stappen in de juiste volgorde!"
+  },
+  "done": {
+   "en": "Yum! Your bacteria helpers made yogurt.",
+   "fr": "Miam ! Tes bactéries amies ont fait du yaourt.",
+   "nl": "Mmm! Je bacteriehelpers hebben yoghurt gemaakt."
+  },
+  "items": {
+   "en": [
+    "A grown-up warms the milk",
+    "Stir in a spoonful of yogurt with bacteria",
+    "Keep it warm for a few hours",
+    "The bacteria munch the milk sugar",
+    "The milk turns thick and a little sour",
+    "Cool it in the fridge"
+   ],
+   "fr": [
+    "Un adulte fait tiédir le lait",
+    "Ajoute une cuillère de yaourt avec ses bactéries",
+    "Garde-le au chaud quelques heures",
+    "Les bactéries grignotent le sucre du lait",
+    "Le lait devient épais et un peu acide",
+    "Mets-le au frigo"
+   ],
+   "nl": [
+    "Een volwassene warmt de melk op",
+    "Roer er een lepel yoghurt met bacteriën door",
+    "Hou het een paar uur warm",
+    "De bacteriën knabbelen aan de melksuiker",
+    "De melk wordt dik en een beetje zuur",
+    "Zet het in de koelkast"
+   ]
+  }
+ }
+}

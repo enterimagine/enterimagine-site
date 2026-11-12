@@ -1,0 +1,247 @@
+{
+ "id": "energy-20261112",
+ "world": "energy",
+ "guide": "Sunny",
+ "title": {
+  "en": "How can a heat pump warm a house in winter?",
+  "fr": "Comment une pompe à chaleur chauffe-t-elle une maison en hiver ?",
+  "nl": "Hoe verwarmt een warmtepomp een huis in de winter?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, our neighbors have a big humming box outside their house. They say it heats their home, but it’s freezing out there!",
+   "fr": "Sunny, nos voisins ont une grosse boîte qui ronronne devant chez eux. Ils disent qu’elle chauffe leur maison, mais il gèle dehors !",
+   "nl": "Sunny, onze buren hebben een grote zoemende kast buiten hun huis. Ze zeggen dat die hun huis verwarmt, maar het vriest daarbuiten!",
+   "img": "Whyzz shivers in the snow next to a heat pump box"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Wait, I know! There’s a tiny dragon inside that breathes warm air into the house!",
+   "fr": "Attends, je sais ! Il y a un petit dragon dedans qui souffle de l’air chaud dans la maison !",
+   "nl": "Wacht, ik weet het! Er zit een klein draakje in dat warme lucht het huis in blaast!",
+   "img": "Whyzz imagines a little dragon in the box, Sunny laughs"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "No dragon, it’s a heat pump! Even cold winter air still holds some heat and the heat pump collects it, like a sponge soaking up water.",
+   "fr": "Pas de dragon, c’est une pompe à chaleur ! Même l’air froid de l’hiver contient encore un peu de chaleur et la pompe la récupère, comme une éponge qui absorbe l’eau.",
+   "nl": "Geen draak, het is een warmtepomp! Zelfs koude winterlucht bevat nog wat warmte en de warmtepomp vangt die op, zoals een spons die water opzuigt.",
+   "img": "Sunny squeezes a sponge, the box pulls warm wisps from snowy air"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "A special fluid inside carries that heat. A compressor squeezes it and makes it much hotter, like a bike pump that gets warm when you pump hard.",
+   "fr": "Un fluide spécial transporte cette chaleur. Un compresseur le comprime et le rend bien plus chaud, comme une pompe à vélo qui chauffe quand tu pompes fort.",
+   "nl": "Een speciale stof binnenin draagt die warmte mee. Een compressor perst die stof samen en maakt ze veel heter, zoals een fietspomp die warm wordt als je hard pompt.",
+   "img": "Sunny pumps a bike tire next to a cutaway of glowing pipes"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Did you know your fridge is a heat pump too? It pulls heat out of your food and lets it out at the back, which is why the back feels warm.",
+   "fr": "Savais-tu que ton frigo est aussi une pompe à chaleur ? Il retire la chaleur de tes aliments et la rejette à l’arrière, c’est pour ça que l’arrière est tiède.",
+   "nl": "Wist je dat je koelkast ook een warmtepomp is? Hij haalt warmte uit je eten en geeft die af aan de achterkant, daarom voelt die warm aan.",
+   "img": "Whyzz touches the warm back of a fridge, surprised"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the heat pump grabs heat from cold air, squeezes it hotter and warms the house! Which room in your home would you warm up first?",
+   "fr": "Donc la pompe à chaleur attrape la chaleur de l’air froid, la comprime pour la rendre plus chaude et chauffe la maison ! Quelle pièce de chez toi réchaufferais-tu en premier ?",
+   "nl": "Dus de warmtepomp pakt warmte uit koude lucht, perst die heter en verwarmt het huis! Welke kamer in jouw huis zou jij als eerste opwarmen?",
+   "img": "Whyzz and Sunny with hot cocoa in a warm room, snow outside"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands on a snowy sidewalk in front of a cozy house, hugging himself and shivering while pointing at a big white humming box with a large round fan grille standing next to the house wall, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge smiles beside him, snowflakes falling. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge grins and a big fluffy thought cloud above his head shows a cute friendly little dragon sitting inside a white box with a round fan and blowing warm orange air toward a cozy house, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge laughs, snowy garden. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge squeezes a big yellow sponge over a bucket of water, next to her a white outdoor heat pump box with a round fan pulls soft glowing orange wisps of warmth out of the cold snowy air, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with curiosity, snowy garden. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge pumps up a bicycle tire with a hand pump and touches the pump with a surprised smile, next to her a friendly cutaway of a heat pump shows glowing pipes and a round compressor shining warm orange, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches amazed, cozy garage. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A bright kitchen where a fridge stands slightly pulled away from the wall, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge touches the back of the fridge with a surprised face as soft glowing heat waves rise from it, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge points at it with a smile. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge sit on a soft sofa in a warm cozy living room holding mugs of hot cocoa next to a warm radiator, snow falls outside the window, both smiling happily. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What did Whyzz think was inside the box?",
+    "fr": "Selon Whyzz, qu’y avait-il dans la boîte ?",
+    "nl": "Wat dacht Whyzz dat er in de kast zat?"
+   },
+   "o": {
+    "en": [
+     "A snowman",
+     "A tiny dragon",
+     "A sleepy bear"
+    ],
+    "fr": [
+     "Un bonhomme de neige",
+     "Un petit dragon",
+     "Un ours endormi"
+    ],
+    "nl": [
+     "Een sneeuwpop",
+     "Een klein draakje",
+     "Een slaperige beer"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Does cold winter air still hold some heat?",
+    "fr": "L’air froid de l’hiver contient-il encore de la chaleur ?",
+    "nl": "Bevat koude winterlucht nog warmte?"
+   },
+   "o": {
+    "en": [
+     "Yes, a little",
+     "No, none at all",
+     "Only on Sundays"
+    ],
+    "fr": [
+     "Oui, un peu",
+     "Non, pas du tout",
+     "Seulement le dimanche"
+    ],
+    "nl": [
+     "Ja, een beetje",
+     "Nee, helemaal niet",
+     "Alleen op zondag"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What does the compressor do to the fluid?",
+    "fr": "Que fait le compresseur au fluide ?",
+    "nl": "Wat doet de compressor met de stof?"
+   },
+   "o": {
+    "en": [
+     "It paints it",
+     "It freezes it",
+     "It squeezes it to make it hotter"
+    ],
+    "fr": [
+     "Il le peint",
+     "Il le gèle",
+     "Il le comprime pour le rendre plus chaud"
+    ],
+    "nl": [
+     "Hij verft ze",
+     "Hij bevriest ze",
+     "Hij perst ze samen zodat ze heter wordt"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What gets warm when you pump hard?",
+    "fr": "Qu’est-ce qui chauffe quand tu pompes fort ?",
+    "nl": "Wat wordt warm als je hard pompt?"
+   },
+   "o": {
+    "en": [
+     "An ice cube",
+     "A bike pump",
+     "A snowball"
+    ],
+    "fr": [
+     "Un glaçon",
+     "Une pompe à vélo",
+     "Une boule de neige"
+    ],
+    "nl": [
+     "Een ijsblokje",
+     "Een fietspomp",
+     "Een sneeuwbal"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Which machine in your kitchen is also a heat pump?",
+    "fr": "Quel appareil de ta cuisine est aussi une pompe à chaleur ?",
+    "nl": "Welk toestel in je keuken is ook een warmtepomp?"
+   },
+   "o": {
+    "en": [
+     "The fridge",
+     "The toaster",
+     "The kettle"
+    ],
+    "fr": [
+     "Le frigo",
+     "Le grille-pain",
+     "La bouilloire"
+    ],
+    "nl": [
+     "De koelkast",
+     "De broodrooster",
+     "De waterkoker"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Heat pump pairs",
+   "fr": "Les paires de la pompe à chaleur",
+   "nl": "Warmtepomp-paren"
+  },
+  "intro": {
+   "en": "Match each part with its job!",
+   "fr": "Relie chaque partie à son rôle !",
+   "nl": "Koppel elk onderdeel aan zijn taak!"
+  },
+  "done": {
+   "en": "Toasty! Now you know how a heat pump works.",
+   "fr": "Bien au chaud ! Maintenant, tu sais comment marche une pompe à chaleur.",
+   "nl": "Lekker warm! Nu weet je hoe een warmtepomp werkt."
+  },
+  "left": {
+   "en": [
+    "The box outside",
+    "The special fluid",
+    "The compressor",
+    "The fridge"
+   ],
+   "fr": [
+    "La boîte dehors",
+    "Le fluide spécial",
+    "Le compresseur",
+    "Le frigo"
+   ],
+   "nl": [
+    "De kast buiten",
+    "De speciale stof",
+    "De compressor",
+    "De koelkast"
+   ]
+  },
+  "right": {
+   "en": [
+    "Collects heat from the cold air",
+    "Carries the heat",
+    "Squeezes the fluid to make it hotter",
+    "A heat pump in your kitchen"
+   ],
+   "fr": [
+    "Récupère la chaleur de l’air froid",
+    "Transporte la chaleur",
+    "Comprime le fluide pour le rendre plus chaud",
+    "Une pompe à chaleur dans ta cuisine"
+   ],
+   "nl": [
+    "Vangt warmte op uit koude lucht",
+    "Draagt de warmte mee",
+    "Perst de stof samen zodat ze heter wordt",
+    "Een warmtepomp in je keuken"
+   ]
+  }
+ }
+}

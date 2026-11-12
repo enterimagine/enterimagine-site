@@ -1,0 +1,242 @@
+{
+ "id": "robo-20261112",
+ "world": "robo",
+ "guide": "Pixel",
+ "title": {
+  "en": "How does a robot explore Mars?",
+  "fr": "Comment un robot explore-t-il la planète Mars ?",
+  "nl": "Hoe verkent een robot de planeet Mars?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, nobody has ever walked on Mars. So how do we know what the ground there looks like?",
+   "fr": "Pixel, personne n’a jamais marché sur Mars. Alors comment sait-on à quoi ressemble le sol là-bas ?",
+   "nl": "Pixel, nog nooit heeft iemand op Mars gelopen. Hoe weten we dan hoe de grond daar eruitziet?",
+   "img": "Whyzz and Pixel look at red Mars through a telescope"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "We send robots called rovers! A rover is like a car-sized explorer on six wheels, with cameras for eyes and an arm full of tools.",
+   "fr": "On envoie des robots appelés rovers ! Un rover, c’est comme un explorateur de la taille d’une voiture, sur six roues, avec des caméras comme yeux et un bras plein d’outils.",
+   "nl": "We sturen robots die rovers heten! Een rover is een soort ontdekkingsreiziger zo groot als een auto, op zes wielen, met camera’s als ogen en een arm vol gereedschap.",
+   "img": "Pixel shows a hologram of a six-wheeled rover"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Ooh, I bet when it gets lost, it stops and asks the Martians for directions!",
+   "fr": "Oh, et quand il se perd, il s’arrête pour demander son chemin aux Martiens !",
+   "nl": "Ooh, en als hij verdwaalt, stopt hij en vraagt hij de weg aan de marsmannetjes!",
+   "img": "Whyzz imagines the rover asking a little green alien for directions"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "There are no Martians to ask! Messages from Earth take many minutes to arrive, so the rover spots rocks with its cameras and steers around them by itself.",
+   "fr": "Il n’y a pas de Martiens à qui demander ! Les messages de la Terre mettent de longues minutes à arriver, alors le rover repère les rochers avec ses caméras et les contourne tout seul.",
+   "nl": "Er zijn daar geen marsmannetjes om de weg aan te vragen! Berichten van de aarde doen er vele minuten over, dus de rover ziet stenen met zijn camera’s en stuurt er zelf omheen.",
+   "img": "The rover steers around red rocks, watched on a hologram"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know a tiny robot helicopter once flew on Mars? The air there is so thin that its blades had to spin super fast to lift it.",
+   "fr": "Savais-tu qu’un petit hélicoptère robot a déjà volé sur Mars ? L’air y est si fin que ses pales devaient tourner super vite pour le soulever.",
+   "nl": "Wist je dat er al eens een klein robothelikoptertje op Mars heeft gevlogen? De lucht is daar zo dun dat de rotorbladen supersnel moesten draaien om op te stijgen.",
+   "img": "A tiny helicopter hovers over Mars, Pixel and Whyzz cheer"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So rovers drive, look and dig on Mars while we watch from Earth! If you could send a robot anywhere, where would it go?",
+   "fr": "Donc les rovers roulent, observent et creusent sur Mars pendant qu’on les suit depuis la Terre ! Si tu pouvais envoyer un robot n’importe où, où irait-il ?",
+   "nl": "Dus rovers rijden, kijken en graven op Mars terwijl wij vanaf de aarde meekijken! Als jij een robot overal naartoe kon sturen, waar zou hij dan heen gaan?",
+   "img": "Whyzz and Pixel drive a toy rover through a red sandbox"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stand on a cozy rooftop at night next to a telescope, a bright red planet Mars glows in the starry sky, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge scratches his head with a curious face and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge smiles, twinkling stars. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy space lab Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge proudly points at a glowing hologram floating above a round table showing a car-sized six-wheeled robot rover with a camera head on a tall mast and a robot arm, on red rocky ground, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with wide eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge grins and a big fluffy thought cloud above his head shows a six-wheeled robot rover on red Mars ground politely meeting a cute little green alien who points the way, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge rolls her eyes with a smile, cozy space lab. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A six-wheeled robot rover carefully steers around big red rocks on the dusty orange surface of Mars, its camera eyes glowing softly, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watch it as a big glowing hologram in a cozy space lab, leaning forward excitedly. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A tiny robot helicopter with two long spinning blades hovers above the red dusty ground of Mars next to a six-wheeled rover, shown as a big glowing hologram in a cozy space lab, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge cheer with their arms up. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge kneel in a big sandbox full of red sand with little rocks in a bright playroom, steering a small toy six-wheeled rover with a remote control, both laughing. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Has anyone ever walked on Mars?",
+    "fr": "Quelqu’un a-t-il déjà marché sur Mars ?",
+    "nl": "Heeft er ooit iemand op Mars gelopen?"
+   },
+   "o": {
+    "en": [
+     "Yes, every summer",
+     "No, never",
+     "Only cats"
+    ],
+    "fr": [
+     "Oui, chaque été",
+     "Non, jamais",
+     "Seulement des chats"
+    ],
+    "nl": [
+     "Ja, elke zomer",
+     "Nee, nog nooit",
+     "Alleen katten"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How many wheels does the rover have?",
+    "fr": "Combien de roues le rover a-t-il ?",
+    "nl": "Hoeveel wielen heeft de rover?"
+   },
+   "o": {
+    "en": [
+     "Two",
+     "Four",
+     "Six"
+    ],
+    "fr": [
+     "Deux",
+     "Quatre",
+     "Six"
+    ],
+    "nl": [
+     "Twee",
+     "Vier",
+     "Zes"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Who did Whyzz think the rover asks for directions?",
+    "fr": "À qui le rover demande-t-il son chemin, selon Whyzz ?",
+    "nl": "Aan wie vraagt de rover de weg, volgens Whyzz?"
+   },
+   "o": {
+    "en": [
+     "Martians",
+     "Penguins",
+     "The Moon"
+    ],
+    "fr": [
+     "Aux Martiens",
+     "Aux manchots",
+     "À la Lune"
+    ],
+    "nl": [
+     "Aan marsmannetjes",
+     "Aan pinguïns",
+     "Aan de maan"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why does the rover steer around rocks by itself?",
+    "fr": "Pourquoi le rover contourne-t-il les rochers tout seul ?",
+    "nl": "Waarom stuurt de rover zelf om stenen heen?"
+   },
+   "o": {
+    "en": [
+     "It’s bored",
+     "Messages from Earth take many minutes",
+     "It has no wheels"
+    ],
+    "fr": [
+     "Il s’ennuie",
+     "Les messages de la Terre mettent de longues minutes",
+     "Il n’a pas de roues"
+    ],
+    "nl": [
+     "Hij verveelt zich",
+     "Berichten van de aarde doen er vele minuten over",
+     "Hij heeft geen wielen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What once flew on Mars?",
+    "fr": "Qu’est-ce qui a déjà volé sur Mars ?",
+    "nl": "Wat heeft er al eens op Mars gevlogen?"
+   },
+   "o": {
+    "en": [
+     "A tiny robot helicopter",
+     "A paper plane",
+     "A hot-air balloon"
+    ],
+    "fr": [
+     "Un petit hélicoptère robot",
+     "Un avion en papier",
+     "Une montgolfière"
+    ],
+    "nl": [
+     "Een klein robothelikoptertje",
+     "Een papieren vliegtuigje",
+     "Een luchtballon"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Pack the rover",
+   "fr": "Équipe le rover",
+   "nl": "Rust de rover uit"
+  },
+  "intro": {
+   "en": "What does a Mars rover need? Pick all the right things!",
+   "fr": "De quoi un rover martien a-t-il besoin ? Choisis toutes les bonnes réponses !",
+   "nl": "Wat heeft een marsrover nodig? Kies alle juiste dingen!"
+  },
+  "done": {
+   "en": "Ready for launch! Your rover can explore Mars.",
+   "fr": "Prêt pour le décollage ! Ton rover peut explorer Mars.",
+   "nl": "Klaar voor de lancering! Je rover kan Mars verkennen."
+  },
+  "items": {
+   "en": [
+    "Cameras for eyes",
+    "Six sturdy wheels",
+    "An arm with tools",
+    "A way to send messages to Earth",
+    "A steering wheel for a driver",
+    "An umbrella for the rain",
+    "A map of Martian shops"
+   ],
+   "fr": [
+    "Des caméras comme yeux",
+    "Six roues solides",
+    "Un bras avec des outils",
+    "Un moyen d’envoyer des messages à la Terre",
+    "Un volant pour un conducteur",
+    "Un parapluie contre la pluie",
+    "Une carte des magasins martiens"
+   ],
+   "nl": [
+    "Camera’s als ogen",
+    "Zes stevige wielen",
+    "Een arm met gereedschap",
+    "Een manier om berichten naar de aarde te sturen",
+    "Een stuur voor een bestuurder",
+    "Een paraplu tegen de regen",
+    "Een kaart met winkels op Mars"
+   ]
+  },
+  "good": [
+   0,
+   1,
+   2,
+   3
+  ]
+ }
+}

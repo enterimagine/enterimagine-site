@@ -1,0 +1,242 @@
+{
+ "id": "pixel-20261112",
+ "world": "pixel",
+ "guide": "Pixel",
+ "title": {
+  "en": "How do apps guess what you might like?",
+  "fr": "Comment les applis devinent-elles ce que tu aimes ?",
+  "nl": "Hoe raden apps wat jij leuk vindt?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, I watched one video about penguins and now my tablet shows me penguins everywhere! How does it know?",
+   "fr": "Pixel, j’ai regardé une seule vidéo sur les manchots et maintenant ma tablette m’en montre partout ! Comment elle le sait ?",
+   "nl": "Pixel, ik keek één filmpje over pinguïns en nu toont mijn tablet overal pinguïns! Hoe weet hij dat?",
+   "img": "Whyzz on a sofa, penguin pictures float out of his tablet"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Wait, I know! A tiny detective lives inside my tablet and spies on me with a magnifying glass!",
+   "fr": "Attends, je sais ! Un minuscule détective vit dans ma tablette et m’espionne avec une loupe !",
+   "nl": "Wacht, ik weet het! Er woont een piepkleine detective in mijn tablet die me bespiedt met een vergrootglas!",
+   "img": "A tiny cartoon detective peeks out of the tablet, Pixel giggles"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, no detective! The app notices clues: which videos you watch to the end, which ones you like and what you search for.",
+   "fr": "Ha, pas de détective ! L’appli remarque des indices : les vidéos que tu regardes jusqu’au bout, celles que tu aimes et ce que tu cherches.",
+   "nl": "Haha, geen detective! De app let op aanwijzingen: welke filmpjes je helemaal uitkijkt, welke je leuk vindt en waarnaar je zoekt.",
+   "img": "Pixel points at glowing clue shapes floating around a tablet"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Then it compares you with lots of other people, like a friend who says: kids who loved penguins also loved polar bears. So it shows you polar bears next!",
+   "fr": "Ensuite, elle te compare à plein d’autres gens, comme un ami qui dirait : les enfants qui adorent les manchots adorent aussi les ours polaires. Alors elle te montre des ours polaires !",
+   "nl": "Daarna vergelijkt de app jou met heel veel andere mensen, zoals een vriend die zegt: kinderen die gek zijn op pinguïns, houden ook van ijsberen. Dus krijg je daarna ijsberen!",
+   "img": "Pixel links a penguin plushie to a polar bear plushie in a glowing network"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know that skipping is a clue too? If you scroll past a video fast, the app learns you probably don’t want more like it.",
+   "fr": "Savais-tu que passer une vidéo est aussi un indice ? Si tu la fais défiler très vite, l’appli comprend que tu n’en veux sans doute pas d’autres comme ça.",
+   "nl": "Wist je dat overslaan ook een aanwijzing is? Als je snel voorbij een filmpje scrolt, leert de app dat je er waarschijnlijk niet meer van wilt zien.",
+   "img": "Whyzz swipes a broccoli picture away, Pixel raises a finger"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the app follows my clues and guesses, but I can still explore new things myself! What would you search for to surprise your app?",
+   "fr": "Donc l’appli suit mes indices et devine, mais je peux toujours découvrir de nouvelles choses moi-même ! Que chercherais-tu pour surprendre ton appli ?",
+   "nl": "Dus de app volgt mijn aanwijzingen en raadt, maar ik kan zelf nog altijd nieuwe dingen ontdekken! Waar zou jij naar zoeken om je app te verrassen?",
+   "img": "Whyzz and Pixel explore volcanoes, planets and dinosaurs on a big tablet"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits on a cozy sofa holding a tablet and looks surprised as many cute cartoon penguin pictures float out of the screen around him like bubbles, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge sits beside him grinning, bright playful living room. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A tiny cartoon detective with a little round hat and a big magnifying glass peeks out from behind a tablet, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds the tablet and whispers with wide eyes, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge giggles with her hand over her mouth, cozy living room. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points at glowing colorful shapes floating around a big tablet: a red heart, a magnifying glass, a play button and little footprints, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches fascinated, soft glowing playful digital room. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge holds a penguin plushie in one hand and a polar bear plushie in the other, joined by a glowing line of light, behind her a friendly glowing web of many tiny cartoon kid figures holding the same plushies, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge nods amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge swipes quickly on a tablet and a picture of a broccoli flies off the screen and fades away in sparkles, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge raises one finger with a knowing smile, bright living room. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge sit on a colorful rug in front of a big glowing tablet that shows pictures of a volcano, a dinosaur, a ringed planet and a penguin, both smiling and curious, warm cozy room at sunset. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What did Whyzz think was inside his tablet?",
+    "fr": "Selon Whyzz, qu’est-ce qui se cachait dans sa tablette ?",
+    "nl": "Wat dacht Whyzz dat er in zijn tablet zat?"
+   },
+   "o": {
+    "en": [
+     "A tiny detective",
+     "A penguin",
+     "A sleeping cat"
+    ],
+    "fr": [
+     "Un minuscule détective",
+     "Un manchot",
+     "Un chat endormi"
+    ],
+    "nl": [
+     "Een piepkleine detective",
+     "Een pinguïn",
+     "Een slapende kat"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Which clue does the app notice?",
+    "fr": "Quel indice l’appli remarque-t-elle ?",
+    "nl": "Op welke aanwijzing let de app?"
+   },
+   "o": {
+    "en": [
+     "The weather outside",
+     "Videos you watch to the end",
+     "Your shoe size"
+    ],
+    "fr": [
+     "La météo dehors",
+     "Les vidéos que tu regardes jusqu’au bout",
+     "Ta pointure"
+    ],
+    "nl": [
+     "Het weer buiten",
+     "Filmpjes die je helemaal uitkijkt",
+     "Je schoenmaat"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What did kids who loved penguins also love?",
+    "fr": "Qu’adorent aussi les enfants qui adorent les manchots ?",
+    "nl": "Waar houden kinderen die gek zijn op pinguïns ook van?"
+   },
+   "o": {
+    "en": [
+     "Pizza crusts",
+     "Rainy Mondays",
+     "Polar bears"
+    ],
+    "fr": [
+     "Les croûtes de pizza",
+     "Les lundis pluvieux",
+     "Les ours polaires"
+    ],
+    "nl": [
+     "Pizzakorstjes",
+     "Regenachtige maandagen",
+     "IJsberen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What does the app learn when you scroll past a video fast?",
+    "fr": "Qu’apprend l’appli quand tu fais défiler une vidéo très vite ?",
+    "nl": "Wat leert de app als je snel voorbij een filmpje scrolt?"
+   },
+   "o": {
+    "en": [
+     "You probably don’t want more like it",
+     "You want ten more",
+     "Your tablet is tired"
+    ],
+    "fr": [
+     "Que tu n’en veux sans doute pas d’autres",
+     "Que tu en veux dix de plus",
+     "Que ta tablette est fatiguée"
+    ],
+    "nl": [
+     "Dat je er waarschijnlijk niet meer van wilt",
+     "Dat je er nog tien wilt",
+     "Dat je tablet moe is"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Who compares you with lots of other people?",
+    "fr": "Qui te compare à plein d’autres gens ?",
+    "nl": "Wie vergelijkt jou met heel veel andere mensen?"
+   },
+   "o": {
+    "en": [
+     "A tiny detective",
+     "The app",
+     "Your teacher"
+    ],
+    "fr": [
+     "Un minuscule détective",
+     "L’appli",
+     "Ton professeur"
+    ],
+    "nl": [
+     "Een piepkleine detective",
+     "De app",
+     "Je leraar"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Clue hunter",
+   "fr": "Chasseur d’indices",
+   "nl": "Aanwijzingenjager"
+  },
+  "intro": {
+   "en": "Which clues can an app use to guess what you like? Pick all the right ones!",
+   "fr": "Quels indices une appli peut-elle utiliser pour deviner ce que tu aimes ? Choisis toutes les bonnes réponses !",
+   "nl": "Welke aanwijzingen kan een app gebruiken om te raden wat jij leuk vindt? Kies alle juiste!"
+  },
+  "done": {
+   "en": "Great detective work! Now you know how apps follow clues.",
+   "fr": "Super travail de détective ! Maintenant, tu sais comment les applis suivent les indices.",
+   "nl": "Goed speurwerk! Nu weet je hoe apps aanwijzingen volgen."
+  },
+  "items": {
+   "en": [
+    "Videos you watch to the end",
+    "Things you search for",
+    "Videos you skip fast",
+    "Videos you give a like",
+    "What you dreamed last night",
+    "The color of your socks",
+    "How loud you sneeze"
+   ],
+   "fr": [
+    "Les vidéos que tu regardes jusqu’au bout",
+    "Ce que tu cherches",
+    "Les vidéos que tu passes très vite",
+    "Les vidéos que tu aimes",
+    "Ce que tu as rêvé cette nuit",
+    "La couleur de tes chaussettes",
+    "La force de tes éternuements"
+   ],
+   "nl": [
+    "Filmpjes die je helemaal uitkijkt",
+    "Waarnaar je zoekt",
+    "Filmpjes die je snel overslaat",
+    "Filmpjes die je een like geeft",
+    "Wat je vannacht gedroomd hebt",
+    "De kleur van je sokken",
+    "Hoe hard je niest"
+   ]
+  },
+  "good": [
+   0,
+   1,
+   2,
+   3
+  ]
+ }
+}

@@ -3886,5 +3886,545 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Een 3D-printer bouwt dingen dus laagje voor laagje, zoals een toren pannenkoeken. Als jij er een had, wat zou je dan als eerste uitvinden en printen?"
+ },
+ {
+  "id": "pixel-20261112-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, I watched one video about penguins and now my tablet shows me penguins everywhere! How does it know?"
+ },
+ {
+  "id": "pixel-20261112-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, j’ai regardé une seule vidéo sur les manchots et maintenant ma tablette m’en montre partout ! Comment elle le sait ?"
+ },
+ {
+  "id": "pixel-20261112-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, ik keek één filmpje over pinguïns en nu toont mijn tablet overal pinguïns! Hoe weet hij dat?"
+ },
+ {
+  "id": "pixel-20261112-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Wait, I know! A tiny detective lives inside my tablet and spies on me with a magnifying glass!"
+ },
+ {
+  "id": "pixel-20261112-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Attends, je sais ! Un minuscule détective vit dans ma tablette et m’espionne avec une loupe !"
+ },
+ {
+  "id": "pixel-20261112-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Wacht, ik weet het! Er woont een piepkleine detective in mijn tablet die me bespiedt met een vergrootglas!"
+ },
+ {
+  "id": "pixel-20261112-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no detective! The app notices clues: which videos you watch to the end, which ones you like and what you search for."
+ },
+ {
+  "id": "pixel-20261112-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, pas de détective ! L’appli remarque des indices : les vidéos que tu regardes jusqu’au bout, celles que tu aimes et ce que tu cherches."
+ },
+ {
+  "id": "pixel-20261112-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, geen detective! De app let op aanwijzingen: welke filmpjes je helemaal uitkijkt, welke je leuk vindt en waarnaar je zoekt."
+ },
+ {
+  "id": "pixel-20261112-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Then it compares you with lots of other people, like a friend who says: kids who loved penguins also loved polar bears. So it shows you polar bears next!"
+ },
+ {
+  "id": "pixel-20261112-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ensuite, elle te compare à plein d’autres gens, comme un ami qui dirait : les enfants qui adorent les manchots adorent aussi les ours polaires. Alors elle te montre des ours polaires !"
+ },
+ {
+  "id": "pixel-20261112-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Daarna vergelijkt de app jou met heel veel andere mensen, zoals een vriend die zegt: kinderen die gek zijn op pinguïns, houden ook van ijsberen. Dus krijg je daarna ijsberen!"
+ },
+ {
+  "id": "pixel-20261112-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know that skipping is a clue too? If you scroll past a video fast, the app learns you probably don’t want more like it."
+ },
+ {
+  "id": "pixel-20261112-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu que passer une vidéo est aussi un indice ? Si tu la fais défiler très vite, l’appli comprend que tu n’en veux sans doute pas d’autres comme ça."
+ },
+ {
+  "id": "pixel-20261112-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat overslaan ook een aanwijzing is? Als je snel voorbij een filmpje scrolt, leert de app dat je er waarschijnlijk niet meer van wilt zien."
+ },
+ {
+  "id": "pixel-20261112-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the app follows my clues and guesses, but I can still explore new things myself! What would you search for to surprise your app?"
+ },
+ {
+  "id": "pixel-20261112-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc l’appli suit mes indices et devine, mais je peux toujours découvrir de nouvelles choses moi-même ! Que chercherais-tu pour surprendre ton appli ?"
+ },
+ {
+  "id": "pixel-20261112-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de app volgt mijn aanwijzingen en raadt, maar ik kan zelf nog altijd nieuwe dingen ontdekken! Waar zou jij naar zoeken om je app te verrassen?"
+ },
+ {
+  "id": "qubi-20261112-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, I built a huge castle out of toy bricks. But what are real things made of, like my chair or my sandwich?"
+ },
+ {
+  "id": "qubi-20261112-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, j’ai construit un énorme château en briques de jeu. Mais les vraies choses, comme ma chaise ou mon sandwich, elles sont faites de quoi ?"
+ },
+ {
+  "id": "qubi-20261112-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, ik heb een enorm kasteel gebouwd met speelgoedblokjes. Maar waar zijn echte dingen van gemaakt, zoals mijn stoel of mijn boterham?"
+ },
+ {
+  "id": "qubi-20261112-en-2",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Of atoms! They’re tiny building blocks and everything is made of them: your chair, your sandwich and even you."
+ },
+ {
+  "id": "qubi-20261112-fr-2",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "D’atomes ! Ce sont de minuscules briques et tout en est fait : ta chaise, ton sandwich et même toi."
+ },
+ {
+  "id": "qubi-20261112-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Van atomen! Dat zijn piepkleine bouwsteentjes en alles is ervan gemaakt: je stoel, je boterham en zelfs jij."
+ },
+ {
+  "id": "qubi-20261112-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Cool, can I keep one atom as a pet? I’d call it Tiny and feed it crumbs!"
+ },
+ {
+  "id": "qubi-20261112-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Génial, je peux garder un atome comme animal de compagnie ? Je l’appellerais Minus et je lui donnerais des miettes !"
+ },
+ {
+  "id": "qubi-20261112-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Gaaf, mag ik één atoom als huisdier houden? Ik noem het Mini en geef het kruimeltjes!"
+ },
+ {
+  "id": "qubi-20261112-en-4",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "It’s way too small to see, even with a normal microscope! About a million atoms in a row would only be as wide as one hair."
+ },
+ {
+  "id": "qubi-20261112-fr-4",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Il est bien trop petit pour être vu, même avec un microscope ordinaire ! Environ un million d’atomes alignés seraient à peine aussi larges qu’un cheveu."
+ },
+ {
+  "id": "qubi-20261112-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Het is veel te klein om te zien, zelfs met een gewone microscoop! Ongeveer een miljoen atomen op een rij zijn samen maar zo breed als één haar."
+ },
+ {
+  "id": "qubi-20261112-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Did you know an atom is mostly empty space? If its center, the nucleus, were a marble in a stadium, tiny electrons would zoom around up in the top seats."
+ },
+ {
+  "id": "qubi-20261112-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Savais-tu qu’un atome est surtout fait de vide ? Si son centre, le noyau, était une bille au milieu d’un stade, de minuscules électrons fileraient tout en haut des gradins."
+ },
+ {
+  "id": "qubi-20261112-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Wist je dat een atoom vooral uit lege ruimte bestaat? Als de kern een knikker midden in een stadion was, dan zoefden piepkleine elektronen helemaal bovenaan langs de tribunes."
+ },
+ {
+  "id": "qubi-20261112-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So everything is built from tiny atoms, like a giant brick castle! If you could shrink to the size of an atom, what would you explore first?"
+ },
+ {
+  "id": "qubi-20261112-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc tout est construit avec de minuscules atomes, comme un château géant en briques ! Si tu pouvais rétrécir à la taille d’un atome, qu’explorerais-tu en premier ?"
+ },
+ {
+  "id": "qubi-20261112-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus alles is gebouwd uit piepkleine atomen, zoals een reuzenkasteel van blokjes! Als jij zo klein als een atoom kon worden, wat zou je dan eerst verkennen?"
+ },
+ {
+  "id": "bloom-20261112-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Bloom, my yogurt is thick and a little sour, but milk is runny. How does milk become yogurt?"
+ },
+ {
+  "id": "bloom-20261112-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Bloom, mon yaourt est épais et un peu acide, mais le lait est tout liquide. Comment le lait devient-il du yaourt ?"
+ },
+ {
+  "id": "bloom-20261112-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Bloom, mijn yoghurt is dik en een beetje zuur, maar melk is vloeibaar. Hoe wordt melk yoghurt?"
+ },
+ {
+  "id": "bloom-20261112-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Wait, I know! The cows go to the gym until their milk gets thick and strong!"
+ },
+ {
+  "id": "bloom-20261112-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Attends, je sais ! Les vaches font de la gym jusqu’à ce que leur lait devienne bien épais et costaud !"
+ },
+ {
+  "id": "bloom-20261112-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Wacht, ik weet het! De koeien gaan naar de sportschool tot hun melk lekker dik en sterk wordt!"
+ },
+ {
+  "id": "bloom-20261112-en-3",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Ha, no gym needed! Yogurt is made by tiny living helpers called bacteria, so small that millions fit in one spoonful."
+ },
+ {
+  "id": "bloom-20261112-fr-3",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Ha, pas besoin de gym ! Le yaourt est fabriqué par de minuscules êtres vivants appelés bactéries, si petits que des millions tiennent dans une cuillère."
+ },
+ {
+  "id": "bloom-20261112-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Haha, geen sportschool nodig! Yoghurt wordt gemaakt door piepkleine levende helpers, bacteriën, zo klein dat er miljoenen in één lepel passen."
+ },
+ {
+  "id": "bloom-20261112-en-4",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "In warm milk, the bacteria munch on milk sugar like a snack. They turn it into an acid that makes the milk thick and a little sour."
+ },
+ {
+  "id": "bloom-20261112-fr-4",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Dans le lait tiède, les bactéries grignotent le sucre du lait comme un goûter. Elles le transforment en un acide qui épaissit le lait et lui donne un petit goût acidulé."
+ },
+ {
+  "id": "bloom-20261112-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "In warme melk knabbelen de bacteriën aan de melksuiker, als een tussendoortje. Ze maken er een zuur van, waardoor de melk dik wordt en een beetje zuur smaakt."
+ },
+ {
+  "id": "bloom-20261112-en-5",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Did you know these are friendly bacteria? People have used them to make yogurt for thousands of years, long before anyone knew they existed."
+ },
+ {
+  "id": "bloom-20261112-fr-5",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Savais-tu que ce sont des bactéries amies ? On les utilise pour faire du yaourt depuis des milliers d’années, bien avant de savoir qu’elles existaient."
+ },
+ {
+  "id": "bloom-20261112-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Wist je dat dit vriendelijke bacteriën zijn? Mensen maken er al duizenden jaren yoghurt mee, lang voordat iemand wist dat ze bestonden."
+ },
+ {
+  "id": "bloom-20261112-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So tiny bacteria snack on milk sugar and turn milk into yogurt! What would you put on top of your yogurt?"
+ },
+ {
+  "id": "bloom-20261112-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc de minuscules bactéries grignotent le sucre du lait et transforment le lait en yaourt ! Qu’est-ce que tu mettrais sur ton yaourt ?"
+ },
+ {
+  "id": "bloom-20261112-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus piepkleine bacteriën smullen van melksuiker en maken van melk yoghurt! Wat zou jij bovenop je yoghurt doen?"
+ },
+ {
+  "id": "robo-20261112-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, nobody has ever walked on Mars. So how do we know what the ground there looks like?"
+ },
+ {
+  "id": "robo-20261112-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, personne n’a jamais marché sur Mars. Alors comment sait-on à quoi ressemble le sol là-bas ?"
+ },
+ {
+  "id": "robo-20261112-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, nog nooit heeft iemand op Mars gelopen. Hoe weten we dan hoe de grond daar eruitziet?"
+ },
+ {
+  "id": "robo-20261112-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "We send robots called rovers! A rover is like a car-sized explorer on six wheels, with cameras for eyes and an arm full of tools."
+ },
+ {
+  "id": "robo-20261112-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "On envoie des robots appelés rovers ! Un rover, c’est comme un explorateur de la taille d’une voiture, sur six roues, avec des caméras comme yeux et un bras plein d’outils."
+ },
+ {
+  "id": "robo-20261112-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "We sturen robots die rovers heten! Een rover is een soort ontdekkingsreiziger zo groot als een auto, op zes wielen, met camera’s als ogen en een arm vol gereedschap."
+ },
+ {
+  "id": "robo-20261112-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Ooh, I bet when it gets lost, it stops and asks the Martians for directions!"
+ },
+ {
+  "id": "robo-20261112-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Oh, et quand il se perd, il s’arrête pour demander son chemin aux Martiens !"
+ },
+ {
+  "id": "robo-20261112-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ooh, en als hij verdwaalt, stopt hij en vraagt hij de weg aan de marsmannetjes!"
+ },
+ {
+  "id": "robo-20261112-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "There are no Martians to ask! Messages from Earth take many minutes to arrive, so the rover spots rocks with its cameras and steers around them by itself."
+ },
+ {
+  "id": "robo-20261112-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Il n’y a pas de Martiens à qui demander ! Les messages de la Terre mettent de longues minutes à arriver, alors le rover repère les rochers avec ses caméras et les contourne tout seul."
+ },
+ {
+  "id": "robo-20261112-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Er zijn daar geen marsmannetjes om de weg aan te vragen! Berichten van de aarde doen er vele minuten over, dus de rover ziet stenen met zijn camera’s en stuurt er zelf omheen."
+ },
+ {
+  "id": "robo-20261112-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know a tiny robot helicopter once flew on Mars? The air there is so thin that its blades had to spin super fast to lift it."
+ },
+ {
+  "id": "robo-20261112-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu qu’un petit hélicoptère robot a déjà volé sur Mars ? L’air y est si fin que ses pales devaient tourner super vite pour le soulever."
+ },
+ {
+  "id": "robo-20261112-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat er al eens een klein robothelikoptertje op Mars heeft gevlogen? De lucht is daar zo dun dat de rotorbladen supersnel moesten draaien om op te stijgen."
+ },
+ {
+  "id": "robo-20261112-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So rovers drive, look and dig on Mars while we watch from Earth! If you could send a robot anywhere, where would it go?"
+ },
+ {
+  "id": "robo-20261112-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les rovers roulent, observent et creusent sur Mars pendant qu’on les suit depuis la Terre ! Si tu pouvais envoyer un robot n’importe où, où irait-il ?"
+ },
+ {
+  "id": "robo-20261112-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus rovers rijden, kijken en graven op Mars terwijl wij vanaf de aarde meekijken! Als jij een robot overal naartoe kon sturen, waar zou hij dan heen gaan?"
+ },
+ {
+  "id": "energy-20261112-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, our neighbors have a big humming box outside their house. They say it heats their home, but it’s freezing out there!"
+ },
+ {
+  "id": "energy-20261112-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, nos voisins ont une grosse boîte qui ronronne devant chez eux. Ils disent qu’elle chauffe leur maison, mais il gèle dehors !"
+ },
+ {
+  "id": "energy-20261112-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, onze buren hebben een grote zoemende kast buiten hun huis. Ze zeggen dat die hun huis verwarmt, maar het vriest daarbuiten!"
+ },
+ {
+  "id": "energy-20261112-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Wait, I know! There’s a tiny dragon inside that breathes warm air into the house!"
+ },
+ {
+  "id": "energy-20261112-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Attends, je sais ! Il y a un petit dragon dedans qui souffle de l’air chaud dans la maison !"
+ },
+ {
+  "id": "energy-20261112-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Wacht, ik weet het! Er zit een klein draakje in dat warme lucht het huis in blaast!"
+ },
+ {
+  "id": "energy-20261112-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "No dragon, it’s a heat pump! Even cold winter air still holds some heat and the heat pump collects it, like a sponge soaking up water."
+ },
+ {
+  "id": "energy-20261112-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Pas de dragon, c’est une pompe à chaleur ! Même l’air froid de l’hiver contient encore un peu de chaleur et la pompe la récupère, comme une éponge qui absorbe l’eau."
+ },
+ {
+  "id": "energy-20261112-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Geen draak, het is een warmtepomp! Zelfs koude winterlucht bevat nog wat warmte en de warmtepomp vangt die op, zoals een spons die water opzuigt."
+ },
+ {
+  "id": "energy-20261112-en-4",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "A special fluid inside carries that heat. A compressor squeezes it and makes it much hotter, like a bike pump that gets warm when you pump hard."
+ },
+ {
+  "id": "energy-20261112-fr-4",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Un fluide spécial transporte cette chaleur. Un compresseur le comprime et le rend bien plus chaud, comme une pompe à vélo qui chauffe quand tu pompes fort."
+ },
+ {
+  "id": "energy-20261112-nl-4",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Een speciale stof binnenin draagt die warmte mee. Een compressor perst die stof samen en maakt ze veel heter, zoals een fietspomp die warm wordt als je hard pompt."
+ },
+ {
+  "id": "energy-20261112-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Did you know your fridge is a heat pump too? It pulls heat out of your food and lets it out at the back, which is why the back feels warm."
+ },
+ {
+  "id": "energy-20261112-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu que ton frigo est aussi une pompe à chaleur ? Il retire la chaleur de tes aliments et la rejette à l’arrière, c’est pour ça que l’arrière est tiède."
+ },
+ {
+  "id": "energy-20261112-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Wist je dat je koelkast ook een warmtepomp is? Hij haalt warmte uit je eten en geeft die af aan de achterkant, daarom voelt die warm aan."
+ },
+ {
+  "id": "energy-20261112-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the heat pump grabs heat from cold air, squeezes it hotter and warms the house! Which room in your home would you warm up first?"
+ },
+ {
+  "id": "energy-20261112-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc la pompe à chaleur attrape la chaleur de l’air froid, la comprime pour la rendre plus chaude et chauffe la maison ! Quelle pièce de chez toi réchaufferais-tu en premier ?"
+ },
+ {
+  "id": "energy-20261112-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de warmtepomp pakt warmte uit koude lucht, perst die heter en verwarmt het huis! Welke kamer in jouw huis zou jij als eerste opwarmen?"
  }
 ]

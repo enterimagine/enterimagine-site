@@ -1,0 +1,247 @@
+{
+ "id": "qubi-20261112",
+ "world": "qubi",
+ "guide": "Qubi",
+ "title": {
+  "en": "How tiny is an atom?",
+  "fr": "Un atome, c’est petit comment ?",
+  "nl": "Hoe klein is een atoom?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, I built a huge castle out of toy bricks. But what are real things made of, like my chair or my sandwich?",
+   "fr": "Qubi, j’ai construit un énorme château en briques de jeu. Mais les vraies choses, comme ma chaise ou mon sandwich, elles sont faites de quoi ?",
+   "nl": "Qubi, ik heb een enorm kasteel gebouwd met speelgoedblokjes. Maar waar zijn echte dingen van gemaakt, zoals mijn stoel of mijn boterham?",
+   "img": "Whyzz next to a big toy brick castle, holding a sandwich"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Of atoms! They’re tiny building blocks and everything is made of them: your chair, your sandwich and even you.",
+   "fr": "D’atomes ! Ce sont de minuscules briques et tout en est fait : ta chaise, ton sandwich et même toi.",
+   "nl": "Van atomen! Dat zijn piepkleine bouwsteentjes en alles is ervan gemaakt: je stoel, je boterham en zelfs jij.",
+   "img": "Qubi's lens shows a sandwich made of tiny shiny spheres"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Cool, can I keep one atom as a pet? I’d call it Tiny and feed it crumbs!",
+   "fr": "Génial, je peux garder un atome comme animal de compagnie ? Je l’appellerais Minus et je lui donnerais des miettes !",
+   "nl": "Gaaf, mag ik één atoom als huisdier houden? Ik noem het Mini en geef het kruimeltjes!",
+   "img": "Whyzz offers a crumb to a glowing sphere in a jar, Qubi laughs"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "It’s way too small to see, even with a normal microscope! About a million atoms in a row would only be as wide as one hair.",
+   "fr": "Il est bien trop petit pour être vu, même avec un microscope ordinaire ! Environ un million d’atomes alignés seraient à peine aussi larges qu’un cheveu.",
+   "nl": "Het is veel te klein om te zien, zelfs met een gewone microscoop! Ongeveer een miljoen atomen op een rij zijn samen maar zo breed als één haar.",
+   "img": "A giant hair like a rope with a line of tiny spheres, Whyzz at a microscope"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Did you know an atom is mostly empty space? If its center, the nucleus, were a marble in a stadium, tiny electrons would zoom around up in the top seats.",
+   "fr": "Savais-tu qu’un atome est surtout fait de vide ? Si son centre, le noyau, était une bille au milieu d’un stade, de minuscules électrons fileraient tout en haut des gradins.",
+   "nl": "Wist je dat een atoom vooral uit lege ruimte bestaat? Als de kern een knikker midden in een stadion was, dan zoefden piepkleine elektronen helemaal bovenaan langs de tribunes.",
+   "img": "A marble in the middle of a stadium, blue dots zoom in the top seats"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So everything is built from tiny atoms, like a giant brick castle! If you could shrink to the size of an atom, what would you explore first?",
+   "fr": "Donc tout est construit avec de minuscules atomes, comme un château géant en briques ! Si tu pouvais rétrécir à la taille d’un atome, qu’explorerais-tu en premier ?",
+   "nl": "Dus alles is gebouwd uit piepkleine atomen, zoals een reuzenkasteel van blokjes! Als jij zo klein als een atoom kon worden, wat zou je dan eerst verkennen?",
+   "img": "Whyzz and Qubi float tiny among giant glowing atoms"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands proudly next to a huge colorful toy brick castle in a bright playroom, holding a sandwich in one hand and pointing at a wooden chair with a puzzled face, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge smiles beside him. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge holds a big glowing magnifying lens over a sandwich and through the lens the sandwich looks like a pattern of tiny shiny colorful spheres stacked like building blocks, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans in amazed, magical blue light in a playroom. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge kneels and holds a small glass jar with one tiny glowing sphere floating inside like a pet, offering it a bread crumb with a big grin, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge laughs with his hands on his belly, bright playroom. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A single gigantic human hair stretches across the scene like a thick brown rope with a long neat line of tiny glowing spheres along it, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks into a microscope with a puzzled face, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge points at the hair, bright science lab. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A huge sunny cartoon sports stadium, one shiny glowing marble lies in the middle of the green field and tiny bright blue dots zoom around high up near the top seats leaving light trails, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stand on the field next to the marble looking up in awe. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge shrunk very small, floating happily in a magical space among giant glowing colorful spheres with little blue sparks circling them, both cheering with arms wide. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What are all things made of?",
+    "fr": "De quoi toutes les choses sont-elles faites ?",
+    "nl": "Waarvan zijn alle dingen gemaakt?"
+   },
+   "o": {
+    "en": [
+     "Atoms",
+     "Toy bricks",
+     "Sand"
+    ],
+    "fr": [
+     "D’atomes",
+     "De briques de jeu",
+     "De sable"
+    ],
+    "nl": [
+     "Van atomen",
+     "Van speelgoedblokjes",
+     "Van zand"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What did Whyzz want to do with an atom?",
+    "fr": "Que voulait faire Whyzz avec un atome ?",
+    "nl": "Wat wilde Whyzz met een atoom doen?"
+   },
+   "o": {
+    "en": [
+     "Eat it",
+     "Keep it as a pet",
+     "Paint it"
+    ],
+    "fr": [
+     "Le manger",
+     "Le garder comme animal de compagnie",
+     "Le peindre"
+    ],
+    "nl": [
+     "Het opeten",
+     "Het als huisdier houden",
+     "Het verven"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "About how many atoms in a row are as wide as one hair?",
+    "fr": "Combien d’atomes alignés font à peu près la largeur d’un cheveu ?",
+    "nl": "Hoeveel atomen op een rij zijn ongeveer zo breed als één haar?"
+   },
+   "o": {
+    "en": [
+     "Ten",
+     "A hundred",
+     "A million"
+    ],
+    "fr": [
+     "Dix",
+     "Cent",
+     "Un million"
+    ],
+    "nl": [
+     "Tien",
+     "Honderd",
+     "Een miljoen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What is an atom mostly made of?",
+    "fr": "De quoi un atome est-il surtout fait ?",
+    "nl": "Waaruit bestaat een atoom vooral?"
+   },
+   "o": {
+    "en": [
+     "Chocolate",
+     "Water",
+     "Empty space"
+    ],
+    "fr": [
+     "De chocolat",
+     "D’eau",
+     "De vide"
+    ],
+    "nl": [
+     "Chocolade",
+     "Water",
+     "Lege ruimte"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "If the nucleus were a marble in a stadium, where would the electrons be?",
+    "fr": "Si le noyau était une bille dans un stade, où seraient les électrons ?",
+    "nl": "Als de kern een knikker in een stadion was, waar zouden de elektronen zijn?"
+   },
+   "o": {
+    "en": [
+     "Inside the marble",
+     "Up in the top seats",
+     "In the parking lot"
+    ],
+    "fr": [
+     "Dans la bille",
+     "Tout en haut des gradins",
+     "Sur le parking"
+    ],
+    "nl": [
+     "In de knikker",
+     "Bovenaan bij de tribunes",
+     "Op de parkeerplaats"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Atom pairs",
+   "fr": "Les paires de l’atome",
+   "nl": "Atoomparen"
+  },
+  "intro": {
+   "en": "Match each word with what it means in the atom story!",
+   "fr": "Relie chaque mot à ce qu’il veut dire dans l’histoire de l’atome !",
+   "nl": "Koppel elk woord aan wat het betekent in het atoomverhaal!"
+  },
+  "done": {
+   "en": "Super! You’re an atom expert now.",
+   "fr": "Super ! Te voilà expert des atomes.",
+   "nl": "Super! Jij bent nu een atoomexpert."
+  },
+  "left": {
+   "en": [
+    "Atom",
+    "Nucleus",
+    "Electrons",
+    "One hair"
+   ],
+   "fr": [
+    "Atome",
+    "Noyau",
+    "Électrons",
+    "Un cheveu"
+   ],
+   "nl": [
+    "Atoom",
+    "Kern",
+    "Elektronen",
+    "Eén haar"
+   ]
+  },
+  "right": {
+   "en": [
+    "A tiny building block of everything",
+    "The marble in the middle of the stadium",
+    "Zoom around up in the top seats",
+    "About a million atoms wide"
+   ],
+   "fr": [
+    "Une minuscule brique de toutes les choses",
+    "La bille au milieu du stade",
+    "Filent tout en haut des gradins",
+    "Large d’environ un million d’atomes"
+   ],
+   "nl": [
+    "Een piepklein bouwsteentje van alles",
+    "De knikker midden in het stadion",
+    "Zoeven bovenaan langs de tribunes",
+    "Ongeveer een miljoen atomen breed"
+   ]
+  }
+ }
+}
