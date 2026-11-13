@@ -4426,5 +4426,437 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Dus de warmtepomp pakt warmte uit koude lucht, perst die heter en verwarmt het huis! Welke kamer in jouw huis zou jij als eerste opwarmen?"
+ },
+ {
+  "id": "space-20261113-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, how do astronauts sleep and eat on a space station? There is no up or down up there!"
+ },
+ {
+  "id": "space-20261113-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, comment les astronautes dorment-ils et mangent-ils dans une station spatiale ? Là-haut, il n’y a ni haut ni bas !"
+ },
+ {
+  "id": "space-20261113-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, hoe slapen en eten astronauten in een ruimtestation? Daarboven is er geen boven of onder!"
+ },
+ {
+  "id": "space-20261113-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I bet they glue their pancakes to the ceiling and sleep standing on their heads!"
+ },
+ {
+  "id": "space-20261113-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je parie qu’ils collent leurs crêpes au plafond et qu’ils dorment sur la tête !"
+ },
+ {
+  "id": "space-20261113-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik wed dat ze hun pannenkoeken aan het plafond plakken en op hun hoofd slapen!"
+ },
+ {
+  "id": "space-20261113-en-3",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Ha, not quite! Everything floats on the station, so astronauts sleep in sleeping bags tied to the wall. That way they do not drift around at night."
+ },
+ {
+  "id": "space-20261113-fr-3",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Ha, pas tout à fait ! Tout flotte dans la station, alors les astronautes dorment dans des sacs de couchage attachés au mur. Comme ça, ils ne dérivent pas la nuit."
+ },
+ {
+  "id": "space-20261113-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Haha, niet helemaal! Alles zweeft in het station, dus astronauten slapen in slaapzakken die aan de muur vastzitten. Zo zweven ze ’s nachts niet weg."
+ },
+ {
+  "id": "space-20261113-en-4",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Water floats in wobbly balls, so drinks come in pouches with a straw. Astronauts often eat tortillas instead of bread, because crumbs would float everywhere."
+ },
+ {
+  "id": "space-20261113-fr-4",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "L’eau flotte en petites boules qui tremblotent, alors on boit dans des sachets avec une paille. Les astronautes mangent souvent des tortillas au lieu du pain, car les miettes flotteraient partout."
+ },
+ {
+  "id": "space-20261113-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Water zweeft in wiebelige bolletjes, dus drinken doe je uit een zakje met een rietje. Astronauten eten vaak wraps in plaats van brood, want kruimels zouden overal rondzweven."
+ },
+ {
+  "id": "space-20261113-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Did you know? The station circles Earth about 16 times a day, so astronauts can see about 16 sunrises every day!"
+ },
+ {
+  "id": "space-20261113-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Le savais-tu ? La station fait environ 16 fois le tour de la Terre par jour, alors les astronautes peuvent voir environ 16 levers de soleil chaque jour !"
+ },
+ {
+  "id": "space-20261113-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Wist je dat? Het station draait ongeveer 16 keer per dag rond de aarde, dus astronauten zien elke dag zo’n 16 zonsopgangen!"
+ },
+ {
+  "id": "space-20261113-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So in space you sleep on the wall and drink water bubbles! What would you like to try first on a space station?"
+ },
+ {
+  "id": "space-20261113-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc dans l’espace, on dort contre le mur et on boit des bulles d’eau ! Qu’est-ce que tu voudrais essayer en premier dans une station spatiale ?"
+ },
+ {
+  "id": "space-20261113-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus in de ruimte slaap je tegen de muur en drink je waterbellen! Wat zou jij als eerste willen proberen in een ruimtestation?"
+ },
+ {
+  "id": "mobility-20261113-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, I just saw a flying box with propellers! Was it carrying a package?"
+ },
+ {
+  "id": "mobility-20261113-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, je viens de voir une boîte volante avec des hélices ! Elle transportait un colis ?"
+ },
+ {
+  "id": "mobility-20261113-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, ik zag net een vliegende doos met propellers! Had hij een pakketje bij zich?"
+ },
+ {
+  "id": "mobility-20261113-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Or maybe it was a pizza with wings that got tired of waiting in the oven!"
+ },
+ {
+  "id": "mobility-20261113-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Ou alors c’était une pizza avec des ailes qui en avait marre d’attendre dans le four !"
+ },
+ {
+  "id": "mobility-20261113-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Of misschien was het een pizza met vleugeltjes die geen zin meer had om in de oven te wachten!"
+ },
+ {
+  "id": "mobility-20261113-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Ha, it was a delivery drone! Its propellers spin super fast and push air down, so the drone goes up, like a helicopter with four arms."
+ },
+ {
+  "id": "mobility-20261113-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Ha, c’était un drone de livraison ! Ses hélices tournent super vite et poussent l’air vers le bas, alors le drone monte, comme un hélicoptère à quatre bras."
+ },
+ {
+  "id": "mobility-20261113-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Haha, het was een bezorgdrone! Zijn propellers draaien supersnel en duwen lucht naar beneden, waardoor de drone omhoog gaat, zoals een helikopter met vier armen."
+ },
+ {
+  "id": "mobility-20261113-en-4",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "The drone uses signals from satellites to know where it is, like a map with a dot that says: you are here! Cameras and sensors help it fly around trees."
+ },
+ {
+  "id": "mobility-20261113-fr-4",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Le drone utilise des signaux de satellites pour savoir où il est, comme une carte avec un point qui dit : tu es ici ! Ses caméras et ses capteurs l’aident à éviter les arbres."
+ },
+ {
+  "id": "mobility-20261113-nl-4",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "De drone gebruikt signalen van satellieten om te weten waar hij is, zoals een kaart met een stip die zegt: je bent hier! Camera’s en sensoren helpen hem om bomen te ontwijken."
+ },
+ {
+  "id": "mobility-20261113-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? Many delivery drones do not even land at your house. They hover up high and gently lower the package on a rope!"
+ },
+ {
+  "id": "mobility-20261113-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Beaucoup de drones de livraison ne se posent même pas chez toi. Ils restent en l’air et font descendre doucement le colis avec une corde !"
+ },
+ {
+  "id": "mobility-20261113-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Wist je dat? Veel bezorgdrones landen niet eens bij je huis. Ze blijven hoog in de lucht hangen en laten het pakketje voorzichtig zakken aan een touw!"
+ },
+ {
+  "id": "mobility-20261113-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Flying packages are so cool! If a drone could bring you anything, what would you ask for?"
+ },
+ {
+  "id": "mobility-20261113-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Les colis volants, c’est trop cool ! Si un drone pouvait t’apporter n’importe quoi, qu’est-ce que tu demanderais ?"
+ },
+ {
+  "id": "mobility-20261113-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Vliegende pakjes zijn supercool! Als een drone je alles kon brengen, wat zou jij dan vragen?"
+ },
+ {
+  "id": "cities-20261113-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, why do I sometimes wait at a red light when the street is totally empty? So unfair!"
+ },
+ {
+  "id": "cities-20261113-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, pourquoi j’attends parfois au feu rouge alors que la rue est complètement vide ? C’est trop injuste !"
+ },
+ {
+  "id": "cities-20261113-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, waarom moet ik soms wachten voor een rood licht terwijl de straat helemaal leeg is? Zo oneerlijk!"
+ },
+ {
+  "id": "cities-20261113-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Maybe the traffic light is just taking a nap and forgot to wake up!"
+ },
+ {
+  "id": "cities-20261113-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Peut-être que le feu fait une petite sieste et qu’il a oublié de se réveiller !"
+ },
+ {
+  "id": "cities-20261113-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Misschien doet het verkeerslicht gewoon een dutje en is het vergeten wakker te worden!"
+ },
+ {
+  "id": "cities-20261113-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, lights do not nap! Smart traffic lights have sensors, like a wire loop under the road or a small camera, that notice when cars are waiting."
+ },
+ {
+  "id": "cities-20261113-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, les feux ne font pas la sieste ! Les feux intelligents ont des capteurs, comme une boucle de fil sous la route ou une petite caméra, qui voient quand des voitures attendent."
+ },
+ {
+  "id": "cities-20261113-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, lichten doen geen dutjes! Slimme verkeerslichten hebben sensoren, zoals een draadlus onder de weg of een kleine camera, die merken wanneer er auto’s wachten."
+ },
+ {
+  "id": "cities-20261113-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "A computer counts who is waiting on each side and gives more green time to the busiest street. It is like a teacher letting the longest line go first."
+ },
+ {
+  "id": "cities-20261113-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Un ordinateur compte qui attend de chaque côté et donne plus de temps de vert à la rue la plus chargée. C’est comme une maîtresse qui laisse passer la plus longue file en premier."
+ },
+ {
+  "id": "cities-20261113-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Een computer telt wie er aan elke kant wacht en geeft de drukste straat langer groen. Net als een juf die de langste rij eerst laat gaan."
+ },
+ {
+  "id": "cities-20261113-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? Some traffic lights talk to each other to make a green wave: one green light after another. Ambulances can even ask the lights to turn green for them!"
+ },
+ {
+  "id": "cities-20261113-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Certains feux se parlent pour créer une onde verte : un feu vert après l’autre. Les ambulances peuvent même demander aux feux de passer au vert pour elles !"
+ },
+ {
+  "id": "cities-20261113-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat? Sommige verkeerslichten praten met elkaar om een groene golf te maken: het ene groene licht na het andere. Ambulances kunnen de lichten zelfs vragen om groen te worden!"
+ },
+ {
+  "id": "cities-20261113-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So smart lights help everyone move and wait less! If you could invent a new traffic light, what would it do?"
+ },
+ {
+  "id": "cities-20261113-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les feux intelligents aident tout le monde à avancer et à moins attendre ! Si tu pouvais inventer un nouveau feu, qu’est-ce qu’il ferait ?"
+ },
+ {
+  "id": "cities-20261113-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus slimme lichten helpen iedereen vooruit en we wachten minder! Als jij een nieuw verkeerslicht mocht uitvinden, wat zou het dan doen?"
+ },
+ {
+  "id": "innovation-20261113-en-1",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, I built a marble run, but my marble keeps flying off the track! What am I doing wrong?"
+ },
+ {
+  "id": "innovation-20261113-fr-1",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, j’ai construit un circuit à billes, mais ma bille n’arrête pas de sortir de la piste ! Qu’est-ce que je fais de travers ?"
+ },
+ {
+  "id": "innovation-20261113-nl-1",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Whyzz, ik heb een knikkerbaan gebouwd, maar mijn knikker vliegt steeds van de baan! Wat doe ik verkeerd?"
+ },
+ {
+  "id": "innovation-20261113-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Easy! We glue the marble to the track. Oops, then it cannot roll at all!"
+ },
+ {
+  "id": "innovation-20261113-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Facile ! On colle la bille sur la piste. Oups, alors elle ne peut plus rouler du tout !"
+ },
+ {
+  "id": "innovation-20261113-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Makkelijk! We lijmen de knikker vast op de baan. Oeps, dan kan hij helemaal niet meer rollen!"
+ },
+ {
+  "id": "innovation-20261113-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Inventors test, see what goes wrong and try again. In a curve the marble wants to keep going straight, so we add walls to keep it on the track."
+ },
+ {
+  "id": "innovation-20261113-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Les inventeurs testent, regardent ce qui ne va pas et recommencent. Dans un virage, la bille veut continuer tout droit, alors on ajoute des murs pour la garder sur la piste."
+ },
+ {
+  "id": "innovation-20261113-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Uitvinders testen, kijken wat er misgaat en proberen het opnieuw. In een bocht wil de knikker rechtdoor, dus bouwen we muurtjes om hem op de baan te houden."
+ },
+ {
+  "id": "innovation-20261113-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "If the slope is too steep, the marble gets way too fast. If it is too flat, the marble stops, so we look for a gentle slope."
+ },
+ {
+  "id": "innovation-20261113-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Si la pente est trop raide, la bille va beaucoup trop vite. Si elle est trop plate, la bille s’arrête, alors on cherche une pente douce."
+ },
+ {
+  "id": "innovation-20261113-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Als de helling te steil is, gaat de knikker veel te snel. Is hij te vlak, dan stopt de knikker, dus zoeken we een zachte helling."
+ },
+ {
+  "id": "innovation-20261113-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? Inventors often build many test versions, called prototypes, before one works well. Every mistake teaches them something new!"
+ },
+ {
+  "id": "innovation-20261113-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Les inventeurs construisent souvent plein de versions d’essai, appelées prototypes, avant que l’une marche bien. Chaque erreur leur apprend quelque chose !"
+ },
+ {
+  "id": "innovation-20261113-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat? Uitvinders bouwen vaak heel wat testversies, prototypes genoemd, voor er één goed werkt. Van elke fout leren ze iets nieuws!"
+ },
+ {
+  "id": "innovation-20261113-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Test, fix and test again: now our marble run is awesome! What crazy trick would you add to your marble run?"
+ },
+ {
+  "id": "innovation-20261113-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Tester, réparer et tester encore : maintenant notre circuit est génial ! Quel truc fou ajouterais-tu à ton circuit à billes ?"
+ },
+ {
+  "id": "innovation-20261113-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Testen, verbeteren en opnieuw testen: nu is onze knikkerbaan geweldig! Welke gekke truc zou jij aan je knikkerbaan toevoegen?"
  }
 ]

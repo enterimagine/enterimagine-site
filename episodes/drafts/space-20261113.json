@@ -1,0 +1,238 @@
+{
+ "id": "space-20261113",
+ "world": "space",
+ "guide": "Qubi",
+ "title": {
+  "en": "How do astronauts sleep and eat in space?",
+  "fr": "Comment les astronautes dorment-ils et mangent-ils dans l’espace ?",
+  "nl": "Hoe slapen en eten astronauten in de ruimte?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, how do astronauts sleep and eat on a space station? There is no up or down up there!",
+   "fr": "Qubi, comment les astronautes dorment-ils et mangent-ils dans une station spatiale ? Là-haut, il n’y a ni haut ni bas !",
+   "nl": "Qubi, hoe slapen en eten astronauten in een ruimtestation? Daarboven is er geen boven of onder!",
+   "img": "Whyzz and Qubi look at a space station model in a planetarium"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I bet they glue their pancakes to the ceiling and sleep standing on their heads!",
+   "fr": "Je parie qu’ils collent leurs crêpes au plafond et qu’ils dorment sur la tête !",
+   "nl": "Ik wed dat ze hun pannenkoeken aan het plafond plakken en op hun hoofd slapen!",
+   "img": "Whyzz imagines pancakes stuck to a ceiling, Qubi laughs"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Ha, not quite! Everything floats on the station, so astronauts sleep in sleeping bags tied to the wall. That way they do not drift around at night.",
+   "fr": "Ha, pas tout à fait ! Tout flotte dans la station, alors les astronautes dorment dans des sacs de couchage attachés au mur. Comme ça, ils ne dérivent pas la nuit.",
+   "nl": "Haha, niet helemaal! Alles zweeft in het station, dus astronauten slapen in slaapzakken die aan de muur vastzitten. Zo zweven ze ’s nachts niet weg.",
+   "img": "Qubi floats next to a sleeping bag tied to the wall of a space station"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Water floats in wobbly balls, so drinks come in pouches with a straw. Astronauts often eat tortillas instead of bread, because crumbs would float everywhere.",
+   "fr": "L’eau flotte en petites boules qui tremblotent, alors on boit dans des sachets avec une paille. Les astronautes mangent souvent des tortillas au lieu du pain, car les miettes flotteraient partout.",
+   "nl": "Water zweeft in wiebelige bolletjes, dus drinken doe je uit een zakje met een rietje. Astronauten eten vaak wraps in plaats van brood, want kruimels zouden overal rondzweven.",
+   "img": "Whyzz and Qubi in a space station catch floating water balls and a tortilla"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Did you know? The station circles Earth about 16 times a day, so astronauts can see about 16 sunrises every day!",
+   "fr": "Le savais-tu ? La station fait environ 16 fois le tour de la Terre par jour, alors les astronautes peuvent voir environ 16 levers de soleil chaque jour !",
+   "nl": "Wist je dat? Het station draait ongeveer 16 keer per dag rond de aarde, dus astronauten zien elke dag zo’n 16 zonsopgangen!",
+   "img": "Qubi points out of a round station window at a sunrise over Earth"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So in space you sleep on the wall and drink water bubbles! What would you like to try first on a space station?",
+   "fr": "Donc dans l’espace, on dort contre le mur et on boit des bulles d’eau ! Qu’est-ce que tu voudrais essayer en premier dans une station spatiale ?",
+   "nl": "Dus in de ruimte slaap je tegen de muur en drink je waterbellen! Wat zou jij als eerste willen proberen in een ruimtestation?",
+   "img": "Whyzz and Qubi float happily in a space station waving"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks up with a puzzled face at a big floating model of a space station in a bright planetarium full of stars, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge smiles and points at the model. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a silly dream bubble above his head showing pancakes stuck to a ceiling and a kid sleeping upside down, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge giggles next to him in a cozy room with star posters without writing. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge floats happily inside a colorful space station next to a puffy sleeping bag strapped to the wall, cables and soft lights around, Earth visible through a round window. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge float inside a space station and try to catch shiny wobbly balls of water floating in the air, one holds a drink pouch with a straw, a round tortilla floats nearby, both laugh. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge floats by a large round window of a space station and points at a golden sunrise glowing over the curved blue Earth, amazed smile. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge float upside down and wave cheerfully inside a cozy colorful space station, the blue Earth shining through a big window behind them. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Where do astronauts sleep on the station?",
+    "fr": "Où dorment les astronautes dans la station ?",
+    "nl": "Waar slapen astronauten in het station?"
+   },
+   "o": {
+    "en": [
+     "In beds with heavy blankets",
+     "In sleeping bags tied to the wall",
+     "In hammocks on the roof outside"
+    ],
+    "fr": [
+     "Dans des lits avec de lourdes couvertures",
+     "Dans des sacs de couchage attachés au mur",
+     "Dans des hamacs sur le toit, dehors"
+    ],
+    "nl": [
+     "In bedden met zware dekens",
+     "In slaapzakken die aan de muur vastzitten",
+     "In hangmatten buiten op het dak"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Why do astronauts drink from pouches with a straw?",
+    "fr": "Pourquoi les astronautes boivent-ils dans des sachets avec une paille ?",
+    "nl": "Waarom drinken astronauten uit zakjes met een rietje?"
+   },
+   "o": {
+    "en": [
+     "Because water floats away in balls",
+     "Because cups are too heavy",
+     "Because straws make drinks sweeter"
+    ],
+    "fr": [
+     "Parce que l’eau s’envole en boules",
+     "Parce que les tasses sont trop lourdes",
+     "Parce que les pailles rendent les boissons plus sucrées"
+    ],
+    "nl": [
+     "Omdat water wegzweeft in bolletjes",
+     "Omdat bekers te zwaar zijn",
+     "Omdat rietjes drinken zoeter maken"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why do astronauts often eat tortillas instead of bread?",
+    "fr": "Pourquoi les astronautes mangent-ils souvent des tortillas au lieu du pain ?",
+    "nl": "Waarom eten astronauten vaak wraps in plaats van brood?"
+   },
+   "o": {
+    "en": [
+     "Bread is not allowed in space",
+     "Tortillas are purple",
+     "Bread crumbs would float everywhere"
+    ],
+    "fr": [
+     "Le pain est interdit dans l’espace",
+     "Les tortillas sont violettes",
+     "Les miettes de pain flotteraient partout"
+    ],
+    "nl": [
+     "Brood is verboden in de ruimte",
+     "Wraps zijn paars",
+     "Broodkruimels zouden overal rondzweven"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "About how many sunrises can astronauts see in one day?",
+    "fr": "Environ combien de levers de soleil les astronautes voient-ils en un jour ?",
+    "nl": "Ongeveer hoeveel zonsopgangen zien astronauten op één dag?"
+   },
+   "o": {
+    "en": [
+     "About 1",
+     "About 16",
+     "About 100"
+    ],
+    "fr": [
+     "Environ 1",
+     "Environ 16",
+     "Environ 100"
+    ],
+    "nl": [
+     "Ongeveer 1",
+     "Ongeveer 16",
+     "Ongeveer 100"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What was Whyzz’s silly guess?",
+    "fr": "Quelle était l’idée rigolote de Whyzz ?",
+    "nl": "Wat was het grappige idee van Whyzz?"
+   },
+   "o": {
+    "en": [
+     "Pancakes glued to the ceiling",
+     "Astronauts sleep in the fridge",
+     "Astronauts eat only ice cream"
+    ],
+    "fr": [
+     "Des crêpes collées au plafond",
+     "Les astronautes dorment dans le frigo",
+     "Les astronautes ne mangent que de la glace"
+    ],
+    "nl": [
+     "Pannenkoeken aan het plafond geplakt",
+     "Astronauten slapen in de koelkast",
+     "Astronauten eten alleen ijsjes"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Pack for the space station",
+   "fr": "Prépare ton sac pour la station",
+   "nl": "Inpakken voor het ruimtestation"
+  },
+  "intro": {
+   "en": "Things float in space. Pick everything that works well on a space station.",
+   "fr": "Dans l’espace, tout flotte. Choisis tout ce qui marche bien dans une station spatiale.",
+   "nl": "In de ruimte zweeft alles. Kies alles wat goed werkt in een ruimtestation."
+  },
+  "done": {
+   "en": "Ready for liftoff, space traveler!",
+   "fr": "Prêt pour le décollage, voyageur de l’espace !",
+   "nl": "Klaar voor de lancering, ruimtereiziger!"
+  },
+  "items": {
+   "en": [
+    "A sleeping bag tied to the wall",
+    "An open glass of juice",
+    "A drink pouch with a straw",
+    "A bucket of loose sand",
+    "Tortillas",
+    "A crumbly cake"
+   ],
+   "fr": [
+    "Un sac de couchage attaché au mur",
+    "Un verre de jus ouvert",
+    "Un sachet à boire avec une paille",
+    "Un seau de sable",
+    "Des tortillas",
+    "Un gâteau plein de miettes"
+   ],
+   "nl": [
+    "Een slaapzak die aan de muur vastzit",
+    "Een open glas sap",
+    "Een drinkzakje met een rietje",
+    "Een emmer los zand",
+    "Wraps",
+    "Een kruimelige cake"
+   ]
+  },
+  "good": [
+   0,
+   2,
+   4
+  ]
+ }
+}

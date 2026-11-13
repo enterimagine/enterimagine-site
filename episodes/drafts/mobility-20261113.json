@@ -1,0 +1,230 @@
+{
+ "id": "mobility-20261113",
+ "world": "mobility",
+ "guide": "Sunny",
+ "title": {
+  "en": "How does a delivery drone bring a package?",
+  "fr": "Comment un drone livre-t-il un colis ?",
+  "nl": "Hoe brengt een bezorgdrone een pakketje?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, I just saw a flying box with propellers! Was it carrying a package?",
+   "fr": "Sunny, je viens de voir une boîte volante avec des hélices ! Elle transportait un colis ?",
+   "nl": "Sunny, ik zag net een vliegende doos met propellers! Had hij een pakketje bij zich?",
+   "img": "Whyzz points at a small drone flying over a neighborhood, Sunny looks up"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Or maybe it was a pizza with wings that got tired of waiting in the oven!",
+   "fr": "Ou alors c’était une pizza avec des ailes qui en avait marre d’attendre dans le four !",
+   "nl": "Of misschien was het een pizza met vleugeltjes die geen zin meer had om in de oven te wachten!",
+   "img": "a silly pizza with little wings flies out of an oven, Sunny laughs"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Ha, it was a delivery drone! Its propellers spin super fast and push air down, so the drone goes up, like a helicopter with four arms.",
+   "fr": "Ha, c’était un drone de livraison ! Ses hélices tournent super vite et poussent l’air vers le bas, alors le drone monte, comme un hélicoptère à quatre bras.",
+   "nl": "Haha, het was een bezorgdrone! Zijn propellers draaien supersnel en duwen lucht naar beneden, waardoor de drone omhoog gaat, zoals een helikopter met vier armen.",
+   "img": "Sunny shows a drone hovering with air swirling down from four propellers"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "The drone uses signals from satellites to know where it is, like a map with a dot that says: you are here! Cameras and sensors help it fly around trees.",
+   "fr": "Le drone utilise des signaux de satellites pour savoir où il est, comme une carte avec un point qui dit : tu es ici ! Ses caméras et ses capteurs l’aident à éviter les arbres.",
+   "nl": "De drone gebruikt signalen van satellieten om te weten waar hij is, zoals een kaart met een stip die zegt: je bent hier! Camera’s en sensoren helpen hem om bomen te ontwijken.",
+   "img": "a drone flies around a tree with satellites high in the sky, Whyzz and Sunny watch"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Did you know? Many delivery drones do not even land at your house. They hover up high and gently lower the package on a rope!",
+   "fr": "Le savais-tu ? Beaucoup de drones de livraison ne se posent même pas chez toi. Ils restent en l’air et font descendre doucement le colis avec une corde !",
+   "nl": "Wist je dat? Veel bezorgdrones landen niet eens bij je huis. Ze blijven hoog in de lucht hangen en laten het pakketje voorzichtig zakken aan een touw!",
+   "img": "a drone hovers over a garden and lowers a box on a rope, Sunny catches it"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Flying packages are so cool! If a drone could bring you anything, what would you ask for?",
+   "fr": "Les colis volants, c’est trop cool ! Si un drone pouvait t’apporter n’importe quoi, qu’est-ce que tu demanderais ?",
+   "nl": "Vliegende pakjes zijn supercool! Als een drone je alles kon brengen, wat zou jij dan vragen?",
+   "img": "Whyzz and Sunny open a box in a garden while a drone flies away"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge points excitedly at the sky where a small white delivery drone with four propellers carries a brown box over a sunny neighborhood with houses and trees, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge looks up with a smile. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs at a silly dream bubble showing a round pizza with tiny feathered wings flying out of an oven, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge giggles with her hand on her mouth, sunny backyard. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands in a park and points at a white delivery drone hovering in the air, swirls of air pushed down from its four spinning propellers ruffle the grass below, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds his cap on with wide eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "a white delivery drone with a brown box flies carefully around a big green tree, small satellites shine high in the blue sky, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge watch from a path below, curious and happy. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "a white delivery drone hovers high above a garden and gently lowers a brown box on a long rope, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge reaches up to catch it, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge cheers beside her. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge kneel on the grass of a sunny garden and open a brown box with big smiles while a white delivery drone flies away into the blue sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What makes the drone go up?",
+    "fr": "Qu’est-ce qui fait monter le drone ?",
+    "nl": "Waardoor gaat de drone omhoog?"
+   },
+   "o": {
+    "en": [
+     "A tiny rocket",
+     "Magnets in the ground",
+     "Propellers pushing air down"
+    ],
+    "fr": [
+     "Une mini-fusée",
+     "Des aimants dans le sol",
+     "Des hélices qui poussent l’air vers le bas"
+    ],
+    "nl": [
+     "Een mini-raket",
+     "Magneten in de grond",
+     "Propellers die lucht naar beneden duwen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "How does the drone know where it is?",
+    "fr": "Comment le drone sait-il où il est ?",
+    "nl": "Hoe weet de drone waar hij is?"
+   },
+   "o": {
+    "en": [
+     "It asks the birds",
+     "Signals from satellites",
+     "It just guesses"
+    ],
+    "fr": [
+     "Il demande aux oiseaux",
+     "Grâce à des signaux de satellites",
+     "Il devine, tout simplement"
+    ],
+    "nl": [
+     "Hij vraagt het aan de vogels",
+     "Met signalen van satellieten",
+     "Hij raadt het gewoon"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What helps the drone fly around trees?",
+    "fr": "Qu’est-ce qui aide le drone à éviter les arbres ?",
+    "nl": "Wat helpt de drone om bomen te ontwijken?"
+   },
+   "o": {
+    "en": [
+     "Cameras and sensors",
+     "A loud horn",
+     "A long tail"
+    ],
+    "fr": [
+     "Des caméras et des capteurs",
+     "Un gros klaxon",
+     "Une longue queue"
+    ],
+    "nl": [
+     "Camera’s en sensoren",
+     "Een luide toeter",
+     "Een lange staart"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "How do many delivery drones give you the package?",
+    "fr": "Comment beaucoup de drones de livraison te donnent-ils le colis ?",
+    "nl": "Hoe geven veel bezorgdrones je het pakketje?"
+   },
+   "o": {
+    "en": [
+     "They throw it at the door",
+     "They lower it on a rope",
+     "They ring the doorbell"
+    ],
+    "fr": [
+     "Ils le lancent contre la porte",
+     "Ils le font descendre avec une corde",
+     "Ils sonnent à la porte"
+    ],
+    "nl": [
+     "Ze gooien het tegen de deur",
+     "Ze laten het zakken aan een touw",
+     "Ze bellen aan"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What was Whyzz’s silly guess?",
+    "fr": "Quelle était l’idée rigolote de Whyzz ?",
+    "nl": "Wat was het grappige idee van Whyzz?"
+   },
+   "o": {
+    "en": [
+     "A flying shoe",
+     "A pizza with wings",
+     "A bird with a hat"
+    ],
+    "fr": [
+     "Une chaussure volante",
+     "Une pizza avec des ailes",
+     "Un oiseau avec un chapeau"
+    ],
+    "nl": [
+     "Een vliegende schoen",
+     "Een pizza met vleugeltjes",
+     "Een vogel met een hoed"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "A drone delivery, step by step",
+   "fr": "Une livraison par drone, étape par étape",
+   "nl": "Een drone-bezorging, stap voor stap"
+  },
+  "intro": {
+   "en": "Put the steps of the drone delivery in the right order.",
+   "fr": "Remets les étapes de la livraison par drone dans le bon ordre.",
+   "nl": "Zet de stappen van de drone-bezorging in de juiste volgorde."
+  },
+  "done": {
+   "en": "Package delivered, super pilot!",
+   "fr": "Colis livré, super pilote !",
+   "nl": "Pakketje bezorgd, superpiloot!"
+  },
+  "items": {
+   "en": [
+    "The package is clipped under the drone",
+    "The propellers spin and the drone lifts off",
+    "It follows satellite signals to the right house",
+    "It hovers and lowers the package on a rope",
+    "It flies back to charge its battery"
+   ],
+   "fr": [
+    "On accroche le colis sous le drone",
+    "Les hélices tournent et le drone décolle",
+    "Il suit les signaux des satellites jusqu’à la bonne maison",
+    "Il reste en l’air et fait descendre le colis avec une corde",
+    "Il revient pour recharger sa batterie"
+   ],
+   "nl": [
+    "Het pakketje wordt onder de drone vastgeklikt",
+    "De propellers draaien en de drone stijgt op",
+    "Hij volgt satellietsignalen naar het juiste huis",
+    "Hij blijft hangen en laat het pakketje zakken aan een touw",
+    "Hij vliegt terug om zijn batterij op te laden"
+   ]
+  }
+ }
+}

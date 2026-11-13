@@ -1,0 +1,247 @@
+{
+ "id": "cities-20261113",
+ "world": "cities",
+ "guide": "Pixel",
+ "title": {
+  "en": "How do smart traffic lights know when to turn green?",
+  "fr": "Comment les feux intelligents savent-ils quand passer au vert ?",
+  "nl": "Hoe weten slimme verkeerslichten wanneer ze groen moeten worden?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, why do I sometimes wait at a red light when the street is totally empty? So unfair!",
+   "fr": "Pixel, pourquoi j’attends parfois au feu rouge alors que la rue est complètement vide ? C’est trop injuste !",
+   "nl": "Pixel, waarom moet ik soms wachten voor een rood licht terwijl de straat helemaal leeg is? Zo oneerlijk!",
+   "img": "Whyzz waits on his bike at a red light on an empty street, Pixel next to him"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Maybe the traffic light is just taking a nap and forgot to wake up!",
+   "fr": "Peut-être que le feu fait une petite sieste et qu’il a oublié de se réveiller !",
+   "nl": "Misschien doet het verkeerslicht gewoon een dutje en is het vergeten wakker te worden!",
+   "img": "Whyzz imagines a sleepy traffic light with a nightcap, Pixel laughs"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, lights do not nap! Smart traffic lights have sensors, like a wire loop under the road or a small camera, that notice when cars are waiting.",
+   "fr": "Ha, les feux ne font pas la sieste ! Les feux intelligents ont des capteurs, comme une boucle de fil sous la route ou une petite caméra, qui voient quand des voitures attendent.",
+   "nl": "Haha, lichten doen geen dutjes! Slimme verkeerslichten hebben sensoren, zoals een draadlus onder de weg of een kleine camera, die merken wanneer er auto’s wachten.",
+   "img": "Pixel points at a small camera on a traffic light pole and a glowing loop under the road"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "A computer counts who is waiting on each side and gives more green time to the busiest street. It is like a teacher letting the longest line go first.",
+   "fr": "Un ordinateur compte qui attend de chaque côté et donne plus de temps de vert à la rue la plus chargée. C’est comme une maîtresse qui laisse passer la plus longue file en premier.",
+   "nl": "Een computer telt wie er aan elke kant wacht en geeft de drukste straat langer groen. Net als een juf die de langste rij eerst laat gaan.",
+   "img": "a crossroads with a long line of cars getting green while Whyzz and Pixel watch"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know? Some traffic lights talk to each other to make a green wave: one green light after another. Ambulances can even ask the lights to turn green for them!",
+   "fr": "Le savais-tu ? Certains feux se parlent pour créer une onde verte : un feu vert après l’autre. Les ambulances peuvent même demander aux feux de passer au vert pour elles !",
+   "nl": "Wist je dat? Sommige verkeerslichten praten met elkaar om een groene golf te maken: het ene groene licht na het andere. Ambulances kunnen de lichten zelfs vragen om groen te worden!",
+   "img": "a row of green traffic lights along an avenue as an ambulance drives through"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So smart lights help everyone move and wait less! If you could invent a new traffic light, what would it do?",
+   "fr": "Donc les feux intelligents aident tout le monde à avancer et à moins attendre ! Si tu pouvais inventer un nouveau feu, qu’est-ce qu’il ferait ?",
+   "nl": "Dus slimme lichten helpen iedereen vooruit en we wachten minder! Als jij een nieuw verkeerslicht mocht uitvinden, wat zou het dan doen?",
+   "img": "Whyzz and Pixel ride bikes through a green light in a cheerful city"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits on a bike with a bored grumpy face at a red traffic light on a completely empty city street, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands next to him with a curious smile, sunny morning. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs at a dream bubble showing a sleepy cartoon traffic light wearing a nightcap and snoring, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge giggles next to him on a city sidewalk. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points at a small camera on top of a traffic light pole at a crossroads, a softly glowing loop of wire is visible under the road where a car waits, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks closely with big eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "a busy crossroads seen from above with a long line of colorful cars on one street getting a green light and a short line waiting on the other street, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge watch from the corner and smile. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "a long city avenue with a row of traffic lights all glowing green one after another, a friendly white ambulance drives smoothly through, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge waves from the sidewalk. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge ride bikes happily through a green traffic light in a cheerful colorful city with trees and flowers. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What helps a smart traffic light notice waiting cars?",
+    "fr": "Qu’est-ce qui aide un feu intelligent à voir les voitures qui attendent ?",
+    "nl": "Wat helpt een slim verkeerslicht om wachtende auto’s op te merken?"
+   },
+   "o": {
+    "en": [
+     "A pigeon on the pole",
+     "Sensors like a wire loop or a camera",
+     "The clouds"
+    ],
+    "fr": [
+     "Un pigeon sur le poteau",
+     "Des capteurs, comme une boucle de fil ou une caméra",
+     "Les nuages"
+    ],
+    "nl": [
+     "Een duif op de paal",
+     "Sensoren, zoals een draadlus of een camera",
+     "De wolken"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Which street gets more green time?",
+    "fr": "Quelle rue reçoit plus de temps de vert ?",
+    "nl": "Welke straat krijgt langer groen?"
+   },
+   "o": {
+    "en": [
+     "The busiest street",
+     "The emptiest street",
+     "The street with the most trees"
+    ],
+    "fr": [
+     "La rue la plus chargée",
+     "La rue la plus vide",
+     "La rue avec le plus d’arbres"
+    ],
+    "nl": [
+     "De drukste straat",
+     "De leegste straat",
+     "De straat met de meeste bomen"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What is a green wave?",
+    "fr": "Qu’est-ce qu’une onde verte ?",
+    "nl": "Wat is een groene golf?"
+   },
+   "o": {
+    "en": [
+     "A big green ocean wave",
+     "Green paint on the road",
+     "One green light after another"
+    ],
+    "fr": [
+     "Une grosse vague verte dans la mer",
+     "De la peinture verte sur la route",
+     "Un feu vert après l’autre"
+    ],
+    "nl": [
+     "Een grote groene golf in de zee",
+     "Groene verf op de weg",
+     "Het ene groene licht na het andere"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Who can ask the lights to turn green?",
+    "fr": "Qui peut demander aux feux de passer au vert ?",
+    "nl": "Wie kan de lichten vragen om groen te worden?"
+   },
+   "o": {
+    "en": [
+     "Ice cream trucks",
+     "Ambulances",
+     "Cats"
+    ],
+    "fr": [
+     "Les camions de glaces",
+     "Les ambulances",
+     "Les chats"
+    ],
+    "nl": [
+     "IJscowagens",
+     "Ambulances",
+     "Katten"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What did Whyzz think the traffic light was doing?",
+    "fr": "D’après Whyzz, que faisait le feu ?",
+    "nl": "Wat dacht Whyzz dat het verkeerslicht deed?"
+   },
+   "o": {
+    "en": [
+     "Taking a nap",
+     "Eating lunch",
+     "Watching TV"
+    ],
+    "fr": [
+     "Il faisait la sieste",
+     "Il mangeait",
+     "Il regardait la télé"
+    ],
+    "nl": [
+     "Een dutje doen",
+     "Lunchen",
+     "Tv kijken"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Who helps the traffic light?",
+   "fr": "Qui aide le feu ?",
+   "nl": "Wie helpt het verkeerslicht?"
+  },
+  "intro": {
+   "en": "Match each helper with what it does.",
+   "fr": "Relie chaque aide à ce qu’elle fait.",
+   "nl": "Verbind elke helper met wat hij doet."
+  },
+  "done": {
+   "en": "Great job, traffic boss!",
+   "fr": "Bravo, chef de la circulation !",
+   "nl": "Goed gedaan, verkeersbaas!"
+  },
+  "left": {
+   "en": [
+    "Wire loop under the road",
+    "Small camera",
+    "Push button",
+    "Ambulance signal"
+   ],
+   "fr": [
+    "Boucle de fil sous la route",
+    "Petite caméra",
+    "Bouton-poussoir",
+    "Signal d’ambulance"
+   ],
+   "nl": [
+    "Draadlus onder de weg",
+    "Kleine camera",
+    "Drukknop",
+    "Signaal van een ambulance"
+   ]
+  },
+  "right": {
+   "en": [
+    "Feels a car standing on top of it",
+    "Sees how many cars are waiting",
+    "Tells the light someone wants to cross",
+    "Asks for green to pass quickly"
+   ],
+   "fr": [
+    "Sent une voiture arrêtée au-dessus",
+    "Voit combien de voitures attendent",
+    "Dit au feu que quelqu’un veut traverser",
+    "Demande le vert pour passer vite"
+   ],
+   "nl": [
+    "Merkt een auto die erop stilstaat",
+    "Ziet hoeveel auto’s er wachten",
+    "Vertelt het licht dat iemand wil oversteken",
+    "Vraagt groen om snel door te rijden"
+   ]
+  }
+ }
+}

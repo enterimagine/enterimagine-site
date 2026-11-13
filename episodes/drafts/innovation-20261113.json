@@ -1,0 +1,242 @@
+{
+ "id": "innovation-20261113",
+ "world": "innovation",
+ "guide": "Whyzz",
+ "title": {
+  "en": "How do you build the best marble run?",
+  "fr": "Comment construire le meilleur circuit à billes ?",
+  "nl": "Hoe bouw je de beste knikkerbaan?"
+ },
+ "scenes": [
+  {
+   "speaker": "Pixel",
+   "en": "Whyzz, I built a marble run, but my marble keeps flying off the track! What am I doing wrong?",
+   "fr": "Whyzz, j’ai construit un circuit à billes, mais ma bille n’arrête pas de sortir de la piste ! Qu’est-ce que je fais de travers ?",
+   "nl": "Whyzz, ik heb een knikkerbaan gebouwd, maar mijn knikker vliegt steeds van de baan! Wat doe ik verkeerd?",
+   "img": "Pixel looks at a marble flying off her cardboard marble run, Whyzz watches"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Easy! We glue the marble to the track. Oops, then it cannot roll at all!",
+   "fr": "Facile ! On colle la bille sur la piste. Oups, alors elle ne peut plus rouler du tout !",
+   "nl": "Makkelijk! We lijmen de knikker vast op de baan. Oeps, dan kan hij helemaal niet meer rollen!",
+   "img": "Whyzz holds a glue bottle next to a stuck marble, Pixel laughs"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Inventors test, see what goes wrong and try again. In a curve the marble wants to keep going straight, so we add walls to keep it on the track.",
+   "fr": "Les inventeurs testent, regardent ce qui ne va pas et recommencent. Dans un virage, la bille veut continuer tout droit, alors on ajoute des murs pour la garder sur la piste.",
+   "nl": "Uitvinders testen, kijken wat er misgaat en proberen het opnieuw. In een bocht wil de knikker rechtdoor, dus bouwen we muurtjes om hem op de baan te houden.",
+   "img": "Whyzz adds cardboard walls to a curve of the marble run"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "If the slope is too steep, the marble gets way too fast. If it is too flat, the marble stops, so we look for a gentle slope.",
+   "fr": "Si la pente est trop raide, la bille va beaucoup trop vite. Si elle est trop plate, la bille s’arrête, alors on cherche une pente douce.",
+   "nl": "Als de helling te steil is, gaat de knikker veel te snel. Is hij te vlak, dan stopt de knikker, dus zoeken we een zachte helling.",
+   "img": "Whyzz and Pixel tilt a track to a gentle slope while a marble rolls"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know? Inventors often build many test versions, called prototypes, before one works well. Every mistake teaches them something new!",
+   "fr": "Le savais-tu ? Les inventeurs construisent souvent plein de versions d’essai, appelées prototypes, avant que l’une marche bien. Chaque erreur leur apprend quelque chose !",
+   "nl": "Wist je dat? Uitvinders bouwen vaak heel wat testversies, prototypes genoemd, voor er één goed werkt. Van elke fout leren ze iets nieuws!",
+   "img": "Pixel stands by a table full of different test marble runs"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Test, fix and test again: now our marble run is awesome! What crazy trick would you add to your marble run?",
+   "fr": "Tester, réparer et tester encore : maintenant notre circuit est génial ! Quel truc fou ajouterais-tu à ton circuit à billes ?",
+   "nl": "Testen, verbeteren en opnieuw testen: nu is onze knikkerbaan geweldig! Welke gekke truc zou jij aan je knikkerbaan toevoegen?",
+   "img": "Whyzz and Pixel cheer as marbles race down a big colorful marble run"
+  }
+ ],
+ "prompts": [
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge looks surprised as a shiny glass marble flies off the curve of her homemade cardboard marble run in a bright playroom, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with wide eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds a big glue bottle with a cheeky grin next to a shiny marble stuck on a cardboard track, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs with her hands on her cheeks in a bright playroom. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge kneels and tapes small cardboard walls along a curve of a homemade marble run while a shiny marble rolls safely around it, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge watches excitedly, bright playroom. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge carefully tilt a long cardboard track to a gentle slope while a shiny glass marble rolls down it smoothly, craft supplies around them in a bright playroom. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands proudly next to a big table covered with many different small homemade test marble runs made of cardboard tubes and paper cups, a bright workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge cheer with raised arms as colorful marbles race down a huge twisting homemade marble run with ramps, tubes and spirals in a bright playroom. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Why did the marble fly off in the curve?",
+    "fr": "Pourquoi la bille sortait-elle dans le virage ?",
+    "nl": "Waarom vloog de knikker uit de bocht?"
+   },
+   "o": {
+    "en": [
+     "It was scared",
+     "It wanted to keep going straight",
+     "It was too small"
+    ],
+    "fr": [
+     "Elle avait peur",
+     "Elle voulait continuer tout droit",
+     "Elle était trop petite"
+    ],
+    "nl": [
+     "Hij was bang",
+     "Hij wilde rechtdoor blijven gaan",
+     "Hij was te klein"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What keeps the marble on the track in a curve?",
+    "fr": "Qu’est-ce qui garde la bille sur la piste dans un virage ?",
+    "nl": "Wat houdt de knikker op de baan in een bocht?"
+   },
+   "o": {
+    "en": [
+     "Glue",
+     "Wind",
+     "Walls along the curve"
+    ],
+    "fr": [
+     "De la colle",
+     "Du vent",
+     "Des murs le long du virage"
+    ],
+    "nl": [
+     "Lijm",
+     "Wind",
+     "Muurtjes langs de bocht"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What happens if the slope is too flat?",
+    "fr": "Que se passe-t-il si la pente est trop plate ?",
+    "nl": "Wat gebeurt er als de helling te vlak is?"
+   },
+   "o": {
+    "en": [
+     "The marble stops",
+     "The marble flies away",
+     "The marble melts"
+    ],
+    "fr": [
+     "La bille s’arrête",
+     "La bille s’envole",
+     "La bille fond"
+    ],
+    "nl": [
+     "De knikker stopt",
+     "De knikker vliegt weg",
+     "De knikker smelt"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What is a prototype?",
+    "fr": "Qu’est-ce qu’un prototype ?",
+    "nl": "Wat is een prototype?"
+   },
+   "o": {
+    "en": [
+     "A kind of marble",
+     "A test version of an invention",
+     "A tiny robot"
+    ],
+    "fr": [
+     "Une sorte de bille",
+     "Une version d’essai d’une invention",
+     "Un tout petit robot"
+    ],
+    "nl": [
+     "Een soort knikker",
+     "Een testversie van een uitvinding",
+     "Een piepkleine robot"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What do inventors do after a mistake?",
+    "fr": "Que font les inventeurs après une erreur ?",
+    "nl": "Wat doen uitvinders na een fout?"
+   },
+   "o": {
+    "en": [
+     "They give up",
+     "They hide it",
+     "They learn and try again"
+    ],
+    "fr": [
+     "Ils abandonnent",
+     "Ils la cachent",
+     "Ils apprennent et recommencent"
+    ],
+    "nl": [
+     "Ze geven op",
+     "Ze verstoppen hem",
+     "Ze leren ervan en proberen opnieuw"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Tips for a great marble run",
+   "fr": "Astuces pour un super circuit",
+   "nl": "Tips voor een topknikkerbaan"
+  },
+  "intro": {
+   "en": "Pick all the tips that help build a great marble run.",
+   "fr": "Choisis toutes les astuces qui aident à construire un super circuit à billes.",
+   "nl": "Kies alle tips die helpen om een topknikkerbaan te bouwen."
+  },
+  "done": {
+   "en": "Awesome building, young inventor!",
+   "fr": "Super construction, jeune inventeur !",
+   "nl": "Super gebouwd, jonge uitvinder!"
+  },
+  "items": {
+   "en": [
+    "Test it again and again",
+    "Glue the marble to the track",
+    "Add walls in the curves",
+    "Give up after the first try",
+    "Use a gentle slope",
+    "Make the track go uphill only",
+    "Change one thing at a time"
+   ],
+   "fr": [
+    "Tester encore et encore",
+    "Coller la bille sur la piste",
+    "Ajouter des murs dans les virages",
+    "Abandonner après le premier essai",
+    "Faire une pente douce",
+    "Faire une piste qui ne fait que monter",
+    "Changer une seule chose à la fois"
+   ],
+   "nl": [
+    "Steeds opnieuw testen",
+    "De knikker op de baan lijmen",
+    "Muurtjes in de bochten zetten",
+    "Opgeven na de eerste poging",
+    "Een zachte helling maken",
+    "De baan alleen bergop laten gaan",
+    "Eén ding tegelijk veranderen"
+   ]
+  },
+  "good": [
+   0,
+   2,
+   4,
+   6
+  ]
+ }
+}
