@@ -7820,6 +7820,979 @@
    },
    "added": "2026-11-12",
    "voice": true
+  },
+  {
+   "id": "space-20261113",
+   "world": "space",
+   "guide": "Qubi",
+   "title": {
+    "en": "How do astronauts sleep and eat in space?",
+    "fr": "Comment les astronautes dorment-ils et mangent-ils dans l’espace ?",
+    "nl": "Hoe slapen en eten astronauten in de ruimte?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, how do astronauts sleep and eat on a space station? There is no up or down up there!",
+     "fr": "Qubi, comment les astronautes dorment-ils et mangent-ils dans une station spatiale ? Là-haut, il n’y a ni haut ni bas !",
+     "nl": "Qubi, hoe slapen en eten astronauten in een ruimtestation? Daarboven is er geen boven of onder!",
+     "img": "Whyzz and Qubi look at a space station model in a planetarium"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I bet they glue their pancakes to the ceiling and sleep standing on their heads!",
+     "fr": "Je parie qu’ils collent leurs crêpes au plafond et qu’ils dorment sur la tête !",
+     "nl": "Ik wed dat ze hun pannenkoeken aan het plafond plakken en op hun hoofd slapen!",
+     "img": "Whyzz imagines pancakes stuck to a ceiling, Qubi laughs"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Ha, not quite! Everything floats on the station, so astronauts sleep in sleeping bags tied to the wall. That way they do not drift around at night.",
+     "fr": "Ha, pas tout à fait ! Tout flotte dans la station, alors les astronautes dorment dans des sacs de couchage attachés au mur. Comme ça, ils ne dérivent pas la nuit.",
+     "nl": "Haha, niet helemaal! Alles zweeft in het station, dus astronauten slapen in slaapzakken die aan de muur vastzitten. Zo zweven ze ’s nachts niet weg.",
+     "img": "Qubi floats next to a sleeping bag tied to the wall of a space station"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Water floats in wobbly balls, so drinks come in pouches with a straw. Astronauts often eat tortillas instead of bread, because crumbs would float everywhere.",
+     "fr": "L’eau flotte en petites boules qui tremblotent, alors on boit dans des sachets avec une paille. Les astronautes mangent souvent des tortillas au lieu du pain, car les miettes flotteraient partout.",
+     "nl": "Water zweeft in wiebelige bolletjes, dus drinken doe je uit een zakje met een rietje. Astronauten eten vaak wraps in plaats van brood, want kruimels zouden overal rondzweven.",
+     "img": "Whyzz and Qubi in a space station catch floating water balls and a tortilla"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Did you know? The station circles Earth about 16 times a day, so astronauts can see about 16 sunrises every day!",
+     "fr": "Le savais-tu ? La station fait environ 16 fois le tour de la Terre par jour, alors les astronautes peuvent voir environ 16 levers de soleil chaque jour !",
+     "nl": "Wist je dat? Het station draait ongeveer 16 keer per dag rond de aarde, dus astronauten zien elke dag zo’n 16 zonsopgangen!",
+     "img": "Qubi points out of a round station window at a sunrise over Earth"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So in space you sleep on the wall and drink water bubbles! What would you like to try first on a space station?",
+     "fr": "Donc dans l’espace, on dort contre le mur et on boit des bulles d’eau ! Qu’est-ce que tu voudrais essayer en premier dans une station spatiale ?",
+     "nl": "Dus in de ruimte slaap je tegen de muur en drink je waterbellen! Wat zou jij als eerste willen proberen in een ruimtestation?",
+     "img": "Whyzz and Qubi float happily in a space station waving"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Where do astronauts sleep on the station?",
+      "fr": "Où dorment les astronautes dans la station ?",
+      "nl": "Waar slapen astronauten in het station?"
+     },
+     "o": {
+      "en": [
+       "In beds with heavy blankets",
+       "In sleeping bags tied to the wall",
+       "In hammocks on the roof outside"
+      ],
+      "fr": [
+       "Dans des lits avec de lourdes couvertures",
+       "Dans des sacs de couchage attachés au mur",
+       "Dans des hamacs sur le toit, dehors"
+      ],
+      "nl": [
+       "In bedden met zware dekens",
+       "In slaapzakken die aan de muur vastzitten",
+       "In hangmatten buiten op het dak"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Why do astronauts drink from pouches with a straw?",
+      "fr": "Pourquoi les astronautes boivent-ils dans des sachets avec une paille ?",
+      "nl": "Waarom drinken astronauten uit zakjes met een rietje?"
+     },
+     "o": {
+      "en": [
+       "Because water floats away in balls",
+       "Because cups are too heavy",
+       "Because straws make drinks sweeter"
+      ],
+      "fr": [
+       "Parce que l’eau s’envole en boules",
+       "Parce que les tasses sont trop lourdes",
+       "Parce que les pailles rendent les boissons plus sucrées"
+      ],
+      "nl": [
+       "Omdat water wegzweeft in bolletjes",
+       "Omdat bekers te zwaar zijn",
+       "Omdat rietjes drinken zoeter maken"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why do astronauts often eat tortillas instead of bread?",
+      "fr": "Pourquoi les astronautes mangent-ils souvent des tortillas au lieu du pain ?",
+      "nl": "Waarom eten astronauten vaak wraps in plaats van brood?"
+     },
+     "o": {
+      "en": [
+       "Bread is not allowed in space",
+       "Tortillas are purple",
+       "Bread crumbs would float everywhere"
+      ],
+      "fr": [
+       "Le pain est interdit dans l’espace",
+       "Les tortillas sont violettes",
+       "Les miettes de pain flotteraient partout"
+      ],
+      "nl": [
+       "Brood is verboden in de ruimte",
+       "Wraps zijn paars",
+       "Broodkruimels zouden overal rondzweven"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "About how many sunrises can astronauts see in one day?",
+      "fr": "Environ combien de levers de soleil les astronautes voient-ils en un jour ?",
+      "nl": "Ongeveer hoeveel zonsopgangen zien astronauten op één dag?"
+     },
+     "o": {
+      "en": [
+       "About 1",
+       "About 16",
+       "About 100"
+      ],
+      "fr": [
+       "Environ 1",
+       "Environ 16",
+       "Environ 100"
+      ],
+      "nl": [
+       "Ongeveer 1",
+       "Ongeveer 16",
+       "Ongeveer 100"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What was Whyzz’s silly guess?",
+      "fr": "Quelle était l’idée rigolote de Whyzz ?",
+      "nl": "Wat was het grappige idee van Whyzz?"
+     },
+     "o": {
+      "en": [
+       "Pancakes glued to the ceiling",
+       "Astronauts sleep in the fridge",
+       "Astronauts eat only ice cream"
+      ],
+      "fr": [
+       "Des crêpes collées au plafond",
+       "Les astronautes dorment dans le frigo",
+       "Les astronautes ne mangent que de la glace"
+      ],
+      "nl": [
+       "Pannenkoeken aan het plafond geplakt",
+       "Astronauten slapen in de koelkast",
+       "Astronauten eten alleen ijsjes"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Pack for the space station",
+     "fr": "Prépare ton sac pour la station",
+     "nl": "Inpakken voor het ruimtestation"
+    },
+    "intro": {
+     "en": "Things float in space. Pick everything that works well on a space station.",
+     "fr": "Dans l’espace, tout flotte. Choisis tout ce qui marche bien dans une station spatiale.",
+     "nl": "In de ruimte zweeft alles. Kies alles wat goed werkt in een ruimtestation."
+    },
+    "done": {
+     "en": "Ready for liftoff, space traveler!",
+     "fr": "Prêt pour le décollage, voyageur de l’espace !",
+     "nl": "Klaar voor de lancering, ruimtereiziger!"
+    },
+    "items": {
+     "en": [
+      "A sleeping bag tied to the wall",
+      "An open glass of juice",
+      "A drink pouch with a straw",
+      "A bucket of loose sand",
+      "Tortillas",
+      "A crumbly cake"
+     ],
+     "fr": [
+      "Un sac de couchage attaché au mur",
+      "Un verre de jus ouvert",
+      "Un sachet à boire avec une paille",
+      "Un seau de sable",
+      "Des tortillas",
+      "Un gâteau plein de miettes"
+     ],
+     "nl": [
+      "Een slaapzak die aan de muur vastzit",
+      "Een open glas sap",
+      "Een drinkzakje met een rietje",
+      "Een emmer los zand",
+      "Wraps",
+      "Een kruimelige cake"
+     ]
+    },
+    "good": [
+     0,
+     2,
+     4
+    ]
+   },
+   "worldName": {
+    "en": "Space",
+    "fr": "Espace",
+    "nl": "Ruimte"
+   },
+   "adult": {
+    "en": "For grown-ups: the Space world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Espace dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Ruimte in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-13",
+   "voice": false
+  },
+  {
+   "id": "mobility-20261113",
+   "world": "mobility",
+   "guide": "Sunny",
+   "title": {
+    "en": "How does a delivery drone bring a package?",
+    "fr": "Comment un drone livre-t-il un colis ?",
+    "nl": "Hoe brengt een bezorgdrone een pakketje?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, I just saw a flying box with propellers! Was it carrying a package?",
+     "fr": "Sunny, je viens de voir une boîte volante avec des hélices ! Elle transportait un colis ?",
+     "nl": "Sunny, ik zag net een vliegende doos met propellers! Had hij een pakketje bij zich?",
+     "img": "Whyzz points at a small drone flying over a neighborhood, Sunny looks up"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Or maybe it was a pizza with wings that got tired of waiting in the oven!",
+     "fr": "Ou alors c’était une pizza avec des ailes qui en avait marre d’attendre dans le four !",
+     "nl": "Of misschien was het een pizza met vleugeltjes die geen zin meer had om in de oven te wachten!",
+     "img": "a silly pizza with little wings flies out of an oven, Sunny laughs"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Ha, it was a delivery drone! Its propellers spin super fast and push air down, so the drone goes up, like a helicopter with four arms.",
+     "fr": "Ha, c’était un drone de livraison ! Ses hélices tournent super vite et poussent l’air vers le bas, alors le drone monte, comme un hélicoptère à quatre bras.",
+     "nl": "Haha, het was een bezorgdrone! Zijn propellers draaien supersnel en duwen lucht naar beneden, waardoor de drone omhoog gaat, zoals een helikopter met vier armen.",
+     "img": "Sunny shows a drone hovering with air swirling down from four propellers"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "The drone uses signals from satellites to know where it is, like a map with a dot that says: you are here! Cameras and sensors help it fly around trees.",
+     "fr": "Le drone utilise des signaux de satellites pour savoir où il est, comme une carte avec un point qui dit : tu es ici ! Ses caméras et ses capteurs l’aident à éviter les arbres.",
+     "nl": "De drone gebruikt signalen van satellieten om te weten waar hij is, zoals een kaart met een stip die zegt: je bent hier! Camera’s en sensoren helpen hem om bomen te ontwijken.",
+     "img": "a drone flies around a tree with satellites high in the sky, Whyzz and Sunny watch"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Did you know? Many delivery drones do not even land at your house. They hover up high and gently lower the package on a rope!",
+     "fr": "Le savais-tu ? Beaucoup de drones de livraison ne se posent même pas chez toi. Ils restent en l’air et font descendre doucement le colis avec une corde !",
+     "nl": "Wist je dat? Veel bezorgdrones landen niet eens bij je huis. Ze blijven hoog in de lucht hangen en laten het pakketje voorzichtig zakken aan een touw!",
+     "img": "a drone hovers over a garden and lowers a box on a rope, Sunny catches it"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Flying packages are so cool! If a drone could bring you anything, what would you ask for?",
+     "fr": "Les colis volants, c’est trop cool ! Si un drone pouvait t’apporter n’importe quoi, qu’est-ce que tu demanderais ?",
+     "nl": "Vliegende pakjes zijn supercool! Als een drone je alles kon brengen, wat zou jij dan vragen?",
+     "img": "Whyzz and Sunny open a box in a garden while a drone flies away"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What makes the drone go up?",
+      "fr": "Qu’est-ce qui fait monter le drone ?",
+      "nl": "Waardoor gaat de drone omhoog?"
+     },
+     "o": {
+      "en": [
+       "A tiny rocket",
+       "Magnets in the ground",
+       "Propellers pushing air down"
+      ],
+      "fr": [
+       "Une mini-fusée",
+       "Des aimants dans le sol",
+       "Des hélices qui poussent l’air vers le bas"
+      ],
+      "nl": [
+       "Een mini-raket",
+       "Magneten in de grond",
+       "Propellers die lucht naar beneden duwen"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "How does the drone know where it is?",
+      "fr": "Comment le drone sait-il où il est ?",
+      "nl": "Hoe weet de drone waar hij is?"
+     },
+     "o": {
+      "en": [
+       "It asks the birds",
+       "Signals from satellites",
+       "It just guesses"
+      ],
+      "fr": [
+       "Il demande aux oiseaux",
+       "Grâce à des signaux de satellites",
+       "Il devine, tout simplement"
+      ],
+      "nl": [
+       "Hij vraagt het aan de vogels",
+       "Met signalen van satellieten",
+       "Hij raadt het gewoon"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What helps the drone fly around trees?",
+      "fr": "Qu’est-ce qui aide le drone à éviter les arbres ?",
+      "nl": "Wat helpt de drone om bomen te ontwijken?"
+     },
+     "o": {
+      "en": [
+       "Cameras and sensors",
+       "A loud horn",
+       "A long tail"
+      ],
+      "fr": [
+       "Des caméras et des capteurs",
+       "Un gros klaxon",
+       "Une longue queue"
+      ],
+      "nl": [
+       "Camera’s en sensoren",
+       "Een luide toeter",
+       "Een lange staart"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "How do many delivery drones give you the package?",
+      "fr": "Comment beaucoup de drones de livraison te donnent-ils le colis ?",
+      "nl": "Hoe geven veel bezorgdrones je het pakketje?"
+     },
+     "o": {
+      "en": [
+       "They throw it at the door",
+       "They lower it on a rope",
+       "They ring the doorbell"
+      ],
+      "fr": [
+       "Ils le lancent contre la porte",
+       "Ils le font descendre avec une corde",
+       "Ils sonnent à la porte"
+      ],
+      "nl": [
+       "Ze gooien het tegen de deur",
+       "Ze laten het zakken aan een touw",
+       "Ze bellen aan"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What was Whyzz’s silly guess?",
+      "fr": "Quelle était l’idée rigolote de Whyzz ?",
+      "nl": "Wat was het grappige idee van Whyzz?"
+     },
+     "o": {
+      "en": [
+       "A flying shoe",
+       "A pizza with wings",
+       "A bird with a hat"
+      ],
+      "fr": [
+       "Une chaussure volante",
+       "Une pizza avec des ailes",
+       "Un oiseau avec un chapeau"
+      ],
+      "nl": [
+       "Een vliegende schoen",
+       "Een pizza met vleugeltjes",
+       "Een vogel met een hoed"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "A drone delivery, step by step",
+     "fr": "Une livraison par drone, étape par étape",
+     "nl": "Een drone-bezorging, stap voor stap"
+    },
+    "intro": {
+     "en": "Put the steps of the drone delivery in the right order.",
+     "fr": "Remets les étapes de la livraison par drone dans le bon ordre.",
+     "nl": "Zet de stappen van de drone-bezorging in de juiste volgorde."
+    },
+    "done": {
+     "en": "Package delivered, super pilot!",
+     "fr": "Colis livré, super pilote !",
+     "nl": "Pakketje bezorgd, superpiloot!"
+    },
+    "items": {
+     "en": [
+      "The package is clipped under the drone",
+      "The propellers spin and the drone lifts off",
+      "It follows satellite signals to the right house",
+      "It hovers and lowers the package on a rope",
+      "It flies back to charge its battery"
+     ],
+     "fr": [
+      "On accroche le colis sous le drone",
+      "Les hélices tournent et le drone décolle",
+      "Il suit les signaux des satellites jusqu’à la bonne maison",
+      "Il reste en l’air et fait descendre le colis avec une corde",
+      "Il revient pour recharger sa batterie"
+     ],
+     "nl": [
+      "Het pakketje wordt onder de drone vastgeklikt",
+      "De propellers draaien en de drone stijgt op",
+      "Hij volgt satellietsignalen naar het juiste huis",
+      "Hij blijft hangen en laat het pakketje zakken aan een touw",
+      "Hij vliegt terug om zijn batterij op te laden"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Smart Mobility",
+    "fr": "Mobilité",
+    "nl": "Slimme mobiliteit"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Mobility world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Mobilité dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme mobiliteit in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-13",
+   "voice": false
+  },
+  {
+   "id": "cities-20261113",
+   "world": "cities",
+   "guide": "Pixel",
+   "title": {
+    "en": "How do smart traffic lights know when to turn green?",
+    "fr": "Comment les feux intelligents savent-ils quand passer au vert ?",
+    "nl": "Hoe weten slimme verkeerslichten wanneer ze groen moeten worden?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, why do I sometimes wait at a red light when the street is totally empty? So unfair!",
+     "fr": "Pixel, pourquoi j’attends parfois au feu rouge alors que la rue est complètement vide ? C’est trop injuste !",
+     "nl": "Pixel, waarom moet ik soms wachten voor een rood licht terwijl de straat helemaal leeg is? Zo oneerlijk!",
+     "img": "Whyzz waits on his bike at a red light on an empty street, Pixel next to him"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Maybe the traffic light is just taking a nap and forgot to wake up!",
+     "fr": "Peut-être que le feu fait une petite sieste et qu’il a oublié de se réveiller !",
+     "nl": "Misschien doet het verkeerslicht gewoon een dutje en is het vergeten wakker te worden!",
+     "img": "Whyzz imagines a sleepy traffic light with a nightcap, Pixel laughs"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, lights do not nap! Smart traffic lights have sensors, like a wire loop under the road or a small camera, that notice when cars are waiting.",
+     "fr": "Ha, les feux ne font pas la sieste ! Les feux intelligents ont des capteurs, comme une boucle de fil sous la route ou une petite caméra, qui voient quand des voitures attendent.",
+     "nl": "Haha, lichten doen geen dutjes! Slimme verkeerslichten hebben sensoren, zoals een draadlus onder de weg of een kleine camera, die merken wanneer er auto’s wachten.",
+     "img": "Pixel points at a small camera on a traffic light pole and a glowing loop under the road"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "A computer counts who is waiting on each side and gives more green time to the busiest street. It is like a teacher letting the longest line go first.",
+     "fr": "Un ordinateur compte qui attend de chaque côté et donne plus de temps de vert à la rue la plus chargée. C’est comme une maîtresse qui laisse passer la plus longue file en premier.",
+     "nl": "Een computer telt wie er aan elke kant wacht en geeft de drukste straat langer groen. Net als een juf die de langste rij eerst laat gaan.",
+     "img": "a crossroads with a long line of cars getting green while Whyzz and Pixel watch"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know? Some traffic lights talk to each other to make a green wave: one green light after another. Ambulances can even ask the lights to turn green for them!",
+     "fr": "Le savais-tu ? Certains feux se parlent pour créer une onde verte : un feu vert après l’autre. Les ambulances peuvent même demander aux feux de passer au vert pour elles !",
+     "nl": "Wist je dat? Sommige verkeerslichten praten met elkaar om een groene golf te maken: het ene groene licht na het andere. Ambulances kunnen de lichten zelfs vragen om groen te worden!",
+     "img": "a row of green traffic lights along an avenue as an ambulance drives through"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So smart lights help everyone move and wait less! If you could invent a new traffic light, what would it do?",
+     "fr": "Donc les feux intelligents aident tout le monde à avancer et à moins attendre ! Si tu pouvais inventer un nouveau feu, qu’est-ce qu’il ferait ?",
+     "nl": "Dus slimme lichten helpen iedereen vooruit en we wachten minder! Als jij een nieuw verkeerslicht mocht uitvinden, wat zou het dan doen?",
+     "img": "Whyzz and Pixel ride bikes through a green light in a cheerful city"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What helps a smart traffic light notice waiting cars?",
+      "fr": "Qu’est-ce qui aide un feu intelligent à voir les voitures qui attendent ?",
+      "nl": "Wat helpt een slim verkeerslicht om wachtende auto’s op te merken?"
+     },
+     "o": {
+      "en": [
+       "A pigeon on the pole",
+       "Sensors like a wire loop or a camera",
+       "The clouds"
+      ],
+      "fr": [
+       "Un pigeon sur le poteau",
+       "Des capteurs, comme une boucle de fil ou une caméra",
+       "Les nuages"
+      ],
+      "nl": [
+       "Een duif op de paal",
+       "Sensoren, zoals een draadlus of een camera",
+       "De wolken"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Which street gets more green time?",
+      "fr": "Quelle rue reçoit plus de temps de vert ?",
+      "nl": "Welke straat krijgt langer groen?"
+     },
+     "o": {
+      "en": [
+       "The busiest street",
+       "The emptiest street",
+       "The street with the most trees"
+      ],
+      "fr": [
+       "La rue la plus chargée",
+       "La rue la plus vide",
+       "La rue avec le plus d’arbres"
+      ],
+      "nl": [
+       "De drukste straat",
+       "De leegste straat",
+       "De straat met de meeste bomen"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What is a green wave?",
+      "fr": "Qu’est-ce qu’une onde verte ?",
+      "nl": "Wat is een groene golf?"
+     },
+     "o": {
+      "en": [
+       "A big green ocean wave",
+       "Green paint on the road",
+       "One green light after another"
+      ],
+      "fr": [
+       "Une grosse vague verte dans la mer",
+       "De la peinture verte sur la route",
+       "Un feu vert après l’autre"
+      ],
+      "nl": [
+       "Een grote groene golf in de zee",
+       "Groene verf op de weg",
+       "Het ene groene licht na het andere"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Who can ask the lights to turn green?",
+      "fr": "Qui peut demander aux feux de passer au vert ?",
+      "nl": "Wie kan de lichten vragen om groen te worden?"
+     },
+     "o": {
+      "en": [
+       "Ice cream trucks",
+       "Ambulances",
+       "Cats"
+      ],
+      "fr": [
+       "Les camions de glaces",
+       "Les ambulances",
+       "Les chats"
+      ],
+      "nl": [
+       "IJscowagens",
+       "Ambulances",
+       "Katten"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What did Whyzz think the traffic light was doing?",
+      "fr": "D’après Whyzz, que faisait le feu ?",
+      "nl": "Wat dacht Whyzz dat het verkeerslicht deed?"
+     },
+     "o": {
+      "en": [
+       "Taking a nap",
+       "Eating lunch",
+       "Watching TV"
+      ],
+      "fr": [
+       "Il faisait la sieste",
+       "Il mangeait",
+       "Il regardait la télé"
+      ],
+      "nl": [
+       "Een dutje doen",
+       "Lunchen",
+       "Tv kijken"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Who helps the traffic light?",
+     "fr": "Qui aide le feu ?",
+     "nl": "Wie helpt het verkeerslicht?"
+    },
+    "intro": {
+     "en": "Match each helper with what it does.",
+     "fr": "Relie chaque aide à ce qu’elle fait.",
+     "nl": "Verbind elke helper met wat hij doet."
+    },
+    "done": {
+     "en": "Great job, traffic boss!",
+     "fr": "Bravo, chef de la circulation !",
+     "nl": "Goed gedaan, verkeersbaas!"
+    },
+    "left": {
+     "en": [
+      "Wire loop under the road",
+      "Small camera",
+      "Push button",
+      "Ambulance signal"
+     ],
+     "fr": [
+      "Boucle de fil sous la route",
+      "Petite caméra",
+      "Bouton-poussoir",
+      "Signal d’ambulance"
+     ],
+     "nl": [
+      "Draadlus onder de weg",
+      "Kleine camera",
+      "Drukknop",
+      "Signaal van een ambulance"
+     ]
+    },
+    "right": {
+     "en": [
+      "Feels a car standing on top of it",
+      "Sees how many cars are waiting",
+      "Tells the light someone wants to cross",
+      "Asks for green to pass quickly"
+     ],
+     "fr": [
+      "Sent une voiture arrêtée au-dessus",
+      "Voit combien de voitures attendent",
+      "Dit au feu que quelqu’un veut traverser",
+      "Demande le vert pour passer vite"
+     ],
+     "nl": [
+      "Merkt een auto die erop stilstaat",
+      "Ziet hoeveel auto’s er wachten",
+      "Vertelt het licht dat iemand wil oversteken",
+      "Vraagt groen om snel door te rijden"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Smart Cities",
+    "fr": "Villes intelligentes",
+    "nl": "Slimme steden"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Cities world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Villes intelligentes dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme steden in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-13",
+   "voice": false
+  },
+  {
+   "id": "innovation-20261113",
+   "world": "innovation",
+   "guide": "Whyzz",
+   "title": {
+    "en": "How do you build the best marble run?",
+    "fr": "Comment construire le meilleur circuit à billes ?",
+    "nl": "Hoe bouw je de beste knikkerbaan?"
+   },
+   "scenes": [
+    {
+     "speaker": "Pixel",
+     "en": "Whyzz, I built a marble run, but my marble keeps flying off the track! What am I doing wrong?",
+     "fr": "Whyzz, j’ai construit un circuit à billes, mais ma bille n’arrête pas de sortir de la piste ! Qu’est-ce que je fais de travers ?",
+     "nl": "Whyzz, ik heb een knikkerbaan gebouwd, maar mijn knikker vliegt steeds van de baan! Wat doe ik verkeerd?",
+     "img": "Pixel looks at a marble flying off her cardboard marble run, Whyzz watches"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Easy! We glue the marble to the track. Oops, then it cannot roll at all!",
+     "fr": "Facile ! On colle la bille sur la piste. Oups, alors elle ne peut plus rouler du tout !",
+     "nl": "Makkelijk! We lijmen de knikker vast op de baan. Oeps, dan kan hij helemaal niet meer rollen!",
+     "img": "Whyzz holds a glue bottle next to a stuck marble, Pixel laughs"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Inventors test, see what goes wrong and try again. In a curve the marble wants to keep going straight, so we add walls to keep it on the track.",
+     "fr": "Les inventeurs testent, regardent ce qui ne va pas et recommencent. Dans un virage, la bille veut continuer tout droit, alors on ajoute des murs pour la garder sur la piste.",
+     "nl": "Uitvinders testen, kijken wat er misgaat en proberen het opnieuw. In een bocht wil de knikker rechtdoor, dus bouwen we muurtjes om hem op de baan te houden.",
+     "img": "Whyzz adds cardboard walls to a curve of the marble run"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "If the slope is too steep, the marble gets way too fast. If it is too flat, the marble stops, so we look for a gentle slope.",
+     "fr": "Si la pente est trop raide, la bille va beaucoup trop vite. Si elle est trop plate, la bille s’arrête, alors on cherche une pente douce.",
+     "nl": "Als de helling te steil is, gaat de knikker veel te snel. Is hij te vlak, dan stopt de knikker, dus zoeken we een zachte helling.",
+     "img": "Whyzz and Pixel tilt a track to a gentle slope while a marble rolls"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know? Inventors often build many test versions, called prototypes, before one works well. Every mistake teaches them something new!",
+     "fr": "Le savais-tu ? Les inventeurs construisent souvent plein de versions d’essai, appelées prototypes, avant que l’une marche bien. Chaque erreur leur apprend quelque chose !",
+     "nl": "Wist je dat? Uitvinders bouwen vaak heel wat testversies, prototypes genoemd, voor er één goed werkt. Van elke fout leren ze iets nieuws!",
+     "img": "Pixel stands by a table full of different test marble runs"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Test, fix and test again: now our marble run is awesome! What crazy trick would you add to your marble run?",
+     "fr": "Tester, réparer et tester encore : maintenant notre circuit est génial ! Quel truc fou ajouterais-tu à ton circuit à billes ?",
+     "nl": "Testen, verbeteren en opnieuw testen: nu is onze knikkerbaan geweldig! Welke gekke truc zou jij aan je knikkerbaan toevoegen?",
+     "img": "Whyzz and Pixel cheer as marbles race down a big colorful marble run"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Why did the marble fly off in the curve?",
+      "fr": "Pourquoi la bille sortait-elle dans le virage ?",
+      "nl": "Waarom vloog de knikker uit de bocht?"
+     },
+     "o": {
+      "en": [
+       "It was scared",
+       "It wanted to keep going straight",
+       "It was too small"
+      ],
+      "fr": [
+       "Elle avait peur",
+       "Elle voulait continuer tout droit",
+       "Elle était trop petite"
+      ],
+      "nl": [
+       "Hij was bang",
+       "Hij wilde rechtdoor blijven gaan",
+       "Hij was te klein"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What keeps the marble on the track in a curve?",
+      "fr": "Qu’est-ce qui garde la bille sur la piste dans un virage ?",
+      "nl": "Wat houdt de knikker op de baan in een bocht?"
+     },
+     "o": {
+      "en": [
+       "Glue",
+       "Wind",
+       "Walls along the curve"
+      ],
+      "fr": [
+       "De la colle",
+       "Du vent",
+       "Des murs le long du virage"
+      ],
+      "nl": [
+       "Lijm",
+       "Wind",
+       "Muurtjes langs de bocht"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What happens if the slope is too flat?",
+      "fr": "Que se passe-t-il si la pente est trop plate ?",
+      "nl": "Wat gebeurt er als de helling te vlak is?"
+     },
+     "o": {
+      "en": [
+       "The marble stops",
+       "The marble flies away",
+       "The marble melts"
+      ],
+      "fr": [
+       "La bille s’arrête",
+       "La bille s’envole",
+       "La bille fond"
+      ],
+      "nl": [
+       "De knikker stopt",
+       "De knikker vliegt weg",
+       "De knikker smelt"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What is a prototype?",
+      "fr": "Qu’est-ce qu’un prototype ?",
+      "nl": "Wat is een prototype?"
+     },
+     "o": {
+      "en": [
+       "A kind of marble",
+       "A test version of an invention",
+       "A tiny robot"
+      ],
+      "fr": [
+       "Une sorte de bille",
+       "Une version d’essai d’une invention",
+       "Un tout petit robot"
+      ],
+      "nl": [
+       "Een soort knikker",
+       "Een testversie van een uitvinding",
+       "Een piepkleine robot"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What do inventors do after a mistake?",
+      "fr": "Que font les inventeurs après une erreur ?",
+      "nl": "Wat doen uitvinders na een fout?"
+     },
+     "o": {
+      "en": [
+       "They give up",
+       "They hide it",
+       "They learn and try again"
+      ],
+      "fr": [
+       "Ils abandonnent",
+       "Ils la cachent",
+       "Ils apprennent et recommencent"
+      ],
+      "nl": [
+       "Ze geven op",
+       "Ze verstoppen hem",
+       "Ze leren ervan en proberen opnieuw"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Tips for a great marble run",
+     "fr": "Astuces pour un super circuit",
+     "nl": "Tips voor een topknikkerbaan"
+    },
+    "intro": {
+     "en": "Pick all the tips that help build a great marble run.",
+     "fr": "Choisis toutes les astuces qui aident à construire un super circuit à billes.",
+     "nl": "Kies alle tips die helpen om een topknikkerbaan te bouwen."
+    },
+    "done": {
+     "en": "Awesome building, young inventor!",
+     "fr": "Super construction, jeune inventeur !",
+     "nl": "Super gebouwd, jonge uitvinder!"
+    },
+    "items": {
+     "en": [
+      "Test it again and again",
+      "Glue the marble to the track",
+      "Add walls in the curves",
+      "Give up after the first try",
+      "Use a gentle slope",
+      "Make the track go uphill only",
+      "Change one thing at a time"
+     ],
+     "fr": [
+      "Tester encore et encore",
+      "Coller la bille sur la piste",
+      "Ajouter des murs dans les virages",
+      "Abandonner après le premier essai",
+      "Faire une pente douce",
+      "Faire une piste qui ne fait que monter",
+      "Changer une seule chose à la fois"
+     ],
+     "nl": [
+      "Steeds opnieuw testen",
+      "De knikker op de baan lijmen",
+      "Muurtjes in de bochten zetten",
+      "Opgeven na de eerste poging",
+      "Een zachte helling maken",
+      "De baan alleen bergop laten gaan",
+      "Eén ding tegelijk veranderen"
+     ]
+    },
+    "good": [
+     0,
+     2,
+     4,
+     6
+    ]
+   },
+   "worldName": {
+    "en": "Innovation",
+    "fr": "Innovation",
+    "nl": "Innovatie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Innovation world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Innovation dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Innovatie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-13",
+   "voice": false
   }
  ]
 }
