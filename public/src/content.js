@@ -19,18 +19,18 @@ export const assets = {
 };
 const episodeId = 'when-gpus-meet-quantum-computing';
 export const characters = [
-  { id: 'dali', name: 'Dali', role: 'The Systems Thinker', tagline: 'Connects the systems.', focus: ['Smart Mobility', 'Energy', 'Future Systems'], description: 'Connects technology, infrastructure and human needs to see the bigger picture.', perspective: 'What happens when technologies stop evolving separately and start working as one system?', technologies: ['smart-mobility', 'energy', 'smart-cities'], episodes: ['when-mobility-meets-energy', 'when-stations-become-a-network', 'when-parking-goes-underground'] },
-  { id: 'sofia', name: 'Sofia', role: 'The Intelligence Architect', tagline: 'Explores intelligence.', focus: ['AI', 'Data', 'Digital Intelligence'], description: 'Explores how intelligence, data and human creativity can work together to expand what is possible.', perspective: 'What happens when AI stops being just a tool and becomes a partner in how we think, create and solve problems?', technologies: ['ai-data', 'robotics', 'innovation'], episodes: [episodeId] },
+  { id: 'dali', name: 'Dali', role: 'The Systems Thinker', tagline: 'Connects the systems.', focus: ['Smart Mobility', 'Energy', 'Future Systems'], description: 'Connects technology, infrastructure and human needs to see the bigger picture.', perspective: 'What happens when technologies stop evolving separately and start working as one system?', technologies: ['smart-mobility', 'energy', 'smart-cities'], episodes: ['when-mobility-meets-energy', 'when-stations-become-a-network', 'when-parking-goes-underground', 'when-data-centers-heat-our-homes'] },
+  { id: 'sofia', name: 'Sofia', role: 'The Intelligence Architect', tagline: 'Explores intelligence.', focus: ['AI', 'Data', 'Digital Intelligence'], description: 'Explores how intelligence, data and human creativity can work together to expand what is possible.', perspective: 'What happens when AI stops being just a tool and becomes a partner in how we think, create and solve problems?', technologies: ['ai-data', 'robotics', 'innovation'], episodes: [episodeId, 'when-data-centers-heat-our-homes'] },
   { id: 'leo', name: 'Leo', role: 'The Quantum Explorer', tagline: 'Tests the science.', focus: ['Quantum Computing', 'Advanced Science', 'Future Computing'], description: 'Looks beyond the limits of classical computing to explore entirely new ways of solving the impossible.', perspective: 'What becomes possible when computing is no longer limited by the rules we know today?', technologies: ['quantum-computing', 'space'], episodes: [episodeId] },
   { id: 'maya', name: 'Maya', role: 'The Life Innovator', tagline: 'Considers life and humanity.', focus: ['Biotech', 'Health', 'Human Longevity'], description: 'Explores how science and technology can help us live longer, healthier lives while working with nature rather than against it.', perspective: 'What happens when we learn not only to treat disease, but to understand and redesign the biology of life itself?', technologies: ['biotech'], episodes: [] },
-  { id: 'ethan', name: 'Ethan', role: 'The Challenger', tagline: 'Challenges the assumptions.', focus: ['Risk & Ethics', 'Economics & Scalability', 'Technology Adoption', 'Critical Thinking'], description: 'Challenges assumptions and brings a practical perspective to ambitious ideas. He questions assumptions, exposes trade-offs and tests whether an idea can work responsibly in the real world.', perspective: 'But what are we missing?', technologies: ['innovation'], episodes: [episodeId, 'when-mobility-meets-energy', 'when-stations-become-a-network', 'when-parking-goes-underground'] }
+  { id: 'ethan', name: 'Ethan', role: 'The Challenger', tagline: 'Challenges the assumptions.', focus: ['Risk & Ethics', 'Economics & Scalability', 'Technology Adoption', 'Critical Thinking'], description: 'Challenges assumptions and brings a practical perspective to ambitious ideas. He questions assumptions, exposes trade-offs and tests whether an idea can work responsibly in the real world.', perspective: 'But what are we missing?', technologies: ['innovation'], episodes: [episodeId, 'when-mobility-meets-energy', 'when-stations-become-a-network', 'when-parking-goes-underground', 'when-data-centers-heat-our-homes'] }
 ].map(character => ({ ...character, portrait: assets[character.id], path: '/minds/' + character.id + '/' }));
 
 // Broad editorial labels, not predictions of deployment dates.
 const domain = (id, name, shortDescription, characters, relatedTechnologies, maturity, horizon) => ({
   id, name, shortDescription, description: shortDescription, image: assets[id],
   characters, relatedTechnologies, maturity, horizon,
-  episodes: ['ai-data', 'quantum-computing'].includes(id) ? [episodeId] : id === 'energy' ? ['when-mobility-meets-energy', 'when-stations-become-a-network'] : id === 'smart-mobility' ? ['when-mobility-meets-energy', 'when-parking-goes-underground'] : id === 'smart-cities' ? ['when-stations-become-a-network', 'when-parking-goes-underground'] : [],
+  episodes: id === 'ai-data' ? [episodeId, 'when-data-centers-heat-our-homes'] : id === 'quantum-computing' ? [episodeId] : id === 'energy' ? ['when-mobility-meets-energy', 'when-stations-become-a-network', 'when-data-centers-heat-our-homes'] : id === 'smart-mobility' ? ['when-mobility-meets-energy', 'when-parking-goes-underground'] : id === 'smart-cities' ? ['when-stations-become-a-network', 'when-parking-goes-underground', 'when-data-centers-heat-our-homes'] : [],
   path: '/explore/' + id + '/'
 });
 export const technologies = [
@@ -198,6 +198,58 @@ export const episodes = [{
     "when-mobility-meets-energy"
   ],
   "path": "/episodes/when-parking-goes-underground/"
+}, {
+  "id": "when-data-centers-heat-our-homes",
+  "slug": "when-data-centers-heat-our-homes",
+  "number": 5,
+  "title": "When Data Centers Heat Our Homes",
+  "hook": "What if the cloud kept you warm?",
+  "summary": "Almost every watt a server uses ends up as heat. Most of it is blown into the sky while homes nearby burn gas to stay warm. Episode 005 follows the heat and imagines a neighborhood built around its own data center: servers on the lower floors, homes above and a warm-water loop to the blocks around it.",
+  "videoProvider": "youtube",
+  "videoId": "DrPa-LhUmhE",
+  "videoUrl": "https://youtu.be/DrPa-LhUmhE",
+  "status": "Published on YouTube",
+  "artwork": "/assets/episodes/when-data-centers-heat-our-homes.webp",
+  "artworkAlt": "Illustrative cutaway of a data tower with servers on the lower floors and warm homes above on a snowy square, from IMAGINE Episode 005",
+  "perspectiveLabel": "Editorial perspectives",
+  "characters": [
+    "dali",
+    "sofia"
+  ],
+  "supportingCharacters": [
+    "ethan"
+  ],
+  "technologies": [
+    "energy",
+    "smart-cities",
+    "ai-data"
+  ],
+  "classification": {
+    "maturity": "Data-center heat reuse operating; data tower is a concept",
+    "horizon": "Today and future possibilities"
+  },
+  "applications": [
+    "Data-center heat reuse",
+    "District heating networks",
+    "Heat pumps",
+    "Seasonal heat storage"
+  ],
+  "currentReality": "Data-center heat already warms homes through district heating in Denmark, Finland and Sweden. In Odense about 9,000 homes are heated this way. EU and German rules now push large data centers to reuse their heat.",
+  "futurePossibility": "Could a neighborhood be designed around its own data center, with servers below, homes above, a warm-water loop to the blocks around it and summer heat stored under the square for winter?",
+  "realismNotes": "The data tower, its warm-water loop, the seasonal heat store and the Energy Port backup are an IMAGINE concept, not an existing project. A strong grid connection, safe separation of servers, batteries and homes and a backup heat source if the data center leaves are real challenges.",
+  "whatIfQuestion": "What if the cloud kept you warm?",
+  "musicCredit": {
+    "attribution": "“Discovery” by Scott Buckley. Released under Creative Commons Attribution 4.0 International (CC BY 4.0).",
+    "website": "https://www.scottbuckley.com.au/",
+    "trackUrl": "https://www.scottbuckley.com.au/library/discovery/",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Music excerpt edited, ducked beneath narration, and faded."
+  },
+  "relatedEpisodes": [
+    "when-parking-goes-underground",
+    "when-stations-become-a-network"
+  ],
+  "path": "/episodes/when-data-centers-heat-our-homes/"
 }];
 export const characterById = Object.fromEntries(characters.map(item => [item.id, item]));
 export const technologyById = Object.fromEntries(technologies.map(item => [item.id, item]));

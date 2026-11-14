@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "0f02d61e93019b19d7a3d4abf0542a12a3e6d53b",
-  "publicPolicySha256": "9ba6230256e0cda2726612eb6b2931c3461ea025e2549e504f0640bcb58ce664",
+  "sourceCommit": "85b1de50f389105a7fe14d7f9f6eb88cb8d8c483",
+  "publicPolicySha256": "8c7a3b869081a74edae82ee42b08ad7f6d0c741fb6c6b6f0ef8c1cdac8aafee4",
   "nodeVersion": "v24.19.0",
-  "payloadId": "733b7ecd97fc6df3febfab0d6144843793faa2b680078cc036be3eb40e053804",
+  "payloadId": "c3d2eb96c6c3c3679a130b5a0d53675932ba086c8d7d467adae1a9b92d52900b",
   "files": [
     {
       "path": "404.html",
@@ -477,6 +477,11 @@
       "sha256": "5883a86cb477d5c72c935a56a16dcbeb80b5e36c264d2c8f8ee86c81ad975371"
     },
     {
+      "path": "assets/episodes/when-data-centers-heat-our-homes.webp",
+      "size": 123200,
+      "sha256": "7e83b08aec9cc0f7ebcaf9ebc5110324d4433b619acf7c5ac1168fa8c6673711"
+    },
+    {
       "path": "assets/episodes/when-gpus-meet-quantum-computing.webp",
       "size": 154530,
       "sha256": "610d154d36f2c89aedbd82b666fe2b5b7361d01852c80630e6621fc9467e4f92"
@@ -608,8 +613,13 @@
     },
     {
       "path": "episodes/index.html",
-      "size": 9957,
-      "sha256": "ce6c3c58538e64b47b84fefa7e9ae2406c3414e502f44d4aa4a8cdbda5d9c6f6"
+      "size": 11409,
+      "sha256": "6f5706d923f5fc1600d7849210b51f274360a2ee51e1ac8aa36ac583af738e7a"
+    },
+    {
+      "path": "episodes/when-data-centers-heat-our-homes/index.html",
+      "size": 17602,
+      "sha256": "240eef914e868c0d10dfe3b72e60c1a8fdd9f99aa8f2b03b271751ca1751a896"
     },
     {
       "path": "episodes/when-gpus-meet-quantum-computing/index.html",
@@ -623,8 +633,8 @@
     },
     {
       "path": "episodes/when-parking-goes-underground/index.html",
-      "size": 15926,
-      "sha256": "ab0686c38cd1c24268d6a85c3c2fd211aa49873ca999d3a882d0fafe4347a33d"
+      "size": 16404,
+      "sha256": "49f3b69e7d46b341508b3f227df1f518ce2fd4aee6b4151227e10c96f979d958"
     },
     {
       "path": "episodes/when-stations-become-a-network/index.html",
@@ -633,8 +643,8 @@
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 25643,
-      "sha256": "d7842af2e3ba18496bdd241370f31b2ae49d3e0764fd240f893b85cd6f106518"
+      "size": 26609,
+      "sha256": "80025938183df4365727ffed584e70cf4b665d749b581453534ea57c690ea465"
     },
     {
       "path": "explore/biotech/index.html",
@@ -643,8 +653,8 @@
     },
     {
       "path": "explore/energy/index.html",
-      "size": 22012,
-      "sha256": "fc1c7e8cc27e65818c57bc920a0f5a2e22a50421dbd89a9806bff7a5e4e8edb1"
+      "size": 23020,
+      "sha256": "3f17ee543b9360fbfae74588e47608ea91a3845a7630f8c3f17e086e9a28700c"
     },
     {
       "path": "explore/index.html",
@@ -668,8 +678,8 @@
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 16205,
-      "sha256": "86f53b408f3ae992401df825b27076238d4f94b7c43b0c65cb6d52ef1ada6d1b"
+      "size": 17213,
+      "sha256": "2cfc4b346ff892c266f59285171527a1f2e071adb16a84651740806ee459a38a"
     },
     {
       "path": "explore/smart-mobility/index.html",
@@ -693,13 +703,13 @@
     },
     {
       "path": "minds/dali/index.html",
-      "size": 10990,
-      "sha256": "0def60df7661b14a771dd1d26372d69fe69b72232cafb97bdf6f1d3571db1f9d"
+      "size": 11998,
+      "sha256": "59c91a58c69f8692fe7d60c295fb05c1e61964c9306c4f8e4d696bbf3ba01911"
     },
     {
       "path": "minds/ethan/index.html",
-      "size": 11623,
-      "sha256": "56ecd5a59a57fae672394fe8c63310936853bed5897dac72d5e39d9acee06a3a"
+      "size": 12589,
+      "sha256": "ab9c09f2890e0a9790daa7132903f4d5913bf8984aec81cfa803514208e1b542"
     },
     {
       "path": "minds/index.html",
@@ -718,8 +728,8 @@
     },
     {
       "path": "minds/sofia/index.html",
-      "size": 7855,
-      "sha256": "01a1ff29f8f076e99159bc04945fc9bd2970ac1ede2ce688eb9e6b5dffcdb505"
+      "size": 8861,
+      "sha256": "2fa41539af495b18331c0677d7df90daa0ec8d8450945309daed3a7d0a5dcf63"
     },
     {
       "path": "moderate/index.html",
@@ -748,8 +758,8 @@
     },
     {
       "path": "src/content.js",
-      "size": 14909,
-      "sha256": "20fb29fdb50771b617cdfb5da5fdd8b597adddc8f943fa4d60727bdc4b0ce4fc"
+      "size": 17913,
+      "sha256": "6f9aeff4eaa0dabfd8c773fee1e3e7b7edfc78af2e8c97d394c66fdf48ca5ebc"
     },
     {
       "path": "src/main.js",
@@ -778,8 +788,8 @@
     },
     {
       "path": "src/routes.js",
-      "size": 709,
-      "sha256": "b240bb3d153bce544e8f9dfa9d94378bd3d2f1c95c6f803c82244f1e13b82867"
+      "size": 745,
+      "sha256": "3d75a8506d94d9e3fbd611cf167c1574ef2a227e6cc76286bfe2e4d0d14cd2de"
     },
     {
       "path": "src/styles.css",
@@ -798,8 +808,8 @@
     },
     {
       "path": "src/universe.js",
-      "size": 8876,
-      "sha256": "433d39063b1a4870e04143bc23e50d2a740b412691024a641d42543881a4ab55"
+      "size": 9546,
+      "sha256": "a82b636552d9d6800da74ce8887542625ab7f4078e0b03fd309d21859b0bdcf8"
     },
     {
       "path": "src/what-if-components.js",
@@ -843,8 +853,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 62247,
-      "sha256": "5fcd18da0ed96753c008989b460e6d449f9ff09d129ca60c8eafa11c8ca6e880"
+      "size": 62769,
+      "sha256": "fbe014c6a6aa4985b60a866a785743e1a843119cc2e06180489baf8d57ac95a9"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -938,8 +948,8 @@
     },
     {
       "path": "universe/the-server-farm-that-warms-your-living-room/index.html",
-      "size": 18166,
-      "sha256": "a5f11b09349b562aae6b1685355460c865d5ca69fa9c9c83f3594d9d1aea2988"
+      "size": 18739,
+      "sha256": "ee857a905cda14e9fc27fd627712c0295d751136d44d93d70bd0e611597d2da6"
     },
     {
       "path": "universe/the-solar-cell-that-gave-up-germanium/index.html",
@@ -1128,7 +1138,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "9ba6230256e0cda2726612eb6b2931c3461ea025e2549e504f0640bcb58ce664"
+      "sha256": "8c7a3b869081a74edae82ee42b08ad7f6d0c741fb6c6b6f0ef8c1cdac8aafee4"
     },
     {
       "path": "tools/recovery-kit.mjs",

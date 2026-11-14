@@ -68,6 +68,12 @@ export const episodeCapabilities = {
     capability('established','Automated and mechanical parking systems','Operating in cities today; designs and capacity vary.'),
     capability('established','License plate recognition at parking garages','Standard at many garages; privacy rules differ by country.'),
     capability('imagined','A self-moving underground loop that charges while it rotates','An IMAGINE concept, not an existing product; digging, groundwater, fire safety and rescue access are real challenges.')
+  ],
+  'when-data-centers-heat-our-homes': [
+    capability('established','Data-center heat in district heating networks','Operating in Denmark, Finland and Sweden; depends on a heat network nearby.'),
+    capability('established','Heat pumps that raise server heat to heating temperature','Standard equipment; electricity use and cost vary.'),
+    capability('emerging','Seasonal heat storage','Pilots and early projects; size, ground conditions and cost decide.'),
+    capability('imagined','A data tower with servers below and homes above','An IMAGINE concept, not an existing project; grid capacity, safety separation and a backup heat source are real challenges.')
   ]
 };
 
