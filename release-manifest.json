@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "d3cc7e66a10d02a3226b3e94ad729f14de641724",
+  "sourceCommit": "dfb7aee52693cb68b7c96950028869ce61e61c46",
   "publicPolicySha256": "ba3dabcfbf67248d92b6df6bf81da6ce0e52bc345027ecb97b5c29ccf55299f2",
   "nodeVersion": "v24.19.0",
-  "payloadId": "749ff13a78b7b654e14d3d24c411eb78e621d13a143f60c2db0791479fab0cc7",
+  "payloadId": "f54aab328c744beef0275a79d1b97e667129b8b63f4691e04bc5ce98e6b60c49",
   "files": [
     {
       "path": "404.html",
@@ -1058,8 +1058,8 @@
     },
     {
       "path": "universe/the-power-plant-that-drills-sideways/index.html",
-      "size": 23160,
-      "sha256": "8ca47bee0bfc7eb6e1cc071aee166ee240c0ff3abc82f3f0717a4db3ef660263"
+      "size": 23197,
+      "sha256": "3d0eb53fede3ea4fb8ee22d8a194efc4437cbdcfa9e083a239a371ddd922f55f"
     },
     {
       "path": "universe/the-quantum-computers-secret-partner/index.html",

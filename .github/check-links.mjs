@@ -46,6 +46,7 @@ for (const slug of dirs) {
 const verifiedByHand = new Map([
   ['https://epa.gov/climate-indicators/closer-look-heat-related-workplace-deaths', '2026-11-09'],
   ['https://www.fda.gov/drugs/guidances-drugs/development-new-stereoisomeric-drugs', '2026-11-09'],
+  ['https://www.nrel.gov/pv/cell-efficiency.html', '2026-11-14'],
   ['https://www.nippon.com/en/news/yjj2026042100297/', '2026-11-09'],
   ['https://www.nippon.com/en/news/yjj2026100200125/', '2026-11-09']
 ]);
