@@ -8061,7 +8061,7 @@
     "nl": "Voor volwassenen: de wereld Ruimte in het IMAGINE Scientific Universe"
    },
    "added": "2026-11-13",
-   "voice": false
+   "voice": true
   },
   {
    "id": "mobility-20261113",
@@ -8295,7 +8295,7 @@
     "nl": "Voor volwassenen: de wereld Slimme mobiliteit in het IMAGINE Scientific Universe"
    },
    "added": "2026-11-13",
-   "voice": false
+   "voice": true
   },
   {
    "id": "cities-20261113",
@@ -8546,7 +8546,7 @@
     "nl": "Voor volwassenen: de wereld Slimme steden in het IMAGINE Scientific Universe"
    },
    "added": "2026-11-13",
-   "voice": false
+   "voice": true
   },
   {
    "id": "innovation-20261113",
@@ -8792,7 +8792,1235 @@
     "nl": "Voor volwassenen: de wereld Innovatie in het IMAGINE Scientific Universe"
    },
    "added": "2026-11-13",
-   "voice": false
+   "voice": true
+  },
+  {
+   "id": "pixel-20261114",
+   "world": "pixel",
+   "guide": "Pixel",
+   "title": {
+    "en": "Why should your password stay a secret?",
+    "fr": "Pourquoi ton mot de passe doit-il rester secret ?",
+    "nl": "Waarom moet je wachtwoord geheim blijven?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, my tablet keeps asking for a password. Why can’t I just use my name so I never forget it?",
+     "fr": "Pixel, ma tablette me demande tout le temps un mot de passe. Pourquoi je ne peux pas juste mettre mon prénom pour ne jamais l’oublier ?",
+     "nl": "Pixel, mijn tablet vraagt steeds om een wachtwoord. Waarom kan ik niet gewoon mijn naam gebruiken, zodat ik het nooit vergeet?",
+     "img": "Whyzz on a beanbag with a tablet showing a padlock, puzzled"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "A password is like the key to your secret clubhouse. If it’s your name, anyone who knows you could guess it and walk right in!",
+     "fr": "Un mot de passe, c’est comme la clé de ta cabane secrète. Si c’est ton prénom, tous ceux qui te connaissent peuvent le deviner et entrer !",
+     "nl": "Een wachtwoord is als de sleutel van je geheime clubhuis. Is het je naam, dan kan iedereen die je kent het raden en zo naar binnen wandelen!",
+     "img": "Pixel holds a golden key in front of a treehouse clubhouse"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Then I’ll pick the best password ever: password! Nobody would ever think of that, right?",
+     "fr": "Alors je vais choisir le meilleur mot de passe du monde : motdepasse ! Personne n’y penserait jamais, hein ?",
+     "nl": "Dan kies ik het beste wachtwoord ooit: wachtwoord! Daar komt toch niemand op?",
+     "img": "Whyzz in a proud hero pose, Pixel laughs with a hand on her forehead"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, that’s one of the very first ones people try! Did you know a computer can test millions of passwords every second, so short, easy ones are found super fast?",
+     "fr": "Ha, c’est un des tout premiers qu’on essaie ! Savais-tu qu’un ordinateur peut tester des millions de mots de passe par seconde, si bien que les plus courts et faciles sont vite trouvés ?",
+     "nl": "Haha, dat is er juist een die mensen als eerste proberen! Wist je dat een computer miljoenen wachtwoorden per seconde kan testen, zodat korte, makkelijke wachtwoorden supersnel gevonden worden?",
+     "img": "A cartoon computer with many arms tries a huge ring of keys on a door"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "A strong password is long and silly, like three random words: purple pancake rocket. Keep it secret and only share it with a grown-up you trust.",
+     "fr": "Un mot de passe solide est long et rigolo, comme trois mots au hasard : crêpe violette fusée. Garde-le secret et ne le partage qu’avec un adulte de confiance.",
+     "nl": "Een sterk wachtwoord is lang en gek, zoals drie willekeurige woorden: paarse pannenkoek raket. Houd het geheim en deel het alleen met een volwassene die je vertrouwt.",
+     "img": "Pixel juggles a purple paint splash, pancakes and a toy rocket"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So a long, silly secret keeps my clubhouse safe! Which three funny words would make the silliest password you can imagine?",
+     "fr": "Donc un secret long et rigolo protège ma cabane ! Quels trois mots drôles choisirais-tu pour le mot de passe le plus farfelu possible ?",
+     "nl": "Dus een lang en gek geheim houdt mijn clubhuis veilig! Welke drie grappige woorden zou jij kiezen voor het gekste wachtwoord ooit?",
+     "img": "Whyzz and Pixel high five in front of the safe clubhouse at sunset"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What is a password like?",
+      "fr": "À quoi ressemble un mot de passe ?",
+      "nl": "Waarop lijkt een wachtwoord?"
+     },
+     "o": {
+      "en": [
+       "The key to a secret clubhouse",
+       "A song you sing",
+       "A snack for your tablet"
+      ],
+      "fr": [
+       "La clé d’une cabane secrète",
+       "Une chanson à chanter",
+       "Un goûter pour ta tablette"
+      ],
+      "nl": [
+       "De sleutel van een geheim clubhuis",
+       "Een liedje dat je zingt",
+       "Een snoepje voor je tablet"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why is your name a bad password?",
+      "fr": "Pourquoi ton prénom est-il un mauvais mot de passe ?",
+      "nl": "Waarom is je naam een slecht wachtwoord?"
+     },
+     "o": {
+      "en": [
+       "It is far too long",
+       "People who know you could guess it",
+       "Computers can’t read names"
+      ],
+      "fr": [
+       "Il est beaucoup trop long",
+       "Les gens qui te connaissent peuvent le deviner",
+       "Les ordinateurs ne savent pas lire les prénoms"
+      ],
+      "nl": [
+       "Hij is veel te lang",
+       "Mensen die je kennen kunnen hem raden",
+       "Computers kunnen geen namen lezen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How many passwords can a computer test in one second?",
+      "fr": "Combien de mots de passe un ordinateur peut-il tester en une seconde ?",
+      "nl": "Hoeveel wachtwoorden kan een computer in één seconde testen?"
+     },
+     "o": {
+      "en": [
+       "About ten",
+       "Exactly one",
+       "Millions"
+      ],
+      "fr": [
+       "Une dizaine",
+       "Un seul",
+       "Des millions"
+      ],
+      "nl": [
+       "Ongeveer tien",
+       "Precies één",
+       "Miljoenen"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Which idea makes a strong password?",
+      "fr": "Quelle idée donne un mot de passe solide ?",
+      "nl": "Welk idee maakt een sterk wachtwoord?"
+     },
+     "o": {
+      "en": [
+       "Your birthday",
+       "Three random words",
+       "The word password"
+      ],
+      "fr": [
+       "Ta date d’anniversaire",
+       "Trois mots au hasard",
+       "Le mot motdepasse"
+      ],
+      "nl": [
+       "Je verjaardag",
+       "Drie willekeurige woorden",
+       "Het woord wachtwoord"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Who can you share your password with?",
+      "fr": "Avec qui peux-tu partager ton mot de passe ?",
+      "nl": "Met wie mag je je wachtwoord delen?"
+     },
+     "o": {
+      "en": [
+       "A grown-up you trust",
+       "Anyone who asks nicely",
+       "A new friend in a game"
+      ],
+      "fr": [
+       "Un adulte de confiance",
+       "Toute personne qui demande gentiment",
+       "Un nouvel ami dans un jeu"
+      ],
+      "nl": [
+       "Een volwassene die je vertrouwt",
+       "Iedereen die het lief vraagt",
+       "Een nieuwe vriend in een spel"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Password power-up",
+     "fr": "Mot de passe en béton",
+     "nl": "Supersterk wachtwoord"
+    },
+    "intro": {
+     "en": "Which ideas make a password strong and safe? Pick all the right ones!",
+     "fr": "Quelles idées rendent un mot de passe solide et sûr ? Choisis toutes les bonnes réponses !",
+     "nl": "Welke ideeën maken een wachtwoord sterk en veilig? Kies alle juiste!"
+    },
+    "done": {
+     "en": "Locked and safe! Your clubhouse is protected.",
+     "fr": "Bien verrouillé ! Ta cabane est protégée.",
+     "nl": "Op slot en veilig! Je clubhuis is beschermd."
+    },
+    "items": {
+     "en": [
+      "Make it long",
+      "Use your own name",
+      "Use three random words",
+      "Tell it to your whole class",
+      "Keep it secret",
+      "Use the word password",
+      "Share it only with a grown-up you trust"
+     ],
+     "fr": [
+      "Le faire long",
+      "Mettre ton prénom",
+      "Prendre trois mots au hasard",
+      "Le dire à toute ta classe",
+      "Le garder secret",
+      "Utiliser le mot motdepasse",
+      "Le partager seulement avec un adulte de confiance"
+     ],
+     "nl": [
+      "Maak het lang",
+      "Gebruik je eigen naam",
+      "Gebruik drie willekeurige woorden",
+      "Vertel het aan je hele klas",
+      "Houd het geheim",
+      "Gebruik het woord wachtwoord",
+      "Deel het alleen met een volwassene die je vertrouwt"
+     ]
+    },
+    "good": [
+     0,
+     2,
+     4,
+     6
+    ]
+   },
+   "worldName": {
+    "en": "AI & Data",
+    "fr": "IA et données",
+    "nl": "AI en data"
+   },
+   "adult": {
+    "en": "For grown-ups: the AI & Data world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde IA et données dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld AI en data in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-14",
+   "voice": true
+  },
+  {
+   "id": "qubi-20261114",
+   "world": "qubi",
+   "guide": "Qubi",
+   "title": {
+    "en": "Can two particles be magic twins?",
+    "fr": "Deux particules peuvent-elles être des jumelles magiques ?",
+    "nl": "Kunnen twee deeltjes magische tweelingen zijn?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, I always lose one sock of every pair! Is there anything in the world that always stays connected to its partner?",
+     "fr": "Qubi, je perds toujours une chaussette de chaque paire ! Est-ce qu’il existe quelque chose qui reste toujours lié à son partenaire ?",
+     "nl": "Qubi, ik verlies altijd één sok van elk paar! Bestaat er iets dat altijd verbonden blijft met zijn partner?",
+     "img": "Whyzz holds up one lonely sock next to a basket of odd socks"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Yes, in the tiny quantum world! Two particles of light can be linked as a pair and scientists call this entanglement.",
+     "fr": "Oui, dans le minuscule monde quantique ! Deux grains de lumière peuvent être liés en paire : les scientifiques appellent ça l’intrication.",
+     "nl": "Ja, in de piepkleine kwantumwereld! Twee lichtdeeltjes kunnen als paar verbonden zijn en wetenschappers noemen dat verstrengeling.",
+     "img": "Two glowing light particles joined by a sparkly ribbon between Qubi's hands"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Imagine magic twin socks: one stays here and the other flies to the Moon. If you peek and yours is red, you know right away that the Moon sock is blue!",
+     "fr": "Imagine des chaussettes jumelles magiques : l’une reste ici, l’autre part sur la Lune. Si tu regardes et que la tienne est rouge, tu sais tout de suite que celle de la Lune est bleue !",
+     "nl": "Stel je magische tweelingsokken voor: de ene blijft hier, de andere vliegt naar de maan. Kijk je en is die van jou rood, dan weet je meteen dat de maansok blauw is!",
+     "img": "A box with a red sock on Earth, a rocket carries a box with a blue sock to the Moon"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Wow, then I can send secret sock messages to the Moon! Hello, aliens, please send back all my missing socks!",
+     "fr": "Waouh, alors je peux envoyer des messages secrets en chaussette à la Lune ! Allô les extraterrestres, rendez-moi toutes mes chaussettes perdues !",
+     "nl": "Wauw, dan kan ik geheime sokkenberichten naar de maan sturen! Hallo, aliens, stuur al mijn verloren sokken terug!",
+     "img": "Whyzz on a rooftop talks into a sock like a phone, a little alien waves from the Moon"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Ha, sadly it can’t carry messages. Did you know that before anyone looks, neither particle has picked its color yet, but they still always end up as a perfect pair?",
+     "fr": "Ha, hélas, ça ne transporte pas de messages. Savais-tu qu’avant qu’on regarde, aucune des deux particules n’a encore choisi sa couleur, mais qu’elles finissent quand même toujours en paire parfaite ?",
+     "nl": "Haha, helaas kan het geen berichten versturen. Wist je dat geen van beide deeltjes al een kleur heeft gekozen voordat iemand kijkt, en dat ze toch altijd een perfect paar vormen?",
+     "img": "Two shimmering rainbow particles on two far hills joined by a faint glowing thread"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So entangled particles stay a team even when they’re far apart and scientists use them for super-secret codes! If you could have a magic twin of anything, what would you pick?",
+     "fr": "Donc les particules intriquées restent une équipe, même très loin l’une de l’autre, et les scientifiques s’en servent pour des codes super secrets ! Si tu pouvais avoir un jumeau magique de n’importe quoi, tu choisirais quoi ?",
+     "nl": "Dus verstrengelde deeltjes blijven een team, zelfs heel ver uit elkaar, en wetenschappers gebruiken ze voor supergeheime codes! Als jij van iets een magische tweeling kon hebben, wat zou je kiezen?",
+     "img": "Whyzz and Qubi in matching socks high five under two dancing particles"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What do scientists call two particles linked as a pair?",
+      "fr": "Comment les scientifiques appellent-ils deux particules liées en paire ?",
+      "nl": "Hoe noemen wetenschappers twee deeltjes die als paar verbonden zijn?"
+     },
+     "o": {
+      "en": [
+       "Gravity",
+       "Entanglement",
+       "Magnetism"
+      ],
+      "fr": [
+       "La gravité",
+       "L’intrication",
+       "Le magnétisme"
+      ],
+      "nl": [
+       "Zwaartekracht",
+       "Verstrengeling",
+       "Magnetisme"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "In the story, where does the second magic sock go?",
+      "fr": "Dans l’histoire, où part la deuxième chaussette magique ?",
+      "nl": "Waar gaat de tweede magische sok naartoe in het verhaal?"
+     },
+     "o": {
+      "en": [
+       "To the Moon",
+       "To the bakery",
+       "Under the bed"
+      ],
+      "fr": [
+       "Sur la Lune",
+       "À la boulangerie",
+       "Sous le lit"
+      ],
+      "nl": [
+       "Naar de maan",
+       "Naar de bakker",
+       "Onder het bed"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "If your sock is red, what color is the Moon sock?",
+      "fr": "Si ta chaussette est rouge, de quelle couleur est celle de la Lune ?",
+      "nl": "Als jouw sok rood is, welke kleur heeft de maansok dan?"
+     },
+     "o": {
+      "en": [
+       "Also red",
+       "Green",
+       "Blue"
+      ],
+      "fr": [
+       "Rouge aussi",
+       "Verte",
+       "Bleue"
+      ],
+      "nl": [
+       "Ook rood",
+       "Groen",
+       "Blauw"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Can entangled particles carry messages?",
+      "fr": "Les particules intriquées peuvent-elles transporter des messages ?",
+      "nl": "Kunnen verstrengelde deeltjes berichten versturen?"
+     },
+     "o": {
+      "en": [
+       "Yes, super fast",
+       "No, they can’t",
+       "Only on Sundays"
+      ],
+      "fr": [
+       "Oui, super vite",
+       "Non, elles ne peuvent pas",
+       "Seulement le dimanche"
+      ],
+      "nl": [
+       "Ja, supersnel",
+       "Nee, dat kan niet",
+       "Alleen op zondag"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What do scientists use entangled particles for?",
+      "fr": "À quoi les scientifiques utilisent-ils les particules intriquées ?",
+      "nl": "Waarvoor gebruiken wetenschappers verstrengelde deeltjes?"
+     },
+     "o": {
+      "en": [
+       "Super-secret codes",
+       "Washing socks",
+       "Baking bread"
+      ],
+      "fr": [
+       "Des codes super secrets",
+       "Laver les chaussettes",
+       "Faire du pain"
+      ],
+      "nl": [
+       "Supergeheime codes",
+       "Sokken wassen",
+       "Brood bakken"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Twin sock pairs",
+     "fr": "Les paires de chaussettes jumelles",
+     "nl": "Tweelingsokken-paren"
+    },
+    "intro": {
+     "en": "Match each sock on the left with its twin on the right!",
+     "fr": "Relie chaque chaussette de gauche à sa jumelle de droite !",
+     "nl": "Koppel elke sok links aan zijn tweeling rechts!"
+    },
+    "done": {
+     "en": "Perfect pairs! You’re a quantum twin expert.",
+     "fr": "Paires parfaites ! Te voilà expert des jumeaux quantiques.",
+     "nl": "Perfecte paren! Jij bent nu een kwantumtweeling-expert."
+    },
+    "left": {
+     "en": [
+      "Entanglement",
+      "Your sock is red",
+      "Before anyone looks",
+      "Entangled particles"
+     ],
+     "fr": [
+      "L’intrication",
+      "Ta chaussette est rouge",
+      "Avant qu’on regarde",
+      "Les particules intriquées"
+     ],
+     "nl": [
+      "Verstrengeling",
+      "Jouw sok is rood",
+      "Voordat iemand kijkt",
+      "Verstrengelde deeltjes"
+     ]
+    },
+    "right": {
+     "en": [
+      "Two particles linked as a pair",
+      "So the Moon sock is blue",
+      "No color is picked yet",
+      "Help make super-secret codes"
+     ],
+     "fr": [
+      "Deux particules liées en paire",
+      "Donc celle de la Lune est bleue",
+      "Aucune couleur n’est encore choisie",
+      "Aident à faire des codes super secrets"
+     ],
+     "nl": [
+      "Twee deeltjes die als paar verbonden zijn",
+      "Dus de maansok is blauw",
+      "Er is nog geen kleur gekozen",
+      "Helpen supergeheime codes maken"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Quantum",
+    "fr": "Quantique",
+    "nl": "Quantum"
+   },
+   "adult": {
+    "en": "For grown-ups: the Quantum world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Quantique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Quantum in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-14",
+   "voice": true
+  },
+  {
+   "id": "bloom-20261114",
+   "world": "bloom",
+   "guide": "Bloom",
+   "title": {
+    "en": "How does a vaccine train your body?",
+    "fr": "Comment un vaccin entraîne-t-il ton corps ?",
+    "nl": "Hoe traint een vaccin je lichaam?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Bloom, at school we had a fire drill and everyone practiced getting out calmly. Can my body practice for things too?",
+     "fr": "Bloom, à l’école, on a fait un exercice d’incendie et tout le monde s’est entraîné à sortir calmement. Est-ce que mon corps peut s’entraîner aussi ?",
+     "nl": "Bloom, op school hadden we een brandoefening en iedereen oefende om rustig naar buiten te gaan. Kan mijn lichaam ook oefenen?",
+     "img": "Whyzz and classmates walk calmly in a schoolyard fire drill"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Yes, with a vaccine! It shows your body a harmless version or a tiny piece of a germ, so your defenders can practice without you getting really sick.",
+     "fr": "Oui, grâce à un vaccin ! Il montre à ton corps une version inoffensive ou un petit morceau d’un microbe, pour que tes défenseurs s’entraînent sans que tu tombes vraiment malade.",
+     "nl": "Ja, met een vaccin! Dat laat je lichaam een onschuldige versie of een stukje van een ziekteverwekker zien, zodat je verdedigers kunnen oefenen zonder dat je echt ziek wordt.",
+     "img": "Bloom holds a jar with a sleepy harmless cartoon germ, tiny white helpers study it"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Defenders? So I have tiny knights in my blood, riding around with shields and swords?",
+     "fr": "Des défenseurs ? Alors j’ai des mini-chevaliers dans le sang, qui se promènent avec des boucliers et des épées ?",
+     "nl": "Verdedigers? Dus ik heb piepkleine ridders in mijn bloed, die rondrijden met schilden en zwaarden?",
+     "img": "Whyzz imagines tiny knights riding red blood cells, Bloom laughs"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Ha, almost! White blood cells learn the germ’s shape and make antibodies, little catchers that grab it, then they remember it and are ready super fast next time.",
+     "fr": "Ha, presque ! Les globules blancs apprennent la forme du microbe et fabriquent des anticorps, de petits attrapeurs qui l’agrippent, puis ils s’en souviennent et sont prêts en un éclair la fois suivante.",
+     "nl": "Haha, bijna! Witte bloedcellen leren de vorm van de ziekteverwekker en maken antistoffen, kleine vangers die hem grijpen, en daarna onthouden ze hem en zijn ze de volgende keer bliksemsnel klaar.",
+     "img": "Friendly white blood cells toss Y-shaped catchers at a grumpy germ"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Did you know the word vaccine comes from vacca, the Latin word for cow? The very first vaccine, over 200 years ago, used a mild cow illness to protect people.",
+     "fr": "Savais-tu que le mot vaccin vient de vacca, qui veut dire vache en latin ? Le tout premier vaccin, il y a plus de 200 ans, utilisait une maladie légère des vaches pour protéger les gens.",
+     "nl": "Wist je dat het woord vaccin komt van vacca, het Latijnse woord voor koe? Het allereerste vaccin, meer dan 200 jaar geleden, gebruikte een milde koeienziekte om mensen te beschermen.",
+     "img": "Bloom pets a smiling cow in an old countryside meadow, Whyzz laughs"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So a vaccine is a fire drill for my body and my defenders remember the plan! If your body had a team of tiny helpers, what would you name them?",
+     "fr": "Donc un vaccin, c’est un exercice d’incendie pour mon corps et mes défenseurs retiennent le plan ! Si ton corps avait une équipe de mini-aides, comment tu l’appellerais ?",
+     "nl": "Dus een vaccin is een brandoefening voor mijn lichaam en mijn verdedigers onthouden het plan! Als jouw lichaam een team piepkleine helpers had, hoe zou jij ze noemen?",
+     "img": "Whyzz and Bloom cheer with a team of cute white blood cell helpers"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What is a vaccine like for your body?",
+      "fr": "À quoi ressemble un vaccin pour ton corps ?",
+      "nl": "Waarop lijkt een vaccin voor je lichaam?"
+     },
+     "o": {
+      "en": [
+       "A long nap",
+       "A fire drill",
+       "A birthday party"
+      ],
+      "fr": [
+       "Une longue sieste",
+       "Un exercice d’incendie",
+       "Une fête d’anniversaire"
+      ],
+      "nl": [
+       "Een lang dutje",
+       "Een brandoefening",
+       "Een verjaardagsfeest"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does a vaccine show your body?",
+      "fr": "Qu’est-ce qu’un vaccin montre à ton corps ?",
+      "nl": "Wat laat een vaccin je lichaam zien?"
+     },
+     "o": {
+      "en": [
+       "A harmless version or piece of a germ",
+       "A funny cartoon",
+       "A map of your house"
+      ],
+      "fr": [
+       "Une version inoffensive ou un morceau de microbe",
+       "Un dessin animé rigolo",
+       "Un plan de ta maison"
+      ],
+      "nl": [
+       "Een onschuldige versie of een stukje van een ziekteverwekker",
+       "Een grappige tekenfilm",
+       "Een plattegrond van je huis"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What do white blood cells make to grab germs?",
+      "fr": "Que fabriquent les globules blancs pour attraper les microbes ?",
+      "nl": "Wat maken witte bloedcellen om ziekteverwekkers te grijpen?"
+     },
+     "o": {
+      "en": [
+       "Bubbles",
+       "Sugar",
+       "Antibodies"
+      ],
+      "fr": [
+       "Des bulles",
+       "Du sucre",
+       "Des anticorps"
+      ],
+      "nl": [
+       "Bubbels",
+       "Suiker",
+       "Antistoffen"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Why are your defenders faster the next time?",
+      "fr": "Pourquoi tes défenseurs sont-ils plus rapides la fois suivante ?",
+      "nl": "Waarom zijn je verdedigers de volgende keer sneller?"
+     },
+     "o": {
+      "en": [
+       "They grow wings",
+       "They remember the germ",
+       "They drink juice"
+      ],
+      "fr": [
+       "Ils ont des ailes qui poussent",
+       "Ils se souviennent du microbe",
+       "Ils boivent du jus"
+      ],
+      "nl": [
+       "Ze krijgen vleugels",
+       "Ze onthouden de ziekteverwekker",
+       "Ze drinken sap"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does vacca mean in Latin?",
+      "fr": "Que veut dire vacca en latin ?",
+      "nl": "Wat betekent vacca in het Latijn?"
+     },
+     "o": {
+      "en": [
+       "Horse",
+       "Cat",
+       "Cow"
+      ],
+      "fr": [
+       "Cheval",
+       "Chat",
+       "Vache"
+      ],
+      "nl": [
+       "Paard",
+       "Kat",
+       "Koe"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "Body training camp",
+     "fr": "Le camp d’entraînement du corps",
+     "nl": "Trainingskamp van je lichaam"
+    },
+    "intro": {
+     "en": "How does a vaccine help your body? Put the steps in the right order!",
+     "fr": "Comment un vaccin aide-t-il ton corps ? Remets les étapes dans le bon ordre !",
+     "nl": "Hoe helpt een vaccin je lichaam? Zet de stappen in de juiste volgorde!"
+    },
+    "done": {
+     "en": "Training complete! Your body’s defenders are ready.",
+     "fr": "Entraînement terminé ! Les défenseurs de ton corps sont prêts.",
+     "nl": "Training voltooid! De verdedigers van je lichaam zijn klaar."
+    },
+    "items": {
+     "en": [
+      "A nurse gives you the vaccine",
+      "Your body sees a harmless piece of a germ",
+      "White blood cells learn its shape",
+      "They make antibodies to catch it",
+      "Your body remembers the germ",
+      "If the real germ comes, your defenders are ready fast"
+     ],
+     "fr": [
+      "Un infirmier te donne le vaccin",
+      "Ton corps voit un morceau inoffensif de microbe",
+      "Les globules blancs apprennent sa forme",
+      "Ils fabriquent des anticorps pour l’attraper",
+      "Ton corps se souvient du microbe",
+      "Si le vrai microbe arrive, tes défenseurs sont vite prêts"
+     ],
+     "nl": [
+      "Een verpleegkundige geeft je het vaccin",
+      "Je lichaam ziet een onschuldig stukje van een ziekteverwekker",
+      "Witte bloedcellen leren de vorm ervan",
+      "Ze maken antistoffen om hem te vangen",
+      "Je lichaam onthoudt de ziekteverwekker",
+      "Komt de echte ziekteverwekker, dan zijn je verdedigers snel klaar"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Biotech",
+    "fr": "Biotech",
+    "nl": "Biotech"
+   },
+   "adult": {
+    "en": "For grown-ups: the Biotech world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Biotech dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Biotech in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-14",
+   "voice": true
+  },
+  {
+   "id": "robo-20261114",
+   "world": "robo",
+   "guide": "Pixel",
+   "title": {
+    "en": "How do robots explore the deep sea?",
+    "fr": "Comment les robots explorent-ils les grands fonds marins ?",
+    "nl": "Hoe verkennen robots de diepzee?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, I can only dive to the bottom of the pool. Who explores the deepest, darkest parts of the ocean?",
+     "fr": "Pixel, moi, je ne peux plonger que jusqu’au fond de la piscine. Qui explore les endroits les plus profonds et les plus sombres de l’océan ?",
+     "nl": "Pixel, ik kan alleen naar de bodem van het zwembad duiken. Wie verkent de diepste, donkerste plekken van de oceaan?",
+     "img": "Whyzz in swim goggles at the edge of a pool, puzzled"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Underwater robots! Deep down, sunlight can’t reach and the water pushes very hard, so robots go where divers can’t.",
+     "fr": "Des robots sous-marins ! Tout au fond, la lumière du soleil n’arrive pas et l’eau appuie très fort, alors les robots vont là où les plongeurs ne peuvent pas aller.",
+     "nl": "Onderwaterrobots! Diep beneden komt er geen zonlicht en duwt het water heel hard, dus gaan robots waar duikers niet kunnen komen.",
+     "img": "A crane on a ship lowers a yellow underwater robot into the sea"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Do they wear tiny snorkels and flippers? I bet they look super cute!",
+     "fr": "Est-ce qu’ils portent des mini-tubas et des palmes ? Je parie qu’ils sont trop mignons !",
+     "nl": "Dragen ze piepkleine snorkels en zwemvliezen? Ik wed dat ze er superschattig uitzien!",
+     "img": "Whyzz imagines a little robot with a snorkel and pink flippers, Pixel laughs"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, no! They have propellers to swim, bright lights to see in the dark and sonar that sends out sounds and listens for echoes to map the seafloor.",
+     "fr": "Ha, non ! Ils ont des hélices pour nager, des lampes puissantes pour voir dans le noir et un sonar qui envoie des sons et écoute l’écho pour dessiner la carte du fond.",
+     "nl": "Haha, nee! Ze hebben schroeven om te zwemmen, felle lampen om in het donker te zien en sonar die geluid uitzendt en naar de echo luistert om de zeebodem in kaart te brengen.",
+     "img": "The robot shines its lights in the deep sea, sound rings spread to the seafloor"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know we have better maps of Mars than of our own ocean floor? With their arms, robots also pick up rocks and film amazing glowing fish down there.",
+     "fr": "Savais-tu qu’on a de meilleures cartes de Mars que du fond de nos océans ? Avec leur bras, les robots ramassent aussi des cailloux et filment d’incroyables poissons lumineux.",
+     "nl": "Wist je dat we betere kaarten van Mars hebben dan van onze eigen zeebodem? Met hun arm rapen robots ook stenen op en ze filmen er prachtige lichtgevende vissen.",
+     "img": "The robot arm picks up a rock among glowing fish and jellyfish"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So deep-sea robots are brave explorers with lights, ears and arms! If you could send a robot to the bottom of the sea, what would you want it to find?",
+     "fr": "Donc les robots des grands fonds sont de courageux explorateurs avec des lampes, des oreilles et des bras ! Si tu pouvais envoyer un robot au fond de la mer, qu’aimerais-tu qu’il trouve ?",
+     "nl": "Dus diepzeerobots zijn dappere ontdekkers met lampen, oren en armen! Als jij een robot naar de bodem van de zee kon sturen, wat zou je willen dat hij vindt?",
+     "img": "Whyzz and Pixel high five on a ship deck as the robot splashes up"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Why do robots explore the deep sea?",
+      "fr": "Pourquoi des robots explorent-ils les grands fonds ?",
+      "nl": "Waarom verkennen robots de diepzee?"
+     },
+     "o": {
+      "en": [
+       "Robots love swimming pools",
+       "Divers can’t go that deep",
+       "The fish asked them to"
+      ],
+      "fr": [
+       "Les robots adorent les piscines",
+       "Les plongeurs ne peuvent pas descendre si bas",
+       "Les poissons le leur ont demandé"
+      ],
+      "nl": [
+       "Robots houden van zwembaden",
+       "Duikers kunnen niet zo diep",
+       "De vissen vroegen het"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What do the robots use to swim?",
+      "fr": "Qu’utilisent les robots pour nager ?",
+      "nl": "Waarmee zwemmen de robots?"
+     },
+     "o": {
+      "en": [
+       "Propellers",
+       "Pink flippers",
+       "Sails"
+      ],
+      "fr": [
+       "Des hélices",
+       "Des palmes roses",
+       "Des voiles"
+      ],
+      "nl": [
+       "Schroeven",
+       "Roze zwemvliezen",
+       "Zeilen"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "How does sonar help the robot?",
+      "fr": "Comment le sonar aide-t-il le robot ?",
+      "nl": "Hoe helpt sonar de robot?"
+     },
+     "o": {
+      "en": [
+       "It smells the water",
+       "It counts the fish",
+       "It sends sounds and listens for echoes"
+      ],
+      "fr": [
+       "Il sent l’odeur de l’eau",
+       "Il compte les poissons",
+       "Il envoie des sons et écoute l’écho"
+      ],
+      "nl": [
+       "Het ruikt aan het water",
+       "Het telt de vissen",
+       "Het zendt geluid uit en luistert naar de echo"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "We have better maps of which place than of our ocean floor?",
+      "fr": "De quel endroit a-t-on de meilleures cartes que du fond des océans ?",
+      "nl": "Van welke plek hebben we betere kaarten dan van onze zeebodem?"
+     },
+     "o": {
+      "en": [
+       "The inside of the Sun",
+       "Mars",
+       "A cloud in the sky"
+      ],
+      "fr": [
+       "L’intérieur du Soleil",
+       "Mars",
+       "Un nuage dans le ciel"
+      ],
+      "nl": [
+       "De binnenkant van de zon",
+       "Mars",
+       "Een wolk in de lucht"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What do the robots pick up with their arms?",
+      "fr": "Que ramassent les robots avec leur bras ?",
+      "nl": "Wat rapen de robots op met hun arm?"
+     },
+     "o": {
+      "en": [
+       "Rocks",
+       "Lost socks",
+       "Seashell coins"
+      ],
+      "fr": [
+       "Des cailloux",
+       "Des chaussettes perdues",
+       "Des pièces en coquillage"
+      ],
+      "nl": [
+       "Stenen",
+       "Verloren sokken",
+       "Schelpenmuntjes"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Deep-sea robot parts",
+     "fr": "Les pièces du robot des grands fonds",
+     "nl": "Onderdelen van de diepzeerobot"
+    },
+    "intro": {
+     "en": "Match each robot part with its job!",
+     "fr": "Relie chaque pièce du robot à son rôle !",
+     "nl": "Koppel elk onderdeel van de robot aan zijn taak!"
+    },
+    "done": {
+     "en": "Splash! Your robot is ready to dive.",
+     "fr": "Plouf ! Ton robot est prêt à plonger.",
+     "nl": "Plons! Je robot is klaar om te duiken."
+    },
+    "left": {
+     "en": [
+      "Propellers",
+      "Bright lights",
+      "Sonar",
+      "Robot arm",
+      "Camera"
+     ],
+     "fr": [
+      "Les hélices",
+      "Les lampes puissantes",
+      "Le sonar",
+      "Le bras robot",
+      "La caméra"
+     ],
+     "nl": [
+      "Schroeven",
+      "Felle lampen",
+      "Sonar",
+      "Robotarm",
+      "Camera"
+     ]
+    },
+    "right": {
+     "en": [
+      "Help it swim",
+      "Help it see in the dark",
+      "Maps the seafloor with echoes",
+      "Picks up rocks",
+      "Films glowing fish"
+     ],
+     "fr": [
+      "L’aident à nager",
+      "L’aident à voir dans le noir",
+      "Dessine la carte du fond avec l’écho",
+      "Ramasse des cailloux",
+      "Filme les poissons lumineux"
+     ],
+     "nl": [
+      "Helpen hem zwemmen",
+      "Helpen hem zien in het donker",
+      "Brengt de zeebodem in kaart met echo’s",
+      "Raapt stenen op",
+      "Filmt lichtgevende vissen"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Robotics",
+    "fr": "Robotique",
+    "nl": "Robotica"
+   },
+   "adult": {
+    "en": "For grown-ups: the Robotics world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Robotique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Robotica in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-14",
+   "voice": true
+  },
+  {
+   "id": "energy-20261114",
+   "world": "energy",
+   "guide": "Sunny",
+   "title": {
+    "en": "How can water make electricity?",
+    "fr": "Comment l’eau peut-elle fabriquer de l’électricité ?",
+    "nl": "Hoe kan water elektriciteit maken?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, the river near my house rushes so fast that it spun my toy boat around! Could all that water power my game console?",
+     "fr": "Sunny, la rivière près de chez moi coule si vite qu’elle a fait tourner mon bateau jouet ! Toute cette eau pourrait-elle faire marcher ma console de jeux ?",
+     "nl": "Sunny, de rivier bij mijn huis stroomt zo snel dat mijn speelgoedbootje rondjes draaide! Kan al dat water mijn spelcomputer laten werken?",
+     "img": "Whyzz at a rushing river with a spinning toy boat"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "It can! A dam is a giant wall that turns a river into a big lake and all that high water is full of stored energy, like you at the top of a slide.",
+     "fr": "Oui ! Un barrage est un mur géant qui transforme une rivière en grand lac, et toute cette eau en hauteur est pleine d’énergie en réserve, comme toi en haut d’un toboggan.",
+     "nl": "Zeker! Een stuwdam is een reuzenmuur die van een rivier een groot meer maakt en al dat hoge water zit vol opgeslagen energie, net als jij bovenaan een glijbaan.",
+     "img": "Sunny shows a big dam holding back a mountain lake"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "When the gates open, water rushes down a big pipe and spins a turbine, a giant wheel with blades. The turbine turns a generator, which makes electricity.",
+     "fr": "Quand les vannes s’ouvrent, l’eau dévale un gros tuyau et fait tourner une turbine, une roue géante à pales. La turbine fait tourner un générateur, qui fabrique l’électricité.",
+     "nl": "Als de kleppen opengaan, stroomt het water door een dikke buis naar beneden en laat het een turbine draaien, een reuzenwiel met schoepen. De turbine draait een generator en die maakt elektriciteit.",
+     "img": "Inside the dam water spins a giant turbine, sparks flow along a cable"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So if I spin really fast on the playground merry-go-round, can I light up the whole school?",
+     "fr": "Alors si je tourne super vite sur le tourniquet de la cour, je peux allumer toute l’école ?",
+     "nl": "Dus als ik superhard ronddraai op de draaimolen van het speelplein, kan ik dan de hele school verlichten?",
+     "img": "Whyzz spins dizzy on a merry-go-round, Sunny laughs"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Ha, you’d get dizzy long before that! Did you know people used water wheels more than 2,000 years ago to grind grain into flour for bread?",
+     "fr": "Ha, tu aurais la tête qui tourne bien avant ! Savais-tu qu’il y a plus de 2000 ans, on utilisait déjà des roues à eau pour moudre le grain et faire de la farine ?",
+     "nl": "Haha, je zou al lang duizelig zijn! Wist je dat mensen meer dan 2000 jaar geleden al waterraderen gebruikten om graan tot meel te malen?",
+     "img": "An old wooden water wheel turns beside a stone mill"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So falling water spins turbines and the rain fills the lake up again, like a slide that never ends! If you could build your own water machine, what would it do?",
+     "fr": "Donc l’eau qui tombe fait tourner les turbines et la pluie remplit à nouveau le lac, comme un toboggan sans fin ! Si tu pouvais construire ta propre machine à eau, que ferait-elle ?",
+     "nl": "Dus vallend water laat turbines draaien en de regen vult het meer weer aan, net een glijbaan die nooit stopt! Als jij je eigen watermachine kon bouwen, wat zou die dan doen?",
+     "img": "Whyzz and Sunny high five on the dam above a glowing town at sunset"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What is a dam?",
+      "fr": "Qu’est-ce qu’un barrage ?",
+      "nl": "Wat is een stuwdam?"
+     },
+     "o": {
+      "en": [
+       "A kind of fish",
+       "A giant wall that holds back a river",
+       "A floating boat"
+      ],
+      "fr": [
+       "Une sorte de poisson",
+       "Un mur géant qui retient une rivière",
+       "Un bateau qui flotte"
+      ],
+      "nl": [
+       "Een soort vis",
+       "Een reuzenmuur die een rivier tegenhoudt",
+       "Een drijvende boot"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does the rushing water spin?",
+      "fr": "Que fait tourner l’eau qui dévale ?",
+      "nl": "Wat laat het stromende water draaien?"
+     },
+     "o": {
+      "en": [
+       "A turbine",
+       "A pizza",
+       "A cloud"
+      ],
+      "fr": [
+       "Une turbine",
+       "Une pizza",
+       "Un nuage"
+      ],
+      "nl": [
+       "Een turbine",
+       "Een pizza",
+       "Een wolk"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Which part makes the electricity?",
+      "fr": "Quelle pièce fabrique l’électricité ?",
+      "nl": "Welk onderdeel maakt de elektriciteit?"
+     },
+     "o": {
+      "en": [
+       "The fish in the lake",
+       "The sand",
+       "The generator"
+      ],
+      "fr": [
+       "Les poissons du lac",
+       "Le sable",
+       "Le générateur"
+      ],
+      "nl": [
+       "De vissen in het meer",
+       "Het zand",
+       "De generator"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What were water wheels used for over 2,000 years ago?",
+      "fr": "À quoi servaient les roues à eau il y a plus de 2000 ans ?",
+      "nl": "Waarvoor gebruikte men meer dan 2000 jaar geleden waterraderen?"
+     },
+     "o": {
+      "en": [
+       "Charging phones",
+       "Grinding grain into flour",
+       "Watching TV"
+      ],
+      "fr": [
+       "À recharger les téléphones",
+       "À moudre le grain en farine",
+       "À regarder la télé"
+      ],
+      "nl": [
+       "Telefoons opladen",
+       "Graan tot meel malen",
+       "Televisie kijken"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What fills the lake up again?",
+      "fr": "Qu’est-ce qui remplit à nouveau le lac ?",
+      "nl": "Wat vult het meer weer aan?"
+     },
+     "o": {
+      "en": [
+       "Rain",
+       "Lemonade",
+       "Sand"
+      ],
+      "fr": [
+       "La pluie",
+       "La limonade",
+       "Le sable"
+      ],
+      "nl": [
+       "Regen",
+       "Limonade",
+       "Zand"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "From raindrop to lamp",
+     "fr": "De la goutte de pluie à la lampe",
+     "nl": "Van regendruppel tot lamp"
+    },
+    "intro": {
+     "en": "How does water become electricity? Put the steps in the right order!",
+     "fr": "Comment l’eau devient-elle de l’électricité ? Remets les étapes dans le bon ordre !",
+     "nl": "Hoe wordt water elektriciteit? Zet de stappen in de juiste volgorde!"
+    },
+    "done": {
+     "en": "Lights on! You followed the water all the way.",
+     "fr": "Lumière ! Tu as suivi l’eau jusqu’au bout.",
+     "nl": "Licht aan! Je hebt het water helemaal gevolgd."
+    },
+    "items": {
+     "en": [
+      "Rain falls into the river",
+      "The dam holds the water in a big lake",
+      "The gates open and water rushes down a pipe",
+      "The water spins the turbine",
+      "The generator makes electricity",
+      "Wires carry it to your home"
+     ],
+     "fr": [
+      "La pluie tombe dans la rivière",
+      "Le barrage retient l’eau dans un grand lac",
+      "Les vannes s’ouvrent et l’eau dévale un tuyau",
+      "L’eau fait tourner la turbine",
+      "Le générateur fabrique l’électricité",
+      "Des câbles l’amènent jusqu’à ta maison"
+     ],
+     "nl": [
+      "Regen valt in de rivier",
+      "De stuwdam houdt het water vast in een groot meer",
+      "De kleppen gaan open en het water stroomt door een buis",
+      "Het water laat de turbine draaien",
+      "De generator maakt elektriciteit",
+      "Kabels brengen het naar je huis"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Energy",
+    "fr": "Énergie",
+    "nl": "Energie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Energy world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Énergie dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Energie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-14",
+   "voice": true
   }
  ]
 }
