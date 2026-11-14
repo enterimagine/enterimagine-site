@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "85b1de50f389105a7fe14d7f9f6eb88cb8d8c483",
-  "publicPolicySha256": "8c7a3b869081a74edae82ee42b08ad7f6d0c741fb6c6b6f0ef8c1cdac8aafee4",
+  "sourceCommit": "d3cc7e66a10d02a3226b3e94ad729f14de641724",
+  "publicPolicySha256": "ba3dabcfbf67248d92b6df6bf81da6ce0e52bc345027ecb97b5c29ccf55299f2",
   "nodeVersion": "v24.19.0",
-  "payloadId": "c3d2eb96c6c3c3679a130b5a0d53675932ba086c8d7d467adae1a9b92d52900b",
+  "payloadId": "749ff13a78b7b654e14d3d24c411eb78e621d13a143f60c2db0791479fab0cc7",
   "files": [
     {
       "path": "404.html",
@@ -67,9 +67,24 @@
       "sha256": "a9de10aa3aef3440113fd3bc7cd741bf6d1e6718d5fd59c443dc244924f72f6c"
     },
     {
+      "path": "assets/articles/covers/the-building-that-arrives-flat.webp",
+      "size": 112850,
+      "sha256": "111d33fccdbac00f0307874ddb604286f75768f86e683e449d3cc2121496345b"
+    },
+    {
+      "path": "assets/articles/covers/the-chip-that-asks-which-hand-life-uses.webp",
+      "size": 45034,
+      "sha256": "5724ab731404da94ad214713c268459e6f29fb68af16588549fa6f8c6cdbcf4e"
+    },
+    {
       "path": "assets/articles/covers/the-city-that-parks-itself.webp",
       "size": 81582,
       "sha256": "db94a678850897edeb45044cab126f60442dc1eb5aeb47238c9bc5fc3f62915e"
+    },
+    {
+      "path": "assets/articles/covers/the-clock-inside-the-nucleus.webp",
+      "size": 61412,
+      "sha256": "b259e1aca59845f3c0c93627481bf9aefa1b793f0366ce1cc630bf102a7d4c50"
     },
     {
       "path": "assets/articles/covers/the-diamond-that-feels-your-heartbeat.webp",
@@ -97,6 +112,11 @@
       "sha256": "54f2333200fd0bbd5c629b3b647941273c6a3761489ab7d71a2af89d184bb8cf"
     },
     {
+      "path": "assets/articles/covers/the-molecule-that-sorts-electrons-by-spin.webp",
+      "size": 69410,
+      "sha256": "3d980ed2d729f3973fe75586ebca0ae2db98b8f873bc8b2418be6acbc79ce9bd"
+    },
+    {
       "path": "assets/articles/covers/the-narrow-waist-of-everything.webp",
       "size": 94426,
       "sha256": "064e972bbb32e78f6f36da5d431e78e826f865d9263b2f94ee5298a4048f6504"
@@ -110,6 +130,11 @@
       "path": "assets/articles/covers/the-planet-in-the-mirror.webp",
       "size": 31230,
       "sha256": "7e09b36e9fb097538b0e96dfb4ff9ceb1c11fa918d4bf2dfd8365d3036319970"
+    },
+    {
+      "path": "assets/articles/covers/the-power-plant-that-drills-sideways.webp",
+      "size": 126830,
+      "sha256": "2eb1a89e6ffc98e10e638cd6091c37229c2f5d6dff134812aa4e36b24b4580d5"
     },
     {
       "path": "assets/articles/covers/the-quantum-computers-secret-partner.webp",
@@ -142,6 +167,11 @@
       "sha256": "ef66b64880bde6eace4c1e5fb7bb6fdc2ce469dd530a583ff61bd40341ead1cb"
     },
     {
+      "path": "assets/articles/covers/what-the-plane-left-behind.webp",
+      "size": 57344,
+      "sha256": "4d90417d532a60d0691432c9545cc10a1ae81b6adb9f6707cffc0b8a57aebc09"
+    },
+    {
       "path": "assets/articles/covers/what-the-sewer-knew-first.webp",
       "size": 81140,
       "sha256": "f5b373eb3d1fba508f665dd58799befc1628ef807c63aa63959db879014c5d37"
@@ -165,6 +195,11 @@
       "path": "assets/articles/covers/who-drills-the-holes-for-the-cloud.webp",
       "size": 77890,
       "sha256": "cc7c957642db2c3893308da5b15ce1349d835ac74411984202f5e4c42e4b39b9"
+    },
+    {
+      "path": "assets/articles/covers/who-flew-the-plane-across-america.webp",
+      "size": 29950,
+      "sha256": "4f978162c54324b6256b8d35f316d0af87f41ffa8c5615c7a25286959c626b25"
     },
     {
       "path": "assets/articles/covers/who-grades-the-machines-homework.webp",
@@ -247,9 +282,24 @@
       "sha256": "f75ed5d40b7a58034c980fd5f67df71c681a17aaf120cb1369fdd9ae3b018c38"
     },
     {
+      "path": "assets/articles/share/the-building-that-arrives-flat.jpg",
+      "size": 198284,
+      "sha256": "0be3d0582704e7e57a0aa72dda1305f6e87628c56bcc4088b3684d7f667921fc"
+    },
+    {
+      "path": "assets/articles/share/the-chip-that-asks-which-hand-life-uses.jpg",
+      "size": 105334,
+      "sha256": "c6bff5ac53341a6fa26ec21f6ae5380c5d310762939b2e843ab4b03c7299720e"
+    },
+    {
       "path": "assets/articles/share/the-city-that-parks-itself.jpg",
       "size": 159085,
       "sha256": "8e60482e4d9be395e16a8f3edabd453f366cfa994f825e4928f143f6ab23488a"
+    },
+    {
+      "path": "assets/articles/share/the-clock-inside-the-nucleus.jpg",
+      "size": 133673,
+      "sha256": "8fe51aef37a6b3fb2525c2e0541922a4b17306ad3a479bcb4527ee989aa874ec"
     },
     {
       "path": "assets/articles/share/the-diamond-that-feels-your-heartbeat.jpg",
@@ -277,6 +327,11 @@
       "sha256": "a6cfe06459ef17850d602fa58d76bd4c6a77f52e313e3893713404427528d02c"
     },
     {
+      "path": "assets/articles/share/the-molecule-that-sorts-electrons-by-spin.jpg",
+      "size": 136521,
+      "sha256": "8b07672b919b825fee7da867f52440b11158a2a3d91ecdfe74ceaeac5ea06a12"
+    },
+    {
       "path": "assets/articles/share/the-narrow-waist-of-everything.jpg",
       "size": 136133,
       "sha256": "75d17198ca5795fdaff0240dbe46cd4744b8065355c37afe6add5ab4e7851b29"
@@ -290,6 +345,11 @@
       "path": "assets/articles/share/the-planet-in-the-mirror.jpg",
       "size": 81897,
       "sha256": "c29222b6cb19979618eb606a43471a2dfa3cdd41c6df95d74258aa84dbad062f"
+    },
+    {
+      "path": "assets/articles/share/the-power-plant-that-drills-sideways.jpg",
+      "size": 212393,
+      "sha256": "7cdad1318ec460abf4dfe5ddcd62a77cc4185fbb23583f58d8cd58dd1aade81c"
     },
     {
       "path": "assets/articles/share/the-quantum-computers-secret-partner.jpg",
@@ -322,6 +382,11 @@
       "sha256": "0abd110c0c56cf3fc357cd79cfe56f925532b2ce28a030ac5a0ab8a325f82054"
     },
     {
+      "path": "assets/articles/share/what-the-plane-left-behind.jpg",
+      "size": 127558,
+      "sha256": "5d7d1a23f0182293fb3f2de237ec20b6171cfade67046b6a32d565ab03750f37"
+    },
+    {
       "path": "assets/articles/share/what-the-sewer-knew-first.jpg",
       "size": 162458,
       "sha256": "461af7a26a1cb5c9c784cff4cd8241e328a2f1616ba2894fad6975bc6452ad5f"
@@ -347,6 +412,11 @@
       "sha256": "d1b8df35ddfd58e8bbeebb7a6792c0c492973e6573535eb48890f18359568cb0"
     },
     {
+      "path": "assets/articles/share/who-flew-the-plane-across-america.jpg",
+      "size": 88052,
+      "sha256": "b7f086b399f19046b81d548e12b5446539dc5b0c45b8a71c4df59003c3cb40d5"
+    },
+    {
       "path": "assets/articles/share/who-grades-the-machines-homework.jpg",
       "size": 109047,
       "sha256": "cf5c51397f87427698b37c976ca25c4921b609a42cd22305f785e2d065cf40ca"
@@ -367,9 +437,24 @@
       "sha256": "9e98298b390acc51e6c6b9f42325d1520f30f1f5eaffed735b95d3132d434ad2"
     },
     {
+      "path": "assets/articles/the-building-that-arrives-flat.webp",
+      "size": 35814,
+      "sha256": "7fc5356789c714d5c350c897689eae7f5c366fd789ca02ef4fb00b2ad4c93972"
+    },
+    {
+      "path": "assets/articles/the-chip-that-asks-which-hand-life-uses.webp",
+      "size": 43178,
+      "sha256": "616e5d1a703f27a4c8ac7853e0ca329bd001a11a752a9707a0fe9cae9e8579af"
+    },
+    {
       "path": "assets/articles/the-city-that-parks-itself.webp",
       "size": 19600,
       "sha256": "2ee8ec8f59b9a7d5f6358a7bfa2f60d25e78d1c0419f9e78602c9c2646b86629"
+    },
+    {
+      "path": "assets/articles/the-clock-inside-the-nucleus.webp",
+      "size": 40082,
+      "sha256": "266b8987376c6a73078729c941efd607269d9b814aa93e86dcc9dfa0eeca13a6"
     },
     {
       "path": "assets/articles/the-diamond-that-feels-your-heartbeat.webp",
@@ -397,6 +482,11 @@
       "sha256": "88ec3ac33be605d0d664a555f3a67c8559e8286e08e5dbd11bc4bf0a13d438c6"
     },
     {
+      "path": "assets/articles/the-molecule-that-sorts-electrons-by-spin.webp",
+      "size": 49608,
+      "sha256": "002d122d47e21b06fc4e8d60eaf3bed9e239dcf4316edabd4d828c6871f11da5"
+    },
+    {
       "path": "assets/articles/the-narrow-waist-of-everything.webp",
       "size": 60572,
       "sha256": "440811682830b085031ea541407f7cd9e880fe92f07b8eea2df486a02fbdf6bd"
@@ -410,6 +500,11 @@
       "path": "assets/articles/the-planet-in-the-mirror.webp",
       "size": 21142,
       "sha256": "65403f22dd5603eb513ab6c31dd5f3e51a745bec70408f6bfa0e7cbe7854581a"
+    },
+    {
+      "path": "assets/articles/the-power-plant-that-drills-sideways.webp",
+      "size": 44550,
+      "sha256": "44eeefc998ce3b4d1e52c6310162b8c3fb9e772bcdbe51a828956056a8984f16"
     },
     {
       "path": "assets/articles/the-quantum-computers-secret-partner.webp",
@@ -442,6 +537,11 @@
       "sha256": "03b867511118bd9a3043366f09f71dd3ff9aaa8286385b328d38bf854fae861a"
     },
     {
+      "path": "assets/articles/what-the-plane-left-behind.webp",
+      "size": 45532,
+      "sha256": "e4a6e3735b184d66b2b0673e4706077766e34d33da157edf31091489da0402dc"
+    },
+    {
       "path": "assets/articles/what-the-sewer-knew-first.webp",
       "size": 42802,
       "sha256": "867fa1afc7e1a03c1ec002e489296456efc8cf881bfae74526ae8409f09c2926"
@@ -465,6 +565,11 @@
       "path": "assets/articles/who-drills-the-holes-for-the-cloud.webp",
       "size": 40476,
       "sha256": "fccbf148205ba07f96c96521cd48a9bcf117c96cf5c985ffa73a2b631d6b1837"
+    },
+    {
+      "path": "assets/articles/who-flew-the-plane-across-america.webp",
+      "size": 46476,
+      "sha256": "67ed78c4aeec0823d62885afd63b55a589c6abf55b27326ac0604dbf5e58c692"
     },
     {
       "path": "assets/articles/who-grades-the-machines-homework.webp",
@@ -643,18 +748,18 @@
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 26609,
-      "sha256": "80025938183df4365727ffed584e70cf4b665d749b581453534ea57c690ea465"
+      "size": 29681,
+      "sha256": "0d13be8d7df8ed8d7469e7bed4ed308b031e3902cab0627e211f8d982d09ccec"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 17975,
-      "sha256": "bf912ebe2afe81d1b14cbd187569a4813501ab17eda2dd26a1cc5d0c42e4055c"
+      "size": 19526,
+      "sha256": "23d9c68f311144fadacf8880e237ebbd78217bfb848cfcc1653d78358dd3752a"
     },
     {
       "path": "explore/energy/index.html",
-      "size": 23020,
-      "sha256": "3f17ee543b9360fbfae74588e47608ea91a3845a7630f8c3f17e086e9a28700c"
+      "size": 24508,
+      "sha256": "c3688f03177ef2a40d5803a1abea0d36519aead5f6ee9793a87f8d9a7b17d13d"
     },
     {
       "path": "explore/index.html",
@@ -663,33 +768,33 @@
     },
     {
       "path": "explore/innovation/index.html",
-      "size": 16777,
-      "sha256": "1b31751e4235077c658fa836f2c859d573b82190e7511702fc9c770213f0e6ae"
+      "size": 19867,
+      "sha256": "b770c90aa12fd3e095410eb800bad0b8e62cecda56af72e881876553d2927257"
     },
     {
       "path": "explore/quantum-computing/index.html",
-      "size": 23075,
-      "sha256": "5d0aa9548003988c277efd4a5f185edd9353367a7397c65261e6e8aca12ab721"
+      "size": 25533,
+      "sha256": "e17cb391442194f0d056f4c30a2e8a757fb1050131b8c28f3232249a1854feb3"
     },
     {
       "path": "explore/robotics/index.html",
-      "size": 17474,
-      "sha256": "063a0c2658d5438c9e29494f46847080aab88ba650490136b5018e43c7f261e7"
+      "size": 18246,
+      "sha256": "b1bd03b1ab567a4c73af1ec86369e8ead5aa470e150c2274a7675f0baad2d683"
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 17213,
-      "sha256": "2cfc4b346ff892c266f59285171527a1f2e071adb16a84651740806ee459a38a"
+      "size": 17927,
+      "sha256": "b72eaa301039d1b4216ecafc0da0d7023f469472505eaf7a708fb5e1d55faf8f"
     },
     {
       "path": "explore/smart-mobility/index.html",
-      "size": 16449,
-      "sha256": "55b734f270d57934e9198ed9ba733b382a68294e55eeb672f56fb9c3ecd56b54"
+      "size": 18829,
+      "sha256": "152f66d76a98b5742c7d5e6eed24b007acfe1671c36eef8dd285c4ca8d7ef693"
     },
     {
       "path": "explore/space/index.html",
-      "size": 16155,
-      "sha256": "7e16df5f5fd99bddde084c26012004df81e8e6c1053ccce7cce12af49fd49b9b"
+      "size": 17874,
+      "sha256": "c44645c0165503980a78f9d03c4cdbe45f95b37de1a56983458e80d9f44a8456"
     },
     {
       "path": "index.html",
@@ -853,8 +958,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 62769,
-      "sha256": "fbe014c6a6aa4985b60a866a785743e1a843119cc2e06180489baf8d57ac95a9"
+      "size": 72325,
+      "sha256": "638b24eff34aef30f1261d136dd45f293a7215f8582c29a548ad7f2bf01f1167"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -887,9 +992,24 @@
       "sha256": "62dc50fe4acc6293bbc930d051c4ed49f93fdaf61991f66b8db17ce4db59eeb7"
     },
     {
+      "path": "universe/the-building-that-arrives-flat/index.html",
+      "size": 22237,
+      "sha256": "5ddcc03545142c57c3d0187307a436a2c09277aefa0735b928461b235cc1dda5"
+    },
+    {
+      "path": "universe/the-chip-that-asks-which-hand-life-uses/index.html",
+      "size": 23831,
+      "sha256": "33d9ada7f0c87e397c56dbed737edb97f1e98ab5beb0afb7362fa56d0660ca68"
+    },
+    {
       "path": "universe/the-city-that-parks-itself/index.html",
       "size": 18740,
       "sha256": "231b29380da92db680a86894bf1746ed540cbf97196f88e5a5419efbd9aceb6c"
+    },
+    {
+      "path": "universe/the-clock-inside-the-nucleus/index.html",
+      "size": 25191,
+      "sha256": "15191997f9d8fd1b2b03d14163107690aa01cf33a1025afde83cf53d8ad7f2bb"
     },
     {
       "path": "universe/the-diamond-that-feels-your-heartbeat/index.html",
@@ -917,6 +1037,11 @@
       "sha256": "2abfaba730f0371317bbd1c40295a00d6012efb4ea57c49d91cd35c74d1e29d7"
     },
     {
+      "path": "universe/the-molecule-that-sorts-electrons-by-spin/index.html",
+      "size": 23309,
+      "sha256": "898387d3e7e2edff1e3096bb4cbe317b98089e2494f6316dde25cde20946bb4a"
+    },
+    {
       "path": "universe/the-narrow-waist-of-everything/index.html",
       "size": 30023,
       "sha256": "3b98a6043c85d1cf01b4010234405a07e8b8cd5c557c8da4337fb630935620e7"
@@ -930,6 +1055,11 @@
       "path": "universe/the-planet-in-the-mirror/index.html",
       "size": 19746,
       "sha256": "15b740aa2af5726d0a439440b1025d84bf8a06c3cd35107e54a80a1e8ccb78d1"
+    },
+    {
+      "path": "universe/the-power-plant-that-drills-sideways/index.html",
+      "size": 23160,
+      "sha256": "8ca47bee0bfc7eb6e1cc071aee166ee240c0ff3abc82f3f0717a4db3ef660263"
     },
     {
       "path": "universe/the-quantum-computers-secret-partner/index.html",
@@ -962,6 +1092,11 @@
       "sha256": "6576f77af8e60d5d377c425bd4731386ce6a00e7b5fba6368b7560f8bebbcc56"
     },
     {
+      "path": "universe/what-the-plane-left-behind/index.html",
+      "size": 25245,
+      "sha256": "63a34b093690ca5b07968c16010efd4107502a30efdc061a8e5564ea97bd1d3a"
+    },
+    {
       "path": "universe/what-the-sewer-knew-first/index.html",
       "size": 24721,
       "sha256": "9f975857a87b9ebd90792aa80ea29284b8d02b2e3fccf41edf0c13a227a171bb"
@@ -973,8 +1108,8 @@
     },
     {
       "path": "universe/when-the-robot-picks-up-the-surgeons-tools/index.html",
-      "size": 24536,
-      "sha256": "f1798dcb0394665357bff27dec458a8dcbfbbeb81fb9da9042841c51b085cc18"
+      "size": 24714,
+      "sha256": "49380d1143620895aad262af91d38d2b9f737b6274d5dff1a5f42e8649c4ed8e"
     },
     {
       "path": "universe/where-no-hand-can-reach/index.html",
@@ -985,6 +1120,11 @@
       "path": "universe/who-drills-the-holes-for-the-cloud/index.html",
       "size": 22988,
       "sha256": "433782ac1b28e97b792bd148834bd42e419696ab0bd3db15d7149baae74a5c95"
+    },
+    {
+      "path": "universe/who-flew-the-plane-across-america/index.html",
+      "size": 22308,
+      "sha256": "58457a59ab7ffcd26f22a68c40292fb25ca96007b134eeeef51a401b6d13c169"
     },
     {
       "path": "universe/who-grades-the-machines-homework/index.html",
@@ -1138,7 +1278,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "8c7a3b869081a74edae82ee42b08ad7f6d0c741fb6c6b6f0ef8c1cdac8aafee4"
+      "sha256": "ba3dabcfbf67248d92b6df6bf81da6ce0e52bc345027ecb97b5c29ccf55299f2"
     },
     {
       "path": "tools/recovery-kit.mjs",
