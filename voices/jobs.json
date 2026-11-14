@@ -4858,5 +4858,545 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Testen, verbeteren en opnieuw testen: nu is onze knikkerbaan geweldig! Welke gekke truc zou jij aan je knikkerbaan toevoegen?"
+ },
+ {
+  "id": "pixel-20261114-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, my tablet keeps asking for a password. Why can’t I just use my name so I never forget it?"
+ },
+ {
+  "id": "pixel-20261114-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, ma tablette me demande tout le temps un mot de passe. Pourquoi je ne peux pas juste mettre mon prénom pour ne jamais l’oublier ?"
+ },
+ {
+  "id": "pixel-20261114-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, mijn tablet vraagt steeds om een wachtwoord. Waarom kan ik niet gewoon mijn naam gebruiken, zodat ik het nooit vergeet?"
+ },
+ {
+  "id": "pixel-20261114-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "A password is like the key to your secret clubhouse. If it’s your name, anyone who knows you could guess it and walk right in!"
+ },
+ {
+  "id": "pixel-20261114-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Un mot de passe, c’est comme la clé de ta cabane secrète. Si c’est ton prénom, tous ceux qui te connaissent peuvent le deviner et entrer !"
+ },
+ {
+  "id": "pixel-20261114-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Een wachtwoord is als de sleutel van je geheime clubhuis. Is het je naam, dan kan iedereen die je kent het raden en zo naar binnen wandelen!"
+ },
+ {
+  "id": "pixel-20261114-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Then I’ll pick the best password ever: password! Nobody would ever think of that, right?"
+ },
+ {
+  "id": "pixel-20261114-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Alors je vais choisir le meilleur mot de passe du monde : motdepasse ! Personne n’y penserait jamais, hein ?"
+ },
+ {
+  "id": "pixel-20261114-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dan kies ik het beste wachtwoord ooit: wachtwoord! Daar komt toch niemand op?"
+ },
+ {
+  "id": "pixel-20261114-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, that’s one of the very first ones people try! Did you know a computer can test millions of passwords every second, so short, easy ones are found super fast?"
+ },
+ {
+  "id": "pixel-20261114-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, c’est un des tout premiers qu’on essaie ! Savais-tu qu’un ordinateur peut tester des millions de mots de passe par seconde, si bien que les plus courts et faciles sont vite trouvés ?"
+ },
+ {
+  "id": "pixel-20261114-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, dat is er juist een die mensen als eerste proberen! Wist je dat een computer miljoenen wachtwoorden per seconde kan testen, zodat korte, makkelijke wachtwoorden supersnel gevonden worden?"
+ },
+ {
+  "id": "pixel-20261114-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "A strong password is long and silly, like three random words: purple pancake rocket. Keep it secret and only share it with a grown-up you trust."
+ },
+ {
+  "id": "pixel-20261114-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Un mot de passe solide est long et rigolo, comme trois mots au hasard : crêpe violette fusée. Garde-le secret et ne le partage qu’avec un adulte de confiance."
+ },
+ {
+  "id": "pixel-20261114-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Een sterk wachtwoord is lang en gek, zoals drie willekeurige woorden: paarse pannenkoek raket. Houd het geheim en deel het alleen met een volwassene die je vertrouwt."
+ },
+ {
+  "id": "pixel-20261114-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a long, silly secret keeps my clubhouse safe! Which three funny words would make the silliest password you can imagine?"
+ },
+ {
+  "id": "pixel-20261114-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc un secret long et rigolo protège ma cabane ! Quels trois mots drôles choisirais-tu pour le mot de passe le plus farfelu possible ?"
+ },
+ {
+  "id": "pixel-20261114-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus een lang en gek geheim houdt mijn clubhuis veilig! Welke drie grappige woorden zou jij kiezen voor het gekste wachtwoord ooit?"
+ },
+ {
+  "id": "qubi-20261114-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, I always lose one sock of every pair! Is there anything in the world that always stays connected to its partner?"
+ },
+ {
+  "id": "qubi-20261114-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, je perds toujours une chaussette de chaque paire ! Est-ce qu’il existe quelque chose qui reste toujours lié à son partenaire ?"
+ },
+ {
+  "id": "qubi-20261114-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, ik verlies altijd één sok van elk paar! Bestaat er iets dat altijd verbonden blijft met zijn partner?"
+ },
+ {
+  "id": "qubi-20261114-en-2",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Yes, in the tiny quantum world! Two particles of light can be linked as a pair and scientists call this entanglement."
+ },
+ {
+  "id": "qubi-20261114-fr-2",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Oui, dans le minuscule monde quantique ! Deux grains de lumière peuvent être liés en paire : les scientifiques appellent ça l’intrication."
+ },
+ {
+  "id": "qubi-20261114-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Ja, in de piepkleine kwantumwereld! Twee lichtdeeltjes kunnen als paar verbonden zijn en wetenschappers noemen dat verstrengeling."
+ },
+ {
+  "id": "qubi-20261114-en-3",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Imagine magic twin socks: one stays here and the other flies to the Moon. If you peek and yours is red, you know right away that the Moon sock is blue!"
+ },
+ {
+  "id": "qubi-20261114-fr-3",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Imagine des chaussettes jumelles magiques : l’une reste ici, l’autre part sur la Lune. Si tu regardes et que la tienne est rouge, tu sais tout de suite que celle de la Lune est bleue !"
+ },
+ {
+  "id": "qubi-20261114-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Stel je magische tweelingsokken voor: de ene blijft hier, de andere vliegt naar de maan. Kijk je en is die van jou rood, dan weet je meteen dat de maansok blauw is!"
+ },
+ {
+  "id": "qubi-20261114-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Wow, then I can send secret sock messages to the Moon! Hello, aliens, please send back all my missing socks!"
+ },
+ {
+  "id": "qubi-20261114-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Waouh, alors je peux envoyer des messages secrets en chaussette à la Lune ! Allô les extraterrestres, rendez-moi toutes mes chaussettes perdues !"
+ },
+ {
+  "id": "qubi-20261114-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Wauw, dan kan ik geheime sokkenberichten naar de maan sturen! Hallo, aliens, stuur al mijn verloren sokken terug!"
+ },
+ {
+  "id": "qubi-20261114-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Ha, sadly it can’t carry messages. Did you know that before anyone looks, neither particle has picked its color yet, but they still always end up as a perfect pair?"
+ },
+ {
+  "id": "qubi-20261114-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Ha, hélas, ça ne transporte pas de messages. Savais-tu qu’avant qu’on regarde, aucune des deux particules n’a encore choisi sa couleur, mais qu’elles finissent quand même toujours en paire parfaite ?"
+ },
+ {
+  "id": "qubi-20261114-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Haha, helaas kan het geen berichten versturen. Wist je dat geen van beide deeltjes al een kleur heeft gekozen voordat iemand kijkt, en dat ze toch altijd een perfect paar vormen?"
+ },
+ {
+  "id": "qubi-20261114-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So entangled particles stay a team even when they’re far apart and scientists use them for super-secret codes! If you could have a magic twin of anything, what would you pick?"
+ },
+ {
+  "id": "qubi-20261114-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les particules intriquées restent une équipe, même très loin l’une de l’autre, et les scientifiques s’en servent pour des codes super secrets ! Si tu pouvais avoir un jumeau magique de n’importe quoi, tu choisirais quoi ?"
+ },
+ {
+  "id": "qubi-20261114-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus verstrengelde deeltjes blijven een team, zelfs heel ver uit elkaar, en wetenschappers gebruiken ze voor supergeheime codes! Als jij van iets een magische tweeling kon hebben, wat zou je kiezen?"
+ },
+ {
+  "id": "bloom-20261114-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Bloom, at school we had a fire drill and everyone practiced getting out calmly. Can my body practice for things too?"
+ },
+ {
+  "id": "bloom-20261114-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Bloom, à l’école, on a fait un exercice d’incendie et tout le monde s’est entraîné à sortir calmement. Est-ce que mon corps peut s’entraîner aussi ?"
+ },
+ {
+  "id": "bloom-20261114-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Bloom, op school hadden we een brandoefening en iedereen oefende om rustig naar buiten te gaan. Kan mijn lichaam ook oefenen?"
+ },
+ {
+  "id": "bloom-20261114-en-2",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Yes, with a vaccine! It shows your body a harmless version or a tiny piece of a germ, so your defenders can practice without you getting really sick."
+ },
+ {
+  "id": "bloom-20261114-fr-2",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Oui, grâce à un vaccin ! Il montre à ton corps une version inoffensive ou un petit morceau d’un microbe, pour que tes défenseurs s’entraînent sans que tu tombes vraiment malade."
+ },
+ {
+  "id": "bloom-20261114-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Ja, met een vaccin! Dat laat je lichaam een onschuldige versie of een stukje van een ziekteverwekker zien, zodat je verdedigers kunnen oefenen zonder dat je echt ziek wordt."
+ },
+ {
+  "id": "bloom-20261114-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Defenders? So I have tiny knights in my blood, riding around with shields and swords?"
+ },
+ {
+  "id": "bloom-20261114-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Des défenseurs ? Alors j’ai des mini-chevaliers dans le sang, qui se promènent avec des boucliers et des épées ?"
+ },
+ {
+  "id": "bloom-20261114-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Verdedigers? Dus ik heb piepkleine ridders in mijn bloed, die rondrijden met schilden en zwaarden?"
+ },
+ {
+  "id": "bloom-20261114-en-4",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Ha, almost! White blood cells learn the germ’s shape and make antibodies, little catchers that grab it, then they remember it and are ready super fast next time."
+ },
+ {
+  "id": "bloom-20261114-fr-4",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Ha, presque ! Les globules blancs apprennent la forme du microbe et fabriquent des anticorps, de petits attrapeurs qui l’agrippent, puis ils s’en souviennent et sont prêts en un éclair la fois suivante."
+ },
+ {
+  "id": "bloom-20261114-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Haha, bijna! Witte bloedcellen leren de vorm van de ziekteverwekker en maken antistoffen, kleine vangers die hem grijpen, en daarna onthouden ze hem en zijn ze de volgende keer bliksemsnel klaar."
+ },
+ {
+  "id": "bloom-20261114-en-5",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Did you know the word vaccine comes from vacca, the Latin word for cow? The very first vaccine, over 200 years ago, used a mild cow illness to protect people."
+ },
+ {
+  "id": "bloom-20261114-fr-5",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Savais-tu que le mot vaccin vient de vacca, qui veut dire vache en latin ? Le tout premier vaccin, il y a plus de 200 ans, utilisait une maladie légère des vaches pour protéger les gens."
+ },
+ {
+  "id": "bloom-20261114-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Wist je dat het woord vaccin komt van vacca, het Latijnse woord voor koe? Het allereerste vaccin, meer dan 200 jaar geleden, gebruikte een milde koeienziekte om mensen te beschermen."
+ },
+ {
+  "id": "bloom-20261114-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a vaccine is a fire drill for my body and my defenders remember the plan! If your body had a team of tiny helpers, what would you name them?"
+ },
+ {
+  "id": "bloom-20261114-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc un vaccin, c’est un exercice d’incendie pour mon corps et mes défenseurs retiennent le plan ! Si ton corps avait une équipe de mini-aides, comment tu l’appellerais ?"
+ },
+ {
+  "id": "bloom-20261114-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus een vaccin is een brandoefening voor mijn lichaam en mijn verdedigers onthouden het plan! Als jouw lichaam een team piepkleine helpers had, hoe zou jij ze noemen?"
+ },
+ {
+  "id": "robo-20261114-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, I can only dive to the bottom of the pool. Who explores the deepest, darkest parts of the ocean?"
+ },
+ {
+  "id": "robo-20261114-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, moi, je ne peux plonger que jusqu’au fond de la piscine. Qui explore les endroits les plus profonds et les plus sombres de l’océan ?"
+ },
+ {
+  "id": "robo-20261114-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, ik kan alleen naar de bodem van het zwembad duiken. Wie verkent de diepste, donkerste plekken van de oceaan?"
+ },
+ {
+  "id": "robo-20261114-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Underwater robots! Deep down, sunlight can’t reach and the water pushes very hard, so robots go where divers can’t."
+ },
+ {
+  "id": "robo-20261114-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Des robots sous-marins ! Tout au fond, la lumière du soleil n’arrive pas et l’eau appuie très fort, alors les robots vont là où les plongeurs ne peuvent pas aller."
+ },
+ {
+  "id": "robo-20261114-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Onderwaterrobots! Diep beneden komt er geen zonlicht en duwt het water heel hard, dus gaan robots waar duikers niet kunnen komen."
+ },
+ {
+  "id": "robo-20261114-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Do they wear tiny snorkels and flippers? I bet they look super cute!"
+ },
+ {
+  "id": "robo-20261114-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Est-ce qu’ils portent des mini-tubas et des palmes ? Je parie qu’ils sont trop mignons !"
+ },
+ {
+  "id": "robo-20261114-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dragen ze piepkleine snorkels en zwemvliezen? Ik wed dat ze er superschattig uitzien!"
+ },
+ {
+  "id": "robo-20261114-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no! They have propellers to swim, bright lights to see in the dark and sonar that sends out sounds and listens for echoes to map the seafloor."
+ },
+ {
+  "id": "robo-20261114-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, non ! Ils ont des hélices pour nager, des lampes puissantes pour voir dans le noir et un sonar qui envoie des sons et écoute l’écho pour dessiner la carte du fond."
+ },
+ {
+  "id": "robo-20261114-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, nee! Ze hebben schroeven om te zwemmen, felle lampen om in het donker te zien en sonar die geluid uitzendt en naar de echo luistert om de zeebodem in kaart te brengen."
+ },
+ {
+  "id": "robo-20261114-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know we have better maps of Mars than of our own ocean floor? With their arms, robots also pick up rocks and film amazing glowing fish down there."
+ },
+ {
+  "id": "robo-20261114-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu qu’on a de meilleures cartes de Mars que du fond de nos océans ? Avec leur bras, les robots ramassent aussi des cailloux et filment d’incroyables poissons lumineux."
+ },
+ {
+  "id": "robo-20261114-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat we betere kaarten van Mars hebben dan van onze eigen zeebodem? Met hun arm rapen robots ook stenen op en ze filmen er prachtige lichtgevende vissen."
+ },
+ {
+  "id": "robo-20261114-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So deep-sea robots are brave explorers with lights, ears and arms! If you could send a robot to the bottom of the sea, what would you want it to find?"
+ },
+ {
+  "id": "robo-20261114-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les robots des grands fonds sont de courageux explorateurs avec des lampes, des oreilles et des bras ! Si tu pouvais envoyer un robot au fond de la mer, qu’aimerais-tu qu’il trouve ?"
+ },
+ {
+  "id": "robo-20261114-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus diepzeerobots zijn dappere ontdekkers met lampen, oren en armen! Als jij een robot naar de bodem van de zee kon sturen, wat zou je willen dat hij vindt?"
+ },
+ {
+  "id": "energy-20261114-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, the river near my house rushes so fast that it spun my toy boat around! Could all that water power my game console?"
+ },
+ {
+  "id": "energy-20261114-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, la rivière près de chez moi coule si vite qu’elle a fait tourner mon bateau jouet ! Toute cette eau pourrait-elle faire marcher ma console de jeux ?"
+ },
+ {
+  "id": "energy-20261114-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, de rivier bij mijn huis stroomt zo snel dat mijn speelgoedbootje rondjes draaide! Kan al dat water mijn spelcomputer laten werken?"
+ },
+ {
+  "id": "energy-20261114-en-2",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "It can! A dam is a giant wall that turns a river into a big lake and all that high water is full of stored energy, like you at the top of a slide."
+ },
+ {
+  "id": "energy-20261114-fr-2",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Oui ! Un barrage est un mur géant qui transforme une rivière en grand lac, et toute cette eau en hauteur est pleine d’énergie en réserve, comme toi en haut d’un toboggan."
+ },
+ {
+  "id": "energy-20261114-nl-2",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Zeker! Een stuwdam is een reuzenmuur die van een rivier een groot meer maakt en al dat hoge water zit vol opgeslagen energie, net als jij bovenaan een glijbaan."
+ },
+ {
+  "id": "energy-20261114-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "When the gates open, water rushes down a big pipe and spins a turbine, a giant wheel with blades. The turbine turns a generator, which makes electricity."
+ },
+ {
+  "id": "energy-20261114-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Quand les vannes s’ouvrent, l’eau dévale un gros tuyau et fait tourner une turbine, une roue géante à pales. La turbine fait tourner un générateur, qui fabrique l’électricité."
+ },
+ {
+  "id": "energy-20261114-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Als de kleppen opengaan, stroomt het water door een dikke buis naar beneden en laat het een turbine draaien, een reuzenwiel met schoepen. De turbine draait een generator en die maakt elektriciteit."
+ },
+ {
+  "id": "energy-20261114-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So if I spin really fast on the playground merry-go-round, can I light up the whole school?"
+ },
+ {
+  "id": "energy-20261114-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Alors si je tourne super vite sur le tourniquet de la cour, je peux allumer toute l’école ?"
+ },
+ {
+  "id": "energy-20261114-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus als ik superhard ronddraai op de draaimolen van het speelplein, kan ik dan de hele school verlichten?"
+ },
+ {
+  "id": "energy-20261114-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Ha, you’d get dizzy long before that! Did you know people used water wheels more than 2,000 years ago to grind grain into flour for bread?"
+ },
+ {
+  "id": "energy-20261114-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Ha, tu aurais la tête qui tourne bien avant ! Savais-tu qu’il y a plus de 2000 ans, on utilisait déjà des roues à eau pour moudre le grain et faire de la farine ?"
+ },
+ {
+  "id": "energy-20261114-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Haha, je zou al lang duizelig zijn! Wist je dat mensen meer dan 2000 jaar geleden al waterraderen gebruikten om graan tot meel te malen?"
+ },
+ {
+  "id": "energy-20261114-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So falling water spins turbines and the rain fills the lake up again, like a slide that never ends! If you could build your own water machine, what would it do?"
+ },
+ {
+  "id": "energy-20261114-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc l’eau qui tombe fait tourner les turbines et la pluie remplit à nouveau le lac, comme un toboggan sans fin ! Si tu pouvais construire ta propre machine à eau, que ferait-elle ?"
+ },
+ {
+  "id": "energy-20261114-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus vallend water laat turbines draaien en de regen vult het meer weer aan, net een glijbaan die nooit stopt! Als jij je eigen watermachine kon bouwen, wat zou die dan doen?"
  }
 ]

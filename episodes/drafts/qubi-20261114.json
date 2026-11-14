@@ -1,0 +1,247 @@
+{
+ "id": "qubi-20261114",
+ "world": "qubi",
+ "guide": "Qubi",
+ "title": {
+  "en": "Can two particles be magic twins?",
+  "fr": "Deux particules peuvent-elles être des jumelles magiques ?",
+  "nl": "Kunnen twee deeltjes magische tweelingen zijn?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, I always lose one sock of every pair! Is there anything in the world that always stays connected to its partner?",
+   "fr": "Qubi, je perds toujours une chaussette de chaque paire ! Est-ce qu’il existe quelque chose qui reste toujours lié à son partenaire ?",
+   "nl": "Qubi, ik verlies altijd één sok van elk paar! Bestaat er iets dat altijd verbonden blijft met zijn partner?",
+   "img": "Whyzz holds up one lonely sock next to a basket of odd socks"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Yes, in the tiny quantum world! Two particles of light can be linked as a pair and scientists call this entanglement.",
+   "fr": "Oui, dans le minuscule monde quantique ! Deux grains de lumière peuvent être liés en paire : les scientifiques appellent ça l’intrication.",
+   "nl": "Ja, in de piepkleine kwantumwereld! Twee lichtdeeltjes kunnen als paar verbonden zijn en wetenschappers noemen dat verstrengeling.",
+   "img": "Two glowing light particles joined by a sparkly ribbon between Qubi's hands"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Imagine magic twin socks: one stays here and the other flies to the Moon. If you peek and yours is red, you know right away that the Moon sock is blue!",
+   "fr": "Imagine des chaussettes jumelles magiques : l’une reste ici, l’autre part sur la Lune. Si tu regardes et que la tienne est rouge, tu sais tout de suite que celle de la Lune est bleue !",
+   "nl": "Stel je magische tweelingsokken voor: de ene blijft hier, de andere vliegt naar de maan. Kijk je en is die van jou rood, dan weet je meteen dat de maansok blauw is!",
+   "img": "A box with a red sock on Earth, a rocket carries a box with a blue sock to the Moon"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Wow, then I can send secret sock messages to the Moon! Hello, aliens, please send back all my missing socks!",
+   "fr": "Waouh, alors je peux envoyer des messages secrets en chaussette à la Lune ! Allô les extraterrestres, rendez-moi toutes mes chaussettes perdues !",
+   "nl": "Wauw, dan kan ik geheime sokkenberichten naar de maan sturen! Hallo, aliens, stuur al mijn verloren sokken terug!",
+   "img": "Whyzz on a rooftop talks into a sock like a phone, a little alien waves from the Moon"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Ha, sadly it can’t carry messages. Did you know that before anyone looks, neither particle has picked its color yet, but they still always end up as a perfect pair?",
+   "fr": "Ha, hélas, ça ne transporte pas de messages. Savais-tu qu’avant qu’on regarde, aucune des deux particules n’a encore choisi sa couleur, mais qu’elles finissent quand même toujours en paire parfaite ?",
+   "nl": "Haha, helaas kan het geen berichten versturen. Wist je dat geen van beide deeltjes al een kleur heeft gekozen voordat iemand kijkt, en dat ze toch altijd een perfect paar vormen?",
+   "img": "Two shimmering rainbow particles on two far hills joined by a faint glowing thread"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So entangled particles stay a team even when they’re far apart and scientists use them for super-secret codes! If you could have a magic twin of anything, what would you pick?",
+   "fr": "Donc les particules intriquées restent une équipe, même très loin l’une de l’autre, et les scientifiques s’en servent pour des codes super secrets ! Si tu pouvais avoir un jumeau magique de n’importe quoi, tu choisirais quoi ?",
+   "nl": "Dus verstrengelde deeltjes blijven een team, zelfs heel ver uit elkaar, en wetenschappers gebruiken ze voor supergeheime codes! Als jij van iets een magische tweeling kon hebben, wat zou je kiezen?",
+   "img": "Whyzz and Qubi in matching socks high five under two dancing particles"
+  }
+ ],
+ "prompts": [
+  "In a messy colorful bedroom Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds up one single striped sock with a sad funny face next to an overflowing laundry basket full of mismatched socks, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge laughs beside him. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a glowing futuristic quantum lab Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge holds his hands apart and between them two small glowing particles of light float side by side, joined by a shimmering sparkly ribbon, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with wide amazed eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a table on Earth an open gift box shows a bright red sock peeking out, while a small cartoon rocket flies a second gift box with a blue sock peeking out toward a big friendly glowing Moon in the starry sky, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge points at the rocket, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge gasps in surprise. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a cozy rooftop at night Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds a striped sock up to his ear like a phone and shouts happily toward a huge full Moon, where a tiny cute green alien waves back holding a bundle of colorful socks, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge giggles behind him. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Two shimmering glowing particles swirling with rainbow colors sit on top of two faraway green hills, linked across the valley by a faint glowing golden thread, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge explains with a raised finger, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge scratches his head in wonder, magical twilight sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge both wearing bright matching rainbow socks give each other a big high five in a glowing quantum lab while two little sparkling particles dance in a circle above their heads. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What do scientists call two particles linked as a pair?",
+    "fr": "Comment les scientifiques appellent-ils deux particules liées en paire ?",
+    "nl": "Hoe noemen wetenschappers twee deeltjes die als paar verbonden zijn?"
+   },
+   "o": {
+    "en": [
+     "Gravity",
+     "Entanglement",
+     "Magnetism"
+    ],
+    "fr": [
+     "La gravité",
+     "L’intrication",
+     "Le magnétisme"
+    ],
+    "nl": [
+     "Zwaartekracht",
+     "Verstrengeling",
+     "Magnetisme"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "In the story, where does the second magic sock go?",
+    "fr": "Dans l’histoire, où part la deuxième chaussette magique ?",
+    "nl": "Waar gaat de tweede magische sok naartoe in het verhaal?"
+   },
+   "o": {
+    "en": [
+     "To the Moon",
+     "To the bakery",
+     "Under the bed"
+    ],
+    "fr": [
+     "Sur la Lune",
+     "À la boulangerie",
+     "Sous le lit"
+    ],
+    "nl": [
+     "Naar de maan",
+     "Naar de bakker",
+     "Onder het bed"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "If your sock is red, what color is the Moon sock?",
+    "fr": "Si ta chaussette est rouge, de quelle couleur est celle de la Lune ?",
+    "nl": "Als jouw sok rood is, welke kleur heeft de maansok dan?"
+   },
+   "o": {
+    "en": [
+     "Also red",
+     "Green",
+     "Blue"
+    ],
+    "fr": [
+     "Rouge aussi",
+     "Verte",
+     "Bleue"
+    ],
+    "nl": [
+     "Ook rood",
+     "Groen",
+     "Blauw"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Can entangled particles carry messages?",
+    "fr": "Les particules intriquées peuvent-elles transporter des messages ?",
+    "nl": "Kunnen verstrengelde deeltjes berichten versturen?"
+   },
+   "o": {
+    "en": [
+     "Yes, super fast",
+     "No, they can’t",
+     "Only on Sundays"
+    ],
+    "fr": [
+     "Oui, super vite",
+     "Non, elles ne peuvent pas",
+     "Seulement le dimanche"
+    ],
+    "nl": [
+     "Ja, supersnel",
+     "Nee, dat kan niet",
+     "Alleen op zondag"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What do scientists use entangled particles for?",
+    "fr": "À quoi les scientifiques utilisent-ils les particules intriquées ?",
+    "nl": "Waarvoor gebruiken wetenschappers verstrengelde deeltjes?"
+   },
+   "o": {
+    "en": [
+     "Super-secret codes",
+     "Washing socks",
+     "Baking bread"
+    ],
+    "fr": [
+     "Des codes super secrets",
+     "Laver les chaussettes",
+     "Faire du pain"
+    ],
+    "nl": [
+     "Supergeheime codes",
+     "Sokken wassen",
+     "Brood bakken"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Twin sock pairs",
+   "fr": "Les paires de chaussettes jumelles",
+   "nl": "Tweelingsokken-paren"
+  },
+  "intro": {
+   "en": "Match each sock on the left with its twin on the right!",
+   "fr": "Relie chaque chaussette de gauche à sa jumelle de droite !",
+   "nl": "Koppel elke sok links aan zijn tweeling rechts!"
+  },
+  "done": {
+   "en": "Perfect pairs! You’re a quantum twin expert.",
+   "fr": "Paires parfaites ! Te voilà expert des jumeaux quantiques.",
+   "nl": "Perfecte paren! Jij bent nu een kwantumtweeling-expert."
+  },
+  "left": {
+   "en": [
+    "Entanglement",
+    "Your sock is red",
+    "Before anyone looks",
+    "Entangled particles"
+   ],
+   "fr": [
+    "L’intrication",
+    "Ta chaussette est rouge",
+    "Avant qu’on regarde",
+    "Les particules intriquées"
+   ],
+   "nl": [
+    "Verstrengeling",
+    "Jouw sok is rood",
+    "Voordat iemand kijkt",
+    "Verstrengelde deeltjes"
+   ]
+  },
+  "right": {
+   "en": [
+    "Two particles linked as a pair",
+    "So the Moon sock is blue",
+    "No color is picked yet",
+    "Help make super-secret codes"
+   ],
+   "fr": [
+    "Deux particules liées en paire",
+    "Donc celle de la Lune est bleue",
+    "Aucune couleur n’est encore choisie",
+    "Aident à faire des codes super secrets"
+   ],
+   "nl": [
+    "Twee deeltjes die als paar verbonden zijn",
+    "Dus de maansok is blauw",
+    "Er is nog geen kleur gekozen",
+    "Helpen supergeheime codes maken"
+   ]
+  }
+ }
+}

@@ -1,0 +1,233 @@
+{
+ "id": "bloom-20261114",
+ "world": "bloom",
+ "guide": "Bloom",
+ "title": {
+  "en": "How does a vaccine train your body?",
+  "fr": "Comment un vaccin entraîne-t-il ton corps ?",
+  "nl": "Hoe traint een vaccin je lichaam?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Bloom, at school we had a fire drill and everyone practiced getting out calmly. Can my body practice for things too?",
+   "fr": "Bloom, à l’école, on a fait un exercice d’incendie et tout le monde s’est entraîné à sortir calmement. Est-ce que mon corps peut s’entraîner aussi ?",
+   "nl": "Bloom, op school hadden we een brandoefening en iedereen oefende om rustig naar buiten te gaan. Kan mijn lichaam ook oefenen?",
+   "img": "Whyzz and classmates walk calmly in a schoolyard fire drill"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Yes, with a vaccine! It shows your body a harmless version or a tiny piece of a germ, so your defenders can practice without you getting really sick.",
+   "fr": "Oui, grâce à un vaccin ! Il montre à ton corps une version inoffensive ou un petit morceau d’un microbe, pour que tes défenseurs s’entraînent sans que tu tombes vraiment malade.",
+   "nl": "Ja, met een vaccin! Dat laat je lichaam een onschuldige versie of een stukje van een ziekteverwekker zien, zodat je verdedigers kunnen oefenen zonder dat je echt ziek wordt.",
+   "img": "Bloom holds a jar with a sleepy harmless cartoon germ, tiny white helpers study it"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Defenders? So I have tiny knights in my blood, riding around with shields and swords?",
+   "fr": "Des défenseurs ? Alors j’ai des mini-chevaliers dans le sang, qui se promènent avec des boucliers et des épées ?",
+   "nl": "Verdedigers? Dus ik heb piepkleine ridders in mijn bloed, die rondrijden met schilden en zwaarden?",
+   "img": "Whyzz imagines tiny knights riding red blood cells, Bloom laughs"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Ha, almost! White blood cells learn the germ’s shape and make antibodies, little catchers that grab it, then they remember it and are ready super fast next time.",
+   "fr": "Ha, presque ! Les globules blancs apprennent la forme du microbe et fabriquent des anticorps, de petits attrapeurs qui l’agrippent, puis ils s’en souviennent et sont prêts en un éclair la fois suivante.",
+   "nl": "Haha, bijna! Witte bloedcellen leren de vorm van de ziekteverwekker en maken antistoffen, kleine vangers die hem grijpen, en daarna onthouden ze hem en zijn ze de volgende keer bliksemsnel klaar.",
+   "img": "Friendly white blood cells toss Y-shaped catchers at a grumpy germ"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Did you know the word vaccine comes from vacca, the Latin word for cow? The very first vaccine, over 200 years ago, used a mild cow illness to protect people.",
+   "fr": "Savais-tu que le mot vaccin vient de vacca, qui veut dire vache en latin ? Le tout premier vaccin, il y a plus de 200 ans, utilisait une maladie légère des vaches pour protéger les gens.",
+   "nl": "Wist je dat het woord vaccin komt van vacca, het Latijnse woord voor koe? Het allereerste vaccin, meer dan 200 jaar geleden, gebruikte een milde koeienziekte om mensen te beschermen.",
+   "img": "Bloom pets a smiling cow in an old countryside meadow, Whyzz laughs"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a vaccine is a fire drill for my body and my defenders remember the plan! If your body had a team of tiny helpers, what would you name them?",
+   "fr": "Donc un vaccin, c’est un exercice d’incendie pour mon corps et mes défenseurs retiennent le plan ! Si ton corps avait une équipe de mini-aides, comment tu l’appellerais ?",
+   "nl": "Dus een vaccin is een brandoefening voor mijn lichaam en mijn verdedigers onthouden het plan! Als jouw lichaam een team piepkleine helpers had, hoe zou jij ze noemen?",
+   "img": "Whyzz and Bloom cheer with a team of cute white blood cell helpers"
+  }
+ ],
+ "prompts": [
+  "In a sunny schoolyard Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge walks calmly in a neat line of smiling classmates practicing a fire drill, a shiny red fire bell on the brick school wall, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge walks beside him and gives a thumbs up. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge holds up a big glass jar with a cute harmless sleepy green cartoon germ inside wearing a little nightcap, a group of tiny round friendly white blob helpers with big eyes study it with little magnifying glasses, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans in curiously, bright science lab. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge grins with a big fluffy thought cloud above his head showing tiny cartoon knights with shields riding on round red blood cells like rafts down a pink river, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge laughs with his hand over his mouth, bright science lab. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Inside a bright cartoon tunnel full of round red discs floating by, cute friendly round white blob helpers with big eyes toss little glowing Y-shaped catchers at a grumpy green cartoon germ, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watch from inside a clear bubble submarine, wonder on their faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a sunny old-fashioned countryside meadow next to an old wooden farmhouse, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge happily pets a friendly smiling cartoon cow, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs as the cow licks his cap. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright green park Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge cheer with their arms up together with a team of tiny cute round white blob helpers with big eyes who give thumbs up, colorful confetti in the air. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What is a vaccine like for your body?",
+    "fr": "À quoi ressemble un vaccin pour ton corps ?",
+    "nl": "Waarop lijkt een vaccin voor je lichaam?"
+   },
+   "o": {
+    "en": [
+     "A long nap",
+     "A fire drill",
+     "A birthday party"
+    ],
+    "fr": [
+     "Une longue sieste",
+     "Un exercice d’incendie",
+     "Une fête d’anniversaire"
+    ],
+    "nl": [
+     "Een lang dutje",
+     "Een brandoefening",
+     "Een verjaardagsfeest"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does a vaccine show your body?",
+    "fr": "Qu’est-ce qu’un vaccin montre à ton corps ?",
+    "nl": "Wat laat een vaccin je lichaam zien?"
+   },
+   "o": {
+    "en": [
+     "A harmless version or piece of a germ",
+     "A funny cartoon",
+     "A map of your house"
+    ],
+    "fr": [
+     "Une version inoffensive ou un morceau de microbe",
+     "Un dessin animé rigolo",
+     "Un plan de ta maison"
+    ],
+    "nl": [
+     "Een onschuldige versie of een stukje van een ziekteverwekker",
+     "Een grappige tekenfilm",
+     "Een plattegrond van je huis"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What do white blood cells make to grab germs?",
+    "fr": "Que fabriquent les globules blancs pour attraper les microbes ?",
+    "nl": "Wat maken witte bloedcellen om ziekteverwekkers te grijpen?"
+   },
+   "o": {
+    "en": [
+     "Bubbles",
+     "Sugar",
+     "Antibodies"
+    ],
+    "fr": [
+     "Des bulles",
+     "Du sucre",
+     "Des anticorps"
+    ],
+    "nl": [
+     "Bubbels",
+     "Suiker",
+     "Antistoffen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Why are your defenders faster the next time?",
+    "fr": "Pourquoi tes défenseurs sont-ils plus rapides la fois suivante ?",
+    "nl": "Waarom zijn je verdedigers de volgende keer sneller?"
+   },
+   "o": {
+    "en": [
+     "They grow wings",
+     "They remember the germ",
+     "They drink juice"
+    ],
+    "fr": [
+     "Ils ont des ailes qui poussent",
+     "Ils se souviennent du microbe",
+     "Ils boivent du jus"
+    ],
+    "nl": [
+     "Ze krijgen vleugels",
+     "Ze onthouden de ziekteverwekker",
+     "Ze drinken sap"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does vacca mean in Latin?",
+    "fr": "Que veut dire vacca en latin ?",
+    "nl": "Wat betekent vacca in het Latijn?"
+   },
+   "o": {
+    "en": [
+     "Horse",
+     "Cat",
+     "Cow"
+    ],
+    "fr": [
+     "Cheval",
+     "Chat",
+     "Vache"
+    ],
+    "nl": [
+     "Paard",
+     "Kat",
+     "Koe"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "Body training camp",
+   "fr": "Le camp d’entraînement du corps",
+   "nl": "Trainingskamp van je lichaam"
+  },
+  "intro": {
+   "en": "How does a vaccine help your body? Put the steps in the right order!",
+   "fr": "Comment un vaccin aide-t-il ton corps ? Remets les étapes dans le bon ordre !",
+   "nl": "Hoe helpt een vaccin je lichaam? Zet de stappen in de juiste volgorde!"
+  },
+  "done": {
+   "en": "Training complete! Your body’s defenders are ready.",
+   "fr": "Entraînement terminé ! Les défenseurs de ton corps sont prêts.",
+   "nl": "Training voltooid! De verdedigers van je lichaam zijn klaar."
+  },
+  "items": {
+   "en": [
+    "A nurse gives you the vaccine",
+    "Your body sees a harmless piece of a germ",
+    "White blood cells learn its shape",
+    "They make antibodies to catch it",
+    "Your body remembers the germ",
+    "If the real germ comes, your defenders are ready fast"
+   ],
+   "fr": [
+    "Un infirmier te donne le vaccin",
+    "Ton corps voit un morceau inoffensif de microbe",
+    "Les globules blancs apprennent sa forme",
+    "Ils fabriquent des anticorps pour l’attraper",
+    "Ton corps se souvient du microbe",
+    "Si le vrai microbe arrive, tes défenseurs sont vite prêts"
+   ],
+   "nl": [
+    "Een verpleegkundige geeft je het vaccin",
+    "Je lichaam ziet een onschuldig stukje van een ziekteverwekker",
+    "Witte bloedcellen leren de vorm ervan",
+    "Ze maken antistoffen om hem te vangen",
+    "Je lichaam onthoudt de ziekteverwekker",
+    "Komt de echte ziekteverwekker, dan zijn je verdedigers snel klaar"
+   ]
+  }
+ }
+}

@@ -1,0 +1,242 @@
+{
+ "id": "pixel-20261114",
+ "world": "pixel",
+ "guide": "Pixel",
+ "title": {
+  "en": "Why should your password stay a secret?",
+  "fr": "Pourquoi ton mot de passe doit-il rester secret ?",
+  "nl": "Waarom moet je wachtwoord geheim blijven?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, my tablet keeps asking for a password. Why can’t I just use my name so I never forget it?",
+   "fr": "Pixel, ma tablette me demande tout le temps un mot de passe. Pourquoi je ne peux pas juste mettre mon prénom pour ne jamais l’oublier ?",
+   "nl": "Pixel, mijn tablet vraagt steeds om een wachtwoord. Waarom kan ik niet gewoon mijn naam gebruiken, zodat ik het nooit vergeet?",
+   "img": "Whyzz on a beanbag with a tablet showing a padlock, puzzled"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "A password is like the key to your secret clubhouse. If it’s your name, anyone who knows you could guess it and walk right in!",
+   "fr": "Un mot de passe, c’est comme la clé de ta cabane secrète. Si c’est ton prénom, tous ceux qui te connaissent peuvent le deviner et entrer !",
+   "nl": "Een wachtwoord is als de sleutel van je geheime clubhuis. Is het je naam, dan kan iedereen die je kent het raden en zo naar binnen wandelen!",
+   "img": "Pixel holds a golden key in front of a treehouse clubhouse"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Then I’ll pick the best password ever: password! Nobody would ever think of that, right?",
+   "fr": "Alors je vais choisir le meilleur mot de passe du monde : motdepasse ! Personne n’y penserait jamais, hein ?",
+   "nl": "Dan kies ik het beste wachtwoord ooit: wachtwoord! Daar komt toch niemand op?",
+   "img": "Whyzz in a proud hero pose, Pixel laughs with a hand on her forehead"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, that’s one of the very first ones people try! Did you know a computer can test millions of passwords every second, so short, easy ones are found super fast?",
+   "fr": "Ha, c’est un des tout premiers qu’on essaie ! Savais-tu qu’un ordinateur peut tester des millions de mots de passe par seconde, si bien que les plus courts et faciles sont vite trouvés ?",
+   "nl": "Haha, dat is er juist een die mensen als eerste proberen! Wist je dat een computer miljoenen wachtwoorden per seconde kan testen, zodat korte, makkelijke wachtwoorden supersnel gevonden worden?",
+   "img": "A cartoon computer with many arms tries a huge ring of keys on a door"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "A strong password is long and silly, like three random words: purple pancake rocket. Keep it secret and only share it with a grown-up you trust.",
+   "fr": "Un mot de passe solide est long et rigolo, comme trois mots au hasard : crêpe violette fusée. Garde-le secret et ne le partage qu’avec un adulte de confiance.",
+   "nl": "Een sterk wachtwoord is lang en gek, zoals drie willekeurige woorden: paarse pannenkoek raket. Houd het geheim en deel het alleen met een volwassene die je vertrouwt.",
+   "img": "Pixel juggles a purple paint splash, pancakes and a toy rocket"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a long, silly secret keeps my clubhouse safe! Which three funny words would make the silliest password you can imagine?",
+   "fr": "Donc un secret long et rigolo protège ma cabane ! Quels trois mots drôles choisirais-tu pour le mot de passe le plus farfelu possible ?",
+   "nl": "Dus een lang en gek geheim houdt mijn clubhuis veilig! Welke drie grappige woorden zou jij kiezen voor het gekste wachtwoord ooit?",
+   "img": "Whyzz and Pixel high five in front of the safe clubhouse at sunset"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits on a big orange beanbag in a cozy bedroom holding a tablet whose screen shows only a big glowing padlock symbol, scratching his head with a puzzled face, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge leans over his shoulder with a friendly smile. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge proudly holds up a big shiny golden key in front of a colorful wooden treehouse clubhouse with a round door and a big keyhole, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks up at the treehouse with an excited grin, sunny garden. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy bedroom Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands in a proud superhero pose with his hands on his hips, chin up and a smug grin, while Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs with one hand on her forehead and shakes her head playfully. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A friendly cartoon computer with a smiling face on its screen and many little robot arms tries a huge jangling ring of keys very fast on a giant wooden door, with motion blur, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points at it, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with wide eyes and an open mouth. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge happily juggles three floating funny objects, a swirl of purple paint, a tall stack of fluffy pancakes and a small toy rocket, glowing sparkles link them together like a chain, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs and claps, bright playroom. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge give each other a big high five in front of a colorful wooden treehouse clubhouse with its round door shut and a soft glowing protective bubble around it, warm golden sunset. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What is a password like?",
+    "fr": "À quoi ressemble un mot de passe ?",
+    "nl": "Waarop lijkt een wachtwoord?"
+   },
+   "o": {
+    "en": [
+     "The key to a secret clubhouse",
+     "A song you sing",
+     "A snack for your tablet"
+    ],
+    "fr": [
+     "La clé d’une cabane secrète",
+     "Une chanson à chanter",
+     "Un goûter pour ta tablette"
+    ],
+    "nl": [
+     "De sleutel van een geheim clubhuis",
+     "Een liedje dat je zingt",
+     "Een snoepje voor je tablet"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why is your name a bad password?",
+    "fr": "Pourquoi ton prénom est-il un mauvais mot de passe ?",
+    "nl": "Waarom is je naam een slecht wachtwoord?"
+   },
+   "o": {
+    "en": [
+     "It is far too long",
+     "People who know you could guess it",
+     "Computers can’t read names"
+    ],
+    "fr": [
+     "Il est beaucoup trop long",
+     "Les gens qui te connaissent peuvent le deviner",
+     "Les ordinateurs ne savent pas lire les prénoms"
+    ],
+    "nl": [
+     "Hij is veel te lang",
+     "Mensen die je kennen kunnen hem raden",
+     "Computers kunnen geen namen lezen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How many passwords can a computer test in one second?",
+    "fr": "Combien de mots de passe un ordinateur peut-il tester en une seconde ?",
+    "nl": "Hoeveel wachtwoorden kan een computer in één seconde testen?"
+   },
+   "o": {
+    "en": [
+     "About ten",
+     "Exactly one",
+     "Millions"
+    ],
+    "fr": [
+     "Une dizaine",
+     "Un seul",
+     "Des millions"
+    ],
+    "nl": [
+     "Ongeveer tien",
+     "Precies één",
+     "Miljoenen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Which idea makes a strong password?",
+    "fr": "Quelle idée donne un mot de passe solide ?",
+    "nl": "Welk idee maakt een sterk wachtwoord?"
+   },
+   "o": {
+    "en": [
+     "Your birthday",
+     "Three random words",
+     "The word password"
+    ],
+    "fr": [
+     "Ta date d’anniversaire",
+     "Trois mots au hasard",
+     "Le mot motdepasse"
+    ],
+    "nl": [
+     "Je verjaardag",
+     "Drie willekeurige woorden",
+     "Het woord wachtwoord"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Who can you share your password with?",
+    "fr": "Avec qui peux-tu partager ton mot de passe ?",
+    "nl": "Met wie mag je je wachtwoord delen?"
+   },
+   "o": {
+    "en": [
+     "A grown-up you trust",
+     "Anyone who asks nicely",
+     "A new friend in a game"
+    ],
+    "fr": [
+     "Un adulte de confiance",
+     "Toute personne qui demande gentiment",
+     "Un nouvel ami dans un jeu"
+    ],
+    "nl": [
+     "Een volwassene die je vertrouwt",
+     "Iedereen die het lief vraagt",
+     "Een nieuwe vriend in een spel"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Password power-up",
+   "fr": "Mot de passe en béton",
+   "nl": "Supersterk wachtwoord"
+  },
+  "intro": {
+   "en": "Which ideas make a password strong and safe? Pick all the right ones!",
+   "fr": "Quelles idées rendent un mot de passe solide et sûr ? Choisis toutes les bonnes réponses !",
+   "nl": "Welke ideeën maken een wachtwoord sterk en veilig? Kies alle juiste!"
+  },
+  "done": {
+   "en": "Locked and safe! Your clubhouse is protected.",
+   "fr": "Bien verrouillé ! Ta cabane est protégée.",
+   "nl": "Op slot en veilig! Je clubhuis is beschermd."
+  },
+  "items": {
+   "en": [
+    "Make it long",
+    "Use your own name",
+    "Use three random words",
+    "Tell it to your whole class",
+    "Keep it secret",
+    "Use the word password",
+    "Share it only with a grown-up you trust"
+   ],
+   "fr": [
+    "Le faire long",
+    "Mettre ton prénom",
+    "Prendre trois mots au hasard",
+    "Le dire à toute ta classe",
+    "Le garder secret",
+    "Utiliser le mot motdepasse",
+    "Le partager seulement avec un adulte de confiance"
+   ],
+   "nl": [
+    "Maak het lang",
+    "Gebruik je eigen naam",
+    "Gebruik drie willekeurige woorden",
+    "Vertel het aan je hele klas",
+    "Houd het geheim",
+    "Gebruik het woord wachtwoord",
+    "Deel het alleen met een volwassene die je vertrouwt"
+   ]
+  },
+  "good": [
+   0,
+   2,
+   4,
+   6
+  ]
+ }
+}

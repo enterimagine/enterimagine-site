@@ -1,0 +1,233 @@
+{
+ "id": "energy-20261114",
+ "world": "energy",
+ "guide": "Sunny",
+ "title": {
+  "en": "How can water make electricity?",
+  "fr": "Comment l’eau peut-elle fabriquer de l’électricité ?",
+  "nl": "Hoe kan water elektriciteit maken?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, the river near my house rushes so fast that it spun my toy boat around! Could all that water power my game console?",
+   "fr": "Sunny, la rivière près de chez moi coule si vite qu’elle a fait tourner mon bateau jouet ! Toute cette eau pourrait-elle faire marcher ma console de jeux ?",
+   "nl": "Sunny, de rivier bij mijn huis stroomt zo snel dat mijn speelgoedbootje rondjes draaide! Kan al dat water mijn spelcomputer laten werken?",
+   "img": "Whyzz at a rushing river with a spinning toy boat"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "It can! A dam is a giant wall that turns a river into a big lake and all that high water is full of stored energy, like you at the top of a slide.",
+   "fr": "Oui ! Un barrage est un mur géant qui transforme une rivière en grand lac, et toute cette eau en hauteur est pleine d’énergie en réserve, comme toi en haut d’un toboggan.",
+   "nl": "Zeker! Een stuwdam is een reuzenmuur die van een rivier een groot meer maakt en al dat hoge water zit vol opgeslagen energie, net als jij bovenaan een glijbaan.",
+   "img": "Sunny shows a big dam holding back a mountain lake"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "When the gates open, water rushes down a big pipe and spins a turbine, a giant wheel with blades. The turbine turns a generator, which makes electricity.",
+   "fr": "Quand les vannes s’ouvrent, l’eau dévale un gros tuyau et fait tourner une turbine, une roue géante à pales. La turbine fait tourner un générateur, qui fabrique l’électricité.",
+   "nl": "Als de kleppen opengaan, stroomt het water door een dikke buis naar beneden en laat het een turbine draaien, een reuzenwiel met schoepen. De turbine draait een generator en die maakt elektriciteit.",
+   "img": "Inside the dam water spins a giant turbine, sparks flow along a cable"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So if I spin really fast on the playground merry-go-round, can I light up the whole school?",
+   "fr": "Alors si je tourne super vite sur le tourniquet de la cour, je peux allumer toute l’école ?",
+   "nl": "Dus als ik superhard ronddraai op de draaimolen van het speelplein, kan ik dan de hele school verlichten?",
+   "img": "Whyzz spins dizzy on a merry-go-round, Sunny laughs"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Ha, you’d get dizzy long before that! Did you know people used water wheels more than 2,000 years ago to grind grain into flour for bread?",
+   "fr": "Ha, tu aurais la tête qui tourne bien avant ! Savais-tu qu’il y a plus de 2000 ans, on utilisait déjà des roues à eau pour moudre le grain et faire de la farine ?",
+   "nl": "Haha, je zou al lang duizelig zijn! Wist je dat mensen meer dan 2000 jaar geleden al waterraderen gebruikten om graan tot meel te malen?",
+   "img": "An old wooden water wheel turns beside a stone mill"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So falling water spins turbines and the rain fills the lake up again, like a slide that never ends! If you could build your own water machine, what would it do?",
+   "fr": "Donc l’eau qui tombe fait tourner les turbines et la pluie remplit à nouveau le lac, comme un toboggan sans fin ! Si tu pouvais construire ta propre machine à eau, que ferait-elle ?",
+   "nl": "Dus vallend water laat turbines draaien en de regen vult het meer weer aan, net een glijbaan die nooit stopt! Als jij je eigen watermachine kon bouwen, wat zou die dan doen?",
+   "img": "Whyzz and Sunny high five on the dam above a glowing town at sunset"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge kneels on the grassy bank of a sunny rushing river and laughs as his small red toy sailboat spins around in the fast splashing water, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands beside him with her hands on her hips and a big smile. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "From a sunny mountain viewpoint Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge points at a huge curved concrete dam holding back a sparkling blue mountain lake, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks at it with wide amazed eyes, green hills and a little river below the dam. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Cartoon cutaway view inside a dam: bright blue water rushes down a big pipe and spins a giant shiny turbine wheel with curved blades, glowing yellow sparks travel along a thick cable, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge explains with a raised hand, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with an open mouth. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a colorful playground Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge spins super fast on a merry-go-round with funny dizzy swirls around his head and his cap flying, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge laughs next to it. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a sunny old village by a sparkling stream a big wooden water wheel turns beside a stone mill with sacks of flour at the door, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watch the wheel splash happily. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "At golden sunset Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge give each other a big high five on top of a huge dam, gentle rain clouds over the mountains behind the lake and the warm lights of a small town glowing in the valley below. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What is a dam?",
+    "fr": "Qu’est-ce qu’un barrage ?",
+    "nl": "Wat is een stuwdam?"
+   },
+   "o": {
+    "en": [
+     "A kind of fish",
+     "A giant wall that holds back a river",
+     "A floating boat"
+    ],
+    "fr": [
+     "Une sorte de poisson",
+     "Un mur géant qui retient une rivière",
+     "Un bateau qui flotte"
+    ],
+    "nl": [
+     "Een soort vis",
+     "Een reuzenmuur die een rivier tegenhoudt",
+     "Een drijvende boot"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does the rushing water spin?",
+    "fr": "Que fait tourner l’eau qui dévale ?",
+    "nl": "Wat laat het stromende water draaien?"
+   },
+   "o": {
+    "en": [
+     "A turbine",
+     "A pizza",
+     "A cloud"
+    ],
+    "fr": [
+     "Une turbine",
+     "Une pizza",
+     "Un nuage"
+    ],
+    "nl": [
+     "Een turbine",
+     "Een pizza",
+     "Een wolk"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Which part makes the electricity?",
+    "fr": "Quelle pièce fabrique l’électricité ?",
+    "nl": "Welk onderdeel maakt de elektriciteit?"
+   },
+   "o": {
+    "en": [
+     "The fish in the lake",
+     "The sand",
+     "The generator"
+    ],
+    "fr": [
+     "Les poissons du lac",
+     "Le sable",
+     "Le générateur"
+    ],
+    "nl": [
+     "De vissen in het meer",
+     "Het zand",
+     "De generator"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What were water wheels used for over 2,000 years ago?",
+    "fr": "À quoi servaient les roues à eau il y a plus de 2000 ans ?",
+    "nl": "Waarvoor gebruikte men meer dan 2000 jaar geleden waterraderen?"
+   },
+   "o": {
+    "en": [
+     "Charging phones",
+     "Grinding grain into flour",
+     "Watching TV"
+    ],
+    "fr": [
+     "À recharger les téléphones",
+     "À moudre le grain en farine",
+     "À regarder la télé"
+    ],
+    "nl": [
+     "Telefoons opladen",
+     "Graan tot meel malen",
+     "Televisie kijken"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What fills the lake up again?",
+    "fr": "Qu’est-ce qui remplit à nouveau le lac ?",
+    "nl": "Wat vult het meer weer aan?"
+   },
+   "o": {
+    "en": [
+     "Rain",
+     "Lemonade",
+     "Sand"
+    ],
+    "fr": [
+     "La pluie",
+     "La limonade",
+     "Le sable"
+    ],
+    "nl": [
+     "Regen",
+     "Limonade",
+     "Zand"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "From raindrop to lamp",
+   "fr": "De la goutte de pluie à la lampe",
+   "nl": "Van regendruppel tot lamp"
+  },
+  "intro": {
+   "en": "How does water become electricity? Put the steps in the right order!",
+   "fr": "Comment l’eau devient-elle de l’électricité ? Remets les étapes dans le bon ordre !",
+   "nl": "Hoe wordt water elektriciteit? Zet de stappen in de juiste volgorde!"
+  },
+  "done": {
+   "en": "Lights on! You followed the water all the way.",
+   "fr": "Lumière ! Tu as suivi l’eau jusqu’au bout.",
+   "nl": "Licht aan! Je hebt het water helemaal gevolgd."
+  },
+  "items": {
+   "en": [
+    "Rain falls into the river",
+    "The dam holds the water in a big lake",
+    "The gates open and water rushes down a pipe",
+    "The water spins the turbine",
+    "The generator makes electricity",
+    "Wires carry it to your home"
+   ],
+   "fr": [
+    "La pluie tombe dans la rivière",
+    "Le barrage retient l’eau dans un grand lac",
+    "Les vannes s’ouvrent et l’eau dévale un tuyau",
+    "L’eau fait tourner la turbine",
+    "Le générateur fabrique l’électricité",
+    "Des câbles l’amènent jusqu’à ta maison"
+   ],
+   "nl": [
+    "Regen valt in de rivier",
+    "De stuwdam houdt het water vast in een groot meer",
+    "De kleppen gaan open en het water stroomt door een buis",
+    "Het water laat de turbine draaien",
+    "De generator maakt elektriciteit",
+    "Kabels brengen het naar je huis"
+   ]
+  }
+ }
+}

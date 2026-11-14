@@ -1,0 +1,253 @@
+{
+ "id": "robo-20261114",
+ "world": "robo",
+ "guide": "Pixel",
+ "title": {
+  "en": "How do robots explore the deep sea?",
+  "fr": "Comment les robots explorent-ils les grands fonds marins ?",
+  "nl": "Hoe verkennen robots de diepzee?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, I can only dive to the bottom of the pool. Who explores the deepest, darkest parts of the ocean?",
+   "fr": "Pixel, moi, je ne peux plonger que jusqu’au fond de la piscine. Qui explore les endroits les plus profonds et les plus sombres de l’océan ?",
+   "nl": "Pixel, ik kan alleen naar de bodem van het zwembad duiken. Wie verkent de diepste, donkerste plekken van de oceaan?",
+   "img": "Whyzz in swim goggles at the edge of a pool, puzzled"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Underwater robots! Deep down, sunlight can’t reach and the water pushes very hard, so robots go where divers can’t.",
+   "fr": "Des robots sous-marins ! Tout au fond, la lumière du soleil n’arrive pas et l’eau appuie très fort, alors les robots vont là où les plongeurs ne peuvent pas aller.",
+   "nl": "Onderwaterrobots! Diep beneden komt er geen zonlicht en duwt het water heel hard, dus gaan robots waar duikers niet kunnen komen.",
+   "img": "A crane on a ship lowers a yellow underwater robot into the sea"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Do they wear tiny snorkels and flippers? I bet they look super cute!",
+   "fr": "Est-ce qu’ils portent des mini-tubas et des palmes ? Je parie qu’ils sont trop mignons !",
+   "nl": "Dragen ze piepkleine snorkels en zwemvliezen? Ik wed dat ze er superschattig uitzien!",
+   "img": "Whyzz imagines a little robot with a snorkel and pink flippers, Pixel laughs"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, no! They have propellers to swim, bright lights to see in the dark and sonar that sends out sounds and listens for echoes to map the seafloor.",
+   "fr": "Ha, non ! Ils ont des hélices pour nager, des lampes puissantes pour voir dans le noir et un sonar qui envoie des sons et écoute l’écho pour dessiner la carte du fond.",
+   "nl": "Haha, nee! Ze hebben schroeven om te zwemmen, felle lampen om in het donker te zien en sonar die geluid uitzendt en naar de echo luistert om de zeebodem in kaart te brengen.",
+   "img": "The robot shines its lights in the deep sea, sound rings spread to the seafloor"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know we have better maps of Mars than of our own ocean floor? With their arms, robots also pick up rocks and film amazing glowing fish down there.",
+   "fr": "Savais-tu qu’on a de meilleures cartes de Mars que du fond de nos océans ? Avec leur bras, les robots ramassent aussi des cailloux et filment d’incroyables poissons lumineux.",
+   "nl": "Wist je dat we betere kaarten van Mars hebben dan van onze eigen zeebodem? Met hun arm rapen robots ook stenen op en ze filmen er prachtige lichtgevende vissen.",
+   "img": "The robot arm picks up a rock among glowing fish and jellyfish"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So deep-sea robots are brave explorers with lights, ears and arms! If you could send a robot to the bottom of the sea, what would you want it to find?",
+   "fr": "Donc les robots des grands fonds sont de courageux explorateurs avec des lampes, des oreilles et des bras ! Si tu pouvais envoyer un robot au fond de la mer, qu’aimerais-tu qu’il trouve ?",
+   "nl": "Dus diepzeerobots zijn dappere ontdekkers met lampen, oren en armen! Als jij een robot naar de bodem van de zee kon sturen, wat zou je willen dat hij vindt?",
+   "img": "Whyzz and Pixel high five on a ship deck as the robot splashes up"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge wearing blue swim goggles on his forehead sits at the edge of a bright sunny swimming pool with his feet in the water and a puzzled face, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge sits next to him and points toward the big blue ocean visible beyond the pool fence. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On the deck of a friendly white research ship on a calm blue sea, a crane gently lowers a sleek round yellow underwater robot with small propellers, two bright headlights and a folded robot arm into the waves, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points at it excitedly, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans over the railing with wide eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a sunny ship deck Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge grins with a big fluffy thought cloud above his head showing a tiny cute robot wearing a snorkel, a diving mask and pink flippers, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs with her hands on her belly. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Deep in a dark blue ocean a sleek round yellow underwater robot with small propellers, two bright headlights and a folded robot arm glides above the seafloor with its propellers spinning and its headlights beaming, soft glowing circular sound rings spread down to the rocky seafloor, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watch amazed from inside a cozy clear bubble submarine nearby. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On the dark deep seafloor a sleek round yellow underwater robot with small propellers, two bright headlights and a folded robot arm gently picks up a round rock with its robot arm while glowing blue jellyfish and little fish with tiny lights on their heads swim around it, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge wave from inside a clear bubble submarine. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On the deck of a research ship at golden sunset Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge give each other a big high five as a sleek round yellow underwater robot with small propellers, two bright headlights and a folded robot arm pops up out of the waves with a happy splash. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Why do robots explore the deep sea?",
+    "fr": "Pourquoi des robots explorent-ils les grands fonds ?",
+    "nl": "Waarom verkennen robots de diepzee?"
+   },
+   "o": {
+    "en": [
+     "Robots love swimming pools",
+     "Divers can’t go that deep",
+     "The fish asked them to"
+    ],
+    "fr": [
+     "Les robots adorent les piscines",
+     "Les plongeurs ne peuvent pas descendre si bas",
+     "Les poissons le leur ont demandé"
+    ],
+    "nl": [
+     "Robots houden van zwembaden",
+     "Duikers kunnen niet zo diep",
+     "De vissen vroegen het"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What do the robots use to swim?",
+    "fr": "Qu’utilisent les robots pour nager ?",
+    "nl": "Waarmee zwemmen de robots?"
+   },
+   "o": {
+    "en": [
+     "Propellers",
+     "Pink flippers",
+     "Sails"
+    ],
+    "fr": [
+     "Des hélices",
+     "Des palmes roses",
+     "Des voiles"
+    ],
+    "nl": [
+     "Schroeven",
+     "Roze zwemvliezen",
+     "Zeilen"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "How does sonar help the robot?",
+    "fr": "Comment le sonar aide-t-il le robot ?",
+    "nl": "Hoe helpt sonar de robot?"
+   },
+   "o": {
+    "en": [
+     "It smells the water",
+     "It counts the fish",
+     "It sends sounds and listens for echoes"
+    ],
+    "fr": [
+     "Il sent l’odeur de l’eau",
+     "Il compte les poissons",
+     "Il envoie des sons et écoute l’écho"
+    ],
+    "nl": [
+     "Het ruikt aan het water",
+     "Het telt de vissen",
+     "Het zendt geluid uit en luistert naar de echo"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "We have better maps of which place than of our ocean floor?",
+    "fr": "De quel endroit a-t-on de meilleures cartes que du fond des océans ?",
+    "nl": "Van welke plek hebben we betere kaarten dan van onze zeebodem?"
+   },
+   "o": {
+    "en": [
+     "The inside of the Sun",
+     "Mars",
+     "A cloud in the sky"
+    ],
+    "fr": [
+     "L’intérieur du Soleil",
+     "Mars",
+     "Un nuage dans le ciel"
+    ],
+    "nl": [
+     "De binnenkant van de zon",
+     "Mars",
+     "Een wolk in de lucht"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What do the robots pick up with their arms?",
+    "fr": "Que ramassent les robots avec leur bras ?",
+    "nl": "Wat rapen de robots op met hun arm?"
+   },
+   "o": {
+    "en": [
+     "Rocks",
+     "Lost socks",
+     "Seashell coins"
+    ],
+    "fr": [
+     "Des cailloux",
+     "Des chaussettes perdues",
+     "Des pièces en coquillage"
+    ],
+    "nl": [
+     "Stenen",
+     "Verloren sokken",
+     "Schelpenmuntjes"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Deep-sea robot parts",
+   "fr": "Les pièces du robot des grands fonds",
+   "nl": "Onderdelen van de diepzeerobot"
+  },
+  "intro": {
+   "en": "Match each robot part with its job!",
+   "fr": "Relie chaque pièce du robot à son rôle !",
+   "nl": "Koppel elk onderdeel van de robot aan zijn taak!"
+  },
+  "done": {
+   "en": "Splash! Your robot is ready to dive.",
+   "fr": "Plouf ! Ton robot est prêt à plonger.",
+   "nl": "Plons! Je robot is klaar om te duiken."
+  },
+  "left": {
+   "en": [
+    "Propellers",
+    "Bright lights",
+    "Sonar",
+    "Robot arm",
+    "Camera"
+   ],
+   "fr": [
+    "Les hélices",
+    "Les lampes puissantes",
+    "Le sonar",
+    "Le bras robot",
+    "La caméra"
+   ],
+   "nl": [
+    "Schroeven",
+    "Felle lampen",
+    "Sonar",
+    "Robotarm",
+    "Camera"
+   ]
+  },
+  "right": {
+   "en": [
+    "Help it swim",
+    "Help it see in the dark",
+    "Maps the seafloor with echoes",
+    "Picks up rocks",
+    "Films glowing fish"
+   ],
+   "fr": [
+    "L’aident à nager",
+    "L’aident à voir dans le noir",
+    "Dessine la carte du fond avec l’écho",
+    "Ramasse des cailloux",
+    "Filme les poissons lumineux"
+   ],
+   "nl": [
+    "Helpen hem zwemmen",
+    "Helpen hem zien in het donker",
+    "Brengt de zeebodem in kaart met echo’s",
+    "Raapt stenen op",
+    "Filmt lichtgevende vissen"
+   ]
+  }
+ }
+}
