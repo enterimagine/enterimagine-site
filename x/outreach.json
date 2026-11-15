@@ -1,0 +1,28 @@
+{
+  "handled": [
+    {
+      "account": "@physorg_com",
+      "post": "Voyager 1 is nearing a distance no human-made object has reached: one light-day from Earth, where its radio signals will tak",
+      "url": "https://x.com/physorg_com/status/2121875423185244542",
+      "seen": "2026-11-15",
+      "draft": "A full light-day is about 173 times the Earth-Sun distance: sunlight reaches us in about 8 minutes, while a hello to Voyager 1 needs two days for the round trip. Remarkable that a 1977 spacecraft still answers at all.",
+      "status": "drafted"
+    },
+    {
+      "account": "@newscientist",
+      "post": "The doughnut shape of the Event Horizon Telescope’s first image of a black hole has come under fire, but an independent c",
+      "url": "https://x.com/newscientist/status/2121881341922865160",
+      "seen": "2026-11-15",
+      "draft": "Independent checks like this are science at its best. Did the new method also recover the brighter side of the ring, or mainly its size and shape?",
+      "status": "drafted"
+    },
+    {
+      "account": "@Nature",
+      "post": "A pioneering therapy that edits genes inside a recipient’s body continues to be effective four years after treatment",
+      "url": "https://x.com/Nature/status/2121966701189194046",
+      "seen": "2026-11-15",
+      "draft": "Four years of lasting effect from a one-time edit made inside the body is a remarkable milestone. What do researchers see as the next big hurdle: longer safety follow-up or reaching tissues beyond the first targets?",
+      "status": "drafted"
+    }
+  ]
+}
