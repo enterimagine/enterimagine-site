@@ -28,7 +28,36 @@ def rich(d,x,y,line,fn,fb,col,hi):
         font=fb if rich.state else fn; c=hi if rich.state else col
         d.text((x,y),p,font=font,fill=c); x+=d.textlength(p,font=font)
 rich.state=False
+def hook_overlay(slide,post,n):
+    # v2 hook slide: no kicker, one big line (max ~8 words) readable in one glance
+    im=Image.new('RGBA',(W,H),(0,0,0,0)); d=ImageDraw.Draw(im)
+    acc=AMBER if slide.get('warm') else CYAN
+    top=Image.new('RGBA',(W,260),(0,0,0,0)); g=ImageDraw.Draw(top)
+    for i in range(260): g.line([(0,i),(W,i)],fill=(6,14,30,int(150*(1-i/260))))
+    im.alpha_composite(top)
+    x=64; y=78
+    for ch in 'IMAGINE':
+        d.text((x,y),ch,font=BOLD(40),fill=WHITE); x+=d.textlength(ch,font=BOLD(40))+5
+    tag='['+post['reel']['tag']+']'; tw=d.textlength(tag,font=BOLD(30))
+    d.rounded_rectangle((W-64-tw-36,74,W-64,74+56),28,fill=(*acc,235)); d.text((W-64-tw-18,82),tag,font=BOLD(30),fill=NAVY)
+    maxw=W-128; size=112
+    while size>72:
+        lines=wrap(d,slide['title'],TITLE(size),maxw)
+        if len(lines)<=3: break
+        size-=6
+    tf=TITLE(size); lh=int(size*1.12); block=len(lines)*lh
+    y0=1180-block//2
+    bot=Image.new('RGBA',(W,H-(y0-260)),(0,0,0,0)); g=ImageDraw.Draw(bot)
+    for i in range(H-(y0-260)): g.line([(0,i),(W,i)],fill=(6,14,30,min(225,int(225*i/300))))
+    im.alpha_composite(bot,(0,y0-260))
+    d=ImageDraw.Draw(im); y=y0
+    for ln in lines:
+        lw=d.textlength(ln,font=tf); d.text(((W-lw)//2+3,y+4),ln,font=tf,fill=(0,0,0,150)); d.text(((W-lw)//2,y),ln,font=tf,fill=WHITE); y+=lh
+    for k in range(n):
+        cx=W//2-(n-1)*18+k*36; d.ellipse((cx-7,H-120,cx+7,H-106),fill=(*acc,255) if k==0 else (*MUTED,110))
+    return im
 def overlay(slide,post,idx,n):
+    if idx==0 and post['reel'].get('format')=='v2': return hook_overlay(slide,post,n)
     im=Image.new('RGBA',(W,H),(0,0,0,0)); d=ImageDraw.Draw(im)
     acc=AMBER if slide.get('warm') else CYAN
     # top bar
@@ -48,7 +77,7 @@ def overlay(slide,post,idx,n):
     for i in range(hgt): g.line([(0,i),(W,i)],fill=(6,14,30,min(235,int(235*i/260))))
     im.alpha_composite(bot,(0,y0-200))
     d=ImageDraw.Draw(im); x=72; maxw=W-144; y=y0+40
-    d.text((x,y),slide['kicker'].upper(),font=BOLD(36),fill=acc); y+=66
+    if slide.get('kicker'): d.text((x,y),slide['kicker'].upper(),font=BOLD(36),fill=acc); y+=66
     if slide.get('big'):
         bs=150
         while d.textlength(slide['big'],font=TITLE(bs))>maxw and bs>60: bs-=6
@@ -82,7 +111,7 @@ def bg(path):
     return im.crop((x,y,x+int(W*1.12),y+int(H*1.12)))
 def make(n):
     pk=json.load(open(U+DATE+'_package.json')); post=[p for p in pk['posts'] if p['n']==n][0]
-    sl=post['reel']['slides']; durs=post['reel']['durs']; T=sum(durs)
+    sl=post['reel']['slides']; durs=post['reel']['durs']; T=sum(durs); v2=post['reel'].get('format')=='v2'
     d=R+f'p{n}/'; os.makedirs(d,exist_ok=True)
     bg(U+f'{DATE}_post{n}.png').save(d+'bg.jpg',quality=93)
     for i,s in enumerate(sl): overlay(s,post,i,len(sl)).save(d+f's{i}.png')
@@ -91,16 +120,19 @@ def make(n):
     for i in range(len(sl)): inputs+=['-loop','1','-t',str(T),'-i',d+f's{i}.png']
     inputs+=['-i',U+'_music/Discovery_Scott_Buckley_CC-BY4_reel-excerpt.m4a']
     W2,H2=int(W*1.12),int(H*1.12)
-    fc=f"[0:v]scale={W2}:{H2},zoompan=z='1+0.10*on/{fr}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={fr}:s={W}x{H}:fps=30,eq=brightness=-0.03[b0];"
+    zr=0.16 if v2 else 0.10  # v2: visible motion from the first frame
+    fc=f"[0:v]scale={W2}:{H2},zoompan=z='1+{zr}*on/{fr}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={fr}:s={W}x{H}:fps=30,eq=brightness=-0.03[b0];"
     t=0; last='b0'
     for i,du in enumerate(durs):
         st=t; en=t+du
-        fc+=f"[{i+1}:v]format=rgba,fade=t=in:st={st}:d=0.35:alpha=1,fade=t=out:st={max(st,en-0.35)}:d=0.35:alpha=1[o{i}];[{last}][o{i}]overlay=0:0:enable='between(t,{st},{en})'[b{i+1}];"
+        fin='' if (v2 and i==0) else f"fade=t=in:st={st}:d=0.35:alpha=1,"  # v2: hook visible on frame 1
+        fc+=f"[{i+1}:v]format=rgba,{fin}fade=t=out:st={max(st,en-0.35)}:d=0.35:alpha=1[o{i}];[{last}][o{i}]overlay=0:0:enable='between(t,{st},{en})'[b{i+1}];"
         last=f'b{i+1}'; t=en
-    fc+=f"[{last}]format=yuv420p,fade=t=out:st={T-0.6}:d=0.6[v];[{len(sl)+1}:a]atrim=0:{T},volume=0.85,afade=t=in:d=0.5,afade=t=out:st={T-1.5}:d=1.5[a]"
+    endfade='' if v2 else f",fade=t=out:st={T-0.6}:d=0.6"  # v2: no fade to black, so the loop restarts cleanly
+    fc+=f"[{last}]format=yuv420p{endfade}[v];[{len(sl)+1}:a]atrim=0:{T},volume=0.85,afade=t=in:d=0.5,afade=t=out:st={T-1.5}:d=1.5[a]"
     out=R+f'{DATE}_post{n}_reel.mp4'
     subprocess.run(['ffmpeg','-y','-loglevel','error']+inputs+['-filter_complex',fc,'-map','[v]','-map','[a]','-t',str(T),'-r','30','-c:v','libx264','-preset','veryfast','-crf','20','-c:a','aac','-b:a','160k','-ar','48000','-movflags','+faststart',out],check=True)
-    subprocess.run(['ffmpeg','-y','-loglevel','error','-ss','1.2','-i',out,'-frames:v','1','-q:v','3',R+f'{DATE}_post{n}_cover.jpg'],check=True)
+    subprocess.run(['ffmpeg','-y','-loglevel','error','-ss','0.4' if v2 else '1.2','-i',out,'-frames:v','1','-q:v','3',R+f'{DATE}_post{n}_cover.jpg'],check=True)
     print(n,T,os.path.getsize(out))
 # captions: package description plus the music credit
 def caption(p): return p['description'].replace('\n\n#IMAGINE','\n\nMusic: “Discovery” by Scott Buckley (CC BY 4.0)\n\n#IMAGINE',1)
