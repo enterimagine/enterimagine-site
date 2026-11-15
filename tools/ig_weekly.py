@@ -63,6 +63,15 @@ def hook(caption):
     return first if len(first) <= 90 else first[:87].rstrip() + "..."
 
 
+def hook_type(h):
+    hl = h.lower()
+    if hl.startswith(("what if", "imagine")):
+        return "What if / Imagine"
+    if "?" in h:
+        return "Question"
+    return "Statement"
+
+
 out = []
 for r in rows:
     d = (r.get("date") or "")[:10]
@@ -83,6 +92,10 @@ for r in rows:
         "domain": domain_of(cap),
         "format": m.group(1) if m else ("KIDS" if "IMAGINE Kids" in cap else "OTHER"),
         "hook": hook(cap),
+        "hook_type": hook_type(hook(cap)) if m else "Not tagged",
+        "hook_has_number": bool(re.search(r"\d", hook(cap))),
+        "hook_says_you": bool(re.search(r"\byou(r)?\b", hook(cap), re.I)),
+        "hook_words": len(hook(cap).split()),
         "permalink": r.get("media_permalink"),
         "views": int(views),
         "reach": int(reach),
@@ -91,6 +104,8 @@ for r in rows:
         "saves": int(saves),
         "shares": int(shares),
         "interactions": int(inter),
+        "saves_shares": int(saves + shares),
+        "saves_shares_per_1k_reach": round((saves + shares) / reach * 1000, 1) if reach else 0.0,
         "engagement_rate_pct": round(inter / reach * 100, 2) if reach else 0.0,
         "avg_watch_s": round(num(watch) / 1000, 1) if watch is not None else None,
         "skip_rate_pct": round(num(skip) * 100, 1) if skip is not None else None,
