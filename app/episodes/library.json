@@ -10021,6 +10021,994 @@
    },
    "added": "2026-11-14",
    "voice": true
+  },
+  {
+   "id": "space-20261115",
+   "world": "space",
+   "guide": "Qubi",
+   "title": {
+    "en": "What is a black hole?",
+    "fr": "C’est quoi, un trou noir ?",
+    "nl": "Wat is een zwart gat?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, what is a black hole? Is it really a big empty hole in space?",
+     "fr": "Qubi, c’est quoi, un trou noir ? C’est vraiment un grand trou vide dans l’espace ?",
+     "nl": "Qubi, wat is een zwart gat? Is het echt een groot, leeg gat in de ruimte?",
+     "img": "Whyzz and Qubi look up at a starry dome in a planetarium"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I bet it is a giant space vacuum cleaner that slurps up planets like spaghetti!",
+     "fr": "Je parie que c’est un aspirateur géant de l’espace qui aspire les planètes comme des spaghettis !",
+     "nl": "Ik wed dat het een reuzenstofzuiger in de ruimte is die planeten opslurpt als spaghetti!",
+     "img": "Whyzz imagines a cartoon vacuum cleaner in space, Qubi laughs"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Ha, not quite, it is no vacuum cleaner! When a giant star runs out of fuel, it can squeeze itself into a tiny space and become a black hole.",
+     "fr": "Ha, pas tout à fait, ce n’est pas un aspirateur ! Quand une étoile géante n’a plus de carburant, elle peut se tasser dans un tout petit espace et devenir un trou noir.",
+     "nl": "Haha, niet helemaal, het is geen stofzuiger! Als een reuzenster geen brandstof meer heeft, kan ze zich in een piepkleine ruimte samenpersen en een zwart gat worden.",
+     "img": "Qubi shows a big glowing star shrinking into a small dark ball"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "It is packed super tight, like squeezing all of Earth into a marble! Its gravity pulls so hard that even light cannot get out, so it looks black.",
+     "fr": "Il est super serré, comme si on écrasait toute la Terre dans une bille ! Sa gravité tire si fort que même la lumière ne peut pas en sortir, alors il paraît noir.",
+     "nl": "Het is superstrak samengeperst, alsof je de hele aarde in een knikker propt! De zwaartekracht trekt zo hard dat zelfs licht er niet uit kan, dus het ziet er zwart uit.",
+     "img": "Qubi holds a tiny marble next to a big Earth globe, Whyzz is amazed"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Did you know? In the middle of our galaxy sits a giant black hole, millions of times heavier than the Sun, but it is very, very far away from us!",
+     "fr": "Le savais-tu ? Au milieu de notre galaxie se trouve un trou noir géant, des millions de fois plus lourd que le Soleil, mais il est très, très loin de nous !",
+     "nl": "Wist je dat? In het midden van ons sterrenstelsel zit een reusachtig zwart gat, miljoenen keren zwaarder dan de zon, maar het is heel, heel ver van ons vandaan!",
+     "img": "Qubi points at the glowing center of a spiral galaxy on a big screen"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So a black hole is a super-squeezed star that even light cannot escape! If you could fly past one in a safe spaceship, what would you want to see?",
+     "fr": "Donc un trou noir, c’est une étoile super tassée dont même la lumière ne peut pas s’échapper ! Si tu pouvais passer près d’un trou noir dans un vaisseau sûr, qu’aimerais-tu voir ?",
+     "nl": "Dus een zwart gat is een supersamengeperste ster waar zelfs licht niet uit kan ontsnappen! Als je in een veilig ruimteschip langs een zwart gat kon vliegen, wat zou je dan willen zien?",
+     "img": "Whyzz and Qubi wave from a cozy spaceship window, a swirl of light far away"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Is a black hole really an empty hole?",
+      "fr": "Un trou noir, est-ce vraiment un trou vide ?",
+      "nl": "Is een zwart gat echt een leeg gat?"
+     },
+     "o": {
+      "en": [
+       "Yes, it is empty inside",
+       "No, it is lots of stuff squeezed into a tiny space",
+       "No, it is a cloud of black smoke"
+      ],
+      "fr": [
+       "Oui, il est vide à l’intérieur",
+       "Non, c’est beaucoup de matière tassée dans un tout petit espace",
+       "Non, c’est un nuage de fumée noire"
+      ],
+      "nl": [
+       "Ja, het is leeg vanbinnen",
+       "Nee, het is heel veel materie in een piepkleine ruimte",
+       "Nee, het is een wolk zwarte rook"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What can happen when a giant star runs out of fuel?",
+      "fr": "Que peut-il se passer quand une étoile géante n’a plus de carburant ?",
+      "nl": "Wat kan er gebeuren als een reuzenster geen brandstof meer heeft?"
+     },
+     "o": {
+      "en": [
+       "It can become a black hole",
+       "It turns into a planet",
+       "It turns into a comet"
+      ],
+      "fr": [
+       "Elle peut devenir un trou noir",
+       "Elle se transforme en planète",
+       "Elle se transforme en comète"
+      ],
+      "nl": [
+       "Ze kan een zwart gat worden",
+       "Ze verandert in een planeet",
+       "Ze verandert in een komeet"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why does a black hole look black?",
+      "fr": "Pourquoi un trou noir paraît-il noir ?",
+      "nl": "Waarom ziet een zwart gat er zwart uit?"
+     },
+     "o": {
+      "en": [
+       "Someone painted it black",
+       "It is always nighttime there",
+       "Even light cannot get out"
+      ],
+      "fr": [
+       "Quelqu’un l’a peint en noir",
+       "Il y fait toujours nuit",
+       "Même la lumière ne peut pas en sortir"
+      ],
+      "nl": [
+       "Iemand heeft het zwart geverfd",
+       "Daar is het altijd nacht",
+       "Zelfs licht kan er niet uit"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Earth squeezed as tight as a black hole would be as small as…",
+      "fr": "La Terre tassée comme un trou noir serait aussi petite…",
+      "nl": "De aarde, zo strak samengeperst als een zwart gat, zou zo klein zijn als…"
+     },
+     "o": {
+      "en": [
+       "a house",
+       "a mountain",
+       "a marble"
+      ],
+      "fr": [
+       "qu’une maison",
+       "qu’une montagne",
+       "qu’une bille"
+      ],
+      "nl": [
+       "een huis",
+       "een berg",
+       "een knikker"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Where is there a giant black hole?",
+      "fr": "Où se trouve un trou noir géant ?",
+      "nl": "Waar zit een reusachtig zwart gat?"
+     },
+     "o": {
+      "en": [
+       "In the middle of our galaxy",
+       "Inside the Moon",
+       "Right next to Earth"
+      ],
+      "fr": [
+       "Au milieu de notre galaxie",
+       "À l’intérieur de la Lune",
+       "Juste à côté de la Terre"
+      ],
+      "nl": [
+       "In het midden van ons sterrenstelsel",
+       "In de maan",
+       "Vlak naast de aarde"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Black hole facts",
+     "fr": "Vrai sur les trous noirs",
+     "nl": "Weetjes over zwarte gaten"
+    },
+    "intro": {
+     "en": "Pick all the sentences about black holes that are true.",
+     "fr": "Choisis toutes les phrases vraies sur les trous noirs.",
+     "nl": "Kies alle zinnen over zwarte gaten die kloppen."
+    },
+    "done": {
+     "en": "Stellar work, space explorer!",
+     "fr": "Travail stellaire, explorateur de l’espace !",
+     "nl": "Sterk werk, ruimteverkenner!"
+    },
+    "items": {
+     "en": [
+      "Even light cannot escape a black hole",
+      "A black hole is an empty hole",
+      "Some black holes come from giant stars",
+      "A black hole is a space vacuum cleaner",
+      "Our galaxy has a giant black hole in the middle",
+      "There is a black hole inside the Moon",
+      "A black hole has super strong gravity"
+     ],
+     "fr": [
+      "Même la lumière ne peut pas s’échapper d’un trou noir",
+      "Un trou noir est un trou vide",
+      "Certains trous noirs viennent d’étoiles géantes",
+      "Un trou noir est un aspirateur de l’espace",
+      "Notre galaxie a un trou noir géant en son centre",
+      "Il y a un trou noir dans la Lune",
+      "Un trou noir a une gravité super forte"
+     ],
+     "nl": [
+      "Zelfs licht kan niet ontsnappen uit een zwart gat",
+      "Een zwart gat is een leeg gat",
+      "Sommige zwarte gaten komen van reuzensterren",
+      "Een zwart gat is een ruimtestofzuiger",
+      "Ons sterrenstelsel heeft een reusachtig zwart gat in het midden",
+      "Er zit een zwart gat in de maan",
+      "Een zwart gat heeft een supersterke zwaartekracht"
+     ]
+    },
+    "good": [
+     0,
+     2,
+     4,
+     6
+    ]
+   },
+   "worldName": {
+    "en": "Space",
+    "fr": "Espace",
+    "nl": "Ruimte"
+   },
+   "adult": {
+    "en": "For grown-ups: the Space world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Espace dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Ruimte in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-15",
+   "voice": true
+  },
+  {
+   "id": "mobility-20261115",
+   "world": "mobility",
+   "guide": "Sunny",
+   "title": {
+    "en": "How can a bus run on hydrogen?",
+    "fr": "Comment un bus peut-il rouler à l’hydrogène ?",
+    "nl": "Hoe kan een bus op waterstof rijden?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, my teacher says some buses run on hydrogen. How can a gas make a big, heavy bus go?",
+     "fr": "Sunny, ma prof dit que certains bus roulent à l’hydrogène. Comment un gaz peut-il faire avancer un gros bus lourd ?",
+     "nl": "Sunny, mijn juf zegt dat sommige bussen op waterstof rijden. Hoe kan een gas een grote, zware bus laten rijden?",
+     "img": "Whyzz and Sunny wait at a bus stop as a shiny bus arrives"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Hydrogen is super light, right? I bet the bus is full of balloons and floats all the way to school!",
+     "fr": "L’hydrogène, c’est super léger, non ? Je parie que le bus est rempli de ballons et qu’il flotte jusqu’à l’école !",
+     "nl": "Waterstof is superlicht, toch? Ik wed dat de bus vol ballonnen zit en zo naar school zweeft!",
+     "img": "Whyzz imagines a bus floating in the sky with balloons, Sunny laughs"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Ha, no floating today! The hydrogen is kept safely in strong tanks on the roof. A part called a fuel cell mixes it with oxygen from the air to make electricity.",
+     "fr": "Ha, pas de bus volant aujourd’hui ! L’hydrogène est rangé en sécurité dans des réservoirs solides sur le toit. Une pile à combustible le mélange avec l’oxygène de l’air pour faire de l’électricité.",
+     "nl": "Haha, vandaag zweeft er niks! De waterstof zit veilig in stevige tanks op het dak. Een brandstofcel mengt het met zuurstof uit de lucht en maakt zo elektriciteit.",
+     "img": "Sunny points at round tanks on the roof of the bus"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "The fuel cell is like a tiny kitchen: hydrogen plus oxygen bakes electricity for the motor that turns the wheels. The only thing coming out of the pipe is water!",
+     "fr": "La pile à combustible, c’est comme une mini-cuisine : hydrogène plus oxygène, et hop, de l’électricité pour le moteur qui fait tourner les roues. Il ne sort que de l’eau du tuyau !",
+     "nl": "De brandstofcel is net een mini-keuken: waterstof plus zuurstof bakt elektriciteit voor de motor die de wielen laat draaien. Uit de uitlaat komt alleen water!",
+     "img": "Sunny shows a little kitchen inside the bus, Whyzz watches water drip from the pipe"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Did you know? Hydrogen is the most common stuff in the whole universe: even our Sun is mostly made of it!",
+     "fr": "Le savais-tu ? L’hydrogène est ce qu’il y a de plus répandu dans tout l’univers : même notre Soleil en est surtout fait !",
+     "nl": "Wist je dat? Waterstof is het meest voorkomende spul in het hele heelal: zelfs onze zon bestaat er vooral uit!",
+     "img": "Sunny points at a big friendly Sun in the sky"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So a hydrogen bus makes its own electricity and only puffs out water! If you could design a hydrogen bus, what fun thing would you put inside?",
+     "fr": "Donc un bus à hydrogène fabrique sa propre électricité et ne rejette que de l’eau ! Si tu pouvais dessiner un bus à hydrogène, quel truc amusant mettrais-tu dedans ?",
+     "nl": "Dus een waterstofbus maakt zijn eigen elektriciteit en puft alleen water uit! Als jij een waterstofbus mocht ontwerpen, wat leuks zou je er dan in zetten?",
+     "img": "Whyzz and Sunny ride happily inside a bright bus and wave"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Where is the hydrogen kept on the bus?",
+      "fr": "Où l’hydrogène est-il rangé dans le bus ?",
+      "nl": "Waar zit de waterstof in de bus?"
+     },
+     "o": {
+      "en": [
+       "In balloons inside the bus",
+       "In strong tanks on the roof",
+       "Inside the wheels"
+      ],
+      "fr": [
+       "Dans des ballons à l’intérieur du bus",
+       "Dans des réservoirs solides sur le toit",
+       "Dans les roues"
+      ],
+      "nl": [
+       "In ballonnen in de bus",
+       "In stevige tanks op het dak",
+       "In de wielen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does the fuel cell mix with hydrogen?",
+      "fr": "Avec quoi la pile à combustible mélange-t-elle l’hydrogène ?",
+      "nl": "Waarmee mengt de brandstofcel de waterstof?"
+     },
+     "o": {
+      "en": [
+       "Oxygen from the air",
+       "Lemonade",
+       "Sand"
+      ],
+      "fr": [
+       "L’oxygène de l’air",
+       "De la limonade",
+       "Du sable"
+      ],
+      "nl": [
+       "Zuurstof uit de lucht",
+       "Limonade",
+       "Zand"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What does the fuel cell make for the motor?",
+      "fr": "Que fabrique la pile à combustible pour le moteur ?",
+      "nl": "Wat maakt de brandstofcel voor de motor?"
+     },
+     "o": {
+      "en": [
+       "Smoke",
+       "Ice cream",
+       "Electricity"
+      ],
+      "fr": [
+       "De la fumée",
+       "De la glace",
+       "De l’électricité"
+      ],
+      "nl": [
+       "Rook",
+       "IJs",
+       "Elektriciteit"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What comes out of the pipe of a hydrogen bus?",
+      "fr": "Que sort-il du tuyau d’un bus à hydrogène ?",
+      "nl": "Wat komt er uit de uitlaat van een waterstofbus?"
+     },
+     "o": {
+      "en": [
+       "Black smoke",
+       "Only water",
+       "Balloons"
+      ],
+      "fr": [
+       "De la fumée noire",
+       "Seulement de l’eau",
+       "Des ballons"
+      ],
+      "nl": [
+       "Zwarte rook",
+       "Alleen water",
+       "Ballonnen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What is our Sun mostly made of?",
+      "fr": "De quoi notre Soleil est-il surtout fait ?",
+      "nl": "Waaruit bestaat onze zon vooral?"
+     },
+     "o": {
+      "en": [
+       "Hydrogen",
+       "Rock",
+       "Water"
+      ],
+      "fr": [
+       "D’hydrogène",
+       "De roche",
+       "D’eau"
+      ],
+      "nl": [
+       "Waterstof",
+       "Steen",
+       "Water"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "A hydrogen bus, step by step",
+     "fr": "Un bus à hydrogène, étape par étape",
+     "nl": "Een waterstofbus, stap voor stap"
+    },
+    "intro": {
+     "en": "Put the steps that make the hydrogen bus drive in the right order.",
+     "fr": "Remets dans le bon ordre les étapes qui font rouler le bus à hydrogène.",
+     "nl": "Zet de stappen die de waterstofbus laten rijden in de juiste volgorde."
+    },
+    "done": {
+     "en": "All aboard, super engineer!",
+     "fr": "En voiture, super ingénieur !",
+     "nl": "Instappen, super-ingenieur!"
+    },
+    "items": {
+     "en": [
+      "Hydrogen waits in tanks on the roof",
+      "The fuel cell mixes hydrogen with oxygen",
+      "The fuel cell makes electricity",
+      "The electric motor starts spinning",
+      "The wheels turn and the bus drives off"
+     ],
+     "fr": [
+      "L’hydrogène attend dans les réservoirs du toit",
+      "La pile mélange l’hydrogène avec l’oxygène",
+      "La pile fabrique de l’électricité",
+      "Le moteur électrique se met à tourner",
+      "Les roues tournent et le bus démarre"
+     ],
+     "nl": [
+      "Waterstof wacht in de tanks op het dak",
+      "De brandstofcel mengt waterstof met zuurstof",
+      "De brandstofcel maakt elektriciteit",
+      "De elektromotor begint te draaien",
+      "De wielen draaien en de bus rijdt weg"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Smart Mobility",
+    "fr": "Mobilité",
+    "nl": "Slimme mobiliteit"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Mobility world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Mobilité dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme mobiliteit in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-15",
+   "voice": true
+  },
+  {
+   "id": "cities-20261115",
+   "world": "cities",
+   "guide": "Pixel",
+   "title": {
+    "en": "How do smart streetlights save energy?",
+    "fr": "Comment les lampadaires intelligents économisent-ils l’énergie ?",
+    "nl": "Hoe besparen slimme straatlantaarns energie?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, why does that streetlight get brighter when we walk by and dim again when we leave?",
+     "fr": "Pixel, pourquoi ce lampadaire brille plus fort quand on passe et baisse de nouveau quand on s’en va ?",
+     "nl": "Pixel, waarom gaat die straatlantaarn feller branden als we voorbijlopen en weer zachter als we weggaan?",
+     "img": "Whyzz and Pixel walk on an evening street under a glowing streetlight"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I know! A tiny owl lives inside the lamp and switches it on when it sees us!",
+     "fr": "Je sais ! Une minuscule chouette vit dans la lampe et l’allume quand elle nous voit !",
+     "nl": "Ik weet het! Er woont een piepklein uiltje in de lamp dat hem aandoet als het ons ziet!",
+     "img": "Whyzz imagines a tiny owl inside a lamp, Pixel laughs"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Hoot hoot, no owl! A smart streetlight has a motion sensor that notices people, bikes and cars. When the street is empty, the light dims to save energy.",
+     "fr": "Hou hou, pas de chouette ! Un lampadaire intelligent a un détecteur de mouvement qui repère les gens, les vélos et les voitures. Quand la rue est vide, la lumière baisse pour économiser l’énergie.",
+     "nl": "Oehoe, geen uil! Een slimme straatlantaarn heeft een bewegingssensor die mensen, fietsen en auto’s opmerkt. Als de straat leeg is, gaat het licht zachter om energie te besparen.",
+     "img": "Pixel points at a small sensor on the lamp, a bike rides by"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "A light sensor works like an eye: it switches the lamp on when it gets dark. The lamp uses LED lights, which need much less electricity than old bulbs.",
+     "fr": "Un capteur de lumière fonctionne comme un œil : il allume la lampe quand il fait noir. La lampe utilise des LED, qui consomment beaucoup moins d’électricité que les vieilles ampoules.",
+     "nl": "Een lichtsensor werkt als een oog: hij doet de lamp aan als het donker wordt. De lamp gebruikt ledlampjes, die veel minder elektriciteit nodig hebben dan oude lampen.",
+     "img": "Pixel shows a glowing LED lamp head, sunset sky behind"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know? Bright lamps can confuse baby sea turtles looking for the sea at night, so some beach towns use soft orange lights!",
+     "fr": "Le savais-tu ? Les lampes trop fortes peuvent perdre les bébés tortues de mer qui cherchent la mer la nuit, alors certaines villes de bord de mer utilisent une douce lumière orange !",
+     "nl": "Wist je dat? Felle lampen kunnen babyzeeschildpadjes in de war brengen als ze ’s nachts de zee zoeken, daarom gebruiken sommige badplaatsen zacht oranje licht!",
+     "img": "Pixel kneels on a beach at night as baby turtles walk to the sea"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So smart lights shine only when we need them, which saves energy and keeps the night dark for animals! If you could teach a streetlight one more trick, what would it be?",
+     "fr": "Donc les lampadaires intelligents brillent seulement quand on en a besoin, ce qui économise l’énergie et garde la nuit sombre pour les animaux ! Si tu pouvais apprendre un nouveau tour à un lampadaire, lequel serait-ce ?",
+     "nl": "Dus slimme lampen schijnen alleen als het nodig is: zo besparen ze energie en blijft de nacht donker voor dieren! Als jij een straatlantaarn nog één trucje mocht leren, welk zou dat zijn?",
+     "img": "Whyzz and Pixel wave under a softly glowing streetlight at night"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What does the motion sensor notice?",
+      "fr": "Que repère le détecteur de mouvement ?",
+      "nl": "Wat merkt de bewegingssensor op?"
+     },
+     "o": {
+      "en": [
+       "Rain on the street",
+       "People, bikes and cars",
+       "Music"
+      ],
+      "fr": [
+       "La pluie dans la rue",
+       "Les gens, les vélos et les voitures",
+       "La musique"
+      ],
+      "nl": [
+       "Regen op straat",
+       "Mensen, fietsen en auto’s",
+       "Muziek"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does the light do when the street is empty?",
+      "fr": "Que fait la lumière quand la rue est vide ?",
+      "nl": "Wat doet het licht als de straat leeg is?"
+     },
+     "o": {
+      "en": [
+       "It dims to save energy",
+       "It plays a song",
+       "It gets extra bright"
+      ],
+      "fr": [
+       "Elle baisse pour économiser l’énergie",
+       "Elle joue une chanson",
+       "Elle devient super forte"
+      ],
+      "nl": [
+       "Het gaat zachter om energie te besparen",
+       "Het speelt een liedje",
+       "Het wordt extra fel"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What does the light sensor notice?",
+      "fr": "Que remarque le capteur de lumière ?",
+      "nl": "Wat merkt de lichtsensor op?"
+     },
+     "o": {
+      "en": [
+       "When someone is hungry",
+       "When it rains",
+       "When it gets dark"
+      ],
+      "fr": [
+       "Quand quelqu’un a faim",
+       "Quand il pleut",
+       "Quand il fait noir"
+      ],
+      "nl": [
+       "Wanneer iemand honger heeft",
+       "Wanneer het regent",
+       "Wanneer het donker wordt"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Why do smart streetlights use LED lights?",
+      "fr": "Pourquoi les lampadaires intelligents utilisent-ils des LED ?",
+      "nl": "Waarom gebruiken slimme straatlantaarns ledlampjes?"
+     },
+     "o": {
+      "en": [
+       "They need much less electricity",
+       "They are much bigger",
+       "They make a nice noise"
+      ],
+      "fr": [
+       "Elles consomment beaucoup moins d’électricité",
+       "Elles sont beaucoup plus grandes",
+       "Elles font un joli bruit"
+      ],
+      "nl": [
+       "Ze hebben veel minder elektriciteit nodig",
+       "Ze zijn veel groter",
+       "Ze maken een leuk geluid"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Who can get confused by bright lamps at the beach?",
+      "fr": "Qui peut être perdu à cause des lampes fortes à la plage ?",
+      "nl": "Wie kan door felle lampen op het strand in de war raken?"
+     },
+     "o": {
+      "en": [
+       "Cows",
+       "Baby sea turtles",
+       "Goldfish in a bowl"
+      ],
+      "fr": [
+       "Les vaches",
+       "Les bébés tortues de mer",
+       "Les poissons rouges dans un bocal"
+      ],
+      "nl": [
+       "Koeien",
+       "Babyzeeschildpadjes",
+       "Goudvissen in een kom"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "What makes a streetlight smart?",
+     "fr": "Qu’est-ce qui rend un lampadaire intelligent ?",
+     "nl": "Wat maakt een straatlantaarn slim?"
+    },
+    "intro": {
+     "en": "Match each part with what it does.",
+     "fr": "Relie chaque partie à ce qu’elle fait.",
+     "nl": "Verbind elk onderdeel met wat het doet."
+    },
+    "done": {
+     "en": "Bright idea, city helper!",
+     "fr": "Lumineux, petit génie de la ville !",
+     "nl": "Slim bedacht, stadshelper!"
+    },
+    "left": {
+     "en": [
+      "Motion sensor",
+      "Light sensor",
+      "LED lights",
+      "Dimmer",
+      "Soft orange light"
+     ],
+     "fr": [
+      "Détecteur de mouvement",
+      "Capteur de lumière",
+      "LED",
+      "Variateur",
+      "Douce lumière orange"
+     ],
+     "nl": [
+      "Bewegingssensor",
+      "Lichtsensor",
+      "Ledlampjes",
+      "Dimmer",
+      "Zacht oranje licht"
+     ]
+    },
+    "right": {
+     "en": [
+      "Notices people walking by",
+      "Knows when it gets dark",
+      "Shine with little electricity",
+      "Makes the light softer on an empty street",
+      "Helps baby sea turtles find the sea"
+     ],
+     "fr": [
+      "Repère les gens qui passent",
+      "Sait quand il fait noir",
+      "Brillent avec peu d’électricité",
+      "Baisse la lumière dans une rue vide",
+      "Aide les bébés tortues à trouver la mer"
+     ],
+     "nl": [
+      "Merkt mensen op die voorbijlopen",
+      "Weet wanneer het donker wordt",
+      "Schijnen met weinig elektriciteit",
+      "Maakt het licht zachter in een lege straat",
+      "Helpt babyschildpadjes de zee te vinden"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Smart Cities",
+    "fr": "Villes intelligentes",
+    "nl": "Slimme steden"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Cities world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Villes intelligentes dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme steden in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-15",
+   "voice": true
+  },
+  {
+   "id": "innovation-20261115",
+   "world": "innovation",
+   "guide": "Whyzz",
+   "title": {
+    "en": "Can kids be inventors too?",
+    "fr": "Les enfants peuvent-ils être inventeurs ?",
+    "nl": "Kunnen kinderen ook uitvinders zijn?"
+   },
+   "scenes": [
+    {
+     "speaker": "Pixel",
+     "en": "Whyzz, are inventors always grown-ups in white coats? Or can kids invent things too?",
+     "fr": "Whyzz, les inventeurs sont-ils toujours des adultes en blouse blanche ? Ou est-ce que les enfants peuvent inventer aussi ?",
+     "nl": "Whyzz, zijn uitvinders altijd volwassenen in een witte jas? Of kunnen kinderen ook dingen uitvinden?",
+     "img": "Pixel asks Whyzz a question in a colorful workshop"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Of course kids can! I once invented a sandwich that makes itself. Okay, it mostly made a big mess!",
+     "fr": "Bien sûr qu’ils peuvent ! Un jour, j’ai inventé un sandwich qui se fait tout seul. Bon, il a surtout fait un gros bazar !",
+     "nl": "Natuurlijk kunnen ze dat! Ik heb ooit een broodje uitgevonden dat zichzelf maakt. Oké, het maakte vooral een grote knoeiboel!",
+     "img": "Whyzz shows a silly sandwich machine splashing jam, Pixel laughs"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "More than 100 years ago, an 11-year-old boy left a fruity drink with a stirring stick outside on a cold night. The next morning it was frozen: the first ice pop!",
+     "fr": "Il y a plus de 100 ans, un garçon de 11 ans a oublié dehors une boisson aux fruits avec un bâtonnet, par une nuit froide. Le lendemain matin, elle était gelée : la première glace à l’eau !",
+     "nl": "Meer dan 100 jaar geleden liet een jongen van 11 een fruitdrankje met een roerstokje buiten staan in een koude nacht. De volgende ochtend was het bevroren: het eerste waterijsje!",
+     "img": "Whyzz holds a frozen drink on a stick in a snowy backyard"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "A 15-year-old boy had cold ears while ice skating, so he invented earmuffs. A teenager watching acrobats bounce in their safety net built the first trampoline!",
+     "fr": "Un garçon de 15 ans avait froid aux oreilles en patinant, alors il a inventé les cache-oreilles. Un ado qui regardait des acrobates rebondir dans leur filet a construit le premier trampoline !",
+     "nl": "Een jongen van 15 had koude oren tijdens het schaatsen, dus vond hij oorwarmers uit. Een tiener die acrobaten in hun vangnet zag stuiteren, bouwde de eerste trampoline!",
+     "img": "Whyzz in fluffy earmuffs bounces on a trampoline, Pixel cheers"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know? A blind 15-year-old invented a way to read by touching raised dots, which people all over the world still use today!",
+     "fr": "Le savais-tu ? Un garçon aveugle de 15 ans a inventé une façon de lire en touchant des petits points en relief, qu’on utilise encore partout dans le monde !",
+     "nl": "Wist je dat? Een blinde jongen van 15 vond een manier uit om te lezen door bolletjes te voelen, die nog altijd over de hele wereld gebruikt wordt!",
+     "img": "Pixel touches a page of raised dots with her fingertips"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So great inventions start when kids notice a problem and get curious! What problem would you like to solve with your own invention?",
+     "fr": "Donc les grandes inventions commencent quand des enfants remarquent un problème et deviennent curieux ! Quel problème aimerais-tu résoudre avec ta propre invention ?",
+     "nl": "Dus grote uitvindingen beginnen als kinderen een probleem zien en nieuwsgierig worden! Welk probleem zou jij willen oplossen met je eigen uitvinding?",
+     "img": "Whyzz and Pixel build a gadget together and cheer"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "How old was the boy who made the first ice pop?",
+      "fr": "Quel âge avait le garçon qui a fait la première glace à l’eau ?",
+      "nl": "Hoe oud was de jongen die het eerste waterijsje maakte?"
+     },
+     "o": {
+      "en": [
+       "5 years old",
+       "11 years old",
+       "40 years old"
+      ],
+      "fr": [
+       "5 ans",
+       "11 ans",
+       "40 ans"
+      ],
+      "nl": [
+       "5 jaar",
+       "11 jaar",
+       "40 jaar"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What did the boy leave outside on a cold night?",
+      "fr": "Qu’est-ce que le garçon a oublié dehors par une nuit froide ?",
+      "nl": "Wat liet de jongen buiten staan in een koude nacht?"
+     },
+     "o": {
+      "en": [
+       "A fruity drink with a stick",
+       "A snowman",
+       "His shoes"
+      ],
+      "fr": [
+       "Une boisson aux fruits avec un bâtonnet",
+       "Un bonhomme de neige",
+       "Ses chaussures"
+      ],
+      "nl": [
+       "Een fruitdrankje met een stokje",
+       "Een sneeuwpop",
+       "Zijn schoenen"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why were earmuffs invented?",
+      "fr": "Pourquoi a-t-on inventé les cache-oreilles ?",
+      "nl": "Waarom werden oorwarmers uitgevonden?"
+     },
+     "o": {
+      "en": [
+       "To hear better",
+       "For a costume party",
+       "Cold ears while ice skating"
+      ],
+      "fr": [
+       "Pour mieux entendre",
+       "Pour une fête déguisée",
+       "Pour les oreilles froides en patinant"
+      ],
+      "nl": [
+       "Om beter te horen",
+       "Voor een verkleedfeest",
+       "Tegen koude oren tijdens het schaatsen"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What gave a teenager the idea for the trampoline?",
+      "fr": "Qu’est-ce qui a donné à un ado l’idée du trampoline ?",
+      "nl": "Wat gaf een tiener het idee voor de trampoline?"
+     },
+     "o": {
+      "en": [
+       "Jumping frogs",
+       "Acrobats bouncing in a safety net",
+       "A bouncy ball"
+      ],
+      "fr": [
+       "Des grenouilles qui sautent",
+       "Des acrobates qui rebondissaient dans un filet",
+       "Une balle rebondissante"
+      ],
+      "nl": [
+       "Springende kikkers",
+       "Acrobaten die in een vangnet stuiterden",
+       "Een stuiterbal"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How can you read with raised dots?",
+      "fr": "Comment lit-on avec des points en relief ?",
+      "nl": "Hoe kun je lezen met bolletjes?"
+     },
+     "o": {
+      "en": [
+       "By touching them with your fingers",
+       "By smelling them",
+       "By listening to them"
+      ],
+      "fr": [
+       "En les touchant avec les doigts",
+       "En les sentant avec le nez",
+       "En les écoutant"
+      ],
+      "nl": [
+       "Door ze met je vingers te voelen",
+       "Door eraan te ruiken",
+       "Door ernaar te luisteren"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "How did it start?",
+     "fr": "Comment tout a commencé ?",
+     "nl": "Hoe begon het?"
+    },
+    "intro": {
+     "en": "Match each invention with how it started.",
+     "fr": "Relie chaque invention à son point de départ.",
+     "nl": "Verbind elke uitvinding met hoe ze begon."
+    },
+    "done": {
+     "en": "Brilliant, young inventor!",
+     "fr": "Génial, jeune inventeur !",
+     "nl": "Geweldig, jonge uitvinder!"
+    },
+    "left": {
+     "en": [
+      "Ice pop",
+      "Earmuffs",
+      "Trampoline",
+      "Reading with raised dots"
+     ],
+     "fr": [
+      "Glace à l’eau",
+      "Cache-oreilles",
+      "Trampoline",
+      "Lire avec des points en relief"
+     ],
+     "nl": [
+      "Waterijsje",
+      "Oorwarmers",
+      "Trampoline",
+      "Lezen met bolletjes"
+     ]
+    },
+    "right": {
+     "en": [
+      "A drink left outside on a cold night",
+      "Cold ears while ice skating",
+      "Acrobats bouncing in a safety net",
+      "A blind boy who wanted to read books"
+     ],
+     "fr": [
+      "Une boisson oubliée dehors par une nuit froide",
+      "Des oreilles froides en patinant",
+      "Des acrobates qui rebondissent dans un filet",
+      "Un garçon aveugle qui voulait lire des livres"
+     ],
+     "nl": [
+      "Een drankje dat buiten bleef staan in een koude nacht",
+      "Koude oren tijdens het schaatsen",
+      "Acrobaten die in een vangnet stuiteren",
+      "Een blinde jongen die boeken wilde lezen"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Innovation",
+    "fr": "Innovation",
+    "nl": "Innovatie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Innovation world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Innovation dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Innovatie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-15",
+   "voice": true
   }
  ]
 }
