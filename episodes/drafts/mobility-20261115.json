@@ -1,0 +1,230 @@
+{
+ "id": "mobility-20261115",
+ "world": "mobility",
+ "guide": "Sunny",
+ "title": {
+  "en": "How can a bus run on hydrogen?",
+  "fr": "Comment un bus peut-il rouler à l’hydrogène ?",
+  "nl": "Hoe kan een bus op waterstof rijden?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, my teacher says some buses run on hydrogen. How can a gas make a big, heavy bus go?",
+   "fr": "Sunny, ma prof dit que certains bus roulent à l’hydrogène. Comment un gaz peut-il faire avancer un gros bus lourd ?",
+   "nl": "Sunny, mijn juf zegt dat sommige bussen op waterstof rijden. Hoe kan een gas een grote, zware bus laten rijden?",
+   "img": "Whyzz and Sunny wait at a bus stop as a shiny bus arrives"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Hydrogen is super light, right? I bet the bus is full of balloons and floats all the way to school!",
+   "fr": "L’hydrogène, c’est super léger, non ? Je parie que le bus est rempli de ballons et qu’il flotte jusqu’à l’école !",
+   "nl": "Waterstof is superlicht, toch? Ik wed dat de bus vol ballonnen zit en zo naar school zweeft!",
+   "img": "Whyzz imagines a bus floating in the sky with balloons, Sunny laughs"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Ha, no floating today! The hydrogen is kept safely in strong tanks on the roof. A part called a fuel cell mixes it with oxygen from the air to make electricity.",
+   "fr": "Ha, pas de bus volant aujourd’hui ! L’hydrogène est rangé en sécurité dans des réservoirs solides sur le toit. Une pile à combustible le mélange avec l’oxygène de l’air pour faire de l’électricité.",
+   "nl": "Haha, vandaag zweeft er niks! De waterstof zit veilig in stevige tanks op het dak. Een brandstofcel mengt het met zuurstof uit de lucht en maakt zo elektriciteit.",
+   "img": "Sunny points at round tanks on the roof of the bus"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "The fuel cell is like a tiny kitchen: hydrogen plus oxygen bakes electricity for the motor that turns the wheels. The only thing coming out of the pipe is water!",
+   "fr": "La pile à combustible, c’est comme une mini-cuisine : hydrogène plus oxygène, et hop, de l’électricité pour le moteur qui fait tourner les roues. Il ne sort que de l’eau du tuyau !",
+   "nl": "De brandstofcel is net een mini-keuken: waterstof plus zuurstof bakt elektriciteit voor de motor die de wielen laat draaien. Uit de uitlaat komt alleen water!",
+   "img": "Sunny shows a little kitchen inside the bus, Whyzz watches water drip from the pipe"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Did you know? Hydrogen is the most common stuff in the whole universe: even our Sun is mostly made of it!",
+   "fr": "Le savais-tu ? L’hydrogène est ce qu’il y a de plus répandu dans tout l’univers : même notre Soleil en est surtout fait !",
+   "nl": "Wist je dat? Waterstof is het meest voorkomende spul in het hele heelal: zelfs onze zon bestaat er vooral uit!",
+   "img": "Sunny points at a big friendly Sun in the sky"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a hydrogen bus makes its own electricity and only puffs out water! If you could design a hydrogen bus, what fun thing would you put inside?",
+   "fr": "Donc un bus à hydrogène fabrique sa propre électricité et ne rejette que de l’eau ! Si tu pouvais dessiner un bus à hydrogène, quel truc amusant mettrais-tu dedans ?",
+   "nl": "Dus een waterstofbus maakt zijn eigen elektriciteit en puft alleen water uit! Als jij een waterstofbus mocht ontwerpen, wat leuks zou je er dan in zetten?",
+   "img": "Whyzz and Sunny ride happily inside a bright bus and wave"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands at a sunny bus stop in a green city street with trees and points with a curious face at a shiny modern white-and-green city bus arriving quietly, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge smiles next to him with her hands on her hips, plain buildings and no signs. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a big dream bubble above his head showing a funny city bus floating high in the blue sky, tied to dozens of colorful balloons, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge giggles next to him at a bus stop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands on a small platform next to a parked modern city bus and points up at a row of big round silver tanks on the roof of the bus, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks up with big eyes, bright sunny bus depot with no signs. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge kneels next to a modern city bus and points at a tiny clear drop of water dripping from a short pipe under the bus, a cute glowing cutaway inside the bus shows a little box with blue and white bubbles meeting and a spark of electricity, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with a delighted face. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands on a green hill and points up at a big bright friendly golden Sun in a clear blue sky, her eyes sparkle with excitement, a clean city with a quiet bus far below. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge sit side by side inside a bright clean city bus with big windows and green seats, they wave happily, sunshine and trees passing outside. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Where is the hydrogen kept on the bus?",
+    "fr": "Où l’hydrogène est-il rangé dans le bus ?",
+    "nl": "Waar zit de waterstof in de bus?"
+   },
+   "o": {
+    "en": [
+     "In balloons inside the bus",
+     "In strong tanks on the roof",
+     "Inside the wheels"
+    ],
+    "fr": [
+     "Dans des ballons à l’intérieur du bus",
+     "Dans des réservoirs solides sur le toit",
+     "Dans les roues"
+    ],
+    "nl": [
+     "In ballonnen in de bus",
+     "In stevige tanks op het dak",
+     "In de wielen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does the fuel cell mix with hydrogen?",
+    "fr": "Avec quoi la pile à combustible mélange-t-elle l’hydrogène ?",
+    "nl": "Waarmee mengt de brandstofcel de waterstof?"
+   },
+   "o": {
+    "en": [
+     "Oxygen from the air",
+     "Lemonade",
+     "Sand"
+    ],
+    "fr": [
+     "L’oxygène de l’air",
+     "De la limonade",
+     "Du sable"
+    ],
+    "nl": [
+     "Zuurstof uit de lucht",
+     "Limonade",
+     "Zand"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What does the fuel cell make for the motor?",
+    "fr": "Que fabrique la pile à combustible pour le moteur ?",
+    "nl": "Wat maakt de brandstofcel voor de motor?"
+   },
+   "o": {
+    "en": [
+     "Smoke",
+     "Ice cream",
+     "Electricity"
+    ],
+    "fr": [
+     "De la fumée",
+     "De la glace",
+     "De l’électricité"
+    ],
+    "nl": [
+     "Rook",
+     "IJs",
+     "Elektriciteit"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What comes out of the pipe of a hydrogen bus?",
+    "fr": "Que sort-il du tuyau d’un bus à hydrogène ?",
+    "nl": "Wat komt er uit de uitlaat van een waterstofbus?"
+   },
+   "o": {
+    "en": [
+     "Black smoke",
+     "Only water",
+     "Balloons"
+    ],
+    "fr": [
+     "De la fumée noire",
+     "Seulement de l’eau",
+     "Des ballons"
+    ],
+    "nl": [
+     "Zwarte rook",
+     "Alleen water",
+     "Ballonnen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What is our Sun mostly made of?",
+    "fr": "De quoi notre Soleil est-il surtout fait ?",
+    "nl": "Waaruit bestaat onze zon vooral?"
+   },
+   "o": {
+    "en": [
+     "Hydrogen",
+     "Rock",
+     "Water"
+    ],
+    "fr": [
+     "D’hydrogène",
+     "De roche",
+     "D’eau"
+    ],
+    "nl": [
+     "Waterstof",
+     "Steen",
+     "Water"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "A hydrogen bus, step by step",
+   "fr": "Un bus à hydrogène, étape par étape",
+   "nl": "Een waterstofbus, stap voor stap"
+  },
+  "intro": {
+   "en": "Put the steps that make the hydrogen bus drive in the right order.",
+   "fr": "Remets dans le bon ordre les étapes qui font rouler le bus à hydrogène.",
+   "nl": "Zet de stappen die de waterstofbus laten rijden in de juiste volgorde."
+  },
+  "done": {
+   "en": "All aboard, super engineer!",
+   "fr": "En voiture, super ingénieur !",
+   "nl": "Instappen, super-ingenieur!"
+  },
+  "items": {
+   "en": [
+    "Hydrogen waits in tanks on the roof",
+    "The fuel cell mixes hydrogen with oxygen",
+    "The fuel cell makes electricity",
+    "The electric motor starts spinning",
+    "The wheels turn and the bus drives off"
+   ],
+   "fr": [
+    "L’hydrogène attend dans les réservoirs du toit",
+    "La pile mélange l’hydrogène avec l’oxygène",
+    "La pile fabrique de l’électricité",
+    "Le moteur électrique se met à tourner",
+    "Les roues tournent et le bus démarre"
+   ],
+   "nl": [
+    "Waterstof wacht in de tanks op het dak",
+    "De brandstofcel mengt waterstof met zuurstof",
+    "De brandstofcel maakt elektriciteit",
+    "De elektromotor begint te draaien",
+    "De wielen draaien en de bus rijdt weg"
+   ]
+  }
+ }
+}

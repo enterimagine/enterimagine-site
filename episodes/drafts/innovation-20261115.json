@@ -1,0 +1,247 @@
+{
+ "id": "innovation-20261115",
+ "world": "innovation",
+ "guide": "Whyzz",
+ "title": {
+  "en": "Can kids be inventors too?",
+  "fr": "Les enfants peuvent-ils être inventeurs ?",
+  "nl": "Kunnen kinderen ook uitvinders zijn?"
+ },
+ "scenes": [
+  {
+   "speaker": "Pixel",
+   "en": "Whyzz, are inventors always grown-ups in white coats? Or can kids invent things too?",
+   "fr": "Whyzz, les inventeurs sont-ils toujours des adultes en blouse blanche ? Ou est-ce que les enfants peuvent inventer aussi ?",
+   "nl": "Whyzz, zijn uitvinders altijd volwassenen in een witte jas? Of kunnen kinderen ook dingen uitvinden?",
+   "img": "Pixel asks Whyzz a question in a colorful workshop"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Of course kids can! I once invented a sandwich that makes itself. Okay, it mostly made a big mess!",
+   "fr": "Bien sûr qu’ils peuvent ! Un jour, j’ai inventé un sandwich qui se fait tout seul. Bon, il a surtout fait un gros bazar !",
+   "nl": "Natuurlijk kunnen ze dat! Ik heb ooit een broodje uitgevonden dat zichzelf maakt. Oké, het maakte vooral een grote knoeiboel!",
+   "img": "Whyzz shows a silly sandwich machine splashing jam, Pixel laughs"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "More than 100 years ago, an 11-year-old boy left a fruity drink with a stirring stick outside on a cold night. The next morning it was frozen: the first ice pop!",
+   "fr": "Il y a plus de 100 ans, un garçon de 11 ans a oublié dehors une boisson aux fruits avec un bâtonnet, par une nuit froide. Le lendemain matin, elle était gelée : la première glace à l’eau !",
+   "nl": "Meer dan 100 jaar geleden liet een jongen van 11 een fruitdrankje met een roerstokje buiten staan in een koude nacht. De volgende ochtend was het bevroren: het eerste waterijsje!",
+   "img": "Whyzz holds a frozen drink on a stick in a snowy backyard"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "A 15-year-old boy had cold ears while ice skating, so he invented earmuffs. A teenager watching acrobats bounce in their safety net built the first trampoline!",
+   "fr": "Un garçon de 15 ans avait froid aux oreilles en patinant, alors il a inventé les cache-oreilles. Un ado qui regardait des acrobates rebondir dans leur filet a construit le premier trampoline !",
+   "nl": "Een jongen van 15 had koude oren tijdens het schaatsen, dus vond hij oorwarmers uit. Een tiener die acrobaten in hun vangnet zag stuiteren, bouwde de eerste trampoline!",
+   "img": "Whyzz in fluffy earmuffs bounces on a trampoline, Pixel cheers"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know? A blind 15-year-old invented a way to read by touching raised dots, which people all over the world still use today!",
+   "fr": "Le savais-tu ? Un garçon aveugle de 15 ans a inventé une façon de lire en touchant des petits points en relief, qu’on utilise encore partout dans le monde !",
+   "nl": "Wist je dat? Een blinde jongen van 15 vond een manier uit om te lezen door bolletjes te voelen, die nog altijd over de hele wereld gebruikt wordt!",
+   "img": "Pixel touches a page of raised dots with her fingertips"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So great inventions start when kids notice a problem and get curious! What problem would you like to solve with your own invention?",
+   "fr": "Donc les grandes inventions commencent quand des enfants remarquent un problème et deviennent curieux ! Quel problème aimerais-tu résoudre avec ta propre invention ?",
+   "nl": "Dus grote uitvindingen beginnen als kinderen een probleem zien en nieuwsgierig worden! Welk probleem zou jij willen oplossen met je eigen uitvinding?",
+   "img": "Whyzz and Pixel build a gadget together and cheer"
+  }
+ ],
+ "prompts": [
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands in a bright colorful kids workshop full of tools, cardboard, gears and paint and asks a question with a curious face, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge grins next to a workbench holding a screwdriver, a lab coat hangs on a hook. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge proudly shows a silly homemade machine with springs and robot arms that splashes jam and bread slices everywhere on a messy kitchen table, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs with jam on her jacket. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands in a snowy backyard on a cold sparkling morning and holds up a cup with a frozen red fruity drink on a wooden stick, his face amazed and happy, frost on the fence and a pale winter sun. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge wears big fluffy earmuffs and bounces high on a round trampoline in a sunny garden, arms up and laughing, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge cheers next to the trampoline, a frozen pond with ice skates nearby. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge sits at a wooden table in a cozy library with her eyes closed and a calm happy smile, gently touching a thick white page covered with small raised bumpy dots with her fingertips, warm soft light. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge cheer together in a bright kids workshop next to their homemade gadget made of cardboard, gears, a small fan and colorful lights, sketches of ideas pinned on the wall show only drawings. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "How old was the boy who made the first ice pop?",
+    "fr": "Quel âge avait le garçon qui a fait la première glace à l’eau ?",
+    "nl": "Hoe oud was de jongen die het eerste waterijsje maakte?"
+   },
+   "o": {
+    "en": [
+     "5 years old",
+     "11 years old",
+     "40 years old"
+    ],
+    "fr": [
+     "5 ans",
+     "11 ans",
+     "40 ans"
+    ],
+    "nl": [
+     "5 jaar",
+     "11 jaar",
+     "40 jaar"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What did the boy leave outside on a cold night?",
+    "fr": "Qu’est-ce que le garçon a oublié dehors par une nuit froide ?",
+    "nl": "Wat liet de jongen buiten staan in een koude nacht?"
+   },
+   "o": {
+    "en": [
+     "A fruity drink with a stick",
+     "A snowman",
+     "His shoes"
+    ],
+    "fr": [
+     "Une boisson aux fruits avec un bâtonnet",
+     "Un bonhomme de neige",
+     "Ses chaussures"
+    ],
+    "nl": [
+     "Een fruitdrankje met een stokje",
+     "Een sneeuwpop",
+     "Zijn schoenen"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why were earmuffs invented?",
+    "fr": "Pourquoi a-t-on inventé les cache-oreilles ?",
+    "nl": "Waarom werden oorwarmers uitgevonden?"
+   },
+   "o": {
+    "en": [
+     "To hear better",
+     "For a costume party",
+     "Cold ears while ice skating"
+    ],
+    "fr": [
+     "Pour mieux entendre",
+     "Pour une fête déguisée",
+     "Pour les oreilles froides en patinant"
+    ],
+    "nl": [
+     "Om beter te horen",
+     "Voor een verkleedfeest",
+     "Tegen koude oren tijdens het schaatsen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What gave a teenager the idea for the trampoline?",
+    "fr": "Qu’est-ce qui a donné à un ado l’idée du trampoline ?",
+    "nl": "Wat gaf een tiener het idee voor de trampoline?"
+   },
+   "o": {
+    "en": [
+     "Jumping frogs",
+     "Acrobats bouncing in a safety net",
+     "A bouncy ball"
+    ],
+    "fr": [
+     "Des grenouilles qui sautent",
+     "Des acrobates qui rebondissaient dans un filet",
+     "Une balle rebondissante"
+    ],
+    "nl": [
+     "Springende kikkers",
+     "Acrobaten die in een vangnet stuiterden",
+     "Een stuiterbal"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How can you read with raised dots?",
+    "fr": "Comment lit-on avec des points en relief ?",
+    "nl": "Hoe kun je lezen met bolletjes?"
+   },
+   "o": {
+    "en": [
+     "By touching them with your fingers",
+     "By smelling them",
+     "By listening to them"
+    ],
+    "fr": [
+     "En les touchant avec les doigts",
+     "En les sentant avec le nez",
+     "En les écoutant"
+    ],
+    "nl": [
+     "Door ze met je vingers te voelen",
+     "Door eraan te ruiken",
+     "Door ernaar te luisteren"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "How did it start?",
+   "fr": "Comment tout a commencé ?",
+   "nl": "Hoe begon het?"
+  },
+  "intro": {
+   "en": "Match each invention with how it started.",
+   "fr": "Relie chaque invention à son point de départ.",
+   "nl": "Verbind elke uitvinding met hoe ze begon."
+  },
+  "done": {
+   "en": "Brilliant, young inventor!",
+   "fr": "Génial, jeune inventeur !",
+   "nl": "Geweldig, jonge uitvinder!"
+  },
+  "left": {
+   "en": [
+    "Ice pop",
+    "Earmuffs",
+    "Trampoline",
+    "Reading with raised dots"
+   ],
+   "fr": [
+    "Glace à l’eau",
+    "Cache-oreilles",
+    "Trampoline",
+    "Lire avec des points en relief"
+   ],
+   "nl": [
+    "Waterijsje",
+    "Oorwarmers",
+    "Trampoline",
+    "Lezen met bolletjes"
+   ]
+  },
+  "right": {
+   "en": [
+    "A drink left outside on a cold night",
+    "Cold ears while ice skating",
+    "Acrobats bouncing in a safety net",
+    "A blind boy who wanted to read books"
+   ],
+   "fr": [
+    "Une boisson oubliée dehors par une nuit froide",
+    "Des oreilles froides en patinant",
+    "Des acrobates qui rebondissent dans un filet",
+    "Un garçon aveugle qui voulait lire des livres"
+   ],
+   "nl": [
+    "Een drankje dat buiten bleef staan in een koude nacht",
+    "Koude oren tijdens het schaatsen",
+    "Acrobaten die in een vangnet stuiteren",
+    "Een blinde jongen die boeken wilde lezen"
+   ]
+  }
+ }
+}

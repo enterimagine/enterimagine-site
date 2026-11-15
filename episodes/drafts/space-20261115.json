@@ -1,0 +1,242 @@
+{
+ "id": "space-20261115",
+ "world": "space",
+ "guide": "Qubi",
+ "title": {
+  "en": "What is a black hole?",
+  "fr": "C’est quoi, un trou noir ?",
+  "nl": "Wat is een zwart gat?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, what is a black hole? Is it really a big empty hole in space?",
+   "fr": "Qubi, c’est quoi, un trou noir ? C’est vraiment un grand trou vide dans l’espace ?",
+   "nl": "Qubi, wat is een zwart gat? Is het echt een groot, leeg gat in de ruimte?",
+   "img": "Whyzz and Qubi look up at a starry dome in a planetarium"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I bet it is a giant space vacuum cleaner that slurps up planets like spaghetti!",
+   "fr": "Je parie que c’est un aspirateur géant de l’espace qui aspire les planètes comme des spaghettis !",
+   "nl": "Ik wed dat het een reuzenstofzuiger in de ruimte is die planeten opslurpt als spaghetti!",
+   "img": "Whyzz imagines a cartoon vacuum cleaner in space, Qubi laughs"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Ha, not quite, it is no vacuum cleaner! When a giant star runs out of fuel, it can squeeze itself into a tiny space and become a black hole.",
+   "fr": "Ha, pas tout à fait, ce n’est pas un aspirateur ! Quand une étoile géante n’a plus de carburant, elle peut se tasser dans un tout petit espace et devenir un trou noir.",
+   "nl": "Haha, niet helemaal, het is geen stofzuiger! Als een reuzenster geen brandstof meer heeft, kan ze zich in een piepkleine ruimte samenpersen en een zwart gat worden.",
+   "img": "Qubi shows a big glowing star shrinking into a small dark ball"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "It is packed super tight, like squeezing all of Earth into a marble! Its gravity pulls so hard that even light cannot get out, so it looks black.",
+   "fr": "Il est super serré, comme si on écrasait toute la Terre dans une bille ! Sa gravité tire si fort que même la lumière ne peut pas en sortir, alors il paraît noir.",
+   "nl": "Het is superstrak samengeperst, alsof je de hele aarde in een knikker propt! De zwaartekracht trekt zo hard dat zelfs licht er niet uit kan, dus het ziet er zwart uit.",
+   "img": "Qubi holds a tiny marble next to a big Earth globe, Whyzz is amazed"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Did you know? In the middle of our galaxy sits a giant black hole, millions of times heavier than the Sun, but it is very, very far away from us!",
+   "fr": "Le savais-tu ? Au milieu de notre galaxie se trouve un trou noir géant, des millions de fois plus lourd que le Soleil, mais il est très, très loin de nous !",
+   "nl": "Wist je dat? In het midden van ons sterrenstelsel zit een reusachtig zwart gat, miljoenen keren zwaarder dan de zon, maar het is heel, heel ver van ons vandaan!",
+   "img": "Qubi points at the glowing center of a spiral galaxy on a big screen"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a black hole is a super-squeezed star that even light cannot escape! If you could fly past one in a safe spaceship, what would you want to see?",
+   "fr": "Donc un trou noir, c’est une étoile super tassée dont même la lumière ne peut pas s’échapper ! Si tu pouvais passer près d’un trou noir dans un vaisseau sûr, qu’aimerais-tu voir ?",
+   "nl": "Dus een zwart gat is een supersamengeperste ster waar zelfs licht niet uit kan ontsnappen! Als je in een veilig ruimteschip langs een zwart gat kon vliegen, wat zou je dan willen zien?",
+   "img": "Whyzz and Qubi wave from a cozy spaceship window, a swirl of light far away"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks up with a curious face at a huge starry dome in a bright cozy planetarium, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge smiles and points at a dark round spot surrounded by a glowing orange ring of swirling light among the stars. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a big dream bubble above his head showing a funny cartoon vacuum cleaner floating in space slurping up colorful planets like spaghetti noodles, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge giggles next to him in a planetarium full of stars. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge stands in a space classroom and holds out his hands toward a floating glowing model: a big bright golden star shrinking step by step into a small dark ball with a soft glowing ring around it, he smiles calmly. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge holds up a tiny shiny glass marble between two fingers next to a big Earth globe on a table in a bright science room, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stares at the marble with wide amazed eyes and an open mouth. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge points at a huge screen in a space observatory showing a beautiful spiral galaxy of stars with a bright glowing swirl in its center, his face lit by the light, amazed smile, deep blue and purple colors. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge wave happily from the big round window of a cozy rounded spaceship with soft lights, far away in space a small swirl of glowing orange light circles a dark spot among colorful stars and nebulas. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Is a black hole really an empty hole?",
+    "fr": "Un trou noir, est-ce vraiment un trou vide ?",
+    "nl": "Is een zwart gat echt een leeg gat?"
+   },
+   "o": {
+    "en": [
+     "Yes, it is empty inside",
+     "No, it is lots of stuff squeezed into a tiny space",
+     "No, it is a cloud of black smoke"
+    ],
+    "fr": [
+     "Oui, il est vide à l’intérieur",
+     "Non, c’est beaucoup de matière tassée dans un tout petit espace",
+     "Non, c’est un nuage de fumée noire"
+    ],
+    "nl": [
+     "Ja, het is leeg vanbinnen",
+     "Nee, het is heel veel materie in een piepkleine ruimte",
+     "Nee, het is een wolk zwarte rook"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What can happen when a giant star runs out of fuel?",
+    "fr": "Que peut-il se passer quand une étoile géante n’a plus de carburant ?",
+    "nl": "Wat kan er gebeuren als een reuzenster geen brandstof meer heeft?"
+   },
+   "o": {
+    "en": [
+     "It can become a black hole",
+     "It turns into a planet",
+     "It turns into a comet"
+    ],
+    "fr": [
+     "Elle peut devenir un trou noir",
+     "Elle se transforme en planète",
+     "Elle se transforme en comète"
+    ],
+    "nl": [
+     "Ze kan een zwart gat worden",
+     "Ze verandert in een planeet",
+     "Ze verandert in een komeet"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why does a black hole look black?",
+    "fr": "Pourquoi un trou noir paraît-il noir ?",
+    "nl": "Waarom ziet een zwart gat er zwart uit?"
+   },
+   "o": {
+    "en": [
+     "Someone painted it black",
+     "It is always nighttime there",
+     "Even light cannot get out"
+    ],
+    "fr": [
+     "Quelqu’un l’a peint en noir",
+     "Il y fait toujours nuit",
+     "Même la lumière ne peut pas en sortir"
+    ],
+    "nl": [
+     "Iemand heeft het zwart geverfd",
+     "Daar is het altijd nacht",
+     "Zelfs licht kan er niet uit"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Earth squeezed as tight as a black hole would be as small as…",
+    "fr": "La Terre tassée comme un trou noir serait aussi petite…",
+    "nl": "De aarde, zo strak samengeperst als een zwart gat, zou zo klein zijn als…"
+   },
+   "o": {
+    "en": [
+     "a house",
+     "a mountain",
+     "a marble"
+    ],
+    "fr": [
+     "qu’une maison",
+     "qu’une montagne",
+     "qu’une bille"
+    ],
+    "nl": [
+     "een huis",
+     "een berg",
+     "een knikker"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Where is there a giant black hole?",
+    "fr": "Où se trouve un trou noir géant ?",
+    "nl": "Waar zit een reusachtig zwart gat?"
+   },
+   "o": {
+    "en": [
+     "In the middle of our galaxy",
+     "Inside the Moon",
+     "Right next to Earth"
+    ],
+    "fr": [
+     "Au milieu de notre galaxie",
+     "À l’intérieur de la Lune",
+     "Juste à côté de la Terre"
+    ],
+    "nl": [
+     "In het midden van ons sterrenstelsel",
+     "In de maan",
+     "Vlak naast de aarde"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Black hole facts",
+   "fr": "Vrai sur les trous noirs",
+   "nl": "Weetjes over zwarte gaten"
+  },
+  "intro": {
+   "en": "Pick all the sentences about black holes that are true.",
+   "fr": "Choisis toutes les phrases vraies sur les trous noirs.",
+   "nl": "Kies alle zinnen over zwarte gaten die kloppen."
+  },
+  "done": {
+   "en": "Stellar work, space explorer!",
+   "fr": "Travail stellaire, explorateur de l’espace !",
+   "nl": "Sterk werk, ruimteverkenner!"
+  },
+  "items": {
+   "en": [
+    "Even light cannot escape a black hole",
+    "A black hole is an empty hole",
+    "Some black holes come from giant stars",
+    "A black hole is a space vacuum cleaner",
+    "Our galaxy has a giant black hole in the middle",
+    "There is a black hole inside the Moon",
+    "A black hole has super strong gravity"
+   ],
+   "fr": [
+    "Même la lumière ne peut pas s’échapper d’un trou noir",
+    "Un trou noir est un trou vide",
+    "Certains trous noirs viennent d’étoiles géantes",
+    "Un trou noir est un aspirateur de l’espace",
+    "Notre galaxie a un trou noir géant en son centre",
+    "Il y a un trou noir dans la Lune",
+    "Un trou noir a une gravité super forte"
+   ],
+   "nl": [
+    "Zelfs licht kan niet ontsnappen uit een zwart gat",
+    "Een zwart gat is een leeg gat",
+    "Sommige zwarte gaten komen van reuzensterren",
+    "Een zwart gat is een ruimtestofzuiger",
+    "Ons sterrenstelsel heeft een reusachtig zwart gat in het midden",
+    "Er zit een zwart gat in de maan",
+    "Een zwart gat heeft een supersterke zwaartekracht"
+   ]
+  },
+  "good": [
+   0,
+   2,
+   4,
+   6
+  ]
+ }
+}

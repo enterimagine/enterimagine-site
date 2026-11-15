@@ -5398,5 +5398,437 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Dus vallend water laat turbines draaien en de regen vult het meer weer aan, net een glijbaan die nooit stopt! Als jij je eigen watermachine kon bouwen, wat zou die dan doen?"
+ },
+ {
+  "id": "space-20261115-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, what is a black hole? Is it really a big empty hole in space?"
+ },
+ {
+  "id": "space-20261115-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, c’est quoi, un trou noir ? C’est vraiment un grand trou vide dans l’espace ?"
+ },
+ {
+  "id": "space-20261115-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, wat is een zwart gat? Is het echt een groot, leeg gat in de ruimte?"
+ },
+ {
+  "id": "space-20261115-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I bet it is a giant space vacuum cleaner that slurps up planets like spaghetti!"
+ },
+ {
+  "id": "space-20261115-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je parie que c’est un aspirateur géant de l’espace qui aspire les planètes comme des spaghettis !"
+ },
+ {
+  "id": "space-20261115-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik wed dat het een reuzenstofzuiger in de ruimte is die planeten opslurpt als spaghetti!"
+ },
+ {
+  "id": "space-20261115-en-3",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Ha, not quite, it is no vacuum cleaner! When a giant star runs out of fuel, it can squeeze itself into a tiny space and become a black hole."
+ },
+ {
+  "id": "space-20261115-fr-3",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Ha, pas tout à fait, ce n’est pas un aspirateur ! Quand une étoile géante n’a plus de carburant, elle peut se tasser dans un tout petit espace et devenir un trou noir."
+ },
+ {
+  "id": "space-20261115-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Haha, niet helemaal, het is geen stofzuiger! Als een reuzenster geen brandstof meer heeft, kan ze zich in een piepkleine ruimte samenpersen en een zwart gat worden."
+ },
+ {
+  "id": "space-20261115-en-4",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "It is packed super tight, like squeezing all of Earth into a marble! Its gravity pulls so hard that even light cannot get out, so it looks black."
+ },
+ {
+  "id": "space-20261115-fr-4",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Il est super serré, comme si on écrasait toute la Terre dans une bille ! Sa gravité tire si fort que même la lumière ne peut pas en sortir, alors il paraît noir."
+ },
+ {
+  "id": "space-20261115-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Het is superstrak samengeperst, alsof je de hele aarde in een knikker propt! De zwaartekracht trekt zo hard dat zelfs licht er niet uit kan, dus het ziet er zwart uit."
+ },
+ {
+  "id": "space-20261115-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Did you know? In the middle of our galaxy sits a giant black hole, millions of times heavier than the Sun, but it is very, very far away from us!"
+ },
+ {
+  "id": "space-20261115-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Le savais-tu ? Au milieu de notre galaxie se trouve un trou noir géant, des millions de fois plus lourd que le Soleil, mais il est très, très loin de nous !"
+ },
+ {
+  "id": "space-20261115-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Wist je dat? In het midden van ons sterrenstelsel zit een reusachtig zwart gat, miljoenen keren zwaarder dan de zon, maar het is heel, heel ver van ons vandaan!"
+ },
+ {
+  "id": "space-20261115-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a black hole is a super-squeezed star that even light cannot escape! If you could fly past one in a safe spaceship, what would you want to see?"
+ },
+ {
+  "id": "space-20261115-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc un trou noir, c’est une étoile super tassée dont même la lumière ne peut pas s’échapper ! Si tu pouvais passer près d’un trou noir dans un vaisseau sûr, qu’aimerais-tu voir ?"
+ },
+ {
+  "id": "space-20261115-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus een zwart gat is een supersamengeperste ster waar zelfs licht niet uit kan ontsnappen! Als je in een veilig ruimteschip langs een zwart gat kon vliegen, wat zou je dan willen zien?"
+ },
+ {
+  "id": "mobility-20261115-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, my teacher says some buses run on hydrogen. How can a gas make a big, heavy bus go?"
+ },
+ {
+  "id": "mobility-20261115-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, ma prof dit que certains bus roulent à l’hydrogène. Comment un gaz peut-il faire avancer un gros bus lourd ?"
+ },
+ {
+  "id": "mobility-20261115-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, mijn juf zegt dat sommige bussen op waterstof rijden. Hoe kan een gas een grote, zware bus laten rijden?"
+ },
+ {
+  "id": "mobility-20261115-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Hydrogen is super light, right? I bet the bus is full of balloons and floats all the way to school!"
+ },
+ {
+  "id": "mobility-20261115-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "L’hydrogène, c’est super léger, non ? Je parie que le bus est rempli de ballons et qu’il flotte jusqu’à l’école !"
+ },
+ {
+  "id": "mobility-20261115-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Waterstof is superlicht, toch? Ik wed dat de bus vol ballonnen zit en zo naar school zweeft!"
+ },
+ {
+  "id": "mobility-20261115-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no floating today! The hydrogen is kept safely in strong tanks on the roof. A part called a fuel cell mixes it with oxygen from the air to make electricity."
+ },
+ {
+  "id": "mobility-20261115-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Ha, pas de bus volant aujourd’hui ! L’hydrogène est rangé en sécurité dans des réservoirs solides sur le toit. Une pile à combustible le mélange avec l’oxygène de l’air pour faire de l’électricité."
+ },
+ {
+  "id": "mobility-20261115-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Haha, vandaag zweeft er niks! De waterstof zit veilig in stevige tanks op het dak. Een brandstofcel mengt het met zuurstof uit de lucht en maakt zo elektriciteit."
+ },
+ {
+  "id": "mobility-20261115-en-4",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "The fuel cell is like a tiny kitchen: hydrogen plus oxygen bakes electricity for the motor that turns the wheels. The only thing coming out of the pipe is water!"
+ },
+ {
+  "id": "mobility-20261115-fr-4",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "La pile à combustible, c’est comme une mini-cuisine : hydrogène plus oxygène, et hop, de l’électricité pour le moteur qui fait tourner les roues. Il ne sort que de l’eau du tuyau !"
+ },
+ {
+  "id": "mobility-20261115-nl-4",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "De brandstofcel is net een mini-keuken: waterstof plus zuurstof bakt elektriciteit voor de motor die de wielen laat draaien. Uit de uitlaat komt alleen water!"
+ },
+ {
+  "id": "mobility-20261115-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? Hydrogen is the most common stuff in the whole universe: even our Sun is mostly made of it!"
+ },
+ {
+  "id": "mobility-20261115-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? L’hydrogène est ce qu’il y a de plus répandu dans tout l’univers : même notre Soleil en est surtout fait !"
+ },
+ {
+  "id": "mobility-20261115-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Wist je dat? Waterstof is het meest voorkomende spul in het hele heelal: zelfs onze zon bestaat er vooral uit!"
+ },
+ {
+  "id": "mobility-20261115-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a hydrogen bus makes its own electricity and only puffs out water! If you could design a hydrogen bus, what fun thing would you put inside?"
+ },
+ {
+  "id": "mobility-20261115-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc un bus à hydrogène fabrique sa propre électricité et ne rejette que de l’eau ! Si tu pouvais dessiner un bus à hydrogène, quel truc amusant mettrais-tu dedans ?"
+ },
+ {
+  "id": "mobility-20261115-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus een waterstofbus maakt zijn eigen elektriciteit en puft alleen water uit! Als jij een waterstofbus mocht ontwerpen, wat leuks zou je er dan in zetten?"
+ },
+ {
+  "id": "cities-20261115-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, why does that streetlight get brighter when we walk by and dim again when we leave?"
+ },
+ {
+  "id": "cities-20261115-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, pourquoi ce lampadaire brille plus fort quand on passe et baisse de nouveau quand on s’en va ?"
+ },
+ {
+  "id": "cities-20261115-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, waarom gaat die straatlantaarn feller branden als we voorbijlopen en weer zachter als we weggaan?"
+ },
+ {
+  "id": "cities-20261115-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I know! A tiny owl lives inside the lamp and switches it on when it sees us!"
+ },
+ {
+  "id": "cities-20261115-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je sais ! Une minuscule chouette vit dans la lampe et l’allume quand elle nous voit !"
+ },
+ {
+  "id": "cities-20261115-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik weet het! Er woont een piepklein uiltje in de lamp dat hem aandoet als het ons ziet!"
+ },
+ {
+  "id": "cities-20261115-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Hoot hoot, no owl! A smart streetlight has a motion sensor that notices people, bikes and cars. When the street is empty, the light dims to save energy."
+ },
+ {
+  "id": "cities-20261115-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Hou hou, pas de chouette ! Un lampadaire intelligent a un détecteur de mouvement qui repère les gens, les vélos et les voitures. Quand la rue est vide, la lumière baisse pour économiser l’énergie."
+ },
+ {
+  "id": "cities-20261115-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Oehoe, geen uil! Een slimme straatlantaarn heeft een bewegingssensor die mensen, fietsen en auto’s opmerkt. Als de straat leeg is, gaat het licht zachter om energie te besparen."
+ },
+ {
+  "id": "cities-20261115-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "A light sensor works like an eye: it switches the lamp on when it gets dark. The lamp uses LED lights, which need much less electricity than old bulbs."
+ },
+ {
+  "id": "cities-20261115-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Un capteur de lumière fonctionne comme un œil : il allume la lampe quand il fait noir. La lampe utilise des LED, qui consomment beaucoup moins d’électricité que les vieilles ampoules."
+ },
+ {
+  "id": "cities-20261115-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Een lichtsensor werkt als een oog: hij doet de lamp aan als het donker wordt. De lamp gebruikt ledlampjes, die veel minder elektriciteit nodig hebben dan oude lampen."
+ },
+ {
+  "id": "cities-20261115-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? Bright lamps can confuse baby sea turtles looking for the sea at night, so some beach towns use soft orange lights!"
+ },
+ {
+  "id": "cities-20261115-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Les lampes trop fortes peuvent perdre les bébés tortues de mer qui cherchent la mer la nuit, alors certaines villes de bord de mer utilisent une douce lumière orange !"
+ },
+ {
+  "id": "cities-20261115-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat? Felle lampen kunnen babyzeeschildpadjes in de war brengen als ze ’s nachts de zee zoeken, daarom gebruiken sommige badplaatsen zacht oranje licht!"
+ },
+ {
+  "id": "cities-20261115-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So smart lights shine only when we need them, which saves energy and keeps the night dark for animals! If you could teach a streetlight one more trick, what would it be?"
+ },
+ {
+  "id": "cities-20261115-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les lampadaires intelligents brillent seulement quand on en a besoin, ce qui économise l’énergie et garde la nuit sombre pour les animaux ! Si tu pouvais apprendre un nouveau tour à un lampadaire, lequel serait-ce ?"
+ },
+ {
+  "id": "cities-20261115-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus slimme lampen schijnen alleen als het nodig is: zo besparen ze energie en blijft de nacht donker voor dieren! Als jij een straatlantaarn nog één trucje mocht leren, welk zou dat zijn?"
+ },
+ {
+  "id": "innovation-20261115-en-1",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, are inventors always grown-ups in white coats? Or can kids invent things too?"
+ },
+ {
+  "id": "innovation-20261115-fr-1",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, les inventeurs sont-ils toujours des adultes en blouse blanche ? Ou est-ce que les enfants peuvent inventer aussi ?"
+ },
+ {
+  "id": "innovation-20261115-nl-1",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Whyzz, zijn uitvinders altijd volwassenen in een witte jas? Of kunnen kinderen ook dingen uitvinden?"
+ },
+ {
+  "id": "innovation-20261115-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Of course kids can! I once invented a sandwich that makes itself. Okay, it mostly made a big mess!"
+ },
+ {
+  "id": "innovation-20261115-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Bien sûr qu’ils peuvent ! Un jour, j’ai inventé un sandwich qui se fait tout seul. Bon, il a surtout fait un gros bazar !"
+ },
+ {
+  "id": "innovation-20261115-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Natuurlijk kunnen ze dat! Ik heb ooit een broodje uitgevonden dat zichzelf maakt. Oké, het maakte vooral een grote knoeiboel!"
+ },
+ {
+  "id": "innovation-20261115-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "More than 100 years ago, an 11-year-old boy left a fruity drink with a stirring stick outside on a cold night. The next morning it was frozen: the first ice pop!"
+ },
+ {
+  "id": "innovation-20261115-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Il y a plus de 100 ans, un garçon de 11 ans a oublié dehors une boisson aux fruits avec un bâtonnet, par une nuit froide. Le lendemain matin, elle était gelée : la première glace à l’eau !"
+ },
+ {
+  "id": "innovation-20261115-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Meer dan 100 jaar geleden liet een jongen van 11 een fruitdrankje met een roerstokje buiten staan in een koude nacht. De volgende ochtend was het bevroren: het eerste waterijsje!"
+ },
+ {
+  "id": "innovation-20261115-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "A 15-year-old boy had cold ears while ice skating, so he invented earmuffs. A teenager watching acrobats bounce in their safety net built the first trampoline!"
+ },
+ {
+  "id": "innovation-20261115-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Un garçon de 15 ans avait froid aux oreilles en patinant, alors il a inventé les cache-oreilles. Un ado qui regardait des acrobates rebondir dans leur filet a construit le premier trampoline !"
+ },
+ {
+  "id": "innovation-20261115-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Een jongen van 15 had koude oren tijdens het schaatsen, dus vond hij oorwarmers uit. Een tiener die acrobaten in hun vangnet zag stuiteren, bouwde de eerste trampoline!"
+ },
+ {
+  "id": "innovation-20261115-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? A blind 15-year-old invented a way to read by touching raised dots, which people all over the world still use today!"
+ },
+ {
+  "id": "innovation-20261115-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Un garçon aveugle de 15 ans a inventé une façon de lire en touchant des petits points en relief, qu’on utilise encore partout dans le monde !"
+ },
+ {
+  "id": "innovation-20261115-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat? Een blinde jongen van 15 vond een manier uit om te lezen door bolletjes te voelen, die nog altijd over de hele wereld gebruikt wordt!"
+ },
+ {
+  "id": "innovation-20261115-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So great inventions start when kids notice a problem and get curious! What problem would you like to solve with your own invention?"
+ },
+ {
+  "id": "innovation-20261115-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les grandes inventions commencent quand des enfants remarquent un problème et deviennent curieux ! Quel problème aimerais-tu résoudre avec ta propre invention ?"
+ },
+ {
+  "id": "innovation-20261115-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus grote uitvindingen beginnen als kinderen een probleem zien en nieuwsgierig worden! Welk probleem zou jij willen oplossen met je eigen uitvinding?"
  }
 ]

@@ -1,0 +1,253 @@
+{
+ "id": "cities-20261115",
+ "world": "cities",
+ "guide": "Pixel",
+ "title": {
+  "en": "How do smart streetlights save energy?",
+  "fr": "Comment les lampadaires intelligents économisent-ils l’énergie ?",
+  "nl": "Hoe besparen slimme straatlantaarns energie?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, why does that streetlight get brighter when we walk by and dim again when we leave?",
+   "fr": "Pixel, pourquoi ce lampadaire brille plus fort quand on passe et baisse de nouveau quand on s’en va ?",
+   "nl": "Pixel, waarom gaat die straatlantaarn feller branden als we voorbijlopen en weer zachter als we weggaan?",
+   "img": "Whyzz and Pixel walk on an evening street under a glowing streetlight"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I know! A tiny owl lives inside the lamp and switches it on when it sees us!",
+   "fr": "Je sais ! Une minuscule chouette vit dans la lampe et l’allume quand elle nous voit !",
+   "nl": "Ik weet het! Er woont een piepklein uiltje in de lamp dat hem aandoet als het ons ziet!",
+   "img": "Whyzz imagines a tiny owl inside a lamp, Pixel laughs"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Hoot hoot, no owl! A smart streetlight has a motion sensor that notices people, bikes and cars. When the street is empty, the light dims to save energy.",
+   "fr": "Hou hou, pas de chouette ! Un lampadaire intelligent a un détecteur de mouvement qui repère les gens, les vélos et les voitures. Quand la rue est vide, la lumière baisse pour économiser l’énergie.",
+   "nl": "Oehoe, geen uil! Een slimme straatlantaarn heeft een bewegingssensor die mensen, fietsen en auto’s opmerkt. Als de straat leeg is, gaat het licht zachter om energie te besparen.",
+   "img": "Pixel points at a small sensor on the lamp, a bike rides by"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "A light sensor works like an eye: it switches the lamp on when it gets dark. The lamp uses LED lights, which need much less electricity than old bulbs.",
+   "fr": "Un capteur de lumière fonctionne comme un œil : il allume la lampe quand il fait noir. La lampe utilise des LED, qui consomment beaucoup moins d’électricité que les vieilles ampoules.",
+   "nl": "Een lichtsensor werkt als een oog: hij doet de lamp aan als het donker wordt. De lamp gebruikt ledlampjes, die veel minder elektriciteit nodig hebben dan oude lampen.",
+   "img": "Pixel shows a glowing LED lamp head, sunset sky behind"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know? Bright lamps can confuse baby sea turtles looking for the sea at night, so some beach towns use soft orange lights!",
+   "fr": "Le savais-tu ? Les lampes trop fortes peuvent perdre les bébés tortues de mer qui cherchent la mer la nuit, alors certaines villes de bord de mer utilisent une douce lumière orange !",
+   "nl": "Wist je dat? Felle lampen kunnen babyzeeschildpadjes in de war brengen als ze ’s nachts de zee zoeken, daarom gebruiken sommige badplaatsen zacht oranje licht!",
+   "img": "Pixel kneels on a beach at night as baby turtles walk to the sea"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So smart lights shine only when we need them, which saves energy and keeps the night dark for animals! If you could teach a streetlight one more trick, what would it be?",
+   "fr": "Donc les lampadaires intelligents brillent seulement quand on en a besoin, ce qui économise l’énergie et garde la nuit sombre pour les animaux ! Si tu pouvais apprendre un nouveau tour à un lampadaire, lequel serait-ce ?",
+   "nl": "Dus slimme lampen schijnen alleen als het nodig is: zo besparen ze energie en blijft de nacht donker voor dieren! Als jij een straatlantaarn nog één trucje mocht leren, welk zou dat zijn?",
+   "img": "Whyzz and Pixel wave under a softly glowing streetlight at night"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge walk along a cozy evening street with plain houses, trees and no signs, a modern streetlight above them glows brighter as they pass, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge points up at it with a puzzled face, a row of dimmer streetlights further down the empty street. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a big dream bubble above his head showing a tiny cute owl with big round eyes sitting inside a streetlight lamp and flipping a little switch, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge giggles next to him on an evening sidewalk. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands on a quiet evening street and points at a small round sensor on a modern streetlight pole, the lamp glows brightly as a kid on a bicycle rides by, soft ripples show the sensor noticing movement, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with big curious eyes, plain houses and no signs. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands on a small balcony at sunset next to the head of a modern streetlight and points at its rows of tiny glowing white LED lights, a small dark round light sensor on top looks like a little eye, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans in with an amazed face, orange and purple sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge kneels on a calm sandy beach at night under a bright moon and smiles at a group of tiny cute baby sea turtles walking across the sand toward the shimmering sea, soft warm orange lamps glow low and gently along the beach path behind her. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge wave happily under a softly glowing modern streetlight on a peaceful night street, a starry sky above, a little bat and fireflies flying near the trees, plain houses and no signs. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What does the motion sensor notice?",
+    "fr": "Que repère le détecteur de mouvement ?",
+    "nl": "Wat merkt de bewegingssensor op?"
+   },
+   "o": {
+    "en": [
+     "Rain on the street",
+     "People, bikes and cars",
+     "Music"
+    ],
+    "fr": [
+     "La pluie dans la rue",
+     "Les gens, les vélos et les voitures",
+     "La musique"
+    ],
+    "nl": [
+     "Regen op straat",
+     "Mensen, fietsen en auto’s",
+     "Muziek"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does the light do when the street is empty?",
+    "fr": "Que fait la lumière quand la rue est vide ?",
+    "nl": "Wat doet het licht als de straat leeg is?"
+   },
+   "o": {
+    "en": [
+     "It dims to save energy",
+     "It plays a song",
+     "It gets extra bright"
+    ],
+    "fr": [
+     "Elle baisse pour économiser l’énergie",
+     "Elle joue une chanson",
+     "Elle devient super forte"
+    ],
+    "nl": [
+     "Het gaat zachter om energie te besparen",
+     "Het speelt een liedje",
+     "Het wordt extra fel"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What does the light sensor notice?",
+    "fr": "Que remarque le capteur de lumière ?",
+    "nl": "Wat merkt de lichtsensor op?"
+   },
+   "o": {
+    "en": [
+     "When someone is hungry",
+     "When it rains",
+     "When it gets dark"
+    ],
+    "fr": [
+     "Quand quelqu’un a faim",
+     "Quand il pleut",
+     "Quand il fait noir"
+    ],
+    "nl": [
+     "Wanneer iemand honger heeft",
+     "Wanneer het regent",
+     "Wanneer het donker wordt"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Why do smart streetlights use LED lights?",
+    "fr": "Pourquoi les lampadaires intelligents utilisent-ils des LED ?",
+    "nl": "Waarom gebruiken slimme straatlantaarns ledlampjes?"
+   },
+   "o": {
+    "en": [
+     "They need much less electricity",
+     "They are much bigger",
+     "They make a nice noise"
+    ],
+    "fr": [
+     "Elles consomment beaucoup moins d’électricité",
+     "Elles sont beaucoup plus grandes",
+     "Elles font un joli bruit"
+    ],
+    "nl": [
+     "Ze hebben veel minder elektriciteit nodig",
+     "Ze zijn veel groter",
+     "Ze maken een leuk geluid"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Who can get confused by bright lamps at the beach?",
+    "fr": "Qui peut être perdu à cause des lampes fortes à la plage ?",
+    "nl": "Wie kan door felle lampen op het strand in de war raken?"
+   },
+   "o": {
+    "en": [
+     "Cows",
+     "Baby sea turtles",
+     "Goldfish in a bowl"
+    ],
+    "fr": [
+     "Les vaches",
+     "Les bébés tortues de mer",
+     "Les poissons rouges dans un bocal"
+    ],
+    "nl": [
+     "Koeien",
+     "Babyzeeschildpadjes",
+     "Goudvissen in een kom"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "What makes a streetlight smart?",
+   "fr": "Qu’est-ce qui rend un lampadaire intelligent ?",
+   "nl": "Wat maakt een straatlantaarn slim?"
+  },
+  "intro": {
+   "en": "Match each part with what it does.",
+   "fr": "Relie chaque partie à ce qu’elle fait.",
+   "nl": "Verbind elk onderdeel met wat het doet."
+  },
+  "done": {
+   "en": "Bright idea, city helper!",
+   "fr": "Lumineux, petit génie de la ville !",
+   "nl": "Slim bedacht, stadshelper!"
+  },
+  "left": {
+   "en": [
+    "Motion sensor",
+    "Light sensor",
+    "LED lights",
+    "Dimmer",
+    "Soft orange light"
+   ],
+   "fr": [
+    "Détecteur de mouvement",
+    "Capteur de lumière",
+    "LED",
+    "Variateur",
+    "Douce lumière orange"
+   ],
+   "nl": [
+    "Bewegingssensor",
+    "Lichtsensor",
+    "Ledlampjes",
+    "Dimmer",
+    "Zacht oranje licht"
+   ]
+  },
+  "right": {
+   "en": [
+    "Notices people walking by",
+    "Knows when it gets dark",
+    "Shine with little electricity",
+    "Makes the light softer on an empty street",
+    "Helps baby sea turtles find the sea"
+   ],
+   "fr": [
+    "Repère les gens qui passent",
+    "Sait quand il fait noir",
+    "Brillent avec peu d’électricité",
+    "Baisse la lumière dans une rue vide",
+    "Aide les bébés tortues à trouver la mer"
+   ],
+   "nl": [
+    "Merkt mensen op die voorbijlopen",
+    "Weet wanneer het donker wordt",
+    "Schijnen met weinig elektriciteit",
+    "Maakt het licht zachter in een lege straat",
+    "Helpt babyschildpadjes de zee te vinden"
+   ]
+  }
+ }
+}
