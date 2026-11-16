@@ -11009,6 +11009,1230 @@
    },
    "added": "2026-11-15",
    "voice": true
+  },
+  {
+   "id": "pixel-20261116",
+   "world": "pixel",
+   "guide": "Pixel",
+   "title": {
+    "en": "Can a computer paint a picture?",
+    "fr": "Un ordinateur peut-il peindre un tableau ?",
+    "nl": "Kan een computer een schilderij maken?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, my little sister drew a purple dragon eating pizza. Could a computer ever paint something like that?",
+     "fr": "Pixel, ma petite sœur a dessiné un dragon violet qui mange une pizza. Un ordinateur pourrait-il peindre un truc pareil ?",
+     "nl": "Pixel, mijn zusje tekende een paarse draak die pizza eet. Kan een computer ooit zoiets schilderen?",
+     "img": "Whyzz shows a crayon drawing of a purple dragon eating pizza"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Yes, an AI picture maker can, after studying millions of pictures with short descriptions! That’s how it learns what a dragon, the color purple and a pizza look like.",
+     "fr": "Oui, un créateur d’images par IA en est capable, après avoir étudié des millions d’images avec de courtes descriptions ! C’est comme ça qu’il apprend à quoi ressemblent un dragon, le violet et une pizza.",
+     "nl": "Ja, een AI-plaatjesmaker kan dat, nadat hij miljoenen plaatjes met korte beschrijvingen heeft bestudeerd! Zo leert hij hoe een draak, de kleur paars en een pizza eruitzien.",
+     "img": "Pixel and a robot study a giant wall of little pictures"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So there’s a tiny painter with a tiny brush living inside the computer? I hope he gets lunch breaks!",
+     "fr": "Alors il y a un minuscule peintre avec un minuscule pinceau qui vit dans l’ordinateur ? J’espère qu’il a des pauses déjeuner !",
+     "nl": "Dus er woont een piepklein schildertje met een piepklein penseel in de computer? Ik hoop dat hij lunchpauze krijgt!",
+     "img": "Whyzz imagines a tiny painter inside a laptop, Pixel laughs"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, no painter! It starts with a fuzzy picture full of random dots and cleans it up step by step until your dragon appears.",
+     "fr": "Ha, pas de peintre ! Il commence par une image floue pleine de points au hasard et la nettoie petit à petit jusqu’à ce que ton dragon apparaisse.",
+     "nl": "Haha, geen schilder! Hij begint met een wazig plaatje vol willekeurige stipjes en maakt het stap voor stap schoner tot je draak verschijnt.",
+     "img": "Four frames go from fuzzy dots to a clear purple dragon"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know AI pictures sometimes show hands with six fingers? The computer doesn’t really understand hands, it only learned which shapes often go together.",
+     "fr": "Savais-tu que les images faites par IA montrent parfois des mains à six doigts ? L’ordinateur ne comprend pas vraiment les mains, il a seulement appris quelles formes vont souvent ensemble.",
+     "nl": "Wist je dat AI-plaatjes soms handen met zes vingers tonen? De computer begrijpt handen niet echt, hij heeft alleen geleerd welke vormen vaak bij elkaar horen.",
+     "img": "Pixel shows a funny picture of a cartoon glove, Whyzz counts his fingers"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So the computer learns from lots of pictures, then turns fuzzy dots into a new one! If you could ask it for any picture, what would you make?",
+     "fr": "Donc l’ordinateur apprend avec plein d’images, puis il transforme des points flous en une nouvelle image ! Si tu pouvais lui demander n’importe quelle image, qu’est-ce que tu créerais ?",
+     "nl": "Dus de computer leert van heel veel plaatjes en maakt dan van wazige stipjes een nieuw plaatje! Als jij om elk plaatje mocht vragen, wat zou jij dan maken?",
+     "img": "Whyzz and Pixel cheer in front of a screen with the dragon"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What does an AI picture maker study first?",
+      "fr": "Qu’est-ce qu’un créateur d’images par IA étudie d’abord ?",
+      "nl": "Wat bestudeert een AI-plaatjesmaker eerst?"
+     },
+     "o": {
+      "en": [
+       "Only one drawing",
+       "Millions of pictures with short descriptions",
+       "Old cookbooks"
+      ],
+      "fr": [
+       "Un seul dessin",
+       "Des millions d’images avec de courtes descriptions",
+       "De vieux livres de cuisine"
+      ],
+      "nl": [
+       "Maar één tekening",
+       "Miljoenen plaatjes met korte beschrijvingen",
+       "Oude kookboeken"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How does the computer start a new picture?",
+      "fr": "Comment l’ordinateur commence-t-il une nouvelle image ?",
+      "nl": "Hoe begint de computer aan een nieuw plaatje?"
+     },
+     "o": {
+      "en": [
+       "With a fuzzy picture full of random dots",
+       "With a blank black screen",
+       "With a photo of a painter"
+      ],
+      "fr": [
+       "Avec une image floue pleine de points au hasard",
+       "Avec un écran tout noir",
+       "Avec une photo d’un peintre"
+      ],
+      "nl": [
+       "Met een wazig plaatje vol willekeurige stipjes",
+       "Met een helemaal zwart scherm",
+       "Met een foto van een schilder"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Who paints inside the computer?",
+      "fr": "Qui peint dans l’ordinateur ?",
+      "nl": "Wie schildert er in de computer?"
+     },
+     "o": {
+      "en": [
+       "A tiny painter",
+       "A tiny dragon",
+       "Nobody, it cleans up dots step by step"
+      ],
+      "fr": [
+       "Un minuscule peintre",
+       "Un minuscule dragon",
+       "Personne, il nettoie des points petit à petit"
+      ],
+      "nl": [
+       "Een piepklein schildertje",
+       "Een piepklein draakje",
+       "Niemand, hij maakt stipjes stap voor stap schoner"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What funny mistake do AI pictures sometimes make?",
+      "fr": "Quelle erreur rigolote les images faites par IA font-elles parfois ?",
+      "nl": "Welke grappige fout maken AI-plaatjes soms?"
+     },
+     "o": {
+      "en": [
+       "A sky that is too blue",
+       "Hands with six fingers",
+       "Pizza that is too round"
+      ],
+      "fr": [
+       "Un ciel trop bleu",
+       "Des mains à six doigts",
+       "Une pizza trop ronde"
+      ],
+      "nl": [
+       "Een te blauwe lucht",
+       "Handen met zes vingers",
+       "Een te ronde pizza"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Does the computer really understand what hands are?",
+      "fr": "L’ordinateur comprend-il vraiment ce que sont des mains ?",
+      "nl": "Begrijpt de computer echt wat handen zijn?"
+     },
+     "o": {
+      "en": [
+       "Yes, perfectly",
+       "Only on Sundays",
+       "No, it learned which shapes go together"
+      ],
+      "fr": [
+       "Oui, parfaitement",
+       "Seulement le dimanche",
+       "Non, il a appris quelles formes vont ensemble"
+      ],
+      "nl": [
+       "Ja, perfect",
+       "Alleen op zondag",
+       "Nee, hij leerde welke vormen bij elkaar horen"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "Make an AI picture",
+     "fr": "Crée une image par IA",
+     "nl": "Maak een AI-plaatje"
+    },
+    "intro": {
+     "en": "How does a computer make a new picture? Put the steps in the right order!",
+     "fr": "Comment un ordinateur crée-t-il une nouvelle image ? Remets les étapes dans le bon ordre !",
+     "nl": "Hoe maakt een computer een nieuw plaatje? Zet de stappen in de juiste volgorde!"
+    },
+    "done": {
+     "en": "Ta-da! Your dragon picture is ready.",
+     "fr": "Tadaa ! Ton image de dragon est prête.",
+     "nl": "Tadaa! Je drakenplaatje is klaar."
+    },
+    "items": {
+     "en": [
+      "The computer studies millions of pictures with descriptions",
+      "You ask for a purple dragon eating pizza",
+      "It starts with a fuzzy picture full of dots",
+      "It cleans up the dots step by step",
+      "Your new dragon picture appears"
+     ],
+     "fr": [
+      "L’ordinateur étudie des millions d’images avec des descriptions",
+      "Tu demandes un dragon violet qui mange une pizza",
+      "Il commence par une image floue pleine de points",
+      "Il nettoie les points petit à petit",
+      "Ta nouvelle image de dragon apparaît"
+     ],
+     "nl": [
+      "De computer bestudeert miljoenen plaatjes met beschrijvingen",
+      "Je vraagt om een paarse draak die pizza eet",
+      "Hij begint met een wazig plaatje vol stipjes",
+      "Hij maakt de stipjes stap voor stap schoner",
+      "Je nieuwe drakenplaatje verschijnt"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "AI & Data",
+    "fr": "IA et données",
+    "nl": "AI en data"
+   },
+   "adult": {
+    "en": "For grown-ups: the AI & Data world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde IA et données dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld AI en data in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-16",
+   "voice": true
+  },
+  {
+   "id": "qubi-20261116",
+   "world": "qubi",
+   "guide": "Qubi",
+   "title": {
+    "en": "How can a quantum sensor find hidden caves?",
+    "fr": "Comment un capteur quantique trouve-t-il des grottes cachées ?",
+    "nl": "Hoe vindt een quantumsensor verborgen grotten?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, I want to find a secret cave under our park, but I can’t dig up the whole playground. Is there a way to look underground?",
+     "fr": "Qubi, je veux trouver une grotte secrète sous notre parc, mais je ne peux pas creuser toute l’aire de jeux. Y a-t-il un moyen de voir sous terre ?",
+     "nl": "Qubi, ik wil een geheime grot onder ons park vinden, maar ik kan niet de hele speeltuin omgraven. Kun je op een of andere manier onder de grond kijken?",
+     "img": "Whyzz with a toy shovel in a park, Qubi holds a glowing gadget"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Yes, with a quantum sensor! It measures gravity, the invisible pull that keeps your feet on the ground, super precisely.",
+     "fr": "Oui, avec un capteur quantique ! Il mesure très précisément la gravité, cette force invisible qui garde tes pieds sur le sol.",
+     "nl": "Ja, met een quantumsensor! Die meet heel precies de zwaartekracht, de onzichtbare kracht die je voeten op de grond houdt.",
+     "img": "Qubi holds the gadget over the grass, glowing arrows point down"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Gravity? So if I jump really high above the cave, will I float away like a balloon?",
+     "fr": "La gravité ? Alors si je saute très haut au-dessus de la grotte, je vais m’envoler comme un ballon ?",
+     "nl": "Zwaartekracht? Dus als ik heel hoog spring boven de grot, zweef ik dan weg als een ballon?",
+     "img": "Whyzz jumps high among balloons, Qubi laughs"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Ha, no, that difference is way too tiny to feel! Inside, little atoms fall while lasers watch them: above an empty cave less rock pulls on them, so they fall a teeny bit slower.",
+     "fr": "Ha, non, c’est bien trop petit pour le sentir ! Dedans, des atomes tombent sous l’œil de lasers : au-dessus d’une grotte vide, moins de roche les attire, alors ils tombent un poil moins vite.",
+     "nl": "Haha, nee, dat verschil is veel te klein om te voelen! Binnenin vallen atomen terwijl lasers ze bekijken: boven een lege grot trekt er minder steen aan ze, dus vallen ze een tikje trager.",
+     "img": "Cutaway of a hidden cave, atoms fall between laser beams in the gadget"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Did you know these atoms are cooled until they’re colder than outer space? Super cold atoms move very slowly, which makes them easy to measure.",
+     "fr": "Savais-tu que ces atomes sont refroidis jusqu’à être plus froids que l’espace ? Les atomes très froids bougent très lentement, ce qui les rend faciles à mesurer.",
+     "nl": "Wist je dat deze atomen worden afgekoeld tot ze kouder zijn dan de ruimte? Superkoude atomen bewegen heel traag, waardoor je ze makkelijk kunt meten.",
+     "img": "Qubi and Whyzz in earmuffs shiver next to a frosty bubble of atoms"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So falling atoms can find hidden caves without digging a single hole! If you had a quantum sensor, what secret would you look for underground?",
+     "fr": "Donc des atomes qui tombent peuvent trouver des grottes cachées sans creuser un seul trou ! Si tu avais un capteur quantique, quel secret chercherais-tu sous terre ?",
+     "nl": "Dus vallende atomen kunnen verborgen grotten vinden zonder één gat te graven! Als jij een quantumsensor had, welk geheim zou jij onder de grond zoeken?",
+     "img": "Whyzz and Qubi high-five above a sparkling hidden cave"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What does a quantum sensor measure?",
+      "fr": "Que mesure un capteur quantique ?",
+      "nl": "Wat meet een quantumsensor?"
+     },
+     "o": {
+      "en": [
+       "Noise",
+       "Gravity",
+       "Wind"
+      ],
+      "fr": [
+       "Le bruit",
+       "La gravité",
+       "Le vent"
+      ],
+      "nl": [
+       "Geluid",
+       "Zwaartekracht",
+       "Wind"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What happens to the atoms inside the sensor?",
+      "fr": "Que font les atomes dans le capteur ?",
+      "nl": "Wat gebeurt er met de atomen in de sensor?"
+     },
+     "o": {
+      "en": [
+       "They fall while lasers watch them",
+       "They sing songs",
+       "They fly up to the Moon"
+      ],
+      "fr": [
+       "Ils tombent sous l’œil de lasers",
+       "Ils chantent des chansons",
+       "Ils s’envolent vers la Lune"
+      ],
+      "nl": [
+       "Ze vallen terwijl lasers ze bekijken",
+       "Ze zingen liedjes",
+       "Ze vliegen naar de maan"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why do the atoms fall a teeny bit slower above an empty cave?",
+      "fr": "Pourquoi les atomes tombent-ils un poil moins vite au-dessus d’une grotte vide ?",
+      "nl": "Waarom vallen de atomen een tikje trager boven een lege grot?"
+     },
+     "o": {
+      "en": [
+       "Because the cave is dark",
+       "Because the atoms are tired",
+       "Because less rock pulls on them"
+      ],
+      "fr": [
+       "Parce que la grotte est sombre",
+       "Parce que les atomes sont fatigués",
+       "Parce que moins de roche les attire"
+      ],
+      "nl": [
+       "Omdat de grot donker is",
+       "Omdat de atomen moe zijn",
+       "Omdat er minder steen aan ze trekt"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "How cold are the atoms in the sensor?",
+      "fr": "À quel point les atomes du capteur sont-ils froids ?",
+      "nl": "Hoe koud zijn de atomen in de sensor?"
+     },
+     "o": {
+      "en": [
+       "As warm as soup",
+       "Colder than outer space",
+       "As cold as a fridge"
+      ],
+      "fr": [
+       "Aussi chauds qu’une soupe",
+       "Plus froids que l’espace",
+       "Aussi froids qu’un frigo"
+      ],
+      "nl": [
+       "Zo warm als soep",
+       "Kouder dan de ruimte",
+       "Zo koud als een koelkast"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Could Whyzz feel the tiny change in gravity above the cave?",
+      "fr": "Whyzz pourrait-il sentir le minuscule changement de gravité au-dessus de la grotte ?",
+      "nl": "Kon Whyzz het piepkleine verschil in zwaartekracht boven de grot voelen?"
+     },
+     "o": {
+      "en": [
+       "Yes, he floats away like a balloon",
+       "Yes, he gets super heavy",
+       "No, it’s way too tiny to feel"
+      ],
+      "fr": [
+       "Oui, il s’envole comme un ballon",
+       "Oui, il devient super lourd",
+       "Non, c’est bien trop petit pour le sentir"
+      ],
+      "nl": [
+       "Ja, hij zweeft weg als een ballon",
+       "Ja, hij wordt superzwaar",
+       "Nee, het is veel te klein om te voelen"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Quantum sensor detective",
+     "fr": "Détective du capteur quantique",
+     "nl": "Quantumsensor-speurder"
+    },
+    "intro": {
+     "en": "A quantum sensor feels tiny changes in gravity. Which hidden things could it find underground? Pick the right ones!",
+     "fr": "Un capteur quantique sent de minuscules changements de gravité. Quelles choses cachées pourrait-il trouver sous terre ? Choisis les bonnes !",
+     "nl": "Een quantumsensor voelt piepkleine verschillen in zwaartekracht. Welke verborgen dingen kan hij onder de grond vinden? Kies de juiste!"
+    },
+    "done": {
+     "en": "Great detective work! You found everything the sensor can feel.",
+     "fr": "Super travail de détective ! Tu as trouvé tout ce que le capteur peut sentir.",
+     "nl": "Goed speurwerk! Je hebt alles gevonden wat de sensor kan voelen."
+    },
+    "items": {
+     "en": [
+      "A hidden cave",
+      "An old tunnel",
+      "A song stuck in your head",
+      "A secret cellar under an old house",
+      "The color of a worm",
+      "Melted rock under a volcano",
+      "Tomorrow’s weather"
+     ],
+     "fr": [
+      "Une grotte cachée",
+      "Un vieux tunnel",
+      "Une chanson coincée dans ta tête",
+      "Une cave secrète sous une vieille maison",
+      "La couleur d’un ver de terre",
+      "De la roche fondue sous un volcan",
+      "La météo de demain"
+     ],
+     "nl": [
+      "Een verborgen grot",
+      "Een oude tunnel",
+      "Een liedje dat in je hoofd blijft hangen",
+      "Een geheime kelder onder een oud huis",
+      "De kleur van een regenworm",
+      "Gesmolten gesteente onder een vulkaan",
+      "Het weer van morgen"
+     ]
+    },
+    "good": [
+     0,
+     1,
+     3,
+     5
+    ]
+   },
+   "worldName": {
+    "en": "Quantum",
+    "fr": "Quantique",
+    "nl": "Quantum"
+   },
+   "adult": {
+    "en": "For grown-ups: the Quantum world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Quantique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Quantum in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-16",
+   "voice": true
+  },
+  {
+   "id": "bloom-20261116",
+   "world": "bloom",
+   "guide": "Bloom",
+   "title": {
+    "en": "How can you see the DNA of a strawberry?",
+    "fr": "Comment voir l’ADN d’une fraise ?",
+    "nl": "Hoe kun je het DNA van een aardbei zien?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Bloom, everyone says living things are built from a recipe called DNA. Can I actually see DNA, or is it way too small?",
+     "fr": "Bloom, tout le monde dit que les êtres vivants sont construits d’après une recette qui s’appelle l’ADN. Est-ce que je peux vraiment voir de l’ADN, ou c’est beaucoup trop petit ?",
+     "nl": "Bloom, iedereen zegt dat levende wezens gebouwd zijn volgens een recept dat DNA heet. Kan ik DNA echt zien, of is het veel te klein?",
+     "img": "Whyzz looks at a strawberry through a magnifying glass"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "One DNA thread is too thin to see, but if we pull out millions together, you can! Strawberries are perfect because each cell has lots of copies of their DNA.",
+     "fr": "Un seul fil d’ADN est trop fin pour être vu, mais si on en sort des millions ensemble, tu pourras le voir ! Les fraises sont parfaites, car chaque cellule contient plein de copies de leur ADN.",
+     "nl": "Eén DNA-draadje is te dun om te zien, maar als we er miljoenen tegelijk uithalen, lukt het wel! Aardbeien zijn perfect, want elke cel bevat heel veel kopieën van hun DNA.",
+     "img": "Bloom holds a strawberry, a bubble shows cells full of DNA"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Cool! So I just knock on the strawberry and ask it very politely to hand over its DNA?",
+     "fr": "Trop bien ! Alors je frappe à la porte de la fraise et je lui demande très poliment de me donner son ADN ?",
+     "nl": "Gaaf! Dus ik klop gewoon op de aardbei en vraag heel beleefd of ik haar DNA mag hebben?",
+     "img": "Whyzz knocks on a giant strawberry with a tiny door, Bloom laughs"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Ha, it needs a bit more help! We mash it in a bag with water, dish soap and salt, because the soap opens the cells like unzipping a jacket.",
+     "fr": "Ha, elle a besoin d’un peu plus d’aide ! On l’écrase dans un sachet avec de l’eau, du liquide vaisselle et du sel, car le savon ouvre les cellules comme on ouvre la fermeture éclair d’une veste.",
+     "nl": "Haha, ze heeft wat meer hulp nodig! We pletten haar in een zakje met water, afwasmiddel en zout, want de zeep maakt de cellen open, zoals je een jas openritst.",
+     "img": "Bloom and Whyzz squish a strawberry in a zip bag"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Then a grown-up pours ice-cold rubbing alcohol on top and white, fluffy DNA floats up like a little cloud! Did you know the DNA in one of your cells, unrolled, is about 2 meters long?",
+     "fr": "Ensuite, un adulte verse de l’alcool bien froid dessus et l’ADN, blanc et cotonneux, remonte comme un petit nuage ! Savais-tu que l’ADN d’une seule de tes cellules, déroulé, mesure environ 2 mètres ?",
+     "nl": "Daarna giet een volwassene ijskoude alcohol erbovenop en drijft wit, pluizig DNA omhoog als een wolkje! Wist je dat het DNA uit één cel van jou, helemaal uitgerold, ongeveer 2 meter lang is?",
+     "img": "White fluffy DNA floats up in a glass, Bloom lifts it with a stick"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So soap, salt and cold alcohol let me see a strawberry’s recipe with my own eyes! Which fruit or veggie would you like to pull DNA from?",
+     "fr": "Donc du savon, du sel et de l’alcool froid me permettent de voir la recette d’une fraise de mes propres yeux ! De quel fruit ou légume aimerais-tu sortir l’ADN ?",
+     "nl": "Dus met zeep, zout en koude alcohol kan ik het recept van een aardbei met mijn eigen ogen zien! Uit welke vrucht of groente zou jij DNA willen halen?",
+     "img": "Whyzz and Bloom cheer with a tube of DNA among fruits"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Why are strawberries great for this experiment?",
+      "fr": "Pourquoi les fraises sont-elles parfaites pour cette expérience ?",
+      "nl": "Waarom zijn aardbeien perfect voor dit experiment?"
+     },
+     "o": {
+      "en": [
+       "They are very sweet",
+       "Each cell has lots of copies of their DNA",
+       "They are red"
+      ],
+      "fr": [
+       "Elles sont très sucrées",
+       "Chaque cellule contient plein de copies de leur ADN",
+       "Elles sont rouges"
+      ],
+      "nl": [
+       "Ze zijn heel zoet",
+       "Elke cel bevat heel veel kopieën van hun DNA",
+       "Ze zijn rood"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does the dish soap do?",
+      "fr": "À quoi sert le liquide vaisselle ?",
+      "nl": "Wat doet het afwasmiddel?"
+     },
+     "o": {
+      "en": [
+       "It opens the cells",
+       "It makes the DNA red",
+       "It cleans the table"
+      ],
+      "fr": [
+       "Il ouvre les cellules",
+       "Il rend l’ADN rouge",
+       "Il nettoie la table"
+      ],
+      "nl": [
+       "Het maakt de cellen open",
+       "Het maakt het DNA rood",
+       "Het maakt de tafel schoon"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Who pours the ice-cold rubbing alcohol?",
+      "fr": "Qui verse l’alcool bien froid ?",
+      "nl": "Wie giet de ijskoude alcohol erop?"
+     },
+     "o": {
+      "en": [
+       "Whyzz all alone",
+       "The strawberry",
+       "A grown-up"
+      ],
+      "fr": [
+       "Whyzz tout seul",
+       "La fraise",
+       "Un adulte"
+      ],
+      "nl": [
+       "Whyzz helemaal alleen",
+       "De aardbei",
+       "Een volwassene"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What does the DNA look like when it floats up?",
+      "fr": "À quoi ressemble l’ADN quand il remonte ?",
+      "nl": "Hoe ziet het DNA eruit als het omhoog drijft?"
+     },
+     "o": {
+      "en": [
+       "Blue sparkles",
+       "A white fluffy cloud",
+       "Tiny red balls"
+      ],
+      "fr": [
+       "Des paillettes bleues",
+       "Un nuage blanc et cotonneux",
+       "De petites boules rouges"
+      ],
+      "nl": [
+       "Blauwe glitters",
+       "Een wit, pluizig wolkje",
+       "Kleine rode balletjes"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How long is the DNA from one of your cells, unrolled?",
+      "fr": "Quelle est la longueur de l’ADN d’une de tes cellules, déroulé ?",
+      "nl": "Hoe lang is het DNA uit één cel van jou, helemaal uitgerold?"
+     },
+     "o": {
+      "en": [
+       "About 2 millimeters",
+       "About 2 kilometers",
+       "About 2 meters"
+      ],
+      "fr": [
+       "Environ 2 millimètres",
+       "Environ 2 kilomètres",
+       "Environ 2 mètres"
+      ],
+      "nl": [
+       "Ongeveer 2 millimeter",
+       "Ongeveer 2 kilometer",
+       "Ongeveer 2 meter"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "DNA lab shopping list",
+     "fr": "La liste de courses du labo ADN",
+     "nl": "Boodschappenlijst voor het DNA-lab"
+    },
+    "intro": {
+     "en": "What do you need to see the DNA of a strawberry? Pick the right things!",
+     "fr": "De quoi as-tu besoin pour voir l’ADN d’une fraise ? Choisis les bonnes choses !",
+     "nl": "Wat heb je nodig om het DNA van een aardbei te zien? Kies de juiste dingen!"
+    },
+    "done": {
+     "en": "Perfect! Your DNA lab is ready. Don’t forget a grown-up helper!",
+     "fr": "Parfait ! Ton labo ADN est prêt. N’oublie pas un adulte pour t’aider !",
+     "nl": "Perfect! Je DNA-lab is klaar. Vergeet geen volwassene om je te helpen!"
+    },
+    "items": {
+     "en": [
+      "Strawberries",
+      "A zip bag",
+      "Chocolate sprinkles",
+      "Dish soap",
+      "Salt",
+      "A magnet",
+      "Ice-cold rubbing alcohol",
+      "A rubber duck"
+     ],
+     "fr": [
+      "Des fraises",
+      "Un sachet à fermeture",
+      "Des vermicelles en chocolat",
+      "Du liquide vaisselle",
+      "Du sel",
+      "Un aimant",
+      "De l’alcool bien froid",
+      "Un canard en plastique"
+     ],
+     "nl": [
+      "Aardbeien",
+      "Een zakje met rits",
+      "Chocoladehagelslag",
+      "Afwasmiddel",
+      "Zout",
+      "Een magneet",
+      "IJskoude alcohol",
+      "Een badeendje"
+     ]
+    },
+    "good": [
+     0,
+     1,
+     3,
+     4,
+     6
+    ]
+   },
+   "worldName": {
+    "en": "Biotech",
+    "fr": "Biotech",
+    "nl": "Biotech"
+   },
+   "adult": {
+    "en": "For grown-ups: the Biotech world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Biotech dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Biotech in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-16",
+   "voice": true
+  },
+  {
+   "id": "robo-20261116",
+   "world": "robo",
+   "guide": "Pixel",
+   "title": {
+    "en": "How do robot arms help build cars?",
+    "fr": "Comment les bras robotisés aident-ils à construire des voitures ?",
+    "nl": "Hoe helpen robotarmen om auto’s te bouwen?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, building my toy car took me a whole afternoon. How do factories build hundreds of real cars every day?",
+     "fr": "Pixel, construire ma voiture jouet m’a pris tout un après-midi. Comment les usines font-elles des centaines de vraies voitures chaque jour ?",
+     "nl": "Pixel, ik heb een hele middag gedaan over mijn speelgoedauto. Hoe bouwen fabrieken elke dag honderden echte auto’s?",
+     "img": "Whyzz proudly holds a wobbly homemade toy car"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "With help from big robot arms! They stand in a long line and each arm does its own job, like welding, painting or lifting heavy doors.",
+     "fr": "Avec l’aide de grands bras robotisés ! Ils sont alignés sur une longue chaîne et chaque bras a sa propre tâche, comme souder, peindre ou soulever de lourdes portières.",
+     "nl": "Met hulp van grote robotarmen! Ze staan in een lange rij en elke arm heeft zijn eigen taak, zoals lassen, lakken of zware portieren optillen.",
+     "img": "A line of orange robot arms works on car bodies"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Do the robot arms ever get tired and ask for a snack? I’d want a pizza break after every car!",
+     "fr": "Est-ce que les bras robotisés se fatiguent et réclament un goûter ? Moi, je voudrais une pause pizza après chaque voiture !",
+     "nl": "Worden de robotarmen ooit moe en vragen ze om een tussendoortje? Ik zou na elke auto een pizzapauze willen!",
+     "img": "Whyzz acts like a robot arm holding pizza, Pixel laughs"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, robots never get tired or bored, but they do need checkups! They repeat the same move thousands of times and land within about a hair’s width each time.",
+     "fr": "Ha, les robots ne se fatiguent jamais et ne s’ennuient jamais, mais ils ont besoin d’entretien ! Ils répètent le même geste des milliers de fois, à peu près à l’épaisseur d’un cheveu près.",
+     "nl": "Haha, robots worden nooit moe en vervelen zich nooit, maar ze hebben wel onderhoud nodig! Ze herhalen dezelfde beweging duizenden keren, elke keer tot op ongeveer een haardikte nauwkeurig.",
+     "img": "A robot arm places a part precisely, Pixel holds up a hair"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know some robots work right next to people as helpers? They’re called cobots and they stop gently if they bump into you.",
+     "fr": "Savais-tu que certains robots travaillent juste à côté des gens pour les aider ? On les appelle des cobots et ils s’arrêtent en douceur s’ils te touchent.",
+     "nl": "Wist je dat sommige robots als helpers vlak naast mensen werken? Ze heten cobots en ze stoppen zachtjes als ze tegen je aan botsen.",
+     "img": "A small white cobot hands a part to a smiling worker"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So robot arms are tireless, super precise teammates for the people in the factory! If you had a robot arm at home, what job would you give it?",
+     "fr": "Donc les bras robotisés sont des coéquipiers infatigables et super précis pour les gens à l’usine ! Si tu avais un bras robotisé à la maison, quel travail lui donnerais-tu ?",
+     "nl": "Dus robotarmen zijn onvermoeibare, superprecieze teamgenoten voor de mensen in de fabriek! Als jij thuis een robotarm had, welke klus zou je hem dan geven?",
+     "img": "Whyzz and Pixel next to a new red car, a robot arm waves"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "How do robot arms work in a car factory?",
+      "fr": "Comment travaillent les bras robotisés dans une usine de voitures ?",
+      "nl": "Hoe werken robotarmen in een autofabriek?"
+     },
+     "o": {
+      "en": [
+       "They drive the cars home",
+       "Each arm does its own job in a long line",
+       "They all take a nap"
+      ],
+      "fr": [
+       "Ils ramènent les voitures à la maison",
+       "Chaque bras a sa propre tâche sur une longue chaîne",
+       "Ils font tous la sieste"
+      ],
+      "nl": [
+       "Ze rijden de auto’s naar huis",
+       "Elke arm heeft zijn eigen taak in een lange rij",
+       "Ze doen allemaal een dutje"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Which job can a robot arm do?",
+      "fr": "Quelle tâche un bras robotisé peut-il faire ?",
+      "nl": "Welke taak kan een robotarm doen?"
+     },
+     "o": {
+      "en": [
+       "Welding",
+       "Baking cakes",
+       "Singing"
+      ],
+      "fr": [
+       "Souder",
+       "Faire des gâteaux",
+       "Chanter"
+      ],
+      "nl": [
+       "Lassen",
+       "Taarten bakken",
+       "Zingen"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Do robot arms get tired?",
+      "fr": "Les bras robotisés se fatiguent-ils ?",
+      "nl": "Worden robotarmen moe?"
+     },
+     "o": {
+      "en": [
+       "Yes, after every car",
+       "Only on Mondays",
+       "No, but they need checkups"
+      ],
+      "fr": [
+       "Oui, après chaque voiture",
+       "Seulement le lundi",
+       "Non, mais ils ont besoin d’entretien"
+      ],
+      "nl": [
+       "Ja, na elke auto",
+       "Alleen op maandag",
+       "Nee, maar ze hebben wel onderhoud nodig"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "How precise is a robot arm each time?",
+      "fr": "Quelle est la précision d’un bras robotisé à chaque fois ?",
+      "nl": "Hoe nauwkeurig is een robotarm elke keer?"
+     },
+     "o": {
+      "en": [
+       "About a meter",
+       "About a hair’s width",
+       "About a soccer field"
+      ],
+      "fr": [
+       "Environ un mètre",
+       "Environ l’épaisseur d’un cheveu",
+       "Environ un terrain de foot"
+      ],
+      "nl": [
+       "Ongeveer een meter",
+       "Ongeveer een haardikte",
+       "Ongeveer een voetbalveld"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does a cobot do if it bumps into you?",
+      "fr": "Que fait un cobot s’il te touche ?",
+      "nl": "Wat doet een cobot als hij tegen je aan botst?"
+     },
+     "o": {
+      "en": [
+       "It speeds up",
+       "It plays music",
+       "It stops gently"
+      ],
+      "fr": [
+       "Il accélère",
+       "Il joue de la musique",
+       "Il s’arrête en douceur"
+      ],
+      "nl": [
+       "Hij gaat sneller",
+       "Hij speelt muziek",
+       "Hij stopt zachtjes"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Robot tool match",
+     "fr": "Associe les outils des robots",
+     "nl": "Koppel het robotgereedschap"
+    },
+    "intro": {
+     "en": "Each robot arm has a special tool. Match each tool to its job!",
+     "fr": "Chaque bras robotisé a un outil spécial. Associe chaque outil à sa tâche !",
+     "nl": "Elke robotarm heeft speciaal gereedschap. Koppel elk stuk gereedschap aan zijn taak!"
+    },
+    "done": {
+     "en": "Great match! The factory line is running smoothly.",
+     "fr": "Bien joué ! La chaîne de l’usine tourne à merveille.",
+     "nl": "Goed gekoppeld! De fabriekslijn draait op rolletjes."
+    },
+    "left": {
+     "en": [
+      "Welding tool",
+      "Paint sprayer",
+      "Suction cups",
+      "Screwdriver",
+      "Camera"
+     ],
+     "fr": [
+      "Outil de soudure",
+      "Pistolet à peinture",
+      "Ventouses",
+      "Visseuse",
+      "Caméra"
+     ],
+     "nl": [
+      "Lasapparaat",
+      "Verfspuit",
+      "Zuignappen",
+      "Schroevendraaier",
+      "Camera"
+     ]
+    },
+    "right": {
+     "en": [
+      "Joins metal parts together",
+      "Gives the car its color",
+      "Lifts glass windows",
+      "Tightens screws",
+      "Checks for scratches"
+     ],
+     "fr": [
+      "Assemble les pièces en métal",
+      "Donne sa couleur à la voiture",
+      "Soulève les vitres",
+      "Serre les vis",
+      "Repère les rayures"
+     ],
+     "nl": [
+      "Verbindt metalen onderdelen",
+      "Geeft de auto zijn kleur",
+      "Tilt glazen ruiten op",
+      "Draait schroeven vast",
+      "Zoekt naar krasjes"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Robotics",
+    "fr": "Robotique",
+    "nl": "Robotica"
+   },
+   "adult": {
+    "en": "For grown-ups: the Robotics world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Robotique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Robotica in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-16",
+   "voice": true
+  },
+  {
+   "id": "energy-20261116",
+   "world": "energy",
+   "guide": "Sunny",
+   "title": {
+    "en": "Where does the electricity in your socket come from?",
+    "fr": "D’où vient l’électricité de ta prise ?",
+    "nl": "Waar komt de elektriciteit in het stopcontact vandaan?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, I plug in my tablet and it just charges, like magic. But where does the electricity in the socket come from?",
+     "fr": "Sunny, je branche ma tablette et elle se recharge, comme par magie. Mais d’où vient l’électricité de la prise ?",
+     "nl": "Sunny, ik steek de stekker van mijn tablet in het stopcontact en hij laadt op, als bij toverslag. Maar waar komt die elektriciteit vandaan?",
+     "img": "Whyzz plugs in a tablet charger, puzzled, Sunny smiles"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "It takes a long trip! It’s made far away in power plants, wind farms or solar parks, then it zooms to your town through thick wires on tall towers.",
+     "fr": "Elle fait un long voyage ! Elle est produite loin d’ici, dans des centrales, des parcs éoliens ou des parcs solaires, puis elle file jusqu’à ta ville par de gros câbles sur de hauts pylônes.",
+     "nl": "Ze maakt een lange reis! Ze wordt ver weg gemaakt in centrales, windparken of zonneparken en zoeft dan naar jouw stad door dikke kabels aan hoge masten.",
+     "img": "Wind turbines, solar panels and power towers lead to a town"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So the electricity rides along the wires like a tiny race car? Vroom, vroom, beep beep, out of my way!",
+     "fr": "Alors l’électricité roule sur les fils comme une mini voiture de course ? Vroum, vroum, bip bip, poussez-vous !",
+     "nl": "Dus de elektriciteit racet over de draden als een piepkleine raceauto? Vroem, vroem, tuut tuut, aan de kant!",
+     "img": "Whyzz pretends to drive a race car, Sunny laughs"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Ha, it’s more like a push passed along the wire! Near your town, a transformer lowers the super strong voltage, then cables under the street bring it into your wall.",
+     "fr": "Ha, c’est plutôt une poussée qui se transmet le long du fil ! Près de ta ville, un transformateur baisse la tension très forte, puis des câbles sous la rue l’amènent jusque dans ton mur.",
+     "nl": "Haha, het is eerder een duwtje dat door de draad wordt doorgegeven! Vlak bij je stad verlaagt een transformator de superhoge spanning en kabels onder de straat brengen de stroom tot in je muur.",
+     "img": "Cutaway of a street with a substation and glowing cables to a house"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Did you know the push races almost as fast as light, but the tiny electrons themselves crawl slower than a snail? That’s why your lamp turns on right away.",
+     "fr": "Savais-tu que la poussée file presque à la vitesse de la lumière, mais que les électrons, eux, avancent moins vite qu’un escargot ? C’est pour ça que ta lampe s’allume tout de suite.",
+     "nl": "Wist je dat het duwtje bijna zo snel als het licht gaat, maar dat de piepkleine elektronen zelf trager kruipen dan een slak? Daarom gaat je lamp meteen aan.",
+     "img": "Sunny switches on a lamp, a bubble shows a snail next to a light beam"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So my tablet’s energy took a long trip, over tall towers and under the street! How could you save a bit of electricity at home?",
+     "fr": "Donc l’énergie de ma tablette a fait un long voyage, par de hauts pylônes et sous la rue ! Comment pourrais-tu économiser un peu d’électricité chez toi ?",
+     "nl": "Dus de energie van mijn tablet maakte een lange reis, over hoge masten en onder de straat! Hoe zou jij thuis een beetje elektriciteit kunnen besparen?",
+     "img": "Whyzz and Sunny high-five, wind turbines in the window"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Where can electricity be made?",
+      "fr": "Où peut-on produire de l’électricité ?",
+      "nl": "Waar kan elektriciteit gemaakt worden?"
+     },
+     "o": {
+      "en": [
+       "In a fridge",
+       "In power plants, wind farms or solar parks",
+       "In the socket itself"
+      ],
+      "fr": [
+       "Dans un frigo",
+       "Dans des centrales, des parcs éoliens ou des parcs solaires",
+       "Dans la prise elle-même"
+      ],
+      "nl": [
+       "In een koelkast",
+       "In centrales, windparken of zonneparken",
+       "In het stopcontact zelf"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How does electricity get to your town?",
+      "fr": "Comment l’électricité arrive-t-elle jusqu’à ta ville ?",
+      "nl": "Hoe komt de elektriciteit in je stad?"
+     },
+     "o": {
+      "en": [
+       "Through thick wires on tall towers",
+       "In big trucks",
+       "By mail"
+      ],
+      "fr": [
+       "Par de gros câbles sur de hauts pylônes",
+       "Dans de gros camions",
+       "Par la poste"
+      ],
+      "nl": [
+       "Door dikke kabels aan hoge masten",
+       "In grote vrachtwagens",
+       "Met de post"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What does a transformer near your town do?",
+      "fr": "Que fait un transformateur près de ta ville ?",
+      "nl": "Wat doet een transformator bij je stad?"
+     },
+     "o": {
+      "en": [
+       "It paints the wires",
+       "It makes a race car go faster",
+       "It lowers the super strong voltage"
+      ],
+      "fr": [
+       "Il peint les fils",
+       "Il fait aller plus vite une voiture de course",
+       "Il baisse la tension très forte"
+      ],
+      "nl": [
+       "Hij verft de draden",
+       "Hij laat een raceauto sneller gaan",
+       "Hij verlaagt de superhoge spanning"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "How fast do the tiny electrons themselves move?",
+      "fr": "À quelle vitesse les minuscules électrons avancent-ils ?",
+      "nl": "Hoe snel bewegen de piepkleine elektronen zelf?"
+     },
+     "o": {
+      "en": [
+       "As fast as a rocket",
+       "Slower than a snail",
+       "As fast as a cheetah"
+      ],
+      "fr": [
+       "Aussi vite qu’une fusée",
+       "Moins vite qu’un escargot",
+       "Aussi vite qu’un guépard"
+      ],
+      "nl": [
+       "Zo snel als een raket",
+       "Trager dan een slak",
+       "Zo snel als een jachtluipaard"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Why does your lamp turn on right away?",
+      "fr": "Pourquoi ta lampe s’allume-t-elle tout de suite ?",
+      "nl": "Waarom gaat je lamp meteen aan?"
+     },
+     "o": {
+      "en": [
+       "The lamp guesses",
+       "Someone runs very fast",
+       "The push races almost as fast as light"
+      ],
+      "fr": [
+       "La lampe devine",
+       "Quelqu’un court très vite",
+       "La poussée file presque à la vitesse de la lumière"
+      ],
+      "nl": [
+       "De lamp raadt het",
+       "Iemand rent heel snel",
+       "Het duwtje gaat bijna zo snel als het licht"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "Electricity’s big trip",
+     "fr": "Le grand voyage de l’électricité",
+     "nl": "De grote reis van de elektriciteit"
+    },
+    "intro": {
+     "en": "How does electricity get to your socket? Put the steps of its trip in the right order!",
+     "fr": "Comment l’électricité arrive-t-elle jusqu’à ta prise ? Remets les étapes de son voyage dans le bon ordre !",
+     "nl": "Hoe komt de elektriciteit in je stopcontact? Zet de stappen van haar reis in de juiste volgorde!"
+    },
+    "done": {
+     "en": "Charged up! You followed electricity all the way home.",
+     "fr": "Rechargé ! Tu as suivi l’électricité jusque chez toi.",
+     "nl": "Opgeladen! Je hebt de elektriciteit helemaal tot bij je thuis gevolgd."
+    },
+    "items": {
+     "en": [
+      "A wind turbine makes electricity",
+      "It travels through thick wires on tall towers",
+      "A transformer near town lowers the voltage",
+      "Cables under the street carry it",
+      "It reaches the socket in your wall",
+      "Your tablet charges"
+     ],
+     "fr": [
+      "Une éolienne produit de l’électricité",
+      "Elle voyage par de gros câbles sur de hauts pylônes",
+      "Un transformateur près de la ville baisse la tension",
+      "Des câbles sous la rue la transportent",
+      "Elle arrive à la prise de ton mur",
+      "Ta tablette se recharge"
+     ],
+     "nl": [
+      "Een windmolen maakt elektriciteit",
+      "Ze reist door dikke kabels aan hoge masten",
+      "Een transformator bij de stad verlaagt de spanning",
+      "Kabels onder de straat brengen de stroom verder",
+      "Ze komt aan bij het stopcontact in je muur",
+      "Je tablet laadt op"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Energy",
+    "fr": "Énergie",
+    "nl": "Energie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Energy world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Énergie dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Energie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-16",
+   "voice": true
   }
  ]
 }
