@@ -6,7 +6,7 @@
       "url": "https://x.com/physorg_com/status/2121875423185244542",
       "seen": "2026-11-15",
       "draft": "A full light-day is about 173 times the Earth-Sun distance: sunlight reaches us in about 8 minutes, while a hello to Voyager 1 needs two days for the round trip. Remarkable that a 1977 spacecraft still answers at all.",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@newscientist",
@@ -14,7 +14,7 @@
       "url": "https://x.com/newscientist/status/2121881341922865160",
       "seen": "2026-11-15",
       "draft": "Independent checks like this are science at its best. Did the new method also recover the brighter side of the ring, or mainly its size and shape?",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@Nature",
@@ -22,6 +22,38 @@
       "url": "https://x.com/Nature/status/2121966701189194046",
       "seen": "2026-11-15",
       "draft": "Four years of lasting effect from a one-time edit made inside the body is a remarkable milestone. What do researchers see as the next big hurdle: longer safety follow-up or reaching tissues beyond the first targets?",
+      "status": "skipped"
+    },
+    {
+      "account": "@esa",
+      "post": "Our planetary defence mission Hera is about to reveal the first detailed images of asteroid Dimorphos since NASA’s DART im",
+      "url": "https://x.com/esa/status/2122363483354280353",
+      "seen": "2026-11-16",
+      "draft": "What a follow-up to DART: its 2022 impact cut Dimorphos's 11 hour 55 minute orbit around Didymos by about 32 minutes. Can't wait to see whether Hera finds a neat crater or a reshaped moonlet.",
+      "status": "drafted"
+    },
+    {
+      "account": "@NASAHubble",
+      "post": "We're getting closer and closer to the first images from @NASARoman! Here's a quick crash course on how Roman and Hubble wi",
+      "url": "https://x.com/NASAHubble/status/2122371140387582219",
+      "seen": "2026-11-16",
+      "draft": "Roman's main camera captures a patch of sky about 100 times larger than Hubble's infrared camera in one shot. Like pairing a panoramic lens with a zoom lens: one maps the crowd while the other studies the faces.",
+      "status": "drafted"
+    },
+    {
+      "account": "@SPACEdotcom",
+      "post": "The Leonid meteor shower peaks overnight on Nov. 17-18, sending shooting stars racing across the night sky from the directi",
+      "url": "https://x.com/SPACEdotcom/status/2122380936193167626",
+      "seen": "2026-11-16",
+      "draft": "Leonids are some of the fastest meteors around: dust from Comet Tempel-Tuttle hits our atmosphere at about 44 miles per second, fast enough to cross the continental US in roughly a minute. Clear skies to everyone heading out!",
+      "status": "drafted"
+    },
+    {
+      "account": "@IBMResearch",
+      "post": "At SC26 in Chicago, @IBM, @nvidia, and @Fermilab announced plans for a modular quantum computing co-design platform to adv",
+      "url": "https://x.com/IBMResearch/status/2122370483316203814",
+      "seen": "2026-11-16",
+      "draft": "Treating quantum processors as specialists on a classical supercomputing team feels like the realistic path forward. Which nuclear physics problem do you expect to benefit first: nuclear structure or real-time dynamics like scattering?",
       "status": "drafted"
     }
   ]
