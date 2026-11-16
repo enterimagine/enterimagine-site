@@ -1,0 +1,230 @@
+{
+ "id": "pixel-20261116",
+ "world": "pixel",
+ "guide": "Pixel",
+ "title": {
+  "en": "Can a computer paint a picture?",
+  "fr": "Un ordinateur peut-il peindre un tableau ?",
+  "nl": "Kan een computer een schilderij maken?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, my little sister drew a purple dragon eating pizza. Could a computer ever paint something like that?",
+   "fr": "Pixel, ma petite sœur a dessiné un dragon violet qui mange une pizza. Un ordinateur pourrait-il peindre un truc pareil ?",
+   "nl": "Pixel, mijn zusje tekende een paarse draak die pizza eet. Kan een computer ooit zoiets schilderen?",
+   "img": "Whyzz shows a crayon drawing of a purple dragon eating pizza"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Yes, an AI picture maker can, after studying millions of pictures with short descriptions! That’s how it learns what a dragon, the color purple and a pizza look like.",
+   "fr": "Oui, un créateur d’images par IA en est capable, après avoir étudié des millions d’images avec de courtes descriptions ! C’est comme ça qu’il apprend à quoi ressemblent un dragon, le violet et une pizza.",
+   "nl": "Ja, een AI-plaatjesmaker kan dat, nadat hij miljoenen plaatjes met korte beschrijvingen heeft bestudeerd! Zo leert hij hoe een draak, de kleur paars en een pizza eruitzien.",
+   "img": "Pixel and a robot study a giant wall of little pictures"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So there’s a tiny painter with a tiny brush living inside the computer? I hope he gets lunch breaks!",
+   "fr": "Alors il y a un minuscule peintre avec un minuscule pinceau qui vit dans l’ordinateur ? J’espère qu’il a des pauses déjeuner !",
+   "nl": "Dus er woont een piepklein schildertje met een piepklein penseel in de computer? Ik hoop dat hij lunchpauze krijgt!",
+   "img": "Whyzz imagines a tiny painter inside a laptop, Pixel laughs"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, no painter! It starts with a fuzzy picture full of random dots and cleans it up step by step until your dragon appears.",
+   "fr": "Ha, pas de peintre ! Il commence par une image floue pleine de points au hasard et la nettoie petit à petit jusqu’à ce que ton dragon apparaisse.",
+   "nl": "Haha, geen schilder! Hij begint met een wazig plaatje vol willekeurige stipjes en maakt het stap voor stap schoner tot je draak verschijnt.",
+   "img": "Four frames go from fuzzy dots to a clear purple dragon"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know AI pictures sometimes show hands with six fingers? The computer doesn’t really understand hands, it only learned which shapes often go together.",
+   "fr": "Savais-tu que les images faites par IA montrent parfois des mains à six doigts ? L’ordinateur ne comprend pas vraiment les mains, il a seulement appris quelles formes vont souvent ensemble.",
+   "nl": "Wist je dat AI-plaatjes soms handen met zes vingers tonen? De computer begrijpt handen niet echt, hij heeft alleen geleerd welke vormen vaak bij elkaar horen.",
+   "img": "Pixel shows a funny picture of a cartoon glove, Whyzz counts his fingers"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the computer learns from lots of pictures, then turns fuzzy dots into a new one! If you could ask it for any picture, what would you make?",
+   "fr": "Donc l’ordinateur apprend avec plein d’images, puis il transforme des points flous en une nouvelle image ! Si tu pouvais lui demander n’importe quelle image, qu’est-ce que tu créerais ?",
+   "nl": "Dus de computer leert van heel veel plaatjes en maakt dan van wazige stipjes een nieuw plaatje! Als jij om elk plaatje mocht vragen, wat zou jij dan maken?",
+   "img": "Whyzz and Pixel cheer in front of a screen with the dragon"
+  }
+ ],
+ "prompts": [
+  "In a cozy living room Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge proudly holds up a big crayon drawing of a funny purple dragon munching a slice of pizza, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge sits beside him at a table covered with colorful crayons and smiles curiously. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands in front of a giant wall covered with hundreds of small colorful framed pictures of cats, dragons, pizzas, trees and boats, a friendly round little robot with a glowing screen face studies them with big curious eyes, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright cozy room Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge grins with a big fluffy thought cloud above his head showing a tiny cartoon painter with a beret and a tiny brush painting inside an open laptop, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs with her hand over her mouth. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a glowing digital space four big floating picture frames stand in a row, the first full of fuzzy colorful dots, the second a bit clearer, the third a blurry purple shape and the last a clear cute purple dragon eating pizza, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points along the row, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge follows with wide amazed eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge holds up a big tablet showing a silly cartoon glove with six fingers waving, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stares at his own open hand counting his fingers with a giggling face, bright cozy room. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge cheer and high-five in front of a big glowing screen showing a cute purple dragon happily eating pizza on a rainbow, crayons scattered on the table. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What does an AI picture maker study first?",
+    "fr": "Qu’est-ce qu’un créateur d’images par IA étudie d’abord ?",
+    "nl": "Wat bestudeert een AI-plaatjesmaker eerst?"
+   },
+   "o": {
+    "en": [
+     "Only one drawing",
+     "Millions of pictures with short descriptions",
+     "Old cookbooks"
+    ],
+    "fr": [
+     "Un seul dessin",
+     "Des millions d’images avec de courtes descriptions",
+     "De vieux livres de cuisine"
+    ],
+    "nl": [
+     "Maar één tekening",
+     "Miljoenen plaatjes met korte beschrijvingen",
+     "Oude kookboeken"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How does the computer start a new picture?",
+    "fr": "Comment l’ordinateur commence-t-il une nouvelle image ?",
+    "nl": "Hoe begint de computer aan een nieuw plaatje?"
+   },
+   "o": {
+    "en": [
+     "With a fuzzy picture full of random dots",
+     "With a blank black screen",
+     "With a photo of a painter"
+    ],
+    "fr": [
+     "Avec une image floue pleine de points au hasard",
+     "Avec un écran tout noir",
+     "Avec une photo d’un peintre"
+    ],
+    "nl": [
+     "Met een wazig plaatje vol willekeurige stipjes",
+     "Met een helemaal zwart scherm",
+     "Met een foto van een schilder"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Who paints inside the computer?",
+    "fr": "Qui peint dans l’ordinateur ?",
+    "nl": "Wie schildert er in de computer?"
+   },
+   "o": {
+    "en": [
+     "A tiny painter",
+     "A tiny dragon",
+     "Nobody, it cleans up dots step by step"
+    ],
+    "fr": [
+     "Un minuscule peintre",
+     "Un minuscule dragon",
+     "Personne, il nettoie des points petit à petit"
+    ],
+    "nl": [
+     "Een piepklein schildertje",
+     "Een piepklein draakje",
+     "Niemand, hij maakt stipjes stap voor stap schoner"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What funny mistake do AI pictures sometimes make?",
+    "fr": "Quelle erreur rigolote les images faites par IA font-elles parfois ?",
+    "nl": "Welke grappige fout maken AI-plaatjes soms?"
+   },
+   "o": {
+    "en": [
+     "A sky that is too blue",
+     "Hands with six fingers",
+     "Pizza that is too round"
+    ],
+    "fr": [
+     "Un ciel trop bleu",
+     "Des mains à six doigts",
+     "Une pizza trop ronde"
+    ],
+    "nl": [
+     "Een te blauwe lucht",
+     "Handen met zes vingers",
+     "Een te ronde pizza"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Does the computer really understand what hands are?",
+    "fr": "L’ordinateur comprend-il vraiment ce que sont des mains ?",
+    "nl": "Begrijpt de computer echt wat handen zijn?"
+   },
+   "o": {
+    "en": [
+     "Yes, perfectly",
+     "Only on Sundays",
+     "No, it learned which shapes go together"
+    ],
+    "fr": [
+     "Oui, parfaitement",
+     "Seulement le dimanche",
+     "Non, il a appris quelles formes vont ensemble"
+    ],
+    "nl": [
+     "Ja, perfect",
+     "Alleen op zondag",
+     "Nee, hij leerde welke vormen bij elkaar horen"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "Make an AI picture",
+   "fr": "Crée une image par IA",
+   "nl": "Maak een AI-plaatje"
+  },
+  "intro": {
+   "en": "How does a computer make a new picture? Put the steps in the right order!",
+   "fr": "Comment un ordinateur crée-t-il une nouvelle image ? Remets les étapes dans le bon ordre !",
+   "nl": "Hoe maakt een computer een nieuw plaatje? Zet de stappen in de juiste volgorde!"
+  },
+  "done": {
+   "en": "Ta-da! Your dragon picture is ready.",
+   "fr": "Tadaa ! Ton image de dragon est prête.",
+   "nl": "Tadaa! Je drakenplaatje is klaar."
+  },
+  "items": {
+   "en": [
+    "The computer studies millions of pictures with descriptions",
+    "You ask for a purple dragon eating pizza",
+    "It starts with a fuzzy picture full of dots",
+    "It cleans up the dots step by step",
+    "Your new dragon picture appears"
+   ],
+   "fr": [
+    "L’ordinateur étudie des millions d’images avec des descriptions",
+    "Tu demandes un dragon violet qui mange une pizza",
+    "Il commence par une image floue pleine de points",
+    "Il nettoie les points petit à petit",
+    "Ta nouvelle image de dragon apparaît"
+   ],
+   "nl": [
+    "De computer bestudeert miljoenen plaatjes met beschrijvingen",
+    "Je vraagt om een paarse draak die pizza eet",
+    "Hij begint met een wazig plaatje vol stipjes",
+    "Hij maakt de stipjes stap voor stap schoner",
+    "Je nieuwe drakenplaatje verschijnt"
+   ]
+  }
+ }
+}

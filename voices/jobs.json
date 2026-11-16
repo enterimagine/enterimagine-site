@@ -5830,5 +5830,545 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Dus grote uitvindingen beginnen als kinderen een probleem zien en nieuwsgierig worden! Welk probleem zou jij willen oplossen met je eigen uitvinding?"
+ },
+ {
+  "id": "pixel-20261116-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, my little sister drew a purple dragon eating pizza. Could a computer ever paint something like that?"
+ },
+ {
+  "id": "pixel-20261116-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, ma petite sœur a dessiné un dragon violet qui mange une pizza. Un ordinateur pourrait-il peindre un truc pareil ?"
+ },
+ {
+  "id": "pixel-20261116-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, mijn zusje tekende een paarse draak die pizza eet. Kan een computer ooit zoiets schilderen?"
+ },
+ {
+  "id": "pixel-20261116-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Yes, an AI picture maker can, after studying millions of pictures with short descriptions! That’s how it learns what a dragon, the color purple and a pizza look like."
+ },
+ {
+  "id": "pixel-20261116-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Oui, un créateur d’images par IA en est capable, après avoir étudié des millions d’images avec de courtes descriptions ! C’est comme ça qu’il apprend à quoi ressemblent un dragon, le violet et une pizza."
+ },
+ {
+  "id": "pixel-20261116-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Ja, een AI-plaatjesmaker kan dat, nadat hij miljoenen plaatjes met korte beschrijvingen heeft bestudeerd! Zo leert hij hoe een draak, de kleur paars en een pizza eruitzien."
+ },
+ {
+  "id": "pixel-20261116-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So there’s a tiny painter with a tiny brush living inside the computer? I hope he gets lunch breaks!"
+ },
+ {
+  "id": "pixel-20261116-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Alors il y a un minuscule peintre avec un minuscule pinceau qui vit dans l’ordinateur ? J’espère qu’il a des pauses déjeuner !"
+ },
+ {
+  "id": "pixel-20261116-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus er woont een piepklein schildertje met een piepklein penseel in de computer? Ik hoop dat hij lunchpauze krijgt!"
+ },
+ {
+  "id": "pixel-20261116-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no painter! It starts with a fuzzy picture full of random dots and cleans it up step by step until your dragon appears."
+ },
+ {
+  "id": "pixel-20261116-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, pas de peintre ! Il commence par une image floue pleine de points au hasard et la nettoie petit à petit jusqu’à ce que ton dragon apparaisse."
+ },
+ {
+  "id": "pixel-20261116-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, geen schilder! Hij begint met een wazig plaatje vol willekeurige stipjes en maakt het stap voor stap schoner tot je draak verschijnt."
+ },
+ {
+  "id": "pixel-20261116-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know AI pictures sometimes show hands with six fingers? The computer doesn’t really understand hands, it only learned which shapes often go together."
+ },
+ {
+  "id": "pixel-20261116-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu que les images faites par IA montrent parfois des mains à six doigts ? L’ordinateur ne comprend pas vraiment les mains, il a seulement appris quelles formes vont souvent ensemble."
+ },
+ {
+  "id": "pixel-20261116-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat AI-plaatjes soms handen met zes vingers tonen? De computer begrijpt handen niet echt, hij heeft alleen geleerd welke vormen vaak bij elkaar horen."
+ },
+ {
+  "id": "pixel-20261116-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the computer learns from lots of pictures, then turns fuzzy dots into a new one! If you could ask it for any picture, what would you make?"
+ },
+ {
+  "id": "pixel-20261116-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc l’ordinateur apprend avec plein d’images, puis il transforme des points flous en une nouvelle image ! Si tu pouvais lui demander n’importe quelle image, qu’est-ce que tu créerais ?"
+ },
+ {
+  "id": "pixel-20261116-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de computer leert van heel veel plaatjes en maakt dan van wazige stipjes een nieuw plaatje! Als jij om elk plaatje mocht vragen, wat zou jij dan maken?"
+ },
+ {
+  "id": "qubi-20261116-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, I want to find a secret cave under our park, but I can’t dig up the whole playground. Is there a way to look underground?"
+ },
+ {
+  "id": "qubi-20261116-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, je veux trouver une grotte secrète sous notre parc, mais je ne peux pas creuser toute l’aire de jeux. Y a-t-il un moyen de voir sous terre ?"
+ },
+ {
+  "id": "qubi-20261116-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, ik wil een geheime grot onder ons park vinden, maar ik kan niet de hele speeltuin omgraven. Kun je op een of andere manier onder de grond kijken?"
+ },
+ {
+  "id": "qubi-20261116-en-2",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Yes, with a quantum sensor! It measures gravity, the invisible pull that keeps your feet on the ground, super precisely."
+ },
+ {
+  "id": "qubi-20261116-fr-2",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Oui, avec un capteur quantique ! Il mesure très précisément la gravité, cette force invisible qui garde tes pieds sur le sol."
+ },
+ {
+  "id": "qubi-20261116-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Ja, met een quantumsensor! Die meet heel precies de zwaartekracht, de onzichtbare kracht die je voeten op de grond houdt."
+ },
+ {
+  "id": "qubi-20261116-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Gravity? So if I jump really high above the cave, will I float away like a balloon?"
+ },
+ {
+  "id": "qubi-20261116-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "La gravité ? Alors si je saute très haut au-dessus de la grotte, je vais m’envoler comme un ballon ?"
+ },
+ {
+  "id": "qubi-20261116-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Zwaartekracht? Dus als ik heel hoog spring boven de grot, zweef ik dan weg als een ballon?"
+ },
+ {
+  "id": "qubi-20261116-en-4",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Ha, no, that difference is way too tiny to feel! Inside, little atoms fall while lasers watch them: above an empty cave less rock pulls on them, so they fall a teeny bit slower."
+ },
+ {
+  "id": "qubi-20261116-fr-4",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Ha, non, c’est bien trop petit pour le sentir ! Dedans, des atomes tombent sous l’œil de lasers : au-dessus d’une grotte vide, moins de roche les attire, alors ils tombent un poil moins vite."
+ },
+ {
+  "id": "qubi-20261116-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Haha, nee, dat verschil is veel te klein om te voelen! Binnenin vallen atomen terwijl lasers ze bekijken: boven een lege grot trekt er minder steen aan ze, dus vallen ze een tikje trager."
+ },
+ {
+  "id": "qubi-20261116-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Did you know these atoms are cooled until they’re colder than outer space? Super cold atoms move very slowly, which makes them easy to measure."
+ },
+ {
+  "id": "qubi-20261116-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Savais-tu que ces atomes sont refroidis jusqu’à être plus froids que l’espace ? Les atomes très froids bougent très lentement, ce qui les rend faciles à mesurer."
+ },
+ {
+  "id": "qubi-20261116-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Wist je dat deze atomen worden afgekoeld tot ze kouder zijn dan de ruimte? Superkoude atomen bewegen heel traag, waardoor je ze makkelijk kunt meten."
+ },
+ {
+  "id": "qubi-20261116-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So falling atoms can find hidden caves without digging a single hole! If you had a quantum sensor, what secret would you look for underground?"
+ },
+ {
+  "id": "qubi-20261116-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc des atomes qui tombent peuvent trouver des grottes cachées sans creuser un seul trou ! Si tu avais un capteur quantique, quel secret chercherais-tu sous terre ?"
+ },
+ {
+  "id": "qubi-20261116-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus vallende atomen kunnen verborgen grotten vinden zonder één gat te graven! Als jij een quantumsensor had, welk geheim zou jij onder de grond zoeken?"
+ },
+ {
+  "id": "bloom-20261116-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Bloom, everyone says living things are built from a recipe called DNA. Can I actually see DNA, or is it way too small?"
+ },
+ {
+  "id": "bloom-20261116-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Bloom, tout le monde dit que les êtres vivants sont construits d’après une recette qui s’appelle l’ADN. Est-ce que je peux vraiment voir de l’ADN, ou c’est beaucoup trop petit ?"
+ },
+ {
+  "id": "bloom-20261116-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Bloom, iedereen zegt dat levende wezens gebouwd zijn volgens een recept dat DNA heet. Kan ik DNA echt zien, of is het veel te klein?"
+ },
+ {
+  "id": "bloom-20261116-en-2",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "One DNA thread is too thin to see, but if we pull out millions together, you can! Strawberries are perfect because each cell has lots of copies of their DNA."
+ },
+ {
+  "id": "bloom-20261116-fr-2",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Un seul fil d’ADN est trop fin pour être vu, mais si on en sort des millions ensemble, tu pourras le voir ! Les fraises sont parfaites, car chaque cellule contient plein de copies de leur ADN."
+ },
+ {
+  "id": "bloom-20261116-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Eén DNA-draadje is te dun om te zien, maar als we er miljoenen tegelijk uithalen, lukt het wel! Aardbeien zijn perfect, want elke cel bevat heel veel kopieën van hun DNA."
+ },
+ {
+  "id": "bloom-20261116-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Cool! So I just knock on the strawberry and ask it very politely to hand over its DNA?"
+ },
+ {
+  "id": "bloom-20261116-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Trop bien ! Alors je frappe à la porte de la fraise et je lui demande très poliment de me donner son ADN ?"
+ },
+ {
+  "id": "bloom-20261116-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Gaaf! Dus ik klop gewoon op de aardbei en vraag heel beleefd of ik haar DNA mag hebben?"
+ },
+ {
+  "id": "bloom-20261116-en-4",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Ha, it needs a bit more help! We mash it in a bag with water, dish soap and salt, because the soap opens the cells like unzipping a jacket."
+ },
+ {
+  "id": "bloom-20261116-fr-4",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Ha, elle a besoin d’un peu plus d’aide ! On l’écrase dans un sachet avec de l’eau, du liquide vaisselle et du sel, car le savon ouvre les cellules comme on ouvre la fermeture éclair d’une veste."
+ },
+ {
+  "id": "bloom-20261116-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Haha, ze heeft wat meer hulp nodig! We pletten haar in een zakje met water, afwasmiddel en zout, want de zeep maakt de cellen open, zoals je een jas openritst."
+ },
+ {
+  "id": "bloom-20261116-en-5",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Then a grown-up pours ice-cold rubbing alcohol on top and white, fluffy DNA floats up like a little cloud! Did you know the DNA in one of your cells, unrolled, is about 2 meters long?"
+ },
+ {
+  "id": "bloom-20261116-fr-5",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Ensuite, un adulte verse de l’alcool bien froid dessus et l’ADN, blanc et cotonneux, remonte comme un petit nuage ! Savais-tu que l’ADN d’une seule de tes cellules, déroulé, mesure environ 2 mètres ?"
+ },
+ {
+  "id": "bloom-20261116-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Daarna giet een volwassene ijskoude alcohol erbovenop en drijft wit, pluizig DNA omhoog als een wolkje! Wist je dat het DNA uit één cel van jou, helemaal uitgerold, ongeveer 2 meter lang is?"
+ },
+ {
+  "id": "bloom-20261116-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So soap, salt and cold alcohol let me see a strawberry’s recipe with my own eyes! Which fruit or veggie would you like to pull DNA from?"
+ },
+ {
+  "id": "bloom-20261116-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc du savon, du sel et de l’alcool froid me permettent de voir la recette d’une fraise de mes propres yeux ! De quel fruit ou légume aimerais-tu sortir l’ADN ?"
+ },
+ {
+  "id": "bloom-20261116-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus met zeep, zout en koude alcohol kan ik het recept van een aardbei met mijn eigen ogen zien! Uit welke vrucht of groente zou jij DNA willen halen?"
+ },
+ {
+  "id": "robo-20261116-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, building my toy car took me a whole afternoon. How do factories build hundreds of real cars every day?"
+ },
+ {
+  "id": "robo-20261116-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, construire ma voiture jouet m’a pris tout un après-midi. Comment les usines font-elles des centaines de vraies voitures chaque jour ?"
+ },
+ {
+  "id": "robo-20261116-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, ik heb een hele middag gedaan over mijn speelgoedauto. Hoe bouwen fabrieken elke dag honderden echte auto’s?"
+ },
+ {
+  "id": "robo-20261116-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "With help from big robot arms! They stand in a long line and each arm does its own job, like welding, painting or lifting heavy doors."
+ },
+ {
+  "id": "robo-20261116-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Avec l’aide de grands bras robotisés ! Ils sont alignés sur une longue chaîne et chaque bras a sa propre tâche, comme souder, peindre ou soulever de lourdes portières."
+ },
+ {
+  "id": "robo-20261116-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Met hulp van grote robotarmen! Ze staan in een lange rij en elke arm heeft zijn eigen taak, zoals lassen, lakken of zware portieren optillen."
+ },
+ {
+  "id": "robo-20261116-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Do the robot arms ever get tired and ask for a snack? I’d want a pizza break after every car!"
+ },
+ {
+  "id": "robo-20261116-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Est-ce que les bras robotisés se fatiguent et réclament un goûter ? Moi, je voudrais une pause pizza après chaque voiture !"
+ },
+ {
+  "id": "robo-20261116-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Worden de robotarmen ooit moe en vragen ze om een tussendoortje? Ik zou na elke auto een pizzapauze willen!"
+ },
+ {
+  "id": "robo-20261116-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, robots never get tired or bored, but they do need checkups! They repeat the same move thousands of times and land within about a hair’s width each time."
+ },
+ {
+  "id": "robo-20261116-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, les robots ne se fatiguent jamais et ne s’ennuient jamais, mais ils ont besoin d’entretien ! Ils répètent le même geste des milliers de fois, à peu près à l’épaisseur d’un cheveu près."
+ },
+ {
+  "id": "robo-20261116-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, robots worden nooit moe en vervelen zich nooit, maar ze hebben wel onderhoud nodig! Ze herhalen dezelfde beweging duizenden keren, elke keer tot op ongeveer een haardikte nauwkeurig."
+ },
+ {
+  "id": "robo-20261116-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know some robots work right next to people as helpers? They’re called cobots and they stop gently if they bump into you."
+ },
+ {
+  "id": "robo-20261116-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu que certains robots travaillent juste à côté des gens pour les aider ? On les appelle des cobots et ils s’arrêtent en douceur s’ils te touchent."
+ },
+ {
+  "id": "robo-20261116-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat sommige robots als helpers vlak naast mensen werken? Ze heten cobots en ze stoppen zachtjes als ze tegen je aan botsen."
+ },
+ {
+  "id": "robo-20261116-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So robot arms are tireless, super precise teammates for the people in the factory! If you had a robot arm at home, what job would you give it?"
+ },
+ {
+  "id": "robo-20261116-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les bras robotisés sont des coéquipiers infatigables et super précis pour les gens à l’usine ! Si tu avais un bras robotisé à la maison, quel travail lui donnerais-tu ?"
+ },
+ {
+  "id": "robo-20261116-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus robotarmen zijn onvermoeibare, superprecieze teamgenoten voor de mensen in de fabriek! Als jij thuis een robotarm had, welke klus zou je hem dan geven?"
+ },
+ {
+  "id": "energy-20261116-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, I plug in my tablet and it just charges, like magic. But where does the electricity in the socket come from?"
+ },
+ {
+  "id": "energy-20261116-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, je branche ma tablette et elle se recharge, comme par magie. Mais d’où vient l’électricité de la prise ?"
+ },
+ {
+  "id": "energy-20261116-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, ik steek de stekker van mijn tablet in het stopcontact en hij laadt op, als bij toverslag. Maar waar komt die elektriciteit vandaan?"
+ },
+ {
+  "id": "energy-20261116-en-2",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "It takes a long trip! It’s made far away in power plants, wind farms or solar parks, then it zooms to your town through thick wires on tall towers."
+ },
+ {
+  "id": "energy-20261116-fr-2",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Elle fait un long voyage ! Elle est produite loin d’ici, dans des centrales, des parcs éoliens ou des parcs solaires, puis elle file jusqu’à ta ville par de gros câbles sur de hauts pylônes."
+ },
+ {
+  "id": "energy-20261116-nl-2",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Ze maakt een lange reis! Ze wordt ver weg gemaakt in centrales, windparken of zonneparken en zoeft dan naar jouw stad door dikke kabels aan hoge masten."
+ },
+ {
+  "id": "energy-20261116-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the electricity rides along the wires like a tiny race car? Vroom, vroom, beep beep, out of my way!"
+ },
+ {
+  "id": "energy-20261116-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Alors l’électricité roule sur les fils comme une mini voiture de course ? Vroum, vroum, bip bip, poussez-vous !"
+ },
+ {
+  "id": "energy-20261116-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de elektriciteit racet over de draden als een piepkleine raceauto? Vroem, vroem, tuut tuut, aan de kant!"
+ },
+ {
+  "id": "energy-20261116-en-4",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Ha, it’s more like a push passed along the wire! Near your town, a transformer lowers the super strong voltage, then cables under the street bring it into your wall."
+ },
+ {
+  "id": "energy-20261116-fr-4",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Ha, c’est plutôt une poussée qui se transmet le long du fil ! Près de ta ville, un transformateur baisse la tension très forte, puis des câbles sous la rue l’amènent jusque dans ton mur."
+ },
+ {
+  "id": "energy-20261116-nl-4",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Haha, het is eerder een duwtje dat door de draad wordt doorgegeven! Vlak bij je stad verlaagt een transformator de superhoge spanning en kabels onder de straat brengen de stroom tot in je muur."
+ },
+ {
+  "id": "energy-20261116-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Did you know the push races almost as fast as light, but the tiny electrons themselves crawl slower than a snail? That’s why your lamp turns on right away."
+ },
+ {
+  "id": "energy-20261116-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu que la poussée file presque à la vitesse de la lumière, mais que les électrons, eux, avancent moins vite qu’un escargot ? C’est pour ça que ta lampe s’allume tout de suite."
+ },
+ {
+  "id": "energy-20261116-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Wist je dat het duwtje bijna zo snel als het licht gaat, maar dat de piepkleine elektronen zelf trager kruipen dan een slak? Daarom gaat je lamp meteen aan."
+ },
+ {
+  "id": "energy-20261116-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So my tablet’s energy took a long trip, over tall towers and under the street! How could you save a bit of electricity at home?"
+ },
+ {
+  "id": "energy-20261116-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc l’énergie de ma tablette a fait un long voyage, par de hauts pylônes et sous la rue ! Comment pourrais-tu économiser un peu d’électricité chez toi ?"
+ },
+ {
+  "id": "energy-20261116-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de energie van mijn tablet maakte een lange reis, over hoge masten en onder de straat! Hoe zou jij thuis een beetje elektriciteit kunnen besparen?"
  }
 ]

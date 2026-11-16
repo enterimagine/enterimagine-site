@@ -1,0 +1,242 @@
+{
+ "id": "qubi-20261116",
+ "world": "qubi",
+ "guide": "Qubi",
+ "title": {
+  "en": "How can a quantum sensor find hidden caves?",
+  "fr": "Comment un capteur quantique trouve-t-il des grottes cachées ?",
+  "nl": "Hoe vindt een quantumsensor verborgen grotten?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, I want to find a secret cave under our park, but I can’t dig up the whole playground. Is there a way to look underground?",
+   "fr": "Qubi, je veux trouver une grotte secrète sous notre parc, mais je ne peux pas creuser toute l’aire de jeux. Y a-t-il un moyen de voir sous terre ?",
+   "nl": "Qubi, ik wil een geheime grot onder ons park vinden, maar ik kan niet de hele speeltuin omgraven. Kun je op een of andere manier onder de grond kijken?",
+   "img": "Whyzz with a toy shovel in a park, Qubi holds a glowing gadget"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Yes, with a quantum sensor! It measures gravity, the invisible pull that keeps your feet on the ground, super precisely.",
+   "fr": "Oui, avec un capteur quantique ! Il mesure très précisément la gravité, cette force invisible qui garde tes pieds sur le sol.",
+   "nl": "Ja, met een quantumsensor! Die meet heel precies de zwaartekracht, de onzichtbare kracht die je voeten op de grond houdt.",
+   "img": "Qubi holds the gadget over the grass, glowing arrows point down"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Gravity? So if I jump really high above the cave, will I float away like a balloon?",
+   "fr": "La gravité ? Alors si je saute très haut au-dessus de la grotte, je vais m’envoler comme un ballon ?",
+   "nl": "Zwaartekracht? Dus als ik heel hoog spring boven de grot, zweef ik dan weg als een ballon?",
+   "img": "Whyzz jumps high among balloons, Qubi laughs"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Ha, no, that difference is way too tiny to feel! Inside, little atoms fall while lasers watch them: above an empty cave less rock pulls on them, so they fall a teeny bit slower.",
+   "fr": "Ha, non, c’est bien trop petit pour le sentir ! Dedans, des atomes tombent sous l’œil de lasers : au-dessus d’une grotte vide, moins de roche les attire, alors ils tombent un poil moins vite.",
+   "nl": "Haha, nee, dat verschil is veel te klein om te voelen! Binnenin vallen atomen terwijl lasers ze bekijken: boven een lege grot trekt er minder steen aan ze, dus vallen ze een tikje trager.",
+   "img": "Cutaway of a hidden cave, atoms fall between laser beams in the gadget"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Did you know these atoms are cooled until they’re colder than outer space? Super cold atoms move very slowly, which makes them easy to measure.",
+   "fr": "Savais-tu que ces atomes sont refroidis jusqu’à être plus froids que l’espace ? Les atomes très froids bougent très lentement, ce qui les rend faciles à mesurer.",
+   "nl": "Wist je dat deze atomen worden afgekoeld tot ze kouder zijn dan de ruimte? Superkoude atomen bewegen heel traag, waardoor je ze makkelijk kunt meten.",
+   "img": "Qubi and Whyzz in earmuffs shiver next to a frosty bubble of atoms"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So falling atoms can find hidden caves without digging a single hole! If you had a quantum sensor, what secret would you look for underground?",
+   "fr": "Donc des atomes qui tombent peuvent trouver des grottes cachées sans creuser un seul trou ! Si tu avais un capteur quantique, quel secret chercherais-tu sous terre ?",
+   "nl": "Dus vallende atomen kunnen verborgen grotten vinden zonder één gat te graven! Als jij een quantumsensor had, welk geheim zou jij onder de grond zoeken?",
+   "img": "Whyzz and Qubi high-five above a sparkling hidden cave"
+  }
+ ],
+ "prompts": [
+  "In a sunny park playground with a slide and swings Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds a little toy shovel and looks down at the grass with a puzzled face, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge stands next to him holding a shiny futuristic box-shaped gadget with a glowing blue light and smiles. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a sunny green park Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge holds the shiny box-shaped gadget with a glowing blue light low over the grass while soft glowing golden arrows point down into the ground, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands firmly on the grass and looks down with curiosity. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a sunny green park Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge jumps high in the air with arms spread wide like he is flying and a funny surprised face, colorful balloons float around him, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge laughs and shakes his head below. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A cutaway view of the ground under a green park showing a hidden cozy cave with sparkling crystals deep in the rock, on the grass above Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge holds the box-shaped gadget which has a see-through window showing tiny glowing balls falling between soft beams of blue laser light, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge kneels and peers into the window, amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright friendly science lab Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge wear cozy scarves and fluffy earmuffs and playfully shiver next to a big frosty glass bubble where tiny glowing blue balls float slowly among sparkling ice crystals. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a sunny green park Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge jump and high-five next to the glowing box-shaped gadget on the grass, a cutaway below the grass shows a sparkling hidden cave full of glittering crystals. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What does a quantum sensor measure?",
+    "fr": "Que mesure un capteur quantique ?",
+    "nl": "Wat meet een quantumsensor?"
+   },
+   "o": {
+    "en": [
+     "Noise",
+     "Gravity",
+     "Wind"
+    ],
+    "fr": [
+     "Le bruit",
+     "La gravité",
+     "Le vent"
+    ],
+    "nl": [
+     "Geluid",
+     "Zwaartekracht",
+     "Wind"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What happens to the atoms inside the sensor?",
+    "fr": "Que font les atomes dans le capteur ?",
+    "nl": "Wat gebeurt er met de atomen in de sensor?"
+   },
+   "o": {
+    "en": [
+     "They fall while lasers watch them",
+     "They sing songs",
+     "They fly up to the Moon"
+    ],
+    "fr": [
+     "Ils tombent sous l’œil de lasers",
+     "Ils chantent des chansons",
+     "Ils s’envolent vers la Lune"
+    ],
+    "nl": [
+     "Ze vallen terwijl lasers ze bekijken",
+     "Ze zingen liedjes",
+     "Ze vliegen naar de maan"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why do the atoms fall a teeny bit slower above an empty cave?",
+    "fr": "Pourquoi les atomes tombent-ils un poil moins vite au-dessus d’une grotte vide ?",
+    "nl": "Waarom vallen de atomen een tikje trager boven een lege grot?"
+   },
+   "o": {
+    "en": [
+     "Because the cave is dark",
+     "Because the atoms are tired",
+     "Because less rock pulls on them"
+    ],
+    "fr": [
+     "Parce que la grotte est sombre",
+     "Parce que les atomes sont fatigués",
+     "Parce que moins de roche les attire"
+    ],
+    "nl": [
+     "Omdat de grot donker is",
+     "Omdat de atomen moe zijn",
+     "Omdat er minder steen aan ze trekt"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "How cold are the atoms in the sensor?",
+    "fr": "À quel point les atomes du capteur sont-ils froids ?",
+    "nl": "Hoe koud zijn de atomen in de sensor?"
+   },
+   "o": {
+    "en": [
+     "As warm as soup",
+     "Colder than outer space",
+     "As cold as a fridge"
+    ],
+    "fr": [
+     "Aussi chauds qu’une soupe",
+     "Plus froids que l’espace",
+     "Aussi froids qu’un frigo"
+    ],
+    "nl": [
+     "Zo warm als soep",
+     "Kouder dan de ruimte",
+     "Zo koud als een koelkast"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Could Whyzz feel the tiny change in gravity above the cave?",
+    "fr": "Whyzz pourrait-il sentir le minuscule changement de gravité au-dessus de la grotte ?",
+    "nl": "Kon Whyzz het piepkleine verschil in zwaartekracht boven de grot voelen?"
+   },
+   "o": {
+    "en": [
+     "Yes, he floats away like a balloon",
+     "Yes, he gets super heavy",
+     "No, it’s way too tiny to feel"
+    ],
+    "fr": [
+     "Oui, il s’envole comme un ballon",
+     "Oui, il devient super lourd",
+     "Non, c’est bien trop petit pour le sentir"
+    ],
+    "nl": [
+     "Ja, hij zweeft weg als een ballon",
+     "Ja, hij wordt superzwaar",
+     "Nee, het is veel te klein om te voelen"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Quantum sensor detective",
+   "fr": "Détective du capteur quantique",
+   "nl": "Quantumsensor-speurder"
+  },
+  "intro": {
+   "en": "A quantum sensor feels tiny changes in gravity. Which hidden things could it find underground? Pick the right ones!",
+   "fr": "Un capteur quantique sent de minuscules changements de gravité. Quelles choses cachées pourrait-il trouver sous terre ? Choisis les bonnes !",
+   "nl": "Een quantumsensor voelt piepkleine verschillen in zwaartekracht. Welke verborgen dingen kan hij onder de grond vinden? Kies de juiste!"
+  },
+  "done": {
+   "en": "Great detective work! You found everything the sensor can feel.",
+   "fr": "Super travail de détective ! Tu as trouvé tout ce que le capteur peut sentir.",
+   "nl": "Goed speurwerk! Je hebt alles gevonden wat de sensor kan voelen."
+  },
+  "items": {
+   "en": [
+    "A hidden cave",
+    "An old tunnel",
+    "A song stuck in your head",
+    "A secret cellar under an old house",
+    "The color of a worm",
+    "Melted rock under a volcano",
+    "Tomorrow’s weather"
+   ],
+   "fr": [
+    "Une grotte cachée",
+    "Un vieux tunnel",
+    "Une chanson coincée dans ta tête",
+    "Une cave secrète sous une vieille maison",
+    "La couleur d’un ver de terre",
+    "De la roche fondue sous un volcan",
+    "La météo de demain"
+   ],
+   "nl": [
+    "Een verborgen grot",
+    "Een oude tunnel",
+    "Een liedje dat in je hoofd blijft hangen",
+    "Een geheime kelder onder een oud huis",
+    "De kleur van een regenworm",
+    "Gesmolten gesteente onder een vulkaan",
+    "Het weer van morgen"
+   ]
+  },
+  "good": [
+   0,
+   1,
+   3,
+   5
+  ]
+ }
+}

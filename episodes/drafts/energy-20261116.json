@@ -1,0 +1,233 @@
+{
+ "id": "energy-20261116",
+ "world": "energy",
+ "guide": "Sunny",
+ "title": {
+  "en": "Where does the electricity in your socket come from?",
+  "fr": "D’où vient l’électricité de ta prise ?",
+  "nl": "Waar komt de elektriciteit in het stopcontact vandaan?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, I plug in my tablet and it just charges, like magic. But where does the electricity in the socket come from?",
+   "fr": "Sunny, je branche ma tablette et elle se recharge, comme par magie. Mais d’où vient l’électricité de la prise ?",
+   "nl": "Sunny, ik steek de stekker van mijn tablet in het stopcontact en hij laadt op, als bij toverslag. Maar waar komt die elektriciteit vandaan?",
+   "img": "Whyzz plugs in a tablet charger, puzzled, Sunny smiles"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "It takes a long trip! It’s made far away in power plants, wind farms or solar parks, then it zooms to your town through thick wires on tall towers.",
+   "fr": "Elle fait un long voyage ! Elle est produite loin d’ici, dans des centrales, des parcs éoliens ou des parcs solaires, puis elle file jusqu’à ta ville par de gros câbles sur de hauts pylônes.",
+   "nl": "Ze maakt een lange reis! Ze wordt ver weg gemaakt in centrales, windparken of zonneparken en zoeft dan naar jouw stad door dikke kabels aan hoge masten.",
+   "img": "Wind turbines, solar panels and power towers lead to a town"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the electricity rides along the wires like a tiny race car? Vroom, vroom, beep beep, out of my way!",
+   "fr": "Alors l’électricité roule sur les fils comme une mini voiture de course ? Vroum, vroum, bip bip, poussez-vous !",
+   "nl": "Dus de elektriciteit racet over de draden als een piepkleine raceauto? Vroem, vroem, tuut tuut, aan de kant!",
+   "img": "Whyzz pretends to drive a race car, Sunny laughs"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Ha, it’s more like a push passed along the wire! Near your town, a transformer lowers the super strong voltage, then cables under the street bring it into your wall.",
+   "fr": "Ha, c’est plutôt une poussée qui se transmet le long du fil ! Près de ta ville, un transformateur baisse la tension très forte, puis des câbles sous la rue l’amènent jusque dans ton mur.",
+   "nl": "Haha, het is eerder een duwtje dat door de draad wordt doorgegeven! Vlak bij je stad verlaagt een transformator de superhoge spanning en kabels onder de straat brengen de stroom tot in je muur.",
+   "img": "Cutaway of a street with a substation and glowing cables to a house"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Did you know the push races almost as fast as light, but the tiny electrons themselves crawl slower than a snail? That’s why your lamp turns on right away.",
+   "fr": "Savais-tu que la poussée file presque à la vitesse de la lumière, mais que les électrons, eux, avancent moins vite qu’un escargot ? C’est pour ça que ta lampe s’allume tout de suite.",
+   "nl": "Wist je dat het duwtje bijna zo snel als het licht gaat, maar dat de piepkleine elektronen zelf trager kruipen dan een slak? Daarom gaat je lamp meteen aan.",
+   "img": "Sunny switches on a lamp, a bubble shows a snail next to a light beam"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So my tablet’s energy took a long trip, over tall towers and under the street! How could you save a bit of electricity at home?",
+   "fr": "Donc l’énergie de ma tablette a fait un long voyage, par de hauts pylônes et sous la rue ! Comment pourrais-tu économiser un peu d’électricité chez toi ?",
+   "nl": "Dus de energie van mijn tablet maakte een lange reis, over hoge masten en onder de straat! Hoe zou jij thuis een beetje elektriciteit kunnen besparen?",
+   "img": "Whyzz and Sunny high-five, wind turbines in the window"
+  }
+ ],
+ "prompts": [
+  "In a cozy living room Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge kneels by a wall socket holding a charging cable connected to a tablet and looks at the wall with a puzzled face, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands next to him with her hands on her hips and a knowing smile. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a grassy hill above a sunny countryside with spinning white wind turbines, rows of blue solar panels and tall steel power towers carrying long wires toward a faraway town, glowing yellow sparkles travel along the wires, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge points along the wires, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge shields his eyes from the sun and looks amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a grassy hill near tall power towers Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge pretends to drive a race car with an imaginary steering wheel and a big grin, a fluffy thought cloud above him shows a tiny yellow cartoon race car zooming along a power line, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge laughs. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A cutaway view of a friendly town street showing a small fenced electric substation with humming grey boxes, glowing yellow lines run through cables under the street into the wall of a cozy house, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge points at the cables, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge crouches to look with wide eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy room at dusk Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge flips a light switch and a warm lamp lights up instantly, a playful thought bubble above shows a cute smiling snail slowly crawling next to a speeding beam of bright light, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy living room Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge high-five next to a tablet charging on the table, a big window behind them shows white wind turbines and blue solar panels far away on green hills. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Where can electricity be made?",
+    "fr": "Où peut-on produire de l’électricité ?",
+    "nl": "Waar kan elektriciteit gemaakt worden?"
+   },
+   "o": {
+    "en": [
+     "In a fridge",
+     "In power plants, wind farms or solar parks",
+     "In the socket itself"
+    ],
+    "fr": [
+     "Dans un frigo",
+     "Dans des centrales, des parcs éoliens ou des parcs solaires",
+     "Dans la prise elle-même"
+    ],
+    "nl": [
+     "In een koelkast",
+     "In centrales, windparken of zonneparken",
+     "In het stopcontact zelf"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How does electricity get to your town?",
+    "fr": "Comment l’électricité arrive-t-elle jusqu’à ta ville ?",
+    "nl": "Hoe komt de elektriciteit in je stad?"
+   },
+   "o": {
+    "en": [
+     "Through thick wires on tall towers",
+     "In big trucks",
+     "By mail"
+    ],
+    "fr": [
+     "Par de gros câbles sur de hauts pylônes",
+     "Dans de gros camions",
+     "Par la poste"
+    ],
+    "nl": [
+     "Door dikke kabels aan hoge masten",
+     "In grote vrachtwagens",
+     "Met de post"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What does a transformer near your town do?",
+    "fr": "Que fait un transformateur près de ta ville ?",
+    "nl": "Wat doet een transformator bij je stad?"
+   },
+   "o": {
+    "en": [
+     "It paints the wires",
+     "It makes a race car go faster",
+     "It lowers the super strong voltage"
+    ],
+    "fr": [
+     "Il peint les fils",
+     "Il fait aller plus vite une voiture de course",
+     "Il baisse la tension très forte"
+    ],
+    "nl": [
+     "Hij verft de draden",
+     "Hij laat een raceauto sneller gaan",
+     "Hij verlaagt de superhoge spanning"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "How fast do the tiny electrons themselves move?",
+    "fr": "À quelle vitesse les minuscules électrons avancent-ils ?",
+    "nl": "Hoe snel bewegen de piepkleine elektronen zelf?"
+   },
+   "o": {
+    "en": [
+     "As fast as a rocket",
+     "Slower than a snail",
+     "As fast as a cheetah"
+    ],
+    "fr": [
+     "Aussi vite qu’une fusée",
+     "Moins vite qu’un escargot",
+     "Aussi vite qu’un guépard"
+    ],
+    "nl": [
+     "Zo snel als een raket",
+     "Trager dan een slak",
+     "Zo snel als een jachtluipaard"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Why does your lamp turn on right away?",
+    "fr": "Pourquoi ta lampe s’allume-t-elle tout de suite ?",
+    "nl": "Waarom gaat je lamp meteen aan?"
+   },
+   "o": {
+    "en": [
+     "The lamp guesses",
+     "Someone runs very fast",
+     "The push races almost as fast as light"
+    ],
+    "fr": [
+     "La lampe devine",
+     "Quelqu’un court très vite",
+     "La poussée file presque à la vitesse de la lumière"
+    ],
+    "nl": [
+     "De lamp raadt het",
+     "Iemand rent heel snel",
+     "Het duwtje gaat bijna zo snel als het licht"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "Electricity’s big trip",
+   "fr": "Le grand voyage de l’électricité",
+   "nl": "De grote reis van de elektriciteit"
+  },
+  "intro": {
+   "en": "How does electricity get to your socket? Put the steps of its trip in the right order!",
+   "fr": "Comment l’électricité arrive-t-elle jusqu’à ta prise ? Remets les étapes de son voyage dans le bon ordre !",
+   "nl": "Hoe komt de elektriciteit in je stopcontact? Zet de stappen van haar reis in de juiste volgorde!"
+  },
+  "done": {
+   "en": "Charged up! You followed electricity all the way home.",
+   "fr": "Rechargé ! Tu as suivi l’électricité jusque chez toi.",
+   "nl": "Opgeladen! Je hebt de elektriciteit helemaal tot bij je thuis gevolgd."
+  },
+  "items": {
+   "en": [
+    "A wind turbine makes electricity",
+    "It travels through thick wires on tall towers",
+    "A transformer near town lowers the voltage",
+    "Cables under the street carry it",
+    "It reaches the socket in your wall",
+    "Your tablet charges"
+   ],
+   "fr": [
+    "Une éolienne produit de l’électricité",
+    "Elle voyage par de gros câbles sur de hauts pylônes",
+    "Un transformateur près de la ville baisse la tension",
+    "Des câbles sous la rue la transportent",
+    "Elle arrive à la prise de ton mur",
+    "Ta tablette se recharge"
+   ],
+   "nl": [
+    "Een windmolen maakt elektriciteit",
+    "Ze reist door dikke kabels aan hoge masten",
+    "Een transformator bij de stad verlaagt de spanning",
+    "Kabels onder de straat brengen de stroom verder",
+    "Ze komt aan bij het stopcontact in je muur",
+    "Je tablet laadt op"
+   ]
+  }
+ }
+}

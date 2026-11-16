@@ -1,0 +1,253 @@
+{
+ "id": "robo-20261116",
+ "world": "robo",
+ "guide": "Pixel",
+ "title": {
+  "en": "How do robot arms help build cars?",
+  "fr": "Comment les bras robotisés aident-ils à construire des voitures ?",
+  "nl": "Hoe helpen robotarmen om auto’s te bouwen?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, building my toy car took me a whole afternoon. How do factories build hundreds of real cars every day?",
+   "fr": "Pixel, construire ma voiture jouet m’a pris tout un après-midi. Comment les usines font-elles des centaines de vraies voitures chaque jour ?",
+   "nl": "Pixel, ik heb een hele middag gedaan over mijn speelgoedauto. Hoe bouwen fabrieken elke dag honderden echte auto’s?",
+   "img": "Whyzz proudly holds a wobbly homemade toy car"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "With help from big robot arms! They stand in a long line and each arm does its own job, like welding, painting or lifting heavy doors.",
+   "fr": "Avec l’aide de grands bras robotisés ! Ils sont alignés sur une longue chaîne et chaque bras a sa propre tâche, comme souder, peindre ou soulever de lourdes portières.",
+   "nl": "Met hulp van grote robotarmen! Ze staan in een lange rij en elke arm heeft zijn eigen taak, zoals lassen, lakken of zware portieren optillen.",
+   "img": "A line of orange robot arms works on car bodies"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Do the robot arms ever get tired and ask for a snack? I’d want a pizza break after every car!",
+   "fr": "Est-ce que les bras robotisés se fatiguent et réclament un goûter ? Moi, je voudrais une pause pizza après chaque voiture !",
+   "nl": "Worden de robotarmen ooit moe en vragen ze om een tussendoortje? Ik zou na elke auto een pizzapauze willen!",
+   "img": "Whyzz acts like a robot arm holding pizza, Pixel laughs"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, robots never get tired or bored, but they do need checkups! They repeat the same move thousands of times and land within about a hair’s width each time.",
+   "fr": "Ha, les robots ne se fatiguent jamais et ne s’ennuient jamais, mais ils ont besoin d’entretien ! Ils répètent le même geste des milliers de fois, à peu près à l’épaisseur d’un cheveu près.",
+   "nl": "Haha, robots worden nooit moe en vervelen zich nooit, maar ze hebben wel onderhoud nodig! Ze herhalen dezelfde beweging duizenden keren, elke keer tot op ongeveer een haardikte nauwkeurig.",
+   "img": "A robot arm places a part precisely, Pixel holds up a hair"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know some robots work right next to people as helpers? They’re called cobots and they stop gently if they bump into you.",
+   "fr": "Savais-tu que certains robots travaillent juste à côté des gens pour les aider ? On les appelle des cobots et ils s’arrêtent en douceur s’ils te touchent.",
+   "nl": "Wist je dat sommige robots als helpers vlak naast mensen werken? Ze heten cobots en ze stoppen zachtjes als ze tegen je aan botsen.",
+   "img": "A small white cobot hands a part to a smiling worker"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So robot arms are tireless, super precise teammates for the people in the factory! If you had a robot arm at home, what job would you give it?",
+   "fr": "Donc les bras robotisés sont des coéquipiers infatigables et super précis pour les gens à l’usine ! Si tu avais un bras robotisé à la maison, quel travail lui donnerais-tu ?",
+   "nl": "Dus robotarmen zijn onvermoeibare, superprecieze teamgenoten voor de mensen in de fabriek! Als jij thuis een robotarm had, welke klus zou je hem dan geven?",
+   "img": "Whyzz and Pixel next to a new red car, a robot arm waves"
+  }
+ ],
+ "prompts": [
+  "In a cozy bedroom Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits on the floor surrounded by colorful toy building pieces and proudly holds up a slightly wobbly homemade toy car, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge sits next to him and claps. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright clean car factory a long line of big orange robot arms works on shiny car bodies moving along a conveyor, small friendly sparks fly from one arm, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points at them, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with his mouth open in amazement. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright clean car factory Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge pretends to be a robot with stiff arms and a funny face while holding a slice of pizza, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs next to a big orange robot arm. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright clean car factory a big orange robot arm carefully places a shiny wheel onto a car exactly in place, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge holds up a single strand of hair between her fingers and smiles, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge squints at the hair with an impressed face. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright clean car factory a small friendly white robot arm with soft rounded edges gently hands a shiny car part to a smiling grown-up worker in a blue uniform and safety glasses, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watch and smile. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "At the end of a bright factory line Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge cheer beside a shiny brand-new red car, a big orange robot arm above them gives a friendly wave, colorful confetti in the air. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "How do robot arms work in a car factory?",
+    "fr": "Comment travaillent les bras robotisés dans une usine de voitures ?",
+    "nl": "Hoe werken robotarmen in een autofabriek?"
+   },
+   "o": {
+    "en": [
+     "They drive the cars home",
+     "Each arm does its own job in a long line",
+     "They all take a nap"
+    ],
+    "fr": [
+     "Ils ramènent les voitures à la maison",
+     "Chaque bras a sa propre tâche sur une longue chaîne",
+     "Ils font tous la sieste"
+    ],
+    "nl": [
+     "Ze rijden de auto’s naar huis",
+     "Elke arm heeft zijn eigen taak in een lange rij",
+     "Ze doen allemaal een dutje"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Which job can a robot arm do?",
+    "fr": "Quelle tâche un bras robotisé peut-il faire ?",
+    "nl": "Welke taak kan een robotarm doen?"
+   },
+   "o": {
+    "en": [
+     "Welding",
+     "Baking cakes",
+     "Singing"
+    ],
+    "fr": [
+     "Souder",
+     "Faire des gâteaux",
+     "Chanter"
+    ],
+    "nl": [
+     "Lassen",
+     "Taarten bakken",
+     "Zingen"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Do robot arms get tired?",
+    "fr": "Les bras robotisés se fatiguent-ils ?",
+    "nl": "Worden robotarmen moe?"
+   },
+   "o": {
+    "en": [
+     "Yes, after every car",
+     "Only on Mondays",
+     "No, but they need checkups"
+    ],
+    "fr": [
+     "Oui, après chaque voiture",
+     "Seulement le lundi",
+     "Non, mais ils ont besoin d’entretien"
+    ],
+    "nl": [
+     "Ja, na elke auto",
+     "Alleen op maandag",
+     "Nee, maar ze hebben wel onderhoud nodig"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "How precise is a robot arm each time?",
+    "fr": "Quelle est la précision d’un bras robotisé à chaque fois ?",
+    "nl": "Hoe nauwkeurig is een robotarm elke keer?"
+   },
+   "o": {
+    "en": [
+     "About a meter",
+     "About a hair’s width",
+     "About a soccer field"
+    ],
+    "fr": [
+     "Environ un mètre",
+     "Environ l’épaisseur d’un cheveu",
+     "Environ un terrain de foot"
+    ],
+    "nl": [
+     "Ongeveer een meter",
+     "Ongeveer een haardikte",
+     "Ongeveer een voetbalveld"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does a cobot do if it bumps into you?",
+    "fr": "Que fait un cobot s’il te touche ?",
+    "nl": "Wat doet een cobot als hij tegen je aan botst?"
+   },
+   "o": {
+    "en": [
+     "It speeds up",
+     "It plays music",
+     "It stops gently"
+    ],
+    "fr": [
+     "Il accélère",
+     "Il joue de la musique",
+     "Il s’arrête en douceur"
+    ],
+    "nl": [
+     "Hij gaat sneller",
+     "Hij speelt muziek",
+     "Hij stopt zachtjes"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Robot tool match",
+   "fr": "Associe les outils des robots",
+   "nl": "Koppel het robotgereedschap"
+  },
+  "intro": {
+   "en": "Each robot arm has a special tool. Match each tool to its job!",
+   "fr": "Chaque bras robotisé a un outil spécial. Associe chaque outil à sa tâche !",
+   "nl": "Elke robotarm heeft speciaal gereedschap. Koppel elk stuk gereedschap aan zijn taak!"
+  },
+  "done": {
+   "en": "Great match! The factory line is running smoothly.",
+   "fr": "Bien joué ! La chaîne de l’usine tourne à merveille.",
+   "nl": "Goed gekoppeld! De fabriekslijn draait op rolletjes."
+  },
+  "left": {
+   "en": [
+    "Welding tool",
+    "Paint sprayer",
+    "Suction cups",
+    "Screwdriver",
+    "Camera"
+   ],
+   "fr": [
+    "Outil de soudure",
+    "Pistolet à peinture",
+    "Ventouses",
+    "Visseuse",
+    "Caméra"
+   ],
+   "nl": [
+    "Lasapparaat",
+    "Verfspuit",
+    "Zuignappen",
+    "Schroevendraaier",
+    "Camera"
+   ]
+  },
+  "right": {
+   "en": [
+    "Joins metal parts together",
+    "Gives the car its color",
+    "Lifts glass windows",
+    "Tightens screws",
+    "Checks for scratches"
+   ],
+   "fr": [
+    "Assemble les pièces en métal",
+    "Donne sa couleur à la voiture",
+    "Soulève les vitres",
+    "Serre les vis",
+    "Repère les rayures"
+   ],
+   "nl": [
+    "Verbindt metalen onderdelen",
+    "Geeft de auto zijn kleur",
+    "Tilt glazen ruiten op",
+    "Draait schroeven vast",
+    "Zoekt naar krasjes"
+   ]
+  }
+ }
+}

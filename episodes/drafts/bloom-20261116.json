@@ -1,0 +1,246 @@
+{
+ "id": "bloom-20261116",
+ "world": "bloom",
+ "guide": "Bloom",
+ "title": {
+  "en": "How can you see the DNA of a strawberry?",
+  "fr": "Comment voir l’ADN d’une fraise ?",
+  "nl": "Hoe kun je het DNA van een aardbei zien?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Bloom, everyone says living things are built from a recipe called DNA. Can I actually see DNA, or is it way too small?",
+   "fr": "Bloom, tout le monde dit que les êtres vivants sont construits d’après une recette qui s’appelle l’ADN. Est-ce que je peux vraiment voir de l’ADN, ou c’est beaucoup trop petit ?",
+   "nl": "Bloom, iedereen zegt dat levende wezens gebouwd zijn volgens een recept dat DNA heet. Kan ik DNA echt zien, of is het veel te klein?",
+   "img": "Whyzz looks at a strawberry through a magnifying glass"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "One DNA thread is too thin to see, but if we pull out millions together, you can! Strawberries are perfect because each cell has lots of copies of their DNA.",
+   "fr": "Un seul fil d’ADN est trop fin pour être vu, mais si on en sort des millions ensemble, tu pourras le voir ! Les fraises sont parfaites, car chaque cellule contient plein de copies de leur ADN.",
+   "nl": "Eén DNA-draadje is te dun om te zien, maar als we er miljoenen tegelijk uithalen, lukt het wel! Aardbeien zijn perfect, want elke cel bevat heel veel kopieën van hun DNA.",
+   "img": "Bloom holds a strawberry, a bubble shows cells full of DNA"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Cool! So I just knock on the strawberry and ask it very politely to hand over its DNA?",
+   "fr": "Trop bien ! Alors je frappe à la porte de la fraise et je lui demande très poliment de me donner son ADN ?",
+   "nl": "Gaaf! Dus ik klop gewoon op de aardbei en vraag heel beleefd of ik haar DNA mag hebben?",
+   "img": "Whyzz knocks on a giant strawberry with a tiny door, Bloom laughs"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Ha, it needs a bit more help! We mash it in a bag with water, dish soap and salt, because the soap opens the cells like unzipping a jacket.",
+   "fr": "Ha, elle a besoin d’un peu plus d’aide ! On l’écrase dans un sachet avec de l’eau, du liquide vaisselle et du sel, car le savon ouvre les cellules comme on ouvre la fermeture éclair d’une veste.",
+   "nl": "Haha, ze heeft wat meer hulp nodig! We pletten haar in een zakje met water, afwasmiddel en zout, want de zeep maakt de cellen open, zoals je een jas openritst.",
+   "img": "Bloom and Whyzz squish a strawberry in a zip bag"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Then a grown-up pours ice-cold rubbing alcohol on top and white, fluffy DNA floats up like a little cloud! Did you know the DNA in one of your cells, unrolled, is about 2 meters long?",
+   "fr": "Ensuite, un adulte verse de l’alcool bien froid dessus et l’ADN, blanc et cotonneux, remonte comme un petit nuage ! Savais-tu que l’ADN d’une seule de tes cellules, déroulé, mesure environ 2 mètres ?",
+   "nl": "Daarna giet een volwassene ijskoude alcohol erbovenop en drijft wit, pluizig DNA omhoog als een wolkje! Wist je dat het DNA uit één cel van jou, helemaal uitgerold, ongeveer 2 meter lang is?",
+   "img": "White fluffy DNA floats up in a glass, Bloom lifts it with a stick"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So soap, salt and cold alcohol let me see a strawberry’s recipe with my own eyes! Which fruit or veggie would you like to pull DNA from?",
+   "fr": "Donc du savon, du sel et de l’alcool froid me permettent de voir la recette d’une fraise de mes propres yeux ! De quel fruit ou légume aimerais-tu sortir l’ADN ?",
+   "nl": "Dus met zeep, zout en koude alcohol kan ik het recept van een aardbei met mijn eigen ogen zien! Uit welke vrucht of groente zou jij DNA willen halen?",
+   "img": "Whyzz and Bloom cheer with a tube of DNA among fruits"
+  }
+ ],
+ "prompts": [
+  "In a bright sunny kitchen Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge squints through a big magnifying glass at a juicy red strawberry on the table, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge stands beside him holding a bowl of fresh strawberries with a friendly grin. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright sunny kitchen Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge holds up a big shiny strawberry, beside it floats a magical glowing round bubble showing cute round cells each filled with many tiny twisted glowing ladder strands, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans in with wide curious eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright sunny kitchen Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge bows politely and knocks with one finger on a giant smiling cartoon strawberry with a tiny wooden door, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge laughs holding his belly. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright sunny kitchen Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge happily squish a red strawberry inside a clear plastic zip bag on the table, a plain bottle of dish soap with no label surrounded by soap bubbles and a small bowl of salt next to them. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright sunny kitchen a tall clear glass holds pink strawberry mush at the bottom and a clear layer on top where a fluffy white cloud of thin strands floats up, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge gently lifts a few white strands with a wooden stick, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge gasps with delight. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright sunny kitchen Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge cheer and hold up a small clear tube with a fluffy white strand inside, the table around them full of bananas, kiwis, tomatoes and strawberries. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Why are strawberries great for this experiment?",
+    "fr": "Pourquoi les fraises sont-elles parfaites pour cette expérience ?",
+    "nl": "Waarom zijn aardbeien perfect voor dit experiment?"
+   },
+   "o": {
+    "en": [
+     "They are very sweet",
+     "Each cell has lots of copies of their DNA",
+     "They are red"
+    ],
+    "fr": [
+     "Elles sont très sucrées",
+     "Chaque cellule contient plein de copies de leur ADN",
+     "Elles sont rouges"
+    ],
+    "nl": [
+     "Ze zijn heel zoet",
+     "Elke cel bevat heel veel kopieën van hun DNA",
+     "Ze zijn rood"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does the dish soap do?",
+    "fr": "À quoi sert le liquide vaisselle ?",
+    "nl": "Wat doet het afwasmiddel?"
+   },
+   "o": {
+    "en": [
+     "It opens the cells",
+     "It makes the DNA red",
+     "It cleans the table"
+    ],
+    "fr": [
+     "Il ouvre les cellules",
+     "Il rend l’ADN rouge",
+     "Il nettoie la table"
+    ],
+    "nl": [
+     "Het maakt de cellen open",
+     "Het maakt het DNA rood",
+     "Het maakt de tafel schoon"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Who pours the ice-cold rubbing alcohol?",
+    "fr": "Qui verse l’alcool bien froid ?",
+    "nl": "Wie giet de ijskoude alcohol erop?"
+   },
+   "o": {
+    "en": [
+     "Whyzz all alone",
+     "The strawberry",
+     "A grown-up"
+    ],
+    "fr": [
+     "Whyzz tout seul",
+     "La fraise",
+     "Un adulte"
+    ],
+    "nl": [
+     "Whyzz helemaal alleen",
+     "De aardbei",
+     "Een volwassene"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What does the DNA look like when it floats up?",
+    "fr": "À quoi ressemble l’ADN quand il remonte ?",
+    "nl": "Hoe ziet het DNA eruit als het omhoog drijft?"
+   },
+   "o": {
+    "en": [
+     "Blue sparkles",
+     "A white fluffy cloud",
+     "Tiny red balls"
+    ],
+    "fr": [
+     "Des paillettes bleues",
+     "Un nuage blanc et cotonneux",
+     "De petites boules rouges"
+    ],
+    "nl": [
+     "Blauwe glitters",
+     "Een wit, pluizig wolkje",
+     "Kleine rode balletjes"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How long is the DNA from one of your cells, unrolled?",
+    "fr": "Quelle est la longueur de l’ADN d’une de tes cellules, déroulé ?",
+    "nl": "Hoe lang is het DNA uit één cel van jou, helemaal uitgerold?"
+   },
+   "o": {
+    "en": [
+     "About 2 millimeters",
+     "About 2 kilometers",
+     "About 2 meters"
+    ],
+    "fr": [
+     "Environ 2 millimètres",
+     "Environ 2 kilomètres",
+     "Environ 2 mètres"
+    ],
+    "nl": [
+     "Ongeveer 2 millimeter",
+     "Ongeveer 2 kilometer",
+     "Ongeveer 2 meter"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "DNA lab shopping list",
+   "fr": "La liste de courses du labo ADN",
+   "nl": "Boodschappenlijst voor het DNA-lab"
+  },
+  "intro": {
+   "en": "What do you need to see the DNA of a strawberry? Pick the right things!",
+   "fr": "De quoi as-tu besoin pour voir l’ADN d’une fraise ? Choisis les bonnes choses !",
+   "nl": "Wat heb je nodig om het DNA van een aardbei te zien? Kies de juiste dingen!"
+  },
+  "done": {
+   "en": "Perfect! Your DNA lab is ready. Don’t forget a grown-up helper!",
+   "fr": "Parfait ! Ton labo ADN est prêt. N’oublie pas un adulte pour t’aider !",
+   "nl": "Perfect! Je DNA-lab is klaar. Vergeet geen volwassene om je te helpen!"
+  },
+  "items": {
+   "en": [
+    "Strawberries",
+    "A zip bag",
+    "Chocolate sprinkles",
+    "Dish soap",
+    "Salt",
+    "A magnet",
+    "Ice-cold rubbing alcohol",
+    "A rubber duck"
+   ],
+   "fr": [
+    "Des fraises",
+    "Un sachet à fermeture",
+    "Des vermicelles en chocolat",
+    "Du liquide vaisselle",
+    "Du sel",
+    "Un aimant",
+    "De l’alcool bien froid",
+    "Un canard en plastique"
+   ],
+   "nl": [
+    "Aardbeien",
+    "Een zakje met rits",
+    "Chocoladehagelslag",
+    "Afwasmiddel",
+    "Zout",
+    "Een magneet",
+    "IJskoude alcohol",
+    "Een badeendje"
+   ]
+  },
+  "good": [
+   0,
+   1,
+   3,
+   4,
+   6
+  ]
+ }
+}
