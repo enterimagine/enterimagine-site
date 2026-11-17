@@ -30,7 +30,7 @@
       "url": "https://x.com/esa/status/2122363483354280353",
       "seen": "2026-11-16",
       "draft": "What a follow-up to DART: its 2022 impact cut Dimorphos's 11 hour 55 minute orbit around Didymos by about 32 minutes. Can't wait to see whether Hera finds a neat crater or a reshaped moonlet.",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@NASAHubble",
@@ -38,7 +38,7 @@
       "url": "https://x.com/NASAHubble/status/2122371140387582219",
       "seen": "2026-11-16",
       "draft": "Roman's main camera captures a patch of sky about 100 times larger than Hubble's infrared camera in one shot. Like pairing a panoramic lens with a zoom lens: one maps the crowd while the other studies the faces.",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@SPACEdotcom",
@@ -46,7 +46,7 @@
       "url": "https://x.com/SPACEdotcom/status/2122380936193167626",
       "seen": "2026-11-16",
       "draft": "Leonids are some of the fastest meteors around: dust from Comet Tempel-Tuttle hits our atmosphere at about 44 miles per second, fast enough to cross the continental US in roughly a minute. Clear skies to everyone heading out!",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@IBMResearch",
@@ -54,6 +54,38 @@
       "url": "https://x.com/IBMResearch/status/2122370483316203814",
       "seen": "2026-11-16",
       "draft": "Treating quantum processors as specialists on a classical supercomputing team feels like the realistic path forward. Which nuclear physics problem do you expect to benefit first: nuclear structure or real-time dynamics like scattering?",
+      "status": "skipped"
+    },
+    {
+      "account": "@NASA",
+      "post": "Join us in getting a look at the universe as it has never been seen before. On Dec. 7, at 3:30pm ET (2030 UTC), @NASARoman",
+      "url": "https://x.com/NASA/status/2122740072386609201",
+      "seen": "2026-11-17",
+      "draft": "Roman's 2.4-meter mirror is the same size as Hubble's, yet each snapshot takes in about 100 times more sky. Which first image are you most curious about: a deep galaxy field or the crowded core of our Milky Way?",
+      "status": "drafted"
+    },
+    {
+      "account": "@NASAEarth",
+      "post": "ICYMI: The ozone layer is still on track for long-term recovery, despite a larger Antarctic ozone hole this year. The 2026",
+      "url": "https://x.com/NASAEarth/status/2122723237570253179",
+      "seen": "2026-11-17",
+      "draft": "Good reminder that one big year doesn't undo the trend: the latest UN assessment still expects the Antarctic ozone layer to return to 1980 levels around 2066 thanks to the Montreal Protocol. Wild how much a stubborn polar vortex can still sway a single season.",
+      "status": "drafted"
+    },
+    {
+      "account": "@ScienceMagazine",
+      "post": "Some archaea—an ancient group of microorganisms—have an entirely novel genetic code, according to a 2025 study in Science.",
+      "url": "https://x.com/ScienceMagazine/status/2122751381731786808",
+      "seen": "2026-11-17",
+      "draft": "Pyrrolysine has a great backstory: first found in 2002 in the methane-making microbe Methanosarcina barkeri, it became known as the 22nd genetically encoded amino acid. Do these archaea still use that codon as a stop anywhere, or has it fully switched meaning?",
+      "status": "drafted"
+    },
+    {
+      "account": "@SkyandTelescope",
+      "post": "Hear from Voyager Project Scientist Linda Spilker as she discusses the latest updates from the Voyager probes — and what it",
+      "url": "https://x.com/SkyandTelescope/status/2122735272244711836",
+      "seen": "2026-11-17",
+      "draft": "One light-day is about 173 times the Earth-Sun distance, so a hello to Voyager 1 now takes a full day to arrive and another day for the answer to come back. Not bad for a spacecraft launched in 1977.",
       "status": "drafted"
     }
   ]
