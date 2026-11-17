@@ -12233,6 +12233,977 @@
    },
    "added": "2026-11-16",
    "voice": true
+  },
+  {
+   "id": "space-20261117",
+   "world": "space",
+   "guide": "Qubi",
+   "title": {
+    "en": "How do satellites help us every day?",
+    "fr": "Comment les satellites nous aident-ils chaque jour ?",
+    "nl": "Hoe helpen satellieten ons elke dag?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, the weather app says it will rain at three o’clock. How can it know that before the clouds even get here?",
+     "fr": "Qubi, l’appli météo dit qu’il va pleuvoir à trois heures. Comment peut-elle le savoir avant même que les nuages arrivent ?",
+     "nl": "Qubi, de weerapp zegt dat het om drie uur gaat regenen. Hoe kan die dat weten nog voor de wolken hier zijn?",
+     "img": "Whyzz looks at a tablet and up at a sunny sky with far-away clouds, Qubi next to him"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I know! A weather wizard sits on top of the clouds and sends us secret messages!",
+     "fr": "Je sais ! Un magicien de la météo est assis sur les nuages et nous envoie des messages secrets !",
+     "nl": "Ik weet het! Een weertovenaar zit boven op de wolken en stuurt ons geheime berichtjes!",
+     "img": "Whyzz imagines a funny wizard on a cloud throwing paper planes, Qubi laughs"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "No wizard, but something just as cool: weather satellites! They circle high above Earth and take pictures of the clouds all day and all night.",
+     "fr": "Pas de magicien, mais quelque chose d’aussi génial : des satellites météo ! Ils tournent très haut autour de la Terre et photographient les nuages jour et nuit.",
+     "nl": "Geen tovenaar, maar iets wat net zo cool is: weersatellieten! Ze draaien hoog rond de aarde en maken dag en nacht foto’s van de wolken.",
+     "img": "Qubi floats in space next to a satellite photographing swirling clouds over Earth"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "A satellite is like a ball swung on a string. Gravity pulls it toward Earth, but it zooms sideways so fast that it keeps going around instead of falling down.",
+     "fr": "Un satellite, c’est comme une balle qu’on fait tourner au bout d’une ficelle. La gravité l’attire vers la Terre, mais il file si vite sur le côté qu’il continue de tourner au lieu de tomber.",
+     "nl": "Een satelliet is net een bal die je aan een touwtje rondslingert. De zwaartekracht trekt hem naar de aarde, maar hij zoeft zo snel opzij dat hij blijft rondgaan in plaats van te vallen.",
+     "img": "Qubi swings a ball on a string in a park while Whyzz watches, a satellite orbit drawn in the sky"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Did you know? The space station circles Earth every 90 minutes, so astronauts see about 16 sunrises every day!",
+     "fr": "Le savais-tu ? La station spatiale fait le tour de la Terre en 90 minutes, alors les astronautes voient environ 16 levers de soleil par jour !",
+     "nl": "Wist je dat? Het ruimtestation draait elke 90 minuten een rondje om de aarde, dus astronauten zien zo’n 16 zonsopgangen per dag!",
+     "img": "Qubi and Whyzz look out of a space station window at a sunrise over Earth"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So satellites watch the clouds, help maps know where you are and send shows to TVs! If you could build your own satellite, what would it do?",
+     "fr": "Donc les satellites surveillent les nuages, aident les cartes à savoir où tu es et envoient des émissions vers les télés ! Si tu pouvais construire ton propre satellite, que ferait-il ?",
+     "nl": "Satellieten houden dus de wolken in de gaten, helpen kaarten te weten waar je bent en sturen programma’s naar tv’s! Als jij je eigen satelliet mocht bouwen, wat zou die doen?",
+     "img": "Whyzz and Qubi build a toy satellite on a rooftop under a starry sky"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What do weather satellites take pictures of?",
+      "fr": "Que photographient les satellites météo ?",
+      "nl": "Waarvan maken weersatellieten foto’s?"
+     },
+     "o": {
+      "en": [
+       "Clouds",
+       "Fish",
+       "Your homework"
+      ],
+      "fr": [
+       "Les nuages",
+       "Les poissons",
+       "Tes devoirs"
+      ],
+      "nl": [
+       "Van wolken",
+       "Van vissen",
+       "Van je huiswerk"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why doesn’t a satellite fall down to Earth?",
+      "fr": "Pourquoi un satellite ne tombe-t-il pas sur la Terre ?",
+      "nl": "Waarom valt een satelliet niet op de aarde?"
+     },
+     "o": {
+      "en": [
+       "It has big wings",
+       "It zooms sideways very fast",
+       "It hangs on a long rope"
+      ],
+      "fr": [
+       "Il a de grandes ailes",
+       "Il file très vite sur le côté",
+       "Il pend au bout d’une longue corde"
+      ],
+      "nl": [
+       "Hij heeft grote vleugels",
+       "Hij zoeft heel snel opzij",
+       "Hij hangt aan een lang touw"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What else can satellites help with?",
+      "fr": "À quoi d’autre servent les satellites ?",
+      "nl": "Waarbij helpen satellieten nog meer?"
+     },
+     "o": {
+      "en": [
+       "Baking cookies",
+       "Brushing your teeth",
+       "Showing maps where you are"
+      ],
+      "fr": [
+       "À cuire des biscuits",
+       "À te brosser les dents",
+       "À montrer aux cartes où tu es"
+      ],
+      "nl": [
+       "Bij koekjes bakken",
+       "Bij tandenpoetsen",
+       "Bij kaarten die tonen waar je bent"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "How long does the space station take to circle Earth?",
+      "fr": "Combien de temps met la station spatiale pour faire le tour de la Terre ?",
+      "nl": "Hoelang doet het ruimtestation over een rondje om de aarde?"
+     },
+     "o": {
+      "en": [
+       "About 90 minutes",
+       "One year",
+       "One week"
+      ],
+      "fr": [
+       "Environ 90 minutes",
+       "Un an",
+       "Une semaine"
+      ],
+      "nl": [
+       "Ongeveer 90 minuten",
+       "Een jaar",
+       "Een week"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "About how many sunrises do astronauts see each day?",
+      "fr": "Combien de levers de soleil les astronautes voient-ils environ par jour ?",
+      "nl": "Hoeveel zonsopgangen zien astronauten ongeveer per dag?"
+     },
+     "o": {
+      "en": [
+       "1",
+       "16",
+       "100"
+      ],
+      "fr": [
+       "1",
+       "16",
+       "100"
+      ],
+      "nl": [
+       "1",
+       "16",
+       "100"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Satellite jobs",
+     "fr": "Le travail des satellites",
+     "nl": "Wat doet elke satelliet?"
+    },
+    "intro": {
+     "en": "Match each satellite with its job.",
+     "fr": "Relie chaque satellite à son travail.",
+     "nl": "Verbind elke satelliet met zijn taak."
+    },
+    "done": {
+     "en": "Great job, space explorer!",
+     "fr": "Bravo, explorateur de l’espace !",
+     "nl": "Goed gedaan, ruimteverkenner!"
+    },
+    "left": {
+     "en": [
+      "Weather satellite",
+      "Navigation satellite",
+      "TV satellite",
+      "Earth-watching satellite"
+     ],
+     "fr": [
+      "Satellite météo",
+      "Satellite de navigation",
+      "Satellite de télévision",
+      "Satellite qui observe la Terre"
+     ],
+     "nl": [
+      "Weersatelliet",
+      "Navigatiesatelliet",
+      "Tv-satelliet",
+      "Satelliet die de aarde bekijkt"
+     ]
+    },
+    "right": {
+     "en": [
+      "Takes pictures of clouds",
+      "Tells your map where you are",
+      "Sends shows to your TV",
+      "Watches forests and ice"
+     ],
+     "fr": [
+      "Photographie les nuages",
+      "Dit à ta carte où tu es",
+      "Envoie des émissions à ta télé",
+      "Surveille les forêts et la glace"
+     ],
+     "nl": [
+      "Maakt foto’s van wolken",
+      "Vertelt je kaart waar je bent",
+      "Stuurt programma’s naar je tv",
+      "Houdt bossen en ijs in de gaten"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Space",
+    "fr": "Espace",
+    "nl": "Ruimte"
+   },
+   "adult": {
+    "en": "For grown-ups: the Space world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Espace dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Ruimte in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-17",
+   "voice": true
+  },
+  {
+   "id": "mobility-20261117",
+   "world": "mobility",
+   "guide": "Sunny",
+   "title": {
+    "en": "How does a train know when to stop?",
+    "fr": "Comment un train sait-il quand s’arrêter ?",
+    "nl": "Hoe weet een trein wanneer hij moet stoppen?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, trains are so long and heavy. How do they know when to stop?",
+     "fr": "Sunny, les trains sont si longs et si lourds. Comment savent-ils quand s’arrêter ?",
+     "nl": "Sunny, treinen zijn zo lang en zwaar. Hoe weten ze wanneer ze moeten stoppen?",
+     "img": "Whyzz and Sunny in a station hall watch a long train arrive behind the glass"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I know! The driver pulls on giant reins and shouts “Whoa, train, whoa!” like a cowboy on a horse!",
+     "fr": "Je sais ! Le conducteur tire sur des rênes géantes et crie « Ho, le train, ho ! » comme un cow-boy sur son cheval !",
+     "nl": "Ik weet het! De machinist trekt aan reuzengrote teugels en roept “Ho, trein, ho!” zoals een cowboy op een paard!",
+     "img": "Whyzz imagines a cowboy pulling reins on a train, Sunny laughs"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Ha, no reins! The track is split into sections, like squares on a board game, with only one train allowed in each section.",
+     "fr": "Ha, pas de rênes ! La voie est divisée en sections, comme les cases d’un jeu de société, avec un seul train à la fois par section.",
+     "nl": "Haha, geen teugels! Het spoor is verdeeld in blokken, zoals de vakjes van een bordspel: in elk blok mag maar één trein rijden.",
+     "img": "Sunny shows a giant board-game track with colored sections and toy trains"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Sensors switch the signal lights: green means go and red means stop. If a driver misses a red light, the train brakes all by itself.",
+     "fr": "Des capteurs changent les signaux lumineux : vert veut dire « roule » et rouge veut dire « stop ». Si le conducteur rate un feu rouge, le train freine tout seul.",
+     "nl": "Sensoren zetten de seinen op groen of rood: groen betekent rijden en rood betekent stoppen. Mist de machinist een rood sein, dan remt de trein vanzelf.",
+     "img": "Sunny points at a red and green signal light beside the track, a train slows down"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Did you know? Steel wheels slip easily on steel rails, so a fast train can need more than a kilometer to stop: as long as ten soccer fields!",
+     "fr": "Le savais-tu ? Les roues en acier glissent facilement sur les rails, alors un train rapide peut avoir besoin de plus d’un kilomètre pour s’arrêter : dix terrains de foot !",
+     "nl": "Wist je dat? Stalen wielen glijden makkelijk over stalen rails, dus een snelle trein heeft soms meer dan een kilometer nodig om te stoppen: zo lang als tien voetbalvelden!",
+     "img": "A fast train next to a row of soccer fields, Sunny and Whyzz amazed"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So sections, signals and smart brakes help every train stop safely! If you could drive a train anywhere, where would you go?",
+     "fr": "Donc les sections, les signaux et les freins malins aident chaque train à s’arrêter en sécurité ! Si tu pouvais conduire un train n’importe où, où irais-tu ?",
+     "nl": "Dus blokken, seinen en slimme remmen helpen elke trein om veilig te stoppen! Als jij een trein mocht besturen, waar zou je dan naartoe rijden?",
+     "img": "Whyzz and Sunny wave from a train cab window in green hills"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What is the track split into?",
+      "fr": "En quoi la voie est-elle divisée ?",
+      "nl": "Waarin is het spoor verdeeld?"
+     },
+     "o": {
+      "en": [
+       "Sections, like squares on a board game",
+       "Rivers and lakes",
+       "Tiny trains"
+      ],
+      "fr": [
+       "En sections, comme les cases d’un jeu",
+       "En rivières et en lacs",
+       "En petits trains"
+      ],
+      "nl": [
+       "In blokken, zoals vakjes van een bordspel",
+       "In rivieren en meren",
+       "In kleine treintjes"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What does a red signal mean?",
+      "fr": "Que veut dire un signal rouge ?",
+      "nl": "Wat betekent een rood sein?"
+     },
+     "o": {
+      "en": [
+       "Go faster",
+       "Stop",
+       "Honk the horn"
+      ],
+      "fr": [
+       "Accélère",
+       "Stop",
+       "Klaxonne"
+      ],
+      "nl": [
+       "Sneller rijden",
+       "Stoppen",
+       "Toeteren"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What happens if a driver misses a red light?",
+      "fr": "Que se passe-t-il si le conducteur rate un feu rouge ?",
+      "nl": "Wat gebeurt er als de machinist een rood sein mist?"
+     },
+     "o": {
+      "en": [
+       "Nothing at all",
+       "The train starts to fly",
+       "The train brakes by itself"
+      ],
+      "fr": [
+       "Rien du tout",
+       "Le train s’envole",
+       "Le train freine tout seul"
+      ],
+      "nl": [
+       "Helemaal niets",
+       "De trein gaat vliegen",
+       "De trein remt vanzelf"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Why do trains need a long way to stop?",
+      "fr": "Pourquoi les trains ont-ils besoin de beaucoup de place pour s’arrêter ?",
+      "nl": "Waarom hebben treinen een lange afstand nodig om te stoppen?"
+     },
+     "o": {
+      "en": [
+       "Steel wheels slip easily on steel rails",
+       "The train is sleepy",
+       "The rails are made of ice"
+      ],
+      "fr": [
+       "Les roues en acier glissent sur les rails",
+       "Le train a sommeil",
+       "Les rails sont en glace"
+      ],
+      "nl": [
+       "Stalen wielen glijden makkelijk over stalen rails",
+       "De trein is slaperig",
+       "De rails zijn van ijs"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "How far can a fast train need to stop?",
+      "fr": "De combien de place un train rapide peut-il avoir besoin pour s’arrêter ?",
+      "nl": "Hoeveel afstand kan een snelle trein nodig hebben om te stoppen?"
+     },
+     "o": {
+      "en": [
+       "One meter",
+       "More than a kilometer",
+       "Just one step"
+      ],
+      "fr": [
+       "Un mètre",
+       "Plus d’un kilomètre",
+       "Un seul pas"
+      ],
+      "nl": [
+       "Eén meter",
+       "Meer dan een kilometer",
+       "Eén stapje"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Stop safely!",
+     "fr": "On s’arrête en sécurité !",
+     "nl": "Veilig stoppen!"
+    },
+    "intro": {
+     "en": "Pick everything that helps a train stop safely.",
+     "fr": "Choisis tout ce qui aide un train à s’arrêter en sécurité.",
+     "nl": "Kies alles wat een trein helpt om veilig te stoppen."
+    },
+    "done": {
+     "en": "All aboard, super driver!",
+     "fr": "En voiture, super conducteur !",
+     "nl": "Instappen, supermachinist!"
+    },
+    "items": {
+     "en": [
+      "Signal lights",
+      "Giant reins",
+      "Track sensors",
+      "Strong brakes",
+      "A birthday cake",
+      "Track sections"
+     ],
+     "fr": [
+      "Les signaux lumineux",
+      "Des rênes géantes",
+      "Les capteurs sur la voie",
+      "Des freins puissants",
+      "Un gâteau d’anniversaire",
+      "Les sections de voie"
+     ],
+     "nl": [
+      "Seinen",
+      "Reuzengrote teugels",
+      "Sensoren bij het spoor",
+      "Sterke remmen",
+      "Een verjaardagstaart",
+      "Blokken op het spoor"
+     ]
+    },
+    "good": [
+     0,
+     2,
+     3,
+     5
+    ]
+   },
+   "worldName": {
+    "en": "Smart Mobility",
+    "fr": "Mobilité",
+    "nl": "Slimme mobiliteit"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Mobility world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Mobilité dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme mobiliteit in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-17",
+   "voice": true
+  },
+  {
+   "id": "cities-20261117",
+   "world": "cities",
+   "guide": "Pixel",
+   "title": {
+    "en": "How does a smart trash bin know when it’s full?",
+    "fr": "Comment une poubelle intelligente sait-elle qu’elle est pleine ?",
+    "nl": "Hoe weet een slimme vuilnisbak dat hij vol is?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, the garbage truck drove right past the bin on our corner today. Did it forget, or did the bin tell it something?",
+     "fr": "Pixel, aujourd’hui le camion-poubelle est passé devant la poubelle du coin sans la vider. Il a oublié, ou la poubelle lui a dit quelque chose ?",
+     "nl": "Pixel, de vuilniswagen reed vandaag gewoon voorbij de vuilnisbak op onze hoek. Was hij het vergeten, of heeft de bak hem iets verteld?",
+     "img": "Whyzz and Pixel on a street corner watch a garbage truck drive past a bin"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I bet a full bin burps super loud so the truck can hear it from across town!",
+     "fr": "Je parie qu’une poubelle pleine fait un énorme rot pour que le camion l’entende depuis l’autre bout de la ville !",
+     "nl": "Ik wed dat een volle vuilnisbak keihard boert, zodat de vuilniswagen het door de hele stad hoort!",
+     "img": "Whyzz imagines a cartoon trash bin burping, Pixel laughs"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, no burps! A smart bin has a sensor in its lid that sends out a sound too high for us to hear and listens for the echo, just like a bat.",
+     "fr": "Ha, pas de rot ! Une poubelle intelligente a un capteur dans son couvercle qui envoie un son trop aigu pour nos oreilles et écoute l’écho, comme une chauve-souris.",
+     "nl": "Haha, geen geboer! Een slimme vuilnisbak heeft een sensor in zijn deksel die een geluid uitzendt dat te hoog is voor onze oren en naar de echo luistert, net als een vleermuis.",
+     "img": "Pixel points at a sensor in the lid of a bin, a cute bat flies nearby"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "A quick echo means the trash is almost at the top. Then the bin sends a little radio message to the city’s computer, which sends trucks only to full bins.",
+     "fr": "Un écho rapide veut dire que les déchets arrivent presque en haut. Alors la poubelle envoie un petit message radio à l’ordinateur de la ville, qui envoie les camions seulement vers les poubelles pleines.",
+     "nl": "Komt de echo snel terug, dan zit het afval bijna tot bovenaan. Dan stuurt de bak een klein radiobericht naar de computer van de stad, die de vuilniswagens alleen naar volle bakken stuurt.",
+     "img": "Pixel shows a glowing map of a city with a few bins lit up, radio waves rising from a bin"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know? Some sun-powered bins squash their trash flat, so they can hold up to five times more!",
+     "fr": "Le savais-tu ? Certaines poubelles à énergie solaire écrasent leurs déchets, comme ça elles peuvent en contenir jusqu’à cinq fois plus !",
+     "nl": "Wist je dat? Sommige vuilnisbakken op zonne-energie persen hun afval plat, zodat er tot vijf keer meer in past!",
+     "img": "Pixel and Whyzz look at a bin with a small solar panel on top in a sunny park"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So smart bins call the truck only when they’re full, which saves fuel and traffic! If you could give a trash bin one funny superpower, what would it be?",
+     "fr": "Donc les poubelles intelligentes appellent le camion seulement quand elles sont pleines, ce qui économise du carburant et évite des bouchons ! Et toi, quel super-pouvoir rigolo donnerais-tu à une poubelle ?",
+     "nl": "Dus slimme vuilnisbakken roepen de wagen alleen als ze vol zijn: dat bespaart brandstof en verkeer! Als jij een vuilnisbak één grappige superkracht mocht geven, welke zou dat zijn?",
+     "img": "Whyzz and Pixel high-five next to a smart bin on a clean city square"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Where is the sensor of a smart bin?",
+      "fr": "Où se trouve le capteur d’une poubelle intelligente ?",
+      "nl": "Waar zit de sensor van een slimme vuilnisbak?"
+     },
+     "o": {
+      "en": [
+       "In its lid",
+       "In its wheels",
+       "Under the street"
+      ],
+      "fr": [
+       "Dans son couvercle",
+       "Dans ses roues",
+       "Sous la rue"
+      ],
+      "nl": [
+       "In het deksel",
+       "In de wieltjes",
+       "Onder de straat"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Which animal also listens for echoes?",
+      "fr": "Quel animal écoute aussi les échos ?",
+      "nl": "Welk dier luistert ook naar echo’s?"
+     },
+     "o": {
+      "en": [
+       "A cow",
+       "A bat",
+       "A goldfish"
+      ],
+      "fr": [
+       "Une vache",
+       "Une chauve-souris",
+       "Un poisson rouge"
+      ],
+      "nl": [
+       "Een koe",
+       "Een vleermuis",
+       "Een goudvis"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does a quick echo mean?",
+      "fr": "Que veut dire un écho rapide ?",
+      "nl": "Wat betekent een snelle echo?"
+     },
+     "o": {
+      "en": [
+       "The bin is empty",
+       "The bin is asleep",
+       "The bin is almost full"
+      ],
+      "fr": [
+       "La poubelle est vide",
+       "La poubelle dort",
+       "La poubelle est presque pleine"
+      ],
+      "nl": [
+       "De bak is leeg",
+       "De bak slaapt",
+       "De bak is bijna vol"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Which bins do the trucks go to?",
+      "fr": "Vers quelles poubelles vont les camions ?",
+      "nl": "Naar welke bakken gaan de vuilniswagens?"
+     },
+     "o": {
+      "en": [
+       "Only the full ones",
+       "Only the blue ones",
+       "Every bin, every hour"
+      ],
+      "fr": [
+       "Seulement les pleines",
+       "Seulement les bleues",
+       "Toutes, toutes les heures"
+      ],
+      "nl": [
+       "Alleen naar de volle",
+       "Alleen naar de blauwe",
+       "Naar elke bak, elk uur"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "How much more can a sun-powered bin hold?",
+      "fr": "Combien de déchets en plus une poubelle solaire peut-elle contenir ?",
+      "nl": "Hoeveel meer past er in een vuilnisbak op zonne-energie?"
+     },
+     "o": {
+      "en": [
+       "Half as much",
+       "Up to five times more",
+       "A hundred times more"
+      ],
+      "fr": [
+       "La moitié",
+       "Jusqu’à cinq fois plus",
+       "Cent fois plus"
+      ],
+      "nl": [
+       "De helft",
+       "Tot vijf keer meer",
+       "Honderd keer meer"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "From full to empty",
+     "fr": "De pleine à vide",
+     "nl": "Van vol naar leeg"
+    },
+    "intro": {
+     "en": "Put the steps in the right order.",
+     "fr": "Remets les étapes dans le bon ordre.",
+     "nl": "Zet de stappen in de goede volgorde."
+    },
+    "done": {
+     "en": "Super job, city helper!",
+     "fr": "Bravo, super aide de la ville !",
+     "nl": "Top gedaan, stadshelper!"
+    },
+    "items": {
+     "en": [
+      "Trash fills up the bin",
+      "The sensor hears a quick echo",
+      "The bin sends a message to the computer",
+      "The computer sends a truck",
+      "The truck empties the full bin"
+     ],
+     "fr": [
+      "Les déchets remplissent la poubelle",
+      "Le capteur entend un écho rapide",
+      "La poubelle envoie un message à l’ordinateur",
+      "L’ordinateur envoie un camion",
+      "Le camion vide la poubelle pleine"
+     ],
+     "nl": [
+      "Het afval vult de bak",
+      "De sensor hoort een snelle echo",
+      "De bak stuurt een bericht naar de computer",
+      "De computer stuurt een vuilniswagen",
+      "De vuilniswagen leegt de volle bak"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Smart Cities",
+    "fr": "Villes intelligentes",
+    "nl": "Slimme steden"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Cities world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Villes intelligentes dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme steden in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-17",
+   "voice": true
+  },
+  {
+   "id": "innovation-20261117",
+   "world": "innovation",
+   "guide": "Whyzz",
+   "title": {
+    "en": "Why is failing a good part of inventing?",
+    "fr": "Pourquoi se tromper aide-t-il à inventer ?",
+    "nl": "Waarom helpt mislukken bij het uitvinden?"
+   },
+   "scenes": [
+    {
+     "speaker": "Pixel",
+     "en": "Whyzz, my cardboard boat sank in the bathtub after five seconds. Does that mean I’m a bad inventor?",
+     "fr": "Whyzz, mon bateau en carton a coulé dans la baignoire au bout de cinq secondes. Ça veut dire que je suis une mauvaise inventrice ?",
+     "nl": "Whyzz, mijn kartonnen bootje zonk na vijf seconden in bad. Betekent dat dat ik een slechte uitvinder ben?",
+     "img": "Pixel holds a soggy cardboard boat next to a bathtub, Whyzz listens"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Not at all! My first paper airplane did a loop and landed splash in my cereal bowl!",
+     "fr": "Pas du tout ! Mon premier avion en papier a fait un looping et a atterri, plouf, dans mon bol de céréales !",
+     "nl": "Helemaal niet! Mijn eerste papieren vliegtuigje maakte een looping en landde, plons, in mijn kom ontbijtgranen!",
+     "img": "Whyzz laughs as a paper airplane splashes into a cereal bowl, Pixel giggles"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Inventors build a quick first try called a prototype. Then they test it to see what goes wrong, like a detective hunting for clues.",
+     "fr": "Les inventeurs construisent un premier essai rapide, qu’on appelle un prototype. Ensuite, ils le testent pour voir ce qui ne marche pas, comme un détective qui cherche des indices.",
+     "nl": "Uitvinders bouwen eerst een snelle proefversie: een prototype. Daarna testen ze die om te zien wat er misgaat, net als een detective die naar aanwijzingen zoekt.",
+     "img": "Whyzz with a magnifying glass looks at the cardboard boat in a workshop"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "It’s like learning to ride a bike: you wobble, you fix your balance and you try again. Every fail tells you what to change next.",
+     "fr": "C’est comme apprendre à faire du vélo : tu zigzagues, tu retrouves ton équilibre et tu recommences. Chaque raté te dit quoi changer ensuite.",
+     "nl": "Het is net als leren fietsen: je wiebelt, je zoekt je evenwicht en je probeert het opnieuw. Elke mislukking vertelt je wat je de volgende keer anders moet doen.",
+     "img": "Whyzz wobbles on a bike in a park while Pixel cheers"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know? The very first airplane flight lasted only 12 seconds, after its inventors had crashed lots of test gliders!",
+     "fr": "Le savais-tu ? Le tout premier vol en avion n’a duré que 12 secondes, et ses inventeurs avaient d’abord cassé plein de planeurs d’essai !",
+     "nl": "Wist je dat? De allereerste vliegtuigvlucht duurde maar 12 seconden, nadat de uitvinders eerst een heleboel proefzweeftoestellen hadden laten crashen!",
+     "img": "Pixel and Whyzz on sand dunes watch an old wooden airplane fly low"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So a fail is just a clue for your next try, Pixel! What would you like to build, test and make even better?",
+     "fr": "Donc un raté, c’est juste un indice pour ton prochain essai, Pixel ! Et toi, qu’aimerais-tu construire, tester et améliorer ?",
+     "nl": "Een mislukking is dus gewoon een aanwijzing voor je volgende poging, Pixel! Wat zou jij willen bouwen, testen en nog beter maken?",
+     "img": "Whyzz and Pixel cheer as an improved cardboard boat floats in a tub"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What is a quick first try of an invention called?",
+      "fr": "Comment s’appelle le premier essai rapide d’une invention ?",
+      "nl": "Hoe heet de eerste snelle proefversie van een uitvinding?"
+     },
+     "o": {
+      "en": [
+       "A prototype",
+       "A pancake",
+       "A trophy"
+      ],
+      "fr": [
+       "Un prototype",
+       "Une crêpe",
+       "Un trophée"
+      ],
+      "nl": [
+       "Een prototype",
+       "Een pannenkoek",
+       "Een trofee"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why do inventors test their prototypes?",
+      "fr": "Pourquoi les inventeurs testent-ils leurs prototypes ?",
+      "nl": "Waarom testen uitvinders hun prototypes?"
+     },
+     "o": {
+      "en": [
+       "To break them for fun",
+       "To see what goes wrong",
+       "To make them heavier"
+      ],
+      "fr": [
+       "Pour les casser pour rire",
+       "Pour voir ce qui ne marche pas",
+       "Pour les rendre plus lourds"
+      ],
+      "nl": [
+       "Om ze voor de lol kapot te maken",
+       "Om te zien wat er misgaat",
+       "Om ze zwaarder te maken"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Where did Whyzz’s paper airplane land?",
+      "fr": "Où l’avion en papier de Whyzz a-t-il atterri ?",
+      "nl": "Waar landde het papieren vliegtuigje van Whyzz?"
+     },
+     "o": {
+      "en": [
+       "On the Moon",
+       "In his backpack",
+       "In his cereal bowl"
+      ],
+      "fr": [
+       "Sur la Lune",
+       "Dans son sac à dos",
+       "Dans son bol de céréales"
+      ],
+      "nl": [
+       "Op de maan",
+       "In zijn rugzak",
+       "In zijn kom ontbijtgranen"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "How long did the very first airplane flight last?",
+      "fr": "Combien de temps a duré le tout premier vol en avion ?",
+      "nl": "Hoelang duurde de allereerste vliegtuigvlucht?"
+     },
+     "o": {
+      "en": [
+       "12 seconds",
+       "12 days",
+       "12 hours"
+      ],
+      "fr": [
+       "12 secondes",
+       "12 jours",
+       "12 heures"
+      ],
+      "nl": [
+       "12 seconden",
+       "12 dagen",
+       "12 uur"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What is a fail, says Whyzz?",
+      "fr": "Qu’est-ce qu’un raté, d’après Whyzz ?",
+      "nl": "Wat is een mislukking volgens Whyzz?"
+     },
+     "o": {
+      "en": [
+       "The end of everything",
+       "A clue for your next try",
+       "A reason to give up"
+      ],
+      "fr": [
+       "La fin de tout",
+       "Un indice pour ton prochain essai",
+       "Une raison d’abandonner"
+      ],
+      "nl": [
+       "Het einde van alles",
+       "Een aanwijzing voor je volgende poging",
+       "Een reden om op te geven"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Inventor habits",
+     "fr": "Les bons réflexes de l’inventeur",
+     "nl": "Goede uitvindersgewoontes"
+    },
+    "intro": {
+     "en": "Pick the habits that help inventors.",
+     "fr": "Choisis les habitudes qui aident les inventeurs.",
+     "nl": "Kies de gewoontes die uitvinders helpen."
+    },
+    "done": {
+     "en": "You think like a real inventor!",
+     "fr": "Tu penses comme un vrai inventeur !",
+     "nl": "Jij denkt als een echte uitvinder!"
+    },
+    "items": {
+     "en": [
+      "Test your idea",
+      "Give up after one try",
+      "Look for clues when something breaks",
+      "Ask a friend to try it",
+      "Hide your mistakes",
+      "Change one thing and test again"
+     ],
+     "fr": [
+      "Tester ton idée",
+      "Abandonner après un essai",
+      "Chercher des indices quand ça casse",
+      "Demander à un ami d’essayer",
+      "Cacher tes erreurs",
+      "Changer une chose et retester"
+     ],
+     "nl": [
+      "Je idee testen",
+      "Opgeven na één poging",
+      "Aanwijzingen zoeken als iets kapotgaat",
+      "Een vriend het laten proberen",
+      "Je fouten verstoppen",
+      "Eén ding veranderen en opnieuw testen"
+     ]
+    },
+    "good": [
+     0,
+     2,
+     3,
+     5
+    ]
+   },
+   "worldName": {
+    "en": "Innovation",
+    "fr": "Innovation",
+    "nl": "Innovatie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Innovation world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Innovation dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Innovatie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-17",
+   "voice": true
   }
  ]
 }
