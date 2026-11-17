@@ -1,0 +1,230 @@
+{
+ "id": "cities-20261117",
+ "world": "cities",
+ "guide": "Pixel",
+ "title": {
+  "en": "How does a smart trash bin know when it’s full?",
+  "fr": "Comment une poubelle intelligente sait-elle qu’elle est pleine ?",
+  "nl": "Hoe weet een slimme vuilnisbak dat hij vol is?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, the garbage truck drove right past the bin on our corner today. Did it forget, or did the bin tell it something?",
+   "fr": "Pixel, aujourd’hui le camion-poubelle est passé devant la poubelle du coin sans la vider. Il a oublié, ou la poubelle lui a dit quelque chose ?",
+   "nl": "Pixel, de vuilniswagen reed vandaag gewoon voorbij de vuilnisbak op onze hoek. Was hij het vergeten, of heeft de bak hem iets verteld?",
+   "img": "Whyzz and Pixel on a street corner watch a garbage truck drive past a bin"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I bet a full bin burps super loud so the truck can hear it from across town!",
+   "fr": "Je parie qu’une poubelle pleine fait un énorme rot pour que le camion l’entende depuis l’autre bout de la ville !",
+   "nl": "Ik wed dat een volle vuilnisbak keihard boert, zodat de vuilniswagen het door de hele stad hoort!",
+   "img": "Whyzz imagines a cartoon trash bin burping, Pixel laughs"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, no burps! A smart bin has a sensor in its lid that sends out a sound too high for us to hear and listens for the echo, just like a bat.",
+   "fr": "Ha, pas de rot ! Une poubelle intelligente a un capteur dans son couvercle qui envoie un son trop aigu pour nos oreilles et écoute l’écho, comme une chauve-souris.",
+   "nl": "Haha, geen geboer! Een slimme vuilnisbak heeft een sensor in zijn deksel die een geluid uitzendt dat te hoog is voor onze oren en naar de echo luistert, net als een vleermuis.",
+   "img": "Pixel points at a sensor in the lid of a bin, a cute bat flies nearby"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "A quick echo means the trash is almost at the top. Then the bin sends a little radio message to the city’s computer, which sends trucks only to full bins.",
+   "fr": "Un écho rapide veut dire que les déchets arrivent presque en haut. Alors la poubelle envoie un petit message radio à l’ordinateur de la ville, qui envoie les camions seulement vers les poubelles pleines.",
+   "nl": "Komt de echo snel terug, dan zit het afval bijna tot bovenaan. Dan stuurt de bak een klein radiobericht naar de computer van de stad, die de vuilniswagens alleen naar volle bakken stuurt.",
+   "img": "Pixel shows a glowing map of a city with a few bins lit up, radio waves rising from a bin"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know? Some sun-powered bins squash their trash flat, so they can hold up to five times more!",
+   "fr": "Le savais-tu ? Certaines poubelles à énergie solaire écrasent leurs déchets, comme ça elles peuvent en contenir jusqu’à cinq fois plus !",
+   "nl": "Wist je dat? Sommige vuilnisbakken op zonne-energie persen hun afval plat, zodat er tot vijf keer meer in past!",
+   "img": "Pixel and Whyzz look at a bin with a small solar panel on top in a sunny park"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So smart bins call the truck only when they’re full, which saves fuel and traffic! If you could give a trash bin one funny superpower, what would it be?",
+   "fr": "Donc les poubelles intelligentes appellent le camion seulement quand elles sont pleines, ce qui économise du carburant et évite des bouchons ! Et toi, quel super-pouvoir rigolo donnerais-tu à une poubelle ?",
+   "nl": "Dus slimme vuilnisbakken roepen de wagen alleen als ze vol zijn: dat bespaart brandstof en verkeer! Als jij een vuilnisbak één grappige superkracht mocht geven, welke zou dat zijn?",
+   "img": "Whyzz and Pixel high-five next to a smart bin on a clean city square"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stand on a clean sunny street corner next to a modern grey trash bin, a friendly green garbage truck drives right past the bin without stopping, Whyzz scratches his head with a puzzled face, Pixel smiles, plain buildings and trees, no signs. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a big dream bubble above his head showing a funny cartoon trash bin with a big open lid letting out a giant burp with swirly lines while a tiny garbage truck far away hears it, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge giggles next to him on a city sidewalk. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points at a small round sensor inside the open lid of a modern smart trash bin on a city sidewalk, soft glowing sound rings come out of the sensor and bounce off the trash inside, a cute friendly little bat flutters nearby, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with curious eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands in front of a big glowing floating city map with little houses and streets where only a few tiny bins glow bright, glowing radio waves rise from a nearby smart bin toward the sky, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks amazed, evening city square. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge look amazed at a modern trash bin with a small blue solar panel on its top in a sunny green park, a cutaway view shows the trash inside pressed flat into neat layers, happy faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge give each other a high five next to a shiny modern smart trash bin on a clean sunny city square with trees and benches, pigeons fly up, no signs. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Where is the sensor of a smart bin?",
+    "fr": "Où se trouve le capteur d’une poubelle intelligente ?",
+    "nl": "Waar zit de sensor van een slimme vuilnisbak?"
+   },
+   "o": {
+    "en": [
+     "In its lid",
+     "In its wheels",
+     "Under the street"
+    ],
+    "fr": [
+     "Dans son couvercle",
+     "Dans ses roues",
+     "Sous la rue"
+    ],
+    "nl": [
+     "In het deksel",
+     "In de wieltjes",
+     "Onder de straat"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Which animal also listens for echoes?",
+    "fr": "Quel animal écoute aussi les échos ?",
+    "nl": "Welk dier luistert ook naar echo’s?"
+   },
+   "o": {
+    "en": [
+     "A cow",
+     "A bat",
+     "A goldfish"
+    ],
+    "fr": [
+     "Une vache",
+     "Une chauve-souris",
+     "Un poisson rouge"
+    ],
+    "nl": [
+     "Een koe",
+     "Een vleermuis",
+     "Een goudvis"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does a quick echo mean?",
+    "fr": "Que veut dire un écho rapide ?",
+    "nl": "Wat betekent een snelle echo?"
+   },
+   "o": {
+    "en": [
+     "The bin is empty",
+     "The bin is asleep",
+     "The bin is almost full"
+    ],
+    "fr": [
+     "La poubelle est vide",
+     "La poubelle dort",
+     "La poubelle est presque pleine"
+    ],
+    "nl": [
+     "De bak is leeg",
+     "De bak slaapt",
+     "De bak is bijna vol"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Which bins do the trucks go to?",
+    "fr": "Vers quelles poubelles vont les camions ?",
+    "nl": "Naar welke bakken gaan de vuilniswagens?"
+   },
+   "o": {
+    "en": [
+     "Only the full ones",
+     "Only the blue ones",
+     "Every bin, every hour"
+    ],
+    "fr": [
+     "Seulement les pleines",
+     "Seulement les bleues",
+     "Toutes, toutes les heures"
+    ],
+    "nl": [
+     "Alleen naar de volle",
+     "Alleen naar de blauwe",
+     "Naar elke bak, elk uur"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "How much more can a sun-powered bin hold?",
+    "fr": "Combien de déchets en plus une poubelle solaire peut-elle contenir ?",
+    "nl": "Hoeveel meer past er in een vuilnisbak op zonne-energie?"
+   },
+   "o": {
+    "en": [
+     "Half as much",
+     "Up to five times more",
+     "A hundred times more"
+    ],
+    "fr": [
+     "La moitié",
+     "Jusqu’à cinq fois plus",
+     "Cent fois plus"
+    ],
+    "nl": [
+     "De helft",
+     "Tot vijf keer meer",
+     "Honderd keer meer"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "From full to empty",
+   "fr": "De pleine à vide",
+   "nl": "Van vol naar leeg"
+  },
+  "intro": {
+   "en": "Put the steps in the right order.",
+   "fr": "Remets les étapes dans le bon ordre.",
+   "nl": "Zet de stappen in de goede volgorde."
+  },
+  "done": {
+   "en": "Super job, city helper!",
+   "fr": "Bravo, super aide de la ville !",
+   "nl": "Top gedaan, stadshelper!"
+  },
+  "items": {
+   "en": [
+    "Trash fills up the bin",
+    "The sensor hears a quick echo",
+    "The bin sends a message to the computer",
+    "The computer sends a truck",
+    "The truck empties the full bin"
+   ],
+   "fr": [
+    "Les déchets remplissent la poubelle",
+    "Le capteur entend un écho rapide",
+    "La poubelle envoie un message à l’ordinateur",
+    "L’ordinateur envoie un camion",
+    "Le camion vide la poubelle pleine"
+   ],
+   "nl": [
+    "Het afval vult de bak",
+    "De sensor hoort een snelle echo",
+    "De bak stuurt een bericht naar de computer",
+    "De computer stuurt een vuilniswagen",
+    "De vuilniswagen leegt de volle bak"
+   ]
+  }
+ }
+}

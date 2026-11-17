@@ -6370,5 +6370,437 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Dus de energie van mijn tablet maakte een lange reis, over hoge masten en onder de straat! Hoe zou jij thuis een beetje elektriciteit kunnen besparen?"
+ },
+ {
+  "id": "space-20261117-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, the weather app says it will rain at three o’clock. How can it know that before the clouds even get here?"
+ },
+ {
+  "id": "space-20261117-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, l’appli météo dit qu’il va pleuvoir à trois heures. Comment peut-elle le savoir avant même que les nuages arrivent ?"
+ },
+ {
+  "id": "space-20261117-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, de weerapp zegt dat het om drie uur gaat regenen. Hoe kan die dat weten nog voor de wolken hier zijn?"
+ },
+ {
+  "id": "space-20261117-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I know! A weather wizard sits on top of the clouds and sends us secret messages!"
+ },
+ {
+  "id": "space-20261117-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je sais ! Un magicien de la météo est assis sur les nuages et nous envoie des messages secrets !"
+ },
+ {
+  "id": "space-20261117-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik weet het! Een weertovenaar zit boven op de wolken en stuurt ons geheime berichtjes!"
+ },
+ {
+  "id": "space-20261117-en-3",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "No wizard, but something just as cool: weather satellites! They circle high above Earth and take pictures of the clouds all day and all night."
+ },
+ {
+  "id": "space-20261117-fr-3",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Pas de magicien, mais quelque chose d’aussi génial : des satellites météo ! Ils tournent très haut autour de la Terre et photographient les nuages jour et nuit."
+ },
+ {
+  "id": "space-20261117-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Geen tovenaar, maar iets wat net zo cool is: weersatellieten! Ze draaien hoog rond de aarde en maken dag en nacht foto’s van de wolken."
+ },
+ {
+  "id": "space-20261117-en-4",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "A satellite is like a ball swung on a string. Gravity pulls it toward Earth, but it zooms sideways so fast that it keeps going around instead of falling down."
+ },
+ {
+  "id": "space-20261117-fr-4",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Un satellite, c’est comme une balle qu’on fait tourner au bout d’une ficelle. La gravité l’attire vers la Terre, mais il file si vite sur le côté qu’il continue de tourner au lieu de tomber."
+ },
+ {
+  "id": "space-20261117-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Een satelliet is net een bal die je aan een touwtje rondslingert. De zwaartekracht trekt hem naar de aarde, maar hij zoeft zo snel opzij dat hij blijft rondgaan in plaats van te vallen."
+ },
+ {
+  "id": "space-20261117-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Did you know? The space station circles Earth every 90 minutes, so astronauts see about 16 sunrises every day!"
+ },
+ {
+  "id": "space-20261117-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Le savais-tu ? La station spatiale fait le tour de la Terre en 90 minutes, alors les astronautes voient environ 16 levers de soleil par jour !"
+ },
+ {
+  "id": "space-20261117-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Wist je dat? Het ruimtestation draait elke 90 minuten een rondje om de aarde, dus astronauten zien zo’n 16 zonsopgangen per dag!"
+ },
+ {
+  "id": "space-20261117-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So satellites watch the clouds, help maps know where you are and send shows to TVs! If you could build your own satellite, what would it do?"
+ },
+ {
+  "id": "space-20261117-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les satellites surveillent les nuages, aident les cartes à savoir où tu es et envoient des émissions vers les télés ! Si tu pouvais construire ton propre satellite, que ferait-il ?"
+ },
+ {
+  "id": "space-20261117-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Satellieten houden dus de wolken in de gaten, helpen kaarten te weten waar je bent en sturen programma’s naar tv’s! Als jij je eigen satelliet mocht bouwen, wat zou die doen?"
+ },
+ {
+  "id": "mobility-20261117-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, trains are so long and heavy. How do they know when to stop?"
+ },
+ {
+  "id": "mobility-20261117-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, les trains sont si longs et si lourds. Comment savent-ils quand s’arrêter ?"
+ },
+ {
+  "id": "mobility-20261117-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, treinen zijn zo lang en zwaar. Hoe weten ze wanneer ze moeten stoppen?"
+ },
+ {
+  "id": "mobility-20261117-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I know! The driver pulls on giant reins and shouts “Whoa, train, whoa!” like a cowboy on a horse!"
+ },
+ {
+  "id": "mobility-20261117-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je sais ! Le conducteur tire sur des rênes géantes et crie « Ho, le train, ho ! » comme un cow-boy sur son cheval !"
+ },
+ {
+  "id": "mobility-20261117-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik weet het! De machinist trekt aan reuzengrote teugels en roept “Ho, trein, ho!” zoals een cowboy op een paard!"
+ },
+ {
+  "id": "mobility-20261117-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no reins! The track is split into sections, like squares on a board game, with only one train allowed in each section."
+ },
+ {
+  "id": "mobility-20261117-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Ha, pas de rênes ! La voie est divisée en sections, comme les cases d’un jeu de société, avec un seul train à la fois par section."
+ },
+ {
+  "id": "mobility-20261117-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Haha, geen teugels! Het spoor is verdeeld in blokken, zoals de vakjes van een bordspel: in elk blok mag maar één trein rijden."
+ },
+ {
+  "id": "mobility-20261117-en-4",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Sensors switch the signal lights: green means go and red means stop. If a driver misses a red light, the train brakes all by itself."
+ },
+ {
+  "id": "mobility-20261117-fr-4",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Des capteurs changent les signaux lumineux : vert veut dire « roule » et rouge veut dire « stop ». Si le conducteur rate un feu rouge, le train freine tout seul."
+ },
+ {
+  "id": "mobility-20261117-nl-4",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Sensoren zetten de seinen op groen of rood: groen betekent rijden en rood betekent stoppen. Mist de machinist een rood sein, dan remt de trein vanzelf."
+ },
+ {
+  "id": "mobility-20261117-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? Steel wheels slip easily on steel rails, so a fast train can need more than a kilometer to stop: as long as ten soccer fields!"
+ },
+ {
+  "id": "mobility-20261117-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Les roues en acier glissent facilement sur les rails, alors un train rapide peut avoir besoin de plus d’un kilomètre pour s’arrêter : dix terrains de foot !"
+ },
+ {
+  "id": "mobility-20261117-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Wist je dat? Stalen wielen glijden makkelijk over stalen rails, dus een snelle trein heeft soms meer dan een kilometer nodig om te stoppen: zo lang als tien voetbalvelden!"
+ },
+ {
+  "id": "mobility-20261117-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So sections, signals and smart brakes help every train stop safely! If you could drive a train anywhere, where would you go?"
+ },
+ {
+  "id": "mobility-20261117-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les sections, les signaux et les freins malins aident chaque train à s’arrêter en sécurité ! Si tu pouvais conduire un train n’importe où, où irais-tu ?"
+ },
+ {
+  "id": "mobility-20261117-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus blokken, seinen en slimme remmen helpen elke trein om veilig te stoppen! Als jij een trein mocht besturen, waar zou je dan naartoe rijden?"
+ },
+ {
+  "id": "cities-20261117-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, the garbage truck drove right past the bin on our corner today. Did it forget, or did the bin tell it something?"
+ },
+ {
+  "id": "cities-20261117-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, aujourd’hui le camion-poubelle est passé devant la poubelle du coin sans la vider. Il a oublié, ou la poubelle lui a dit quelque chose ?"
+ },
+ {
+  "id": "cities-20261117-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, de vuilniswagen reed vandaag gewoon voorbij de vuilnisbak op onze hoek. Was hij het vergeten, of heeft de bak hem iets verteld?"
+ },
+ {
+  "id": "cities-20261117-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I bet a full bin burps super loud so the truck can hear it from across town!"
+ },
+ {
+  "id": "cities-20261117-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je parie qu’une poubelle pleine fait un énorme rot pour que le camion l’entende depuis l’autre bout de la ville !"
+ },
+ {
+  "id": "cities-20261117-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik wed dat een volle vuilnisbak keihard boert, zodat de vuilniswagen het door de hele stad hoort!"
+ },
+ {
+  "id": "cities-20261117-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no burps! A smart bin has a sensor in its lid that sends out a sound too high for us to hear and listens for the echo, just like a bat."
+ },
+ {
+  "id": "cities-20261117-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, pas de rot ! Une poubelle intelligente a un capteur dans son couvercle qui envoie un son trop aigu pour nos oreilles et écoute l’écho, comme une chauve-souris."
+ },
+ {
+  "id": "cities-20261117-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, geen geboer! Een slimme vuilnisbak heeft een sensor in zijn deksel die een geluid uitzendt dat te hoog is voor onze oren en naar de echo luistert, net als een vleermuis."
+ },
+ {
+  "id": "cities-20261117-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "A quick echo means the trash is almost at the top. Then the bin sends a little radio message to the city’s computer, which sends trucks only to full bins."
+ },
+ {
+  "id": "cities-20261117-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Un écho rapide veut dire que les déchets arrivent presque en haut. Alors la poubelle envoie un petit message radio à l’ordinateur de la ville, qui envoie les camions seulement vers les poubelles pleines."
+ },
+ {
+  "id": "cities-20261117-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Komt de echo snel terug, dan zit het afval bijna tot bovenaan. Dan stuurt de bak een klein radiobericht naar de computer van de stad, die de vuilniswagens alleen naar volle bakken stuurt."
+ },
+ {
+  "id": "cities-20261117-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? Some sun-powered bins squash their trash flat, so they can hold up to five times more!"
+ },
+ {
+  "id": "cities-20261117-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Certaines poubelles à énergie solaire écrasent leurs déchets, comme ça elles peuvent en contenir jusqu’à cinq fois plus !"
+ },
+ {
+  "id": "cities-20261117-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat? Sommige vuilnisbakken op zonne-energie persen hun afval plat, zodat er tot vijf keer meer in past!"
+ },
+ {
+  "id": "cities-20261117-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So smart bins call the truck only when they’re full, which saves fuel and traffic! If you could give a trash bin one funny superpower, what would it be?"
+ },
+ {
+  "id": "cities-20261117-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les poubelles intelligentes appellent le camion seulement quand elles sont pleines, ce qui économise du carburant et évite des bouchons ! Et toi, quel super-pouvoir rigolo donnerais-tu à une poubelle ?"
+ },
+ {
+  "id": "cities-20261117-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus slimme vuilnisbakken roepen de wagen alleen als ze vol zijn: dat bespaart brandstof en verkeer! Als jij een vuilnisbak één grappige superkracht mocht geven, welke zou dat zijn?"
+ },
+ {
+  "id": "innovation-20261117-en-1",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, my cardboard boat sank in the bathtub after five seconds. Does that mean I’m a bad inventor?"
+ },
+ {
+  "id": "innovation-20261117-fr-1",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, mon bateau en carton a coulé dans la baignoire au bout de cinq secondes. Ça veut dire que je suis une mauvaise inventrice ?"
+ },
+ {
+  "id": "innovation-20261117-nl-1",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Whyzz, mijn kartonnen bootje zonk na vijf seconden in bad. Betekent dat dat ik een slechte uitvinder ben?"
+ },
+ {
+  "id": "innovation-20261117-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Not at all! My first paper airplane did a loop and landed splash in my cereal bowl!"
+ },
+ {
+  "id": "innovation-20261117-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pas du tout ! Mon premier avion en papier a fait un looping et a atterri, plouf, dans mon bol de céréales !"
+ },
+ {
+  "id": "innovation-20261117-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Helemaal niet! Mijn eerste papieren vliegtuigje maakte een looping en landde, plons, in mijn kom ontbijtgranen!"
+ },
+ {
+  "id": "innovation-20261117-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Inventors build a quick first try called a prototype. Then they test it to see what goes wrong, like a detective hunting for clues."
+ },
+ {
+  "id": "innovation-20261117-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Les inventeurs construisent un premier essai rapide, qu’on appelle un prototype. Ensuite, ils le testent pour voir ce qui ne marche pas, comme un détective qui cherche des indices."
+ },
+ {
+  "id": "innovation-20261117-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Uitvinders bouwen eerst een snelle proefversie: een prototype. Daarna testen ze die om te zien wat er misgaat, net als een detective die naar aanwijzingen zoekt."
+ },
+ {
+  "id": "innovation-20261117-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "It’s like learning to ride a bike: you wobble, you fix your balance and you try again. Every fail tells you what to change next."
+ },
+ {
+  "id": "innovation-20261117-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "C’est comme apprendre à faire du vélo : tu zigzagues, tu retrouves ton équilibre et tu recommences. Chaque raté te dit quoi changer ensuite."
+ },
+ {
+  "id": "innovation-20261117-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Het is net als leren fietsen: je wiebelt, je zoekt je evenwicht en je probeert het opnieuw. Elke mislukking vertelt je wat je de volgende keer anders moet doen."
+ },
+ {
+  "id": "innovation-20261117-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? The very first airplane flight lasted only 12 seconds, after its inventors had crashed lots of test gliders!"
+ },
+ {
+  "id": "innovation-20261117-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Le tout premier vol en avion n’a duré que 12 secondes, et ses inventeurs avaient d’abord cassé plein de planeurs d’essai !"
+ },
+ {
+  "id": "innovation-20261117-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat? De allereerste vliegtuigvlucht duurde maar 12 seconden, nadat de uitvinders eerst een heleboel proefzweeftoestellen hadden laten crashen!"
+ },
+ {
+  "id": "innovation-20261117-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a fail is just a clue for your next try, Pixel! What would you like to build, test and make even better?"
+ },
+ {
+  "id": "innovation-20261117-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc un raté, c’est juste un indice pour ton prochain essai, Pixel ! Et toi, qu’aimerais-tu construire, tester et améliorer ?"
+ },
+ {
+  "id": "innovation-20261117-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Een mislukking is dus gewoon een aanwijzing voor je volgende poging, Pixel! Wat zou jij willen bouwen, testen en nog beter maken?"
  }
 ]

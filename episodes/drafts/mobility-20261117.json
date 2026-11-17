@@ -1,0 +1,239 @@
+{
+ "id": "mobility-20261117",
+ "world": "mobility",
+ "guide": "Sunny",
+ "title": {
+  "en": "How does a train know when to stop?",
+  "fr": "Comment un train sait-il quand s’arrêter ?",
+  "nl": "Hoe weet een trein wanneer hij moet stoppen?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, trains are so long and heavy. How do they know when to stop?",
+   "fr": "Sunny, les trains sont si longs et si lourds. Comment savent-ils quand s’arrêter ?",
+   "nl": "Sunny, treinen zijn zo lang en zwaar. Hoe weten ze wanneer ze moeten stoppen?",
+   "img": "Whyzz and Sunny on a station platform watch a long train arrive"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I know! The driver pulls on giant reins and shouts “Whoa, train, whoa!” like a cowboy on a horse!",
+   "fr": "Je sais ! Le conducteur tire sur des rênes géantes et crie « Ho, le train, ho ! » comme un cow-boy sur son cheval !",
+   "nl": "Ik weet het! De machinist trekt aan reuzengrote teugels en roept “Ho, trein, ho!” zoals een cowboy op een paard!",
+   "img": "Whyzz imagines a cowboy pulling reins on a train, Sunny laughs"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Ha, no reins! The track is split into sections, like squares on a board game, with only one train allowed in each section.",
+   "fr": "Ha, pas de rênes ! La voie est divisée en sections, comme les cases d’un jeu de société, avec un seul train à la fois par section.",
+   "nl": "Haha, geen teugels! Het spoor is verdeeld in blokken, zoals de vakjes van een bordspel: in elk blok mag maar één trein rijden.",
+   "img": "Sunny shows a giant board-game track with colored sections and toy trains"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Sensors switch the signal lights: green means go and red means stop. If a driver misses a red light, the train brakes all by itself.",
+   "fr": "Des capteurs changent les signaux lumineux : vert veut dire « roule » et rouge veut dire « stop ». Si le conducteur rate un feu rouge, le train freine tout seul.",
+   "nl": "Sensoren zetten de seinen op groen of rood: groen betekent rijden en rood betekent stoppen. Mist de machinist een rood sein, dan remt de trein vanzelf.",
+   "img": "Sunny points at a red and green signal light beside the track, a train slows down"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Did you know? Steel wheels slip easily on steel rails, so a fast train can need more than a kilometer to stop: as long as ten soccer fields!",
+   "fr": "Le savais-tu ? Les roues en acier glissent facilement sur les rails, alors un train rapide peut avoir besoin de plus d’un kilomètre pour s’arrêter : dix terrains de foot !",
+   "nl": "Wist je dat? Stalen wielen glijden makkelijk over stalen rails, dus een snelle trein heeft soms meer dan een kilometer nodig om te stoppen: zo lang als tien voetbalvelden!",
+   "img": "A fast train next to a row of soccer fields, Sunny and Whyzz amazed"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So sections, signals and smart brakes help every train stop safely! If you could drive a train anywhere, where would you go?",
+   "fr": "Donc les sections, les signaux et les freins malins aident chaque train à s’arrêter en sécurité ! Si tu pouvais conduire un train n’importe où, où irais-tu ?",
+   "nl": "Dus blokken, seinen en slimme remmen helpen elke trein om veilig te stoppen! Als jij een trein mocht besturen, waar zou je dan naartoe rijden?",
+   "img": "Whyzz and Sunny wave from a train cab window in green hills"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stand on a clean modern train station platform with a glass roof, a long shiny train glides in and slows down, Whyzz points at the train with a curious puzzled face, Sunny smiles, no signs and no screens. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a big dream bubble above his head showing a funny cowboy with a big hat sitting on the front of a cartoon train and pulling on giant reins like on a horse, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge giggles next to him on a train platform. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands next to a giant colorful board game on a table, a toy railway track runs across big colored squares and on each square sits only one little toy train, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans in with big curious eyes, cozy bright playroom. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands beside a railway track in the countryside and points at a tall signal post with one glowing red light and one dark green light, a friendly train slows down in front of it, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with wide eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stand on a grassy hill and look amazed at a long fast train braking with tiny sparks under its wheels on a straight track, the track runs past a long row of green soccer fields with white goals stretching far into the distance. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge wave happily out of the open side window of a modern train driver cab, the train rides through green rolling hills and sunny fields under a blue sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What is the track split into?",
+    "fr": "En quoi la voie est-elle divisée ?",
+    "nl": "Waarin is het spoor verdeeld?"
+   },
+   "o": {
+    "en": [
+     "Sections, like squares on a board game",
+     "Rivers and lakes",
+     "Tiny trains"
+    ],
+    "fr": [
+     "En sections, comme les cases d’un jeu",
+     "En rivières et en lacs",
+     "En petits trains"
+    ],
+    "nl": [
+     "In blokken, zoals vakjes van een bordspel",
+     "In rivieren en meren",
+     "In kleine treintjes"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What does a red signal mean?",
+    "fr": "Que veut dire un signal rouge ?",
+    "nl": "Wat betekent een rood sein?"
+   },
+   "o": {
+    "en": [
+     "Go faster",
+     "Stop",
+     "Honk the horn"
+    ],
+    "fr": [
+     "Accélère",
+     "Stop",
+     "Klaxonne"
+    ],
+    "nl": [
+     "Sneller rijden",
+     "Stoppen",
+     "Toeteren"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What happens if a driver misses a red light?",
+    "fr": "Que se passe-t-il si le conducteur rate un feu rouge ?",
+    "nl": "Wat gebeurt er als de machinist een rood sein mist?"
+   },
+   "o": {
+    "en": [
+     "Nothing at all",
+     "The train starts to fly",
+     "The train brakes by itself"
+    ],
+    "fr": [
+     "Rien du tout",
+     "Le train s’envole",
+     "Le train freine tout seul"
+    ],
+    "nl": [
+     "Helemaal niets",
+     "De trein gaat vliegen",
+     "De trein remt vanzelf"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Why do trains need a long way to stop?",
+    "fr": "Pourquoi les trains ont-ils besoin de beaucoup de place pour s’arrêter ?",
+    "nl": "Waarom hebben treinen een lange afstand nodig om te stoppen?"
+   },
+   "o": {
+    "en": [
+     "Steel wheels slip easily on steel rails",
+     "The train is sleepy",
+     "The rails are made of ice"
+    ],
+    "fr": [
+     "Les roues en acier glissent sur les rails",
+     "Le train a sommeil",
+     "Les rails sont en glace"
+    ],
+    "nl": [
+     "Stalen wielen glijden makkelijk over stalen rails",
+     "De trein is slaperig",
+     "De rails zijn van ijs"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "How far can a fast train need to stop?",
+    "fr": "De combien de place un train rapide peut-il avoir besoin pour s’arrêter ?",
+    "nl": "Hoeveel afstand kan een snelle trein nodig hebben om te stoppen?"
+   },
+   "o": {
+    "en": [
+     "One meter",
+     "More than a kilometer",
+     "Just one step"
+    ],
+    "fr": [
+     "Un mètre",
+     "Plus d’un kilomètre",
+     "Un seul pas"
+    ],
+    "nl": [
+     "Eén meter",
+     "Meer dan een kilometer",
+     "Eén stapje"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Stop safely!",
+   "fr": "On s’arrête en sécurité !",
+   "nl": "Veilig stoppen!"
+  },
+  "intro": {
+   "en": "Pick everything that helps a train stop safely.",
+   "fr": "Choisis tout ce qui aide un train à s’arrêter en sécurité.",
+   "nl": "Kies alles wat een trein helpt om veilig te stoppen."
+  },
+  "done": {
+   "en": "All aboard, super driver!",
+   "fr": "En voiture, super conducteur !",
+   "nl": "Instappen, supermachinist!"
+  },
+  "items": {
+   "en": [
+    "Signal lights",
+    "Giant reins",
+    "Track sensors",
+    "Strong brakes",
+    "A birthday cake",
+    "Track sections"
+   ],
+   "fr": [
+    "Les signaux lumineux",
+    "Des rênes géantes",
+    "Les capteurs sur la voie",
+    "Des freins puissants",
+    "Un gâteau d’anniversaire",
+    "Les sections de voie"
+   ],
+   "nl": [
+    "Seinen",
+    "Reuzengrote teugels",
+    "Sensoren bij het spoor",
+    "Sterke remmen",
+    "Een verjaardagstaart",
+    "Blokken op het spoor"
+   ]
+  },
+  "good": [
+   0,
+   2,
+   3,
+   5
+  ]
+ }
+}

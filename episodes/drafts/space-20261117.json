@@ -1,0 +1,247 @@
+{
+ "id": "space-20261117",
+ "world": "space",
+ "guide": "Qubi",
+ "title": {
+  "en": "How do satellites help us every day?",
+  "fr": "Comment les satellites nous aident-ils chaque jour ?",
+  "nl": "Hoe helpen satellieten ons elke dag?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, the weather app says it will rain at three o’clock. How can it know that before the clouds even get here?",
+   "fr": "Qubi, l’appli météo dit qu’il va pleuvoir à trois heures. Comment peut-elle le savoir avant même que les nuages arrivent ?",
+   "nl": "Qubi, de weerapp zegt dat het om drie uur gaat regenen. Hoe kan die dat weten nog voor de wolken hier zijn?",
+   "img": "Whyzz looks at a tablet and up at a sunny sky with far-away clouds, Qubi next to him"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I know! A weather wizard sits on top of the clouds and sends us secret messages!",
+   "fr": "Je sais ! Un magicien de la météo est assis sur les nuages et nous envoie des messages secrets !",
+   "nl": "Ik weet het! Een weertovenaar zit boven op de wolken en stuurt ons geheime berichtjes!",
+   "img": "Whyzz imagines a funny wizard on a cloud throwing paper planes, Qubi laughs"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "No wizard, but something just as cool: weather satellites! They circle high above Earth and take pictures of the clouds all day and all night.",
+   "fr": "Pas de magicien, mais quelque chose d’aussi génial : des satellites météo ! Ils tournent très haut autour de la Terre et photographient les nuages jour et nuit.",
+   "nl": "Geen tovenaar, maar iets wat net zo cool is: weersatellieten! Ze draaien hoog rond de aarde en maken dag en nacht foto’s van de wolken.",
+   "img": "Qubi floats in space next to a satellite photographing swirling clouds over Earth"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "A satellite is like a ball swung on a string. Gravity pulls it toward Earth, but it zooms sideways so fast that it keeps going around instead of falling down.",
+   "fr": "Un satellite, c’est comme une balle qu’on fait tourner au bout d’une ficelle. La gravité l’attire vers la Terre, mais il file si vite sur le côté qu’il continue de tourner au lieu de tomber.",
+   "nl": "Een satelliet is net een bal die je aan een touwtje rondslingert. De zwaartekracht trekt hem naar de aarde, maar hij zoeft zo snel opzij dat hij blijft rondgaan in plaats van te vallen.",
+   "img": "Qubi swings a ball on a string in a park while Whyzz watches, a satellite orbit drawn in the sky"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Did you know? The space station circles Earth every 90 minutes, so astronauts see about 16 sunrises every day!",
+   "fr": "Le savais-tu ? La station spatiale fait le tour de la Terre en 90 minutes, alors les astronautes voient environ 16 levers de soleil par jour !",
+   "nl": "Wist je dat? Het ruimtestation draait elke 90 minuten een rondje om de aarde, dus astronauten zien zo’n 16 zonsopgangen per dag!",
+   "img": "Qubi and Whyzz look out of a space station window at a sunrise over Earth"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So satellites watch the clouds, help maps know where you are and send shows to TVs! If you could build your own satellite, what would it do?",
+   "fr": "Donc les satellites surveillent les nuages, aident les cartes à savoir où tu es et envoient des émissions vers les télés ! Si tu pouvais construire ton propre satellite, que ferait-il ?",
+   "nl": "Satellieten houden dus de wolken in de gaten, helpen kaarten te weten waar je bent en sturen programma’s naar tv’s! Als jij je eigen satelliet mocht bouwen, wat zou die doen?",
+   "img": "Whyzz and Qubi build a toy satellite on a rooftop under a starry sky"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands in a sunny backyard holding a tablet with a puzzled face and looks up at a bright blue sky with a few fluffy clouds far away on the horizon, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge stands next to him smiling and pointing up at the sky, a garden with flowers and a wooden fence. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a big dream bubble above his head showing a funny friendly wizard with a long beard and a starry hat sitting on top of a fluffy white cloud and throwing little paper airplanes down, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge giggles next to him in a sunny backyard. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge floats happily in a small spacesuit in outer space next to a shiny weather satellite with big blue solar panels, the satellite looks down at planet Earth with big white swirling clouds over blue oceans, stars in the black sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge swings a red ball on a string in a big circle in a green park with a happy face, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with wide amazed eyes, high in the evening sky a tiny satellite travels on a glowing curved path around a small Earth. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge float inside a cozy space station and look out of a big round window, outside a golden sunrise glows over the curved blue edge of planet Earth, their faces glow with wonder. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge build a cute toy satellite with shiny solar panels on a flat rooftop at night and cheer, a starry sky with a tiny moving satellite light above them, city lights far away. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What do weather satellites take pictures of?",
+    "fr": "Que photographient les satellites météo ?",
+    "nl": "Waarvan maken weersatellieten foto’s?"
+   },
+   "o": {
+    "en": [
+     "Clouds",
+     "Fish",
+     "Your homework"
+    ],
+    "fr": [
+     "Les nuages",
+     "Les poissons",
+     "Tes devoirs"
+    ],
+    "nl": [
+     "Van wolken",
+     "Van vissen",
+     "Van je huiswerk"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why doesn’t a satellite fall down to Earth?",
+    "fr": "Pourquoi un satellite ne tombe-t-il pas sur la Terre ?",
+    "nl": "Waarom valt een satelliet niet op de aarde?"
+   },
+   "o": {
+    "en": [
+     "It has big wings",
+     "It zooms sideways very fast",
+     "It hangs on a long rope"
+    ],
+    "fr": [
+     "Il a de grandes ailes",
+     "Il file très vite sur le côté",
+     "Il pend au bout d’une longue corde"
+    ],
+    "nl": [
+     "Hij heeft grote vleugels",
+     "Hij zoeft heel snel opzij",
+     "Hij hangt aan een lang touw"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What else can satellites help with?",
+    "fr": "À quoi d’autre servent les satellites ?",
+    "nl": "Waarbij helpen satellieten nog meer?"
+   },
+   "o": {
+    "en": [
+     "Baking cookies",
+     "Brushing your teeth",
+     "Showing maps where you are"
+    ],
+    "fr": [
+     "À cuire des biscuits",
+     "À te brosser les dents",
+     "À montrer aux cartes où tu es"
+    ],
+    "nl": [
+     "Bij koekjes bakken",
+     "Bij tandenpoetsen",
+     "Bij kaarten die tonen waar je bent"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "How long does the space station take to circle Earth?",
+    "fr": "Combien de temps met la station spatiale pour faire le tour de la Terre ?",
+    "nl": "Hoelang doet het ruimtestation over een rondje om de aarde?"
+   },
+   "o": {
+    "en": [
+     "About 90 minutes",
+     "One year",
+     "One week"
+    ],
+    "fr": [
+     "Environ 90 minutes",
+     "Un an",
+     "Une semaine"
+    ],
+    "nl": [
+     "Ongeveer 90 minuten",
+     "Een jaar",
+     "Een week"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "About how many sunrises do astronauts see each day?",
+    "fr": "Combien de levers de soleil les astronautes voient-ils environ par jour ?",
+    "nl": "Hoeveel zonsopgangen zien astronauten ongeveer per dag?"
+   },
+   "o": {
+    "en": [
+     "1",
+     "16",
+     "100"
+    ],
+    "fr": [
+     "1",
+     "16",
+     "100"
+    ],
+    "nl": [
+     "1",
+     "16",
+     "100"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Satellite jobs",
+   "fr": "Le travail des satellites",
+   "nl": "Wat doet elke satelliet?"
+  },
+  "intro": {
+   "en": "Match each satellite with its job.",
+   "fr": "Relie chaque satellite à son travail.",
+   "nl": "Verbind elke satelliet met zijn taak."
+  },
+  "done": {
+   "en": "Great job, space explorer!",
+   "fr": "Bravo, explorateur de l’espace !",
+   "nl": "Goed gedaan, ruimteverkenner!"
+  },
+  "left": {
+   "en": [
+    "Weather satellite",
+    "Navigation satellite",
+    "TV satellite",
+    "Earth-watching satellite"
+   ],
+   "fr": [
+    "Satellite météo",
+    "Satellite de navigation",
+    "Satellite de télévision",
+    "Satellite qui observe la Terre"
+   ],
+   "nl": [
+    "Weersatelliet",
+    "Navigatiesatelliet",
+    "Tv-satelliet",
+    "Satelliet die de aarde bekijkt"
+   ]
+  },
+  "right": {
+   "en": [
+    "Takes pictures of clouds",
+    "Tells your map where you are",
+    "Sends shows to your TV",
+    "Watches forests and ice"
+   ],
+   "fr": [
+    "Photographie les nuages",
+    "Dit à ta carte où tu es",
+    "Envoie des émissions à ta télé",
+    "Surveille les forêts et la glace"
+   ],
+   "nl": [
+    "Maakt foto’s van wolken",
+    "Vertelt je kaart waar je bent",
+    "Stuurt programma’s naar je tv",
+    "Houdt bossen en ijs in de gaten"
+   ]
+  }
+ }
+}

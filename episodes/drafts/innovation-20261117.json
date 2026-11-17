@@ -1,0 +1,239 @@
+{
+ "id": "innovation-20261117",
+ "world": "innovation",
+ "guide": "Whyzz",
+ "title": {
+  "en": "Why is failing a good part of inventing?",
+  "fr": "Pourquoi se tromper aide-t-il à inventer ?",
+  "nl": "Waarom helpt mislukken bij het uitvinden?"
+ },
+ "scenes": [
+  {
+   "speaker": "Pixel",
+   "en": "Whyzz, my cardboard boat sank in the bathtub after five seconds. Does that mean I’m a bad inventor?",
+   "fr": "Whyzz, mon bateau en carton a coulé dans la baignoire au bout de cinq secondes. Ça veut dire que je suis une mauvaise inventrice ?",
+   "nl": "Whyzz, mijn kartonnen bootje zonk na vijf seconden in bad. Betekent dat dat ik een slechte uitvinder ben?",
+   "img": "Pixel holds a soggy cardboard boat next to a bathtub, Whyzz listens"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Not at all! My first paper airplane did a loop and landed splash in my cereal bowl!",
+   "fr": "Pas du tout ! Mon premier avion en papier a fait un looping et a atterri, plouf, dans mon bol de céréales !",
+   "nl": "Helemaal niet! Mijn eerste papieren vliegtuigje maakte een looping en landde, plons, in mijn kom ontbijtgranen!",
+   "img": "Whyzz laughs as a paper airplane splashes into a cereal bowl, Pixel giggles"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Inventors build a quick first try called a prototype. Then they test it to see what goes wrong, like a detective hunting for clues.",
+   "fr": "Les inventeurs construisent un premier essai rapide, qu’on appelle un prototype. Ensuite, ils le testent pour voir ce qui ne marche pas, comme un détective qui cherche des indices.",
+   "nl": "Uitvinders bouwen eerst een snelle proefversie: een prototype. Daarna testen ze die om te zien wat er misgaat, net als een detective die naar aanwijzingen zoekt.",
+   "img": "Whyzz with a magnifying glass looks at the cardboard boat in a workshop"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "It’s like learning to ride a bike: you wobble, you fix your balance and you try again. Every fail tells you what to change next.",
+   "fr": "C’est comme apprendre à faire du vélo : tu zigzagues, tu retrouves ton équilibre et tu recommences. Chaque raté te dit quoi changer ensuite.",
+   "nl": "Het is net als leren fietsen: je wiebelt, je zoekt je evenwicht en je probeert het opnieuw. Elke mislukking vertelt je wat je de volgende keer anders moet doen.",
+   "img": "Whyzz wobbles on a bike in a park while Pixel cheers"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know? The very first airplane flight lasted only 12 seconds, after its inventors had crashed lots of test gliders!",
+   "fr": "Le savais-tu ? Le tout premier vol en avion n’a duré que 12 secondes, et ses inventeurs avaient d’abord cassé plein de planeurs d’essai !",
+   "nl": "Wist je dat? De allereerste vliegtuigvlucht duurde maar 12 seconden, nadat de uitvinders eerst een heleboel proefzweeftoestellen hadden laten crashen!",
+   "img": "Pixel and Whyzz on sand dunes watch an old wooden airplane fly low"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a fail is just a clue for your next try, Pixel! What would you like to build, test and make even better?",
+   "fr": "Donc un raté, c’est juste un indice pour ton prochain essai, Pixel ! Et toi, qu’aimerais-tu construire, tester et améliorer ?",
+   "nl": "Een mislukking is dus gewoon een aanwijzing voor je volgende poging, Pixel! Wat zou jij willen bouwen, testen en nog beter maken?",
+   "img": "Whyzz and Pixel cheer as an improved cardboard boat floats in a tub"
+  }
+ ],
+ "prompts": [
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands in a bright bathroom and holds up a soggy dripping cardboard boat with a sad but funny face next to a bathtub full of water and bubbles, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands next to her listening kindly with a rubber duck in his hand. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs at a kitchen table as a folded paper airplane does a loop in the air and splashes into a bowl of cereal and milk, drops fly everywhere, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge giggles next to him, cozy morning kitchen. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds a big magnifying glass and looks closely at a soggy cardboard boat on a workbench in a bright colorful kids workshop full of tools, cardboard, tape and paint, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge watches with curious eyes, a little detective hat on Whyzz's cap. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge wobbles on a bicycle on a sunny park path with a funny wobbly face while keeping his balance, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge runs next to him cheering with both arms up, green trees and flowers. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stand on big sandy dunes by the sea and look up amazed as an old-fashioned wooden airplane with two cloth wings flies low over the sand, a few broken toy-like gliders lie in the sand behind them, windy sunny day. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge cheer and high-five next to a big tub of water where a new cardboard boat wrapped in shiny tape floats proudly with a little paper sail, bright kids workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What is a quick first try of an invention called?",
+    "fr": "Comment s’appelle le premier essai rapide d’une invention ?",
+    "nl": "Hoe heet de eerste snelle proefversie van een uitvinding?"
+   },
+   "o": {
+    "en": [
+     "A prototype",
+     "A pancake",
+     "A trophy"
+    ],
+    "fr": [
+     "Un prototype",
+     "Une crêpe",
+     "Un trophée"
+    ],
+    "nl": [
+     "Een prototype",
+     "Een pannenkoek",
+     "Een trofee"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why do inventors test their prototypes?",
+    "fr": "Pourquoi les inventeurs testent-ils leurs prototypes ?",
+    "nl": "Waarom testen uitvinders hun prototypes?"
+   },
+   "o": {
+    "en": [
+     "To break them for fun",
+     "To see what goes wrong",
+     "To make them heavier"
+    ],
+    "fr": [
+     "Pour les casser pour rire",
+     "Pour voir ce qui ne marche pas",
+     "Pour les rendre plus lourds"
+    ],
+    "nl": [
+     "Om ze voor de lol kapot te maken",
+     "Om te zien wat er misgaat",
+     "Om ze zwaarder te maken"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Where did Whyzz’s paper airplane land?",
+    "fr": "Où l’avion en papier de Whyzz a-t-il atterri ?",
+    "nl": "Waar landde het papieren vliegtuigje van Whyzz?"
+   },
+   "o": {
+    "en": [
+     "On the Moon",
+     "In his backpack",
+     "In his cereal bowl"
+    ],
+    "fr": [
+     "Sur la Lune",
+     "Dans son sac à dos",
+     "Dans son bol de céréales"
+    ],
+    "nl": [
+     "Op de maan",
+     "In zijn rugzak",
+     "In zijn kom ontbijtgranen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "How long did the very first airplane flight last?",
+    "fr": "Combien de temps a duré le tout premier vol en avion ?",
+    "nl": "Hoelang duurde de allereerste vliegtuigvlucht?"
+   },
+   "o": {
+    "en": [
+     "12 seconds",
+     "12 days",
+     "12 hours"
+    ],
+    "fr": [
+     "12 secondes",
+     "12 jours",
+     "12 heures"
+    ],
+    "nl": [
+     "12 seconden",
+     "12 dagen",
+     "12 uur"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What is a fail, says Whyzz?",
+    "fr": "Qu’est-ce qu’un raté, d’après Whyzz ?",
+    "nl": "Wat is een mislukking volgens Whyzz?"
+   },
+   "o": {
+    "en": [
+     "The end of everything",
+     "A clue for your next try",
+     "A reason to give up"
+    ],
+    "fr": [
+     "La fin de tout",
+     "Un indice pour ton prochain essai",
+     "Une raison d’abandonner"
+    ],
+    "nl": [
+     "Het einde van alles",
+     "Een aanwijzing voor je volgende poging",
+     "Een reden om op te geven"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Inventor habits",
+   "fr": "Les bons réflexes de l’inventeur",
+   "nl": "Goede uitvindersgewoontes"
+  },
+  "intro": {
+   "en": "Pick the habits that help inventors.",
+   "fr": "Choisis les habitudes qui aident les inventeurs.",
+   "nl": "Kies de gewoontes die uitvinders helpen."
+  },
+  "done": {
+   "en": "You think like a real inventor!",
+   "fr": "Tu penses comme un vrai inventeur !",
+   "nl": "Jij denkt als een echte uitvinder!"
+  },
+  "items": {
+   "en": [
+    "Test your idea",
+    "Give up after one try",
+    "Look for clues when something breaks",
+    "Ask a friend to try it",
+    "Hide your mistakes",
+    "Change one thing and test again"
+   ],
+   "fr": [
+    "Tester ton idée",
+    "Abandonner après un essai",
+    "Chercher des indices quand ça casse",
+    "Demander à un ami d’essayer",
+    "Cacher tes erreurs",
+    "Changer une chose et retester"
+   ],
+   "nl": [
+    "Je idee testen",
+    "Opgeven na één poging",
+    "Aanwijzingen zoeken als iets kapotgaat",
+    "Een vriend het laten proberen",
+    "Je fouten verstoppen",
+    "Eén ding veranderen en opnieuw testen"
+   ]
+  },
+  "good": [
+   0,
+   2,
+   3,
+   5
+  ]
+ }
+}
