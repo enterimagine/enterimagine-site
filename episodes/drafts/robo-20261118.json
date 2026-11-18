@@ -1,0 +1,247 @@
+{
+ "id": "robo-20261118",
+ "world": "robo",
+ "guide": "Pixel",
+ "title": {
+  "en": "How do robots help in a hospital?",
+  "fr": "Comment les robots aident-ils à l’hôpital ?",
+  "nl": "Hoe helpen robots in een ziekenhuis?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, at the hospital a little robot rolled right past me and went beep beep! What was a robot doing there?",
+   "fr": "Pixel, à l’hôpital, un petit robot est passé juste à côté de moi en faisant bip bip ! Qu’est-ce qu’un robot faisait là ?",
+   "nl": "Pixel, in het ziekenhuis reed er een robotje vlak langs me en het deed biep biep! Wat deed een robot daar?",
+   "img": "A small friendly robot rolls past Whyzz in a hospital hall"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "That was probably a delivery robot! It carries medicine, meals and clean sheets down the halls, so nurses have more time for their patients.",
+   "fr": "C’était sûrement un robot livreur ! Il transporte des médicaments, des repas et des draps propres dans les couloirs, pour que les infirmiers aient plus de temps pour leurs patients.",
+   "nl": "Dat was waarschijnlijk een bezorgrobot! Hij brengt medicijnen, maaltijden en schone lakens door de gangen, zodat verpleegkundigen meer tijd hebben voor hun patiënten.",
+   "img": "The delivery robot carries trays and sheets, Pixel explains"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Can I order a robot to bring me ice cream in bed? Extra sprinkles, please!",
+   "fr": "Est-ce que je peux commander un robot pour qu’il m’apporte une glace au lit ? Avec plein de vermicelles, s’il te plaît !",
+   "nl": "Kan ik een robot bestellen die ijs naar mijn bed brengt? Met extra hagelslag, alsjeblieft!",
+   "img": "Whyzz dreams of a robot bringing him a huge ice cream"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, only if the doctor says so! Some robot arms help surgeons do very careful work through tiny openings, while the doctor stays in control the whole time.",
+   "fr": "Ha, seulement si le médecin est d’accord ! Certains bras robotisés aident les chirurgiens à travailler très précisément par de toutes petites ouvertures, et le médecin garde le contrôle tout le temps.",
+   "nl": "Haha, alleen als de dokter het goedvindt! Sommige robotarmen helpen chirurgen om heel precies te werken via piepkleine openingen, terwijl de dokter altijd de baas blijft.",
+   "img": "A doctor at a console guides a robot arm that gently peels a grape"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know some robots help people learn to walk again? They’re wearable robot legs called exoskeletons and they give a gentle push with every step.",
+   "fr": "Savais-tu que certains robots aident des gens à réapprendre à marcher ? Ce sont des jambes robotisées qu’on porte, appelées exosquelettes, et elles donnent une petite poussée à chaque pas.",
+   "nl": "Wist je dat sommige robots mensen helpen om opnieuw te leren lopen? Het zijn robotbenen die je aantrekt, exoskeletten, en ze geven je bij elke stap een zacht duwtje.",
+   "img": "A smiling grown-up walks with a robotic leg frame"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So hospital robots carry, assist and support, while people stay the bosses! What kind of helper robot would you design for a hospital?",
+   "fr": "Donc les robots de l’hôpital transportent, assistent et soutiennent, et ce sont toujours les gens qui décident ! Quel robot assistant inventerais-tu pour un hôpital ?",
+   "nl": "Dus ziekenhuisrobots dragen, helpen en ondersteunen, en de mensen blijven de baas! Wat voor helperrobot zou jij ontwerpen voor een ziekenhuis?",
+   "img": "Whyzz and Pixel high-five next to the delivery robot"
+  }
+ ],
+ "prompts": [
+  "In a bright clean cheerful hospital hallway with colorful walls a small friendly white robot shaped like a rounded cabinet on wheels with two glowing blue eyes rolls past, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge jumps aside in surprise with a big grin, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge walks beside him and waves at the robot. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright clean cheerful hospital hallway a small friendly white robot on wheels carries neat stacks of folded clean sheets and a covered meal tray, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge explains with one hand raised, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge walks beside the robot and peeks curiously at the tray. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright cheerful hospital room Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits in a bed under a blanket and dreams happily with a thought bubble made of soft clouds, a small friendly white robot rolls toward him carrying a giant ice cream cone covered in colorful sprinkles, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge giggles at the side of the bed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright clean training room a grown-up doctor in green scrubs sits at a large control console and guides a slim white robot arm that very gently peels a tiny green grape on a small table, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watch closely with impressed faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright cheerful therapy room with soft mats a smiling grown-up walks slowly wearing light white robotic leg braces with small glowing blue joints, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge claps happily, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge cheers with both arms up. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright cheerful hospital hallway Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge give each other a high-five next to a small friendly white robot on wheels whose glowing blue eyes look happy, colorful balloons float in the background. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What does a hospital delivery robot carry?",
+    "fr": "Que transporte un robot livreur à l’hôpital ?",
+    "nl": "Wat brengt een bezorgrobot in het ziekenhuis?"
+   },
+   "o": {
+    "en": [
+     "Medicine, meals and clean sheets",
+     "Toys and balloons",
+     "Cars and bikes"
+    ],
+    "fr": [
+     "Des médicaments, des repas et des draps propres",
+     "Des jouets et des ballons",
+     "Des voitures et des vélos"
+    ],
+    "nl": [
+     "Medicijnen, maaltijden en schone lakens",
+     "Speelgoed en ballonnen",
+     "Auto’s en fietsen"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why do delivery robots help nurses?",
+    "fr": "Pourquoi les robots livreurs aident-ils les infirmiers ?",
+    "nl": "Waarom helpen bezorgrobots verpleegkundigen?"
+   },
+   "o": {
+    "en": [
+     "So nurses can play games",
+     "So nurses have more time for patients",
+     "So nurses can go home"
+    ],
+    "fr": [
+     "Pour que les infirmiers puissent jouer",
+     "Pour que les infirmiers aient plus de temps pour les patients",
+     "Pour que les infirmiers puissent rentrer chez eux"
+    ],
+    "nl": [
+     "Zodat verpleegkundigen spelletjes kunnen spelen",
+     "Zodat verpleegkundigen meer tijd hebben voor patiënten",
+     "Zodat verpleegkundigen naar huis kunnen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Who is in control when a robot arm helps a surgeon?",
+    "fr": "Qui garde le contrôle quand un bras robotisé aide un chirurgien ?",
+    "nl": "Wie is de baas als een robotarm een chirurg helpt?"
+   },
+   "o": {
+    "en": [
+     "The robot",
+     "Nobody",
+     "The doctor"
+    ],
+    "fr": [
+     "Le robot",
+     "Personne",
+     "Le médecin"
+    ],
+    "nl": [
+     "De robot",
+     "Niemand",
+     "De dokter"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What do exoskeletons help people do?",
+    "fr": "À quoi les exosquelettes aident-ils les gens ?",
+    "nl": "Waarbij helpen exoskeletten mensen?"
+   },
+   "o": {
+    "en": [
+     "Fly",
+     "Learn to walk again",
+     "Sleep better"
+    ],
+    "fr": [
+     "À voler",
+     "À réapprendre à marcher",
+     "À mieux dormir"
+    ],
+    "nl": [
+     "Vliegen",
+     "Opnieuw leren lopen",
+     "Beter slapen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What did Whyzz want a robot to bring him?",
+    "fr": "Que voulait Whyzz qu’un robot lui apporte ?",
+    "nl": "Wat wilde Whyzz dat een robot hem bracht?"
+   },
+   "o": {
+    "en": [
+     "Ice cream with sprinkles",
+     "His homework",
+     "A puppy"
+    ],
+    "fr": [
+     "Une glace avec des vermicelles",
+     "Ses devoirs",
+     "Un chiot"
+    ],
+    "nl": [
+     "IJs met hagelslag",
+     "Zijn huiswerk",
+     "Een puppy"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Hospital robot match",
+   "fr": "Associe les robots de l’hôpital",
+   "nl": "Koppel de ziekenhuisrobots"
+  },
+  "intro": {
+   "en": "Each hospital robot has its own job. Match each robot to what it does!",
+   "fr": "Chaque robot de l’hôpital a sa propre tâche. Associe chaque robot à ce qu’il fait !",
+   "nl": "Elke ziekenhuisrobot heeft zijn eigen taak. Koppel elke robot aan wat hij doet!"
+  },
+  "done": {
+   "en": "Great match! The hospital robots are ready to help.",
+   "fr": "Bien joué ! Les robots de l’hôpital sont prêts à aider.",
+   "nl": "Goed gekoppeld! De ziekenhuisrobots staan klaar om te helpen."
+  },
+  "left": {
+   "en": [
+    "Delivery robot",
+    "Surgery robot arm",
+    "Exoskeleton",
+    "Cleaning robot"
+   ],
+   "fr": [
+    "Robot livreur",
+    "Bras robotisé de chirurgie",
+    "Exosquelette",
+    "Robot nettoyeur"
+   ],
+   "nl": [
+    "Bezorgrobot",
+    "Operatierobotarm",
+    "Exoskelet",
+    "Schoonmaakrobot"
+   ]
+  },
+  "right": {
+   "en": [
+    "Brings medicine and meals",
+    "Helps the doctor work very precisely",
+    "Helps people practice walking",
+    "Cleans rooms to fight germs"
+   ],
+   "fr": [
+    "Apporte les médicaments et les repas",
+    "Aide le médecin à travailler très précisément",
+    "Aide les gens à s’entraîner à marcher",
+    "Nettoie les chambres contre les microbes"
+   ],
+   "nl": [
+    "Brengt medicijnen en maaltijden",
+    "Helpt de dokter heel precies te werken",
+    "Helpt mensen om te oefenen met lopen",
+    "Maakt kamers schoon tegen bacteriën"
+   ]
+  }
+ }
+}

@@ -6802,5 +6802,545 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Een mislukking is dus gewoon een aanwijzing voor je volgende poging, Pixel! Wat zou jij willen bouwen, testen en nog beter maken?"
+ },
+ {
+  "id": "pixel-20261118-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, I just saw a photo of a cat surfing a giant wave! Is that real or is someone playing a trick on me?"
+ },
+ {
+  "id": "pixel-20261118-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, je viens de voir la photo d’un chat qui surfe sur une vague géante ! C’est vrai ou quelqu’un me joue un tour ?"
+ },
+ {
+  "id": "pixel-20261118-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, ik zag net een foto van een kat die op een gigantische golf surft! Is dat echt of houdt iemand me voor de gek?"
+ },
+ {
+  "id": "pixel-20261118-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Good question! Computers can change photos or even make brand-new ones that look real, so we have to become photo detectives."
+ },
+ {
+  "id": "pixel-20261118-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Bonne question ! Les ordinateurs peuvent modifier des photos ou même en créer de toutes nouvelles qui ont l’air vraies, alors on doit devenir des détectives de photos."
+ },
+ {
+  "id": "pixel-20261118-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Goede vraag! Computers kunnen foto’s veranderen of zelfs gloednieuwe maken die echt lijken, dus moeten we fotodetectives worden."
+ },
+ {
+  "id": "pixel-20261118-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I’ve got it! Fake photos smell funny, so I’ll just sniff the screen. Hmm, it smells like… tablet."
+ },
+ {
+  "id": "pixel-20261118-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "J’ai trouvé ! Les fausses photos sentent bizarre, alors je vais renifler l’écran. Hmm, ça sent… la tablette."
+ },
+ {
+  "id": "pixel-20261118-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik weet het! Nepfoto’s ruiken raar, dus ik snuffel gewoon aan het scherm. Hmm, het ruikt naar… tablet."
+ },
+ {
+  "id": "pixel-20261118-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, noses don’t work on screens! Use your eyes instead and look for hands with too many fingers, bent lines, blurry edges or shadows going the wrong way."
+ },
+ {
+  "id": "pixel-20261118-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, le nez ne marche pas sur un écran ! Utilise plutôt tes yeux et cherche des mains avec trop de doigts, des lignes tordues, des bords flous ou des ombres dans le mauvais sens."
+ },
+ {
+  "id": "pixel-20261118-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, neuzen werken niet op schermen! Gebruik liever je ogen en zoek naar handen met te veel vingers, kromme lijnen, wazige randjes of schaduwen die de verkeerde kant op vallen."
+ },
+ {
+  "id": "pixel-20261118-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know experts also check where a photo first came from? And if a picture surprises you a lot, stop and check it with a grown-up!"
+ },
+ {
+  "id": "pixel-20261118-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu que les experts vérifient aussi d’où vient une photo au départ ? Et si une image te surprend beaucoup, arrête-toi et vérifie-la avec un adulte !"
+ },
+ {
+  "id": "pixel-20261118-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat experts ook nagaan waar een foto oorspronkelijk vandaan komt? En als een foto je heel erg verrast, stop dan even en check hem samen met een volwassene!"
+ },
+ {
+  "id": "pixel-20261118-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So that surfing cat was probably fake, but being a photo detective is real fun! What clue would you look for first in a strange photo?"
+ },
+ {
+  "id": "pixel-20261118-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc ce chat surfeur était sûrement faux, mais être détective de photos, c’est vraiment amusant ! Quel indice chercherais-tu en premier dans une photo bizarre ?"
+ },
+ {
+  "id": "pixel-20261118-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus die surfende kat was waarschijnlijk nep, maar fotodetective zijn is echt leuk! Naar welke aanwijzing zou jij als eerste zoeken in een vreemde foto?"
+ },
+ {
+  "id": "qubi-20261118-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, at the fireworks show I saw red, green and blue sparkles in the sky. Who paints them up there?"
+ },
+ {
+  "id": "qubi-20261118-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, au feu d’artifice, j’ai vu des étincelles rouges, vertes et bleues dans le ciel. Qui les peint là-haut ?"
+ },
+ {
+  "id": "qubi-20261118-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, bij de vuurwerkshow zag ik rode, groene en blauwe vonken in de lucht. Wie schildert ze daarboven?"
+ },
+ {
+  "id": "qubi-20261118-en-2",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Nobody paints them, the atoms do! Fireworks hold special powders with different metals inside and each metal glows in its own color when it gets very hot."
+ },
+ {
+  "id": "qubi-20261118-fr-2",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Personne ne les peint, ce sont les atomes ! Les feux d’artifice contiennent des poudres spéciales avec différents métaux et chaque métal brille de sa propre couleur quand il devient très chaud."
+ },
+ {
+  "id": "qubi-20261118-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Niemand schildert ze, dat doen de atomen! In vuurwerk zitten speciale poeders met verschillende metalen en elk metaal gloeit in zijn eigen kleur als het heel heet wordt."
+ },
+ {
+  "id": "qubi-20261118-en-3",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Inside each atom, tiny electrons sit on energy steps, like a staircase. Heat makes them jump up and when they hop back down, they give off a flash of light."
+ },
+ {
+  "id": "qubi-20261118-fr-3",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Dans chaque atome, de minuscules électrons sont posés sur des marches d’énergie, comme un escalier. La chaleur les fait sauter vers le haut et quand ils redescendent, ils lancent un éclair de lumière."
+ },
+ {
+  "id": "qubi-20261118-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "In elk atoom zitten piepkleine elektronen op energietreden, net als een trap. Door de hitte springen ze omhoog en als ze terug omlaag hoppen, geven ze een flitsje licht."
+ },
+ {
+  "id": "qubi-20261118-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So if I hop down one stair step, will I glow like a firework? Watch this… hmm, still not glowing!"
+ },
+ {
+  "id": "qubi-20261118-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Alors si je saute d’une marche, je vais briller comme un feu d’artifice ? Regarde… hmm, je ne brille toujours pas !"
+ },
+ {
+  "id": "qubi-20261118-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus als ik van één traptrede spring, ga ik dan gloeien als vuurwerk? Kijk… hmm, ik gloei nog steeds niet!"
+ },
+ {
+  "id": "qubi-20261118-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Ha, you’re way too big, Whyzz! Did you know each metal has steps of its own size, so strontium glows red, copper blue and sodium yellow?"
+ },
+ {
+  "id": "qubi-20261118-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Ha, tu es bien trop grand, Whyzz ! Savais-tu que chaque métal a des marches d’une taille différente, si bien que le strontium brille en rouge, le cuivre en bleu et le sodium en jaune ?"
+ },
+ {
+  "id": "qubi-20261118-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Haha, daarvoor ben je veel te groot, Whyzz! Wist je dat elk metaal treden van een eigen grootte heeft, zodat strontium rood gloeit, koper blauw en natrium geel?"
+ },
+ {
+  "id": "qubi-20261118-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So every firework color is a message from tiny jumping electrons! If you could invent a brand-new firework, what colors would you mix?"
+ },
+ {
+  "id": "qubi-20261118-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc chaque couleur de feu d’artifice est un message de minuscules électrons qui sautent ! Si tu pouvais inventer un tout nouveau feu d’artifice, quelles couleurs mélangerais-tu ?"
+ },
+ {
+  "id": "qubi-20261118-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus elke vuurwerkkleur is een boodschap van piepkleine springende elektronen! Als jij een gloednieuw vuurwerk mocht uitvinden, welke kleuren zou je dan mengen?"
+ },
+ {
+  "id": "bloom-20261118-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Bloom, the leaves in the park turned orange, red and yellow! Did the trees get a new paint job for fall?"
+ },
+ {
+  "id": "bloom-20261118-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Bloom, les feuilles du parc sont devenues orange, rouges et jaunes ! Les arbres se sont fait repeindre pour l’automne ?"
+ },
+ {
+  "id": "bloom-20261118-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Bloom, de bladeren in het park zijn oranje, rood en geel geworden! Hebben de bomen een nieuw verfje gekregen voor de herfst?"
+ },
+ {
+  "id": "bloom-20261118-en-2",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "No paint needed! In summer, leaves are full of chlorophyll, a green helper that catches sunlight to make food for the tree."
+ },
+ {
+  "id": "bloom-20261118-fr-2",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Pas besoin de peinture ! En été, les feuilles sont pleines de chlorophylle, un petit assistant vert qui capte la lumière du soleil pour fabriquer la nourriture de l’arbre."
+ },
+ {
+  "id": "bloom-20261118-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Geen verf nodig! In de zomer zitten bladeren vol bladgroen, een groene helper die zonlicht opvangt om voedsel te maken voor de boom."
+ },
+ {
+  "id": "bloom-20261118-en-3",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "In fall the days get shorter and colder, so the tree stops making chlorophyll. The green fades away and the yellow and orange that hid underneath all summer finally show up!"
+ },
+ {
+  "id": "bloom-20261118-fr-3",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "En automne, les jours raccourcissent et refroidissent, alors l’arbre arrête de fabriquer de la chlorophylle. Le vert disparaît et le jaune et l’orange, cachés dessous tout l’été, apparaissent enfin !"
+ },
+ {
+  "id": "bloom-20261118-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "In de herfst worden de dagen korter en kouder, dus stopt de boom met bladgroen maken. Het groen verdwijnt en het geel en oranje die de hele zomer verstopt zaten, komen eindelijk tevoorschijn!"
+ },
+ {
+  "id": "bloom-20261118-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the leaves wore a green jacket over a yellow T-shirt all summer? I do that too, except my T-shirt has ketchup stains!"
+ },
+ {
+  "id": "bloom-20261118-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les feuilles portaient une veste verte sur un t-shirt jaune tout l’été ? Moi aussi, sauf que mon t-shirt a des taches de ketchup !"
+ },
+ {
+  "id": "bloom-20261118-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de bladeren droegen de hele zomer een groene jas over een geel T-shirt? Dat doe ik ook, alleen zitten er ketchupvlekken op mijn T-shirt!"
+ },
+ {
+  "id": "bloom-20261118-en-5",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Ha, exactly like that! Did you know the bright red is brand-new, because some trees make it in fall, a bit like sunscreen for their leaves?"
+ },
+ {
+  "id": "bloom-20261118-fr-5",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Ha, exactement comme ça ! Savais-tu que le rouge vif est tout nouveau, car certains arbres le fabriquent en automne, un peu comme une crème solaire pour leurs feuilles ?"
+ },
+ {
+  "id": "bloom-20261118-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Haha, precies zo! Wist je dat het felle rood gloednieuw is, omdat sommige bomen het in de herfst aanmaken, een beetje zoals zonnecrème voor hun bladeren?"
+ },
+ {
+  "id": "bloom-20261118-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So fall colors are the tree’s hidden treasures coming out before winter! What’s the most colorful leaf you have ever found?"
+ },
+ {
+  "id": "bloom-20261118-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les couleurs d’automne sont les trésors cachés de l’arbre qui sortent avant l’hiver ! Quelle est la feuille la plus colorée que tu aies jamais trouvée ?"
+ },
+ {
+  "id": "bloom-20261118-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus herfstkleuren zijn de verborgen schatten van de boom die voor de winter tevoorschijn komen! Wat is het kleurrijkste blad dat jij ooit hebt gevonden?"
+ },
+ {
+  "id": "robo-20261118-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, at the hospital a little robot rolled right past me and went beep beep! What was a robot doing there?"
+ },
+ {
+  "id": "robo-20261118-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, à l’hôpital, un petit robot est passé juste à côté de moi en faisant bip bip ! Qu’est-ce qu’un robot faisait là ?"
+ },
+ {
+  "id": "robo-20261118-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, in het ziekenhuis reed er een robotje vlak langs me en het deed biep biep! Wat deed een robot daar?"
+ },
+ {
+  "id": "robo-20261118-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "That was probably a delivery robot! It carries medicine, meals and clean sheets down the halls, so nurses have more time for their patients."
+ },
+ {
+  "id": "robo-20261118-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "C’était sûrement un robot livreur ! Il transporte des médicaments, des repas et des draps propres dans les couloirs, pour que les infirmiers aient plus de temps pour leurs patients."
+ },
+ {
+  "id": "robo-20261118-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Dat was waarschijnlijk een bezorgrobot! Hij brengt medicijnen, maaltijden en schone lakens door de gangen, zodat verpleegkundigen meer tijd hebben voor hun patiënten."
+ },
+ {
+  "id": "robo-20261118-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Can I order a robot to bring me ice cream in bed? Extra sprinkles, please!"
+ },
+ {
+  "id": "robo-20261118-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Est-ce que je peux commander un robot pour qu’il m’apporte une glace au lit ? Avec plein de vermicelles, s’il te plaît !"
+ },
+ {
+  "id": "robo-20261118-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Kan ik een robot bestellen die ijs naar mijn bed brengt? Met extra hagelslag, alsjeblieft!"
+ },
+ {
+  "id": "robo-20261118-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, only if the doctor says so! Some robot arms help surgeons do very careful work through tiny openings, while the doctor stays in control the whole time."
+ },
+ {
+  "id": "robo-20261118-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, seulement si le médecin est d’accord ! Certains bras robotisés aident les chirurgiens à travailler très précisément par de toutes petites ouvertures, et le médecin garde le contrôle tout le temps."
+ },
+ {
+  "id": "robo-20261118-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, alleen als de dokter het goedvindt! Sommige robotarmen helpen chirurgen om heel precies te werken via piepkleine openingen, terwijl de dokter altijd de baas blijft."
+ },
+ {
+  "id": "robo-20261118-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know some robots help people learn to walk again? They’re wearable robot legs called exoskeletons and they give a gentle push with every step."
+ },
+ {
+  "id": "robo-20261118-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Savais-tu que certains robots aident des gens à réapprendre à marcher ? Ce sont des jambes robotisées qu’on porte, appelées exosquelettes, et elles donnent une petite poussée à chaque pas."
+ },
+ {
+  "id": "robo-20261118-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat sommige robots mensen helpen om opnieuw te leren lopen? Het zijn robotbenen die je aantrekt, exoskeletten, en ze geven je bij elke stap een zacht duwtje."
+ },
+ {
+  "id": "robo-20261118-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So hospital robots carry, assist and support, while people stay the bosses! What kind of helper robot would you design for a hospital?"
+ },
+ {
+  "id": "robo-20261118-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les robots de l’hôpital transportent, assistent et soutiennent, et ce sont toujours les gens qui décident ! Quel robot assistant inventerais-tu pour un hôpital ?"
+ },
+ {
+  "id": "robo-20261118-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus ziekenhuisrobots dragen, helpen en ondersteunen, en de mensen blijven de baas! Wat voor helperrobot zou jij ontwerpen voor een ziekenhuis?"
+ },
+ {
+  "id": "energy-20261118-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, my mom says I leave the lights on everywhere, like a lighthouse. Does one little light really use that much energy?"
+ },
+ {
+  "id": "energy-20261118-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, ma maman dit que je laisse les lumières allumées partout, comme un phare. Une petite lampe utilise vraiment autant d’énergie ?"
+ },
+ {
+  "id": "energy-20261118-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, mijn mama zegt dat ik overal het licht laat branden, net een vuurtoren. Gebruikt één lampje echt zoveel energie?"
+ },
+ {
+  "id": "energy-20261118-en-2",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "One light uses only a little, but all the lights, screens and chargers in a home add up, like drops filling a bucket. Every bit you save helps!"
+ },
+ {
+  "id": "energy-20261118-fr-2",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Une lampe n’en utilise qu’un peu, mais toutes les lampes, les écrans et les chargeurs d’une maison s’additionnent, comme des gouttes qui remplissent un seau. Chaque petite économie compte !"
+ },
+ {
+  "id": "energy-20261118-nl-2",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Eén lamp gebruikt maar een beetje, maar alle lampen, schermen en opladers in huis tellen op, zoals druppels die een emmer vullen. Elk beetje dat je bespaart, helpt!"
+ },
+ {
+  "id": "energy-20261118-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "The biggest energy eaters at home are often heating and hot water. Closing doors keeps the warmth inside and a shorter shower saves lots of energy."
+ },
+ {
+  "id": "energy-20261118-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Les plus gros mangeurs d’énergie à la maison sont souvent le chauffage et l’eau chaude. Fermer les portes garde la chaleur à l’intérieur et une douche plus courte économise beaucoup d’énergie."
+ },
+ {
+  "id": "energy-20261118-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "De grootste energievreters in huis zijn vaak de verwarming en het warme water. Deuren dichtdoen houdt de warmte binnen en korter douchen bespaart veel energie."
+ },
+ {
+  "id": "energy-20261118-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Then I’ll save energy by never showering again! Wait, why are you holding your nose, Sunny?"
+ },
+ {
+  "id": "energy-20261118-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Alors je vais économiser de l’énergie en ne me douchant plus jamais ! Attends, pourquoi tu te bouches le nez, Sunny ?"
+ },
+ {
+  "id": "energy-20261118-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dan bespaar ik energie door nooit meer te douchen! Wacht, waarom knijp je je neus dicht, Sunny?"
+ },
+ {
+  "id": "energy-20261118-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Ha, a short shower is plenty, Whyzz! Did you know a TV or game console on standby keeps nibbling a bit of energy all day, like a sneaky snacker?"
+ },
+ {
+  "id": "energy-20261118-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Ha, une douche courte suffit, Whyzz ! Savais-tu qu’une télé ou une console en veille grignote encore un peu d’énergie toute la journée, comme un petit gourmand discret ?"
+ },
+ {
+  "id": "energy-20261118-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Haha, een korte douche is genoeg, Whyzz! Wist je dat een tv of spelcomputer op stand-by de hele dag stiekem een beetje energie blijft snoepen?"
+ },
+ {
+  "id": "energy-20261118-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So switching off, closing doors and taking short showers make me an energy hero! Which energy-saving trick will you try at home today?"
+ },
+ {
+  "id": "energy-20261118-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc éteindre, fermer les portes et prendre des douches courtes font de moi un héros de l’énergie ! Quelle astuce vas-tu essayer à la maison aujourd’hui ?"
+ },
+ {
+  "id": "energy-20261118-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus uitschakelen, deuren dichtdoen en kort douchen maken van mij een energieheld! Welk bespaartrucje ga jij vandaag thuis proberen?"
  }
 ]

@@ -1,0 +1,242 @@
+{
+ "id": "energy-20261118",
+ "world": "energy",
+ "guide": "Sunny",
+ "title": {
+  "en": "How can you save energy at home?",
+  "fr": "Comment économiser l’énergie à la maison ?",
+  "nl": "Hoe kun je thuis energie besparen?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, my mom says I leave the lights on everywhere, like a lighthouse. Does one little light really use that much energy?",
+   "fr": "Sunny, ma maman dit que je laisse les lumières allumées partout, comme un phare. Une petite lampe utilise vraiment autant d’énergie ?",
+   "nl": "Sunny, mijn mama zegt dat ik overal het licht laat branden, net een vuurtoren. Gebruikt één lampje echt zoveel energie?",
+   "img": "A house with every window glowing, Whyzz looks sheepish"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "One light uses only a little, but all the lights, screens and chargers in a home add up, like drops filling a bucket. Every bit you save helps!",
+   "fr": "Une lampe n’en utilise qu’un peu, mais toutes les lampes, les écrans et les chargeurs d’une maison s’additionnent, comme des gouttes qui remplissent un seau. Chaque petite économie compte !",
+   "nl": "Eén lamp gebruikt maar een beetje, maar alle lampen, schermen en opladers in huis tellen op, zoals druppels die een emmer vullen. Elk beetje dat je bespaart, helpt!",
+   "img": "Glowing drops from lamps and screens fill a big bucket"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "The biggest energy eaters at home are often heating and hot water. Closing doors keeps the warmth inside and a shorter shower saves lots of energy.",
+   "fr": "Les plus gros mangeurs d’énergie à la maison sont souvent le chauffage et l’eau chaude. Fermer les portes garde la chaleur à l’intérieur et une douche plus courte économise beaucoup d’énergie.",
+   "nl": "De grootste energievreters in huis zijn vaak de verwarming en het warme water. Deuren dichtdoen houdt de warmte binnen en korter douchen bespaart veel energie.",
+   "img": "Sunny closes a door to keep warm air inside"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Then I’ll save energy by never showering again! Wait, why are you holding your nose, Sunny?",
+   "fr": "Alors je vais économiser de l’énergie en ne me douchant plus jamais ! Attends, pourquoi tu te bouches le nez, Sunny ?",
+   "nl": "Dan bespaar ik energie door nooit meer te douchen! Wacht, waarom knijp je je neus dicht, Sunny?",
+   "img": "Whyzz proudly refuses the shower, Sunny holds her nose"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Ha, a short shower is plenty, Whyzz! Did you know a TV or game console on standby keeps nibbling a bit of energy all day, like a sneaky snacker?",
+   "fr": "Ha, une douche courte suffit, Whyzz ! Savais-tu qu’une télé ou une console en veille grignote encore un peu d’énergie toute la journée, comme un petit gourmand discret ?",
+   "nl": "Haha, een korte douche is genoeg, Whyzz! Wist je dat een tv of spelcomputer op stand-by de hele dag stiekem een beetje energie blijft snoepen?",
+   "img": "A TV on standby with a tiny glowing light, Sunny switches it off"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So switching off, closing doors and taking short showers make me an energy hero! Which energy-saving trick will you try at home today?",
+   "fr": "Donc éteindre, fermer les portes et prendre des douches courtes font de moi un héros de l’énergie ! Quelle astuce vas-tu essayer à la maison aujourd’hui ?",
+   "nl": "Dus uitschakelen, deuren dichtdoen en kort douchen maken van mij een energieheld! Welk bespaartrucje ga jij vandaag thuis proberen?",
+   "img": "Whyzz in a hero cape switches off a light, Sunny cheers"
+  }
+ ],
+ "prompts": [
+  "In the evening outside a cozy two-story house where every single window glows brightly with light like a lighthouse, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands on the front path with a sheepish grin and scratches his head, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands next to him with her hands on her hips and a playful smile. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy living room glowing golden drops float out of a lamp, a TV screen and a phone charger and fall into a big shiny bucket that is filling up, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge points at the bucket, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches the drops with a surprised face. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a warm cozy house hallway Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge gently closes a wooden door while soft orange swirls of warm air stay inside the room, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands next to her in a cozy sweater and gives a thumbs-up. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright bathroom Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands in front of the shower with his arms crossed and a proud stubborn face, a few funny cartoon smell swirls float around him, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge holds her nose with her fingers and laughs. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy living room a big TV is turned off but shows one tiny glowing red standby light, a small cute cartoon cookie-munching spark creature nibbles near the plug, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge presses the power switch on the power strip, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge peeks at the little creature with a grin. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy living room Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge wears a red superhero cape and flicks off a light switch with a heroic pose, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge cheers next to him with both fists in the air, warm evening light comes from the window. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What did Whyzz’s mom compare him to?",
+    "fr": "À quoi la maman de Whyzz le compare-t-elle ?",
+    "nl": "Waarmee vergelijkt de mama van Whyzz hem?"
+   },
+   "o": {
+    "en": [
+     "A lighthouse",
+     "A firefly",
+     "A rocket"
+    ],
+    "fr": [
+     "À un phare",
+     "À une luciole",
+     "À une fusée"
+    ],
+    "nl": [
+     "Met een vuurtoren",
+     "Met een vuurvliegje",
+     "Met een raket"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "How do all the lights, screens and chargers in a home add up?",
+    "fr": "Comment toutes les lampes, les écrans et les chargeurs d’une maison s’additionnent-ils ?",
+    "nl": "Hoe tellen alle lampen, schermen en opladers in huis op?"
+   },
+   "o": {
+    "en": [
+     "Like birds flying away",
+     "Like drops filling a bucket",
+     "Like snow melting"
+    ],
+    "fr": [
+     "Comme des oiseaux qui s’envolent",
+     "Comme des gouttes qui remplissent un seau",
+     "Comme de la neige qui fond"
+    ],
+    "nl": [
+     "Zoals vogels die wegvliegen",
+     "Zoals druppels die een emmer vullen",
+     "Zoals sneeuw die smelt"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What are often the biggest energy eaters at home?",
+    "fr": "Quels sont souvent les plus gros mangeurs d’énergie à la maison ?",
+    "nl": "Wat zijn vaak de grootste energievreters in huis?"
+   },
+   "o": {
+    "en": [
+     "Toothbrushes",
+     "Pencils",
+     "Heating and hot water"
+    ],
+    "fr": [
+     "Les brosses à dents",
+     "Les crayons",
+     "Le chauffage et l’eau chaude"
+    ],
+    "nl": [
+     "Tandenborstels",
+     "Potloden",
+     "De verwarming en het warme water"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What keeps the warmth inside?",
+    "fr": "Qu’est-ce qui garde la chaleur à l’intérieur ?",
+    "nl": "Wat houdt de warmte binnen?"
+   },
+   "o": {
+    "en": [
+     "Opening the windows",
+     "Closing the doors",
+     "Turning on a fan"
+    ],
+    "fr": [
+     "Ouvrir les fenêtres",
+     "Fermer les portes",
+     "Allumer un ventilateur"
+    ],
+    "nl": [
+     "De ramen openzetten",
+     "De deuren dichtdoen",
+     "Een ventilator aanzetten"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does a TV on standby do?",
+    "fr": "Que fait une télé en veille ?",
+    "nl": "Wat doet een tv op stand-by?"
+   },
+   "o": {
+    "en": [
+     "It uses no energy at all",
+     "It makes new energy",
+     "It keeps nibbling a bit of energy"
+    ],
+    "fr": [
+     "Elle n’utilise aucune énergie",
+     "Elle fabrique de l’énergie",
+     "Elle grignote encore un peu d’énergie"
+    ],
+    "nl": [
+     "Hij gebruikt helemaal geen energie",
+     "Hij maakt nieuwe energie",
+     "Hij blijft een beetje energie snoepen"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Energy hero moves",
+   "fr": "Les gestes du héros de l’énergie",
+   "nl": "Energieheldenacties"
+  },
+  "intro": {
+   "en": "Which of these save energy? Pick all the energy-hero moves!",
+   "fr": "Lesquels de ces gestes économisent de l’énergie ? Choisis tous les gestes de héros !",
+   "nl": "Welke van deze dingen besparen energie? Kies alle acties van een energieheld!"
+  },
+  "done": {
+   "en": "Super! You are a real energy hero.",
+   "fr": "Super ! Tu es un vrai héros de l’énergie.",
+   "nl": "Super! Jij bent een echte energieheld."
+  },
+  "items": {
+   "en": [
+    "Switch off the light when you leave a room",
+    "Leave the fridge door open",
+    "Take a shorter shower",
+    "Close the door to keep the warmth in",
+    "Leave the TV on standby all night",
+    "Dry clothes on a line in the sun",
+    "Open the window with the heating on high"
+   ],
+   "fr": [
+    "Éteindre la lumière en quittant une pièce",
+    "Laisser la porte du frigo ouverte",
+    "Prendre une douche plus courte",
+    "Fermer la porte pour garder la chaleur",
+    "Laisser la télé en veille toute la nuit",
+    "Faire sécher le linge au soleil",
+    "Ouvrir la fenêtre avec le chauffage à fond"
+   ],
+   "nl": [
+    "Het licht uitdoen als je een kamer verlaat",
+    "De koelkastdeur open laten staan",
+    "Korter douchen",
+    "De deur dichtdoen om de warmte binnen te houden",
+    "De tv de hele nacht op stand-by laten",
+    "De was buiten in de zon laten drogen",
+    "Het raam openzetten terwijl de verwarming hoog staat"
+   ]
+  },
+  "good": [
+   0,
+   2,
+   3,
+   5
+  ]
+ }
+}

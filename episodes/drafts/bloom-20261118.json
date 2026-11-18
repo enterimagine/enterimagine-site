@@ -1,0 +1,230 @@
+{
+ "id": "bloom-20261118",
+ "world": "bloom",
+ "guide": "Bloom",
+ "title": {
+  "en": "Why do leaves change color in the fall?",
+  "fr": "Pourquoi les feuilles changent-elles de couleur en automne ?",
+  "nl": "Waarom verkleuren de bladeren in de herfst?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Bloom, the leaves in the park turned orange, red and yellow! Did the trees get a new paint job for fall?",
+   "fr": "Bloom, les feuilles du parc sont devenues orange, rouges et jaunes ! Les arbres se sont fait repeindre pour l’automne ?",
+   "nl": "Bloom, de bladeren in het park zijn oranje, rood en geel geworden! Hebben de bomen een nieuw verfje gekregen voor de herfst?",
+   "img": "Whyzz in a colorful fall park holding up leaves"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "No paint needed! In summer, leaves are full of chlorophyll, a green helper that catches sunlight to make food for the tree.",
+   "fr": "Pas besoin de peinture ! En été, les feuilles sont pleines de chlorophylle, un petit assistant vert qui capte la lumière du soleil pour fabriquer la nourriture de l’arbre.",
+   "nl": "Geen verf nodig! In de zomer zitten bladeren vol bladgroen, een groene helper die zonlicht opvangt om voedsel te maken voor de boom.",
+   "img": "A giant green summer leaf soaking up sunbeams"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "In fall the days get shorter and colder, so the tree stops making chlorophyll. The green fades away and the yellow and orange that hid underneath all summer finally show up!",
+   "fr": "En automne, les jours raccourcissent et refroidissent, alors l’arbre arrête de fabriquer de la chlorophylle. Le vert disparaît et le jaune et l’orange, cachés dessous tout l’été, apparaissent enfin !",
+   "nl": "In de herfst worden de dagen korter en kouder, dus stopt de boom met bladgroen maken. Het groen verdwijnt en het geel en oranje die de hele zomer verstopt zaten, komen eindelijk tevoorschijn!",
+   "img": "A leaf changing from green to yellow and orange"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the leaves wore a green jacket over a yellow T-shirt all summer? I do that too, except my T-shirt has ketchup stains!",
+   "fr": "Donc les feuilles portaient une veste verte sur un t-shirt jaune tout l’été ? Moi aussi, sauf que mon t-shirt a des taches de ketchup !",
+   "nl": "Dus de bladeren droegen de hele zomer een groene jas over een geel T-shirt? Dat doe ik ook, alleen zitten er ketchupvlekken op mijn T-shirt!",
+   "img": "Whyzz opens his jacket to show a T-shirt with ketchup stains, Bloom laughs"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Ha, exactly like that! Did you know the bright red is brand-new, because some trees make it in fall, a bit like sunscreen for their leaves?",
+   "fr": "Ha, exactement comme ça ! Savais-tu que le rouge vif est tout nouveau, car certains arbres le fabriquent en automne, un peu comme une crème solaire pour leurs feuilles ?",
+   "nl": "Haha, precies zo! Wist je dat het felle rood gloednieuw is, omdat sommige bomen het in de herfst aanmaken, een beetje zoals zonnecrème voor hun bladeren?",
+   "img": "A bright red maple tree glowing in the sun, Bloom points"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So fall colors are the tree’s hidden treasures coming out before winter! What’s the most colorful leaf you have ever found?",
+   "fr": "Donc les couleurs d’automne sont les trésors cachés de l’arbre qui sortent avant l’hiver ! Quelle est la feuille la plus colorée que tu aies jamais trouvée ?",
+   "nl": "Dus herfstkleuren zijn de verborgen schatten van de boom die voor de winter tevoorschijn komen! Wat is het kleurrijkste blad dat jij ooit hebt gevonden?",
+   "img": "Whyzz and Bloom jump into a big pile of colorful leaves"
+  }
+ ],
+ "prompts": [
+  "In a sunny park in fall full of trees with orange, red and yellow leaves Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds up a colorful leaf in each hand with an amazed face, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge walks next to him smiling and pushing up his glasses. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Under a bright summer sky a giant green leaf floats in the air and sparkles as golden sunbeams soak into it, tiny glowing green dots shine inside the leaf, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge points at it happily, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge shades his eyes and looks up. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a sunny park Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge holds up one big leaf that is green at the tip and turning yellow and orange at the bottom like magic, little sparkles float around it, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans in very close with wide curious eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a colorful fall park Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge proudly opens his jacket to show a yellow T-shirt with big funny ketchup stains, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge laughs out loud and holds a green leaf next to a yellow leaf. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a sunny fall park a tree with bright glowing red leaves shines in the sunlight, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge points up at it excitedly, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks up with his mouth open in wonder. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a sunny fall park Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge jump laughing into a huge pile of orange, red and yellow leaves, leaves fly up all around them like confetti. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What makes leaves green in summer?",
+    "fr": "Qu’est-ce qui rend les feuilles vertes en été ?",
+    "nl": "Waardoor zijn bladeren groen in de zomer?"
+   },
+   "o": {
+    "en": [
+     "Green paint",
+     "Chlorophyll",
+     "Grass juice"
+    ],
+    "fr": [
+     "De la peinture verte",
+     "La chlorophylle",
+     "Du jus d’herbe"
+    ],
+    "nl": [
+     "Groene verf",
+     "Bladgroen",
+     "Grassap"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does chlorophyll do?",
+    "fr": "Que fait la chlorophylle ?",
+    "nl": "Wat doet bladgroen?"
+   },
+   "o": {
+    "en": [
+     "Catches sunlight to make food",
+     "Keeps the tree warm",
+     "Scares away birds"
+    ],
+    "fr": [
+     "Elle capte la lumière pour fabriquer de la nourriture",
+     "Elle garde l’arbre au chaud",
+     "Elle fait peur aux oiseaux"
+    ],
+    "nl": [
+     "Het vangt zonlicht op om voedsel te maken",
+     "Het houdt de boom warm",
+     "Het jaagt vogels weg"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why does the tree stop making chlorophyll in fall?",
+    "fr": "Pourquoi l’arbre arrête-t-il de fabriquer de la chlorophylle en automne ?",
+    "nl": "Waarom stopt de boom in de herfst met bladgroen maken?"
+   },
+   "o": {
+    "en": [
+     "It gets bored",
+     "It wants to sleep in",
+     "Days get shorter and colder"
+    ],
+    "fr": [
+     "Il s’ennuie",
+     "Il veut faire la grasse matinée",
+     "Les jours raccourcissent et refroidissent"
+    ],
+    "nl": [
+     "Hij verveelt zich",
+     "Hij wil uitslapen",
+     "De dagen worden korter en kouder"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Where were the yellow and orange all summer?",
+    "fr": "Où étaient le jaune et l’orange tout l’été ?",
+    "nl": "Waar zaten het geel en oranje de hele zomer?"
+   },
+   "o": {
+    "en": [
+     "In the roots",
+     "Hiding under the green",
+     "In the clouds"
+    ],
+    "fr": [
+     "Dans les racines",
+     "Cachés sous le vert",
+     "Dans les nuages"
+    ],
+    "nl": [
+     "In de wortels",
+     "Verstopt onder het groen",
+     "In de wolken"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Which fall color is brand-new?",
+    "fr": "Quelle couleur d’automne est toute nouvelle ?",
+    "nl": "Welke herfstkleur is gloednieuw?"
+   },
+   "o": {
+    "en": [
+     "Yellow",
+     "Green",
+     "Red"
+    ],
+    "fr": [
+     "Le jaune",
+     "Le vert",
+     "Le rouge"
+    ],
+    "nl": [
+     "Geel",
+     "Groen",
+     "Rood"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "A leaf’s year",
+   "fr": "L’année d’une feuille",
+   "nl": "Het jaar van een blad"
+  },
+  "intro": {
+   "en": "Put a leaf’s year in the right order!",
+   "fr": "Remets l’année d’une feuille dans le bon ordre !",
+   "nl": "Zet het jaar van een blad in de juiste volgorde!"
+  },
+  "done": {
+   "en": "Well done! You followed a leaf through its whole year.",
+   "fr": "Bravo ! Tu as suivi une feuille pendant toute son année.",
+   "nl": "Goed gedaan! Je hebt een blad zijn hele jaar gevolgd."
+  },
+  "items": {
+   "en": [
+    "A tiny bud opens in spring",
+    "The green leaf catches sunlight all summer",
+    "Days get shorter and colder",
+    "The green fades and yellow and orange appear",
+    "The leaf falls to the ground"
+   ],
+   "fr": [
+    "Un petit bourgeon s’ouvre au printemps",
+    "La feuille verte capte le soleil tout l’été",
+    "Les jours raccourcissent et refroidissent",
+    "Le vert s’efface et le jaune et l’orange apparaissent",
+    "La feuille tombe par terre"
+   ],
+   "nl": [
+    "Een klein knopje gaat open in de lente",
+    "Het groene blad vangt de hele zomer zonlicht op",
+    "De dagen worden korter en kouder",
+    "Het groen verdwijnt en geel en oranje verschijnen",
+    "Het blad valt op de grond"
+   ]
+  }
+ }
+}

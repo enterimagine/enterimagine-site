@@ -1,0 +1,247 @@
+{
+ "id": "qubi-20261118",
+ "world": "qubi",
+ "guide": "Qubi",
+ "title": {
+  "en": "Why are fireworks so many different colors?",
+  "fr": "Pourquoi les feux d’artifice ont-ils tant de couleurs ?",
+  "nl": "Waarom heeft vuurwerk zoveel verschillende kleuren?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, at the fireworks show I saw red, green and blue sparkles in the sky. Who paints them up there?",
+   "fr": "Qubi, au feu d’artifice, j’ai vu des étincelles rouges, vertes et bleues dans le ciel. Qui les peint là-haut ?",
+   "nl": "Qubi, bij de vuurwerkshow zag ik rode, groene en blauwe vonken in de lucht. Wie schildert ze daarboven?",
+   "img": "Whyzz watches colorful fireworks in the night sky"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Nobody paints them, the atoms do! Fireworks hold special powders with different metals inside and each metal glows in its own color when it gets very hot.",
+   "fr": "Personne ne les peint, ce sont les atomes ! Les feux d’artifice contiennent des poudres spéciales avec différents métaux et chaque métal brille de sa propre couleur quand il devient très chaud.",
+   "nl": "Niemand schildert ze, dat doen de atomen! In vuurwerk zitten speciale poeders met verschillende metalen en elk metaal gloeit in zijn eigen kleur als het heel heet wordt.",
+   "img": "Qubi shows glowing jars of colorful powders"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Inside each atom, tiny electrons sit on energy steps, like a staircase. Heat makes them jump up and when they hop back down, they give off a flash of light.",
+   "fr": "Dans chaque atome, de minuscules électrons sont posés sur des marches d’énergie, comme un escalier. La chaleur les fait sauter vers le haut et quand ils redescendent, ils lancent un éclair de lumière.",
+   "nl": "In elk atoom zitten piepkleine elektronen op energietreden, net als een trap. Door de hitte springen ze omhoog en als ze terug omlaag hoppen, geven ze een flitsje licht.",
+   "img": "Tiny glowing electrons hop down a giant glowing staircase"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So if I hop down one stair step, will I glow like a firework? Watch this… hmm, still not glowing!",
+   "fr": "Alors si je saute d’une marche, je vais briller comme un feu d’artifice ? Regarde… hmm, je ne brille toujours pas !",
+   "nl": "Dus als ik van één traptrede spring, ga ik dan gloeien als vuurwerk? Kijk… hmm, ik gloei nog steeds niet!",
+   "img": "Whyzz hops down one step and checks if he glows, Qubi laughs"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Ha, you’re way too big, Whyzz! Did you know each metal has steps of its own size, so strontium glows red, copper blue and sodium yellow?",
+   "fr": "Ha, tu es bien trop grand, Whyzz ! Savais-tu que chaque métal a des marches d’une taille différente, si bien que le strontium brille en rouge, le cuivre en bleu et le sodium en jaune ?",
+   "nl": "Haha, daarvoor ben je veel te groot, Whyzz! Wist je dat elk metaal treden van een eigen grootte heeft, zodat strontium rood gloeit, koper blauw en natrium geel?",
+   "img": "Three glowing flames in red, blue and yellow, Qubi points"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So every firework color is a message from tiny jumping electrons! If you could invent a brand-new firework, what colors would you mix?",
+   "fr": "Donc chaque couleur de feu d’artifice est un message de minuscules électrons qui sautent ! Si tu pouvais inventer un tout nouveau feu d’artifice, quelles couleurs mélangerais-tu ?",
+   "nl": "Dus elke vuurwerkkleur is een boodschap van piepkleine springende elektronen! Als jij een gloednieuw vuurwerk mocht uitvinden, welke kleuren zou je dan mengen?",
+   "img": "Whyzz and Qubi cheer under a rainbow of fireworks"
+  }
+ ],
+ "prompts": [
+  "On a grassy hill at night Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits on a picnic blanket and points up in wonder at big bursts of red, green and blue fireworks sparkling in the dark sky over a small town, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge sits beside him smiling. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright science lab with a starry window Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge proudly holds up a glass jar of glowing red powder, more jars with glowing green, blue and yellow powders stand on the table, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge peeks at them with big curious eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Inside a magical glowing atom world a giant shiny staircase of light floats in space, tiny cute glowing round electrons hop down the steps and each one gives off a little flash of colored light, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge explains with open arms, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with his mouth open. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy house hallway Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge hops down from the bottom step of a staircase with his arms spread wide and then looks down at himself with a confused face because he is not glowing, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge laughs and holds his belly. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright science lab three small safe glowing flames burn in glass dishes, one bright red, one bright blue and one bright yellow, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge points at them like a teacher, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stares at the colors amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a grassy hill at night Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge jump and cheer with their arms in the air while a huge rainbow of colorful fireworks in red, orange, yellow, green, blue and purple fills the dark sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Who makes the colors in fireworks?",
+    "fr": "Qui fabrique les couleurs des feux d’artifice ?",
+    "nl": "Wie maakt de kleuren in vuurwerk?"
+   },
+   "o": {
+    "en": [
+     "A painter in the sky",
+     "The atoms of different metals",
+     "The clouds"
+    ],
+    "fr": [
+     "Un peintre dans le ciel",
+     "Les atomes de différents métaux",
+     "Les nuages"
+    ],
+    "nl": [
+     "Een schilder in de lucht",
+     "De atomen van verschillende metalen",
+     "De wolken"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Where do tiny electrons sit in an atom?",
+    "fr": "Où sont posés les minuscules électrons dans un atome ?",
+    "nl": "Waar zitten piepkleine elektronen in een atoom?"
+   },
+   "o": {
+    "en": [
+     "On energy steps, like a staircase",
+     "In a little house",
+     "On the Moon"
+    ],
+    "fr": [
+     "Sur des marches d’énergie, comme un escalier",
+     "Dans une petite maison",
+     "Sur la Lune"
+    ],
+    "nl": [
+     "Op energietreden, net als een trap",
+     "In een klein huisje",
+     "Op de maan"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "When do electrons give off a flash of light?",
+    "fr": "Quand les électrons lancent-ils un éclair de lumière ?",
+    "nl": "Wanneer geven elektronen een flitsje licht?"
+   },
+   "o": {
+    "en": [
+     "When they fall asleep",
+     "When it rains",
+     "When they hop back down a step"
+    ],
+    "fr": [
+     "Quand ils s’endorment",
+     "Quand il pleut",
+     "Quand ils redescendent d’une marche"
+    ],
+    "nl": [
+     "Als ze in slaap vallen",
+     "Als het regent",
+     "Als ze een trede terug omlaag hoppen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Why didn’t Whyzz glow when he hopped down a step?",
+    "fr": "Pourquoi Whyzz ne brillait-il pas quand il a sauté d’une marche ?",
+    "nl": "Waarom gloeide Whyzz niet toen hij van een trede sprong?"
+   },
+   "o": {
+    "en": [
+     "He forgot his cap",
+     "He is way too big",
+     "It was daytime"
+    ],
+    "fr": [
+     "Il avait oublié sa casquette",
+     "Il est bien trop grand",
+     "Il faisait jour"
+    ],
+    "nl": [
+     "Hij was zijn pet vergeten",
+     "Hij is veel te groot",
+     "Het was overdag"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Which color does strontium glow?",
+    "fr": "De quelle couleur brille le strontium ?",
+    "nl": "In welke kleur gloeit strontium?"
+   },
+   "o": {
+    "en": [
+     "Blue",
+     "Yellow",
+     "Red"
+    ],
+    "fr": [
+     "Bleu",
+     "Jaune",
+     "Rouge"
+    ],
+    "nl": [
+     "Blauw",
+     "Geel",
+     "Rood"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Firework color match",
+   "fr": "Associe les couleurs du feu d’artifice",
+   "nl": "Koppel de vuurwerkkleuren"
+  },
+  "intro": {
+   "en": "Each metal glows in its own color. Match each metal to its color!",
+   "fr": "Chaque métal brille de sa propre couleur. Associe chaque métal à sa couleur !",
+   "nl": "Elk metaal gloeit in zijn eigen kleur. Koppel elk metaal aan zijn kleur!"
+  },
+  "done": {
+   "en": "Boom! Your fireworks light up the sky.",
+   "fr": "Boum ! Ton feu d’artifice illumine le ciel.",
+   "nl": "Boem! Jouw vuurwerk verlicht de lucht."
+  },
+  "left": {
+   "en": [
+    "Strontium",
+    "Copper",
+    "Sodium",
+    "Barium"
+   ],
+   "fr": [
+    "Strontium",
+    "Cuivre",
+    "Sodium",
+    "Baryum"
+   ],
+   "nl": [
+    "Strontium",
+    "Koper",
+    "Natrium",
+    "Barium"
+   ]
+  },
+  "right": {
+   "en": [
+    "Red",
+    "Blue",
+    "Yellow",
+    "Green"
+   ],
+   "fr": [
+    "Rouge",
+    "Bleu",
+    "Jaune",
+    "Vert"
+   ],
+   "nl": [
+    "Rood",
+    "Blauw",
+    "Geel",
+    "Groen"
+   ]
+  }
+ }
+}
