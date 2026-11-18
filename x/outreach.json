@@ -62,7 +62,7 @@
       "url": "https://x.com/NASA/status/2122740072386609201",
       "seen": "2026-11-17",
       "draft": "Roman's 2.4-meter mirror is the same size as Hubble's, yet each snapshot takes in about 100 times more sky. Which first image are you most curious about: a deep galaxy field or the crowded core of our Milky Way?",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@NASAEarth",
@@ -70,7 +70,7 @@
       "url": "https://x.com/NASAEarth/status/2122723237570253179",
       "seen": "2026-11-17",
       "draft": "Good reminder that one big year doesn't undo the trend: the latest UN assessment still expects the Antarctic ozone layer to return to 1980 levels around 2066 thanks to the Montreal Protocol. Wild how much a stubborn polar vortex can still sway a single season.",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@ScienceMagazine",
@@ -78,7 +78,7 @@
       "url": "https://x.com/ScienceMagazine/status/2122751381731786808",
       "seen": "2026-11-17",
       "draft": "Pyrrolysine has a great backstory: first found in 2002 in the methane-making microbe Methanosarcina barkeri, it became known as the 22nd genetically encoded amino acid. Do these archaea still use that codon as a stop anywhere, or has it fully switched meaning?",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@SkyandTelescope",
@@ -86,6 +86,38 @@
       "url": "https://x.com/SkyandTelescope/status/2122735272244711836",
       "seen": "2026-11-17",
       "draft": "One light-day is about 173 times the Earth-Sun distance, so a hello to Voyager 1 now takes a full day to arrive and another day for the answer to come back. Not bad for a spacecraft launched in 1977.",
+      "status": "skipped"
+    },
+    {
+      "account": "@NASAWebb",
+      "post": "Two stars enter...\n\nWebb observed the aftermath of a star merger, helping astronomers piece together the fate of the pai",
+      "url": "https://x.com/NASAWebb/status/2123084369023615031",
+      "seen": "2026-11-18",
+      "draft": "From first contact to merger took only about seven orbits, while other known binary star mergers needed thousands. Catching it with Webb just 47 days after the eruption peaked makes this astronomy almost in real time.",
+      "status": "drafted"
+    },
+    {
+      "account": "@ScienceNews",
+      "post": "Spacecraft have only ever zipped past binary asteroids, never stayed to explore in detail. That ends now.",
+      "url": "https://x.com/ScienceNews/status/2122778102036148360",
+      "seen": "2026-11-18",
+      "draft": "Binary asteroids may make up about 15 percent of all asteroids, so a close look at Didymos and Dimorphos could teach us about a whole class of objects. Most curious about the Juventas radar: will Dimorphos turn out to be rubble all the way down?",
+      "status": "drafted"
+    },
+    {
+      "account": "@sciam",
+      "post": "NASA’s Voyager 1 is now the first human-made object to reach a distance of one light-day from Earth. But it’s unlikely t",
+      "url": "https://x.com/sciam/status/2123008373289308466",
+      "seen": "2026-11-18",
+      "draft": "Even at about 38,000 miles per hour, Voyager 1 needed 49 years to cover one light-day, which is why faster solar sails are so exciting. If a new envoy could carry essentially all published human knowledge, what would you put on top of the pile?",
+      "status": "drafted"
+    },
+    {
+      "account": "@QuantaMagazine",
+      "post": "How is it possible that a black hole’s surface tells us about its interior volume? This finding is a critical clue towar",
+      "url": "https://x.com/QuantaMagazine/status/2122805730629542127",
+      "seen": "2026-11-18",
+      "draft": "The idea that a black hole's information may be written on its surface rather than stored in its volume never stops being strange. Do physicists expect the same holographic picture to hold for our own expanding universe?",
       "status": "drafted"
     }
   ]
