@@ -94,7 +94,7 @@
       "url": "https://x.com/NASAWebb/status/2123084369023615031",
       "seen": "2026-11-18",
       "draft": "From first contact to merger took only about seven orbits, while other known binary star mergers needed thousands. Catching it with Webb just 47 days after the eruption peaked makes this astronomy almost in real time.",
-      "status": "drafted"
+      "status": "posted"
     },
     {
       "account": "@ScienceNews",
@@ -102,7 +102,7 @@
       "url": "https://x.com/ScienceNews/status/2122778102036148360",
       "seen": "2026-11-18",
       "draft": "Binary asteroids may make up about 15 percent of all asteroids, so a close look at Didymos and Dimorphos could teach us about a whole class of objects. Most curious about the Juventas radar: will Dimorphos turn out to be rubble all the way down?",
-      "status": "drafted"
+      "status": "posted"
     },
     {
       "account": "@sciam",
@@ -110,7 +110,7 @@
       "url": "https://x.com/sciam/status/2123008373289308466",
       "seen": "2026-11-18",
       "draft": "Even at about 38,000 miles per hour, Voyager 1 needed 49 years to cover one light-day, which is why faster solar sails are so exciting. If a new envoy could carry essentially all published human knowledge, what would you put on top of the pile?",
-      "status": "drafted"
+      "status": "posted"
     },
     {
       "account": "@QuantaMagazine",
@@ -118,6 +118,22 @@
       "url": "https://x.com/QuantaMagazine/status/2122805730629542127",
       "seen": "2026-11-18",
       "draft": "The idea that a black hole's information may be written on its surface rather than stored in its volume never stops being strange. Do physicists expect the same holographic picture to hold for our own expanding universe?",
+      "status": "posted"
+    },
+    {
+      "account": "@NASA",
+      "post": "These baby stars are going straight to the top of the charts. A new album from @ChandraXray collects snapshots of baby st",
+      "url": "https://x.com/NASA/status/2123435938848067841",
+      "seen": "2026-11-19",
+      "draft": "Love the detail in the Orion track: the more than a thousand young stars Chandra sees there become twinkling sounds while the diffuse X-ray glow plays as pure high tones. Which nursery sounds best to you: Orion, M82, the Cosmic Cliffs or Rho Ophiuchi?",
+      "status": "drafted"
+    },
+    {
+      "account": "@esaoperations",
+      "post": "Big news! @esa's Deep Space Antenna 4 (DSA 4) can now send commands to two spacecraft simultaneously in X-band. DSA 4 is p",
+      "url": "https://x.com/esaoperations/status/2123454735365681588",
+      "seen": "2026-11-19",
+      "draft": "Mars is the perfect test bed: Mars Express and TGO sit close enough in the sky that one pointing of the 35 m dish reaches both, like handing two people different notes in a single move. Could the same trick one day help missions flying near Mercury?",
       "status": "drafted"
     }
   ]
