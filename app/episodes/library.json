@@ -13204,6 +13204,2441 @@
    },
    "added": "2026-11-17",
    "voice": true
+  },
+  {
+   "id": "pixel-20261118",
+   "world": "pixel",
+   "guide": "Pixel",
+   "title": {
+    "en": "How can you spot a fake photo?",
+    "fr": "Comment repérer une fausse photo ?",
+    "nl": "Hoe herken je een nepfoto?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, I just saw a photo of a cat surfing a giant wave! Is that real or is someone playing a trick on me?",
+     "fr": "Pixel, je viens de voir la photo d’un chat qui surfe sur une vague géante ! C’est vrai ou quelqu’un me joue un tour ?",
+     "nl": "Pixel, ik zag net een foto van een kat die op een gigantische golf surft! Is dat echt of houdt iemand me voor de gek?",
+     "img": "Whyzz stares at a tablet photo of a surfing cat"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Good question! Computers can change photos or even make brand-new ones that look real, so we have to become photo detectives.",
+     "fr": "Bonne question ! Les ordinateurs peuvent modifier des photos ou même en créer de toutes nouvelles qui ont l’air vraies, alors on doit devenir des détectives de photos.",
+     "nl": "Goede vraag! Computers kunnen foto’s veranderen of zelfs gloednieuwe maken die echt lijken, dus moeten we fotodetectives worden.",
+     "img": "Pixel and Whyzz with magnifying glasses as photo detectives"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I’ve got it! Fake photos smell funny, so I’ll just sniff the screen. Hmm, it smells like… tablet.",
+     "fr": "J’ai trouvé ! Les fausses photos sentent bizarre, alors je vais renifler l’écran. Hmm, ça sent… la tablette.",
+     "nl": "Ik weet het! Nepfoto’s ruiken raar, dus ik snuffel gewoon aan het scherm. Hmm, het ruikt naar… tablet.",
+     "img": "Whyzz sniffs a tablet screen, Pixel giggles"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, noses don’t work on screens! Use your eyes instead and look for hands with too many fingers, bent lines, blurry edges or shadows going the wrong way.",
+     "fr": "Ha, le nez ne marche pas sur un écran ! Utilise plutôt tes yeux et cherche des mains avec trop de doigts, des lignes tordues, des bords flous ou des ombres dans le mauvais sens.",
+     "nl": "Haha, neuzen werken niet op schermen! Gebruik liever je ogen en zoek naar handen met te veel vingers, kromme lijnen, wazige randjes of schaduwen die de verkeerde kant op vallen.",
+     "img": "A big floating picture with clues: a six-finger hand and a wrong shadow"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know experts also check where a photo first came from? And if a picture surprises you a lot, stop and check it with a grown-up!",
+     "fr": "Savais-tu que les experts vérifient aussi d’où vient une photo au départ ? Et si une image te surprend beaucoup, arrête-toi et vérifie-la avec un adulte !",
+     "nl": "Wist je dat experts ook nagaan waar een foto oorspronkelijk vandaan komt? En als een foto je heel erg verrast, stop dan even en check hem samen met een volwassene!",
+     "img": "Pixel follows a glowing trail from a photo back to an old camera"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So that surfing cat was probably fake, but being a photo detective is real fun! What clue would you look for first in a strange photo?",
+     "fr": "Donc ce chat surfeur était sûrement faux, mais être détective de photos, c’est vraiment amusant ! Quel indice chercherais-tu en premier dans une photo bizarre ?",
+     "nl": "Dus die surfende kat was waarschijnlijk nep, maar fotodetective zijn is echt leuk! Naar welke aanwijzing zou jij als eerste zoeken in een vreemde foto?",
+     "img": "Whyzz and Pixel in detective hats give a thumbs-up"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What can computers do with photos?",
+      "fr": "Que peuvent faire les ordinateurs avec des photos ?",
+      "nl": "Wat kunnen computers met foto’s doen?"
+     },
+     "o": {
+      "en": [
+       "Only make them black and white",
+       "Change them or make new ones that look real",
+       "Nothing at all"
+      ],
+      "fr": [
+       "Seulement les mettre en noir et blanc",
+       "Les modifier ou en créer de nouvelles qui ont l’air vraies",
+       "Rien du tout"
+      ],
+      "nl": [
+       "Ze alleen zwart-wit maken",
+       "Ze veranderen of nieuwe maken die echt lijken",
+       "Helemaal niets"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What did Whyzz try first to find a fake?",
+      "fr": "Qu’a essayé Whyzz en premier pour trouver une fausse photo ?",
+      "nl": "Wat probeerde Whyzz eerst om een nepfoto te vinden?"
+     },
+     "o": {
+      "en": [
+       "Sniff the screen",
+       "Lick the tablet",
+       "Shout at the photo"
+      ],
+      "fr": [
+       "Renifler l’écran",
+       "Lécher la tablette",
+       "Crier sur la photo"
+      ],
+      "nl": [
+       "Aan het scherm snuffelen",
+       "De tablet aflikken",
+       "Tegen de foto roepen"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Which clue can show that a photo is fake?",
+      "fr": "Quel indice peut montrer qu’une photo est fausse ?",
+      "nl": "Welke aanwijzing kan tonen dat een foto nep is?"
+     },
+     "o": {
+      "en": [
+       "A blue sky",
+       "A smiling face",
+       "A shadow going the wrong way"
+      ],
+      "fr": [
+       "Un ciel bleu",
+       "Un visage souriant",
+       "Une ombre dans le mauvais sens"
+      ],
+      "nl": [
+       "Een blauwe lucht",
+       "Een lachend gezicht",
+       "Een schaduw die de verkeerde kant op valt"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What do experts also check?",
+      "fr": "Que vérifient aussi les experts ?",
+      "nl": "Wat gaan experts ook na?"
+     },
+     "o": {
+      "en": [
+       "The photo’s favorite color",
+       "Where the photo first came from",
+       "How heavy the photo is"
+      ],
+      "fr": [
+       "La couleur préférée de la photo",
+       "D’où vient la photo au départ",
+       "Combien pèse la photo"
+      ],
+      "nl": [
+       "De lievelingskleur van de foto",
+       "Waar de foto oorspronkelijk vandaan komt",
+       "Hoe zwaar de foto is"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What should you do if a photo surprises you a lot?",
+      "fr": "Que dois-tu faire si une photo te surprend beaucoup ?",
+      "nl": "Wat doe je als een foto je heel erg verrast?"
+     },
+     "o": {
+      "en": [
+       "Stop and check it with a grown-up",
+       "Share it with everyone right away",
+       "Close your eyes"
+      ],
+      "fr": [
+       "T’arrêter et la vérifier avec un adulte",
+       "La partager tout de suite avec tout le monde",
+       "Fermer les yeux"
+      ],
+      "nl": [
+       "Even stoppen en hem checken met een volwassene",
+       "Hem meteen met iedereen delen",
+       "Je ogen dichtdoen"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Photo detective",
+     "fr": "Détective de photos",
+     "nl": "Fotodetective"
+    },
+    "intro": {
+     "en": "Which of these could be clues that a photo is fake? Pick all the right ones!",
+     "fr": "Lesquels de ces indices peuvent montrer qu’une photo est fausse ? Choisis tous les bons !",
+     "nl": "Welke van deze dingen kunnen aanwijzingen zijn dat een foto nep is? Kies alle juiste!"
+    },
+    "done": {
+     "en": "Great detective work! You found all the clues.",
+     "fr": "Super travail de détective ! Tu as trouvé tous les indices.",
+     "nl": "Goed speurwerk! Je hebt alle aanwijzingen gevonden."
+    },
+    "items": {
+     "en": [
+      "A hand with six fingers",
+      "Shadows pointing different ways",
+      "A sunny day",
+      "Letters that look like scribbles",
+      "A straight wall that bends",
+      "A dog with a collar",
+      "People smiling"
+     ],
+     "fr": [
+      "Une main à six doigts",
+      "Des ombres dans des sens différents",
+      "Une journée ensoleillée",
+      "Des lettres qui ressemblent à des gribouillis",
+      "Un mur droit qui se tord",
+      "Un chien avec un collier",
+      "Des gens qui sourient"
+     ],
+     "nl": [
+      "Een hand met zes vingers",
+      "Schaduwen die verschillende kanten op wijzen",
+      "Een zonnige dag",
+      "Letters die op krabbels lijken",
+      "Een rechte muur die krom loopt",
+      "Een hond met een halsband",
+      "Mensen die lachen"
+     ]
+    },
+    "good": [
+     0,
+     1,
+     3,
+     4
+    ]
+   },
+   "worldName": {
+    "en": "AI & Data",
+    "fr": "IA et données",
+    "nl": "AI en data"
+   },
+   "adult": {
+    "en": "For grown-ups: the AI & Data world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde IA et données dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld AI en data in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-19",
+   "voice": true
+  },
+  {
+   "id": "qubi-20261118",
+   "world": "qubi",
+   "guide": "Qubi",
+   "title": {
+    "en": "Why are fireworks so many different colors?",
+    "fr": "Pourquoi les feux d’artifice ont-ils tant de couleurs ?",
+    "nl": "Waarom heeft vuurwerk zoveel verschillende kleuren?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, at the fireworks show I saw red, green and blue sparkles in the sky. Who paints them up there?",
+     "fr": "Qubi, au feu d’artifice, j’ai vu des étincelles rouges, vertes et bleues dans le ciel. Qui les peint là-haut ?",
+     "nl": "Qubi, bij de vuurwerkshow zag ik rode, groene en blauwe vonken in de lucht. Wie schildert ze daarboven?",
+     "img": "Whyzz watches colorful fireworks in the night sky"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Nobody paints them, the atoms do! Fireworks hold special powders with different metals inside and each metal glows in its own color when it gets very hot.",
+     "fr": "Personne ne les peint, ce sont les atomes ! Les feux d’artifice contiennent des poudres spéciales avec différents métaux et chaque métal brille de sa propre couleur quand il devient très chaud.",
+     "nl": "Niemand schildert ze, dat doen de atomen! In vuurwerk zitten speciale poeders met verschillende metalen en elk metaal gloeit in zijn eigen kleur als het heel heet wordt.",
+     "img": "Qubi shows glowing jars of colorful powders"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Inside each atom, tiny electrons sit on energy steps, like a staircase. Heat makes them jump up and when they hop back down, they give off a flash of light.",
+     "fr": "Dans chaque atome, de minuscules électrons sont posés sur des marches d’énergie, comme un escalier. La chaleur les fait sauter vers le haut et quand ils redescendent, ils lancent un éclair de lumière.",
+     "nl": "In elk atoom zitten piepkleine elektronen op energietreden, net als een trap. Door de hitte springen ze omhoog en als ze terug omlaag hoppen, geven ze een flitsje licht.",
+     "img": "Tiny glowing electrons hop down a giant glowing staircase"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So if I hop down one stair step, will I glow like a firework? Watch this… hmm, still not glowing!",
+     "fr": "Alors si je saute d’une marche, je vais briller comme un feu d’artifice ? Regarde… hmm, je ne brille toujours pas !",
+     "nl": "Dus als ik van één traptrede spring, ga ik dan gloeien als vuurwerk? Kijk… hmm, ik gloei nog steeds niet!",
+     "img": "Whyzz hops down one step and checks if he glows, Qubi laughs"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Ha, you’re way too big, Whyzz! Did you know each metal has steps of its own size, so strontium glows red, copper blue and sodium yellow?",
+     "fr": "Ha, tu es bien trop grand, Whyzz ! Savais-tu que chaque métal a des marches d’une taille différente, si bien que le strontium brille en rouge, le cuivre en bleu et le sodium en jaune ?",
+     "nl": "Haha, daarvoor ben je veel te groot, Whyzz! Wist je dat elk metaal treden van een eigen grootte heeft, zodat strontium rood gloeit, koper blauw en natrium geel?",
+     "img": "Three glowing flames in red, blue and yellow, Qubi points"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So every firework color is a message from tiny jumping electrons! If you could invent a brand-new firework, what colors would you mix?",
+     "fr": "Donc chaque couleur de feu d’artifice est un message de minuscules électrons qui sautent ! Si tu pouvais inventer un tout nouveau feu d’artifice, quelles couleurs mélangerais-tu ?",
+     "nl": "Dus elke vuurwerkkleur is een boodschap van piepkleine springende elektronen! Als jij een gloednieuw vuurwerk mocht uitvinden, welke kleuren zou je dan mengen?",
+     "img": "Whyzz and Qubi cheer under a rainbow of fireworks"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Who makes the colors in fireworks?",
+      "fr": "Qui fabrique les couleurs des feux d’artifice ?",
+      "nl": "Wie maakt de kleuren in vuurwerk?"
+     },
+     "o": {
+      "en": [
+       "A painter in the sky",
+       "The atoms of different metals",
+       "The clouds"
+      ],
+      "fr": [
+       "Un peintre dans le ciel",
+       "Les atomes de différents métaux",
+       "Les nuages"
+      ],
+      "nl": [
+       "Een schilder in de lucht",
+       "De atomen van verschillende metalen",
+       "De wolken"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Where do tiny electrons sit in an atom?",
+      "fr": "Où sont posés les minuscules électrons dans un atome ?",
+      "nl": "Waar zitten piepkleine elektronen in een atoom?"
+     },
+     "o": {
+      "en": [
+       "On energy steps, like a staircase",
+       "In a little house",
+       "On the Moon"
+      ],
+      "fr": [
+       "Sur des marches d’énergie, comme un escalier",
+       "Dans une petite maison",
+       "Sur la Lune"
+      ],
+      "nl": [
+       "Op energietreden, net als een trap",
+       "In een klein huisje",
+       "Op de maan"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "When do electrons give off a flash of light?",
+      "fr": "Quand les électrons lancent-ils un éclair de lumière ?",
+      "nl": "Wanneer geven elektronen een flitsje licht?"
+     },
+     "o": {
+      "en": [
+       "When they fall asleep",
+       "When it rains",
+       "When they hop back down a step"
+      ],
+      "fr": [
+       "Quand ils s’endorment",
+       "Quand il pleut",
+       "Quand ils redescendent d’une marche"
+      ],
+      "nl": [
+       "Als ze in slaap vallen",
+       "Als het regent",
+       "Als ze een trede terug omlaag hoppen"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Why didn’t Whyzz glow when he hopped down a step?",
+      "fr": "Pourquoi Whyzz ne brillait-il pas quand il a sauté d’une marche ?",
+      "nl": "Waarom gloeide Whyzz niet toen hij van een trede sprong?"
+     },
+     "o": {
+      "en": [
+       "He forgot his cap",
+       "He is way too big",
+       "It was daytime"
+      ],
+      "fr": [
+       "Il avait oublié sa casquette",
+       "Il est bien trop grand",
+       "Il faisait jour"
+      ],
+      "nl": [
+       "Hij was zijn pet vergeten",
+       "Hij is veel te groot",
+       "Het was overdag"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Which color does strontium glow?",
+      "fr": "De quelle couleur brille le strontium ?",
+      "nl": "In welke kleur gloeit strontium?"
+     },
+     "o": {
+      "en": [
+       "Blue",
+       "Yellow",
+       "Red"
+      ],
+      "fr": [
+       "Bleu",
+       "Jaune",
+       "Rouge"
+      ],
+      "nl": [
+       "Blauw",
+       "Geel",
+       "Rood"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Firework color match",
+     "fr": "Associe les couleurs du feu d’artifice",
+     "nl": "Koppel de vuurwerkkleuren"
+    },
+    "intro": {
+     "en": "Each metal glows in its own color. Match each metal to its color!",
+     "fr": "Chaque métal brille de sa propre couleur. Associe chaque métal à sa couleur !",
+     "nl": "Elk metaal gloeit in zijn eigen kleur. Koppel elk metaal aan zijn kleur!"
+    },
+    "done": {
+     "en": "Boom! Your fireworks light up the sky.",
+     "fr": "Boum ! Ton feu d’artifice illumine le ciel.",
+     "nl": "Boem! Jouw vuurwerk verlicht de lucht."
+    },
+    "left": {
+     "en": [
+      "Strontium",
+      "Copper",
+      "Sodium",
+      "Barium"
+     ],
+     "fr": [
+      "Strontium",
+      "Cuivre",
+      "Sodium",
+      "Baryum"
+     ],
+     "nl": [
+      "Strontium",
+      "Koper",
+      "Natrium",
+      "Barium"
+     ]
+    },
+    "right": {
+     "en": [
+      "Red",
+      "Blue",
+      "Yellow",
+      "Green"
+     ],
+     "fr": [
+      "Rouge",
+      "Bleu",
+      "Jaune",
+      "Vert"
+     ],
+     "nl": [
+      "Rood",
+      "Blauw",
+      "Geel",
+      "Groen"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Quantum",
+    "fr": "Quantique",
+    "nl": "Quantum"
+   },
+   "adult": {
+    "en": "For grown-ups: the Quantum world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Quantique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Quantum in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-19",
+   "voice": true
+  },
+  {
+   "id": "bloom-20261118",
+   "world": "bloom",
+   "guide": "Bloom",
+   "title": {
+    "en": "Why do leaves change color in the fall?",
+    "fr": "Pourquoi les feuilles changent-elles de couleur en automne ?",
+    "nl": "Waarom verkleuren de bladeren in de herfst?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Bloom, the leaves in the park turned orange, red and yellow! Did the trees get a new paint job for fall?",
+     "fr": "Bloom, les feuilles du parc sont devenues orange, rouges et jaunes ! Les arbres se sont fait repeindre pour l’automne ?",
+     "nl": "Bloom, de bladeren in het park zijn oranje, rood en geel geworden! Hebben de bomen een nieuw verfje gekregen voor de herfst?",
+     "img": "Whyzz in a colorful fall park holding up leaves"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "No paint needed! In summer, leaves are full of chlorophyll, a green helper that catches sunlight to make food for the tree.",
+     "fr": "Pas besoin de peinture ! En été, les feuilles sont pleines de chlorophylle, un petit assistant vert qui capte la lumière du soleil pour fabriquer la nourriture de l’arbre.",
+     "nl": "Geen verf nodig! In de zomer zitten bladeren vol bladgroen, een groene helper die zonlicht opvangt om voedsel te maken voor de boom.",
+     "img": "A giant green summer leaf soaking up sunbeams"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "In fall the days get shorter and colder, so the tree stops making chlorophyll. The green fades away and the yellow and orange that hid underneath all summer finally show up!",
+     "fr": "En automne, les jours raccourcissent et refroidissent, alors l’arbre arrête de fabriquer de la chlorophylle. Le vert disparaît et le jaune et l’orange, cachés dessous tout l’été, apparaissent enfin !",
+     "nl": "In de herfst worden de dagen korter en kouder, dus stopt de boom met bladgroen maken. Het groen verdwijnt en het geel en oranje die de hele zomer verstopt zaten, komen eindelijk tevoorschijn!",
+     "img": "A leaf changing from green to yellow and orange"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So the leaves wore a green jacket over a yellow T-shirt all summer? I do that too, except my T-shirt has ketchup stains!",
+     "fr": "Donc les feuilles portaient une veste verte sur un t-shirt jaune tout l’été ? Moi aussi, sauf que mon t-shirt a des taches de ketchup !",
+     "nl": "Dus de bladeren droegen de hele zomer een groene jas over een geel T-shirt? Dat doe ik ook, alleen zitten er ketchupvlekken op mijn T-shirt!",
+     "img": "Whyzz opens his jacket to show a T-shirt with ketchup stains, Bloom laughs"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Ha, exactly like that! Did you know the bright red is brand-new, because some trees make it in fall, a bit like sunscreen for their leaves?",
+     "fr": "Ha, exactement comme ça ! Savais-tu que le rouge vif est tout nouveau, car certains arbres le fabriquent en automne, un peu comme une crème solaire pour leurs feuilles ?",
+     "nl": "Haha, precies zo! Wist je dat het felle rood gloednieuw is, omdat sommige bomen het in de herfst aanmaken, een beetje zoals zonnecrème voor hun bladeren?",
+     "img": "A bright red maple tree glowing in the sun, Bloom points"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So fall colors are the tree’s hidden treasures coming out before winter! What’s the most colorful leaf you have ever found?",
+     "fr": "Donc les couleurs d’automne sont les trésors cachés de l’arbre qui sortent avant l’hiver ! Quelle est la feuille la plus colorée que tu aies jamais trouvée ?",
+     "nl": "Dus herfstkleuren zijn de verborgen schatten van de boom die voor de winter tevoorschijn komen! Wat is het kleurrijkste blad dat jij ooit hebt gevonden?",
+     "img": "Whyzz and Bloom jump into a big pile of colorful leaves"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What makes leaves green in summer?",
+      "fr": "Qu’est-ce qui rend les feuilles vertes en été ?",
+      "nl": "Waardoor zijn bladeren groen in de zomer?"
+     },
+     "o": {
+      "en": [
+       "Green paint",
+       "Chlorophyll",
+       "Grass juice"
+      ],
+      "fr": [
+       "De la peinture verte",
+       "La chlorophylle",
+       "Du jus d’herbe"
+      ],
+      "nl": [
+       "Groene verf",
+       "Bladgroen",
+       "Grassap"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does chlorophyll do?",
+      "fr": "Que fait la chlorophylle ?",
+      "nl": "Wat doet bladgroen?"
+     },
+     "o": {
+      "en": [
+       "Catches sunlight to make food",
+       "Keeps the tree warm",
+       "Scares away birds"
+      ],
+      "fr": [
+       "Elle capte la lumière pour fabriquer de la nourriture",
+       "Elle garde l’arbre au chaud",
+       "Elle fait peur aux oiseaux"
+      ],
+      "nl": [
+       "Het vangt zonlicht op om voedsel te maken",
+       "Het houdt de boom warm",
+       "Het jaagt vogels weg"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why does the tree stop making chlorophyll in fall?",
+      "fr": "Pourquoi l’arbre arrête-t-il de fabriquer de la chlorophylle en automne ?",
+      "nl": "Waarom stopt de boom in de herfst met bladgroen maken?"
+     },
+     "o": {
+      "en": [
+       "It gets bored",
+       "It wants to sleep in",
+       "Days get shorter and colder"
+      ],
+      "fr": [
+       "Il s’ennuie",
+       "Il veut faire la grasse matinée",
+       "Les jours raccourcissent et refroidissent"
+      ],
+      "nl": [
+       "Hij verveelt zich",
+       "Hij wil uitslapen",
+       "De dagen worden korter en kouder"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Where were the yellow and orange all summer?",
+      "fr": "Où étaient le jaune et l’orange tout l’été ?",
+      "nl": "Waar zaten het geel en oranje de hele zomer?"
+     },
+     "o": {
+      "en": [
+       "In the roots",
+       "Hiding under the green",
+       "In the clouds"
+      ],
+      "fr": [
+       "Dans les racines",
+       "Cachés sous le vert",
+       "Dans les nuages"
+      ],
+      "nl": [
+       "In de wortels",
+       "Verstopt onder het groen",
+       "In de wolken"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Which fall color is brand-new?",
+      "fr": "Quelle couleur d’automne est toute nouvelle ?",
+      "nl": "Welke herfstkleur is gloednieuw?"
+     },
+     "o": {
+      "en": [
+       "Yellow",
+       "Green",
+       "Red"
+      ],
+      "fr": [
+       "Le jaune",
+       "Le vert",
+       "Le rouge"
+      ],
+      "nl": [
+       "Geel",
+       "Groen",
+       "Rood"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "A leaf’s year",
+     "fr": "L’année d’une feuille",
+     "nl": "Het jaar van een blad"
+    },
+    "intro": {
+     "en": "Put a leaf’s year in the right order!",
+     "fr": "Remets l’année d’une feuille dans le bon ordre !",
+     "nl": "Zet het jaar van een blad in de juiste volgorde!"
+    },
+    "done": {
+     "en": "Well done! You followed a leaf through its whole year.",
+     "fr": "Bravo ! Tu as suivi une feuille pendant toute son année.",
+     "nl": "Goed gedaan! Je hebt een blad zijn hele jaar gevolgd."
+    },
+    "items": {
+     "en": [
+      "A tiny bud opens in spring",
+      "The green leaf catches sunlight all summer",
+      "Days get shorter and colder",
+      "The green fades and yellow and orange appear",
+      "The leaf falls to the ground"
+     ],
+     "fr": [
+      "Un petit bourgeon s’ouvre au printemps",
+      "La feuille verte capte le soleil tout l’été",
+      "Les jours raccourcissent et refroidissent",
+      "Le vert s’efface et le jaune et l’orange apparaissent",
+      "La feuille tombe par terre"
+     ],
+     "nl": [
+      "Een klein knopje gaat open in de lente",
+      "Het groene blad vangt de hele zomer zonlicht op",
+      "De dagen worden korter en kouder",
+      "Het groen verdwijnt en geel en oranje verschijnen",
+      "Het blad valt op de grond"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Biotech",
+    "fr": "Biotech",
+    "nl": "Biotech"
+   },
+   "adult": {
+    "en": "For grown-ups: the Biotech world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Biotech dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Biotech in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-19",
+   "voice": true
+  },
+  {
+   "id": "robo-20261118",
+   "world": "robo",
+   "guide": "Pixel",
+   "title": {
+    "en": "How do robots help in a hospital?",
+    "fr": "Comment les robots aident-ils à l’hôpital ?",
+    "nl": "Hoe helpen robots in een ziekenhuis?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, at the hospital a little robot rolled right past me and went beep beep! What was a robot doing there?",
+     "fr": "Pixel, à l’hôpital, un petit robot est passé juste à côté de moi en faisant bip bip ! Qu’est-ce qu’un robot faisait là ?",
+     "nl": "Pixel, in het ziekenhuis reed er een robotje vlak langs me en het deed biep biep! Wat deed een robot daar?",
+     "img": "A small friendly robot rolls past Whyzz in a hospital hall"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "That was probably a delivery robot! It carries medicine, meals and clean sheets down the halls, so nurses have more time for their patients.",
+     "fr": "C’était sûrement un robot livreur ! Il transporte des médicaments, des repas et des draps propres dans les couloirs, pour que les infirmiers aient plus de temps pour leurs patients.",
+     "nl": "Dat was waarschijnlijk een bezorgrobot! Hij brengt medicijnen, maaltijden en schone lakens door de gangen, zodat verpleegkundigen meer tijd hebben voor hun patiënten.",
+     "img": "The delivery robot carries trays and sheets, Pixel explains"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Can I order a robot to bring me ice cream in bed? Extra sprinkles, please!",
+     "fr": "Est-ce que je peux commander un robot pour qu’il m’apporte une glace au lit ? Avec plein de vermicelles, s’il te plaît !",
+     "nl": "Kan ik een robot bestellen die ijs naar mijn bed brengt? Met extra hagelslag, alsjeblieft!",
+     "img": "Whyzz dreams of a robot bringing him a huge ice cream"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, only if the doctor says so! Some robot arms help surgeons do very careful work through tiny openings, while the doctor stays in control the whole time.",
+     "fr": "Ha, seulement si le médecin est d’accord ! Certains bras robotisés aident les chirurgiens à travailler très précisément par de toutes petites ouvertures, et le médecin garde le contrôle tout le temps.",
+     "nl": "Haha, alleen als de dokter het goedvindt! Sommige robotarmen helpen chirurgen om heel precies te werken via piepkleine openingen, terwijl de dokter altijd de baas blijft.",
+     "img": "A doctor at a console guides a robot arm that gently peels a grape"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know some robots help people learn to walk again? They’re wearable robot legs called exoskeletons and they give a gentle push with every step.",
+     "fr": "Savais-tu que certains robots aident des gens à réapprendre à marcher ? Ce sont des jambes robotisées qu’on porte, appelées exosquelettes, et elles donnent une petite poussée à chaque pas.",
+     "nl": "Wist je dat sommige robots mensen helpen om opnieuw te leren lopen? Het zijn robotbenen die je aantrekt, exoskeletten, en ze geven je bij elke stap een zacht duwtje.",
+     "img": "A smiling grown-up walks with a robotic leg frame"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So hospital robots carry, assist and support, while people stay the bosses! What kind of helper robot would you design for a hospital?",
+     "fr": "Donc les robots de l’hôpital transportent, assistent et soutiennent, et ce sont toujours les gens qui décident ! Quel robot assistant inventerais-tu pour un hôpital ?",
+     "nl": "Dus ziekenhuisrobots dragen, helpen en ondersteunen, en de mensen blijven de baas! Wat voor helperrobot zou jij ontwerpen voor een ziekenhuis?",
+     "img": "Whyzz and Pixel high-five next to the delivery robot"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What does a hospital delivery robot carry?",
+      "fr": "Que transporte un robot livreur à l’hôpital ?",
+      "nl": "Wat brengt een bezorgrobot in het ziekenhuis?"
+     },
+     "o": {
+      "en": [
+       "Medicine, meals and clean sheets",
+       "Toys and balloons",
+       "Cars and bikes"
+      ],
+      "fr": [
+       "Des médicaments, des repas et des draps propres",
+       "Des jouets et des ballons",
+       "Des voitures et des vélos"
+      ],
+      "nl": [
+       "Medicijnen, maaltijden en schone lakens",
+       "Speelgoed en ballonnen",
+       "Auto’s en fietsen"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why do delivery robots help nurses?",
+      "fr": "Pourquoi les robots livreurs aident-ils les infirmiers ?",
+      "nl": "Waarom helpen bezorgrobots verpleegkundigen?"
+     },
+     "o": {
+      "en": [
+       "So nurses can play games",
+       "So nurses have more time for patients",
+       "So nurses can go home"
+      ],
+      "fr": [
+       "Pour que les infirmiers puissent jouer",
+       "Pour que les infirmiers aient plus de temps pour les patients",
+       "Pour que les infirmiers puissent rentrer chez eux"
+      ],
+      "nl": [
+       "Zodat verpleegkundigen spelletjes kunnen spelen",
+       "Zodat verpleegkundigen meer tijd hebben voor patiënten",
+       "Zodat verpleegkundigen naar huis kunnen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Who is in control when a robot arm helps a surgeon?",
+      "fr": "Qui garde le contrôle quand un bras robotisé aide un chirurgien ?",
+      "nl": "Wie is de baas als een robotarm een chirurg helpt?"
+     },
+     "o": {
+      "en": [
+       "The robot",
+       "Nobody",
+       "The doctor"
+      ],
+      "fr": [
+       "Le robot",
+       "Personne",
+       "Le médecin"
+      ],
+      "nl": [
+       "De robot",
+       "Niemand",
+       "De dokter"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What do exoskeletons help people do?",
+      "fr": "À quoi les exosquelettes aident-ils les gens ?",
+      "nl": "Waarbij helpen exoskeletten mensen?"
+     },
+     "o": {
+      "en": [
+       "Fly",
+       "Learn to walk again",
+       "Sleep better"
+      ],
+      "fr": [
+       "À voler",
+       "À réapprendre à marcher",
+       "À mieux dormir"
+      ],
+      "nl": [
+       "Vliegen",
+       "Opnieuw leren lopen",
+       "Beter slapen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What did Whyzz want a robot to bring him?",
+      "fr": "Que voulait Whyzz qu’un robot lui apporte ?",
+      "nl": "Wat wilde Whyzz dat een robot hem bracht?"
+     },
+     "o": {
+      "en": [
+       "Ice cream with sprinkles",
+       "His homework",
+       "A puppy"
+      ],
+      "fr": [
+       "Une glace avec des vermicelles",
+       "Ses devoirs",
+       "Un chiot"
+      ],
+      "nl": [
+       "IJs met hagelslag",
+       "Zijn huiswerk",
+       "Een puppy"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Hospital robot match",
+     "fr": "Associe les robots de l’hôpital",
+     "nl": "Koppel de ziekenhuisrobots"
+    },
+    "intro": {
+     "en": "Each hospital robot has its own job. Match each robot to what it does!",
+     "fr": "Chaque robot de l’hôpital a sa propre tâche. Associe chaque robot à ce qu’il fait !",
+     "nl": "Elke ziekenhuisrobot heeft zijn eigen taak. Koppel elke robot aan wat hij doet!"
+    },
+    "done": {
+     "en": "Great match! The hospital robots are ready to help.",
+     "fr": "Bien joué ! Les robots de l’hôpital sont prêts à aider.",
+     "nl": "Goed gekoppeld! De ziekenhuisrobots staan klaar om te helpen."
+    },
+    "left": {
+     "en": [
+      "Delivery robot",
+      "Surgery robot arm",
+      "Exoskeleton",
+      "Cleaning robot"
+     ],
+     "fr": [
+      "Robot livreur",
+      "Bras robotisé de chirurgie",
+      "Exosquelette",
+      "Robot nettoyeur"
+     ],
+     "nl": [
+      "Bezorgrobot",
+      "Operatierobotarm",
+      "Exoskelet",
+      "Schoonmaakrobot"
+     ]
+    },
+    "right": {
+     "en": [
+      "Brings medicine and meals",
+      "Helps the doctor work very precisely",
+      "Helps people practice walking",
+      "Cleans rooms to fight germs"
+     ],
+     "fr": [
+      "Apporte les médicaments et les repas",
+      "Aide le médecin à travailler très précisément",
+      "Aide les gens à s’entraîner à marcher",
+      "Nettoie les chambres contre les microbes"
+     ],
+     "nl": [
+      "Brengt medicijnen en maaltijden",
+      "Helpt de dokter heel precies te werken",
+      "Helpt mensen om te oefenen met lopen",
+      "Maakt kamers schoon tegen bacteriën"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Robotics",
+    "fr": "Robotique",
+    "nl": "Robotica"
+   },
+   "adult": {
+    "en": "For grown-ups: the Robotics world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Robotique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Robotica in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-19",
+   "voice": true
+  },
+  {
+   "id": "energy-20261118",
+   "world": "energy",
+   "guide": "Sunny",
+   "title": {
+    "en": "How can you save energy at home?",
+    "fr": "Comment économiser l’énergie à la maison ?",
+    "nl": "Hoe kun je thuis energie besparen?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, my mom says I leave the lights on everywhere, like a lighthouse. Does one little light really use that much energy?",
+     "fr": "Sunny, ma maman dit que je laisse les lumières allumées partout, comme un phare. Une petite lampe utilise vraiment autant d’énergie ?",
+     "nl": "Sunny, mijn mama zegt dat ik overal het licht laat branden, net een vuurtoren. Gebruikt één lampje echt zoveel energie?",
+     "img": "A house with every window glowing, Whyzz looks sheepish"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "One light uses only a little, but all the lights, screens and chargers in a home add up, like drops filling a bucket. Every bit you save helps!",
+     "fr": "Une lampe n’en utilise qu’un peu, mais toutes les lampes, les écrans et les chargeurs d’une maison s’additionnent, comme des gouttes qui remplissent un seau. Chaque petite économie compte !",
+     "nl": "Eén lamp gebruikt maar een beetje, maar alle lampen, schermen en opladers in huis tellen op, zoals druppels die een emmer vullen. Elk beetje dat je bespaart, helpt!",
+     "img": "Glowing drops from lamps and screens fill a big bucket"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "The biggest energy eaters at home are often heating and hot water. Closing doors keeps the warmth inside and a shorter shower saves lots of energy.",
+     "fr": "Les plus gros mangeurs d’énergie à la maison sont souvent le chauffage et l’eau chaude. Fermer les portes garde la chaleur à l’intérieur et une douche plus courte économise beaucoup d’énergie.",
+     "nl": "De grootste energievreters in huis zijn vaak de verwarming en het warme water. Deuren dichtdoen houdt de warmte binnen en korter douchen bespaart veel energie.",
+     "img": "Sunny closes a door to keep warm air inside"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Then I’ll save energy by never showering again! Wait, why are you holding your nose, Sunny?",
+     "fr": "Alors je vais économiser de l’énergie en ne me douchant plus jamais ! Attends, pourquoi tu te bouches le nez, Sunny ?",
+     "nl": "Dan bespaar ik energie door nooit meer te douchen! Wacht, waarom knijp je je neus dicht, Sunny?",
+     "img": "Whyzz proudly refuses the shower, Sunny holds her nose"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Ha, a short shower is plenty, Whyzz! Did you know a TV or game console on standby keeps nibbling a bit of energy all day, like a sneaky snacker?",
+     "fr": "Ha, une douche courte suffit, Whyzz ! Savais-tu qu’une télé ou une console en veille grignote encore un peu d’énergie toute la journée, comme un petit gourmand discret ?",
+     "nl": "Haha, een korte douche is genoeg, Whyzz! Wist je dat een tv of spelcomputer op stand-by de hele dag stiekem een beetje energie blijft snoepen?",
+     "img": "A TV on standby with a tiny glowing light, Sunny switches it off"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So switching off, closing doors and taking short showers make me an energy hero! Which energy-saving trick will you try at home today?",
+     "fr": "Donc éteindre, fermer les portes et prendre des douches courtes font de moi un héros de l’énergie ! Quelle astuce vas-tu essayer à la maison aujourd’hui ?",
+     "nl": "Dus uitschakelen, deuren dichtdoen en kort douchen maken van mij een energieheld! Welk bespaartrucje ga jij vandaag thuis proberen?",
+     "img": "Whyzz in a hero cape switches off a light, Sunny cheers"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What did Whyzz’s mom compare him to?",
+      "fr": "À quoi la maman de Whyzz le compare-t-elle ?",
+      "nl": "Waarmee vergelijkt de mama van Whyzz hem?"
+     },
+     "o": {
+      "en": [
+       "A lighthouse",
+       "A firefly",
+       "A rocket"
+      ],
+      "fr": [
+       "À un phare",
+       "À une luciole",
+       "À une fusée"
+      ],
+      "nl": [
+       "Met een vuurtoren",
+       "Met een vuurvliegje",
+       "Met een raket"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "How do all the lights, screens and chargers in a home add up?",
+      "fr": "Comment toutes les lampes, les écrans et les chargeurs d’une maison s’additionnent-ils ?",
+      "nl": "Hoe tellen alle lampen, schermen en opladers in huis op?"
+     },
+     "o": {
+      "en": [
+       "Like birds flying away",
+       "Like drops filling a bucket",
+       "Like snow melting"
+      ],
+      "fr": [
+       "Comme des oiseaux qui s’envolent",
+       "Comme des gouttes qui remplissent un seau",
+       "Comme de la neige qui fond"
+      ],
+      "nl": [
+       "Zoals vogels die wegvliegen",
+       "Zoals druppels die een emmer vullen",
+       "Zoals sneeuw die smelt"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What are often the biggest energy eaters at home?",
+      "fr": "Quels sont souvent les plus gros mangeurs d’énergie à la maison ?",
+      "nl": "Wat zijn vaak de grootste energievreters in huis?"
+     },
+     "o": {
+      "en": [
+       "Toothbrushes",
+       "Pencils",
+       "Heating and hot water"
+      ],
+      "fr": [
+       "Les brosses à dents",
+       "Les crayons",
+       "Le chauffage et l’eau chaude"
+      ],
+      "nl": [
+       "Tandenborstels",
+       "Potloden",
+       "De verwarming en het warme water"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What keeps the warmth inside?",
+      "fr": "Qu’est-ce qui garde la chaleur à l’intérieur ?",
+      "nl": "Wat houdt de warmte binnen?"
+     },
+     "o": {
+      "en": [
+       "Opening the windows",
+       "Closing the doors",
+       "Turning on a fan"
+      ],
+      "fr": [
+       "Ouvrir les fenêtres",
+       "Fermer les portes",
+       "Allumer un ventilateur"
+      ],
+      "nl": [
+       "De ramen openzetten",
+       "De deuren dichtdoen",
+       "Een ventilator aanzetten"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does a TV on standby do?",
+      "fr": "Que fait une télé en veille ?",
+      "nl": "Wat doet een tv op stand-by?"
+     },
+     "o": {
+      "en": [
+       "It uses no energy at all",
+       "It makes new energy",
+       "It keeps nibbling a bit of energy"
+      ],
+      "fr": [
+       "Elle n’utilise aucune énergie",
+       "Elle fabrique de l’énergie",
+       "Elle grignote encore un peu d’énergie"
+      ],
+      "nl": [
+       "Hij gebruikt helemaal geen energie",
+       "Hij maakt nieuwe energie",
+       "Hij blijft een beetje energie snoepen"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Energy hero moves",
+     "fr": "Les gestes du héros de l’énergie",
+     "nl": "Energieheldenacties"
+    },
+    "intro": {
+     "en": "Which of these save energy? Pick all the energy-hero moves!",
+     "fr": "Lesquels de ces gestes économisent de l’énergie ? Choisis tous les gestes de héros !",
+     "nl": "Welke van deze dingen besparen energie? Kies alle acties van een energieheld!"
+    },
+    "done": {
+     "en": "Super! You are a real energy hero.",
+     "fr": "Super ! Tu es un vrai héros de l’énergie.",
+     "nl": "Super! Jij bent een echte energieheld."
+    },
+    "items": {
+     "en": [
+      "Switch off the light when you leave a room",
+      "Leave the fridge door open",
+      "Take a shorter shower",
+      "Close the door to keep the warmth in",
+      "Leave the TV on standby all night",
+      "Dry clothes on a line in the sun",
+      "Open the window with the heating on high"
+     ],
+     "fr": [
+      "Éteindre la lumière en quittant une pièce",
+      "Laisser la porte du frigo ouverte",
+      "Prendre une douche plus courte",
+      "Fermer la porte pour garder la chaleur",
+      "Laisser la télé en veille toute la nuit",
+      "Faire sécher le linge au soleil",
+      "Ouvrir la fenêtre avec le chauffage à fond"
+     ],
+     "nl": [
+      "Het licht uitdoen als je een kamer verlaat",
+      "De koelkastdeur open laten staan",
+      "Korter douchen",
+      "De deur dichtdoen om de warmte binnen te houden",
+      "De tv de hele nacht op stand-by laten",
+      "De was buiten in de zon laten drogen",
+      "Het raam openzetten terwijl de verwarming hoog staat"
+     ]
+    },
+    "good": [
+     0,
+     2,
+     3,
+     5
+    ]
+   },
+   "worldName": {
+    "en": "Energy",
+    "fr": "Énergie",
+    "nl": "Energie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Energy world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Énergie dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Energie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-19",
+   "voice": true
+  },
+  {
+   "id": "pixel-20261119",
+   "world": "pixel",
+   "guide": "Pixel",
+   "title": {
+    "en": "How does your phone guess your next word?",
+    "fr": "Comment ton téléphone devine-t-il ton prochain mot ?",
+    "nl": "Hoe raadt je telefoon je volgende woord?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, I typed “I want to eat a” and my phone suggested “pizza” before I finished! Can my phone read my mind?",
+     "fr": "Pixel, j’ai tapé « J’ai envie de manger une » et mon téléphone a proposé « pizza » avant que je finisse ! Il lit dans mes pensées ?",
+     "nl": "Pixel, ik typte “Ik heb zin in” en mijn telefoon stelde meteen “pizza” voor! Kan mijn telefoon gedachten lezen?",
+     "img": "Whyzz is amazed as a pizza pops out of his phone"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "No mind reading, I promise! Your phone learned from lots and lots of sentences which words often come next, just like you know “Once upon a…” ends with “time”.",
+     "fr": "Il ne lit pas dans les pensées, promis ! Ton téléphone a appris avec des tas de phrases quels mots viennent souvent après, comme tu sais que « Il était une… » finit par « fois ».",
+     "nl": "Geen gedachten lezen, beloofd! Je telefoon leerde uit heel veel zinnen welke woorden vaak volgen, net zoals jij weet dat na “Er was…” meestal “eens” komt.",
+     "img": "Pixel shows a storybook with words linking like a chain"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "It plays a guessing game with scores. After “I want to eat a” food words get high scores, while a word like “sock” gets a super low score.",
+     "fr": "Il joue à un jeu de devinettes avec des scores. Après « J’ai envie de manger une », les mots de nourriture ont de hauts scores, mais « chaussette » a un score tout petit.",
+     "nl": "Hij speelt een raadspel met scores. Na “Ik heb zin in” krijgen etenswoorden hoge scores, maar een woord als “sok” krijgt een superlage score.",
+     "img": "A game show with a pizza scoring high and a sock scoring low"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Wait, so if I type “sock” a hundred times, my phone will think I want to eat socks? Yum… not!",
+     "fr": "Attends, si je tape « chaussette » cent fois, mon téléphone va croire que je veux manger des chaussettes ? Miam… ou pas !",
+     "nl": "Wacht, als ik honderd keer “sok” typ, denkt mijn telefoon dan dat ik sokken wil eten? Lekker… niet dus!",
+     "img": "Whyzz makes a funny face at a plate of socks"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, it might suggest “sock” more often, because it also learns from the words you use! Did you know smart chatbots play a giant version of this same next-word guessing game?",
+     "fr": "Ha, il proposera peut-être plus souvent « chaussette », car il apprend aussi de tes mots ! Savais-tu que les chatbots intelligents jouent à une version géante de ce jeu du mot suivant ?",
+     "nl": "Haha, misschien stelt hij vaker “sok” voor, want hij leert ook van jouw woorden! Wist je dat slimme chatbots een gigantische versie van hetzelfde raadspel spelen?",
+     "img": "Pixel shows a giant friendly glowing robot head above a library"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So my phone doesn’t read minds. It makes smart guesses from words that often go together! What funny sentence would you let your phone finish?",
+     "fr": "Donc mon téléphone ne lit pas dans les pensées. Il devine juste grâce aux mots qui vont souvent ensemble ! Quelle phrase rigolote laisserais-tu ton téléphone terminer ?",
+     "nl": "Dus mijn telefoon leest geen gedachten. Hij raadt slim met woorden die vaak samen voorkomen! Welke grappige zin zou jij je telefoon laten afmaken?",
+     "img": "Whyzz and Pixel high-five on the sofa"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Which word did the phone suggest to Whyzz?",
+      "fr": "Quel mot le téléphone a-t-il proposé à Whyzz ?",
+      "nl": "Welk woord stelde de telefoon voor aan Whyzz?"
+     },
+     "o": {
+      "en": [
+       "Sock",
+       "Pizza",
+       "Homework"
+      ],
+      "fr": [
+       "Chaussette",
+       "Pizza",
+       "Trousse"
+      ],
+      "nl": [
+       "Sok",
+       "Pizza",
+       "Huiswerk"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How did the phone learn which words come next?",
+      "fr": "Comment le téléphone a-t-il appris quels mots viennent après ?",
+      "nl": "Hoe leerde de telefoon welke woorden volgen?"
+     },
+     "o": {
+      "en": [
+       "From lots and lots of sentences",
+       "By reading your mind",
+       "By asking your friends"
+      ],
+      "fr": [
+       "Avec des tas de phrases",
+       "En lisant dans tes pensées",
+       "En demandant à tes amis"
+      ],
+      "nl": [
+       "Uit heel veel zinnen",
+       "Door gedachten te lezen",
+       "Door het aan je vrienden te vragen"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Which word gets a super low score after a food sentence?",
+      "fr": "Quel mot a un score tout petit après une phrase sur la nourriture ?",
+      "nl": "Welk woord krijgt een superlage score na een zin over eten?"
+     },
+     "o": {
+      "en": [
+       "Pizza",
+       "Pancake",
+       "Sock"
+      ],
+      "fr": [
+       "Pizza",
+       "Crêpe",
+       "Chaussette"
+      ],
+      "nl": [
+       "Pizza",
+       "Pannenkoek",
+       "Sok"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Who else does the phone learn from?",
+      "fr": "De qui d’autre le téléphone apprend-il ?",
+      "nl": "Van wie leert de telefoon nog meer?"
+     },
+     "o": {
+      "en": [
+       "From cats",
+       "From the words you use",
+       "From the weather"
+      ],
+      "fr": [
+       "Des chats",
+       "Des mots que tu utilises",
+       "De la météo"
+      ],
+      "nl": [
+       "Van katten",
+       "Van de woorden die jij gebruikt",
+       "Van het weer"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What do smart chatbots play?",
+      "fr": "À quoi jouent les chatbots intelligents ?",
+      "nl": "Wat spelen slimme chatbots?"
+     },
+     "o": {
+      "en": [
+       "A giant next-word guessing game",
+       "Hide and seek",
+       "Soccer"
+      ],
+      "fr": [
+       "À un jeu géant du mot suivant",
+       "À cache-cache",
+       "Au foot"
+      ],
+      "nl": [
+       "Een gigantisch raadspel met het volgende woord",
+       "Verstoppertje",
+       "Voetbal"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "Put the guessing steps in order",
+     "fr": "Remets les étapes dans l’ordre",
+     "nl": "Zet de raadstappen op volgorde"
+    },
+    "intro": {
+     "en": "How does your phone guess the next word? Put the steps in the right order!",
+     "fr": "Comment ton téléphone devine-t-il le mot suivant ? Remets les étapes dans le bon ordre !",
+     "nl": "Hoe raadt je telefoon het volgende woord? Zet de stappen in de goede volgorde!"
+    },
+    "done": {
+     "en": "Perfect! Now you know how word guessing works.",
+     "fr": "Parfait ! Maintenant, tu sais comment le téléphone devine les mots.",
+     "nl": "Perfect! Nu weet je hoe woorden raden werkt."
+    },
+    "items": {
+     "en": [
+      "You start typing a sentence",
+      "The phone looks at the words so far",
+      "It gives scores to possible next words",
+      "It shows the words with the best scores",
+      "You tap a word or keep typing"
+     ],
+     "fr": [
+      "Tu commences à taper une phrase",
+      "Le téléphone regarde les mots déjà écrits",
+      "Il donne des scores aux mots possibles",
+      "Il montre les mots avec les meilleurs scores",
+      "Tu choisis un mot ou tu continues à taper"
+     ],
+     "nl": [
+      "Je begint een zin te typen",
+      "De telefoon kijkt naar de woorden tot nu toe",
+      "Hij geeft scores aan mogelijke volgende woorden",
+      "Hij toont de woorden met de beste scores",
+      "Je tikt een woord aan of typt verder"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "AI & Data",
+    "fr": "IA et données",
+    "nl": "AI en data"
+   },
+   "adult": {
+    "en": "For grown-ups: the AI & Data world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde IA et données dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld AI en data in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-19",
+   "voice": true
+  },
+  {
+   "id": "qubi-20261119",
+   "world": "qubi",
+   "guide": "Qubi",
+   "title": {
+    "en": "Why do some toys glow in the dark?",
+    "fr": "Pourquoi certains jouets brillent-ils dans le noir ?",
+    "nl": "Waarom geven sommige speeltjes licht in het donker?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, I turned off my light and the stars on my ceiling started to glow green! Are they tiny batteries?",
+     "fr": "Qubi, j’ai éteint la lumière et les étoiles de mon plafond se sont mises à briller en vert ! Ce sont de toutes petites piles ?",
+     "nl": "Qubi, ik deed mijn licht uit en de sterretjes op mijn plafond begonnen groen te gloeien! Zijn het piepkleine batterijen?",
+     "img": "Whyzz in bed points at glowing green ceiling stars"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "No batteries! Your stars, glow paint and some watch hands contain a special powder. When light shines on it, tiny electrons inside get extra energy.",
+     "fr": "Pas de piles ! Tes étoiles, la peinture lumineuse et certaines aiguilles de montre contiennent une poudre spéciale. Quand la lumière l’éclaire, de minuscules électrons reçoivent de l’énergie.",
+     "nl": "Geen batterijen! Je sterren, glowverf en sommige horlogewijzers bevatten een speciaal poeder. Als er licht op schijnt, krijgen piepkleine elektronen extra energie.",
+     "img": "Qubi shines a flashlight on glow stars, tiny sparkles inside"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "The electrons jump up to a higher step, like kids climbing a slide ladder. Then they slowly slide back down one by one and each slide makes a tiny bit of light.",
+     "fr": "Les électrons montent sur une marche plus haute, comme des enfants qui grimpent l’échelle d’un toboggan. Puis ils redescendent lentement, un par un, et chaque glissade fait un peu de lumière.",
+     "nl": "De elektronen springen een trede hoger, zoals kinderen die de ladder van een glijbaan opklimmen. Dan glijden ze langzaam één voor één terug en elke glijpartij geeft een beetje licht.",
+     "img": "Tiny glowing balls slide down a slide and sparkle"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Cool! So if I sit in the sun all day, will I glow at night like a lamp?",
+     "fr": "Trop cool ! Alors si je reste au soleil toute la journée, je vais briller la nuit comme une lampe ?",
+     "nl": "Cool! Dus als ik de hele dag in de zon zit, gloei ik ’s nachts als een lamp?",
+     "img": "Whyzz imagines himself glowing like a lamp"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Ha, no, you’re not made of glow powder! Did you know most glow toys shine green because our eyes see green-ish light best in the dark?",
+     "fr": "Ha, non, tu n’es pas fait de poudre lumineuse ! Savais-tu que la plupart des jouets lumineux brillent en vert, parce que nos yeux voient mieux la lumière verte dans le noir ?",
+     "nl": "Haha, nee, jij bent niet van glowpoeder gemaakt! Wist je dat de meeste glowspeeltjes groen licht geven, omdat onze ogen in het donker groenachtig licht het best zien?",
+     "img": "Qubi laughs among green glowing toys in the dark"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So light charges the stars, the electrons store the energy and they slowly let it out as a glow! What would you make glow in the dark?",
+     "fr": "Donc la lumière recharge les étoiles, les électrons gardent l’énergie et la libèrent doucement en brillant ! Qu’est-ce que tu ferais briller dans le noir ?",
+     "nl": "Dus licht laadt de sterren op, de elektronen bewaren de energie en geven die langzaam af als een gloed! Wat zou jij in het donker laten gloeien?",
+     "img": "Whyzz and Qubi high-five under glowing stars"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What did Whyzz think the glowing stars were?",
+      "fr": "Qu’est-ce que Whyzz croyait que les étoiles lumineuses étaient ?",
+      "nl": "Wat dacht Whyzz dat de gloeiende sterren waren?"
+     },
+     "o": {
+      "en": [
+       "Tiny batteries",
+       "Real stars",
+       "Fireflies"
+      ],
+      "fr": [
+       "De toutes petites piles",
+       "De vraies étoiles",
+       "Des lucioles"
+      ],
+      "nl": [
+       "Piepkleine batterijen",
+       "Echte sterren",
+       "Vuurvliegjes"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What gets extra energy when light shines on the glow powder?",
+      "fr": "Qu’est-ce qui reçoit de l’énergie quand la lumière éclaire la poudre ?",
+      "nl": "Wat krijgt extra energie als er licht op het glowpoeder schijnt?"
+     },
+     "o": {
+      "en": [
+       "The ceiling",
+       "Your bed",
+       "Tiny electrons"
+      ],
+      "fr": [
+       "Le plafond",
+       "Ton lit",
+       "De minuscules électrons"
+      ],
+      "nl": [
+       "Het plafond",
+       "Je bed",
+       "Piepkleine elektronen"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What are the electrons compared to?",
+      "fr": "À quoi les électrons sont-ils comparés ?",
+      "nl": "Waarmee worden de elektronen vergeleken?"
+     },
+     "o": {
+      "en": [
+       "Fish in a pond",
+       "Kids climbing a slide ladder",
+       "Cars on a road"
+      ],
+      "fr": [
+       "À des poissons dans un étang",
+       "À des enfants qui grimpent l’échelle d’un toboggan",
+       "À des voitures sur la route"
+      ],
+      "nl": [
+       "Vissen in een vijver",
+       "Kinderen die de ladder van een glijbaan opklimmen",
+       "Auto’s op de weg"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What color do most glow toys shine?",
+      "fr": "De quelle couleur brillent la plupart des jouets lumineux ?",
+      "nl": "Welke kleur geven de meeste glowspeeltjes?"
+     },
+     "o": {
+      "en": [
+       "Red",
+       "Purple",
+       "Green"
+      ],
+      "fr": [
+       "Rouge",
+       "Violet",
+       "Vert"
+      ],
+      "nl": [
+       "Rood",
+       "Paars",
+       "Groen"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What happens when the electrons slide back down?",
+      "fr": "Que se passe-t-il quand les électrons redescendent ?",
+      "nl": "Wat gebeurt er als de elektronen terugglijden?"
+     },
+     "o": {
+      "en": [
+       "They make a little light",
+       "They make a sound",
+       "They get cold"
+      ],
+      "fr": [
+       "Ils font un peu de lumière",
+       "Ils font du bruit",
+       "Ils deviennent froids"
+      ],
+      "nl": [
+       "Ze geven een beetje licht",
+       "Ze maken geluid",
+       "Ze worden koud"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Find what glows",
+     "fr": "Trouve ce qui brille",
+     "nl": "Zoek wat gloeit"
+    },
+    "intro": {
+     "en": "Some things glow after light charges them up. Pick everything that can glow in the dark!",
+     "fr": "Certaines choses brillent après avoir été rechargées par la lumière. Choisis tout ce qui peut briller dans le noir !",
+     "nl": "Sommige dingen gloeien nadat licht ze heeft opgeladen. Kies alles wat in het donker kan gloeien!"
+    },
+    "done": {
+     "en": "Bright work! You found all the glowing things.",
+     "fr": "Bravo ! Tu as trouvé tout ce qui brille.",
+     "nl": "Stralend gedaan! Je vond alles wat gloeit."
+    },
+    "items": {
+     "en": [
+      "Glow-in-the-dark ceiling stars",
+      "Glow paint on a toy",
+      "Glowing hands on a watch",
+      "A wooden spoon",
+      "A cotton sock",
+      "A glass of water"
+     ],
+     "fr": [
+      "Des étoiles lumineuses au plafond",
+      "De la peinture lumineuse sur un jouet",
+      "Les aiguilles lumineuses d’une montre",
+      "Une cuillère en bois",
+      "Une chaussette en coton",
+      "Un verre d’eau"
+     ],
+     "nl": [
+      "Glowsterren op het plafond",
+      "Glowverf op een speeltje",
+      "Gloeiende wijzers van een horloge",
+      "Een houten lepel",
+      "Een katoenen sok",
+      "Een glas water"
+     ]
+    },
+    "good": [
+     0,
+     1,
+     2
+    ]
+   },
+   "worldName": {
+    "en": "Quantum",
+    "fr": "Quantique",
+    "nl": "Quantum"
+   },
+   "adult": {
+    "en": "For grown-ups: the Quantum world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Quantique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Quantum in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-19",
+   "voice": true
+  },
+  {
+   "id": "bloom-20261119",
+   "world": "bloom",
+   "guide": "Bloom",
+   "title": {
+    "en": "Why do onions make you cry?",
+    "fr": "Pourquoi les oignons font-ils pleurer ?",
+    "nl": "Waarom moet je huilen van uien?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Bloom, my uncle was cutting an onion and suddenly we were both crying! Was the onion telling us a sad story?",
+     "fr": "Bloom, mon oncle coupait un oignon et d’un coup, on pleurait tous les deux ! L’oignon nous racontait une histoire triste ?",
+     "nl": "Bloom, mijn oom sneed een ui en opeens moesten we allebei huilen! Vertelde de ui ons een zielig verhaal?",
+     "img": "Whyzz and his uncle cry funny tears over an onion"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Ha, no sad story! An onion is made of tiny cells, like little water balloons. When the knife cuts them, two substances that were kept apart suddenly mix.",
+     "fr": "Ha, pas d’histoire triste ! Un oignon est fait de minuscules cellules, comme des petits ballons d’eau. Quand le couteau les coupe, deux substances bien séparées se mélangent d’un coup.",
+     "nl": "Haha, geen zielig verhaal! Een ui bestaat uit piepkleine cellen, net kleine waterballonnetjes. Als het mes ze opensnijdt, mengen twee stoffen die eerst gescheiden waren zich opeens.",
+     "img": "Bloom shows onion cells like water balloons through a magnifier"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "When they mix, they make a stinging gas that floats up to your eyes. Your eyes don’t like it, so they make tears to wash it away.",
+     "fr": "En se mélangeant, elles forment un gaz piquant qui monte jusqu’à tes yeux. Tes yeux n’aiment pas ça, alors ils font des larmes pour le rincer.",
+     "nl": "Als ze mengen, maken ze een prikkend gas dat naar je ogen zweeft. Je ogen vinden dat niet fijn, dus maken ze tranen om het weg te spoelen.",
+     "img": "A wispy cloud floats from the onion to Whyzz’s eyes"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So the onion is a tiny ninja with a secret tear spray? Sneaky!",
+     "fr": "Donc l’oignon est un petit ninja avec un spray à larmes secret ? Malin !",
+     "nl": "Dus de ui is een kleine ninja met een geheime tranenspray? Stiekem!",
+     "img": "Whyzz imagines an onion ninja"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Kind of! It’s how onions protect themselves from hungry animals. Did you know a cold onion from the fridge makes less gas, so you cry less?",
+     "fr": "Un peu, oui ! C’est comme ça que les oignons se protègent des animaux affamés. Savais-tu qu’un oignon bien froid, sorti du frigo, fait moins de gaz et donc moins pleurer ?",
+     "nl": "Een beetje wel! Zo beschermen uien zich tegen hongerige dieren. Wist je dat een koude ui uit de koelkast minder gas maakt, zodat je minder huilt?",
+     "img": "Bloom takes a frosty onion out of the fridge"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So cut cells make a stinging gas and my tears wash it away! What trick would you try to beat onion tears?",
+     "fr": "Donc les cellules coupées font un gaz piquant et mes larmes le rincent ! Quelle astuce essaierais-tu contre les larmes d’oignon ?",
+     "nl": "Dus gesneden cellen maken een prikkend gas en mijn tranen spoelen het weg! Welk trucje zou jij proberen tegen uientranen?",
+     "img": "Whyzz and Bloom high-five next to a basket of onions"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What are onion cells compared to?",
+      "fr": "À quoi les cellules de l’oignon sont-elles comparées ?",
+      "nl": "Waarmee worden de cellen van een ui vergeleken?"
+     },
+     "o": {
+      "en": [
+       "Tiny marbles",
+       "Little water balloons",
+       "Soft pillows"
+      ],
+      "fr": [
+       "À des billes",
+       "À des petits ballons d’eau",
+       "À des coussins"
+      ],
+      "nl": [
+       "Knikkertjes",
+       "Kleine waterballonnetjes",
+       "Zachte kussens"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What do the two substances make when they mix?",
+      "fr": "Que forment les deux substances en se mélangeant ?",
+      "nl": "Wat maken de twee stoffen als ze mengen?"
+     },
+     "o": {
+      "en": [
+       "A stinging gas",
+       "Sugar",
+       "Glue"
+      ],
+      "fr": [
+       "Un gaz piquant",
+       "Du sucre",
+       "De la colle"
+      ],
+      "nl": [
+       "Een prikkend gas",
+       "Suiker",
+       "Lijm"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why do your eyes make tears?",
+      "fr": "Pourquoi tes yeux font-ils des larmes ?",
+      "nl": "Waarom maken je ogen tranen?"
+     },
+     "o": {
+      "en": [
+       "Because they are sad",
+       "To make the onion sweeter",
+       "To wash the gas away"
+      ],
+      "fr": [
+       "Parce qu’ils sont tristes",
+       "Pour rendre l’oignon plus sucré",
+       "Pour rincer le gaz"
+      ],
+      "nl": [
+       "Omdat ze verdrietig zijn",
+       "Om de ui zoeter te maken",
+       "Om het gas weg te spoelen"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Why do onions have this trick?",
+      "fr": "Pourquoi les oignons ont-ils cette astuce ?",
+      "nl": "Waarom hebben uien dit trucje?"
+     },
+     "o": {
+      "en": [
+       "To grow faster",
+       "To protect themselves from hungry animals",
+       "To smell nice"
+      ],
+      "fr": [
+       "Pour pousser plus vite",
+       "Pour se protéger des animaux affamés",
+       "Pour sentir bon"
+      ],
+      "nl": [
+       "Om sneller te groeien",
+       "Om zich te beschermen tegen hongerige dieren",
+       "Om lekker te ruiken"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What can make you cry less?",
+      "fr": "Qu’est-ce qui peut te faire moins pleurer ?",
+      "nl": "Waardoor huil je minder?"
+     },
+     "o": {
+      "en": [
+       "A cold onion from the fridge",
+       "A warm onion",
+       "A bigger onion"
+      ],
+      "fr": [
+       "Un oignon froid sorti du frigo",
+       "Un oignon chaud",
+       "Un plus gros oignon"
+      ],
+      "nl": [
+       "Een koude ui uit de koelkast",
+       "Een warme ui",
+       "Een grotere ui"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Onion tear match",
+     "fr": "Associe les larmes d’oignon",
+     "nl": "Koppel de uientranen"
+    },
+    "intro": {
+     "en": "What happens next? Match each step to its result!",
+     "fr": "Que se passe-t-il ensuite ? Associe chaque étape à son résultat !",
+     "nl": "Wat gebeurt er daarna? Koppel elke stap aan het resultaat!"
+    },
+    "done": {
+     "en": "Great match! You know the onion’s secret now.",
+     "fr": "Bien joué ! Tu connais maintenant le secret de l’oignon.",
+     "nl": "Goed gekoppeld! Nu ken je het geheim van de ui."
+    },
+    "left": {
+     "en": [
+      "The knife cuts the onion",
+      "Two substances mix",
+      "The gas reaches your eyes",
+      "The onion is cold"
+     ],
+     "fr": [
+      "Le couteau coupe l’oignon",
+      "Deux substances se mélangent",
+      "Le gaz arrive dans tes yeux",
+      "L’oignon est froid"
+     ],
+     "nl": [
+      "Het mes snijdt de ui",
+      "Twee stoffen mengen",
+      "Het gas bereikt je ogen",
+      "De ui is koud"
+     ]
+    },
+    "right": {
+     "en": [
+      "Tiny cells break open",
+      "A stinging gas forms",
+      "Your eyes make tears",
+      "Less gas is made"
+     ],
+     "fr": [
+      "Les petites cellules s’ouvrent",
+      "Un gaz piquant se forme",
+      "Tes yeux font des larmes",
+      "Il se forme moins de gaz"
+     ],
+     "nl": [
+      "Piepkleine cellen gaan open",
+      "Er ontstaat een prikkend gas",
+      "Je ogen maken tranen",
+      "Er komt minder gas vrij"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Biotech",
+    "fr": "Biotech",
+    "nl": "Biotech"
+   },
+   "adult": {
+    "en": "For grown-ups: the Biotech world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Biotech dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Biotech in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-19",
+   "voice": true
+  },
+  {
+   "id": "robo-20261119",
+   "world": "robo",
+   "guide": "Pixel",
+   "title": {
+    "en": "How do robots pick strawberries?",
+    "fr": "Comment les robots cueillent-ils des fraises ?",
+    "nl": "Hoe plukken robots aardbeien?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, at the strawberry farm I saw a robot picking berries all by itself! How does it know which ones to pick?",
+     "fr": "Pixel, à la ferme aux fraises, j’ai vu un robot cueillir des fraises tout seul ! Comment sait-il lesquelles cueillir ?",
+     "nl": "Pixel, op de aardbeienboerderij zag ik een robot helemaal zelf aardbeien plukken! Hoe weet hij welke hij moet plukken?",
+     "img": "Whyzz points at a robot picking strawberries"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "It uses cameras as eyes! It looks under the leaves, finds each strawberry and checks its color: bright red means ripe and green means wait.",
+     "fr": "Il utilise des caméras comme des yeux ! Il regarde sous les feuilles, trouve chaque fraise et vérifie sa couleur : rouge vif, c’est mûr, et vert, il faut attendre.",
+     "nl": "Hij gebruikt camera’s als ogen! Hij kijkt onder de bladeren, vindt elke aardbei en checkt de kleur: knalrood is rijp en groen moet nog wachten.",
+     "img": "The robot’s camera eyes look at red and green berries"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Then a soft gripper holds the berry gently, like you’d hold a baby chick. A tiny cutter snips the stem and plop, into the basket!",
+     "fr": "Ensuite, une pince toute douce tient la fraise délicatement, comme tu tiendrais un poussin, et une petite lame coupe la queue. Hop, dans le panier !",
+     "nl": "Dan houdt een zachte grijper de aardbei voorzichtig vast, zoals jij een kuikentje zou vasthouden, en een klein mesje knipt het steeltje door. Plop, in het mandje!",
+     "img": "A soft robot gripper gently places a strawberry in a basket"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "If I were that robot, I’d eat one strawberry for every one I picked. Robot snack time!",
+     "fr": "Si j’étais ce robot, je mangerais une fraise pour chaque fraise cueillie. C’est l’heure du goûter des robots !",
+     "nl": "Als ik die robot was, at ik één aardbei op voor elke aardbei die ik plukte. Robot-snacktijd!",
+     "img": "Whyzz pretends to be a robot with strawberry cheeks"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, robots don’t eat, so every berry reaches the basket! Did you know some strawberry robots work at night, using bright lamps to see the red berries?",
+     "fr": "Ha, les robots ne mangent pas, alors toutes les fraises arrivent au panier ! Savais-tu que certains robots cueillent la nuit, avec des lampes puissantes pour voir les fraises rouges ?",
+     "nl": "Haha, robots eten niet, dus elke aardbei komt in het mandje! Wist je dat sommige aardbeienrobots ’s nachts werken, met felle lampen om de rode aardbeien te zien?",
+     "img": "The robot picks strawberries at night with bright lamps"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So the robot sees, checks, grabs gently and snips, while farmers decide where it works! What fruit would you want a robot to pick?",
+     "fr": "Donc le robot regarde, vérifie, attrape doucement et coupe, et ce sont les agriculteurs qui décident où il travaille ! Quel fruit aimerais-tu qu’un robot cueille ?",
+     "nl": "Dus de robot kijkt, checkt, pakt zacht vast en knipt, en de boeren bepalen waar hij werkt! Welk fruit zou jij door een robot laten plukken?",
+     "img": "Whyzz and Pixel high-five with a full basket"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What does the robot use as eyes?",
+      "fr": "Qu’est-ce que le robot utilise comme yeux ?",
+      "nl": "Wat gebruikt de robot als ogen?"
+     },
+     "o": {
+      "en": [
+       "Magnets",
+       "Cameras",
+       "Flashlights"
+      ],
+      "fr": [
+       "Des aimants",
+       "Des caméras",
+       "Des lampes de poche"
+      ],
+      "nl": [
+       "Magneten",
+       "Camera’s",
+       "Zaklampen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Which color tells the robot a strawberry is ripe?",
+      "fr": "Quelle couleur dit au robot qu’une fraise est mûre ?",
+      "nl": "Welke kleur vertelt de robot dat een aardbei rijp is?"
+     },
+     "o": {
+      "en": [
+       "Bright red",
+       "Green",
+       "Blue"
+      ],
+      "fr": [
+       "Rouge vif",
+       "Vert",
+       "Bleu"
+      ],
+      "nl": [
+       "Knalrood",
+       "Groen",
+       "Blauw"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "How does the soft gripper hold the berry?",
+      "fr": "Comment la pince douce tient-elle la fraise ?",
+      "nl": "Hoe houdt de zachte grijper de aardbei vast?"
+     },
+     "o": {
+      "en": [
+       "Very hard",
+       "With sticky glue",
+       "Gently, like a baby chick"
+      ],
+      "fr": [
+       "Très fort",
+       "Avec de la colle",
+       "Délicatement, comme un poussin"
+      ],
+      "nl": [
+       "Heel hard",
+       "Met plakkerige lijm",
+       "Voorzichtig, zoals een kuikentje"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Why does every berry reach the basket?",
+      "fr": "Pourquoi toutes les fraises arrivent-elles au panier ?",
+      "nl": "Waarom komt elke aardbei in het mandje?"
+     },
+     "o": {
+      "en": [
+       "The basket is magic",
+       "Robots don’t eat",
+       "Birds help"
+      ],
+      "fr": [
+       "Le panier est magique",
+       "Les robots ne mangent pas",
+       "Les oiseaux aident"
+      ],
+      "nl": [
+       "Het mandje is magisch",
+       "Robots eten niet",
+       "Vogels helpen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How can some strawberry robots work at night?",
+      "fr": "Comment certains robots peuvent-ils cueillir la nuit ?",
+      "nl": "Hoe kunnen sommige aardbeienrobots ’s nachts werken?"
+     },
+     "o": {
+      "en": [
+       "With bright lamps",
+       "With glowing strawberries",
+       "They take a nap"
+      ],
+      "fr": [
+       "Avec des lampes puissantes",
+       "Avec des fraises lumineuses",
+       "Ils font la sieste"
+      ],
+      "nl": [
+       "Met felle lampen",
+       "Met lichtgevende aardbeien",
+       "Ze doen een dutje"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "Help the robot pick a strawberry",
+     "fr": "Aide le robot à cueillir une fraise",
+     "nl": "Help de robot een aardbei plukken"
+    },
+    "intro": {
+     "en": "Put the robot’s steps in the right order!",
+     "fr": "Remets les étapes du robot dans le bon ordre !",
+     "nl": "Zet de stappen van de robot in de goede volgorde!"
+    },
+    "done": {
+     "en": "Yum! The strawberry is safe in the basket.",
+     "fr": "Miam ! La fraise est bien dans le panier.",
+     "nl": "Lekker! De aardbei ligt veilig in het mandje."
+    },
+    "items": {
+     "en": [
+      "Look under the leaves with cameras",
+      "Find a strawberry",
+      "Check that it is bright red",
+      "Hold it gently with the soft gripper",
+      "Snip the stem",
+      "Put it in the basket"
+     ],
+     "fr": [
+      "Regarder sous les feuilles avec les caméras",
+      "Trouver une fraise",
+      "Vérifier qu’elle est rouge vif",
+      "La tenir doucement avec la pince",
+      "Couper la queue",
+      "La mettre dans le panier"
+     ],
+     "nl": [
+      "Met camera’s onder de bladeren kijken",
+      "Een aardbei vinden",
+      "Checken of hij knalrood is",
+      "Hem zacht vastpakken met de grijper",
+      "Het steeltje doorknippen",
+      "Hem in het mandje leggen"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Robotics",
+    "fr": "Robotique",
+    "nl": "Robotica"
+   },
+   "adult": {
+    "en": "For grown-ups: the Robotics world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Robotique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Robotica in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-19",
+   "voice": true
+  },
+  {
+   "id": "energy-20261119",
+   "world": "energy",
+   "guide": "Sunny",
+   "title": {
+    "en": "Can your footsteps make electricity?",
+    "fr": "Tes pas peuvent-ils produire de l’électricité ?",
+    "nl": "Kunnen je voetstappen stroom maken?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, at the train station the floor lit up every time I stepped on it! Is the floor ticklish?",
+     "fr": "Sunny, à la gare, le sol s’allumait chaque fois que je marchais dessus ! Le sol est chatouilleux ?",
+     "nl": "Sunny, op het station lichtte de vloer op bij elke stap die ik zette! Is de vloer kietelig?",
+     "img": "Whyzz steps on glowing floor tiles at a station"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Ha, not ticklish, but clever! Those are energy tiles: when you step on one, your push is turned into a little electricity that lights it up.",
+     "fr": "Ha, pas chatouilleux, mais malin ! Ce sont des dalles à énergie : quand tu marches dessus, ta poussée est transformée en un peu d’électricité qui les allume.",
+     "nl": "Haha, niet kietelig, maar slim! Dat zijn energietegels: als je erop stapt, wordt jouw duw omgezet in een beetje stroom die ze laat oplichten.",
+     "img": "Sunny explains the glowing energy tiles"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Some tiles use special crystals. Squeeze a lemon and you get juice; squeeze these crystals and you get a tiny bit of electricity!",
+     "fr": "Certaines dalles utilisent des cristaux spéciaux. Si tu presses un citron, tu obtiens du jus ; si tu presses ces cristaux, tu obtiens un tout petit peu d’électricité !",
+     "nl": "Sommige tegels gebruiken speciale kristallen. Knijp je in een citroen, dan krijg je sap; knijp je in deze kristallen, dan krijg je een klein beetje stroom!",
+     "img": "Sunny squeezes a lemon next to a sparkling crystal"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Then I’ll dance all night and power the whole city with my awesome moves!",
+     "fr": "Alors je vais danser toute la nuit et alimenter toute la ville avec mes super pas de danse !",
+     "nl": "Dan ga ik de hele nacht dansen en de hele stad van stroom voorzien met mijn supermoves!",
+     "img": "Whyzz dances wildly on glowing tiles"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Love the moves, but one step only makes enough for a quick light blink! Did you know a quartz watch works the other way around: electricity makes its tiny crystal wiggle to keep time?",
+     "fr": "J’adore tes pas, mais un seul pas fait juste assez pour un petit clignotement ! Savais-tu qu’une montre à quartz fait l’inverse : l’électricité fait vibrer son petit cristal pour compter le temps ?",
+     "nl": "Mooie moves, maar één stap is maar genoeg voor een korte lichtflits! Wist je dat een kwartshorloge het omgekeerde doet: stroom laat het kleine kristal trillen om de tijd bij te houden?",
+     "img": "Sunny shows a big cartoon watch with a wiggling crystal"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So sunlight, wind, water and even our footsteps can make electricity! Where would you put energy tiles so lots of feet could help?",
+     "fr": "Donc le soleil, le vent, l’eau et même nos pas peuvent produire de l’électricité ! Où mettrais-tu des dalles à énergie pour que plein de pieds aident ?",
+     "nl": "Dus zonlicht, wind, water en zelfs onze voetstappen kunnen stroom maken! Waar zou jij energietegels leggen, zodat heel veel voeten kunnen helpen?",
+     "img": "Whyzz and Sunny high-five on glowing tiles"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What happened when Whyzz stepped on the station floor?",
+      "fr": "Que se passait-il quand Whyzz marchait sur le sol de la gare ?",
+      "nl": "Wat gebeurde er als Whyzz op de stationsvloer stapte?"
+     },
+     "o": {
+      "en": [
+       "It made music",
+       "It lit up",
+       "It got slippery"
+      ],
+      "fr": [
+       "Il faisait de la musique",
+       "Il s’allumait",
+       "Il devenait glissant"
+      ],
+      "nl": [
+       "Hij maakte muziek",
+       "Hij lichtte op",
+       "Hij werd glad"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What do energy tiles turn your push into?",
+      "fr": "En quoi les dalles à énergie transforment-elles ta poussée ?",
+      "nl": "Waarin zetten energietegels jouw duw om?"
+     },
+     "o": {
+      "en": [
+       "A little electricity",
+       "Water",
+       "Ice cream"
+      ],
+      "fr": [
+       "En un peu d’électricité",
+       "En eau",
+       "En glace"
+      ],
+      "nl": [
+       "Een beetje stroom",
+       "Water",
+       "IJs"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What do you get when you squeeze the special crystals?",
+      "fr": "Qu’obtiens-tu quand tu presses les cristaux spéciaux ?",
+      "nl": "Wat krijg je als je in de speciale kristallen knijpt?"
+     },
+     "o": {
+      "en": [
+       "Lemon juice",
+       "Warm air",
+       "A tiny bit of electricity"
+      ],
+      "fr": [
+       "Du jus de citron",
+       "De l’air chaud",
+       "Un tout petit peu d’électricité"
+      ],
+      "nl": [
+       "Citroensap",
+       "Warme lucht",
+       "Een klein beetje stroom"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "How much electricity does one step make?",
+      "fr": "Combien d’électricité fait un seul pas ?",
+      "nl": "Hoeveel stroom maakt één stap?"
+     },
+     "o": {
+      "en": [
+       "Enough for the whole city",
+       "Enough for a quick light blink",
+       "Nothing at all"
+      ],
+      "fr": [
+       "Assez pour toute la ville",
+       "Assez pour un petit clignotement",
+       "Rien du tout"
+      ],
+      "nl": [
+       "Genoeg voor de hele stad",
+       "Genoeg voor een korte lichtflits",
+       "Helemaal niets"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What makes the crystal in a quartz watch wiggle?",
+      "fr": "Qu’est-ce qui fait vibrer le cristal d’une montre à quartz ?",
+      "nl": "Wat laat het kristal in een kwartshorloge trillen?"
+     },
+     "o": {
+      "en": [
+       "Wind",
+       "Sunlight",
+       "Electricity"
+      ],
+      "fr": [
+       "Le vent",
+       "Le soleil",
+       "L’électricité"
+      ],
+      "nl": [
+       "Wind",
+       "Zonlicht",
+       "Stroom"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "What can make electricity?",
+     "fr": "Qu’est-ce qui peut produire de l’électricité ?",
+     "nl": "Wat kan stroom maken?"
+    },
+    "intro": {
+     "en": "Pick everything that can make electricity!",
+     "fr": "Choisis tout ce qui peut produire de l’électricité !",
+     "nl": "Kies alles wat stroom kan maken!"
+    },
+    "done": {
+     "en": "Super! You found all the energy makers.",
+     "fr": "Super ! Tu as trouvé toutes les sources d’énergie.",
+     "nl": "Super! Je vond alle stroommakers."
+    },
+    "items": {
+     "en": [
+      "Sunlight on a solar panel",
+      "Wind turning a turbine",
+      "Footsteps on energy tiles",
+      "River water spinning a turbine",
+      "A sleeping cat",
+      "A plain rock"
+     ],
+     "fr": [
+      "Le soleil sur un panneau solaire",
+      "Le vent qui fait tourner une éolienne",
+      "Des pas sur des dalles à énergie",
+      "L’eau d’une rivière qui fait tourner une turbine",
+      "Un chat qui dort",
+      "Un simple caillou"
+     ],
+     "nl": [
+      "Zonlicht op een zonnepaneel",
+      "Wind die een windturbine laat draaien",
+      "Voetstappen op energietegels",
+      "Rivierwater dat een turbine laat draaien",
+      "Een slapende kat",
+      "Een gewone steen"
+     ]
+    },
+    "good": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   "worldName": {
+    "en": "Energy",
+    "fr": "Énergie",
+    "nl": "Energie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Energy world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Énergie dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Energie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-19",
+   "voice": true
   }
  ]
 }
