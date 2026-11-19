@@ -7342,5 +7342,545 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Dus uitschakelen, deuren dichtdoen en kort douchen maken van mij een energieheld! Welk bespaartrucje ga jij vandaag thuis proberen?"
+ },
+ {
+  "id": "pixel-20261119-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, I typed “I want to eat a” and my phone suggested “pizza” before I finished! Can my phone read my mind?"
+ },
+ {
+  "id": "pixel-20261119-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, j’ai tapé « J’ai envie de manger une » et mon téléphone a proposé « pizza » avant que je finisse ! Il lit dans mes pensées ?"
+ },
+ {
+  "id": "pixel-20261119-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, ik typte “Ik heb zin in” en mijn telefoon stelde meteen “pizza” voor! Kan mijn telefoon gedachten lezen?"
+ },
+ {
+  "id": "pixel-20261119-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "No mind reading, I promise! Your phone learned from lots and lots of sentences which words often come next, just like you know “Once upon a…” ends with “time”."
+ },
+ {
+  "id": "pixel-20261119-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Il ne lit pas dans les pensées, promis ! Ton téléphone a appris avec des tas de phrases quels mots viennent souvent après, comme tu sais que « Il était une… » finit par « fois »."
+ },
+ {
+  "id": "pixel-20261119-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Geen gedachten lezen, beloofd! Je telefoon leerde uit heel veel zinnen welke woorden vaak volgen, net zoals jij weet dat na “Er was…” meestal “eens” komt."
+ },
+ {
+  "id": "pixel-20261119-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "It plays a guessing game with scores. After “I want to eat a” food words get high scores, while a word like “sock” gets a super low score."
+ },
+ {
+  "id": "pixel-20261119-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Il joue à un jeu de devinettes avec des scores. Après « J’ai envie de manger une », les mots de nourriture ont de hauts scores, mais « chaussette » a un score tout petit."
+ },
+ {
+  "id": "pixel-20261119-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Hij speelt een raadspel met scores. Na “Ik heb zin in” krijgen etenswoorden hoge scores, maar een woord als “sok” krijgt een superlage score."
+ },
+ {
+  "id": "pixel-20261119-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Wait, so if I type “sock” a hundred times, my phone will think I want to eat socks? Yum… not!"
+ },
+ {
+  "id": "pixel-20261119-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Attends, si je tape « chaussette » cent fois, mon téléphone va croire que je veux manger des chaussettes ? Miam… ou pas !"
+ },
+ {
+  "id": "pixel-20261119-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Wacht, als ik honderd keer “sok” typ, denkt mijn telefoon dan dat ik sokken wil eten? Lekker… niet dus!"
+ },
+ {
+  "id": "pixel-20261119-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, it might suggest “sock” more often, because it also learns from the words you use! Did you know smart chatbots play a giant version of this same next-word guessing game?"
+ },
+ {
+  "id": "pixel-20261119-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, il proposera peut-être plus souvent « chaussette », car il apprend aussi de tes mots ! Savais-tu que les chatbots intelligents jouent à une version géante de ce jeu du mot suivant ?"
+ },
+ {
+  "id": "pixel-20261119-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, misschien stelt hij vaker “sok” voor, want hij leert ook van jouw woorden! Wist je dat slimme chatbots een gigantische versie van hetzelfde raadspel spelen?"
+ },
+ {
+  "id": "pixel-20261119-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So my phone doesn’t read minds. It makes smart guesses from words that often go together! What funny sentence would you let your phone finish?"
+ },
+ {
+  "id": "pixel-20261119-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc mon téléphone ne lit pas dans les pensées. Il devine juste grâce aux mots qui vont souvent ensemble ! Quelle phrase rigolote laisserais-tu ton téléphone terminer ?"
+ },
+ {
+  "id": "pixel-20261119-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus mijn telefoon leest geen gedachten. Hij raadt slim met woorden die vaak samen voorkomen! Welke grappige zin zou jij je telefoon laten afmaken?"
+ },
+ {
+  "id": "qubi-20261119-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, I turned off my light and the stars on my ceiling started to glow green! Are they tiny batteries?"
+ },
+ {
+  "id": "qubi-20261119-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, j’ai éteint la lumière et les étoiles de mon plafond se sont mises à briller en vert ! Ce sont de toutes petites piles ?"
+ },
+ {
+  "id": "qubi-20261119-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, ik deed mijn licht uit en de sterretjes op mijn plafond begonnen groen te gloeien! Zijn het piepkleine batterijen?"
+ },
+ {
+  "id": "qubi-20261119-en-2",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "No batteries! Your stars, glow paint and some watch hands contain a special powder. When light shines on it, tiny electrons inside get extra energy."
+ },
+ {
+  "id": "qubi-20261119-fr-2",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Pas de piles ! Tes étoiles, la peinture lumineuse et certaines aiguilles de montre contiennent une poudre spéciale. Quand la lumière l’éclaire, de minuscules électrons reçoivent de l’énergie."
+ },
+ {
+  "id": "qubi-20261119-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Geen batterijen! Je sterren, glowverf en sommige horlogewijzers bevatten een speciaal poeder. Als er licht op schijnt, krijgen piepkleine elektronen extra energie."
+ },
+ {
+  "id": "qubi-20261119-en-3",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "The electrons jump up to a higher step, like kids climbing a slide ladder. Then they slowly slide back down one by one and each slide makes a tiny bit of light."
+ },
+ {
+  "id": "qubi-20261119-fr-3",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Les électrons montent sur une marche plus haute, comme des enfants qui grimpent l’échelle d’un toboggan. Puis ils redescendent lentement, un par un, et chaque glissade fait un peu de lumière."
+ },
+ {
+  "id": "qubi-20261119-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "De elektronen springen een trede hoger, zoals kinderen die de ladder van een glijbaan opklimmen. Dan glijden ze langzaam één voor één terug en elke glijpartij geeft een beetje licht."
+ },
+ {
+  "id": "qubi-20261119-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Cool! So if I sit in the sun all day, will I glow at night like a lamp?"
+ },
+ {
+  "id": "qubi-20261119-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Trop cool ! Alors si je reste au soleil toute la journée, je vais briller la nuit comme une lampe ?"
+ },
+ {
+  "id": "qubi-20261119-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Cool! Dus als ik de hele dag in de zon zit, gloei ik ’s nachts als een lamp?"
+ },
+ {
+  "id": "qubi-20261119-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Ha, no, you’re not made of glow powder! Did you know most glow toys shine green because our eyes see green-ish light best in the dark?"
+ },
+ {
+  "id": "qubi-20261119-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Ha, non, tu n’es pas fait de poudre lumineuse ! Savais-tu que la plupart des jouets lumineux brillent en vert, parce que nos yeux voient mieux la lumière verte dans le noir ?"
+ },
+ {
+  "id": "qubi-20261119-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Haha, nee, jij bent niet van glowpoeder gemaakt! Wist je dat de meeste glowspeeltjes groen licht geven, omdat onze ogen in het donker groenachtig licht het best zien?"
+ },
+ {
+  "id": "qubi-20261119-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So light charges the stars, the electrons store the energy and they slowly let it out as a glow! What would you make glow in the dark?"
+ },
+ {
+  "id": "qubi-20261119-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc la lumière recharge les étoiles, les électrons gardent l’énergie et la libèrent doucement en brillant ! Qu’est-ce que tu ferais briller dans le noir ?"
+ },
+ {
+  "id": "qubi-20261119-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus licht laadt de sterren op, de elektronen bewaren de energie en geven die langzaam af als een gloed! Wat zou jij in het donker laten gloeien?"
+ },
+ {
+  "id": "bloom-20261119-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Bloom, my uncle was cutting an onion and suddenly we were both crying! Was the onion telling us a sad story?"
+ },
+ {
+  "id": "bloom-20261119-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Bloom, mon oncle coupait un oignon et d’un coup, on pleurait tous les deux ! L’oignon nous racontait une histoire triste ?"
+ },
+ {
+  "id": "bloom-20261119-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Bloom, mijn oom sneed een ui en opeens moesten we allebei huilen! Vertelde de ui ons een zielig verhaal?"
+ },
+ {
+  "id": "bloom-20261119-en-2",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Ha, no sad story! An onion is made of tiny cells, like little water balloons. When the knife cuts them, two substances that were kept apart suddenly mix."
+ },
+ {
+  "id": "bloom-20261119-fr-2",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Ha, pas d’histoire triste ! Un oignon est fait de minuscules cellules, comme des petits ballons d’eau. Quand le couteau les coupe, deux substances bien séparées se mélangent d’un coup."
+ },
+ {
+  "id": "bloom-20261119-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Haha, geen zielig verhaal! Een ui bestaat uit piepkleine cellen, net kleine waterballonnetjes. Als het mes ze opensnijdt, mengen twee stoffen die eerst gescheiden waren zich opeens."
+ },
+ {
+  "id": "bloom-20261119-en-3",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "When they mix, they make a stinging gas that floats up to your eyes. Your eyes don’t like it, so they make tears to wash it away."
+ },
+ {
+  "id": "bloom-20261119-fr-3",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "En se mélangeant, elles forment un gaz piquant qui monte jusqu’à tes yeux. Tes yeux n’aiment pas ça, alors ils font des larmes pour le rincer."
+ },
+ {
+  "id": "bloom-20261119-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Als ze mengen, maken ze een prikkend gas dat naar je ogen zweeft. Je ogen vinden dat niet fijn, dus maken ze tranen om het weg te spoelen."
+ },
+ {
+  "id": "bloom-20261119-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the onion is a tiny ninja with a secret tear spray? Sneaky!"
+ },
+ {
+  "id": "bloom-20261119-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc l’oignon est un petit ninja avec un spray à larmes secret ? Malin !"
+ },
+ {
+  "id": "bloom-20261119-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de ui is een kleine ninja met een geheime tranenspray? Stiekem!"
+ },
+ {
+  "id": "bloom-20261119-en-5",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Kind of! It’s how onions protect themselves from hungry animals. Did you know a cold onion from the fridge makes less gas, so you cry less?"
+ },
+ {
+  "id": "bloom-20261119-fr-5",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Un peu, oui ! C’est comme ça que les oignons se protègent des animaux affamés. Savais-tu qu’un oignon bien froid, sorti du frigo, fait moins de gaz et donc moins pleurer ?"
+ },
+ {
+  "id": "bloom-20261119-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Een beetje wel! Zo beschermen uien zich tegen hongerige dieren. Wist je dat een koude ui uit de koelkast minder gas maakt, zodat je minder huilt?"
+ },
+ {
+  "id": "bloom-20261119-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So cut cells make a stinging gas and my tears wash it away! What trick would you try to beat onion tears?"
+ },
+ {
+  "id": "bloom-20261119-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les cellules coupées font un gaz piquant et mes larmes le rincent ! Quelle astuce essaierais-tu contre les larmes d’oignon ?"
+ },
+ {
+  "id": "bloom-20261119-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus gesneden cellen maken een prikkend gas en mijn tranen spoelen het weg! Welk trucje zou jij proberen tegen uientranen?"
+ },
+ {
+  "id": "robo-20261119-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, at the strawberry farm I saw a robot picking berries all by itself! How does it know which ones to pick?"
+ },
+ {
+  "id": "robo-20261119-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, à la ferme aux fraises, j’ai vu un robot cueillir des fraises tout seul ! Comment sait-il lesquelles cueillir ?"
+ },
+ {
+  "id": "robo-20261119-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, op de aardbeienboerderij zag ik een robot helemaal zelf aardbeien plukken! Hoe weet hij welke hij moet plukken?"
+ },
+ {
+  "id": "robo-20261119-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "It uses cameras as eyes! It looks under the leaves, finds each strawberry and checks its color: bright red means ripe and green means wait."
+ },
+ {
+  "id": "robo-20261119-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Il utilise des caméras comme des yeux ! Il regarde sous les feuilles, trouve chaque fraise et vérifie sa couleur : rouge vif, c’est mûr, et vert, il faut attendre."
+ },
+ {
+  "id": "robo-20261119-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Hij gebruikt camera’s als ogen! Hij kijkt onder de bladeren, vindt elke aardbei en checkt de kleur: knalrood is rijp en groen moet nog wachten."
+ },
+ {
+  "id": "robo-20261119-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Then a soft gripper holds the berry gently, like you’d hold a baby chick. A tiny cutter snips the stem and plop, into the basket!"
+ },
+ {
+  "id": "robo-20261119-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ensuite, une pince toute douce tient la fraise délicatement, comme tu tiendrais un poussin, et une petite lame coupe la queue. Hop, dans le panier !"
+ },
+ {
+  "id": "robo-20261119-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Dan houdt een zachte grijper de aardbei voorzichtig vast, zoals jij een kuikentje zou vasthouden, en een klein mesje knipt het steeltje door. Plop, in het mandje!"
+ },
+ {
+  "id": "robo-20261119-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "If I were that robot, I’d eat one strawberry for every one I picked. Robot snack time!"
+ },
+ {
+  "id": "robo-20261119-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Si j’étais ce robot, je mangerais une fraise pour chaque fraise cueillie. C’est l’heure du goûter des robots !"
+ },
+ {
+  "id": "robo-20261119-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Als ik die robot was, at ik één aardbei op voor elke aardbei die ik plukte. Robot-snacktijd!"
+ },
+ {
+  "id": "robo-20261119-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, robots don’t eat, so every berry reaches the basket! Did you know some strawberry robots work at night, using bright lamps to see the red berries?"
+ },
+ {
+  "id": "robo-20261119-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, les robots ne mangent pas, alors toutes les fraises arrivent au panier ! Savais-tu que certains robots cueillent la nuit, avec des lampes puissantes pour voir les fraises rouges ?"
+ },
+ {
+  "id": "robo-20261119-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, robots eten niet, dus elke aardbei komt in het mandje! Wist je dat sommige aardbeienrobots ’s nachts werken, met felle lampen om de rode aardbeien te zien?"
+ },
+ {
+  "id": "robo-20261119-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the robot sees, checks, grabs gently and snips, while farmers decide where it works! What fruit would you want a robot to pick?"
+ },
+ {
+  "id": "robo-20261119-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc le robot regarde, vérifie, attrape doucement et coupe, et ce sont les agriculteurs qui décident où il travaille ! Quel fruit aimerais-tu qu’un robot cueille ?"
+ },
+ {
+  "id": "robo-20261119-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de robot kijkt, checkt, pakt zacht vast en knipt, en de boeren bepalen waar hij werkt! Welk fruit zou jij door een robot laten plukken?"
+ },
+ {
+  "id": "energy-20261119-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, at the train station the floor lit up every time I stepped on it! Is the floor ticklish?"
+ },
+ {
+  "id": "energy-20261119-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, à la gare, le sol s’allumait chaque fois que je marchais dessus ! Le sol est chatouilleux ?"
+ },
+ {
+  "id": "energy-20261119-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, op het station lichtte de vloer op bij elke stap die ik zette! Is de vloer kietelig?"
+ },
+ {
+  "id": "energy-20261119-en-2",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Ha, not ticklish, but clever! Those are energy tiles: when you step on one, your push is turned into a little electricity that lights it up."
+ },
+ {
+  "id": "energy-20261119-fr-2",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Ha, pas chatouilleux, mais malin ! Ce sont des dalles à énergie : quand tu marches dessus, ta poussée est transformée en un peu d’électricité qui les allume."
+ },
+ {
+  "id": "energy-20261119-nl-2",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Haha, niet kietelig, maar slim! Dat zijn energietegels: als je erop stapt, wordt jouw duw omgezet in een beetje stroom die ze laat oplichten."
+ },
+ {
+  "id": "energy-20261119-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Some tiles use special crystals. Squeeze a lemon and you get juice; squeeze these crystals and you get a tiny bit of electricity!"
+ },
+ {
+  "id": "energy-20261119-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Certaines dalles utilisent des cristaux spéciaux. Si tu presses un citron, tu obtiens du jus ; si tu presses ces cristaux, tu obtiens un tout petit peu d’électricité !"
+ },
+ {
+  "id": "energy-20261119-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Sommige tegels gebruiken speciale kristallen. Knijp je in een citroen, dan krijg je sap; knijp je in deze kristallen, dan krijg je een klein beetje stroom!"
+ },
+ {
+  "id": "energy-20261119-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Then I’ll dance all night and power the whole city with my awesome moves!"
+ },
+ {
+  "id": "energy-20261119-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Alors je vais danser toute la nuit et alimenter toute la ville avec mes super pas de danse !"
+ },
+ {
+  "id": "energy-20261119-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dan ga ik de hele nacht dansen en de hele stad van stroom voorzien met mijn supermoves!"
+ },
+ {
+  "id": "energy-20261119-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Love the moves, but one step only makes enough for a quick light blink! Did you know a quartz watch works the other way around: electricity makes its tiny crystal wiggle to keep time?"
+ },
+ {
+  "id": "energy-20261119-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "J’adore tes pas, mais un seul pas fait juste assez pour un petit clignotement ! Savais-tu qu’une montre à quartz fait l’inverse : l’électricité fait vibrer son petit cristal pour compter le temps ?"
+ },
+ {
+  "id": "energy-20261119-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Mooie moves, maar één stap is maar genoeg voor een korte lichtflits! Wist je dat een kwartshorloge het omgekeerde doet: stroom laat het kleine kristal trillen om de tijd bij te houden?"
+ },
+ {
+  "id": "energy-20261119-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So sunlight, wind, water and even our footsteps can make electricity! Where would you put energy tiles so lots of feet could help?"
+ },
+ {
+  "id": "energy-20261119-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc le soleil, le vent, l’eau et même nos pas peuvent produire de l’électricité ! Où mettrais-tu des dalles à énergie pour que plein de pieds aident ?"
+ },
+ {
+  "id": "energy-20261119-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus zonlicht, wind, water en zelfs onze voetstappen kunnen stroom maken! Waar zou jij energietegels leggen, zodat heel veel voeten kunnen helpen?"
  }
 ]

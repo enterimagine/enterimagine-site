@@ -1,0 +1,239 @@
+{
+ "id": "energy-20261119",
+ "world": "energy",
+ "guide": "Sunny",
+ "title": {
+  "en": "Can your footsteps make electricity?",
+  "fr": "Tes pas peuvent-ils produire de l’électricité ?",
+  "nl": "Kunnen je voetstappen stroom maken?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, at the train station the floor lit up every time I stepped on it! Is the floor ticklish?",
+   "fr": "Sunny, à la gare, le sol s’allumait chaque fois que je marchais dessus ! Le sol est chatouilleux ?",
+   "nl": "Sunny, op het station lichtte de vloer op bij elke stap die ik zette! Is de vloer kietelig?",
+   "img": "Whyzz steps on glowing floor tiles at a station"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Ha, not ticklish, but clever! Those are energy tiles: when you step on one, your push is turned into a little electricity that lights it up.",
+   "fr": "Ha, pas chatouilleux, mais malin ! Ce sont des dalles à énergie : quand tu marches dessus, ta poussée est transformée en un peu d’électricité qui les allume.",
+   "nl": "Haha, niet kietelig, maar slim! Dat zijn energietegels: als je erop stapt, wordt jouw duw omgezet in een beetje stroom die ze laat oplichten.",
+   "img": "Sunny explains the glowing energy tiles"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Some tiles use special crystals. Squeeze a lemon and you get juice; squeeze these crystals and you get a tiny bit of electricity!",
+   "fr": "Certaines dalles utilisent des cristaux spéciaux. Si tu presses un citron, tu obtiens du jus ; si tu presses ces cristaux, tu obtiens un tout petit peu d’électricité !",
+   "nl": "Sommige tegels gebruiken speciale kristallen. Knijp je in een citroen, dan krijg je sap; knijp je in deze kristallen, dan krijg je een klein beetje stroom!",
+   "img": "Sunny squeezes a lemon next to a sparkling crystal"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Then I’ll dance all night and power the whole city with my awesome moves!",
+   "fr": "Alors je vais danser toute la nuit et alimenter toute la ville avec mes super pas de danse !",
+   "nl": "Dan ga ik de hele nacht dansen en de hele stad van stroom voorzien met mijn supermoves!",
+   "img": "Whyzz dances wildly on glowing tiles"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Love the moves, but one step only makes enough for a quick light blink! Did you know a quartz watch works the other way around: electricity makes its tiny crystal wiggle to keep time?",
+   "fr": "J’adore tes pas, mais un seul pas fait juste assez pour un petit clignotement ! Savais-tu qu’une montre à quartz fait l’inverse : l’électricité fait vibrer son petit cristal pour compter le temps ?",
+   "nl": "Mooie moves, maar één stap is maar genoeg voor een korte lichtflits! Wist je dat een kwartshorloge het omgekeerde doet: stroom laat het kleine kristal trillen om de tijd bij te houden?",
+   "img": "Sunny shows a big cartoon watch with a wiggling crystal"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So sunlight, wind, water and even our footsteps can make electricity! Where would you put energy tiles so lots of feet could help?",
+   "fr": "Donc le soleil, le vent, l’eau et même nos pas peuvent produire de l’électricité ! Où mettrais-tu des dalles à énergie pour que plein de pieds aident ?",
+   "nl": "Dus zonlicht, wind, water en zelfs onze voetstappen kunnen stroom maken! Waar zou jij energietegels leggen, zodat heel veel voeten kunnen helpen?",
+   "img": "Whyzz and Sunny high-five on glowing tiles"
+  }
+ ],
+ "prompts": [
+  "In a bright modern train station hall with no signs, a path of square floor tiles glows in bright rainbow colors under the feet of Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge who hops from tile to tile with a delighted surprised face, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge walks beside him smiling. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright modern train station hall with no signs Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge kneels and points at a glowing square floor tile that lights up with soft yellow light when pressed, little sparkles of energy flow from it into a lamp, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches curiously. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright cheerful science room Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge squeezes a juicy yellow lemon in one hand while in her other hand a sparkling see-through crystal gives off tiny blue electric sparkles when pressed, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks back and forth with wide amazed eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright modern train station hall with no signs Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge dances wildly with silly disco moves on a floor of brightly glowing colorful tiles, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge laughs and claps along. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright cheerful science room Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge holds up a giant friendly cartoon wristwatch opened up to show a tiny shiny crystal inside wiggling with little motion lines, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans in with his mouth open in wonder. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a sunny city square with a solar panel roof, a wind turbine and a river in the background Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge give each other a big high-five while standing on glowing floor tiles. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What happened when Whyzz stepped on the station floor?",
+    "fr": "Que se passait-il quand Whyzz marchait sur le sol de la gare ?",
+    "nl": "Wat gebeurde er als Whyzz op de stationsvloer stapte?"
+   },
+   "o": {
+    "en": [
+     "It made music",
+     "It lit up",
+     "It got slippery"
+    ],
+    "fr": [
+     "Il faisait de la musique",
+     "Il s’allumait",
+     "Il devenait glissant"
+    ],
+    "nl": [
+     "Hij maakte muziek",
+     "Hij lichtte op",
+     "Hij werd glad"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What do energy tiles turn your push into?",
+    "fr": "En quoi les dalles à énergie transforment-elles ta poussée ?",
+    "nl": "Waarin zetten energietegels jouw duw om?"
+   },
+   "o": {
+    "en": [
+     "A little electricity",
+     "Water",
+     "Ice cream"
+    ],
+    "fr": [
+     "En un peu d’électricité",
+     "En eau",
+     "En glace"
+    ],
+    "nl": [
+     "Een beetje stroom",
+     "Water",
+     "IJs"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What do you get when you squeeze the special crystals?",
+    "fr": "Qu’obtiens-tu quand tu presses les cristaux spéciaux ?",
+    "nl": "Wat krijg je als je in de speciale kristallen knijpt?"
+   },
+   "o": {
+    "en": [
+     "Lemon juice",
+     "Warm air",
+     "A tiny bit of electricity"
+    ],
+    "fr": [
+     "Du jus de citron",
+     "De l’air chaud",
+     "Un tout petit peu d’électricité"
+    ],
+    "nl": [
+     "Citroensap",
+     "Warme lucht",
+     "Een klein beetje stroom"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "How much electricity does one step make?",
+    "fr": "Combien d’électricité fait un seul pas ?",
+    "nl": "Hoeveel stroom maakt één stap?"
+   },
+   "o": {
+    "en": [
+     "Enough for the whole city",
+     "Enough for a quick light blink",
+     "Nothing at all"
+    ],
+    "fr": [
+     "Assez pour toute la ville",
+     "Assez pour un petit clignotement",
+     "Rien du tout"
+    ],
+    "nl": [
+     "Genoeg voor de hele stad",
+     "Genoeg voor een korte lichtflits",
+     "Helemaal niets"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What makes the crystal in a quartz watch wiggle?",
+    "fr": "Qu’est-ce qui fait vibrer le cristal d’une montre à quartz ?",
+    "nl": "Wat laat het kristal in een kwartshorloge trillen?"
+   },
+   "o": {
+    "en": [
+     "Wind",
+     "Sunlight",
+     "Electricity"
+    ],
+    "fr": [
+     "Le vent",
+     "Le soleil",
+     "L’électricité"
+    ],
+    "nl": [
+     "Wind",
+     "Zonlicht",
+     "Stroom"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "What can make electricity?",
+   "fr": "Qu’est-ce qui peut produire de l’électricité ?",
+   "nl": "Wat kan stroom maken?"
+  },
+  "intro": {
+   "en": "Pick everything that can make electricity!",
+   "fr": "Choisis tout ce qui peut produire de l’électricité !",
+   "nl": "Kies alles wat stroom kan maken!"
+  },
+  "done": {
+   "en": "Super! You found all the energy makers.",
+   "fr": "Super ! Tu as trouvé toutes les sources d’énergie.",
+   "nl": "Super! Je vond alle stroommakers."
+  },
+  "items": {
+   "en": [
+    "Sunlight on a solar panel",
+    "Wind turning a turbine",
+    "Footsteps on energy tiles",
+    "River water spinning a turbine",
+    "A sleeping cat",
+    "A plain rock"
+   ],
+   "fr": [
+    "Le soleil sur un panneau solaire",
+    "Le vent qui fait tourner une éolienne",
+    "Des pas sur des dalles à énergie",
+    "L’eau d’une rivière qui fait tourner une turbine",
+    "Un chat qui dort",
+    "Un simple caillou"
+   ],
+   "nl": [
+    "Zonlicht op een zonnepaneel",
+    "Wind die een windturbine laat draaien",
+    "Voetstappen op energietegels",
+    "Rivierwater dat een turbine laat draaien",
+    "Een slapende kat",
+    "Een gewone steen"
+   ]
+  },
+  "good": [
+   0,
+   1,
+   2,
+   3
+  ]
+ }
+}

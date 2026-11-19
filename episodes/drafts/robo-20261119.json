@@ -1,0 +1,233 @@
+{
+ "id": "robo-20261119",
+ "world": "robo",
+ "guide": "Pixel",
+ "title": {
+  "en": "How do robots pick strawberries?",
+  "fr": "Comment les robots cueillent-ils des fraises ?",
+  "nl": "Hoe plukken robots aardbeien?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, at the strawberry farm I saw a robot picking berries all by itself! How does it know which ones to pick?",
+   "fr": "Pixel, à la ferme aux fraises, j’ai vu un robot cueillir des fraises tout seul ! Comment sait-il lesquelles cueillir ?",
+   "nl": "Pixel, op de aardbeienboerderij zag ik een robot helemaal zelf aardbeien plukken! Hoe weet hij welke hij moet plukken?",
+   "img": "Whyzz points at a robot picking strawberries"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "It uses cameras as eyes! It looks under the leaves, finds each strawberry and checks its color: bright red means ripe and green means wait.",
+   "fr": "Il utilise des caméras comme des yeux ! Il regarde sous les feuilles, trouve chaque fraise et vérifie sa couleur : rouge vif, c’est mûr, et vert, il faut attendre.",
+   "nl": "Hij gebruikt camera’s als ogen! Hij kijkt onder de bladeren, vindt elke aardbei en checkt de kleur: knalrood is rijp en groen moet nog wachten.",
+   "img": "The robot’s camera eyes look at red and green berries"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Then a soft gripper holds the berry gently, like you’d hold a baby chick. A tiny cutter snips the stem and plop, into the basket!",
+   "fr": "Ensuite, une pince toute douce tient la fraise délicatement, comme tu tiendrais un poussin, et une petite lame coupe la queue. Hop, dans le panier !",
+   "nl": "Dan houdt een zachte grijper de aardbei voorzichtig vast, zoals jij een kuikentje zou vasthouden, en een klein mesje knipt het steeltje door. Plop, in het mandje!",
+   "img": "A soft robot gripper gently places a strawberry in a basket"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "If I were that robot, I’d eat one strawberry for every one I picked. Robot snack time!",
+   "fr": "Si j’étais ce robot, je mangerais une fraise pour chaque fraise cueillie. C’est l’heure du goûter des robots !",
+   "nl": "Als ik die robot was, at ik één aardbei op voor elke aardbei die ik plukte. Robot-snacktijd!",
+   "img": "Whyzz pretends to be a robot with strawberry cheeks"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, robots don’t eat, so every berry reaches the basket! Did you know some strawberry robots work at night, using bright lamps to see the red berries?",
+   "fr": "Ha, les robots ne mangent pas, alors toutes les fraises arrivent au panier ! Savais-tu que certains robots cueillent la nuit, avec des lampes puissantes pour voir les fraises rouges ?",
+   "nl": "Haha, robots eten niet, dus elke aardbei komt in het mandje! Wist je dat sommige aardbeienrobots ’s nachts werken, met felle lampen om de rode aardbeien te zien?",
+   "img": "The robot picks strawberries at night with bright lamps"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the robot sees, checks, grabs gently and snips, while farmers decide where it works! What fruit would you want a robot to pick?",
+   "fr": "Donc le robot regarde, vérifie, attrape doucement et coupe, et ce sont les agriculteurs qui décident où il travaille ! Quel fruit aimerais-tu qu’un robot cueille ?",
+   "nl": "Dus de robot kijkt, checkt, pakt zacht vast en knipt, en de boeren bepalen waar hij werkt! Welk fruit zou jij door een robot laten plukken?",
+   "img": "Whyzz and Pixel high-five with a full basket"
+  }
+ ],
+ "prompts": [
+  "On a sunny green strawberry farm with long rows of plants a friendly white robot on wheels with two camera eyes and a slim arm picks strawberries, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge points at it excitedly with a big open-mouthed smile, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands beside him and grins. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a sunny green strawberry farm a close view of a friendly white robot whose two round camera eyes glow blue as it peeks under leaves at bright red ripe strawberries and small green unripe ones, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge kneels beside it and explains with a raised finger, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks closely with curiosity. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a sunny green strawberry farm a friendly white robot arm with a soft rounded rubbery gripper gently holds a big red strawberry while a tiny cutter snips the stem above a wicker basket full of strawberries, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge smiles proudly, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge claps. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a sunny green strawberry farm Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stiffly pretends to be a robot with his arms bent like a robot and his cheeks puffed full of strawberries, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs out loud next to the friendly white robot. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a strawberry farm at night under a starry sky a friendly white robot with bright warm lamps lights up rows of red strawberries and picks them, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge watches with a flashlight and a big smile, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge yawns happily in pajamas. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a sunny green strawberry farm Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge give each other a big high-five next to the friendly white robot holding a wicker basket overflowing with red strawberries. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What does the robot use as eyes?",
+    "fr": "Qu’est-ce que le robot utilise comme yeux ?",
+    "nl": "Wat gebruikt de robot als ogen?"
+   },
+   "o": {
+    "en": [
+     "Magnets",
+     "Cameras",
+     "Flashlights"
+    ],
+    "fr": [
+     "Des aimants",
+     "Des caméras",
+     "Des lampes de poche"
+    ],
+    "nl": [
+     "Magneten",
+     "Camera’s",
+     "Zaklampen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Which color tells the robot a strawberry is ripe?",
+    "fr": "Quelle couleur dit au robot qu’une fraise est mûre ?",
+    "nl": "Welke kleur vertelt de robot dat een aardbei rijp is?"
+   },
+   "o": {
+    "en": [
+     "Bright red",
+     "Green",
+     "Blue"
+    ],
+    "fr": [
+     "Rouge vif",
+     "Vert",
+     "Bleu"
+    ],
+    "nl": [
+     "Knalrood",
+     "Groen",
+     "Blauw"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "How does the soft gripper hold the berry?",
+    "fr": "Comment la pince douce tient-elle la fraise ?",
+    "nl": "Hoe houdt de zachte grijper de aardbei vast?"
+   },
+   "o": {
+    "en": [
+     "Very hard",
+     "With sticky glue",
+     "Gently, like a baby chick"
+    ],
+    "fr": [
+     "Très fort",
+     "Avec de la colle",
+     "Délicatement, comme un poussin"
+    ],
+    "nl": [
+     "Heel hard",
+     "Met plakkerige lijm",
+     "Voorzichtig, zoals een kuikentje"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Why does every berry reach the basket?",
+    "fr": "Pourquoi toutes les fraises arrivent-elles au panier ?",
+    "nl": "Waarom komt elke aardbei in het mandje?"
+   },
+   "o": {
+    "en": [
+     "The basket is magic",
+     "Robots don’t eat",
+     "Birds help"
+    ],
+    "fr": [
+     "Le panier est magique",
+     "Les robots ne mangent pas",
+     "Les oiseaux aident"
+    ],
+    "nl": [
+     "Het mandje is magisch",
+     "Robots eten niet",
+     "Vogels helpen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How can some strawberry robots work at night?",
+    "fr": "Comment certains robots peuvent-ils cueillir la nuit ?",
+    "nl": "Hoe kunnen sommige aardbeienrobots ’s nachts werken?"
+   },
+   "o": {
+    "en": [
+     "With bright lamps",
+     "With glowing strawberries",
+     "They take a nap"
+    ],
+    "fr": [
+     "Avec des lampes puissantes",
+     "Avec des fraises lumineuses",
+     "Ils font la sieste"
+    ],
+    "nl": [
+     "Met felle lampen",
+     "Met lichtgevende aardbeien",
+     "Ze doen een dutje"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "Help the robot pick a strawberry",
+   "fr": "Aide le robot à cueillir une fraise",
+   "nl": "Help de robot een aardbei plukken"
+  },
+  "intro": {
+   "en": "Put the robot’s steps in the right order!",
+   "fr": "Remets les étapes du robot dans le bon ordre !",
+   "nl": "Zet de stappen van de robot in de goede volgorde!"
+  },
+  "done": {
+   "en": "Yum! The strawberry is safe in the basket.",
+   "fr": "Miam ! La fraise est bien dans le panier.",
+   "nl": "Lekker! De aardbei ligt veilig in het mandje."
+  },
+  "items": {
+   "en": [
+    "Look under the leaves with cameras",
+    "Find a strawberry",
+    "Check that it is bright red",
+    "Hold it gently with the soft gripper",
+    "Snip the stem",
+    "Put it in the basket"
+   ],
+   "fr": [
+    "Regarder sous les feuilles avec les caméras",
+    "Trouver une fraise",
+    "Vérifier qu’elle est rouge vif",
+    "La tenir doucement avec la pince",
+    "Couper la queue",
+    "La mettre dans le panier"
+   ],
+   "nl": [
+    "Met camera’s onder de bladeren kijken",
+    "Een aardbei vinden",
+    "Checken of hij knalrood is",
+    "Hem zacht vastpakken met de grijper",
+    "Het steeltje doorknippen",
+    "Hem in het mandje leggen"
+   ]
+  }
+ }
+}

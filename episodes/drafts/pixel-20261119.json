@@ -1,0 +1,230 @@
+{
+ "id": "pixel-20261119",
+ "world": "pixel",
+ "guide": "Pixel",
+ "title": {
+  "en": "How does your phone guess your next word?",
+  "fr": "Comment ton téléphone devine-t-il ton prochain mot ?",
+  "nl": "Hoe raadt je telefoon je volgende woord?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, I typed “I want to eat a” and my phone suggested “pizza” before I finished! Can my phone read my mind?",
+   "fr": "Pixel, j’ai tapé « J’ai envie de manger une » et mon téléphone a proposé « pizza » avant que je finisse ! Il lit dans mes pensées ?",
+   "nl": "Pixel, ik typte “Ik heb zin in” en mijn telefoon stelde meteen “pizza” voor! Kan mijn telefoon gedachten lezen?",
+   "img": "Whyzz is amazed as a pizza pops out of his phone"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "No mind reading, I promise! Your phone learned from lots and lots of sentences which words often come next, just like you know “Once upon a…” ends with “time”.",
+   "fr": "Il ne lit pas dans les pensées, promis ! Ton téléphone a appris avec des tas de phrases quels mots viennent souvent après, comme tu sais que « Il était une… » finit par « fois ».",
+   "nl": "Geen gedachten lezen, beloofd! Je telefoon leerde uit heel veel zinnen welke woorden vaak volgen, net zoals jij weet dat na “Er was…” meestal “eens” komt.",
+   "img": "Pixel shows a storybook with words linking like a chain"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "It plays a guessing game with scores. After “I want to eat a” food words get high scores, while a word like “sock” gets a super low score.",
+   "fr": "Il joue à un jeu de devinettes avec des scores. Après « J’ai envie de manger une », les mots de nourriture ont de hauts scores, mais « chaussette » a un score tout petit.",
+   "nl": "Hij speelt een raadspel met scores. Na “Ik heb zin in” krijgen etenswoorden hoge scores, maar een woord als “sok” krijgt een superlage score.",
+   "img": "A game show with a pizza scoring high and a sock scoring low"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Wait, so if I type “sock” a hundred times, my phone will think I want to eat socks? Yum… not!",
+   "fr": "Attends, si je tape « chaussette » cent fois, mon téléphone va croire que je veux manger des chaussettes ? Miam… ou pas !",
+   "nl": "Wacht, als ik honderd keer “sok” typ, denkt mijn telefoon dan dat ik sokken wil eten? Lekker… niet dus!",
+   "img": "Whyzz makes a funny face at a plate of socks"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, it might suggest “sock” more often, because it also learns from the words you use! Did you know smart chatbots play a giant version of this same next-word guessing game?",
+   "fr": "Ha, il proposera peut-être plus souvent « chaussette », car il apprend aussi de tes mots ! Savais-tu que les chatbots intelligents jouent à une version géante de ce jeu du mot suivant ?",
+   "nl": "Haha, misschien stelt hij vaker “sok” voor, want hij leert ook van jouw woorden! Wist je dat slimme chatbots een gigantische versie van hetzelfde raadspel spelen?",
+   "img": "Pixel shows a giant friendly glowing robot head above a library"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So my phone doesn’t read minds. It makes smart guesses from words that often go together! What funny sentence would you let your phone finish?",
+   "fr": "Donc mon téléphone ne lit pas dans les pensées. Il devine juste grâce aux mots qui vont souvent ensemble ! Quelle phrase rigolote laisserais-tu ton téléphone terminer ?",
+   "nl": "Dus mijn telefoon leest geen gedachten. Hij raadt slim met woorden die vaak samen voorkomen! Welke grappige zin zou jij je telefoon laten afmaken?",
+   "img": "Whyzz and Pixel high-five on the sofa"
+  }
+ ],
+ "prompts": [
+  "In a cozy colorful living room Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits on a sofa holding a phone and stares amazed with wide eyes as a glowing cartoon slice of pizza pops out of the phone like a hologram, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge sits next to him and smiles knowingly. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy colorful living room Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge holds open a giant glowing storybook from which colorful glowing puzzle pieces fly out and click together into a long chain in the air, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with his mouth open in wonder. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a bright colorful game show stage with sparkling lights stand two podiums, on one a giant cartoon pizza slice with a very tall glowing green light bar behind it, on the other a striped sock with a tiny short red light bar, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge presents like a cheerful host with her arm stretched out, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs and claps. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy colorful kitchen Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits at a table looking at a dinner plate piled with colorful striped socks and a fork and makes a hilarious grossed-out face with his tongue out, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge giggles behind her hand. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a big bright magical library with tall bookshelves a huge friendly round robot head made of soft blue light floats in the air and smiles, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points up at it excitedly, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks up amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy colorful living room Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge give each other a big high-five on the sofa, small glowing pizza slices, socks and stars float playfully around them. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Which word did the phone suggest to Whyzz?",
+    "fr": "Quel mot le téléphone a-t-il proposé à Whyzz ?",
+    "nl": "Welk woord stelde de telefoon voor aan Whyzz?"
+   },
+   "o": {
+    "en": [
+     "Sock",
+     "Pizza",
+     "Homework"
+    ],
+    "fr": [
+     "Chaussette",
+     "Pizza",
+     "Trousse"
+    ],
+    "nl": [
+     "Sok",
+     "Pizza",
+     "Huiswerk"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How did the phone learn which words come next?",
+    "fr": "Comment le téléphone a-t-il appris quels mots viennent après ?",
+    "nl": "Hoe leerde de telefoon welke woorden volgen?"
+   },
+   "o": {
+    "en": [
+     "From lots and lots of sentences",
+     "By reading your mind",
+     "By asking your friends"
+    ],
+    "fr": [
+     "Avec des tas de phrases",
+     "En lisant dans tes pensées",
+     "En demandant à tes amis"
+    ],
+    "nl": [
+     "Uit heel veel zinnen",
+     "Door gedachten te lezen",
+     "Door het aan je vrienden te vragen"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Which word gets a super low score after a food sentence?",
+    "fr": "Quel mot a un score tout petit après une phrase sur la nourriture ?",
+    "nl": "Welk woord krijgt een superlage score na een zin over eten?"
+   },
+   "o": {
+    "en": [
+     "Pizza",
+     "Pancake",
+     "Sock"
+    ],
+    "fr": [
+     "Pizza",
+     "Crêpe",
+     "Chaussette"
+    ],
+    "nl": [
+     "Pizza",
+     "Pannenkoek",
+     "Sok"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Who else does the phone learn from?",
+    "fr": "De qui d’autre le téléphone apprend-il ?",
+    "nl": "Van wie leert de telefoon nog meer?"
+   },
+   "o": {
+    "en": [
+     "From cats",
+     "From the words you use",
+     "From the weather"
+    ],
+    "fr": [
+     "Des chats",
+     "Des mots que tu utilises",
+     "De la météo"
+    ],
+    "nl": [
+     "Van katten",
+     "Van de woorden die jij gebruikt",
+     "Van het weer"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What do smart chatbots play?",
+    "fr": "À quoi jouent les chatbots intelligents ?",
+    "nl": "Wat spelen slimme chatbots?"
+   },
+   "o": {
+    "en": [
+     "A giant next-word guessing game",
+     "Hide and seek",
+     "Soccer"
+    ],
+    "fr": [
+     "À un jeu géant du mot suivant",
+     "À cache-cache",
+     "Au foot"
+    ],
+    "nl": [
+     "Een gigantisch raadspel met het volgende woord",
+     "Verstoppertje",
+     "Voetbal"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "Put the guessing steps in order",
+   "fr": "Remets les étapes dans l’ordre",
+   "nl": "Zet de raadstappen op volgorde"
+  },
+  "intro": {
+   "en": "How does your phone guess the next word? Put the steps in the right order!",
+   "fr": "Comment ton téléphone devine-t-il le mot suivant ? Remets les étapes dans le bon ordre !",
+   "nl": "Hoe raadt je telefoon het volgende woord? Zet de stappen in de goede volgorde!"
+  },
+  "done": {
+   "en": "Perfect! Now you know how word guessing works.",
+   "fr": "Parfait ! Maintenant, tu sais comment le téléphone devine les mots.",
+   "nl": "Perfect! Nu weet je hoe woorden raden werkt."
+  },
+  "items": {
+   "en": [
+    "You start typing a sentence",
+    "The phone looks at the words so far",
+    "It gives scores to possible next words",
+    "It shows the words with the best scores",
+    "You tap a word or keep typing"
+   ],
+   "fr": [
+    "Tu commences à taper une phrase",
+    "Le téléphone regarde les mots déjà écrits",
+    "Il donne des scores aux mots possibles",
+    "Il montre les mots avec les meilleurs scores",
+    "Tu choisis un mot ou tu continues à taper"
+   ],
+   "nl": [
+    "Je begint een zin te typen",
+    "De telefoon kijkt naar de woorden tot nu toe",
+    "Hij geeft scores aan mogelijke volgende woorden",
+    "Hij toont de woorden met de beste scores",
+    "Je tikt een woord aan of typt verder"
+   ]
+  }
+ }
+}

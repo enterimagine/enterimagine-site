@@ -1,0 +1,247 @@
+{
+ "id": "bloom-20261119",
+ "world": "bloom",
+ "guide": "Bloom",
+ "title": {
+  "en": "Why do onions make you cry?",
+  "fr": "Pourquoi les oignons font-ils pleurer ?",
+  "nl": "Waarom moet je huilen van uien?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Bloom, my uncle was cutting an onion and suddenly we were both crying! Was the onion telling us a sad story?",
+   "fr": "Bloom, mon oncle coupait un oignon et d’un coup, on pleurait tous les deux ! L’oignon nous racontait une histoire triste ?",
+   "nl": "Bloom, mijn oom sneed een ui en opeens moesten we allebei huilen! Vertelde de ui ons een zielig verhaal?",
+   "img": "Whyzz and his uncle cry funny tears over an onion"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Ha, no sad story! An onion is made of tiny cells, like little water balloons. When the knife cuts them, two substances that were kept apart suddenly mix.",
+   "fr": "Ha, pas d’histoire triste ! Un oignon est fait de minuscules cellules, comme des petits ballons d’eau. Quand le couteau les coupe, deux substances bien séparées se mélangent d’un coup.",
+   "nl": "Haha, geen zielig verhaal! Een ui bestaat uit piepkleine cellen, net kleine waterballonnetjes. Als het mes ze opensnijdt, mengen twee stoffen die eerst gescheiden waren zich opeens.",
+   "img": "Bloom shows onion cells like water balloons through a magnifier"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "When they mix, they make a stinging gas that floats up to your eyes. Your eyes don’t like it, so they make tears to wash it away.",
+   "fr": "En se mélangeant, elles forment un gaz piquant qui monte jusqu’à tes yeux. Tes yeux n’aiment pas ça, alors ils font des larmes pour le rincer.",
+   "nl": "Als ze mengen, maken ze een prikkend gas dat naar je ogen zweeft. Je ogen vinden dat niet fijn, dus maken ze tranen om het weg te spoelen.",
+   "img": "A wispy cloud floats from the onion to Whyzz’s eyes"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the onion is a tiny ninja with a secret tear spray? Sneaky!",
+   "fr": "Donc l’oignon est un petit ninja avec un spray à larmes secret ? Malin !",
+   "nl": "Dus de ui is een kleine ninja met een geheime tranenspray? Stiekem!",
+   "img": "Whyzz imagines an onion ninja"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Kind of! It’s how onions protect themselves from hungry animals. Did you know a cold onion from the fridge makes less gas, so you cry less?",
+   "fr": "Un peu, oui ! C’est comme ça que les oignons se protègent des animaux affamés. Savais-tu qu’un oignon bien froid, sorti du frigo, fait moins de gaz et donc moins pleurer ?",
+   "nl": "Een beetje wel! Zo beschermen uien zich tegen hongerige dieren. Wist je dat een koude ui uit de koelkast minder gas maakt, zodat je minder huilt?",
+   "img": "Bloom takes a frosty onion out of the fridge"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So cut cells make a stinging gas and my tears wash it away! What trick would you try to beat onion tears?",
+   "fr": "Donc les cellules coupées font un gaz piquant et mes larmes le rincent ! Quelle astuce essaierais-tu contre les larmes d’oignon ?",
+   "nl": "Dus gesneden cellen maken een prikkend gas en mijn tranen spoelen het weg! Welk trucje zou jij proberen tegen uientranen?",
+   "img": "Whyzz and Bloom high-five next to a basket of onions"
+  }
+ ],
+ "prompts": [
+  "In a cozy bright kitchen a friendly grown-up man in a striped apron chops an onion on a wooden cutting board with big funny cartoon tears on his cheeks, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands next to him with tears streaming and a puzzled grin, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge walks in and waves. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy bright kitchen Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge holds a giant magnifying glass over half an onion, and inside the magnifier the onion looks like hundreds of shiny round see-through water balloons packed together, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge peeks over his shoulder with teary eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy bright kitchen a soft wispy pale-yellow cartoon cloud floats up from a chopped onion toward the face of Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge who blinks with big tears, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge explains kindly while holding out a tissue. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy bright kitchen Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs and imagines in a big dreamy thought cloud a cute round cartoon onion wearing a little black ninja mask and holding a tiny spray bottle, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge laughs next to him. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy bright kitchen Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge takes a cold onion with frosty mist out of an open fridge and smiles proudly, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge gives a big thumbs up with dry happy eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy bright kitchen Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge give each other a big high-five next to a wicker basket full of onions, both smiling with no tears. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What are onion cells compared to?",
+    "fr": "À quoi les cellules de l’oignon sont-elles comparées ?",
+    "nl": "Waarmee worden de cellen van een ui vergeleken?"
+   },
+   "o": {
+    "en": [
+     "Tiny marbles",
+     "Little water balloons",
+     "Soft pillows"
+    ],
+    "fr": [
+     "À des billes",
+     "À des petits ballons d’eau",
+     "À des coussins"
+    ],
+    "nl": [
+     "Knikkertjes",
+     "Kleine waterballonnetjes",
+     "Zachte kussens"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What do the two substances make when they mix?",
+    "fr": "Que forment les deux substances en se mélangeant ?",
+    "nl": "Wat maken de twee stoffen als ze mengen?"
+   },
+   "o": {
+    "en": [
+     "A stinging gas",
+     "Sugar",
+     "Glue"
+    ],
+    "fr": [
+     "Un gaz piquant",
+     "Du sucre",
+     "De la colle"
+    ],
+    "nl": [
+     "Een prikkend gas",
+     "Suiker",
+     "Lijm"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why do your eyes make tears?",
+    "fr": "Pourquoi tes yeux font-ils des larmes ?",
+    "nl": "Waarom maken je ogen tranen?"
+   },
+   "o": {
+    "en": [
+     "Because they are sad",
+     "To make the onion sweeter",
+     "To wash the gas away"
+    ],
+    "fr": [
+     "Parce qu’ils sont tristes",
+     "Pour rendre l’oignon plus sucré",
+     "Pour rincer le gaz"
+    ],
+    "nl": [
+     "Omdat ze verdrietig zijn",
+     "Om de ui zoeter te maken",
+     "Om het gas weg te spoelen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Why do onions have this trick?",
+    "fr": "Pourquoi les oignons ont-ils cette astuce ?",
+    "nl": "Waarom hebben uien dit trucje?"
+   },
+   "o": {
+    "en": [
+     "To grow faster",
+     "To protect themselves from hungry animals",
+     "To smell nice"
+    ],
+    "fr": [
+     "Pour pousser plus vite",
+     "Pour se protéger des animaux affamés",
+     "Pour sentir bon"
+    ],
+    "nl": [
+     "Om sneller te groeien",
+     "Om zich te beschermen tegen hongerige dieren",
+     "Om lekker te ruiken"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What can make you cry less?",
+    "fr": "Qu’est-ce qui peut te faire moins pleurer ?",
+    "nl": "Waardoor huil je minder?"
+   },
+   "o": {
+    "en": [
+     "A cold onion from the fridge",
+     "A warm onion",
+     "A bigger onion"
+    ],
+    "fr": [
+     "Un oignon froid sorti du frigo",
+     "Un oignon chaud",
+     "Un plus gros oignon"
+    ],
+    "nl": [
+     "Een koude ui uit de koelkast",
+     "Een warme ui",
+     "Een grotere ui"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Onion tear match",
+   "fr": "Associe les larmes d’oignon",
+   "nl": "Koppel de uientranen"
+  },
+  "intro": {
+   "en": "What happens next? Match each step to its result!",
+   "fr": "Que se passe-t-il ensuite ? Associe chaque étape à son résultat !",
+   "nl": "Wat gebeurt er daarna? Koppel elke stap aan het resultaat!"
+  },
+  "done": {
+   "en": "Great match! You know the onion’s secret now.",
+   "fr": "Bien joué ! Tu connais maintenant le secret de l’oignon.",
+   "nl": "Goed gekoppeld! Nu ken je het geheim van de ui."
+  },
+  "left": {
+   "en": [
+    "The knife cuts the onion",
+    "Two substances mix",
+    "The gas reaches your eyes",
+    "The onion is cold"
+   ],
+   "fr": [
+    "Le couteau coupe l’oignon",
+    "Deux substances se mélangent",
+    "Le gaz arrive dans tes yeux",
+    "L’oignon est froid"
+   ],
+   "nl": [
+    "Het mes snijdt de ui",
+    "Twee stoffen mengen",
+    "Het gas bereikt je ogen",
+    "De ui is koud"
+   ]
+  },
+  "right": {
+   "en": [
+    "Tiny cells break open",
+    "A stinging gas forms",
+    "Your eyes make tears",
+    "Less gas is made"
+   ],
+   "fr": [
+    "Les petites cellules s’ouvrent",
+    "Un gaz piquant se forme",
+    "Tes yeux font des larmes",
+    "Il se forme moins de gaz"
+   ],
+   "nl": [
+    "Piepkleine cellen gaan open",
+    "Er ontstaat een prikkend gas",
+    "Je ogen maken tranen",
+    "Er komt minder gas vrij"
+   ]
+  }
+ }
+}

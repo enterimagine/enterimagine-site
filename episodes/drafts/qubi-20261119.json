@@ -1,0 +1,238 @@
+{
+ "id": "qubi-20261119",
+ "world": "qubi",
+ "guide": "Qubi",
+ "title": {
+  "en": "Why do some toys glow in the dark?",
+  "fr": "Pourquoi certains jouets brillent-ils dans le noir ?",
+  "nl": "Waarom geven sommige speeltjes licht in het donker?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, I turned off my light and the stars on my ceiling started to glow green! Are they tiny batteries?",
+   "fr": "Qubi, j’ai éteint la lumière et les étoiles de mon plafond se sont mises à briller en vert ! Ce sont de toutes petites piles ?",
+   "nl": "Qubi, ik deed mijn licht uit en de sterretjes op mijn plafond begonnen groen te gloeien! Zijn het piepkleine batterijen?",
+   "img": "Whyzz in bed points at glowing green ceiling stars"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "No batteries! Your stars, glow paint and some watch hands contain a special powder. When light shines on it, tiny electrons inside get extra energy.",
+   "fr": "Pas de piles ! Tes étoiles, la peinture lumineuse et certaines aiguilles de montre contiennent une poudre spéciale. Quand la lumière l’éclaire, de minuscules électrons reçoivent de l’énergie.",
+   "nl": "Geen batterijen! Je sterren, glowverf en sommige horlogewijzers bevatten een speciaal poeder. Als er licht op schijnt, krijgen piepkleine elektronen extra energie.",
+   "img": "Qubi shines a flashlight on glow stars, tiny sparkles inside"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "The electrons jump up to a higher step, like kids climbing a slide ladder. Then they slowly slide back down one by one and each slide makes a tiny bit of light.",
+   "fr": "Les électrons montent sur une marche plus haute, comme des enfants qui grimpent l’échelle d’un toboggan. Puis ils redescendent lentement, un par un, et chaque glissade fait un peu de lumière.",
+   "nl": "De elektronen springen een trede hoger, zoals kinderen die de ladder van een glijbaan opklimmen. Dan glijden ze langzaam één voor één terug en elke glijpartij geeft een beetje licht.",
+   "img": "Tiny glowing balls slide down a slide and sparkle"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Cool! So if I sit in the sun all day, will I glow at night like a lamp?",
+   "fr": "Trop cool ! Alors si je reste au soleil toute la journée, je vais briller la nuit comme une lampe ?",
+   "nl": "Cool! Dus als ik de hele dag in de zon zit, gloei ik ’s nachts als een lamp?",
+   "img": "Whyzz imagines himself glowing like a lamp"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Ha, no, you’re not made of glow powder! Did you know most glow toys shine green because our eyes see green-ish light best in the dark?",
+   "fr": "Ha, non, tu n’es pas fait de poudre lumineuse ! Savais-tu que la plupart des jouets lumineux brillent en vert, parce que nos yeux voient mieux la lumière verte dans le noir ?",
+   "nl": "Haha, nee, jij bent niet van glowpoeder gemaakt! Wist je dat de meeste glowspeeltjes groen licht geven, omdat onze ogen in het donker groenachtig licht het best zien?",
+   "img": "Qubi laughs among green glowing toys in the dark"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So light charges the stars, the electrons store the energy and they slowly let it out as a glow! What would you make glow in the dark?",
+   "fr": "Donc la lumière recharge les étoiles, les électrons gardent l’énergie et la libèrent doucement en brillant ! Qu’est-ce que tu ferais briller dans le noir ?",
+   "nl": "Dus licht laadt de sterren op, de elektronen bewaren de energie en geven die langzaam af als een gloed! Wat zou jij in het donker laten gloeien?",
+   "img": "Whyzz and Qubi high-five under glowing stars"
+  }
+ ],
+ "prompts": [
+  "In a cozy dark kid’s bedroom at night Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits up in bed in surprise and points at the ceiling covered with softly glowing green star stickers, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge stands beside the bed and smiles, the room is lit only by the gentle green glow. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy kid’s bedroom Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge shines a flashlight on a handful of star stickers in his palm and tiny golden sparkles dance inside them, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans in close with curious eyes, a toy with glowing paint sits on a shelf. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a magical colorful playground made of soft light, many tiny glowing round balls with happy faces climb up a tall ladder and slowly slide down a curvy slide one by one, each giving off a little green sparkle at the bottom, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge explains with a big smile and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a sunny backyard Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge lies on a beach chair wearing sunglasses and imagines himself glowing brightly like a big lamp at night in a dreamy thought cloud, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge stands next to him laughing. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a dark cozy playroom lots of toys glow soft green, a dinosaur, a yo-yo, a bouncy ball and stars, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge laughs warmly while holding a glowing ball, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge giggles beside him. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy dark kid’s bedroom under a ceiling full of glowing green stars Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge give each other a big high-five, both grinning, gentle green light on their faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What did Whyzz think the glowing stars were?",
+    "fr": "Qu’est-ce que Whyzz croyait que les étoiles lumineuses étaient ?",
+    "nl": "Wat dacht Whyzz dat de gloeiende sterren waren?"
+   },
+   "o": {
+    "en": [
+     "Tiny batteries",
+     "Real stars",
+     "Fireflies"
+    ],
+    "fr": [
+     "De toutes petites piles",
+     "De vraies étoiles",
+     "Des lucioles"
+    ],
+    "nl": [
+     "Piepkleine batterijen",
+     "Echte sterren",
+     "Vuurvliegjes"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What gets extra energy when light shines on the glow powder?",
+    "fr": "Qu’est-ce qui reçoit de l’énergie quand la lumière éclaire la poudre ?",
+    "nl": "Wat krijgt extra energie als er licht op het glowpoeder schijnt?"
+   },
+   "o": {
+    "en": [
+     "The ceiling",
+     "Your bed",
+     "Tiny electrons"
+    ],
+    "fr": [
+     "Le plafond",
+     "Ton lit",
+     "De minuscules électrons"
+    ],
+    "nl": [
+     "Het plafond",
+     "Je bed",
+     "Piepkleine elektronen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What are the electrons compared to?",
+    "fr": "À quoi les électrons sont-ils comparés ?",
+    "nl": "Waarmee worden de elektronen vergeleken?"
+   },
+   "o": {
+    "en": [
+     "Fish in a pond",
+     "Kids climbing a slide ladder",
+     "Cars on a road"
+    ],
+    "fr": [
+     "À des poissons dans un étang",
+     "À des enfants qui grimpent l’échelle d’un toboggan",
+     "À des voitures sur la route"
+    ],
+    "nl": [
+     "Vissen in een vijver",
+     "Kinderen die de ladder van een glijbaan opklimmen",
+     "Auto’s op de weg"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What color do most glow toys shine?",
+    "fr": "De quelle couleur brillent la plupart des jouets lumineux ?",
+    "nl": "Welke kleur geven de meeste glowspeeltjes?"
+   },
+   "o": {
+    "en": [
+     "Red",
+     "Purple",
+     "Green"
+    ],
+    "fr": [
+     "Rouge",
+     "Violet",
+     "Vert"
+    ],
+    "nl": [
+     "Rood",
+     "Paars",
+     "Groen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What happens when the electrons slide back down?",
+    "fr": "Que se passe-t-il quand les électrons redescendent ?",
+    "nl": "Wat gebeurt er als de elektronen terugglijden?"
+   },
+   "o": {
+    "en": [
+     "They make a little light",
+     "They make a sound",
+     "They get cold"
+    ],
+    "fr": [
+     "Ils font un peu de lumière",
+     "Ils font du bruit",
+     "Ils deviennent froids"
+    ],
+    "nl": [
+     "Ze geven een beetje licht",
+     "Ze maken geluid",
+     "Ze worden koud"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Find what glows",
+   "fr": "Trouve ce qui brille",
+   "nl": "Zoek wat gloeit"
+  },
+  "intro": {
+   "en": "Some things glow after light charges them up. Pick everything that can glow in the dark!",
+   "fr": "Certaines choses brillent après avoir été rechargées par la lumière. Choisis tout ce qui peut briller dans le noir !",
+   "nl": "Sommige dingen gloeien nadat licht ze heeft opgeladen. Kies alles wat in het donker kan gloeien!"
+  },
+  "done": {
+   "en": "Bright work! You found all the glowing things.",
+   "fr": "Bravo ! Tu as trouvé tout ce qui brille.",
+   "nl": "Stralend gedaan! Je vond alles wat gloeit."
+  },
+  "items": {
+   "en": [
+    "Glow-in-the-dark ceiling stars",
+    "Glow paint on a toy",
+    "Glowing hands on a watch",
+    "A wooden spoon",
+    "A cotton sock",
+    "A glass of water"
+   ],
+   "fr": [
+    "Des étoiles lumineuses au plafond",
+    "De la peinture lumineuse sur un jouet",
+    "Les aiguilles lumineuses d’une montre",
+    "Une cuillère en bois",
+    "Une chaussette en coton",
+    "Un verre d’eau"
+   ],
+   "nl": [
+    "Glowsterren op het plafond",
+    "Glowverf op een speeltje",
+    "Gloeiende wijzers van een horloge",
+    "Een houten lepel",
+    "Een katoenen sok",
+    "Een glas water"
+   ]
+  },
+  "good": [
+   0,
+   1,
+   2
+  ]
+ }
+}
