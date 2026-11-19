@@ -143,6 +143,22 @@
       "url": "https://enterimagine.com/universe/the-germs-that-know-where-the-pipes-will-fail/",
       "scheduled_at": "2026-11-19T08:45:00+01:00",
       "typefully_draft_id": 12009869
+    },
+    {
+      "number": 19,
+      "slug": "the-brain-scanner-that-lets-you-fidget",
+      "title": "The Brain Scanner That Lets You Fidget",
+      "url": "https://enterimagine.com/universe/the-brain-scanner-that-lets-you-fidget/",
+      "scheduled_at": "2026-11-19T17:30:00+01:00",
+      "typefully_draft_id": 12033876
+    },
+    {
+      "number": 20,
+      "slug": "who-drills-the-holes-for-the-cloud",
+      "title": "Who Drills the Holes for the Cloud?",
+      "url": "https://enterimagine.com/universe/who-drills-the-holes-for-the-cloud/",
+      "scheduled_at": "2026-11-20T08:45:00+01:00",
+      "typefully_draft_id": 12033877
     }
   ]
 }
