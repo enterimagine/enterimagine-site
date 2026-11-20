@@ -15639,6 +15639,997 @@
    },
    "added": "2026-11-19",
    "voice": true
+  },
+  {
+   "id": "space-20261120",
+   "world": "space",
+   "guide": "Qubi",
+   "title": {
+    "en": "Why is Mars red?",
+    "fr": "Pourquoi Mars est-elle rouge ?",
+    "nl": "Waarom is Mars rood?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, look at that tiny red dot in the night sky! Is that really a planet and why is it so red?",
+     "fr": "Qubi, regarde ce petit point rouge dans le ciel ! C’est vraiment une planète, et pourquoi est-elle si rouge ?",
+     "nl": "Qubi, kijk naar dat kleine rode stipje aan de hemel! Is dat echt een planeet, en waarom is die zo rood?",
+     "img": "Whyzz and Qubi on a hill at night point at a small red dot among the stars"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I know! Mars is red because it ate way too much ketchup. Or maybe it’s just very shy and blushing!",
+     "fr": "Je sais ! Mars est rouge parce qu’elle a mangé beaucoup trop de ketchup. Ou alors elle est très timide et elle rougit !",
+     "nl": "Ik weet het! Mars is rood omdat hij veel te veel ketchup heeft gegeten. Of misschien is hij gewoon heel verlegen en bloost hij!",
+     "img": "Whyzz imagines a blushing cartoon Mars squirting ketchup, Qubi laughs"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Ha, no ketchup! Mars is covered in dust and rocks with lots of iron in them. Over a very long time, that iron turned to rust, just like an old bike left in the rain.",
+     "fr": "Ha, pas de ketchup ! Mars est couverte de poussière et de roches pleines de fer. Avec le temps, ce fer a rouillé, comme un vieux vélo oublié sous la pluie.",
+     "nl": "Haha, geen ketchup! Mars is bedekt met stof en rotsen vol ijzer. In heel lange tijd is dat ijzer gaan roesten, net als een oude fiets die in de regen blijft staan.",
+     "img": "Qubi holds a red rock next to an old rusty bike, Mars glows in the sky"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Strong winds blow that rusty dust all over the planet and even into the sky. So Mars looks red from far away, like a planet wrapped in a rusty blanket.",
+     "fr": "Des vents puissants soufflent cette poussière rouillée partout sur la planète et même dans le ciel. C’est pour ça que Mars paraît rouge de loin, comme enveloppée dans une couverture rouillée.",
+     "nl": "Harde winden blazen dat roestige stof over de hele planeet en zelfs de lucht in. Daarom ziet Mars er van ver rood uit, alsof hij in een roestig dekentje zit.",
+     "img": "Whyzz and Qubi in space suits on Mars watch a gentle dust swirl"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Did you know? On Mars, the sky turns blue around the Sun at sunset, the opposite of Earth! The fine dust lets the blue light shine through.",
+     "fr": "Le savais-tu ? Sur Mars, le ciel devient bleu autour du soleil quand il se couche, l’inverse de la Terre ! La fine poussière laisse passer la lumière bleue.",
+     "nl": "Wist je dat? Op Mars kleurt de lucht rond de zon blauw bij zonsondergang, precies andersom dan op aarde! Het fijne stof laat het blauwe licht door.",
+     "img": "Whyzz and Qubi on Mars watch a blue sunset"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So Mars is red because of rusty dust, not ketchup! If you could visit Mars, what would you do first on the red planet?",
+     "fr": "Donc Mars est rouge à cause de la poussière rouillée, pas du ketchup ! Et toi, si tu pouvais aller sur Mars, que ferais-tu en premier sur la planète rouge ?",
+     "nl": "Dus Mars is rood door roestig stof, niet door ketchup! Als jij naar Mars mocht, wat zou jij als eerste doen op de rode planeet?",
+     "img": "Whyzz and Qubi high-five on a red Mars hill with Earth small in the sky"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What is Mars covered in?",
+      "fr": "De quoi Mars est-elle couverte ?",
+      "nl": "Waarmee is Mars bedekt?"
+     },
+     "o": {
+      "en": [
+       "Dust and rocks with iron",
+       "Snow and ice cream",
+       "Green grass"
+      ],
+      "fr": [
+       "De poussière et de roches avec du fer",
+       "De neige et de glace",
+       "D’herbe verte"
+      ],
+      "nl": [
+       "Stof en rotsen met ijzer",
+       "Sneeuw en ijsjes",
+       "Groen gras"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What happened to the iron on Mars?",
+      "fr": "Qu’est-il arrivé au fer sur Mars ?",
+      "nl": "Wat is er gebeurd met het ijzer op Mars?"
+     },
+     "o": {
+      "en": [
+       "It melted into lava",
+       "It turned to rust",
+       "It flew to the Moon"
+      ],
+      "fr": [
+       "Il a fondu en lave",
+       "Il a rouillé",
+       "Il s’est envolé vers la Lune"
+      ],
+      "nl": [
+       "Het smolt tot lava",
+       "Het is gaan roesten",
+       "Het vloog naar de maan"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What on Earth also gets rusty like Mars?",
+      "fr": "Qu’est-ce qui rouille aussi sur Terre, comme Mars ?",
+      "nl": "Wat roest op aarde ook, net als Mars?"
+     },
+     "o": {
+      "en": [
+       "A glass of milk",
+       "A soft pillow",
+       "An old bike in the rain"
+      ],
+      "fr": [
+       "Un verre de lait",
+       "Un oreiller tout doux",
+       "Un vieux vélo sous la pluie"
+      ],
+      "nl": [
+       "Een glas melk",
+       "Een zacht kussen",
+       "Een oude fiets in de regen"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What spreads the red dust all over Mars?",
+      "fr": "Qu’est-ce qui répand la poussière rouge partout sur Mars ?",
+      "nl": "Wat blaast het rode stof over heel Mars?"
+     },
+     "o": {
+      "en": [
+       "Strong winds",
+       "Giant worms",
+       "Rivers of ketchup"
+      ],
+      "fr": [
+       "Des vents puissants",
+       "Des vers géants",
+       "Des rivières de ketchup"
+      ],
+      "nl": [
+       "Harde winden",
+       "Reuzenwormen",
+       "Rivieren van ketchup"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What color is the sky around the Sun at sunset on Mars?",
+      "fr": "De quelle couleur est le ciel autour du soleil au coucher sur Mars ?",
+      "nl": "Welke kleur heeft de lucht rond de zon bij zonsondergang op Mars?"
+     },
+     "o": {
+      "en": [
+       "Bright green",
+       "Blue",
+       "Black and white"
+      ],
+      "fr": [
+       "Vert vif",
+       "Bleu",
+       "Noir et blanc"
+      ],
+      "nl": [
+       "Felgroen",
+       "Blauw",
+       "Zwart-wit"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "True about Mars?",
+     "fr": "Vrai sur Mars ?",
+     "nl": "Waar over Mars?"
+    },
+    "intro": {
+     "en": "Pick everything that is true about Mars.",
+     "fr": "Choisis tout ce qui est vrai sur Mars.",
+     "nl": "Kies alles wat waar is over Mars."
+    },
+    "done": {
+     "en": "Great job, space explorer!",
+     "fr": "Bravo, explorateur de l’espace !",
+     "nl": "Goed gedaan, ruimteverkenner!"
+    },
+    "items": {
+     "en": [
+      "Mars has rusty dust",
+      "Mars is red because of ketchup",
+      "Winds blow dust into its sky",
+      "Sunsets on Mars look blue",
+      "Mars is made of cheese",
+      "Iron in its rocks turned to rust",
+      "Mars is covered in green grass"
+     ],
+     "fr": [
+      "Mars a de la poussière rouillée",
+      "Mars est rouge à cause du ketchup",
+      "Le vent souffle la poussière dans son ciel",
+      "Les couchers de soleil sur Mars sont bleus",
+      "Mars est faite de fromage",
+      "Le fer de ses roches a rouillé",
+      "Mars est couverte d’herbe verte"
+     ],
+     "nl": [
+      "Mars heeft roestig stof",
+      "Mars is rood door ketchup",
+      "De wind blaast stof de lucht in",
+      "Zonsondergangen op Mars zijn blauw",
+      "Mars is gemaakt van kaas",
+      "Het ijzer in de rotsen is gaan roesten",
+      "Mars is bedekt met groen gras"
+     ]
+    },
+    "good": [
+     0,
+     2,
+     3,
+     5
+    ]
+   },
+   "worldName": {
+    "en": "Space",
+    "fr": "Espace",
+    "nl": "Ruimte"
+   },
+   "adult": {
+    "en": "For grown-ups: the Space world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Espace dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Ruimte in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-20",
+   "voice": true
+  },
+  {
+   "id": "mobility-20261120",
+   "world": "mobility",
+   "guide": "Sunny",
+   "title": {
+    "en": "Why does a bike stay up when you ride it?",
+    "fr": "Pourquoi un vélo tient-il debout quand on roule ?",
+    "nl": "Waarom blijft een fiets overeind als je rijdt?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, when my bike stands still, it falls over right away. But when I ride it, it stays up! How does that work?",
+     "fr": "Sunny, quand mon vélo est à l’arrêt, il tombe tout de suite. Mais quand je roule, il tient debout ! Comment ça marche ?",
+     "nl": "Sunny, als mijn fiets stilstaat, valt hij meteen om. Maar als ik rijd, blijft hij overeind! Hoe werkt dat?",
+     "img": "Whyzz looks at his fallen bike in a park, Sunny smiles next to him"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Maybe the wheels have invisible glue? Or a tiny bike fairy holds it up while I pedal!",
+     "fr": "Peut-être que les roues ont de la colle invisible ? Ou alors une petite fée du vélo le tient pendant que je pédale !",
+     "nl": "Misschien hebben de wielen onzichtbare lijm? Of houdt een piepklein fietsfeetje hem vast terwijl ik trap!",
+     "img": "Whyzz imagines a tiny fairy holding up his bike, Sunny laughs"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "No fairy, sorry! When your bike starts to lean, you turn the handlebars a tiny bit to that side. That moves the wheels back under you, so you don’t fall.",
+     "fr": "Pas de fée, désolée ! Quand ton vélo commence à pencher, tu tournes un tout petit peu le guidon de ce côté. Les roues reviennent alors sous toi et tu ne tombes pas.",
+     "nl": "Geen feetje, sorry! Als je fiets begint te hellen, draai je je stuur een heel klein beetje naar die kant. Zo komen de wielen weer onder je en val je niet.",
+     "img": "Sunny rides a bike and gently turns the handlebars, Whyzz watches"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "It’s like balancing a broom on your hand: you move your hand under it to keep it up. When you go faster, these fixes get small and easy, so you hardly notice them.",
+     "fr": "C’est comme garder un balai en équilibre sur ta main : tu bouges ta main sous lui pour qu’il ne tombe pas. Quand tu vas plus vite, ces corrections deviennent toutes petites et faciles.",
+     "nl": "Het is net als een bezem rechtop houden op je hand: je beweegt je hand eronder zodat hij blijft staan. Als je sneller rijdt, worden die correcties klein en makkelijk.",
+     "img": "Sunny balances a broom upright on her hand, Whyzz tries too"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Did you know? A bike can even balance by itself for a while! Give an empty bike a good push and its front wheel steers on its own as it rolls on.",
+     "fr": "Le savais-tu ? Un vélo peut même garder l’équilibre tout seul un moment ! Pousse bien un vélo sans personne dessus et sa roue avant se dirige toute seule pendant qu’il roule.",
+     "nl": "Wist je dat? Een fiets kan zelfs een tijdje vanzelf in evenwicht blijven! Geef een lege fiets een flinke duw en het voorwiel stuurt vanzelf bij terwijl hij verder rolt.",
+     "img": "An empty bike rolls by itself down a park path, Whyzz and Sunny cheer"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So steering keeps my bike up, not glue or fairies! If you could design your dream bike, what would it look like?",
+     "fr": "Donc c’est le guidon qui garde mon vélo debout, pas la colle ni les fées ! Et toi, si tu pouvais inventer le vélo de tes rêves, à quoi ressemblerait-il ?",
+     "nl": "Dus sturen houdt mijn fiets overeind, geen lijm of feetjes! Als jij je droomfiets mocht ontwerpen, hoe zou die eruitzien?",
+     "img": "Whyzz and Sunny ride bikes side by side on a sunny bike path"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What do you do when your bike starts to lean?",
+      "fr": "Que fais-tu quand ton vélo commence à pencher ?",
+      "nl": "Wat doe je als je fiets begint te hellen?"
+     },
+     "o": {
+      "en": [
+       "Close your eyes",
+       "Turn the handlebars a bit to that side",
+       "Stop pedaling forever"
+      ],
+      "fr": [
+       "Je ferme les yeux",
+       "Je tourne un peu le guidon de ce côté",
+       "J’arrête de pédaler pour toujours"
+      ],
+      "nl": [
+       "Je ogen dichtdoen",
+       "Je stuur een beetje naar die kant draaien",
+       "Voor altijd stoppen met trappen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Where does steering move the wheels?",
+      "fr": "Où le guidon ramène-t-il les roues ?",
+      "nl": "Waar brengt sturen de wielen naartoe?"
+     },
+     "o": {
+      "en": [
+       "Back under you",
+       "Up into the air",
+       "Off the bike"
+      ],
+      "fr": [
+       "Sous toi",
+       "En l’air",
+       "Loin du vélo"
+      ],
+      "nl": [
+       "Weer onder je",
+       "De lucht in",
+       "Van de fiets af"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Riding a bike is like balancing what on your hand?",
+      "fr": "Rouler à vélo, c’est comme garder quoi en équilibre sur ta main ?",
+      "nl": "Wat hou je in evenwicht op je hand, net als bij fietsen?"
+     },
+     "o": {
+      "en": [
+       "A bowl of soup",
+       "A pillow",
+       "A broom"
+      ],
+      "fr": [
+       "Un bol de soupe",
+       "Un oreiller",
+       "Un balai"
+      ],
+      "nl": [
+       "Een kom soep",
+       "Een kussen",
+       "Een bezem"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What makes the small fixes easy?",
+      "fr": "Qu’est-ce qui rend les petites corrections faciles ?",
+      "nl": "Wat maakt de kleine correcties makkelijk?"
+     },
+     "o": {
+      "en": [
+       "Going faster",
+       "Ringing the bell",
+       "Wearing red socks"
+      ],
+      "fr": [
+       "Aller plus vite",
+       "Faire sonner la sonnette",
+       "Porter des chaussettes rouges"
+      ],
+      "nl": [
+       "Sneller rijden",
+       "Op je bel drukken",
+       "Rode sokken dragen"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What can an empty bike do after a good push?",
+      "fr": "Que peut faire un vélo vide après une bonne poussée ?",
+      "nl": "Wat kan een lege fiets na een flinke duw?"
+     },
+     "o": {
+      "en": [
+       "Fly away",
+       "Roll on by itself for a while",
+       "Sing a song"
+      ],
+      "fr": [
+       "S’envoler",
+       "Rouler tout seul un moment",
+       "Chanter une chanson"
+      ],
+      "nl": [
+       "Wegvliegen",
+       "Een tijdje vanzelf verder rollen",
+       "Een liedje zingen"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Bike parts and their jobs",
+     "fr": "Les pièces du vélo",
+     "nl": "Fietsonderdelen en hun taak"
+    },
+    "intro": {
+     "en": "Match each bike part to its job.",
+     "fr": "Relie chaque pièce du vélo à son rôle.",
+     "nl": "Verbind elk onderdeel met zijn taak."
+    },
+    "done": {
+     "en": "Great ride, bike expert!",
+     "fr": "Bravo, champion du vélo !",
+     "nl": "Goed gefietst, fietsexpert!"
+    },
+    "left": {
+     "en": [
+      "Handlebars",
+      "Pedals",
+      "Chain",
+      "Brakes",
+      "Bell"
+     ],
+     "fr": [
+      "Le guidon",
+      "Les pédales",
+      "La chaîne",
+      "Les freins",
+      "La sonnette"
+     ],
+     "nl": [
+      "Het stuur",
+      "De trappers",
+      "De ketting",
+      "De remmen",
+      "De bel"
+     ]
+    },
+    "right": {
+     "en": [
+      "Steer the bike",
+      "Push with your feet to go",
+      "Turn the back wheel",
+      "Slow down and stop",
+      "Tell people you’re coming"
+     ],
+     "fr": [
+      "Diriger le vélo",
+      "Pousser avec tes pieds pour avancer",
+      "Faire tourner la roue arrière",
+      "Ralentir et s’arrêter",
+      "Prévenir les gens que tu arrives"
+     ],
+     "nl": [
+      "De fiets sturen",
+      "Met je voeten duwen om te rijden",
+      "Het achterwiel laten draaien",
+      "Afremmen en stoppen",
+      "Mensen laten weten dat je eraan komt"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Smart Mobility",
+    "fr": "Mobilité",
+    "nl": "Slimme mobiliteit"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Mobility world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Mobilité dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme mobiliteit in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-20",
+   "voice": true
+  },
+  {
+   "id": "cities-20261120",
+   "world": "cities",
+   "guide": "Pixel",
+   "title": {
+    "en": "How does clean water get to your tap?",
+    "fr": "Comment l’eau propre arrive-t-elle à ton robinet ?",
+    "nl": "Hoe komt schoon water uit je kraan?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, I just turn the tap and clean water comes out. But where does it come from and who makes it so clean?",
+     "fr": "Pixel, je tourne juste le robinet et de l’eau propre coule. Mais d’où vient-elle, et qui la rend si propre ?",
+     "nl": "Pixel, ik draai gewoon de kraan open en er komt schoon water uit. Maar waar komt het vandaan, en wie maakt het zo schoon?",
+     "img": "Whyzz fills a glass at a kitchen tap, Pixel watches"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I bet a giant drinks from the lake with a super long straw and spits the water into our pipes!",
+     "fr": "Je parie qu’un géant boit dans le lac avec une paille super longue et recrache l’eau dans nos tuyaux !",
+     "nl": "Ik wed dat een reus met een superlang rietje uit het meer drinkt en het water in onze buizen spuugt!",
+     "img": "Whyzz imagines a friendly giant drinking a lake with a long straw, Pixel laughs"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ew, no giant spit! Pumps bring water from a river, a lake or deep underground to a water plant. There, big screens catch leaves and sticks, like a giant sieve.",
+     "fr": "Beurk, pas de crachat de géant ! Des pompes amènent l’eau d’une rivière, d’un lac ou du sous-sol jusqu’à une usine d’eau. Là, de grandes grilles attrapent feuilles et branches, comme une énorme passoire.",
+     "nl": "Bah, geen reuzenspuug! Pompen brengen water uit een rivier, een meer of diep onder de grond naar een zuiveringsinstallatie. Daar vangen grote zeven bladeren en takjes op, als een reuzenzeef.",
+     "img": "Pixel shows a big metal screen catching leaves at a water plant by a lake"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Next, the water slowly trickles through thick layers of sand that trap tiny bits of dirt. Then strong ultraviolet light or a little chlorine kills the germs.",
+     "fr": "Ensuite, l’eau coule lentement à travers d’épaisses couches de sable qui retiennent les petites saletés. Puis une forte lumière ultraviolette ou un peu de chlore élimine les microbes.",
+     "nl": "Daarna sijpelt het water langzaam door dikke lagen zand die kleine vuiltjes tegenhouden. Dan doden sterk uv-licht of een beetje chloor de ziektekiemen.",
+     "img": "Cutaway of sand layers with water trickling through, glowing purple light, Pixel and Whyzz watch"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know? Many towns keep clean water in tall water towers. Because the water sits up high, gravity pushes it through the pipes all the way to your tap!",
+     "fr": "Le savais-tu ? Beaucoup de villes gardent l’eau propre dans de grands châteaux d’eau. Comme l’eau est tout en haut, la gravité la pousse dans les tuyaux jusqu’à ton robinet !",
+     "nl": "Wist je dat? Veel steden bewaren schoon water in hoge watertorens. Omdat het water zo hoog staat, duwt de zwaartekracht het door de buizen helemaal naar jouw kraan!",
+     "img": "Pixel and Whyzz look up at a tall water tower above a town"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So my water gets sieved, filtered, cleaned and pushed down from a tower, no giant needed! How could you save a little water at home today?",
+     "fr": "Donc mon eau est tamisée, filtrée, nettoyée et poussée depuis un château d’eau, sans aucun géant ! Et toi, comment pourrais-tu économiser un peu d’eau à la maison aujourd’hui ?",
+     "nl": "Dus mijn water wordt gezeefd, gefilterd, schoongemaakt en vanuit een toren naar beneden geduwd, zonder reus! Hoe zou jij vandaag thuis een beetje water kunnen besparen?",
+     "img": "Whyzz and Pixel toast with glasses of water in a sunny kitchen"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Where can a town get its water?",
+      "fr": "Où une ville peut-elle trouver son eau ?",
+      "nl": "Waar kan een stad haar water vandaan halen?"
+     },
+     "o": {
+      "en": [
+       "From a giant’s straw",
+       "From a river, a lake or underground",
+       "From melted ice cream"
+      ],
+      "fr": [
+       "De la paille d’un géant",
+       "D’une rivière, d’un lac ou du sous-sol",
+       "De glace fondue"
+      ],
+      "nl": [
+       "Uit het rietje van een reus",
+       "Uit een rivier, een meer of de grond",
+       "Uit gesmolten ijsjes"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What do the big screens catch?",
+      "fr": "Qu’attrapent les grandes grilles ?",
+      "nl": "Wat vangen de grote zeven op?"
+     },
+     "o": {
+      "en": [
+       "Leaves and sticks",
+       "Tiny germs",
+       "Sunlight"
+      ],
+      "fr": [
+       "Les feuilles et les branches",
+       "Les petits microbes",
+       "La lumière du soleil"
+      ],
+      "nl": [
+       "Bladeren en takjes",
+       "Kleine ziektekiemen",
+       "Zonlicht"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What traps the tiny bits of dirt?",
+      "fr": "Qu’est-ce qui retient les petites saletés ?",
+      "nl": "Wat houdt de kleine vuiltjes tegen?"
+     },
+     "o": {
+      "en": [
+       "Bubble gum",
+       "A big magnet",
+       "Layers of sand"
+      ],
+      "fr": [
+       "Du chewing-gum",
+       "Un gros aimant",
+       "Des couches de sable"
+      ],
+      "nl": [
+       "Kauwgom",
+       "Een grote magneet",
+       "Lagen zand"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What kills the germs?",
+      "fr": "Qu’est-ce qui élimine les microbes ?",
+      "nl": "Wat doodt de ziektekiemen?"
+     },
+     "o": {
+      "en": [
+       "Loud music",
+       "Ultraviolet light or a little chlorine",
+       "A cold wind"
+      ],
+      "fr": [
+       "De la musique forte",
+       "La lumière ultraviolette ou un peu de chlore",
+       "Un vent froid"
+      ],
+      "nl": [
+       "Harde muziek",
+       "Uv-licht of een beetje chloor",
+       "Een koude wind"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What pushes the water from the tower to your tap?",
+      "fr": "Qu’est-ce qui pousse l’eau du château d’eau jusqu’à ton robinet ?",
+      "nl": "Wat duwt het water van de toren naar je kraan?"
+     },
+     "o": {
+      "en": [
+       "Gravity",
+       "A giant",
+       "Tiny ducks"
+      ],
+      "fr": [
+       "La gravité",
+       "Un géant",
+       "De petits canards"
+      ],
+      "nl": [
+       "De zwaartekracht",
+       "Een reus",
+       "Kleine eendjes"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "From lake to tap",
+     "fr": "Du lac au robinet",
+     "nl": "Van meer naar kraan"
+    },
+    "intro": {
+     "en": "Put the steps in the right order.",
+     "fr": "Remets les étapes dans le bon ordre.",
+     "nl": "Zet de stappen in de goede volgorde."
+    },
+    "done": {
+     "en": "Super job, water hero!",
+     "fr": "Bravo, héros de l’eau !",
+     "nl": "Top gedaan, waterheld!"
+    },
+    "items": {
+     "en": [
+      "Pumps take water from a lake",
+      "Screens catch leaves and sticks",
+      "Sand traps tiny bits of dirt",
+      "Light or chlorine kills the germs",
+      "A water tower stores the clean water",
+      "Clean water comes out of your tap"
+     ],
+     "fr": [
+      "Des pompes prennent l’eau d’un lac",
+      "Des grilles attrapent feuilles et branches",
+      "Le sable retient les petites saletés",
+      "La lumière ou le chlore élimine les microbes",
+      "Un château d’eau garde l’eau propre",
+      "L’eau propre sort de ton robinet"
+     ],
+     "nl": [
+      "Pompen halen water uit een meer",
+      "Zeven vangen bladeren en takjes op",
+      "Zand houdt kleine vuiltjes tegen",
+      "Licht of chloor doodt de ziektekiemen",
+      "Een watertoren bewaart het schone water",
+      "Schoon water komt uit je kraan"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Smart Cities",
+    "fr": "Villes intelligentes",
+    "nl": "Slimme steden"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Cities world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Villes intelligentes dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme steden in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-20",
+   "voice": true
+  },
+  {
+   "id": "innovation-20261120",
+   "world": "innovation",
+   "guide": "Whyzz",
+   "title": {
+    "en": "Why do inventors work in teams?",
+    "fr": "Pourquoi les inventeurs travaillent-ils en équipe ?",
+    "nl": "Waarom werken uitvinders in teams?"
+   },
+   "scenes": [
+    {
+     "speaker": "Pixel",
+     "en": "Whyzz, I want to invent a machine that waters my plants while I’m away, but it’s a big job! Can I really do it all by myself?",
+     "fr": "Whyzz, je veux inventer une machine qui arrose mes plantes quand je ne suis pas là, mais c’est un gros travail ! Je peux vraiment tout faire toute seule ?",
+     "nl": "Whyzz, ik wil een machine uitvinden die mijn planten water geeft als ik weg ben, maar dat is een grote klus! Kan ik dat echt helemaal alleen?",
+     "img": "Pixel with a messy pile of tubes and a plant looks worried, Whyzz listens"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Easy! Just clone yourself ten times. Then ten Pixels can argue about who gets the snacks!",
+     "fr": "Facile ! Tu n’as qu’à te cloner dix fois. Comme ça, dix Pixel pourront se disputer pour le goûter !",
+     "nl": "Makkelijk! Kloon jezelf gewoon tien keer. Dan kunnen tien Pixels ruziemaken over wie de koekjes krijgt!",
+     "img": "Whyzz imagines ten little Pixels fighting over a cookie, Pixel laughs"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Just kidding! Inventors work in teams because everyone is good at something different. One loves drawing, one loves building and one loves testing.",
+     "fr": "Je rigole ! Les inventeurs travaillent en équipe parce que chacun est doué pour quelque chose de différent. L’un adore dessiner, l’autre construire, un autre encore tester.",
+     "nl": "Grapje! Uitvinders werken in teams omdat iedereen ergens anders goed in is. De een tekent graag, de ander bouwt graag en weer een ander test graag.",
+     "img": "Whyzz shows three kid-sized workbenches for drawing, building and testing"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "It’s like a band: a drum alone is fun, but drums, a guitar and a singer together make a song. In a team, one idea sparks the next, like popcorn popping!",
+     "fr": "C’est comme un groupe de musique : une batterie seule, c’est sympa, mais avec une guitare et un chanteur, ça fait une chanson. En équipe, une idée en fait éclater une autre, comme du pop-corn !",
+     "nl": "Het is net een band: een trommel alleen is leuk, maar drums, een gitaar en een zanger samen maken een liedje. In een team brengt het ene idee het volgende op gang, net als ploppende popcorn!",
+     "img": "Whyzz and Pixel brainstorm with idea bubbles popping like popcorn"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know? Some ants build bridges with their own bodies! They hold on to each other so the whole team can cross a gap.",
+     "fr": "Le savais-tu ? Certaines fourmis construisent des ponts avec leur propre corps ! Elles s’accrochent les unes aux autres pour que toute l’équipe puisse traverser un trou.",
+     "nl": "Wist je dat? Sommige mieren bouwen bruggen met hun eigen lijf! Ze houden elkaar vast, zodat het hele team over een gat kan.",
+     "img": "Pixel and Whyzz crouch to watch tiny ants forming a bridge between two leaves"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So teams mix different talents and turn small ideas into big inventions! Who would you pick for your dream invention team?",
+     "fr": "Donc une équipe mélange des talents différents et transforme de petites idées en grandes inventions ! Et toi, qui choisirais-tu pour ton équipe d’inventeurs de rêve ?",
+     "nl": "Dus een team combineert verschillende talenten en maakt van kleine ideeën grote uitvindingen! Wie zou jij kiezen voor jouw droomteam van uitvinders?",
+     "img": "Whyzz and Pixel cheer next to a finished plant-watering machine"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What does Pixel want to invent?",
+      "fr": "Que veut inventer Pixel ?",
+      "nl": "Wat wil Pixel uitvinden?"
+     },
+     "o": {
+      "en": [
+       "A plant-watering machine",
+       "A flying bed",
+       "A talking sock"
+      ],
+      "fr": [
+       "Une machine qui arrose les plantes",
+       "Un lit volant",
+       "Une chaussette qui parle"
+      ],
+      "nl": [
+       "Een machine die planten water geeft",
+       "Een vliegend bed",
+       "Een pratende sok"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why do inventors work in teams?",
+      "fr": "Pourquoi les inventeurs travaillent-ils en équipe ?",
+      "nl": "Waarom werken uitvinders in teams?"
+     },
+     "o": {
+      "en": [
+       "Teams get free snacks",
+       "Everyone is good at something different",
+       "Working alone is not allowed"
+      ],
+      "fr": [
+       "Les équipes ont des goûters gratuits",
+       "Chacun est doué pour quelque chose de différent",
+       "C’est interdit de travailler seul"
+      ],
+      "nl": [
+       "Teams krijgen gratis koekjes",
+       "Iedereen is ergens anders goed in",
+       "Alleen werken mag niet"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What is a team like, says Whyzz?",
+      "fr": "À quoi ressemble une équipe, selon Whyzz ?",
+      "nl": "Waar lijkt een team op, volgens Whyzz?"
+     },
+     "o": {
+      "en": [
+       "An empty box",
+       "A sleepy cat",
+       "A band"
+      ],
+      "fr": [
+       "Une boîte vide",
+       "Un chat endormi",
+       "Un groupe de musique"
+      ],
+      "nl": [
+       "Een lege doos",
+       "Een slaperige kat",
+       "Een band"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "In a team, ideas pop like what?",
+      "fr": "En équipe, les idées éclatent comme quoi ?",
+      "nl": "In een team ploppen ideeën als wat?"
+     },
+     "o": {
+      "en": [
+       "Popcorn",
+       "Rocks",
+       "Snowmen"
+      ],
+      "fr": [
+       "Du pop-corn",
+       "Des cailloux",
+       "Des bonshommes de neige"
+      ],
+      "nl": [
+       "Popcorn",
+       "Stenen",
+       "Sneeuwpoppen"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What do some ants build with their bodies?",
+      "fr": "Que construisent certaines fourmis avec leur corps ?",
+      "nl": "Wat bouwen sommige mieren met hun lijf?"
+     },
+     "o": {
+      "en": [
+       "Castles",
+       "Bridges",
+       "Cars"
+      ],
+      "fr": [
+       "Des châteaux",
+       "Des ponts",
+       "Des voitures"
+      ],
+      "nl": [
+       "Kastelen",
+       "Bruggen",
+       "Auto’s"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Who does what in the team?",
+     "fr": "Qui fait quoi dans l’équipe ?",
+     "nl": "Wie doet wat in het team?"
+    },
+    "intro": {
+     "en": "Match each team member to their job.",
+     "fr": "Relie chaque membre de l’équipe à son rôle.",
+     "nl": "Verbind elk teamlid met zijn taak."
+    },
+    "done": {
+     "en": "Great teamwork!",
+     "fr": "Super travail d’équipe !",
+     "nl": "Top teamwerk!"
+    },
+    "left": {
+     "en": [
+      "The dreamer",
+      "The drawer",
+      "The builder",
+      "The tester"
+     ],
+     "fr": [
+      "Le rêveur",
+      "Le dessinateur",
+      "Le constructeur",
+      "Le testeur"
+     ],
+     "nl": [
+      "De dromer",
+      "De tekenaar",
+      "De bouwer",
+      "De tester"
+     ]
+    },
+    "right": {
+     "en": [
+      "Comes up with wild ideas",
+      "Sketches how it will look",
+      "Makes a first model",
+      "Tries it out and finds problems"
+     ],
+     "fr": [
+      "Trouve des idées folles",
+      "Dessine à quoi ça ressemblera",
+      "Fabrique un premier modèle",
+      "L’essaie et trouve les problèmes"
+     ],
+     "nl": [
+      "Bedenkt gekke ideeën",
+      "Tekent hoe het eruit zal zien",
+      "Maakt een eerste model",
+      "Probeert het uit en vindt problemen"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Innovation",
+    "fr": "Innovation",
+    "nl": "Innovatie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Innovation world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Innovation dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Innovatie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-20",
+   "voice": true
   }
  ]
 }
