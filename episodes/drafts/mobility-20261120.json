@@ -1,0 +1,253 @@
+{
+ "id": "mobility-20261120",
+ "world": "mobility",
+ "guide": "Sunny",
+ "title": {
+  "en": "Why does a bike stay up when you ride it?",
+  "fr": "Pourquoi un vélo tient-il debout quand on roule ?",
+  "nl": "Waarom blijft een fiets overeind als je rijdt?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, when my bike stands still, it falls over right away. But when I ride it, it stays up! How does that work?",
+   "fr": "Sunny, quand mon vélo est à l’arrêt, il tombe tout de suite. Mais quand je roule, il tient debout ! Comment ça marche ?",
+   "nl": "Sunny, als mijn fiets stilstaat, valt hij meteen om. Maar als ik rijd, blijft hij overeind! Hoe werkt dat?",
+   "img": "Whyzz looks at his fallen bike in a park, Sunny smiles next to him"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Maybe the wheels have invisible glue? Or a tiny bike fairy holds it up while I pedal!",
+   "fr": "Peut-être que les roues ont de la colle invisible ? Ou alors une petite fée du vélo le tient pendant que je pédale !",
+   "nl": "Misschien hebben de wielen onzichtbare lijm? Of houdt een piepklein fietsfeetje hem vast terwijl ik trap!",
+   "img": "Whyzz imagines a tiny fairy holding up his bike, Sunny laughs"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "No fairy, sorry! When your bike starts to lean, you turn the handlebars a tiny bit to that side. That moves the wheels back under you, so you don’t fall.",
+   "fr": "Pas de fée, désolée ! Quand ton vélo commence à pencher, tu tournes un tout petit peu le guidon de ce côté. Les roues reviennent alors sous toi et tu ne tombes pas.",
+   "nl": "Geen feetje, sorry! Als je fiets begint te hellen, draai je je stuur een heel klein beetje naar die kant. Zo komen de wielen weer onder je en val je niet.",
+   "img": "Sunny rides a bike and gently turns the handlebars, Whyzz watches"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "It’s like balancing a broom on your hand: you move your hand under it to keep it up. When you go faster, these fixes get small and easy, so you hardly notice them.",
+   "fr": "C’est comme garder un balai en équilibre sur ta main : tu bouges ta main sous lui pour qu’il ne tombe pas. Quand tu vas plus vite, ces corrections deviennent toutes petites et faciles.",
+   "nl": "Het is net als een bezem rechtop houden op je hand: je beweegt je hand eronder zodat hij blijft staan. Als je sneller rijdt, worden die correcties klein en makkelijk.",
+   "img": "Sunny balances a broom upright on her hand, Whyzz tries too"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Did you know? A bike can even balance by itself for a while! Give an empty bike a good push and its front wheel steers on its own as it rolls on.",
+   "fr": "Le savais-tu ? Un vélo peut même garder l’équilibre tout seul un moment ! Pousse bien un vélo sans personne dessus et sa roue avant se dirige toute seule pendant qu’il roule.",
+   "nl": "Wist je dat? Een fiets kan zelfs een tijdje vanzelf in evenwicht blijven! Geef een lege fiets een flinke duw en het voorwiel stuurt vanzelf bij terwijl hij verder rolt.",
+   "img": "An empty bike rolls by itself down a park path, Whyzz and Sunny cheer"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So steering keeps my bike up, not glue or fairies! If you could design your dream bike, what would it look like?",
+   "fr": "Donc c’est le guidon qui garde mon vélo debout, pas la colle ni les fées ! Et toi, si tu pouvais inventer le vélo de tes rêves, à quoi ressemblerait-il ?",
+   "nl": "Dus sturen houdt mijn fiets overeind, geen lijm of feetjes! Als jij je droomfiets mocht ontwerpen, hoe zou die eruitzien?",
+   "img": "Whyzz and Sunny ride bikes side by side on a sunny bike path"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands in a sunny green park next to his red bicycle that has just tipped over onto the grass, he scratches his head with a puzzled face, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands next to him holding her own purple bicycle upright and smiles, wearing helmets, a smooth bike path and trees. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a big dream bubble above his head showing a tiny sparkly fairy with glittering wings holding up a red bicycle with both arms, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge giggles next to him in a sunny park, both holding bike helmets. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge wearing a helmet rides a purple bicycle on a smooth park path and turns the handlebars a tiny bit while the bike leans slightly, soft glowing curved arrows show the front wheel steering back under her, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge wearing a helmet watches from the side with curious eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge balances a long wooden broom upright on the palm of her hand with a proud smile, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge tries to balance a broom on his hand too and wobbles with a funny face, sunny park with bicycles parked nearby. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "An empty red bicycle with nobody on it rolls by itself along a smooth park path, its front wheel gently turning, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge run behind it and cheer with amazed faces and raised arms, trees and soft morning sunlight. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge wearing helmets ride their bicycles side by side on a sunny bike path through a green park, both smiling big, leaves blowing in the wind. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What do you do when your bike starts to lean?",
+    "fr": "Que fais-tu quand ton vélo commence à pencher ?",
+    "nl": "Wat doe je als je fiets begint te hellen?"
+   },
+   "o": {
+    "en": [
+     "Close your eyes",
+     "Turn the handlebars a bit to that side",
+     "Stop pedaling forever"
+    ],
+    "fr": [
+     "Je ferme les yeux",
+     "Je tourne un peu le guidon de ce côté",
+     "J’arrête de pédaler pour toujours"
+    ],
+    "nl": [
+     "Je ogen dichtdoen",
+     "Je stuur een beetje naar die kant draaien",
+     "Voor altijd stoppen met trappen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Where does steering move the wheels?",
+    "fr": "Où le guidon ramène-t-il les roues ?",
+    "nl": "Waar brengt sturen de wielen naartoe?"
+   },
+   "o": {
+    "en": [
+     "Back under you",
+     "Up into the air",
+     "Off the bike"
+    ],
+    "fr": [
+     "Sous toi",
+     "En l’air",
+     "Loin du vélo"
+    ],
+    "nl": [
+     "Weer onder je",
+     "De lucht in",
+     "Van de fiets af"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Riding a bike is like balancing what on your hand?",
+    "fr": "Rouler à vélo, c’est comme garder quoi en équilibre sur ta main ?",
+    "nl": "Wat hou je in evenwicht op je hand, net als bij fietsen?"
+   },
+   "o": {
+    "en": [
+     "A bowl of soup",
+     "A pillow",
+     "A broom"
+    ],
+    "fr": [
+     "Un bol de soupe",
+     "Un oreiller",
+     "Un balai"
+    ],
+    "nl": [
+     "Een kom soep",
+     "Een kussen",
+     "Een bezem"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What makes the small fixes easy?",
+    "fr": "Qu’est-ce qui rend les petites corrections faciles ?",
+    "nl": "Wat maakt de kleine correcties makkelijk?"
+   },
+   "o": {
+    "en": [
+     "Going faster",
+     "Ringing the bell",
+     "Wearing red socks"
+    ],
+    "fr": [
+     "Aller plus vite",
+     "Faire sonner la sonnette",
+     "Porter des chaussettes rouges"
+    ],
+    "nl": [
+     "Sneller rijden",
+     "Op je bel drukken",
+     "Rode sokken dragen"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What can an empty bike do after a good push?",
+    "fr": "Que peut faire un vélo vide après une bonne poussée ?",
+    "nl": "Wat kan een lege fiets na een flinke duw?"
+   },
+   "o": {
+    "en": [
+     "Fly away",
+     "Roll on by itself for a while",
+     "Sing a song"
+    ],
+    "fr": [
+     "S’envoler",
+     "Rouler tout seul un moment",
+     "Chanter une chanson"
+    ],
+    "nl": [
+     "Wegvliegen",
+     "Een tijdje vanzelf verder rollen",
+     "Een liedje zingen"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Bike parts and their jobs",
+   "fr": "Les pièces du vélo",
+   "nl": "Fietsonderdelen en hun taak"
+  },
+  "intro": {
+   "en": "Match each bike part to its job.",
+   "fr": "Relie chaque pièce du vélo à son rôle.",
+   "nl": "Verbind elk onderdeel met zijn taak."
+  },
+  "done": {
+   "en": "Great ride, bike expert!",
+   "fr": "Bravo, champion du vélo !",
+   "nl": "Goed gefietst, fietsexpert!"
+  },
+  "left": {
+   "en": [
+    "Handlebars",
+    "Pedals",
+    "Chain",
+    "Brakes",
+    "Bell"
+   ],
+   "fr": [
+    "Le guidon",
+    "Les pédales",
+    "La chaîne",
+    "Les freins",
+    "La sonnette"
+   ],
+   "nl": [
+    "Het stuur",
+    "De trappers",
+    "De ketting",
+    "De remmen",
+    "De bel"
+   ]
+  },
+  "right": {
+   "en": [
+    "Steer the bike",
+    "Push with your feet to go",
+    "Turn the back wheel",
+    "Slow down and stop",
+    "Tell people you’re coming"
+   ],
+   "fr": [
+    "Diriger le vélo",
+    "Pousser avec tes pieds pour avancer",
+    "Faire tourner la roue arrière",
+    "Ralentir et s’arrêter",
+    "Prévenir les gens que tu arrives"
+   ],
+   "nl": [
+    "De fiets sturen",
+    "Met je voeten duwen om te rijden",
+    "Het achterwiel laten draaien",
+    "Afremmen en stoppen",
+    "Mensen laten weten dat je eraan komt"
+   ]
+  }
+ }
+}

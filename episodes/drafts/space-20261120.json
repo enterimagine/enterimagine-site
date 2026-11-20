@@ -1,0 +1,242 @@
+{
+ "id": "space-20261120",
+ "world": "space",
+ "guide": "Qubi",
+ "title": {
+  "en": "Why is Mars red?",
+  "fr": "Pourquoi Mars est-elle rouge ?",
+  "nl": "Waarom is Mars rood?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, look at that tiny red dot in the night sky! Is that really a planet and why is it so red?",
+   "fr": "Qubi, regarde ce petit point rouge dans le ciel ! C’est vraiment une planète, et pourquoi est-elle si rouge ?",
+   "nl": "Qubi, kijk naar dat kleine rode stipje aan de hemel! Is dat echt een planeet, en waarom is die zo rood?",
+   "img": "Whyzz and Qubi on a hill at night point at a small red dot among the stars"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I know! Mars is red because it ate way too much ketchup. Or maybe it’s just very shy and blushing!",
+   "fr": "Je sais ! Mars est rouge parce qu’elle a mangé beaucoup trop de ketchup. Ou alors elle est très timide et elle rougit !",
+   "nl": "Ik weet het! Mars is rood omdat hij veel te veel ketchup heeft gegeten. Of misschien is hij gewoon heel verlegen en bloost hij!",
+   "img": "Whyzz imagines a blushing cartoon Mars squirting ketchup, Qubi laughs"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Ha, no ketchup! Mars is covered in dust and rocks with lots of iron in them. Over a very long time, that iron turned to rust, just like an old bike left in the rain.",
+   "fr": "Ha, pas de ketchup ! Mars est couverte de poussière et de roches pleines de fer. Avec le temps, ce fer a rouillé, comme un vieux vélo oublié sous la pluie.",
+   "nl": "Haha, geen ketchup! Mars is bedekt met stof en rotsen vol ijzer. In heel lange tijd is dat ijzer gaan roesten, net als een oude fiets die in de regen blijft staan.",
+   "img": "Qubi holds a red rock next to an old rusty bike, Mars glows in the sky"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Strong winds blow that rusty dust all over the planet and even into the sky. So Mars looks red from far away, like a planet wrapped in a rusty blanket.",
+   "fr": "Des vents puissants soufflent cette poussière rouillée partout sur la planète et même dans le ciel. C’est pour ça que Mars paraît rouge de loin, comme enveloppée dans une couverture rouillée.",
+   "nl": "Harde winden blazen dat roestige stof over de hele planeet en zelfs de lucht in. Daarom ziet Mars er van ver rood uit, alsof hij in een roestig dekentje zit.",
+   "img": "Whyzz and Qubi in space suits on Mars watch a gentle dust swirl"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Did you know? On Mars, the sky turns blue around the Sun at sunset, the opposite of Earth! The fine dust lets the blue light shine through.",
+   "fr": "Le savais-tu ? Sur Mars, le ciel devient bleu autour du soleil quand il se couche, l’inverse de la Terre ! La fine poussière laisse passer la lumière bleue.",
+   "nl": "Wist je dat? Op Mars kleurt de lucht rond de zon blauw bij zonsondergang, precies andersom dan op aarde! Het fijne stof laat het blauwe licht door.",
+   "img": "Whyzz and Qubi on Mars watch a blue sunset"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So Mars is red because of rusty dust, not ketchup! If you could visit Mars, what would you do first on the red planet?",
+   "fr": "Donc Mars est rouge à cause de la poussière rouillée, pas du ketchup ! Et toi, si tu pouvais aller sur Mars, que ferais-tu en premier sur la planète rouge ?",
+   "nl": "Dus Mars is rood door roestig stof, niet door ketchup! Als jij naar Mars mocht, wat zou jij als eerste doen op de rode planeet?",
+   "img": "Whyzz and Qubi high-five on a red Mars hill with Earth small in the sky"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge sit on a grassy hill at night under a sky full of twinkling stars, Whyzz points excitedly at one small bright reddish dot among the white stars, Qubi smiles and looks up too, a cozy blanket and a small telescope next to them. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a big dream bubble above his head showing a funny cartoon red planet with rosy blushing cheeks holding a giant ketchup bottle, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge giggles next to him on a grassy hill at night under the stars. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge holds up a reddish-orange rock and shows it to Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge, next to them leans an old rusty orange bicycle in a backyard after the rain with little puddles, a big glowing red planet hangs in the evening sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge, both wearing white space suits with clear round helmets, stand on the red dusty ground of Mars with red rocks and hills, a gentle swirl of reddish dust blows across the plain and up into a pinkish-orange sky, amazed happy faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge, both wearing white space suits with clear round helmets, sit on a red rock on Mars and watch the small sun set behind red hills, the sky around the sun glows soft blue while the rest of the sky is orange-brown, peaceful amazed faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge, both wearing white space suits with clear round helmets, give each other a high five on top of a red hill on Mars, a small blue Earth shines in the dusky sky, a little rover parked nearby. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What is Mars covered in?",
+    "fr": "De quoi Mars est-elle couverte ?",
+    "nl": "Waarmee is Mars bedekt?"
+   },
+   "o": {
+    "en": [
+     "Dust and rocks with iron",
+     "Snow and ice cream",
+     "Green grass"
+    ],
+    "fr": [
+     "De poussière et de roches avec du fer",
+     "De neige et de glace",
+     "D’herbe verte"
+    ],
+    "nl": [
+     "Stof en rotsen met ijzer",
+     "Sneeuw en ijsjes",
+     "Groen gras"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What happened to the iron on Mars?",
+    "fr": "Qu’est-il arrivé au fer sur Mars ?",
+    "nl": "Wat is er gebeurd met het ijzer op Mars?"
+   },
+   "o": {
+    "en": [
+     "It melted into lava",
+     "It turned to rust",
+     "It flew to the Moon"
+    ],
+    "fr": [
+     "Il a fondu en lave",
+     "Il a rouillé",
+     "Il s’est envolé vers la Lune"
+    ],
+    "nl": [
+     "Het smolt tot lava",
+     "Het is gaan roesten",
+     "Het vloog naar de maan"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What on Earth also gets rusty like Mars?",
+    "fr": "Qu’est-ce qui rouille aussi sur Terre, comme Mars ?",
+    "nl": "Wat roest op aarde ook, net als Mars?"
+   },
+   "o": {
+    "en": [
+     "A glass of milk",
+     "A soft pillow",
+     "An old bike in the rain"
+    ],
+    "fr": [
+     "Un verre de lait",
+     "Un oreiller tout doux",
+     "Un vieux vélo sous la pluie"
+    ],
+    "nl": [
+     "Een glas melk",
+     "Een zacht kussen",
+     "Een oude fiets in de regen"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What spreads the red dust all over Mars?",
+    "fr": "Qu’est-ce qui répand la poussière rouge partout sur Mars ?",
+    "nl": "Wat blaast het rode stof over heel Mars?"
+   },
+   "o": {
+    "en": [
+     "Strong winds",
+     "Giant worms",
+     "Rivers of ketchup"
+    ],
+    "fr": [
+     "Des vents puissants",
+     "Des vers géants",
+     "Des rivières de ketchup"
+    ],
+    "nl": [
+     "Harde winden",
+     "Reuzenwormen",
+     "Rivieren van ketchup"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What color is the sky around the Sun at sunset on Mars?",
+    "fr": "De quelle couleur est le ciel autour du soleil au coucher sur Mars ?",
+    "nl": "Welke kleur heeft de lucht rond de zon bij zonsondergang op Mars?"
+   },
+   "o": {
+    "en": [
+     "Bright green",
+     "Blue",
+     "Black and white"
+    ],
+    "fr": [
+     "Vert vif",
+     "Bleu",
+     "Noir et blanc"
+    ],
+    "nl": [
+     "Felgroen",
+     "Blauw",
+     "Zwart-wit"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "True about Mars?",
+   "fr": "Vrai sur Mars ?",
+   "nl": "Waar over Mars?"
+  },
+  "intro": {
+   "en": "Pick everything that is true about Mars.",
+   "fr": "Choisis tout ce qui est vrai sur Mars.",
+   "nl": "Kies alles wat waar is over Mars."
+  },
+  "done": {
+   "en": "Great job, space explorer!",
+   "fr": "Bravo, explorateur de l’espace !",
+   "nl": "Goed gedaan, ruimteverkenner!"
+  },
+  "items": {
+   "en": [
+    "Mars has rusty dust",
+    "Mars is red because of ketchup",
+    "Winds blow dust into its sky",
+    "Sunsets on Mars look blue",
+    "Mars is made of cheese",
+    "Iron in its rocks turned to rust",
+    "Mars is covered in green grass"
+   ],
+   "fr": [
+    "Mars a de la poussière rouillée",
+    "Mars est rouge à cause du ketchup",
+    "Le vent souffle la poussière dans son ciel",
+    "Les couchers de soleil sur Mars sont bleus",
+    "Mars est faite de fromage",
+    "Le fer de ses roches a rouillé",
+    "Mars est couverte d’herbe verte"
+   ],
+   "nl": [
+    "Mars heeft roestig stof",
+    "Mars is rood door ketchup",
+    "De wind blaast stof de lucht in",
+    "Zonsondergangen op Mars zijn blauw",
+    "Mars is gemaakt van kaas",
+    "Het ijzer in de rotsen is gaan roesten",
+    "Mars is bedekt met groen gras"
+   ]
+  },
+  "good": [
+   0,
+   2,
+   3,
+   5
+  ]
+ }
+}

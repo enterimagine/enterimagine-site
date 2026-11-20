@@ -1,0 +1,233 @@
+{
+ "id": "cities-20261120",
+ "world": "cities",
+ "guide": "Pixel",
+ "title": {
+  "en": "How does clean water get to your tap?",
+  "fr": "Comment l’eau propre arrive-t-elle à ton robinet ?",
+  "nl": "Hoe komt schoon water uit je kraan?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, I just turn the tap and clean water comes out. But where does it come from and who makes it so clean?",
+   "fr": "Pixel, je tourne juste le robinet et de l’eau propre coule. Mais d’où vient-elle, et qui la rend si propre ?",
+   "nl": "Pixel, ik draai gewoon de kraan open en er komt schoon water uit. Maar waar komt het vandaan, en wie maakt het zo schoon?",
+   "img": "Whyzz fills a glass at a kitchen tap, Pixel watches"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I bet a giant drinks from the lake with a super long straw and spits the water into our pipes!",
+   "fr": "Je parie qu’un géant boit dans le lac avec une paille super longue et recrache l’eau dans nos tuyaux !",
+   "nl": "Ik wed dat een reus met een superlang rietje uit het meer drinkt en het water in onze buizen spuugt!",
+   "img": "Whyzz imagines a friendly giant drinking a lake with a long straw, Pixel laughs"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ew, no giant spit! Pumps bring water from a river, a lake or deep underground to a water plant. There, big screens catch leaves and sticks, like a giant sieve.",
+   "fr": "Beurk, pas de crachat de géant ! Des pompes amènent l’eau d’une rivière, d’un lac ou du sous-sol jusqu’à une usine d’eau. Là, de grandes grilles attrapent feuilles et branches, comme une énorme passoire.",
+   "nl": "Bah, geen reuzenspuug! Pompen brengen water uit een rivier, een meer of diep onder de grond naar een zuiveringsinstallatie. Daar vangen grote zeven bladeren en takjes op, als een reuzenzeef.",
+   "img": "Pixel shows a big metal screen catching leaves at a water plant by a lake"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Next, the water slowly trickles through thick layers of sand that trap tiny bits of dirt. Then strong ultraviolet light or a little chlorine kills the germs.",
+   "fr": "Ensuite, l’eau coule lentement à travers d’épaisses couches de sable qui retiennent les petites saletés. Puis une forte lumière ultraviolette ou un peu de chlore élimine les microbes.",
+   "nl": "Daarna sijpelt het water langzaam door dikke lagen zand die kleine vuiltjes tegenhouden. Dan doden sterk uv-licht of een beetje chloor de ziektekiemen.",
+   "img": "Cutaway of sand layers with water trickling through, glowing purple light, Pixel and Whyzz watch"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know? Many towns keep clean water in tall water towers. Because the water sits up high, gravity pushes it through the pipes all the way to your tap!",
+   "fr": "Le savais-tu ? Beaucoup de villes gardent l’eau propre dans de grands châteaux d’eau. Comme l’eau est tout en haut, la gravité la pousse dans les tuyaux jusqu’à ton robinet !",
+   "nl": "Wist je dat? Veel steden bewaren schoon water in hoge watertorens. Omdat het water zo hoog staat, duwt de zwaartekracht het door de buizen helemaal naar jouw kraan!",
+   "img": "Pixel and Whyzz look up at a tall water tower above a town"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So my water gets sieved, filtered, cleaned and pushed down from a tower, no giant needed! How could you save a little water at home today?",
+   "fr": "Donc mon eau est tamisée, filtrée, nettoyée et poussée depuis un château d’eau, sans aucun géant ! Et toi, comment pourrais-tu économiser un peu d’eau à la maison aujourd’hui ?",
+   "nl": "Dus mijn water wordt gezeefd, gefilterd, schoongemaakt en vanuit een toren naar beneden geduwd, zonder reus! Hoe zou jij vandaag thuis een beetje water kunnen besparen?",
+   "img": "Whyzz and Pixel toast with glasses of water in a sunny kitchen"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands at a bright kitchen sink and fills a clear glass with sparkling water from the tap, he looks at the water with a curious puzzled face, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge leans on the counter next to him and smiles, sunny window with plants. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a big dream bubble above his head showing a huge friendly cartoon giant sitting by a blue lake and drinking from it with a super long bendy straw, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge giggles next to him in a bright kitchen. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points at a big metal grid screen at the edge of a calm blue lake that catches floating leaves and sticks, big friendly pipes and a clean modern water plant building behind, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with curious eyes, sunny day. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge look amazed at a giant see-through tank showing thick layers of golden sand and pebbles with clear water slowly trickling down through them, at the bottom the water flows past a soft glowing purple light, inside a clean bright water plant. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stand in a small sunny town square and look up at a tall round water tower on long legs, a cutaway shows blue water inside flowing down through pipes under the street into the houses, happy amazed faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge clink glasses of sparkling clear water together and smile big in a sunny kitchen, a water drop splashes playfully, plants on the windowsill. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Where can a town get its water?",
+    "fr": "Où une ville peut-elle trouver son eau ?",
+    "nl": "Waar kan een stad haar water vandaan halen?"
+   },
+   "o": {
+    "en": [
+     "From a giant’s straw",
+     "From a river, a lake or underground",
+     "From melted ice cream"
+    ],
+    "fr": [
+     "De la paille d’un géant",
+     "D’une rivière, d’un lac ou du sous-sol",
+     "De glace fondue"
+    ],
+    "nl": [
+     "Uit het rietje van een reus",
+     "Uit een rivier, een meer of de grond",
+     "Uit gesmolten ijsjes"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What do the big screens catch?",
+    "fr": "Qu’attrapent les grandes grilles ?",
+    "nl": "Wat vangen de grote zeven op?"
+   },
+   "o": {
+    "en": [
+     "Leaves and sticks",
+     "Tiny germs",
+     "Sunlight"
+    ],
+    "fr": [
+     "Les feuilles et les branches",
+     "Les petits microbes",
+     "La lumière du soleil"
+    ],
+    "nl": [
+     "Bladeren en takjes",
+     "Kleine ziektekiemen",
+     "Zonlicht"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What traps the tiny bits of dirt?",
+    "fr": "Qu’est-ce qui retient les petites saletés ?",
+    "nl": "Wat houdt de kleine vuiltjes tegen?"
+   },
+   "o": {
+    "en": [
+     "Bubble gum",
+     "A big magnet",
+     "Layers of sand"
+    ],
+    "fr": [
+     "Du chewing-gum",
+     "Un gros aimant",
+     "Des couches de sable"
+    ],
+    "nl": [
+     "Kauwgom",
+     "Een grote magneet",
+     "Lagen zand"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What kills the germs?",
+    "fr": "Qu’est-ce qui élimine les microbes ?",
+    "nl": "Wat doodt de ziektekiemen?"
+   },
+   "o": {
+    "en": [
+     "Loud music",
+     "Ultraviolet light or a little chlorine",
+     "A cold wind"
+    ],
+    "fr": [
+     "De la musique forte",
+     "La lumière ultraviolette ou un peu de chlore",
+     "Un vent froid"
+    ],
+    "nl": [
+     "Harde muziek",
+     "Uv-licht of een beetje chloor",
+     "Een koude wind"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What pushes the water from the tower to your tap?",
+    "fr": "Qu’est-ce qui pousse l’eau du château d’eau jusqu’à ton robinet ?",
+    "nl": "Wat duwt het water van de toren naar je kraan?"
+   },
+   "o": {
+    "en": [
+     "Gravity",
+     "A giant",
+     "Tiny ducks"
+    ],
+    "fr": [
+     "La gravité",
+     "Un géant",
+     "De petits canards"
+    ],
+    "nl": [
+     "De zwaartekracht",
+     "Een reus",
+     "Kleine eendjes"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "From lake to tap",
+   "fr": "Du lac au robinet",
+   "nl": "Van meer naar kraan"
+  },
+  "intro": {
+   "en": "Put the steps in the right order.",
+   "fr": "Remets les étapes dans le bon ordre.",
+   "nl": "Zet de stappen in de goede volgorde."
+  },
+  "done": {
+   "en": "Super job, water hero!",
+   "fr": "Bravo, héros de l’eau !",
+   "nl": "Top gedaan, waterheld!"
+  },
+  "items": {
+   "en": [
+    "Pumps take water from a lake",
+    "Screens catch leaves and sticks",
+    "Sand traps tiny bits of dirt",
+    "Light or chlorine kills the germs",
+    "A water tower stores the clean water",
+    "Clean water comes out of your tap"
+   ],
+   "fr": [
+    "Des pompes prennent l’eau d’un lac",
+    "Des grilles attrapent feuilles et branches",
+    "Le sable retient les petites saletés",
+    "La lumière ou le chlore élimine les microbes",
+    "Un château d’eau garde l’eau propre",
+    "L’eau propre sort de ton robinet"
+   ],
+   "nl": [
+    "Pompen halen water uit een meer",
+    "Zeven vangen bladeren en takjes op",
+    "Zand houdt kleine vuiltjes tegen",
+    "Licht of chloor doodt de ziektekiemen",
+    "Een watertoren bewaart het schone water",
+    "Schoon water komt uit je kraan"
+   ]
+  }
+ }
+}

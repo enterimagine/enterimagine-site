@@ -1,0 +1,247 @@
+{
+ "id": "innovation-20261120",
+ "world": "innovation",
+ "guide": "Whyzz",
+ "title": {
+  "en": "Why do inventors work in teams?",
+  "fr": "Pourquoi les inventeurs travaillent-ils en équipe ?",
+  "nl": "Waarom werken uitvinders in teams?"
+ },
+ "scenes": [
+  {
+   "speaker": "Pixel",
+   "en": "Whyzz, I want to invent a machine that waters my plants while I’m away, but it’s a big job! Can I really do it all by myself?",
+   "fr": "Whyzz, je veux inventer une machine qui arrose mes plantes quand je ne suis pas là, mais c’est un gros travail ! Je peux vraiment tout faire toute seule ?",
+   "nl": "Whyzz, ik wil een machine uitvinden die mijn planten water geeft als ik weg ben, maar dat is een grote klus! Kan ik dat echt helemaal alleen?",
+   "img": "Pixel with a messy pile of tubes and a plant looks worried, Whyzz listens"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Easy! Just clone yourself ten times. Then ten Pixels can argue about who gets the snacks!",
+   "fr": "Facile ! Tu n’as qu’à te cloner dix fois. Comme ça, dix Pixel pourront se disputer pour le goûter !",
+   "nl": "Makkelijk! Kloon jezelf gewoon tien keer. Dan kunnen tien Pixels ruziemaken over wie de koekjes krijgt!",
+   "img": "Whyzz imagines ten little Pixels fighting over a cookie, Pixel laughs"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Just kidding! Inventors work in teams because everyone is good at something different. One loves drawing, one loves building and one loves testing.",
+   "fr": "Je rigole ! Les inventeurs travaillent en équipe parce que chacun est doué pour quelque chose de différent. L’un adore dessiner, l’autre construire, un autre encore tester.",
+   "nl": "Grapje! Uitvinders werken in teams omdat iedereen ergens anders goed in is. De een tekent graag, de ander bouwt graag en weer een ander test graag.",
+   "img": "Whyzz shows three kid-sized workbenches for drawing, building and testing"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "It’s like a band: a drum alone is fun, but drums, a guitar and a singer together make a song. In a team, one idea sparks the next, like popcorn popping!",
+   "fr": "C’est comme un groupe de musique : une batterie seule, c’est sympa, mais avec une guitare et un chanteur, ça fait une chanson. En équipe, une idée en fait éclater une autre, comme du pop-corn !",
+   "nl": "Het is net een band: een trommel alleen is leuk, maar drums, een gitaar en een zanger samen maken een liedje. In een team brengt het ene idee het volgende op gang, net als ploppende popcorn!",
+   "img": "Whyzz and Pixel brainstorm with idea bubbles popping like popcorn"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know? Some ants build bridges with their own bodies! They hold on to each other so the whole team can cross a gap.",
+   "fr": "Le savais-tu ? Certaines fourmis construisent des ponts avec leur propre corps ! Elles s’accrochent les unes aux autres pour que toute l’équipe puisse traverser un trou.",
+   "nl": "Wist je dat? Sommige mieren bouwen bruggen met hun eigen lijf! Ze houden elkaar vast, zodat het hele team over een gat kan.",
+   "img": "Pixel and Whyzz crouch to watch tiny ants forming a bridge between two leaves"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So teams mix different talents and turn small ideas into big inventions! Who would you pick for your dream invention team?",
+   "fr": "Donc une équipe mélange des talents différents et transforme de petites idées en grandes inventions ! Et toi, qui choisirais-tu pour ton équipe d’inventeurs de rêve ?",
+   "nl": "Dus een team combineert verschillende talenten en maakt van kleine ideeën grote uitvindingen! Wie zou jij kiezen voor jouw droomteam van uitvinders?",
+   "img": "Whyzz and Pixel cheer next to a finished plant-watering machine"
+  }
+ ],
+ "prompts": [
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge sits at a workbench in a bright cozy workshop with a messy pile of plastic tubes, bottles and a potted plant, she holds a tube with a worried but funny face, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands next to her and listens with a curious smile. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a big dream bubble above his head showing ten tiny identical cartoon girls with curly dark hair in two puffs and orange goggles tugging at one big cookie, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge giggles next to him in a bright workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge proudly points at three colorful kid-sized workbenches in a bright workshop, one with paper and colored pencils, one with cardboard, tape and tools, one with a watering can and a stopwatch, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge looks at them with excited eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge sit at a big table in a bright workshop with paper and pencils, many glowing round idea bubbles with little drawings of gears and plants pop up above their heads like popcorn, a real bowl of popcorn on the table, both laughing. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge crouch in a sunny garden and look amazed at a tiny chain of cartoon ants holding on to each other to form a little living bridge between two green leaves, other ants walk across it, close-up friendly view. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge cheer with raised arms next to a finished colorful homemade plant-watering machine made of bottles and tubes that gently drips water onto happy potted plants, bright workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What does Pixel want to invent?",
+    "fr": "Que veut inventer Pixel ?",
+    "nl": "Wat wil Pixel uitvinden?"
+   },
+   "o": {
+    "en": [
+     "A plant-watering machine",
+     "A flying bed",
+     "A talking sock"
+    ],
+    "fr": [
+     "Une machine qui arrose les plantes",
+     "Un lit volant",
+     "Une chaussette qui parle"
+    ],
+    "nl": [
+     "Een machine die planten water geeft",
+     "Een vliegend bed",
+     "Een pratende sok"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why do inventors work in teams?",
+    "fr": "Pourquoi les inventeurs travaillent-ils en équipe ?",
+    "nl": "Waarom werken uitvinders in teams?"
+   },
+   "o": {
+    "en": [
+     "Teams get free snacks",
+     "Everyone is good at something different",
+     "Working alone is not allowed"
+    ],
+    "fr": [
+     "Les équipes ont des goûters gratuits",
+     "Chacun est doué pour quelque chose de différent",
+     "C’est interdit de travailler seul"
+    ],
+    "nl": [
+     "Teams krijgen gratis koekjes",
+     "Iedereen is ergens anders goed in",
+     "Alleen werken mag niet"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What is a team like, says Whyzz?",
+    "fr": "À quoi ressemble une équipe, selon Whyzz ?",
+    "nl": "Waar lijkt een team op, volgens Whyzz?"
+   },
+   "o": {
+    "en": [
+     "An empty box",
+     "A sleepy cat",
+     "A band"
+    ],
+    "fr": [
+     "Une boîte vide",
+     "Un chat endormi",
+     "Un groupe de musique"
+    ],
+    "nl": [
+     "Een lege doos",
+     "Een slaperige kat",
+     "Een band"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "In a team, ideas pop like what?",
+    "fr": "En équipe, les idées éclatent comme quoi ?",
+    "nl": "In een team ploppen ideeën als wat?"
+   },
+   "o": {
+    "en": [
+     "Popcorn",
+     "Rocks",
+     "Snowmen"
+    ],
+    "fr": [
+     "Du pop-corn",
+     "Des cailloux",
+     "Des bonshommes de neige"
+    ],
+    "nl": [
+     "Popcorn",
+     "Stenen",
+     "Sneeuwpoppen"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What do some ants build with their bodies?",
+    "fr": "Que construisent certaines fourmis avec leur corps ?",
+    "nl": "Wat bouwen sommige mieren met hun lijf?"
+   },
+   "o": {
+    "en": [
+     "Castles",
+     "Bridges",
+     "Cars"
+    ],
+    "fr": [
+     "Des châteaux",
+     "Des ponts",
+     "Des voitures"
+    ],
+    "nl": [
+     "Kastelen",
+     "Bruggen",
+     "Auto’s"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Who does what in the team?",
+   "fr": "Qui fait quoi dans l’équipe ?",
+   "nl": "Wie doet wat in het team?"
+  },
+  "intro": {
+   "en": "Match each team member to their job.",
+   "fr": "Relie chaque membre de l’équipe à son rôle.",
+   "nl": "Verbind elk teamlid met zijn taak."
+  },
+  "done": {
+   "en": "Great teamwork!",
+   "fr": "Super travail d’équipe !",
+   "nl": "Top teamwerk!"
+  },
+  "left": {
+   "en": [
+    "The dreamer",
+    "The drawer",
+    "The builder",
+    "The tester"
+   ],
+   "fr": [
+    "Le rêveur",
+    "Le dessinateur",
+    "Le constructeur",
+    "Le testeur"
+   ],
+   "nl": [
+    "De dromer",
+    "De tekenaar",
+    "De bouwer",
+    "De tester"
+   ]
+  },
+  "right": {
+   "en": [
+    "Comes up with wild ideas",
+    "Sketches how it will look",
+    "Makes a first model",
+    "Tries it out and finds problems"
+   ],
+   "fr": [
+    "Trouve des idées folles",
+    "Dessine à quoi ça ressemblera",
+    "Fabrique un premier modèle",
+    "L’essaie et trouve les problèmes"
+   ],
+   "nl": [
+    "Bedenkt gekke ideeën",
+    "Tekent hoe het eruit zal zien",
+    "Maakt een eerste model",
+    "Probeert het uit en vindt problemen"
+   ]
+  }
+ }
+}

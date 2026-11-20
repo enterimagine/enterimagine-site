@@ -7882,5 +7882,437 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Dus zonlicht, wind, water en zelfs onze voetstappen kunnen stroom maken! Waar zou jij energietegels leggen, zodat heel veel voeten kunnen helpen?"
+ },
+ {
+  "id": "space-20261120-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, look at that tiny red dot in the night sky! Is that really a planet and why is it so red?"
+ },
+ {
+  "id": "space-20261120-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, regarde ce petit point rouge dans le ciel ! C’est vraiment une planète, et pourquoi est-elle si rouge ?"
+ },
+ {
+  "id": "space-20261120-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, kijk naar dat kleine rode stipje aan de hemel! Is dat echt een planeet, en waarom is die zo rood?"
+ },
+ {
+  "id": "space-20261120-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I know! Mars is red because it ate way too much ketchup. Or maybe it’s just very shy and blushing!"
+ },
+ {
+  "id": "space-20261120-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je sais ! Mars est rouge parce qu’elle a mangé beaucoup trop de ketchup. Ou alors elle est très timide et elle rougit !"
+ },
+ {
+  "id": "space-20261120-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik weet het! Mars is rood omdat hij veel te veel ketchup heeft gegeten. Of misschien is hij gewoon heel verlegen en bloost hij!"
+ },
+ {
+  "id": "space-20261120-en-3",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Ha, no ketchup! Mars is covered in dust and rocks with lots of iron in them. Over a very long time, that iron turned to rust, just like an old bike left in the rain."
+ },
+ {
+  "id": "space-20261120-fr-3",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Ha, pas de ketchup ! Mars est couverte de poussière et de roches pleines de fer. Avec le temps, ce fer a rouillé, comme un vieux vélo oublié sous la pluie."
+ },
+ {
+  "id": "space-20261120-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Haha, geen ketchup! Mars is bedekt met stof en rotsen vol ijzer. In heel lange tijd is dat ijzer gaan roesten, net als een oude fiets die in de regen blijft staan."
+ },
+ {
+  "id": "space-20261120-en-4",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Strong winds blow that rusty dust all over the planet and even into the sky. So Mars looks red from far away, like a planet wrapped in a rusty blanket."
+ },
+ {
+  "id": "space-20261120-fr-4",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Des vents puissants soufflent cette poussière rouillée partout sur la planète et même dans le ciel. C’est pour ça que Mars paraît rouge de loin, comme enveloppée dans une couverture rouillée."
+ },
+ {
+  "id": "space-20261120-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Harde winden blazen dat roestige stof over de hele planeet en zelfs de lucht in. Daarom ziet Mars er van ver rood uit, alsof hij in een roestig dekentje zit."
+ },
+ {
+  "id": "space-20261120-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Did you know? On Mars, the sky turns blue around the Sun at sunset, the opposite of Earth! The fine dust lets the blue light shine through."
+ },
+ {
+  "id": "space-20261120-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Le savais-tu ? Sur Mars, le ciel devient bleu autour du soleil quand il se couche, l’inverse de la Terre ! La fine poussière laisse passer la lumière bleue."
+ },
+ {
+  "id": "space-20261120-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Wist je dat? Op Mars kleurt de lucht rond de zon blauw bij zonsondergang, precies andersom dan op aarde! Het fijne stof laat het blauwe licht door."
+ },
+ {
+  "id": "space-20261120-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So Mars is red because of rusty dust, not ketchup! If you could visit Mars, what would you do first on the red planet?"
+ },
+ {
+  "id": "space-20261120-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc Mars est rouge à cause de la poussière rouillée, pas du ketchup ! Et toi, si tu pouvais aller sur Mars, que ferais-tu en premier sur la planète rouge ?"
+ },
+ {
+  "id": "space-20261120-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus Mars is rood door roestig stof, niet door ketchup! Als jij naar Mars mocht, wat zou jij als eerste doen op de rode planeet?"
+ },
+ {
+  "id": "mobility-20261120-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, when my bike stands still, it falls over right away. But when I ride it, it stays up! How does that work?"
+ },
+ {
+  "id": "mobility-20261120-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, quand mon vélo est à l’arrêt, il tombe tout de suite. Mais quand je roule, il tient debout ! Comment ça marche ?"
+ },
+ {
+  "id": "mobility-20261120-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, als mijn fiets stilstaat, valt hij meteen om. Maar als ik rijd, blijft hij overeind! Hoe werkt dat?"
+ },
+ {
+  "id": "mobility-20261120-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Maybe the wheels have invisible glue? Or a tiny bike fairy holds it up while I pedal!"
+ },
+ {
+  "id": "mobility-20261120-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Peut-être que les roues ont de la colle invisible ? Ou alors une petite fée du vélo le tient pendant que je pédale !"
+ },
+ {
+  "id": "mobility-20261120-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Misschien hebben de wielen onzichtbare lijm? Of houdt een piepklein fietsfeetje hem vast terwijl ik trap!"
+ },
+ {
+  "id": "mobility-20261120-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "No fairy, sorry! When your bike starts to lean, you turn the handlebars a tiny bit to that side. That moves the wheels back under you, so you don’t fall."
+ },
+ {
+  "id": "mobility-20261120-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Pas de fée, désolée ! Quand ton vélo commence à pencher, tu tournes un tout petit peu le guidon de ce côté. Les roues reviennent alors sous toi et tu ne tombes pas."
+ },
+ {
+  "id": "mobility-20261120-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Geen feetje, sorry! Als je fiets begint te hellen, draai je je stuur een heel klein beetje naar die kant. Zo komen de wielen weer onder je en val je niet."
+ },
+ {
+  "id": "mobility-20261120-en-4",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "It’s like balancing a broom on your hand: you move your hand under it to keep it up. When you go faster, these fixes get small and easy, so you hardly notice them."
+ },
+ {
+  "id": "mobility-20261120-fr-4",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "C’est comme garder un balai en équilibre sur ta main : tu bouges ta main sous lui pour qu’il ne tombe pas. Quand tu vas plus vite, ces corrections deviennent toutes petites et faciles."
+ },
+ {
+  "id": "mobility-20261120-nl-4",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Het is net als een bezem rechtop houden op je hand: je beweegt je hand eronder zodat hij blijft staan. Als je sneller rijdt, worden die correcties klein en makkelijk."
+ },
+ {
+  "id": "mobility-20261120-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? A bike can even balance by itself for a while! Give an empty bike a good push and its front wheel steers on its own as it rolls on."
+ },
+ {
+  "id": "mobility-20261120-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Un vélo peut même garder l’équilibre tout seul un moment ! Pousse bien un vélo sans personne dessus et sa roue avant se dirige toute seule pendant qu’il roule."
+ },
+ {
+  "id": "mobility-20261120-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Wist je dat? Een fiets kan zelfs een tijdje vanzelf in evenwicht blijven! Geef een lege fiets een flinke duw en het voorwiel stuurt vanzelf bij terwijl hij verder rolt."
+ },
+ {
+  "id": "mobility-20261120-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So steering keeps my bike up, not glue or fairies! If you could design your dream bike, what would it look like?"
+ },
+ {
+  "id": "mobility-20261120-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc c’est le guidon qui garde mon vélo debout, pas la colle ni les fées ! Et toi, si tu pouvais inventer le vélo de tes rêves, à quoi ressemblerait-il ?"
+ },
+ {
+  "id": "mobility-20261120-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus sturen houdt mijn fiets overeind, geen lijm of feetjes! Als jij je droomfiets mocht ontwerpen, hoe zou die eruitzien?"
+ },
+ {
+  "id": "cities-20261120-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, I just turn the tap and clean water comes out. But where does it come from and who makes it so clean?"
+ },
+ {
+  "id": "cities-20261120-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, je tourne juste le robinet et de l’eau propre coule. Mais d’où vient-elle, et qui la rend si propre ?"
+ },
+ {
+  "id": "cities-20261120-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, ik draai gewoon de kraan open en er komt schoon water uit. Maar waar komt het vandaan, en wie maakt het zo schoon?"
+ },
+ {
+  "id": "cities-20261120-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I bet a giant drinks from the lake with a super long straw and spits the water into our pipes!"
+ },
+ {
+  "id": "cities-20261120-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je parie qu’un géant boit dans le lac avec une paille super longue et recrache l’eau dans nos tuyaux !"
+ },
+ {
+  "id": "cities-20261120-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik wed dat een reus met een superlang rietje uit het meer drinkt en het water in onze buizen spuugt!"
+ },
+ {
+  "id": "cities-20261120-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ew, no giant spit! Pumps bring water from a river, a lake or deep underground to a water plant. There, big screens catch leaves and sticks, like a giant sieve."
+ },
+ {
+  "id": "cities-20261120-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Beurk, pas de crachat de géant ! Des pompes amènent l’eau d’une rivière, d’un lac ou du sous-sol jusqu’à une usine d’eau. Là, de grandes grilles attrapent feuilles et branches, comme une énorme passoire."
+ },
+ {
+  "id": "cities-20261120-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Bah, geen reuzenspuug! Pompen brengen water uit een rivier, een meer of diep onder de grond naar een zuiveringsinstallatie. Daar vangen grote zeven bladeren en takjes op, als een reuzenzeef."
+ },
+ {
+  "id": "cities-20261120-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Next, the water slowly trickles through thick layers of sand that trap tiny bits of dirt. Then strong ultraviolet light or a little chlorine kills the germs."
+ },
+ {
+  "id": "cities-20261120-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ensuite, l’eau coule lentement à travers d’épaisses couches de sable qui retiennent les petites saletés. Puis une forte lumière ultraviolette ou un peu de chlore élimine les microbes."
+ },
+ {
+  "id": "cities-20261120-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Daarna sijpelt het water langzaam door dikke lagen zand die kleine vuiltjes tegenhouden. Dan doden sterk uv-licht of een beetje chloor de ziektekiemen."
+ },
+ {
+  "id": "cities-20261120-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? Many towns keep clean water in tall water towers. Because the water sits up high, gravity pushes it through the pipes all the way to your tap!"
+ },
+ {
+  "id": "cities-20261120-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Beaucoup de villes gardent l’eau propre dans de grands châteaux d’eau. Comme l’eau est tout en haut, la gravité la pousse dans les tuyaux jusqu’à ton robinet !"
+ },
+ {
+  "id": "cities-20261120-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat? Veel steden bewaren schoon water in hoge watertorens. Omdat het water zo hoog staat, duwt de zwaartekracht het door de buizen helemaal naar jouw kraan!"
+ },
+ {
+  "id": "cities-20261120-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So my water gets sieved, filtered, cleaned and pushed down from a tower, no giant needed! How could you save a little water at home today?"
+ },
+ {
+  "id": "cities-20261120-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc mon eau est tamisée, filtrée, nettoyée et poussée depuis un château d’eau, sans aucun géant ! Et toi, comment pourrais-tu économiser un peu d’eau à la maison aujourd’hui ?"
+ },
+ {
+  "id": "cities-20261120-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus mijn water wordt gezeefd, gefilterd, schoongemaakt en vanuit een toren naar beneden geduwd, zonder reus! Hoe zou jij vandaag thuis een beetje water kunnen besparen?"
+ },
+ {
+  "id": "innovation-20261120-en-1",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, I want to invent a machine that waters my plants while I’m away, but it’s a big job! Can I really do it all by myself?"
+ },
+ {
+  "id": "innovation-20261120-fr-1",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, je veux inventer une machine qui arrose mes plantes quand je ne suis pas là, mais c’est un gros travail ! Je peux vraiment tout faire toute seule ?"
+ },
+ {
+  "id": "innovation-20261120-nl-1",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Whyzz, ik wil een machine uitvinden die mijn planten water geeft als ik weg ben, maar dat is een grote klus! Kan ik dat echt helemaal alleen?"
+ },
+ {
+  "id": "innovation-20261120-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Easy! Just clone yourself ten times. Then ten Pixels can argue about who gets the snacks!"
+ },
+ {
+  "id": "innovation-20261120-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Facile ! Tu n’as qu’à te cloner dix fois. Comme ça, dix Pixel pourront se disputer pour le goûter !"
+ },
+ {
+  "id": "innovation-20261120-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Makkelijk! Kloon jezelf gewoon tien keer. Dan kunnen tien Pixels ruziemaken over wie de koekjes krijgt!"
+ },
+ {
+  "id": "innovation-20261120-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Just kidding! Inventors work in teams because everyone is good at something different. One loves drawing, one loves building and one loves testing."
+ },
+ {
+  "id": "innovation-20261120-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je rigole ! Les inventeurs travaillent en équipe parce que chacun est doué pour quelque chose de différent. L’un adore dessiner, l’autre construire, un autre encore tester."
+ },
+ {
+  "id": "innovation-20261120-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Grapje! Uitvinders werken in teams omdat iedereen ergens anders goed in is. De een tekent graag, de ander bouwt graag en weer een ander test graag."
+ },
+ {
+  "id": "innovation-20261120-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "It’s like a band: a drum alone is fun, but drums, a guitar and a singer together make a song. In a team, one idea sparks the next, like popcorn popping!"
+ },
+ {
+  "id": "innovation-20261120-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "C’est comme un groupe de musique : une batterie seule, c’est sympa, mais avec une guitare et un chanteur, ça fait une chanson. En équipe, une idée en fait éclater une autre, comme du pop-corn !"
+ },
+ {
+  "id": "innovation-20261120-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Het is net een band: een trommel alleen is leuk, maar drums, een gitaar en een zanger samen maken een liedje. In een team brengt het ene idee het volgende op gang, net als ploppende popcorn!"
+ },
+ {
+  "id": "innovation-20261120-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? Some ants build bridges with their own bodies! They hold on to each other so the whole team can cross a gap."
+ },
+ {
+  "id": "innovation-20261120-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Certaines fourmis construisent des ponts avec leur propre corps ! Elles s’accrochent les unes aux autres pour que toute l’équipe puisse traverser un trou."
+ },
+ {
+  "id": "innovation-20261120-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat? Sommige mieren bouwen bruggen met hun eigen lijf! Ze houden elkaar vast, zodat het hele team over een gat kan."
+ },
+ {
+  "id": "innovation-20261120-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So teams mix different talents and turn small ideas into big inventions! Who would you pick for your dream invention team?"
+ },
+ {
+  "id": "innovation-20261120-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc une équipe mélange des talents différents et transforme de petites idées en grandes inventions ! Et toi, qui choisirais-tu pour ton équipe d’inventeurs de rêve ?"
+ },
+ {
+  "id": "innovation-20261120-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus een team combineert verschillende talenten en maakt van kleine ideeën grote uitvindingen! Wie zou jij kiezen voor jouw droomteam van uitvinders?"
  }
 ]
