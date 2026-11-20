@@ -84,13 +84,17 @@ export function initializeMember(root = document) {
         (f ? `<div class="cm-idea-reply">${f.portrait ? `<img src="${esc(f.portrait)}" alt="" width="40" height="50" loading="lazy" decoding="async">` : '<span></span>'}<div><p class="cm-reply-by">${i.reply.isNew ? '<span class="member-new">New</span> ' : ''}Reply from ${esc(f.name)} · ${esc(f.role)}</p><p class="cm-reply-text">${esc(i.reply.text)}</p></div></div>` : '') +
         `<p><button class="text-link" type="button" data-remove-idea>Remove this idea</button></p></article>`;
     }).join('') : '<p class="cm-help">You have not shared an idea yet.</p>';
+    const responses = Array.isArray(data.responses) ? data.responses : [];
+    $('[data-member-responses]').innerHTML = responses.length ? '<ul class="cm-comment-preview member-response-list">' + responses.map(r =>
+      `<li>${r.isNew ? '<span class="member-new">New</span> ' : ''}<strong>${esc(r.by)}</strong> ${r.kind === 'reply' ? 'replied to your comment' : 'commented on your idea'}: ${esc(r.text)} <a class="text-link" href="/collective-minds/idea/${encodeURIComponent(r.idea)}/#comment-${encodeURIComponent(r.id)}">Open the conversation</a></li>`).join('') + '</ul>'
+      : '<p class="cm-help">No replies yet. Join a conversation under any idea on the <a href="/collective-minds/#cm-ideas">Collective Minds page</a>.</p>';
     $('[data-passkey-count]').textContent = m.passkeys === 1 ? 'You have 1 passkey.' : m.passkeys ? `You have ${m.passkeys} passkeys.` : 'You have no passkey yet. Add one to sign in with your face, fingerprint or PIN.';
     $('[data-recovered]').hidden = !(recovered || !m.passkeys);
     const banner = $('[data-email-banner]');
     banner.hidden = m.emailVerified;
     const onFile = m.emailOnFile !== false;
     $('[data-email-banner-text]').textContent = onFile
-      ? 'Please confirm your email address with the link we sent you. Your card goes to review once it is confirmed, and the email lets you sign in again if you lose this device.'
+      ? 'Please confirm your email address with the link we sent you. Your card goes to review once it is confirmed and the email lets you sign in again if you lose this device.'
       : 'Please add an email address to your card. We send a link to confirm it; it lets you sign in again if you lose this device and, if you wish, tells you when a founding mind replies. It is never shown on your card.';
     $('[data-resend-box]').hidden = !onFile;
     $('[data-add-email-form]').hidden = onFile;
@@ -98,7 +102,7 @@ export function initializeMember(root = document) {
     const notify = $('[data-notify]');
     notify.checked = m.notifyReplies; notify.disabled = !m.emailVerified;
     show('in');
-    if (newReplies) api('seen', {});
+    if (newReplies || responses.some(r => r.isNew)) api('seen', {});
   }
 
   // Links from our emails: ?verify=, ?change=, ?signin=, ?unsubscribe=

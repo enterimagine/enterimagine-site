@@ -69,6 +69,20 @@
       ]
     },
     {
+      "route": "/api/comments",
+      "methods": [
+        "GET",
+        "POST"
+      ]
+    },
+    {
+      "route": "/api/comments/*",
+      "methods": [
+        "GET",
+        "POST"
+      ]
+    },
+    {
       "route": "/api/members",
       "methods": [
         "GET"
@@ -93,6 +107,10 @@
     {
       "route": "/api/*",
       "statusCode": 404
+    },
+    {
+      "route": "/collective-minds/idea/*",
+      "rewrite": "/collective-minds/idea/index.html"
     },
     {
       "route": "/src/*",

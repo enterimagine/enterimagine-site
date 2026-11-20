@@ -4,6 +4,7 @@
 import { createHash, createHmac, randomBytes, timingSafeEqual } from 'node:crypto';
 import { odataString } from './table.js';
 import { MINDS, REPLY_MAX } from './agent.js';
+import { deleteCommentsOfIdea } from './comments.js';
 
 export const THEMES = Object.freeze(['ai-data', 'quantum-computing', 'energy', 'smart-mobility', 'smart-cities', 'biotech', 'robotics', 'space', 'innovation']);
 export const LIMITS = Object.freeze({ textMin: 15, textMax: 300, nameMax: 40, perDay: 5, minSeconds: 3, pendingDays: 90, maxBody: 4096, draftsPerDay: 50, alertMinutes: 60 });
@@ -126,6 +127,7 @@ export function createHandlers(store, { secret, now = () => Date.now(), drafter 
       const a = Buffer.from(sha256(code)), b = Buffer.from(String(row?.codeHash || '').padEnd(64, '0').slice(0, 64));
       if (!row || !timingSafeEqual(a, b)) return err(404, 'We could not find an idea with that number and removal code.');
       await store.remove(IDEAS, PK, rowId);
+      await deleteCommentsOfIdea(store, rowId);
       return json(200, { ok: true });
     },
 
@@ -181,6 +183,7 @@ export function createHandlers(store, { secret, now = () => Date.now(), drafter 
         await store.upsert(IDEAS, next); await notify(next);
       } else {
         await store.remove(IDEAS, PK, rowId); // rejected and removed ideas are deleted, not archived
+        await deleteCommentsOfIdea(store, rowId); // with their comments
       }
       return json(200, { ok: true });
     }

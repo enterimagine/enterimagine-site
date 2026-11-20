@@ -96,13 +96,33 @@ function sparkHtml(i, state) {
   return `<p class="cm-spark-row"><a class="cm-spark" href="/collective-minds/member/" aria-label="Join to spark this idea">✦ <span>${n}</span></a><span class="cm-help-inline">Members can spark ideas</span></p>`;
 }
 
+// Each idea card links to its own page with the full conversation; the wall shows the count and the two most-sparked comments.
+export const ideaPath = i => '/collective-minds/idea/' + encodeURIComponent(i.id) + '/';
+function commentsHtml(i, summary) {
+  const s = summary && summary[i.id], n = s ? s.count : 0;
+  const preview = s && s.top.length ? `<ul class="cm-comment-preview">${s.top.map(c => `<li><strong>${esc(c.name)}</strong> ${esc(c.text.length > 140 ? c.text.slice(0, 137) + '…' : c.text)}</li>`).join('')}</ul>` : '';
+  return preview + `<p class="cm-comment-row"><a href="${esc(ideaPath(i))}">${n ? `${n} comment${n === 1 ? '' : 's'} · Read the conversation` : 'Start the conversation'} <span aria-hidden="true">→</span></a></p>`;
+}
+
+function themeTabs(ideas, cfg, root, state, redraw) {
+  const box = root.querySelector('[data-theme-tabs]');
+  if (!box) return;
+  const counts = Object.fromEntries(cfg.themes.map(t => [t.id, ideas.filter(i => i.themes.includes(t.id)).length]));
+  const tabs = [['', 'All ideas', ideas.length], ...cfg.themes.filter(t => counts[t.id]).map(t => [t.id, t.name, counts[t.id]])];
+  box.hidden = ideas.length < 2;
+  box.innerHTML = tabs.map(([id, name, n]) => `<button class="cm-theme-tab" type="button" data-theme-tab="${esc(id)}" aria-pressed="${(state.filter || '') === id}">${esc(name)} <span>${n}</span></button>`).join('');
+  box.onclick = ev => { const b = ev.target.closest('[data-theme-tab]'); if (!b) return; state.filter = b.dataset.themeTab; redraw(); };
+}
+
 export function renderIdeas(ideas, cfg, root, state = { members: [], me: null, sparks: new Set() }) {
   const list = root.querySelector('[data-idea-list]');
+  const shown = state.filter ? ideas.filter(i => i.themes.includes(state.filter)) : ideas;
+  themeTabs(ideas, cfg, root, state, () => renderIdeas(ideas, cfg, root, state));
   const byId = Object.fromEntries(cfg.themes.map(t => [t.id, t]));
   const members = state.members || [], memberById = Object.fromEntries(members.map(m => [m.id, m]));
   const author = i => { const m = i.memberId && memberById[i.memberId]; return m ? `<a href="#${esc(memberCardId(m.id))}">${esc(m.name)}</a>` : esc(i.name || 'A Collective Mind'); };
-  if (list) list.innerHTML = ideas.length
-    ? ideas.map(i => `<article class="cm-idea-card" id="${esc(cardId(i))}" tabindex="-1"><p class="cm-idea-text">${esc(i.text)}</p><p class="cm-idea-meta"><span>${author(i)}</span>${i.approvedAt ? `<span>${esc(monthYear(i.approvedAt))}</span>` : ''}</p><p class="cm-idea-themes">${i.themes.filter(t => byId[t]).map(t => `<a href="${esc(byId[t].path)}">${esc(byId[t].name)}</a>`).join('')}</p>${replyHtml(i, cfg)}${sparkHtml(i, state)}</article>`).join('')
+  if (list) list.innerHTML = shown.length
+    ? shown.map(i => `<article class="cm-idea-card" id="${esc(cardId(i))}" tabindex="-1"><p class="cm-idea-text"><a class="cm-idea-open" href="${esc(ideaPath(i))}">${esc(i.text)}</a></p><p class="cm-idea-meta"><span>${author(i)}</span>${i.approvedAt ? `<span>${esc(monthYear(i.approvedAt))}</span>` : ''}</p><p class="cm-idea-themes">${i.themes.filter(t => byId[t]).map(t => `<a href="${esc(byId[t].path)}">${esc(byId[t].name)}</a>`).join('')}</p>${replyHtml(i, cfg)}${sparkHtml(i, state)}${commentsHtml(i, state.summary)}</article>`).join('')
     : '<p class="cm-help">No ideas have been published yet. Yours could be the first.</p>';
   const mlist = root.querySelector('[data-member-list]');
   if (mlist && members.length) mlist.innerHTML = members.map(m => `<article class="cm-idea-card cm-member-card" id="${esc(memberCardId(m.id))}" tabindex="-1"><p class="member-card-name">${esc(m.name)}</p><p class="cm-idea-themes">${m.domains.filter(t => byId[t]).map(t => `<a href="${esc(byId[t].path)}">${esc(byId[t].name)}</a>`).join('')}</p>${m.whatIf ? `<p class="cm-idea-text">${esc(m.whatIf)}</p>` : ''}<p class="cm-idea-meta"><span>Member since ${esc(monthYear(m.joinedAt))}</span><span>${ideas.filter(i => i.memberId === m.id).length} ideas</span></p></article>`).join('');
@@ -203,9 +223,10 @@ export function initializeIdeaWall(root = document) {
   const cfgEl = root.getElementById('cm-idea-config');
   if (!cfgEl) return;
   const cfg = JSON.parse(cfgEl.textContent);
-  const state = { members: [], me: null, sparks: new Set(), ideas: [] };
+  const state = { members: [], me: null, sparks: new Set(), ideas: [], summary: {}, filter: '' };
   const draw = () => renderIdeas(state.ideas, cfg, root, state);
-  const reload = () => Promise.all([api('ideas'), api('members').catch(() => ({ ok: false })), api('members/me').catch(() => ({ ok: false }))]).then(([r, m, me]) => {
+  const reload = () => Promise.all([api('ideas'), api('members').catch(() => ({ ok: false })), api('members/me').catch(() => ({ ok: false })), api('comments/summary').catch(() => ({ ok: false }))]).then(([r, m, me, cs]) => {
+    state.summary = cs.ok && cs.body.ideas ? cs.body.ideas : {};
     state.members = m.ok && Array.isArray(m.body.members) ? m.body.members : [];
     state.me = me.ok ? me.body.member : null;
     state.sparks = new Set(me.ok && Array.isArray(me.body.sparks) ? me.body.sparks : []);
@@ -214,7 +235,7 @@ export function initializeIdeaWall(root = document) {
     // Signed-in members share under their card's name.
     const as = root.querySelector('[data-sharing-as]'), nameField = root.querySelector('[data-name-field]'), cta = root.querySelector('[data-member-cta]');
     if (state.me) {
-      if (as) { as.textContent = 'You share as ' + state.me.name + ', and the idea is linked to your card.'; as.hidden = false; }
+      if (as) { as.textContent = 'You share as ' + state.me.name + ' and the idea is linked to your card.'; as.hidden = false; }
       if (nameField) nameField.hidden = true;
       if (cta) cta.textContent = 'Your card';
     }

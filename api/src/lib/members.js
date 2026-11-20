@@ -11,6 +11,7 @@ import { odataString } from './table.js';
 import { THEMES, isModerator } from './ideas.js';
 import { emails } from './mailer.js';
 import { MINDS } from './agent.js';
+import { deleteCommentsOfIdea, removeCommentsOfMember, commentsOfMember, responsesFor } from './comments.js';
 
 export const MEMBERS = 'members', CREDS = 'credentials', EMAILS = 'emailindex', TOKENS = 'emailtokens', SPARKS = 'sparks', IDEAS = 'ideas', RATE = 'ratelimit';
 const PK = 'member', IDEA_PK = 'idea';
@@ -354,13 +355,14 @@ export function createMemberHandlers(store, { secret, now = () => Date.now(), ch
       ideas.sort((a, b) => String(b.createdAt).localeCompare(String(a.createdAt)));
       const sparks = (await store.query(SPARKS, `RowKey eq ${odataString(member.RowKey)}`, 2000)).filter(s => s.RowKey === member.RowKey).map(s => s.PartitionKey);
       const seen = String(member.repliesSeenAt || '');
+      const responses = (await responsesFor(store, member.RowKey, ideas.filter(i => i.status === 'approved').map(i => i.RowKey))).map(r => ({ ...r, isNew: String(r.at) > seen }));
       return json(200, {
         member: { ...ownView(member), passkeys: (await passkeysOf(member.RowKey)).length, emailPending: !member.emailVerified,
           // Cards created before email existed have no address at all: the page then asks for one.
           emailOnFile: !!member.emailVerified || (await store.query(TOKENS, `PartitionKey eq 'verify'`, 2000)).some(t => t.PartitionKey === 'verify' && t.memberId === member.RowKey && Number(t.exp) >= now()) },
         ideas: ideas.map(i => ({ id: i.RowKey, text: i.text, themes: String(i.themes || '').split(',').filter(Boolean), status: i.status, createdAt: i.createdAt, sparks: Number(i.sparkCount || 0),
           reply: i.replyText ? { mind: i.replyMind, text: i.replyText, at: i.replyAt, isNew: String(i.replyAt || '') > seen } : null })),
-        sparks
+        sparks, responses
       });
     },
 
@@ -390,6 +392,7 @@ export function createMemberHandlers(store, { secret, now = () => Date.now(), ch
       if (!idea || idea.memberId !== g.member.RowKey) return err(404, 'This idea is not on your card.');
       for (const s of (await store.query(SPARKS, `PartitionKey eq ${odataString(id)}`, 5000)).filter(s => s.PartitionKey === id)) await store.remove(SPARKS, s.PartitionKey, s.RowKey);
       await store.remove(IDEAS, IDEA_PK, id);
+      await deleteCommentsOfIdea(store, id);
       return json(200, { ok: true });
     },
 
@@ -408,7 +411,7 @@ export function createMemberHandlers(store, { secret, now = () => Date.now(), ch
       return json(200, { ok: true }, { 'Set-Cookie': clearCookie(siteOf(request)) });
     },
 
-    // Deleting the account removes the card, email address, passkeys, sparks and the member's ideas.
+    // Deleting the account removes the card, email address, passkeys, sparks, the member's ideas and comments.
     async deleteAccount(request) {
       const g = await guard(request); if (g.fail) return g.fail;
       if (g.body.confirm !== true) return err(400, 'Please confirm that you want to delete your card.');
@@ -422,7 +425,9 @@ export function createMemberHandlers(store, { secret, now = () => Date.now(), ch
       for (const i of own) {
         for (const s of (await store.query(SPARKS, `PartitionKey eq ${odataString(i.RowKey)}`, 5000)).filter(s => s.PartitionKey === i.RowKey)) await store.remove(SPARKS, s.PartitionKey, s.RowKey);
         await store.remove(IDEAS, IDEA_PK, i.RowKey);
+        await deleteCommentsOfIdea(store, i.RowKey);
       }
+      await removeCommentsOfMember(store, id);
       await store.remove(MEMBERS, PK, id);
       return json(200, { ok: true }, { 'Set-Cookie': clearCookie(g.site) });
     },
@@ -467,8 +472,9 @@ export function createMemberHandlers(store, { secret, now = () => Date.now(), ch
       if (action === 'approve') await store.upsert(MEMBERS, { ...m, status: 'approved', reviewNote: '', approvedAt: m.approvedAt || new Date(now()).toISOString() });
       else if (action === 'changes') await store.upsert(MEMBERS, { ...m, status: 'changes', reviewNote: clean(body.note).slice(0, 200) });
       else {
-        // Remove for abuse: the card and passkeys go; the member's ideas stay only if already published.
+        // Remove for abuse: the card, passkeys and comments go; the member's ideas stay only if already published.
         for (const c of await passkeysOf(id)) await store.remove(CREDS, 'cred', c.RowKey);
+        await removeCommentsOfMember(store, id);
         await forgetEmail(m);
         await store.remove(MEMBERS, PK, id);
       }
@@ -490,6 +496,7 @@ export function createMemberHandlers(store, { secret, now = () => Date.now(), ch
       const ideas = (await store.query(IDEAS, `PartitionKey eq '${IDEA_PK}' and memberId eq ${odataString(id)}`, 300)).filter(i => i.memberId === id);
       const sparks = (await store.query(SPARKS, `RowKey eq ${odataString(id)}`, 2000)).filter(s => s.RowKey === id);
       const keys = await passkeysOf(id);
+      const comments = await commentsOfMember(store, id);
       return json(200, { export: {
         exportedAt: new Date(now()).toISOString(), controller: 'EnterImagine Media (enterimagine.com)',
         card: { number: id, displayName: m.displayName, domains: String(m.domains || '').split(',').filter(Boolean), whatIf: m.whatIf || '', status: m.status,
@@ -500,6 +507,7 @@ export function createMemberHandlers(store, { secret, now = () => Date.now(), ch
         ideas: ideas.map(i => ({ number: i.RowKey, text: i.text, themes: String(i.themes || '').split(',').filter(Boolean), status: i.status, sharedAt: i.createdAt, publishedAt: i.approvedAt || null,
           sparks: Number(i.sparkCount || 0), reply: i.replyText ? { from: MINDS[i.replyMind]?.name || i.replyMind, text: i.replyText, at: i.replyAt || null } : null })),
         sparksGiven: sparks.map(s => ({ idea: s.PartitionKey, at: s.at || null })),
+        comments: comments.map(c => ({ number: c.RowKey, idea: c.PartitionKey, replyTo: c.parentId || null, text: c.text, status: c.status, writtenAt: c.createdAt, publishedAt: c.publishedAt || null, sparks: Number(c.sparkCount || 0) })),
         notes: 'Passkeys: only the public key is stored; biometrics and private keys never leave the member\'s device. No password, IP address or tracking data is stored.'
       } });
     }

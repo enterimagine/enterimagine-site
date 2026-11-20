@@ -5,8 +5,9 @@ import { app } from '@azure/functions';
 import { createHash } from 'node:crypto';
 import { createTableClient, withTablePrefix } from '../lib/table.js';
 import { createHandlers, LIMITS } from '../lib/ideas.js';
-import { createMemberHandlers } from '../lib/members.js';
-import { createDrafter, createNotifier, createProfileChecker } from '../lib/agent.js';
+import { createMemberHandlers, siteOf } from '../lib/members.js';
+import { createCommentHandlers } from '../lib/comments.js';
+import { createDrafter, createNotifier, createProfileChecker, createCommentScreener } from '../lib/agent.js';
 import { createMailer } from '../lib/mailer.js';
 
 let handlers;
@@ -25,9 +26,11 @@ function get() {
     };
     const members = createMemberHandlers(store, { secret: derive('imagine-session'), checker: createProfileChecker(process.env.ANTHROPIC_API_KEY), draftCap,
       mailer: createMailer(process.env.EMAIL_CONNECTION) });
+    const notifier = createNotifier(process.env.IDEA_ALERTS_TOPIC);
     const ideas = createHandlers(store, { secret: derive('imagine-ratelimit'), memberOf: members.currentMember, onReply: members.notifyReply,
-      drafter: createDrafter(process.env.ANTHROPIC_API_KEY), notifier: createNotifier(process.env.IDEA_ALERTS_TOPIC) });
-    handlers = { ideas, members };
+      drafter: createDrafter(process.env.ANTHROPIC_API_KEY), notifier });
+    const comments = createCommentHandlers(store, { memberOf: members.currentMember, siteOf, notifier, screener: createCommentScreener(process.env.ANTHROPIC_API_KEY) });
+    handlers = { ideas, members, comments };
   }
   return handlers;
 }
@@ -45,6 +48,14 @@ route('ideas-withdraw', 'ideas/withdraw', ['POST'], (h, req) => h.ideas.withdraw
 route('moderation-ideas', 'moderation/ideas', ['GET'], (h, req) => h.ideas.listForModeration(req));
 route('moderation-decision', 'moderation/decision', ['POST'], (h, req) => h.ideas.decide(req));
 route('moderation-draft', 'moderation/draft', ['POST'], (h, req) => h.ideas.draft(req));
+
+route('comments', 'comments', ['GET', 'POST'], (h, req) => req.method === 'POST' ? h.comments.post(req) : h.comments.list(req));
+route('comments-summary', 'comments/summary', ['GET'], (h, req) => h.comments.summary(req));
+route('comments-remove', 'comments/remove', ['POST'], (h, req) => h.comments.remove(req));
+route('comments-spark', 'comments/spark', ['POST'], (h, req) => h.comments.spark(req));
+route('comments-report', 'comments/report', ['POST'], (h, req) => h.comments.report(req));
+route('moderation-comments', 'moderation/comments', ['GET'], (h, req) => h.comments.listForModeration(req));
+route('moderation-comment-decision', 'moderation/comment-decision', ['POST'], (h, req) => h.comments.decide(req));
 
 route('members', 'members', ['GET'], (h, req) => h.members.listPublic(req));
 route('members-me', 'members/me', ['GET'], (h, req) => h.members.me(req));

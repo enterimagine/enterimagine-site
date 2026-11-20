@@ -89,6 +89,27 @@ async function loadMembers(root) {
   }
 }
 
+// Comments: the automatic check publishes clear cases; doubtful, unchecked and reported comments wait here.
+const FLAGS = { ai: 'The automatic check was unsure', unchecked: 'Not checked automatically', reports: 'Reported by members' };
+function commentCard(c) {
+  const where = `/collective-minds/idea/${encodeURIComponent(c.idea)}/#comment-${encodeURIComponent(c.id)}`;
+  return `<article class="mod-card" data-comment-id="${esc(c.id)}" data-comment-idea="${esc(c.idea)}"><p class="cm-help">On the idea: <a href="${esc(where)}">${esc(c.ideaText.length > 120 ? c.ideaText.slice(0, 117) + '…' : c.ideaText)}</a>${c.reply ? ' · a reply to a comment' : ''}</p>` +
+    `<p class="cm-idea-text">${esc(c.text)}</p><p class="cm-idea-meta"><span>${esc(c.name)}</span><span>${esc(when(c.createdAt))}</span>${c.sparks ? `<span>✦ ${c.sparks}</span>` : ''}${c.reports ? `<span>${c.reports} report${c.reports === 1 ? '' : 's'}</span>` : ''}</p>` +
+    (c.status === 'review' ? `<p class="mod-agent ${c.flag === 'reports' ? 'is-reject' : ''}"><strong>${esc(FLAGS[c.flag] || 'Needs a look')}.</strong> ${c.check && c.flag !== 'reports' ? esc(c.check.reason) : ''}</p>` : '') +
+    `<p class="mod-actions">${c.status === 'review' ? '<button class="button" data-cact="publish">Publish</button>' : ''}<button class="button cm-button-quiet" data-cact="remove">Remove</button></p><p class="cm-form-error" data-card-error role="alert" hidden></p></article>`;
+}
+async function loadComments(root) {
+  const box = root.querySelector('[data-mod-comments]');
+  if (!box) return;
+  const res = await fetch('/api/moderation/comments', { cache: 'no-store' }).catch(() => null);
+  if (!res || !res.ok) { box.innerHTML = '<p class="cm-help">Comments could not be loaded.</p>'; return; }
+  const { review, recent, published, agent = { enabled: false } } = await res.json();
+  root.querySelector('[data-mod-comments-count]').textContent = '(' + review.length + ' waiting · ' + published + ' published' + (agent.enabled ? '' : ' · automatic check off: every comment waits for you') + ')';
+  box.innerHTML = review.length ? review.map(commentCard).join('') : '<p class="cm-help">Nothing needs a look. All caught up.</p>';
+  root.querySelector('[data-mod-recent-count]').textContent = '(' + recent.length + ')';
+  root.querySelector('[data-mod-recent]').innerHTML = recent.length ? recent.map(commentCard).join('') : '<p class="cm-help">No comments yet.</p>';
+}
+
 async function load(root) {
   const err = root.querySelector('[data-mod-error]');
   const me = await fetch('/.auth/me').then(r => r.json()).catch(() => null);
@@ -138,6 +159,16 @@ export function initializeModeration(root = document) {
     ev.target.reset();
   });
   root.addEventListener('click', async ev => {
+    const cbtn = ev.target.closest('[data-cact]');
+    if (cbtn) {
+      const el = cbtn.closest('[data-comment-id]'), act = cbtn.dataset.cact, error = el.querySelector('[data-card-error]');
+      if (act === 'remove' && cbtn.dataset.confirm !== 'yes') { cbtn.dataset.confirm = 'yes'; cbtn.textContent = 'Click again to remove permanently'; return; }
+      cbtn.disabled = true;
+      const res = await post('comment-decision', { idea: el.dataset.commentIdea, id: el.dataset.commentId, action: act }).catch(() => null);
+      if (!res || !res.ok) { cbtn.disabled = false; error.textContent = 'That did not work. Try again.'; error.hidden = false; return; }
+      loadComments(root);
+      return;
+    }
     const mbtn = ev.target.closest('[data-mact]');
     if (mbtn) {
       const el = mbtn.closest('[data-member]'), act = mbtn.dataset.mact, error = el.querySelector('[data-card-error]');
@@ -168,6 +199,7 @@ export function initializeModeration(root = document) {
     load(root);
   });
   load(root);
+  loadComments(root);
   loadMembers(root);
 }
 if (typeof document !== 'undefined') initializeModeration();
