@@ -159,6 +159,22 @@
       "url": "https://enterimagine.com/universe/who-drills-the-holes-for-the-cloud/",
       "scheduled_at": "2026-11-20T08:45:00+01:00",
       "typefully_draft_id": 12033877
+    },
+    {
+      "number": 21,
+      "slug": "the-solar-cell-that-gave-up-germanium",
+      "title": "The Solar Cell That Gave Up Germanium",
+      "url": "https://enterimagine.com/universe/the-solar-cell-that-gave-up-germanium/",
+      "scheduled_at": "2026-11-20T17:30:00+01:00",
+      "typefully_draft_id": 12058647
+    },
+    {
+      "number": 22,
+      "slug": "the-reaction-that-chose-a-hand",
+      "title": "The Reaction That Chose a Hand",
+      "url": "https://enterimagine.com/universe/the-reaction-that-chose-a-hand/",
+      "scheduled_at": "2026-11-21T08:45:00+01:00",
+      "typefully_draft_id": 12058649
     }
   ]
 }
