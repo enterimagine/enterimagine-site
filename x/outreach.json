@@ -126,7 +126,7 @@
       "url": "https://x.com/NASA/status/2123435938848067841",
       "seen": "2026-11-19",
       "draft": "Love the detail in the Orion track: the more than a thousand young stars Chandra sees there become twinkling sounds while the diffuse X-ray glow plays as pure high tones. Which nursery sounds best to you: Orion, M82, the Cosmic Cliffs or Rho Ophiuchi?",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@esaoperations",
@@ -134,6 +134,30 @@
       "url": "https://x.com/esaoperations/status/2123454735365681588",
       "seen": "2026-11-19",
       "draft": "Mars is the perfect test bed: Mars Express and TGO sit close enough in the sky that one pointing of the 35 m dish reaches both, like handing two people different notes in a single move. Could the same trick one day help missions flying near Mercury?",
+      "status": "skipped"
+    },
+    {
+      "account": "@BepiColombo",
+      "post": "We're almost there! On Saturday, 21 November, at 18:24 UTC, 19:24 CET / Sunday 22 November 03:24 JST in Japan, four thrus",
+      "url": "https://x.com/BepiColombo/status/2123750588475449416",
+      "seen": "2026-11-20",
+      "draft": "Nine gravity assists over eight years (one at Earth, two at Venus and six at Mercury), all to slow down enough for Mercury to hold on. Fingers crossed for a clean 37-minute burn: after that, Mio and MPO head to very different orbits for two views of the same planet!",
+      "status": "drafted"
+    },
+    {
+      "account": "@NASASolarSystem",
+      "post": "Millions of people fly every day, but there’s only one trip like this. Send your name nearly a billion miles to Saturn’s m",
+      "url": "https://x.com/NASASolarSystem/status/2123830179617186024",
+      "seen": "2026-11-20",
+      "draft": "Eight sets of coaxial rotors on a world where a dense, calm atmosphere and low gravity make flying the smartest way to explore. Which stop are people most excited for: the dune fields or the rim of Selk crater?",
+      "status": "drafted"
+    },
+    {
+      "account": "@MIT",
+      "post": "Mechanical engineers have developed a dry and stretchy material that could eliminate the need for wet, sticky gel in ultra",
+      "url": "https://x.com/MIT/status/2123793284413763624",
+      "seen": "2026-11-20",
+      "draft": "Swapping sticky gel for a dry, stretchy layer feels like the small detail that makes wearable ultrasound practical. How well does it keep acoustic contact as skin moves and sweats over many hours?",
       "status": "drafted"
     }
   ]
