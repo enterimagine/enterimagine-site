@@ -647,3 +647,7 @@ button.text-link{background:none;border:0;padding:0;color:var(--cyan);text-decor
 .cm-house-rules{margin-top:28px;font-size:.82rem}
 .member-response-list li{line-height:1.5}
 .cm-comments [data-more-wrap][hidden],.cm-composer-wrap:empty{display:none}
+.article-section a.button,.cm-join-invite a.button,.cm-entry a.button{color:#07121b;text-decoration:none}.article-section a.button.cm-button-quiet{color:var(--cyan)}
+.cm-entry-signin{margin-top:6px}.cm-entry-signin a{color:var(--cyan)}.cm-entry-signin[hidden]{display:none}
+.member-signin{border:1px solid var(--line);background:var(--surface);padding:18px 20px;margin-bottom:36px}.member-signin h2{font-size:1.5rem;margin-bottom:8px}.member-signin .actions{margin-top:12px}
+.member-signin:focus{outline:none}

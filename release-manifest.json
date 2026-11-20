@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "22bcb758199ec1487049e0b25e2716d124cd4aee",
+  "sourceCommit": "f2f5196f7c2172a3a104c6c568d2d0593aec68c3",
   "publicPolicySha256": "44e44ef06b99aa00824f8ab6fa29368c882b9689f98c4eaec2dbb43564b4b0bc",
   "nodeVersion": "v24.19.0",
-  "payloadId": "7c55a3537d2cda83fe988d5254e3aaf0bdef9d8f1ae111d104ae96b441863eff",
+  "payloadId": "fc9c469847556e0039f251109141dffcfc0a8d72ad5dca521345237ab4599ab4",
   "files": [
     {
       "path": "404.html",
@@ -713,13 +713,13 @@
     },
     {
       "path": "collective-minds/index.html",
-      "size": 30993,
-      "sha256": "ae71ed06894de9bc0195bc08daea3b8cdfe02e2c9671deb876da1403141172f8"
+      "size": 31212,
+      "sha256": "4d54810977a108426eeae341d4ad8081f1e76a5029d3658485e7a635655b9e17"
     },
     {
       "path": "collective-minds/member/index.html",
-      "size": 13643,
-      "sha256": "bc1b6d7dbde8495d36c99cf2af0550de997ad5c63d06c02dec13ba2197991c83"
+      "size": 13704,
+      "sha256": "39b57ad759097fac0af7a242f10c24c50a6f778a7b21cf17c914ed99e5ce9a6f"
     },
     {
       "path": "episodes/index.html",
@@ -858,8 +858,8 @@
     },
     {
       "path": "src/collective-main.js",
-      "size": 21523,
-      "sha256": "0b684951f314b1ec7ffb2246e0f3dc71051cb379e9c0a272c37264827d3600c0"
+      "size": 21919,
+      "sha256": "6da878abc9ffdf8ea78e55d6db282b6d3dc1e9f6adf5869116e0189eecd1f061"
     },
     {
       "path": "src/components.js",
@@ -873,8 +873,8 @@
     },
     {
       "path": "src/idea-main.js",
-      "size": 12908,
-      "sha256": "4e2bb4e23e4e38834a45f59069e530651ffd41b7b7288ab46286571ac412fe8c"
+      "size": 12961,
+      "sha256": "30e5fd83903f28bdc2875775b1753c3bd1ae86d40e82207d4618bc0a82abc3ca"
     },
     {
       "path": "src/main.js",
@@ -883,8 +883,8 @@
     },
     {
       "path": "src/member-main.js",
-      "size": 16066,
-      "sha256": "50f730d05f30711fbfb617e9712fe69d5d82b07a45a6273a652b930bc323e7cd"
+      "size": 16682,
+      "sha256": "cedbc0e88b96230ca6f628609e411c85b0ff92c12b95742334560efb33375920"
     },
     {
       "path": "src/moderation-main.js",
@@ -908,8 +908,8 @@
     },
     {
       "path": "src/styles.css",
-      "size": 63894,
-      "sha256": "7a1899770b20517e36e09ed4f46a4bfdae10531dd79813c3e389bfd2ae4b53a5"
+      "size": 64404,
+      "sha256": "27f07b98c6776f3c73e4cf78c1f74614a01edfbaf11e92edd25dc45b2046c375"
     },
     {
       "path": "src/universe-components.js",

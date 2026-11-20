@@ -39,7 +39,7 @@ const repliesHtml = (c, s) => `<div class="cm-replies" data-replies>${(c.replies
 export function composerHtml(s, parentId = '') {
   const v = s.viewer;
   if (!s.open) return '<p class="cm-help cm-closed">This conversation is closed for new comments. You can still read it.</p>';
-  if (!v) return `<div class="cm-join-invite"><p><strong>Join the Universe to take part.</strong> Members can comment, reply and spark the comments they like.</p><p class="actions"><a class="button" href="/collective-minds/member/">Join the Collective</a><a class="text-link" href="/collective-minds/member/">Already a member? Sign in</a></p></div>`;
+  if (!v) return `<div class="cm-join-invite"><p><strong>Join the Universe to take part.</strong> Members can comment, reply and spark the comments they like.</p><p class="actions"><a class="button" href="/collective-minds/member/">Join the Collective</a><a class="text-link" href="/collective-minds/member/?next=${encodeURIComponent(location.pathname)}#signin">Already a member? Sign in</a></p></div>`;
   if (!v.canComment) return '<p class="cm-help">You can take part as soon as IMAGINE has approved your member card. This usually takes a day.</p>';
   const idp = parentId ? 'r-' + parentId : 'c-new';
   return `<form class="cm-composer" data-composer-form${parentId ? ` data-parent="${esc(parentId)}"` : ''} novalidate>` +

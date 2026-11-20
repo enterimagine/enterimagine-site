@@ -6,7 +6,12 @@
 <p class="cm-form-error" data-member-error role="alert" hidden></p>
 
 <section class="article-section" data-state="out" hidden>
-<h2>Join the Collective</h2>
+<div class="member-signin" id="signin" tabindex="-1"><h2>Already a member? Sign in</h2>
+<div class="actions"><button class="button" type="button" data-login>Sign in with your passkey</button></div>
+<details class="cm-withdraw"><summary>New device, or no passkey here? Email me a sign-in link</summary>
+<form class="cm-withdraw-form" data-signin-form novalidate><div class="cm-field"><label for="signin-email">Your email address</label><input id="signin-email" name="email" type="email" autocomplete="email" required></div>
+<button class="button cm-button-quiet" type="submit">Email me a sign-in link</button><p class="cm-help" data-signin-status role="status"></p></form></details></div>
+<h2>New here? Join the Collective</h2>
 <p>No password to remember: you join with a <strong>passkey</strong>, unlocked with your face, fingerprint or device PIN. It stays on your device (or in your phone's password manager) and only works on this website. Your email address lets you sign in with a one-time link if you lose your device and tells you when a founding mind replies, if you wish.</p>
 <form class="cm-idea-form member-form" data-join-form novalidate>
 <div class="cm-field"><label for="join-name">Display name</label><input id="join-name" name="displayName" type="text" minlength="2" maxlength="30" autocomplete="nickname" required aria-describedby="join-name-help"><p class="cm-help" id="join-name-help">Shown on your card. 2 to 30 characters: letters, numbers, spaces and the signs . - _ ' (for example Sam_K or Maya-23). Please do not use your full name.</p></div>
@@ -18,11 +23,6 @@
 <div class="cm-field cm-consent"><input id="join-consent" name="consent" type="checkbox" required><label for="join-consent">I agree that IMAGINE may show my card publicly after review. I have read the <a href="/privacy/#members" target="_blank" rel="noopener">privacy notice</a>.</label></div>
 <div class="actions"><button class="button" type="submit">Create my passkey and join</button></div>
 </form>
-<h2>Already a member?</h2>
-<div class="actions"><button class="button cm-button-quiet" type="button" data-login>Sign in with your passkey</button></div>
-<details class="cm-withdraw"><summary>New device, or no passkey here? Email me a sign-in link</summary>
-<form class="cm-withdraw-form" data-signin-form novalidate><div class="cm-field"><label for="signin-email">Your email address</label><input id="signin-email" name="email" type="email" autocomplete="email" required></div>
-<button class="button cm-button-quiet" type="submit">Email me a sign-in link</button><p class="cm-help" data-signin-status role="status"></p></form></details>
 </section>
 
 <section class="article-section member-code" data-state="check" tabindex="-1" hidden>

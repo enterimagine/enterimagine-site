@@ -48,7 +48,11 @@ export function initializeMember(root = document) {
   const $ = s => box.querySelector(s), $$ = s => [...box.querySelectorAll(s)];
   const errorEl = $('[data-member-error]');
   const showError = msg => { errorEl.textContent = msg || ''; errorEl.hidden = !msg; if (msg) errorEl.scrollIntoView({ block: 'center' }); };
-  const show = state => { $('[data-state-loading]').hidden = true; $$('[data-state]').forEach(s => { s.hidden = s.dataset.state !== state; }); };
+  const show = state => {
+    $('[data-state-loading]').hidden = true; $$('[data-state]').forEach(s => { s.hidden = s.dataset.state !== state; });
+    // "Already a member? Sign in" links land on #signin, which only exists once the signed-out view is shown.
+    if (state === 'out' && location.hash === '#signin') { const el = $('#signin'); el.scrollIntoView({ block: 'start' }); el.focus({ preventScroll: true }); }
+  };
   const showInfo = msg => { showError(msg); errorEl.classList.toggle('is-info', !!msg); };
   const showCheck = text => { if (text) $('[data-check-text]').textContent = text; show('check'); $('[data-state="check"]').focus(); };
   const supported = typeof window !== 'undefined' && window.PublicKeyCredential && navigator.credentials;
@@ -151,6 +155,8 @@ export function initializeMember(root = document) {
     if (done) showCheck(done.email === 'sent' ? '' : 'Your card is created, but we could not send the confirmation email right now. Open your card and choose “Send the confirmation again” later.');
   });
 
+  // After signing in from an idea page, go back to that conversation (only addresses on this site's Collective Minds).
+  const next = (() => { const n = new URLSearchParams(location.search).get('next') || ''; return /^\/collective-minds\/(idea\/[a-z0-9]{8,40}\/)?$/.test(n) ? n : ''; })();
   $('[data-login]').addEventListener('click', async () => {
     showError('');
     if (!supported) return showError('This browser does not support passkeys.');
@@ -161,6 +167,7 @@ export function initializeMember(root = document) {
     catch (e) { return showError(passkeyError(e)); }
     const v = await api('login/verify', { token: o.data.token, response: credentialJSON(cred) });
     if (!v.ok) return showError(v.data.error || 'Please try again.');
+    if (next) { location.assign(next); return; }
     refresh();
   });
 

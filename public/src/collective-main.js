@@ -238,6 +238,10 @@ export function initializeIdeaWall(root = document) {
       if (as) { as.textContent = 'You share as ' + state.me.name + ' and the idea is linked to your card.'; as.hidden = false; }
       if (nameField) nameField.hidden = true;
       if (cta) cta.textContent = 'Your card';
+      const entry = root.querySelector('[data-entry-member]'), entryText = root.querySelector('[data-entry-member-text]'), signin = root.querySelector('[data-entry-signin]');
+      if (entry) entry.textContent = 'Your card';
+      if (entryText) entryText.textContent = 'You are signed in as ' + state.me.name + '. Open an idea to join its conversation.';
+      if (signin) signin.hidden = true;
     }
   });
   reload();
