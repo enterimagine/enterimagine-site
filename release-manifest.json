@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "63fc1bb0122698e0c07e1cb7aea66f71186c2b49",
-  "publicPolicySha256": "44e44ef06b99aa00824f8ab6fa29368c882b9689f98c4eaec2dbb43564b4b0bc",
+  "sourceCommit": "8e53343243bf100e592356ff40a7d76dff3448c3",
+  "publicPolicySha256": "97ee2c72557a6b5947b16e4e0276a68387fe071e01d7be63402f0921c2d924df",
   "nodeVersion": "v24.19.0",
-  "payloadId": "9749e248f651ad90fe888b9b59958c3e6d2f8fa927cfd634f998fcf61d9f5328",
+  "payloadId": "d6fd6b4edb94fec753a7922cc42ed5d6d601777c690f779159aae87087df82b4",
   "files": [
     {
       "path": "404.html",
@@ -92,6 +92,11 @@
       "sha256": "e2631632fa8ce7a79bcef6f3f1ca42d76a2908bd57828aad1e00a4675f8464af"
     },
     {
+      "path": "assets/articles/covers/the-enzyme-that-needed-a-leash.webp",
+      "size": 36472,
+      "sha256": "f589e2b8946d50c5de438a055ab87240526ce45493f109a17740fb825d566ee1"
+    },
+    {
       "path": "assets/articles/covers/the-factory-that-falls-from-the-sky.webp",
       "size": 53538,
       "sha256": "2ea7696f3490508d6b043b6b6ae9b5933e71454d254305c5c7904d299ce436ab"
@@ -152,6 +157,16 @@
       "sha256": "e56cf6dff7fae611bbb032c3e92a6c7551cd51c32bf3b0c75c2f0fff9fdea6ca"
     },
     {
+      "path": "assets/articles/covers/the-robots-that-walk-on-what-they-build.webp",
+      "size": 103170,
+      "sha256": "38f0533b367fadd54cd410e84d97a8f6b64954c847ffe3a12847f82395b76fe9"
+    },
+    {
+      "path": "assets/articles/covers/the-satellite-that-hides-behind-the-moon.webp",
+      "size": 74154,
+      "sha256": "c4bf51b85e99f57d2b60b0d550142da5a177e167d013f041d7696467fc339f61"
+    },
+    {
       "path": "assets/articles/covers/the-server-farm-that-warms-your-living-room.webp",
       "size": 68878,
       "sha256": "654a6c468c89b1409398533574e0ec7437efed25add0253715485c50df925081"
@@ -160,6 +175,16 @@
       "path": "assets/articles/covers/the-solar-cell-that-gave-up-germanium.webp",
       "size": 82868,
       "sha256": "f1946d9273411c4157aa66bb66cff9db4c1e2f9575f1ea727bc40e30b7067459"
+    },
+    {
+      "path": "assets/articles/covers/the-swimmer-grown-in-a-dish.webp",
+      "size": 48526,
+      "sha256": "c350ca953eaa042d52f1bfaca262e280ab0d8d69209a15bf538694c6b093e99c"
+    },
+    {
+      "path": "assets/articles/covers/two-drills-one-volcano.webp",
+      "size": 89586,
+      "sha256": "58dd284c6c3c32f418de3b302d7e9f11ceb785d752bcca929a140d603ff543f8"
     },
     {
       "path": "assets/articles/covers/waiting-on-the-plastic-eating-factory.webp",
@@ -307,6 +332,11 @@
       "sha256": "22f1743173040a611fa14b6aeccc4126bff4cd065d9aee5c087a4f25cc830168"
     },
     {
+      "path": "assets/articles/share/the-enzyme-that-needed-a-leash.jpg",
+      "size": 93925,
+      "sha256": "fb2933f746cad8afe4871129f154a717c06f4cf983450d72d6584304d9b98637"
+    },
+    {
       "path": "assets/articles/share/the-factory-that-falls-from-the-sky.jpg",
       "size": 90586,
       "sha256": "81ded1aba9a71bc7829d3dfff0427c5198e2fbe442275b439c9886039643aee9"
@@ -367,6 +397,16 @@
       "sha256": "40af5710683abb1d2b55e87186f80ea7533284f618ec64d668bd21e3915a9655"
     },
     {
+      "path": "assets/articles/share/the-robots-that-walk-on-what-they-build.jpg",
+      "size": 189831,
+      "sha256": "1f88d09f2ff70a0a70c372d7b8ad45267ee35b7f148a844c7187026d9fb0a8f8"
+    },
+    {
+      "path": "assets/articles/share/the-satellite-that-hides-behind-the-moon.jpg",
+      "size": 148588,
+      "sha256": "ffed07b62245298dec2937cc38e0a193183f73c0cbb3cce70081d5f0db7eed6e"
+    },
+    {
       "path": "assets/articles/share/the-server-farm-that-warms-your-living-room.jpg",
       "size": 130983,
       "sha256": "02e4219f6fc9f851b49c72dcf860fd171db31efc21206234885a83d0aacc990a"
@@ -375,6 +415,16 @@
       "path": "assets/articles/share/the-solar-cell-that-gave-up-germanium.jpg",
       "size": 164856,
       "sha256": "3375ef4006e3ff677f7569ee62d0e023ab68b3f397a068fb90cc4b7108b451d1"
+    },
+    {
+      "path": "assets/articles/share/the-swimmer-grown-in-a-dish.jpg",
+      "size": 109923,
+      "sha256": "b50dc463aefeca71750280790206c4470fec4a9fb918d8e09ef069701555c768"
+    },
+    {
+      "path": "assets/articles/share/two-drills-one-volcano.jpg",
+      "size": 165710,
+      "sha256": "ce0e1434a39f2a85b8f21dec281a8f321d892c48aa50cc37cb3f44632dfe47f8"
     },
     {
       "path": "assets/articles/share/waiting-on-the-plastic-eating-factory.jpg",
@@ -462,6 +512,11 @@
       "sha256": "a9bcf5bec2c673d92e43273519f267058904fa0d0911d7895a3f0d41aa9ec7eb"
     },
     {
+      "path": "assets/articles/the-enzyme-that-needed-a-leash.webp",
+      "size": 38250,
+      "sha256": "3e4d5e760598312955b3dc589275f6146c96368660ad9b36bd558b727dad56d2"
+    },
+    {
       "path": "assets/articles/the-factory-that-falls-from-the-sky.webp",
       "size": 65460,
       "sha256": "fdafccef1cda715db73d850627b53c8f7231802d61db90b5aea2cf20a13d3778"
@@ -522,6 +577,16 @@
       "sha256": "a98b34bbe9942a7fe52b59760e9b99993e075999da410675fb656c50de2fdd23"
     },
     {
+      "path": "assets/articles/the-robots-that-walk-on-what-they-build.webp",
+      "size": 34184,
+      "sha256": "7d2120b70b9c7c67395dd37bf1d9dc682d9110eee9d049860eacac596e8176c1"
+    },
+    {
+      "path": "assets/articles/the-satellite-that-hides-behind-the-moon.webp",
+      "size": 30482,
+      "sha256": "1c0a82e890dbdda163cb49d5beb1d7778ae05f8570a87bb8a66701cc66804eaf"
+    },
+    {
       "path": "assets/articles/the-server-farm-that-warms-your-living-room.webp",
       "size": 20528,
       "sha256": "0af9534315ecc3ab61650099ed32c34f5b1fa1d61332dc53d67b21ac706c9104"
@@ -530,6 +595,16 @@
       "path": "assets/articles/the-solar-cell-that-gave-up-germanium.webp",
       "size": 44936,
       "sha256": "5e48de7ddcc80ad62d87564d720a96eca0987b1947988e86ec1742862843ac4b"
+    },
+    {
+      "path": "assets/articles/the-swimmer-grown-in-a-dish.webp",
+      "size": 28204,
+      "sha256": "3ceed0bfb516c0a0d3ab27f398bbac92628b44495790ec1c9fd458e344ac18af"
+    },
+    {
+      "path": "assets/articles/two-drills-one-volcano.webp",
+      "size": 48108,
+      "sha256": "c62c3880adadb49a382798c1e012357309ffc389944fe8bf6c518278e185f5ff"
     },
     {
       "path": "assets/articles/waiting-on-the-plastic-eating-factory.webp",
@@ -753,18 +828,18 @@
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 29770,
-      "sha256": "a7ba34a9e48f6cafd2ea56a54fabe66ea78492a96d2b72127e8a8b23e22b1f93"
+      "size": 31893,
+      "sha256": "a903acdcc9e3f7288db10eac33e6eab9e1fa281d35a1c66934a650f29b8dcf54"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 19615,
-      "sha256": "39fae50f40a8f4150f2ffcba89b222e2009268de14481dae7defab2278b199f3"
+      "size": 21046,
+      "sha256": "be4a1f4675aeb451f0b645a76dab2da376aabef547c731f2dd5594798865c1ab"
     },
     {
       "path": "explore/energy/index.html",
-      "size": 24597,
-      "sha256": "559acd7ad9106bedc6a877dd4ceb388353998ccc86c31c5f6c5e8aaaf4c9a485"
+      "size": 25206,
+      "sha256": "be0bc6a9cec36ba278f0a44a5ba070a89bab69a1f3e5fe3d5cd36fd7bd09f00b"
     },
     {
       "path": "explore/index.html",
@@ -773,8 +848,8 @@
     },
     {
       "path": "explore/innovation/index.html",
-      "size": 19956,
-      "sha256": "01efe540a55b654e9b0f37efc7bb98e90a966610e67dfcd808c16b6a1147e90a"
+      "size": 21935,
+      "sha256": "e80d2b02ee53dd5236778a842a0a641e1347aa9df65a6040a649a4b62053ee69"
     },
     {
       "path": "explore/quantum-computing/index.html",
@@ -783,13 +858,13 @@
     },
     {
       "path": "explore/robotics/index.html",
-      "size": 18335,
-      "sha256": "a24c2ead22a32e23cc4ea29189522fdd9b02acd8e480673ff7e013633b1a7942"
+      "size": 19816,
+      "sha256": "9bd7587acd2a7de14c203005acc142b82070ab345b0293e8b0a9b2f7a0f3d759"
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 18016,
-      "sha256": "2f89c043323f0e8ef59ab10cb0d5cb8ac2a96ed9e917881ad91f08d6d359db82"
+      "size": 18744,
+      "sha256": "04fb4e39a17e42e1a7f2a0cda5d910c44dc9f4e8c003597d5521822deb9df395"
     },
     {
       "path": "explore/smart-mobility/index.html",
@@ -798,8 +873,8 @@
     },
     {
       "path": "explore/space/index.html",
-      "size": 17963,
-      "sha256": "39547e512a32841af5397417476acb757115fc6dc370740160e5bc92efcb2588"
+      "size": 19383,
+      "sha256": "86720209e330443e2814e170995e020d9be54311244810ae1a65e0245eda7a79"
     },
     {
       "path": "index.html",
@@ -968,8 +1043,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 72414,
-      "sha256": "9e64c19b8fea2b01b43f8ee06930c716b8b75d8f852ae998439805055b8ec03e"
+      "size": 78627,
+      "sha256": "f529f323ee65505210ed86cb9e98816582f932f551c21988b597fd5bb2b20714"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -1003,8 +1078,8 @@
     },
     {
       "path": "universe/the-building-that-arrives-flat/index.html",
-      "size": 22326,
-      "sha256": "017c9d2ad5661b281eee63484f49c07c7273de9e68b4a8729c8c0fd8093e8d08"
+      "size": 22480,
+      "sha256": "e92ff22ba0920c497eeb695ffd3172c2beaa1ac9f3b959c569fba58f2d72845f"
     },
     {
       "path": "universe/the-chip-that-asks-which-hand-life-uses/index.html",
@@ -1025,6 +1100,11 @@
       "path": "universe/the-diamond-that-feels-your-heartbeat/index.html",
       "size": 24474,
       "sha256": "24d7a12984ba3a789641342d1729c54f7492d977a97d472edc1aa6e97474ee52"
+    },
+    {
+      "path": "universe/the-enzyme-that-needed-a-leash/index.html",
+      "size": 27297,
+      "sha256": "fe5e20f05a59d9519625c210c163aa4aea32d9352f85db0692650a5dfdba90c8"
     },
     {
       "path": "universe/the-factory-that-falls-from-the-sky/index.html",
@@ -1087,6 +1167,16 @@
       "sha256": "e47beb46262982494a8877269254a20063320f04ce1b7bf0e0ef11487451c817"
     },
     {
+      "path": "universe/the-robots-that-walk-on-what-they-build/index.html",
+      "size": 22524,
+      "sha256": "a9fbe79c8cb2a3bd8fe547d42628051d1a366ecfd4bfa6e57f079b086aa67d8f"
+    },
+    {
+      "path": "universe/the-satellite-that-hides-behind-the-moon/index.html",
+      "size": 23133,
+      "sha256": "a1ed0aad28287c65e795db27e5c46aecca157b14da6c71d38c8831644d6cbe99"
+    },
+    {
       "path": "universe/the-server-farm-that-warms-your-living-room/index.html",
       "size": 18828,
       "sha256": "bfb20848ef87be17c2ed449ddd55d09c1eeb27cc5cd7368f23328c65a416a0be"
@@ -1095,6 +1185,16 @@
       "path": "universe/the-solar-cell-that-gave-up-germanium/index.html",
       "size": 22226,
       "sha256": "3742a680d6f96f256d445c492a7db4702d9ca87fdf4d5fed66d69b4b5c86465f"
+    },
+    {
+      "path": "universe/the-swimmer-grown-in-a-dish/index.html",
+      "size": 23885,
+      "sha256": "94b8a0921ab50e48435f3d066abe92545f427d5e00e3339fc87091119824e3fb"
+    },
+    {
+      "path": "universe/two-drills-one-volcano/index.html",
+      "size": 23538,
+      "sha256": "2f4a00d5253397804e85f9a495eb2edb9050e1ff0f02ca973f7deb70e1877069"
     },
     {
       "path": "universe/waiting-on-the-plastic-eating-factory/index.html",
@@ -1224,6 +1324,10 @@
       "sha256": "a17ce8ea84dd609d4067173fcc16b6e343b5dc8078a42a1ee7d33c953534582a"
     },
     {
+      "path": "tools/add-articles.py",
+      "sha256": "505b052e70305aa0581575ed5591bf6ff7cb1dd11c7d36e881b6e639f3be84d5"
+    },
+    {
       "path": "tools/api-policy.mjs",
       "sha256": "026c3ceb1557ac842baceb1edcac34913ae96f308deeb3b7fbc96452d4bd4a93"
     },
@@ -1249,7 +1353,7 @@
     },
     {
       "path": "tools/development-policy.mjs",
-      "sha256": "7ed694ef60d377d2b3955bdf985dbc6bd2918bb9d5b546c554c9349934b63bbd"
+      "sha256": "98cb32bf2265c1e97abb01131e2763cbb6ebcbe2341a8042152498a7fbb9f247"
     },
     {
       "path": "tools/encrypted-backup.mjs",
@@ -1293,7 +1397,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "44e44ef06b99aa00824f8ab6fa29368c882b9689f98c4eaec2dbb43564b4b0bc"
+      "sha256": "97ee2c72557a6b5947b16e4e0276a68387fe071e01d7be63402f0921c2d924df"
     },
     {
       "path": "tools/recovery-kit.mjs",

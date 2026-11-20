@@ -48,7 +48,8 @@ const verifiedByHand = new Map([
   ['https://www.fda.gov/drugs/guidances-drugs/development-new-stereoisomeric-drugs', '2026-11-09'],
   ['https://www.nrel.gov/pv/cell-efficiency.html', '2026-11-14'],
   ['https://www.nippon.com/en/news/yjj2026042100297/', '2026-11-09'],
-  ['https://www.nippon.com/en/news/yjj2026100200125/', '2026-11-09']
+  ['https://www.nippon.com/en/news/yjj2026100200125/', '2026-11-09'],
+  ['https://new.abb.com/news/detail/128070/abb-and-cosmic-use-ai-powered-robots-to-rebuild-homes-in-los-angeles-area', '2026-11-20']
 ]);
 const ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36';
 async function probe(url) {
