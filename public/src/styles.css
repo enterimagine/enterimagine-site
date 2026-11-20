@@ -651,3 +651,42 @@ button.text-link{background:none;border:0;padding:0;color:var(--cyan);text-decor
 .cm-entry-signin{margin-top:6px}.cm-entry-signin a{color:var(--cyan)}.cm-entry-signin[hidden]{display:none}
 .member-signin{border:1px solid var(--line);background:var(--surface);padding:18px 20px;margin-bottom:36px}.member-signin h2{font-size:1.5rem;margin-bottom:8px}.member-signin .actions{margin-top:12px}
 .member-signin:focus{outline:none}
+/* Menu: sign in / your card */
+#main-nav a.nav-member{border:1px solid var(--cyan);color:var(--cyan);padding:4px 12px;border-radius:999px}
+#main-nav a.nav-member:hover{background:var(--cyan);color:#07121b}
+.member-signin-help{color:var(--muted);font-size:.92rem;margin:0 0 4px}
+/* Clear frames: each idea with its conversation is one framed block */
+.cm-idea-list{gap:24px}
+.cm-idea-card{border:1px solid #2f4a5a;border-top:3px solid var(--warm);box-shadow:0 10px 28px rgba(0,0,0,.28);padding:22px}
+.cm-idea-card .cm-idea-text{font-size:1.08rem;font-weight:600;line-height:1.4}
+.cm-card-conversation{background:#0a1820;border:1px solid var(--line);padding:12px 14px;display:grid;gap:8px}
+.cm-card-conversation .cm-comment-preview{border-top:0;padding-top:0}
+.cm-card-conversation-label{margin:0;font-size:.7rem;letter-spacing:.16em;text-transform:uppercase;color:var(--muted)}
+.idea-frame{background:var(--surface);border:1px solid #2f4a5a;border-top:3px solid var(--warm);box-shadow:0 10px 28px rgba(0,0,0,.28);padding:24px;max-width:900px}
+.idea-frame-label{margin:0 0 8px;font-size:.72rem;letter-spacing:.16em;text-transform:uppercase;color:var(--warm)}
+.idea-frame .idea-title{font-size:clamp(1.5rem,3vw,2.4rem)}
+.cm-comments{border:1px solid #2f4a5a;background:#0b1820;padding:22px;max-width:900px}
+.cm-comment{border-left:3px solid var(--cyan)}
+.cm-comment.is-reply{border-left:3px solid #4d7182}
+.cm-reply-mark{color:var(--muted)}
+.article-body p.cm-house-rules,.article-section p.cm-house-rules{font-size:.74rem;line-height:1.5;color:var(--muted);margin-top:24px;opacity:.85}
+@media (max-width:760px){.cm-comments{padding:14px}.idea-frame{padding:18px}.cm-replies{padding-left:10px}}
+/* Idea wall: one full-width frame per idea; its comments indented underneath, inside the same frame */
+.cm-idea-list{grid-template-columns:1fr;gap:28px;max-width:1100px}
+.cm-idea-card{border:2px solid #4b6f82;border-top:4px solid var(--warm);border-radius:10px;padding:clamp(16px,3vw,32px);gap:14px}
+.cm-idea-card .cm-idea-text{font-size:clamp(1.05rem,1.6vw,1.3rem)}
+.cm-idea-card .cm-idea-reply{max-width:760px}
+.cm-card-conversation{margin-left:clamp(14px,4vw,48px);border:0;border-left:3px solid var(--cyan);border-radius:0 8px 8px 0;background:#091720;padding:clamp(12px,2vw,18px) clamp(12px,2.5vw,22px)}
+.cm-card-conversation .cm-comment-preview li{padding:8px 0;border-bottom:1px solid var(--line)}
+.cm-card-conversation .cm-comment-preview li:last-child{border-bottom:0}
+@media (min-width:1000px){.cm-card-conversation .cm-comment-preview{grid-template-columns:1fr 1fr;gap:0 24px}.cm-card-conversation .cm-comment-preview li:nth-last-child(-n+2){border-bottom:0}}
+/* Idea page: the same edge; the conversation is indented under the idea */
+.idea-frame{border:2px solid #4b6f82;border-top:4px solid var(--warm);border-radius:10px;padding:clamp(16px,3vw,32px);max-width:1100px}
+.cm-comments{margin-left:clamp(14px,4vw,48px);border:0;border-left:3px solid var(--cyan);border-radius:0 10px 10px 0;max-width:1052px;padding:clamp(14px,2.5vw,26px)}
+/* Idea page: idea and conversation share one frame; the conversation is indented inside it */
+.idea-hero{padding-bottom:48px}
+.idea-frame .cm-comments{margin:28px 0 0 clamp(10px,4vw,48px);max-width:none;background:#091720}
+.idea-frame .cm-comments h2{font-size:clamp(1.3rem,2.4vw,1.7rem)}
+@media (max-width:760px){.idea-frame .cm-comments{padding:12px 10px 14px 12px}.idea-frame .cm-comment{padding:12px}}
+.article-hero.idea-hero{max-width:1100px;width:100%}
+.cm-idea-card,.idea-frame{border:4px solid var(--warm);border-radius:10px}

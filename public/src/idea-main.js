@@ -29,7 +29,7 @@ export function commentHtml(c, s, isReply = false) {
     c.own ? '<button class="text-link cm-quiet-link" type="button" data-delete>Delete</button>' : ''
   ].filter(Boolean).join('');
   return `<article class="cm-comment${isReply ? ' is-reply' : ''}${c.checking ? ' is-checking' : ''}" data-comment="${esc(c.id)}">` +
-    `<p class="cm-comment-meta"><strong>${esc(c.name)}</strong><span>${esc(shortDate(c.at))}</span>${c.checking ? '<span class="member-new">Being checked</span>' : ''}</p>` +
+    `<p class="cm-comment-meta">${isReply ? '<span class="cm-reply-mark" aria-hidden="true">↳</span>' : ''}<strong>${esc(c.name)}</strong><span>${esc(shortDate(c.at))}</span>${c.checking ? '<span class="member-new">Being checked</span>' : ''}</p>` +
     `<p class="cm-comment-text">${esc(c.text)}</p>` +
     (c.checking ? '<p class="cm-help">Only you can see this comment until the check is done.</p>' : '') +
     `<p class="cm-comment-actions">${actions}</p>` + (isReply ? '' : repliesHtml(c, s)) + '</article>';

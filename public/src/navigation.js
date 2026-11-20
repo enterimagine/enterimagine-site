@@ -37,8 +37,20 @@ export function startVisitCounter(win = window) {
   } catch { /* counting never breaks a page */ }
 }
 
+// Menu item "Sign in" turns into "Your card" for a signed-in member (the session cookie is sent only to /api).
+export async function updateMemberLink(doc = document, fetchImpl = fetch) {
+  const link = doc.querySelector('[data-nav-member]');
+  if (!link || /^\/moderate/.test(doc.location?.pathname || '')) return;
+  try {
+    const r = await fetchImpl('/api/members/me', { cache: 'no-store' });
+    const body = r.ok ? await r.json() : null;
+    if (body && body.member) { link.textContent = 'Your card'; link.href = '/collective-minds/member/'; }
+  } catch { /* the menu keeps "Sign in" */ }
+}
+
 export function initializeNavigation() {
   startVisitCounter();
+  updateMemberLink();
   const toggle = document.querySelector('.menu-toggle');
   const nav = document.querySelector('#main-nav');
   if (!toggle || !nav) return;

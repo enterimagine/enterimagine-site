@@ -101,7 +101,7 @@ export const ideaPath = i => '/collective-minds/idea/' + encodeURIComponent(i.id
 function commentsHtml(i, summary) {
   const s = summary && summary[i.id], n = s ? s.count : 0;
   const preview = s && s.top.length ? `<ul class="cm-comment-preview">${s.top.map(c => `<li><strong>${esc(c.name)}</strong> ${esc(c.text.length > 140 ? c.text.slice(0, 137) + '…' : c.text)}</li>`).join('')}</ul>` : '';
-  return preview + `<p class="cm-comment-row"><a href="${esc(ideaPath(i))}">${n ? `${n} comment${n === 1 ? '' : 's'} · Read the conversation` : 'Start the conversation'} <span aria-hidden="true">→</span></a></p>`;
+  return '<div class="cm-card-conversation"><p class="cm-card-conversation-label">Conversation</p>' + preview + `<p class="cm-comment-row"><a href="${esc(ideaPath(i))}">${n ? `${n} comment${n === 1 ? '' : 's'} · Read the conversation` : 'Start the conversation'} <span aria-hidden="true">→</span></a></p></div>`;
 }
 
 function themeTabs(ideas, cfg, root, state, redraw) {

@@ -164,7 +164,13 @@ export function initializeMember(root = document) {
     if (!o.ok) return showError(o.data.error || 'Please try again.');
     let cred;
     try { cred = await navigator.credentials.get({ publicKey: requestOptions(o.data.options) }); }
-    catch (e) { return showError(passkeyError(e)); }
+    catch (e) {
+      // Most often: no passkey for this site on this device. The email link is the way in.
+      const email = $('[data-signin-email]'); email.open = true;
+      showError('No passkey was used. If you joined on another device, or nothing appeared, enter your email address below: we send you a link that signs you in on this device.');
+      $('#signin-email').focus();
+      return;
+    }
     const v = await api('login/verify', { token: o.data.token, response: credentialJSON(cred) });
     if (!v.ok) return showError(v.data.error || 'Please try again.');
     if (next) { location.assign(next); return; }
