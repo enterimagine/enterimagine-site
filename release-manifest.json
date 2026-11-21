@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "8e53343243bf100e592356ff40a7d76dff3448c3",
-  "publicPolicySha256": "97ee2c72557a6b5947b16e4e0276a68387fe071e01d7be63402f0921c2d924df",
+  "sourceCommit": "a5b98debf8c5ca62af077a540ef96e961aace392",
+  "publicPolicySha256": "62fc66423ed6e5d0d55b17a6bfde56f6a0b74fe9dd63294651b13862deb908c8",
   "nodeVersion": "v24.19.0",
-  "payloadId": "d6fd6b4edb94fec753a7922cc42ed5d6d601777c690f779159aae87087df82b4",
+  "payloadId": "4ca8a3732729622e4f3a503bc931b3746232fce9439a29ff636f16f75fcc0732",
   "files": [
     {
       "path": "404.html",
@@ -62,6 +62,11 @@
       "sha256": "e74020b707ba43eccec5221a5f6b02e2577b7f9db91e02ce8465f45a5d7f71bd"
     },
     {
+      "path": "assets/articles/covers/the-bacteria-shift-at-the-copper-mine.webp",
+      "size": 98644,
+      "sha256": "4fd4a7419746af8eebdefc80eec77c4a9b56e5daf10e48318e88597bbce303de"
+    },
+    {
       "path": "assets/articles/covers/the-brain-scanner-that-lets-you-fidget.webp",
       "size": 52666,
       "sha256": "a9de10aa3aef3440113fd3bc7cd741bf6d1e6718d5fd59c443dc244924f72f6c"
@@ -92,6 +97,11 @@
       "sha256": "e2631632fa8ce7a79bcef6f3f1ca42d76a2908bd57828aad1e00a4675f8464af"
     },
     {
+      "path": "assets/articles/covers/the-dust-that-leaves-on-its-own.webp",
+      "size": 63330,
+      "sha256": "ca9989607472bad093c3b4334260295ec3d2ecd1838662fe1432f7fe88d2acf7"
+    },
+    {
       "path": "assets/articles/covers/the-enzyme-that-needed-a-leash.webp",
       "size": 36472,
       "sha256": "f589e2b8946d50c5de438a055ab87240526ce45493f109a17740fb825d566ee1"
@@ -100,6 +110,11 @@
       "path": "assets/articles/covers/the-factory-that-falls-from-the-sky.webp",
       "size": 53538,
       "sha256": "2ea7696f3490508d6b043b6b6ae9b5933e71454d254305c5c7904d299ce436ab"
+    },
+    {
+      "path": "assets/articles/covers/the-ferry-that-had-to-hitchhike.webp",
+      "size": 82470,
+      "sha256": "480508c8b8042e5fb25454f802b3af9d57768ec9c1e2b7810b9d133da48daffd"
     },
     {
       "path": "assets/articles/covers/the-germs-that-know-where-the-pipes-will-fail.webp",
@@ -150,6 +165,11 @@
       "path": "assets/articles/covers/the-reaction-that-chose-a-hand.webp",
       "size": 38828,
       "sha256": "e1d83901c6e651e0ccbf61d11c5baa684a3324037e9a08d39a9880da08856142"
+    },
+    {
+      "path": "assets/articles/covers/the-rescue-that-ran-out-of-sky.webp",
+      "size": 65020,
+      "sha256": "0ef79780491f1f397d8a2c78596c1af04eb67390dc477d42200b443dbe799ffe"
     },
     {
       "path": "assets/articles/covers/the-robot-in-the-next-aisle.webp",
@@ -227,6 +247,11 @@
       "sha256": "4f978162c54324b6256b8d35f316d0af87f41ffa8c5615c7a25286959c626b25"
     },
     {
+      "path": "assets/articles/covers/who-frames-the-house-after-the-fire.webp",
+      "size": 93884,
+      "sha256": "2281da38efd7bcfa94745b13753836d7a9bfb5ce53d85cc7a9dd24f0be0de2c0"
+    },
+    {
       "path": "assets/articles/covers/who-grades-the-machines-homework.webp",
       "size": 48406,
       "sha256": "07d8d291d25fbe23e3a740c6c939e02643ff5e84c362858af67bff3ac544938d"
@@ -302,6 +327,11 @@
       "sha256": "9ce70071207a5324e1047abf837862e9538e451053e8c2b78c60779b61c1bd98"
     },
     {
+      "path": "assets/articles/share/the-bacteria-shift-at-the-copper-mine.jpg",
+      "size": 181349,
+      "sha256": "2eb7149c24228786abd2305da0ad685591d999efae4c0f1a39f7ef415ff4bf5f"
+    },
+    {
       "path": "assets/articles/share/the-brain-scanner-that-lets-you-fidget.jpg",
       "size": 116761,
       "sha256": "f75ed5d40b7a58034c980fd5f67df71c681a17aaf120cb1369fdd9ae3b018c38"
@@ -332,6 +362,11 @@
       "sha256": "22f1743173040a611fa14b6aeccc4126bff4cd065d9aee5c087a4f25cc830168"
     },
     {
+      "path": "assets/articles/share/the-dust-that-leaves-on-its-own.jpg",
+      "size": 138528,
+      "sha256": "c304986b501c28181eceb599b9bd5b2532a36ea98850927cae3cf0a1a913e1e3"
+    },
+    {
       "path": "assets/articles/share/the-enzyme-that-needed-a-leash.jpg",
       "size": 93925,
       "sha256": "fb2933f746cad8afe4871129f154a717c06f4cf983450d72d6584304d9b98637"
@@ -340,6 +375,11 @@
       "path": "assets/articles/share/the-factory-that-falls-from-the-sky.jpg",
       "size": 90586,
       "sha256": "81ded1aba9a71bc7829d3dfff0427c5198e2fbe442275b439c9886039643aee9"
+    },
+    {
+      "path": "assets/articles/share/the-ferry-that-had-to-hitchhike.jpg",
+      "size": 155595,
+      "sha256": "6a69a9f688ef41c5302796260f469f14b9ffffcad0182a09547776f937d6bed4"
     },
     {
       "path": "assets/articles/share/the-germs-that-know-where-the-pipes-will-fail.jpg",
@@ -390,6 +430,11 @@
       "path": "assets/articles/share/the-reaction-that-chose-a-hand.jpg",
       "size": 97141,
       "sha256": "c5981677465cc7611b788b4e6479f8617a113a430dd1ef83b4ed57cd9af72f9a"
+    },
+    {
+      "path": "assets/articles/share/the-rescue-that-ran-out-of-sky.jpg",
+      "size": 132261,
+      "sha256": "08496f463c4317483877fde887db955fcbbc56572cc8c9e2618ec67a4c9d284a"
     },
     {
       "path": "assets/articles/share/the-robot-in-the-next-aisle.jpg",
@@ -467,6 +512,11 @@
       "sha256": "b7f086b399f19046b81d548e12b5446539dc5b0c45b8a71c4df59003c3cb40d5"
     },
     {
+      "path": "assets/articles/share/who-frames-the-house-after-the-fire.jpg",
+      "size": 177293,
+      "sha256": "cad6b8a0751901141d4e4206ed0ea69a3ab5940e398bb52ed5d33a3e6bc80f36"
+    },
+    {
       "path": "assets/articles/share/who-grades-the-machines-homework.jpg",
       "size": 109047,
       "sha256": "cf5c51397f87427698b37c976ca25c4921b609a42cd22305f785e2d065cf40ca"
@@ -480,6 +530,11 @@
       "path": "assets/articles/the-archive-that-fits-in-a-pill.webp",
       "size": 43262,
       "sha256": "6dd7a9487f499d97e53f67d2cc460ecca238a4d36c8df1cbf1c6034fa035bcd4"
+    },
+    {
+      "path": "assets/articles/the-bacteria-shift-at-the-copper-mine.webp",
+      "size": 58530,
+      "sha256": "f8fd99e97b6fb895071a5d42d1b358a07052397c6f9a49702245da1766a31f4b"
     },
     {
       "path": "assets/articles/the-brain-scanner-that-lets-you-fidget.webp",
@@ -512,6 +567,11 @@
       "sha256": "a9bcf5bec2c673d92e43273519f267058904fa0d0911d7895a3f0d41aa9ec7eb"
     },
     {
+      "path": "assets/articles/the-dust-that-leaves-on-its-own.webp",
+      "size": 37734,
+      "sha256": "b9b1b88cca4e1d643c6d39ed40933db25606b32a2db2a37772b9276e368711b7"
+    },
+    {
       "path": "assets/articles/the-enzyme-that-needed-a-leash.webp",
       "size": 38250,
       "sha256": "3e4d5e760598312955b3dc589275f6146c96368660ad9b36bd558b727dad56d2"
@@ -520,6 +580,11 @@
       "path": "assets/articles/the-factory-that-falls-from-the-sky.webp",
       "size": 65460,
       "sha256": "fdafccef1cda715db73d850627b53c8f7231802d61db90b5aea2cf20a13d3778"
+    },
+    {
+      "path": "assets/articles/the-ferry-that-had-to-hitchhike.webp",
+      "size": 44872,
+      "sha256": "d1bd656180551ca1d4f5b3ebe587b7db69558f2ea968413ed037121f23bab99c"
     },
     {
       "path": "assets/articles/the-germs-that-know-where-the-pipes-will-fail.webp",
@@ -570,6 +635,11 @@
       "path": "assets/articles/the-reaction-that-chose-a-hand.webp",
       "size": 47582,
       "sha256": "d8a3e928180a0e2ac93e637ba8d7b65db74da969a3aead55342a7d7cb4ca6048"
+    },
+    {
+      "path": "assets/articles/the-rescue-that-ran-out-of-sky.webp",
+      "size": 47016,
+      "sha256": "a3432bcb24aaa70471a6f7aac6e1568e4ee74a85da79da8df3c32d9c1e091998"
     },
     {
       "path": "assets/articles/the-robot-in-the-next-aisle.webp",
@@ -645,6 +715,11 @@
       "path": "assets/articles/who-flew-the-plane-across-america.webp",
       "size": 46476,
       "sha256": "67ed78c4aeec0823d62885afd63b55a589c6abf55b27326ac0604dbf5e58c692"
+    },
+    {
+      "path": "assets/articles/who-frames-the-house-after-the-fire.webp",
+      "size": 54158,
+      "sha256": "e07d4f38659d054cf1d5ad02309b72d3d472ff6faea4a5b1281808661772430f"
     },
     {
       "path": "assets/articles/who-grades-the-machines-homework.webp",
@@ -828,18 +903,18 @@
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 31893,
-      "sha256": "a903acdcc9e3f7288db10eac33e6eab9e1fa281d35a1c66934a650f29b8dcf54"
+      "size": 33287,
+      "sha256": "643d9fb7c5579ceaddc0bf3382b349e3b45219cdb44b56d47dd16190cf6ef825"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 21046,
-      "sha256": "be4a1f4675aeb451f0b645a76dab2da376aabef547c731f2dd5594798865c1ab"
+      "size": 21733,
+      "sha256": "be7439b498281c06390461c4725e057cabff280de4090a1353a360ba65101904"
     },
     {
       "path": "explore/energy/index.html",
-      "size": 25206,
-      "sha256": "be0bc6a9cec36ba278f0a44a5ba070a89bab69a1f3e5fe3d5cd36fd7bd09f00b"
+      "size": 27266,
+      "sha256": "f02159896031b6fa9bab284233458098945828caa8449b8c84c14fd8ad7c6435"
     },
     {
       "path": "explore/index.html",
@@ -848,8 +923,8 @@
     },
     {
       "path": "explore/innovation/index.html",
-      "size": 21935,
-      "sha256": "e80d2b02ee53dd5236778a842a0a641e1347aa9df65a6040a649a4b62053ee69"
+      "size": 24023,
+      "sha256": "44b3cb63d378410bc9f45719076e6ee68d779f6225ed3522035b6d9d8e2badb9"
     },
     {
       "path": "explore/quantum-computing/index.html",
@@ -858,23 +933,23 @@
     },
     {
       "path": "explore/robotics/index.html",
-      "size": 19816,
-      "sha256": "9bd7587acd2a7de14c203005acc142b82070ab345b0293e8b0a9b2f7a0f3d759"
+      "size": 21238,
+      "sha256": "5e2c408b5be2c8a0784f8d8becf6ff2f4b98442ebd3b4241fa3b3972a8ec343a"
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 18744,
-      "sha256": "04fb4e39a17e42e1a7f2a0cda5d910c44dc9f4e8c003597d5521822deb9df395"
+      "size": 19451,
+      "sha256": "4616b862f2607802e47e99c3c3b8238f8d0baa0857b3d6454ca21cd0aef7ad17"
     },
     {
       "path": "explore/smart-mobility/index.html",
-      "size": 18918,
-      "sha256": "ff9fd53533af9444a1bf14af159910a6a166f2b9a6da7ea948acee02aa26b3ea"
+      "size": 19605,
+      "sha256": "7d1dd6dc04b63c93db97644e00b8c4b6e6ae769de9b857fa4accc73e9fa94a59"
     },
     {
       "path": "explore/space/index.html",
-      "size": 19383,
-      "sha256": "86720209e330443e2814e170995e020d9be54311244810ae1a65e0245eda7a79"
+      "size": 20784,
+      "sha256": "2f6b6481e5db08cd4456a554241788559bb8447cca252bfa10eca4d090a9513a"
     },
     {
       "path": "index.html",
@@ -1043,8 +1118,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 78627,
-      "sha256": "f529f323ee65505210ed86cb9e98816582f932f551c21988b597fd5bb2b20714"
+      "size": 85742,
+      "sha256": "790b258958f32e2ad08673dac951f99915535c8b440cbc4ab9555a6c917cdf2a"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -1070,6 +1145,11 @@
       "path": "universe/the-archive-that-fits-in-a-pill/index.html",
       "size": 23997,
       "sha256": "f590dcb02ffb96ea02a2e9254b2e788c0bb1b6d7bcb3538c47869e1c4006889d"
+    },
+    {
+      "path": "universe/the-bacteria-shift-at-the-copper-mine/index.html",
+      "size": 23604,
+      "sha256": "16bd12de6fafb567f7318107d44387a98ceee87f1213e76b34c96b4af7deb5cc"
     },
     {
       "path": "universe/the-brain-scanner-that-lets-you-fidget/index.html",
@@ -1102,14 +1182,24 @@
       "sha256": "24d7a12984ba3a789641342d1729c54f7492d977a97d472edc1aa6e97474ee52"
     },
     {
+      "path": "universe/the-dust-that-leaves-on-its-own/index.html",
+      "size": 27399,
+      "sha256": "9016154005e8314e2dedcb19a8c3749f0c23f470f831407b23014976aff832fd"
+    },
+    {
       "path": "universe/the-enzyme-that-needed-a-leash/index.html",
-      "size": 27297,
-      "sha256": "fe5e20f05a59d9519625c210c163aa4aea32d9352f85db0692650a5dfdba90c8"
+      "size": 27459,
+      "sha256": "fff8cc0a08cd8fc6e3344023856ccb6f33f5124212c5d0e559f934c15f417470"
     },
     {
       "path": "universe/the-factory-that-falls-from-the-sky/index.html",
       "size": 27322,
       "sha256": "11b60fd23a3e7764be0a00f2146306deb655f1cb87ca140b0b8bc83aa28e6ace"
+    },
+    {
+      "path": "universe/the-ferry-that-had-to-hitchhike/index.html",
+      "size": 25871,
+      "sha256": "48aa18f75bed1dcefd0392d72c835b2ebdbecdb3d6cfa208d7103d77edc74ff7"
     },
     {
       "path": "universe/the-germs-that-know-where-the-pipes-will-fail/index.html",
@@ -1160,6 +1250,11 @@
       "path": "universe/the-reaction-that-chose-a-hand/index.html",
       "size": 22407,
       "sha256": "0e1c07548ad34a408a3c2e54fa6dcdd2f31cf27cbcdd22c50c73712ad1587427"
+    },
+    {
+      "path": "universe/the-rescue-that-ran-out-of-sky/index.html",
+      "size": 25220,
+      "sha256": "facba14bd076095bf479eb7930a4c85950bbef27f52f8cb43a57e912038b096c"
     },
     {
       "path": "universe/the-robot-in-the-next-aisle/index.html",
@@ -1235,6 +1330,11 @@
       "path": "universe/who-flew-the-plane-across-america/index.html",
       "size": 22397,
       "sha256": "7cedeb3bf33f3a8e0d40dfb7d3d4d94ab8093c24897005d14385f3382f0bd185"
+    },
+    {
+      "path": "universe/who-frames-the-house-after-the-fire/index.html",
+      "size": 24168,
+      "sha256": "1f2549a7cbddc5aa024fc3af8192d4362e5c4677b44eac7edc518792fe24b60c"
     },
     {
       "path": "universe/who-grades-the-machines-homework/index.html",
@@ -1397,7 +1497,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "97ee2c72557a6b5947b16e4e0276a68387fe071e01d7be63402f0921c2d924df"
+      "sha256": "62fc66423ed6e5d0d55b17a6bfde56f6a0b74fe9dd63294651b13862deb908c8"
     },
     {
       "path": "tools/recovery-kit.mjs",
