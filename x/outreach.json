@@ -142,7 +142,7 @@
       "url": "https://x.com/BepiColombo/status/2123750588475449416",
       "seen": "2026-11-20",
       "draft": "Nine gravity assists over eight years (one at Earth, two at Venus and six at Mercury), all to slow down enough for Mercury to hold on. Fingers crossed for a clean 37-minute burn: after that, Mio and MPO head to very different orbits for two views of the same planet!",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@NASASolarSystem",
@@ -150,7 +150,7 @@
       "url": "https://x.com/NASASolarSystem/status/2123830179617186024",
       "seen": "2026-11-20",
       "draft": "Eight sets of coaxial rotors on a world where a dense, calm atmosphere and low gravity make flying the smartest way to explore. Which stop are people most excited for: the dune fields or the rim of Selk crater?",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@MIT",
@@ -158,6 +158,38 @@
       "url": "https://x.com/MIT/status/2123793284413763624",
       "seen": "2026-11-20",
       "draft": "Swapping sticky gel for a dry, stretchy layer feels like the small detail that makes wearable ultrasound practical. How well does it keep acoustic contact as skin moves and sweats over many hours?",
+      "status": "skipped"
+    },
+    {
+      "account": "@esaoperations",
+      "post": "A turn to silence. As planned, ESA / JAXA's BepiColombo spacecraft has reoriented itself into the required attitude for th",
+      "url": "https://x.com/esaoperations/status/2124188241247019460",
+      "seen": "2026-11-21",
+      "draft": "Hard to imagine a longer 37 minutes than a burn with no signal. Mercury hasn't had an orbiter since NASA's MESSENGER ended in 2015, so MPO and Mio arriving together for two views of the same planet is a big moment.",
+      "status": "drafted"
+    },
+    {
+      "account": "@NewsHour",
+      "post": "A spacecraft is about to enter orbit around Mercury for only the second time in history. The BepiColombo mission is a join",
+      "url": "https://x.com/NewsHour/status/2123930600826347619",
+      "seen": "2026-11-21",
+      "draft": "A big puzzle waiting for them: Mercury is the only rocky planet besides Earth with a global magnetic field, yet it's only about 1 percent as strong as ours. Two orbiters measuring it at once should help show how such a small planet keeps it going.",
+      "status": "drafted"
+    },
+    {
+      "account": "@SPACEdotcom",
+      "post": "On Nov. 21, 1676, the Danish astronomer Ole Rømer discovered the speed of lightwhile observing Jupiter and its moon volcanic",
+      "url": "https://x.com/SPACEdotcom/status/2124181144908496999",
+      "seen": "2026-11-21",
+      "draft": "Rømer's timings implied light needs about 22 minutes to cross Earth's orbit, while today we know it's closer to 16.6 minutes. Not bad for clocking a moon's eclipses with 17th-century clocks!",
+      "status": "drafted"
+    },
+    {
+      "account": "@Nature",
+      "post": "The brain might decode pathogens, store memories of previous illnesses and prepare the body for future threats",
+      "url": "https://x.com/Nature/status/2124163679646077120",
+      "seen": "2026-11-21",
+      "draft": "If the brain really keeps a record of past infections, that would be a second kind of memory working alongside the immune system's own. Curious whether researchers have a sense of where in the brain those traces might live.",
       "status": "drafted"
     }
   ]
