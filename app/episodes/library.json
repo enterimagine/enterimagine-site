@@ -16630,6 +16630,974 @@
    },
    "added": "2026-11-20",
    "voice": true
+  },
+  {
+   "id": "space-20261121",
+   "world": "space",
+   "guide": "Qubi",
+   "title": {
+    "en": "What is a shooting star?",
+    "fr": "Qu’est-ce qu’une étoile filante ?",
+    "nl": "Wat is een vallende ster?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, I just saw a star zoom across the sky! Did a star really fall down?",
+     "fr": "Qubi, je viens de voir une étoile filer dans le ciel ! Une étoile est vraiment tombée ?",
+     "nl": "Qubi, ik zag net een ster door de lucht schieten! Is er echt een ster naar beneden gevallen?",
+     "img": "Whyzz and Qubi lie on a blanket at night and see a streak of light"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Good news: it wasn’t a star at all! A shooting star is a tiny space rock, often no bigger than a grain of sand, zooming into the air around Earth.",
+     "fr": "Bonne nouvelle : ce n’était pas du tout une étoile ! Une étoile filante, c’est un minuscule caillou de l’espace, souvent pas plus gros qu’un grain de sable, qui fonce dans l’air autour de la Terre.",
+     "nl": "Goed nieuws: het was helemaal geen ster! Een vallende ster is een piepklein ruimtesteentje, vaak niet groter dan een zandkorrel, dat de lucht rond de aarde in raast.",
+     "img": "Qubi shows a tiny glowing speck under a magnifying glass"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "A grain of sand? So someone up there is shaking out a giant beach towel over Earth!",
+     "fr": "Un grain de sable ? Alors quelqu’un là-haut secoue une serviette de plage géante au-dessus de la Terre !",
+     "nl": "Een zandkorrel? Dan schudt iemand daarboven vast een reuzengroot strandlaken uit boven de aarde!",
+     "img": "Whyzz imagines a giant beach towel shaken out above Earth, Qubi giggles"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Ha, no towel! The rock flies so fast that the air in front of it gets squeezed and super hot. It glows and burns up high above us, like a tiny firework.",
+     "fr": "Ha, pas de serviette ! Le caillou va si vite que l’air devant lui est écrasé et devient brûlant. Il brille et se consume tout là-haut, comme un mini feu d’artifice.",
+     "nl": "Haha, geen handdoek! Het steentje gaat zo snel dat de lucht ervoor wordt samengeperst en gloeiend heet wordt. Het licht op en verbrandt hoog boven ons, als een mini-vuurwerkje.",
+     "img": "Whyzz and Qubi in space suits watch a glowing pebble streak through the air high above Earth"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Did you know? Tons of space dust land on Earth every single day! Scientists have even found tiny space specks on the roofs of houses.",
+     "fr": "Le savais-tu ? Chaque jour, des tonnes de poussière de l’espace tombent sur la Terre ! Des scientifiques en ont même trouvé de minuscules grains sur les toits des maisons.",
+     "nl": "Wist je dat? Elke dag vallen er tonnen ruimtestof op de aarde! Wetenschappers hebben zelfs piepkleine ruimtekorreltjes gevonden op de daken van huizen.",
+     "img": "Whyzz and Qubi search for space dust on a rooftop with a magnet and a magnifying glass"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So a shooting star is a tiny space rock glowing in the air, not a falling star! If you saw one tonight, what would you wish for?",
+     "fr": "Donc une étoile filante, c’est un petit caillou de l’espace qui brille dans l’air, pas une étoile qui tombe ! Et toi, si tu en voyais une ce soir, quel vœu ferais-tu ?",
+     "nl": "Dus een vallende ster is een piepklein ruimtesteentje dat oplicht in de lucht, geen ster die valt! Als jij er vanavond eentje zag, wat zou jij dan wensen?",
+     "img": "Whyzz and Qubi high-five on a hill while shooting stars cross the sky"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What is a shooting star really?",
+      "fr": "Qu’est-ce qu’une étoile filante en vrai ?",
+      "nl": "Wat is een vallende ster echt?"
+     },
+     "o": {
+      "en": [
+       "A star falling to Earth",
+       "A tiny space rock",
+       "A flying firefly"
+      ],
+      "fr": [
+       "Une étoile qui tombe sur la Terre",
+       "Un minuscule caillou de l’espace",
+       "Une luciole qui vole"
+      ],
+      "nl": [
+       "Een ster die op aarde valt",
+       "Een piepklein ruimtesteentje",
+       "Een vliegend vuurvliegje"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How big is the rock of a shooting star often?",
+      "fr": "Quelle taille fait souvent le caillou d’une étoile filante ?",
+      "nl": "Hoe groot is het steentje van een vallende ster vaak?"
+     },
+     "o": {
+      "en": [
+       "As big as a house",
+       "As big as a car",
+       "As small as a grain of sand"
+      ],
+      "fr": [
+       "Aussi gros qu’une maison",
+       "Aussi gros qu’une voiture",
+       "Aussi petit qu’un grain de sable"
+      ],
+      "nl": [
+       "Zo groot als een huis",
+       "Zo groot als een auto",
+       "Zo klein als een zandkorrel"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Why does a shooting star glow?",
+      "fr": "Pourquoi une étoile filante brille-t-elle ?",
+      "nl": "Waarom licht een vallende ster op?"
+     },
+     "o": {
+      "en": [
+       "The air in front of it gets super hot",
+       "It has a lamp inside",
+       "The Moon shines on it"
+      ],
+      "fr": [
+       "L’air devant elle devient brûlant",
+       "Elle a une lampe à l’intérieur",
+       "La Lune l’éclaire"
+      ],
+      "nl": [
+       "De lucht ervoor wordt gloeiend heet",
+       "Er zit een lampje in",
+       "De maan schijnt erop"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Where does a shooting star burn up?",
+      "fr": "Où une étoile filante se consume-t-elle ?",
+      "nl": "Waar verbrandt een vallende ster?"
+     },
+     "o": {
+      "en": [
+       "In the ocean",
+       "High above us",
+       "In your backyard"
+      ],
+      "fr": [
+       "Dans l’océan",
+       "Tout là-haut au-dessus de nous",
+       "Dans ton jardin"
+      ],
+      "nl": [
+       "In de oceaan",
+       "Hoog boven ons",
+       "In je tuin"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How much space dust lands on Earth every day?",
+      "fr": "Combien de poussière de l’espace tombe sur la Terre chaque jour ?",
+      "nl": "Hoeveel ruimtestof valt er elke dag op de aarde?"
+     },
+     "o": {
+      "en": [
+       "Tons",
+       "Just one grain",
+       "None at all"
+      ],
+      "fr": [
+       "Des tonnes",
+       "Un seul grain",
+       "Rien du tout"
+      ],
+      "nl": [
+       "Tonnen",
+       "Maar één korreltje",
+       "Helemaal niets"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "A shooting star’s trip",
+     "fr": "Le voyage d’une étoile filante",
+     "nl": "De reis van een vallende ster"
+    },
+    "intro": {
+     "en": "Put the steps in the right order.",
+     "fr": "Remets les étapes dans le bon ordre.",
+     "nl": "Zet de stappen in de juiste volgorde."
+    },
+    "done": {
+     "en": "Super, star catcher!",
+     "fr": "Super, attrapeur d’étoiles !",
+     "nl": "Super, sterrenvanger!"
+    },
+    "items": {
+     "en": [
+      "A tiny rock floats through space",
+      "Earth crosses its path",
+      "It zooms into the air very fast",
+      "The air in front gets super hot",
+      "It glows as a shooting star"
+     ],
+     "fr": [
+      "Un petit caillou flotte dans l’espace",
+      "La Terre croise son chemin",
+      "Il fonce dans l’air à toute vitesse",
+      "L’air devant lui devient brûlant",
+      "Il brille comme une étoile filante"
+     ],
+     "nl": [
+      "Een steentje zweeft door de ruimte",
+      "De aarde kruist zijn pad",
+      "Het raast razendsnel de lucht in",
+      "De lucht ervoor wordt gloeiend heet",
+      "Het licht op als vallende ster"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Space",
+    "fr": "Espace",
+    "nl": "Ruimte"
+   },
+   "adult": {
+    "en": "For grown-ups: the Space world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Espace dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Ruimte in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-21",
+   "voice": true
+  },
+  {
+   "id": "mobility-20261121",
+   "world": "mobility",
+   "guide": "Sunny",
+   "title": {
+    "en": "How can a huge ship float?",
+    "fr": "Comment un énorme bateau peut-il flotter ?",
+    "nl": "Hoe kan een enorm schip blijven drijven?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, this ship is made of heavy steel and it’s as big as a building! How can it float when a little coin sinks?",
+     "fr": "Sunny, ce bateau est en acier lourd et il est grand comme un immeuble ! Comment peut-il flotter alors qu’une petite pièce coule ?",
+     "nl": "Sunny, dit schip is van zwaar staal en zo groot als een flatgebouw! Hoe kan het blijven drijven als een klein muntje zinkt?",
+     "img": "Whyzz and Sunny at a harbor look up at a giant ship"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Maybe it has a giant secret rubber duck hidden inside! Or millions of tiny fish holding it up!",
+     "fr": "Peut-être qu’il cache un canard en plastique géant à l’intérieur ! Ou des millions de petits poissons qui le portent !",
+     "nl": "Misschien zit er stiekem een reuzenbadeend in! Of houden miljoenen visjes het omhoog!",
+     "img": "Whyzz imagines a giant rubber duck inside the ship and fish holding it up, Sunny laughs"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Ha, no ducks! A ship is shaped like a big bowl full of air. It pushes a lot of water out of the way and the water pushes back up on it.",
+     "fr": "Ha, pas de canards ! Un bateau a la forme d’un grand bol rempli d’air. Il pousse beaucoup d’eau sur le côté et l’eau le pousse vers le haut.",
+     "nl": "Haha, geen eenden! Een schip heeft de vorm van een grote kom vol lucht. Het duwt veel water opzij en dat water duwt het schip omhoog.",
+     "img": "Sunny floats a big empty bowl in a tub of water, Whyzz watches"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Try it with clay: a ball of clay sinks, but the same clay shaped like a boat floats! The wide shape pushes away more water, so the push from below wins.",
+     "fr": "Essaie avec de la pâte à modeler : une boule coule, mais la même pâte en forme de bateau flotte ! La forme large déplace plus d’eau, alors la poussée d’en dessous gagne.",
+     "nl": "Probeer het met klei: een balletje klei zinkt, maar dezelfde klei in de vorm van een bootje blijft drijven! De brede vorm duwt meer water weg, dus de duw van onderen wint.",
+     "img": "A clay ball sinks and a clay boat floats in a clear water tank"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Did you know? Ships have a line painted on their side that shows how much they can carry. If the water reaches that line, the ship is full!",
+     "fr": "Le savais-tu ? Les bateaux ont une ligne peinte sur leur coque qui montre combien ils peuvent porter. Si l’eau arrive à cette ligne, le bateau est plein !",
+     "nl": "Wist je dat? Schepen hebben een streep op hun romp die laat zien hoeveel ze mogen dragen. Komt het water tot aan die streep, dan zit het schip vol!",
+     "img": "Sunny points at a painted stripe on a ship's side just above the water"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So a ship floats because its bowl shape pushes away lots of water! What would you build to float: a raft, a boat or a floating house?",
+     "fr": "Donc un bateau flotte parce que sa forme de bol pousse beaucoup d’eau sur le côté ! Et toi, que construirais-tu pour flotter : un radeau, un bateau ou une maison flottante ?",
+     "nl": "Dus een schip drijft omdat zijn komvorm heel veel water wegduwt! Wat zou jij bouwen om te drijven: een vlot, een boot of een drijvend huis?",
+     "img": "Whyzz and Sunny high-five on a small wooden raft on a calm lake"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What is a big ship made of?",
+      "fr": "En quoi est fait un grand bateau ?",
+      "nl": "Waarvan is een groot schip gemaakt?"
+     },
+     "o": {
+      "en": [
+       "Paper",
+       "Heavy steel",
+       "Jelly"
+      ],
+      "fr": [
+       "En papier",
+       "En acier lourd",
+       "En gelée"
+      ],
+      "nl": [
+       "Papier",
+       "Zwaar staal",
+       "Pudding"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What shape helps a ship float?",
+      "fr": "Quelle forme aide un bateau à flotter ?",
+      "nl": "Welke vorm helpt een schip te drijven?"
+     },
+     "o": {
+      "en": [
+       "A big bowl full of air",
+       "A sharp needle",
+       "A solid ball"
+      ],
+      "fr": [
+       "Un grand bol rempli d’air",
+       "Une aiguille pointue",
+       "Une boule pleine"
+      ],
+      "nl": [
+       "Een grote kom vol lucht",
+       "Een scherpe naald",
+       "Een volle bal"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What does the water do when a ship pushes it away?",
+      "fr": "Que fait l’eau quand un bateau la pousse sur le côté ?",
+      "nl": "Wat doet het water als een schip het opzij duwt?"
+     },
+     "o": {
+      "en": [
+       "It turns to ice",
+       "It disappears",
+       "It pushes back up"
+      ],
+      "fr": [
+       "Elle se transforme en glace",
+       "Elle disparaît",
+       "Elle pousse vers le haut"
+      ],
+      "nl": [
+       "Het wordt ijs",
+       "Het verdwijnt",
+       "Het duwt terug omhoog"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What happens to a ball of clay in water?",
+      "fr": "Que se passe-t-il avec une boule de pâte à modeler dans l’eau ?",
+      "nl": "Wat gebeurt er met een balletje klei in water?"
+     },
+     "o": {
+      "en": [
+       "It sinks",
+       "It floats",
+       "It melts"
+      ],
+      "fr": [
+       "Elle coule",
+       "Elle flotte",
+       "Elle fond"
+      ],
+      "nl": [
+       "Het zinkt",
+       "Het drijft",
+       "Het smelt"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What does the line on a ship’s side show?",
+      "fr": "Que montre la ligne sur la coque d’un bateau ?",
+      "nl": "Wat laat de streep op de romp van een schip zien?"
+     },
+     "o": {
+      "en": [
+       "How fast it goes",
+       "How much it can carry",
+       "Its birthday"
+      ],
+      "fr": [
+       "Sa vitesse",
+       "Combien il peut porter",
+       "Son anniversaire"
+      ],
+      "nl": [
+       "Hoe snel het vaart",
+       "Hoeveel het mag dragen",
+       "Zijn verjaardag"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Will it float?",
+     "fr": "Ça flotte ?",
+     "nl": "Blijft het drijven?"
+    },
+    "intro": {
+     "en": "Pick everything that floats in water.",
+     "fr": "Choisis tout ce qui flotte dans l’eau.",
+     "nl": "Kies alles wat in water blijft drijven."
+    },
+    "done": {
+     "en": "Great job, captain!",
+     "fr": "Bravo, capitaine !",
+     "nl": "Goed gedaan, kapitein!"
+    },
+    "items": {
+     "en": [
+      "A rubber duck",
+      "A coin",
+      "An apple",
+      "A stone",
+      "A clay boat",
+      "A metal key",
+      "An ice cube",
+      "A ball of clay"
+     ],
+     "fr": [
+      "Un canard en plastique",
+      "Une pièce de monnaie",
+      "Une pomme",
+      "Un caillou",
+      "Un bateau en pâte à modeler",
+      "Une clé en métal",
+      "Un glaçon",
+      "Une boule de pâte à modeler"
+     ],
+     "nl": [
+      "Een badeendje",
+      "Een muntje",
+      "Een appel",
+      "Een steen",
+      "Een bootje van klei",
+      "Een metalen sleutel",
+      "Een ijsblokje",
+      "Een balletje klei"
+     ]
+    },
+    "good": [
+     0,
+     2,
+     4,
+     6
+    ]
+   },
+   "worldName": {
+    "en": "Smart Mobility",
+    "fr": "Mobilité",
+    "nl": "Slimme mobiliteit"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Mobility world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Mobilité dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme mobiliteit in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-21",
+   "voice": true
+  },
+  {
+   "id": "cities-20261121",
+   "world": "cities",
+   "guide": "Pixel",
+   "title": {
+    "en": "How do people dig tunnels under a city?",
+    "fr": "Comment creuse-t-on des tunnels sous une ville ?",
+    "nl": "Hoe graaf je een tunnel onder een stad?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, our subway train runs deep under the busy streets! How did anyone dig such a long tunnel without breaking the city above?",
+     "fr": "Pixel, notre métro roule tout au fond, sous les rues animées ! Comment a-t-on pu creuser un si long tunnel sans abîmer la ville au-dessus ?",
+     "nl": "Pixel, onze metro rijdt diep onder de drukke straten! Hoe heeft iemand zo’n lange tunnel gegraven zonder de stad erboven kapot te maken?",
+     "img": "Whyzz and Pixel on a subway platform as a train comes out of a round tunnel"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "I bet they used a million moles with tiny shovels! Or one very hungry giant worm!",
+     "fr": "Je parie qu’ils ont utilisé un million de taupes avec des petites pelles ! Ou un ver de terre géant très affamé !",
+     "nl": "Ik wed dat ze een miljoen mollen met piepkleine schepjes hebben ingezet! Of één heel hongerige reuzenworm!",
+     "img": "Whyzz imagines moles with shovels and a giant friendly worm, Pixel laughs"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "You’re almost right: a tunnel boring machine looks like a giant metal worm! Its huge round front spins slowly and grinds through rock and soil.",
+     "fr": "Tu n’es pas loin : un tunnelier ressemble à un énorme ver en métal ! Sa grande roue avant tourne lentement et broie la roche et la terre.",
+     "nl": "Je zit er dicht bij: een tunnelboormachine lijkt op een reusachtige metalen worm! De grote ronde kop draait langzaam en maalt zich door rots en aarde.",
+     "img": "Pixel and Whyzz watch a giant tunnel machine with a spinning round cutting wheel"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "A moving belt carries the dirt away and a robot arm builds the tunnel walls from curved concrete pieces, ring after ring. So the ground above stays safe while the machine crawls forward.",
+     "fr": "Un tapis roulant emporte la terre et un bras mécanique construit les murs du tunnel avec des morceaux de béton courbés, anneau après anneau. Ainsi, le sol au-dessus reste solide pendant que la machine avance.",
+     "nl": "Een lopende band voert de aarde af en een robotarm bouwt de tunnelwanden uit gebogen stukken beton, ring na ring. Zo blijft de grond erboven stevig terwijl de machine vooruit kruipt.",
+     "img": "A conveyor belt carries dirt while a robot arm places a curved concrete piece"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know? Workers often give their tunnel machine a name, like a pet! Some of these machines are even longer than a soccer field.",
+     "fr": "Le savais-tu ? Les ouvriers donnent souvent un prénom à leur tunnelier, comme à un animal de compagnie ! Certaines de ces machines sont même plus longues qu’un terrain de foot.",
+     "nl": "Wist je dat? Arbeiders geven hun tunnelboormachine vaak een naam, net als een huisdier! Sommige van die machines zijn zelfs langer dan een voetbalveld.",
+     "img": "Pixel and Whyzz giggle next to a tunnel machine decorated with ribbons and flowers"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So a giant metal worm digs the tunnel and builds its walls at the same time! If you had your own tunnel machine, what name would you give it?",
+     "fr": "Donc un énorme ver en métal creuse le tunnel et construit ses murs en même temps ! Et toi, si tu avais ton propre tunnelier, quel nom lui donnerais-tu ?",
+     "nl": "Dus een reusachtige metalen worm graaft de tunnel en bouwt tegelijk de wanden! Als jij je eigen tunnelboormachine had, welke naam zou jij hem dan geven?",
+     "img": "Whyzz and Pixel high-five in a finished round tunnel with new tracks"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What does a tunnel boring machine look like?",
+      "fr": "À quoi ressemble un tunnelier ?",
+      "nl": "Waarop lijkt een tunnelboormachine?"
+     },
+     "o": {
+      "en": [
+       "A giant metal worm",
+       "A flying saucer",
+       "A tiny bicycle"
+      ],
+      "fr": [
+       "Un énorme ver en métal",
+       "Une soucoupe volante",
+       "Un minuscule vélo"
+      ],
+      "nl": [
+       "Een reusachtige metalen worm",
+       "Een vliegende schotel",
+       "Een piepkleine fiets"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What does the round front of the machine do?",
+      "fr": "Que fait la roue avant de la machine ?",
+      "nl": "Wat doet de ronde kop van de machine?"
+     },
+     "o": {
+      "en": [
+       "It plays music",
+       "It spins and grinds rock",
+       "It waters flowers"
+      ],
+      "fr": [
+       "Elle joue de la musique",
+       "Elle tourne et broie la roche",
+       "Elle arrose des fleurs"
+      ],
+      "nl": [
+       "Hij speelt muziek",
+       "Hij draait en maalt door de rots",
+       "Hij geeft bloemen water"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What carries the dirt away?",
+      "fr": "Qu’est-ce qui emporte la terre ?",
+      "nl": "Wat voert de aarde af?"
+     },
+     "o": {
+      "en": [
+       "A flock of birds",
+       "A garden hose",
+       "A moving belt"
+      ],
+      "fr": [
+       "Une volée d’oiseaux",
+       "Un tuyau d’arrosage",
+       "Un tapis roulant"
+      ],
+      "nl": [
+       "Een zwerm vogels",
+       "Een tuinslang",
+       "Een lopende band"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What are the tunnel walls made of?",
+      "fr": "En quoi sont faits les murs du tunnel ?",
+      "nl": "Waarvan zijn de tunnelwanden gemaakt?"
+     },
+     "o": {
+      "en": [
+       "Curved concrete pieces",
+       "Soft pillows",
+       "Ice blocks"
+      ],
+      "fr": [
+       "De morceaux de béton courbés",
+       "De coussins tout doux",
+       "De blocs de glace"
+      ],
+      "nl": [
+       "Gebogen stukken beton",
+       "Zachte kussens",
+       "Blokken ijs"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What do workers often give their tunnel machine?",
+      "fr": "Que donnent souvent les ouvriers à leur tunnelier ?",
+      "nl": "Wat geven arbeiders hun tunnelboormachine vaak?"
+     },
+     "o": {
+      "en": [
+       "A birthday cake",
+       "A name",
+       "A pair of shoes"
+      ],
+      "fr": [
+       "Un gâteau d’anniversaire",
+       "Un prénom",
+       "Une paire de chaussures"
+      ],
+      "nl": [
+       "Een verjaardagstaart",
+       "Een naam",
+       "Een paar schoenen"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Tunnel team",
+     "fr": "L’équipe du tunnel",
+     "nl": "Het tunnelteam"
+    },
+    "intro": {
+     "en": "Match each part of the machine with its job.",
+     "fr": "Relie chaque partie de la machine à son travail.",
+     "nl": "Koppel elk deel van de machine aan zijn taak."
+    },
+    "done": {
+     "en": "Great digging, tunnel boss!",
+     "fr": "Bien creusé, chef de chantier !",
+     "nl": "Goed gegraven, tunnelbaas!"
+    },
+    "left": {
+     "en": [
+      "Spinning front",
+      "Moving belt",
+      "Robot arm",
+      "Concrete rings"
+     ],
+     "fr": [
+      "La roue avant qui tourne",
+      "Le tapis roulant",
+      "Le bras mécanique",
+      "Les anneaux de béton"
+     ],
+     "nl": [
+      "De draaiende kop",
+      "De lopende band",
+      "De robotarm",
+      "De betonnen ringen"
+     ]
+    },
+    "right": {
+     "en": [
+      "Grinds through rock",
+      "Carries the dirt away",
+      "Builds the walls",
+      "Hold the ground up"
+     ],
+     "fr": [
+      "Broie la roche",
+      "Emporte la terre",
+      "Construit les murs",
+      "Retiennent le sol"
+     ],
+     "nl": [
+      "Maalt door de rots",
+      "Voert de aarde af",
+      "Bouwt de wanden",
+      "Houden de grond tegen"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Smart Cities",
+    "fr": "Villes intelligentes",
+    "nl": "Slimme steden"
+   },
+   "adult": {
+    "en": "For grown-ups: the Smart Cities world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Villes intelligentes dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Slimme steden in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-21",
+   "voice": true
+  },
+  {
+   "id": "innovation-20261121",
+   "world": "innovation",
+   "guide": "Whyzz",
+   "title": {
+    "en": "How can you make a paper airplane fly farther?",
+    "fr": "Comment faire voler un avion en papier plus loin ?",
+    "nl": "Hoe laat je een papieren vliegtuigje verder vliegen?"
+   },
+   "scenes": [
+    {
+     "speaker": "Pixel",
+     "en": "Whyzz, my paper airplane always does a loop and crashes into the floor! How can I make it fly farther?",
+     "fr": "Whyzz, mon avion en papier fait toujours un looping et s’écrase par terre ! Comment le faire voler plus loin ?",
+     "nl": "Whyzz, mijn papieren vliegtuigje maakt altijd een looping en crasht op de grond! Hoe laat ik het verder vliegen?",
+     "img": "Pixel's paper airplane loops toward the floor, Whyzz watches"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Easy: glue a tiny jet engine on it! Or train a pigeon to carry it all the way to the kitchen.",
+     "fr": "Facile : on colle un petit moteur à réaction dessus ! Ou on dresse un pigeon pour le porter jusqu’à la cuisine.",
+     "nl": "Simpel: plak er een mini-straalmotor op! Of train een duif om het helemaal naar de keuken te dragen.",
+     "img": "Whyzz imagines a paper plane with a jet engine and a pigeon carrying one, Pixel laughs"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Just kidding! Inventors test like scientists: throw the plane, measure how far it goes, then change only one thing. That way you know which change really helped.",
+     "fr": "Je rigole ! Les inventeurs testent comme des scientifiques : on lance l’avion, on mesure la distance, puis on change une seule chose. Comme ça, on sait quel changement a vraiment aidé.",
+     "nl": "Grapje! Uitvinders testen zoals wetenschappers: gooi het vliegtuigje, meet hoe ver het gaat en verander dan maar één ding. Zo weet je welke verandering echt heeft geholpen.",
+     "img": "Whyzz throws a paper plane in a hallway while Pixel measures with a ribbon"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "If the nose goes up too much, bend the back edges of the wings down a tiny bit. A paper clip on the nose also helps, like a little backpack that keeps it steady.",
+     "fr": "Si le nez monte trop, plie un tout petit peu l’arrière des ailes vers le bas. Un trombone sur le nez aide aussi, comme un petit sac à dos qui le garde stable.",
+     "nl": "Als de neus te veel omhoog gaat, buig dan de achterkant van de vleugels een klein beetje naar beneden. Een paperclip op de neus helpt ook, als een rugzakje dat hem stabiel houdt.",
+     "img": "Whyzz bends a wing edge while Pixel clips a paper clip on the nose"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Did you know? The world record for a paper airplane is longer than half a soccer field! And it was folded from just one sheet of paper.",
+     "fr": "Le savais-tu ? Le record du monde pour un avion en papier, c’est plus que la moitié d’un terrain de foot ! Et il était plié dans une seule feuille de papier.",
+     "nl": "Wist je dat? Het wereldrecord voor een papieren vliegtuigje is langer dan een half voetbalveld! En het was gevouwen uit maar één vel papier.",
+     "img": "A paper plane glides very far across a big sports hall, Pixel and Whyzz amazed"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So inventors test, change one thing and test again until it works! What would you change first to make your paper plane fly farther?",
+     "fr": "Donc les inventeurs testent, changent une seule chose et testent encore jusqu’à ce que ça marche ! Et toi, que changerais-tu en premier pour que ton avion vole plus loin ?",
+     "nl": "Dus uitvinders testen, veranderen één ding en testen opnieuw tot het werkt! Wat zou jij als eerste veranderen zodat jouw vliegtuigje verder vliegt?",
+     "img": "Whyzz and Pixel high-five next to a table full of paper planes"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What did Pixel’s paper airplane keep doing?",
+      "fr": "Que faisait toujours l’avion en papier de Pixel ?",
+      "nl": "Wat deed het papieren vliegtuigje van Pixel steeds?"
+     },
+     "o": {
+      "en": [
+       "Flying out the window",
+       "Doing a loop and crashing",
+       "Singing a song"
+      ],
+      "fr": [
+       "Il s’envolait par la fenêtre",
+       "Il faisait un looping et s’écrasait",
+       "Il chantait une chanson"
+      ],
+      "nl": [
+       "Uit het raam vliegen",
+       "Een looping maken en crashen",
+       "Een liedje zingen"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How many things should you change between two tests?",
+      "fr": "Combien de choses faut-il changer entre deux tests ?",
+      "nl": "Hoeveel dingen verander je tussen twee testen?"
+     },
+     "o": {
+      "en": [
+       "Only one",
+       "Everything at once",
+       "Nothing ever"
+      ],
+      "fr": [
+       "Une seule",
+       "Tout à la fois",
+       "Jamais rien"
+      ],
+      "nl": [
+       "Maar één",
+       "Alles tegelijk",
+       "Nooit iets"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What can you bend if the nose goes up too much?",
+      "fr": "Que peux-tu plier si le nez monte trop ?",
+      "nl": "Wat kun je buigen als de neus te veel omhoog gaat?"
+     },
+     "o": {
+      "en": [
+       "The window",
+       "The tip of the nose",
+       "The back edges of the wings"
+      ],
+      "fr": [
+       "La fenêtre",
+       "La pointe du nez",
+       "L’arrière des ailes"
+      ],
+      "nl": [
+       "Het raam",
+       "Het puntje van de neus",
+       "De achterkant van de vleugels"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What does a paper clip on the nose do?",
+      "fr": "À quoi sert un trombone sur le nez ?",
+      "nl": "Wat doet een paperclip op de neus?"
+     },
+     "o": {
+      "en": [
+       "It changes the color",
+       "It keeps the plane steady",
+       "It makes a funny sound"
+      ],
+      "fr": [
+       "Il change la couleur",
+       "Il garde l’avion stable",
+       "Il fait un bruit rigolo"
+      ],
+      "nl": [
+       "Hij verandert de kleur",
+       "Hij houdt het vliegtuigje stabiel",
+       "Hij maakt een grappig geluid"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How far did the record paper airplane fly?",
+      "fr": "Jusqu’où a volé l’avion en papier du record ?",
+      "nl": "Hoe ver vloog het record-vliegtuigje?"
+     },
+     "o": {
+      "en": [
+       "Longer than half a soccer field",
+       "Across the ocean",
+       "Just one step"
+      ],
+      "fr": [
+       "Plus que la moitié d’un terrain de foot",
+       "Au-dessus de l’océan",
+       "Un seul pas"
+      ],
+      "nl": [
+       "Verder dan een half voetbalveld",
+       "Over de oceaan",
+       "Maar één stap"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "Test like an inventor",
+     "fr": "Teste comme un inventeur",
+     "nl": "Test als een uitvinder"
+    },
+    "intro": {
+     "en": "Put the testing steps in the right order.",
+     "fr": "Remets les étapes du test dans le bon ordre.",
+     "nl": "Zet de teststappen in de juiste volgorde."
+    },
+    "done": {
+     "en": "Awesome, test pilot!",
+     "fr": "Génial, pilote d’essai !",
+     "nl": "Top, testpiloot!"
+    },
+    "items": {
+     "en": [
+      "Fold your first plane",
+      "Throw it and measure",
+      "Change just one thing",
+      "Throw it again",
+      "Keep the best idea"
+     ],
+     "fr": [
+      "Plie ton premier avion",
+      "Lance-le et mesure",
+      "Change une seule chose",
+      "Lance-le encore",
+      "Garde la meilleure idée"
+     ],
+     "nl": [
+      "Vouw je eerste vliegtuigje",
+      "Gooi het en meet",
+      "Verander maar één ding",
+      "Gooi het opnieuw",
+      "Bewaar het beste idee"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Innovation",
+    "fr": "Innovation",
+    "nl": "Innovatie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Innovation world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Innovation dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Innovatie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-21",
+   "voice": true
   }
  ]
 }
