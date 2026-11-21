@@ -175,6 +175,22 @@
       "url": "https://enterimagine.com/universe/the-reaction-that-chose-a-hand/",
       "scheduled_at": "2026-11-21T08:45:00+01:00",
       "typefully_draft_id": 12058649
+    },
+    {
+      "number": 23,
+      "slug": "when-cars-feel-the-road",
+      "title": "When Cars Feel the Road",
+      "url": "https://enterimagine.com/universe/when-cars-feel-the-road/",
+      "scheduled_at": "2026-11-21T17:30:00+01:00",
+      "typefully_draft_id": 12081314
+    },
+    {
+      "number": 24,
+      "slug": "who-grades-the-machines-homework",
+      "title": "Who Grades the Machine's Homework?",
+      "url": "https://enterimagine.com/universe/who-grades-the-machines-homework/",
+      "scheduled_at": "2026-11-22T08:45:00+01:00",
+      "typefully_draft_id": 12081316
     }
   ]
 }
