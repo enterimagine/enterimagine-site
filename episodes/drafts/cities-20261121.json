@@ -1,0 +1,247 @@
+{
+ "id": "cities-20261121",
+ "world": "cities",
+ "guide": "Pixel",
+ "title": {
+  "en": "How do people dig tunnels under a city?",
+  "fr": "Comment creuse-t-on des tunnels sous une ville ?",
+  "nl": "Hoe graaf je een tunnel onder een stad?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, our subway train runs deep under the busy streets! How did anyone dig such a long tunnel without breaking the city above?",
+   "fr": "Pixel, notre métro roule tout au fond, sous les rues animées ! Comment a-t-on pu creuser un si long tunnel sans abîmer la ville au-dessus ?",
+   "nl": "Pixel, onze metro rijdt diep onder de drukke straten! Hoe heeft iemand zo’n lange tunnel gegraven zonder de stad erboven kapot te maken?",
+   "img": "Whyzz and Pixel on a subway platform as a train comes out of a round tunnel"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "I bet they used a million moles with tiny shovels! Or one very hungry giant worm!",
+   "fr": "Je parie qu’ils ont utilisé un million de taupes avec des petites pelles ! Ou un ver de terre géant très affamé !",
+   "nl": "Ik wed dat ze een miljoen mollen met piepkleine schepjes hebben ingezet! Of één heel hongerige reuzenworm!",
+   "img": "Whyzz imagines moles with shovels and a giant friendly worm, Pixel laughs"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "You’re almost right: a tunnel boring machine looks like a giant metal worm! Its huge round front spins slowly and grinds through rock and soil.",
+   "fr": "Tu n’es pas loin : un tunnelier ressemble à un énorme ver en métal ! Sa grande roue avant tourne lentement et broie la roche et la terre.",
+   "nl": "Je zit er dicht bij: een tunnelboormachine lijkt op een reusachtige metalen worm! De grote ronde kop draait langzaam en maalt zich door rots en aarde.",
+   "img": "Pixel and Whyzz watch a giant tunnel machine with a spinning round cutting wheel"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "A moving belt carries the dirt away and a robot arm builds the tunnel walls from curved concrete pieces, ring after ring. So the ground above stays safe while the machine crawls forward.",
+   "fr": "Un tapis roulant emporte la terre et un bras mécanique construit les murs du tunnel avec des morceaux de béton courbés, anneau après anneau. Ainsi, le sol au-dessus reste solide pendant que la machine avance.",
+   "nl": "Een lopende band voert de aarde af en een robotarm bouwt de tunnelwanden uit gebogen stukken beton, ring na ring. Zo blijft de grond erboven stevig terwijl de machine vooruit kruipt.",
+   "img": "A conveyor belt carries dirt while a robot arm places a curved concrete piece"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know? Workers often give their tunnel machine a name, like a pet! Some of these machines are even longer than a soccer field.",
+   "fr": "Le savais-tu ? Les ouvriers donnent souvent un prénom à leur tunnelier, comme à un animal de compagnie ! Certaines de ces machines sont même plus longues qu’un terrain de foot.",
+   "nl": "Wist je dat? Arbeiders geven hun tunnelboormachine vaak een naam, net als een huisdier! Sommige van die machines zijn zelfs langer dan een voetbalveld.",
+   "img": "Pixel and Whyzz giggle next to a tunnel machine decorated with ribbons and flowers"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a giant metal worm digs the tunnel and builds its walls at the same time! If you had your own tunnel machine, what name would you give it?",
+   "fr": "Donc un énorme ver en métal creuse le tunnel et construit ses murs en même temps ! Et toi, si tu avais ton propre tunnelier, quel nom lui donnerais-tu ?",
+   "nl": "Dus een reusachtige metalen worm graaft de tunnel en bouwt tegelijk de wanden! Als jij je eigen tunnelboormachine had, welke naam zou jij hem dan geven?",
+   "img": "Whyzz and Pixel high-five in a finished round tunnel with new tracks"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stand on a bright clean underground subway platform with no signs, a shiny train comes out of a round dark tunnel, Whyzz points up at the curved ceiling with a curious puzzled face, Pixel smiles at him. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a big dream bubble above his head showing many cute cartoon moles digging with tiny shovels and one giant friendly smiling pink worm munching through brown soil, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs next to him on a bright subway platform. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stand safely on a railed walkway inside a big underground cave and watch a gigantic round steel tunnel machine, its huge round cutting wheel covered in small metal discs slowly spins against grey rock, Pixel points at it with excitement, Whyzz looks amazed, warm work lights. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stand inside a round underground tunnel behind a big machine, a long conveyor belt carries brown dirt away, a big yellow robot arm lifts a curved grey concrete piece into place to finish a round ring wall, both look fascinated, warm work lights. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge giggle next to the giant round front of a tunnel machine in an underground cave, the machine is decorated with colorful ribbons and flowers like a big party, warm lights and a happy cozy mood. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge give each other a high five inside a long finished round concrete tunnel with new shiny rail tracks and bright lights stretching far away, happy proud faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What does a tunnel boring machine look like?",
+    "fr": "À quoi ressemble un tunnelier ?",
+    "nl": "Waarop lijkt een tunnelboormachine?"
+   },
+   "o": {
+    "en": [
+     "A giant metal worm",
+     "A flying saucer",
+     "A tiny bicycle"
+    ],
+    "fr": [
+     "Un énorme ver en métal",
+     "Une soucoupe volante",
+     "Un minuscule vélo"
+    ],
+    "nl": [
+     "Een reusachtige metalen worm",
+     "Een vliegende schotel",
+     "Een piepkleine fiets"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What does the round front of the machine do?",
+    "fr": "Que fait la roue avant de la machine ?",
+    "nl": "Wat doet de ronde kop van de machine?"
+   },
+   "o": {
+    "en": [
+     "It plays music",
+     "It spins and grinds rock",
+     "It waters flowers"
+    ],
+    "fr": [
+     "Elle joue de la musique",
+     "Elle tourne et broie la roche",
+     "Elle arrose des fleurs"
+    ],
+    "nl": [
+     "Hij speelt muziek",
+     "Hij draait en maalt door de rots",
+     "Hij geeft bloemen water"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What carries the dirt away?",
+    "fr": "Qu’est-ce qui emporte la terre ?",
+    "nl": "Wat voert de aarde af?"
+   },
+   "o": {
+    "en": [
+     "A flock of birds",
+     "A garden hose",
+     "A moving belt"
+    ],
+    "fr": [
+     "Une volée d’oiseaux",
+     "Un tuyau d’arrosage",
+     "Un tapis roulant"
+    ],
+    "nl": [
+     "Een zwerm vogels",
+     "Een tuinslang",
+     "Een lopende band"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What are the tunnel walls made of?",
+    "fr": "En quoi sont faits les murs du tunnel ?",
+    "nl": "Waarvan zijn de tunnelwanden gemaakt?"
+   },
+   "o": {
+    "en": [
+     "Curved concrete pieces",
+     "Soft pillows",
+     "Ice blocks"
+    ],
+    "fr": [
+     "De morceaux de béton courbés",
+     "De coussins tout doux",
+     "De blocs de glace"
+    ],
+    "nl": [
+     "Gebogen stukken beton",
+     "Zachte kussens",
+     "Blokken ijs"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What do workers often give their tunnel machine?",
+    "fr": "Que donnent souvent les ouvriers à leur tunnelier ?",
+    "nl": "Wat geven arbeiders hun tunnelboormachine vaak?"
+   },
+   "o": {
+    "en": [
+     "A birthday cake",
+     "A name",
+     "A pair of shoes"
+    ],
+    "fr": [
+     "Un gâteau d’anniversaire",
+     "Un prénom",
+     "Une paire de chaussures"
+    ],
+    "nl": [
+     "Een verjaardagstaart",
+     "Een naam",
+     "Een paar schoenen"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Tunnel team",
+   "fr": "L’équipe du tunnel",
+   "nl": "Het tunnelteam"
+  },
+  "intro": {
+   "en": "Match each part of the machine with its job.",
+   "fr": "Relie chaque partie de la machine à son travail.",
+   "nl": "Koppel elk deel van de machine aan zijn taak."
+  },
+  "done": {
+   "en": "Great digging, tunnel boss!",
+   "fr": "Bien creusé, chef de chantier !",
+   "nl": "Goed gegraven, tunnelbaas!"
+  },
+  "left": {
+   "en": [
+    "Spinning front",
+    "Moving belt",
+    "Robot arm",
+    "Concrete rings"
+   ],
+   "fr": [
+    "La roue avant qui tourne",
+    "Le tapis roulant",
+    "Le bras mécanique",
+    "Les anneaux de béton"
+   ],
+   "nl": [
+    "De draaiende kop",
+    "De lopende band",
+    "De robotarm",
+    "De betonnen ringen"
+   ]
+  },
+  "right": {
+   "en": [
+    "Grinds through rock",
+    "Carries the dirt away",
+    "Builds the walls",
+    "Hold the ground up"
+   ],
+   "fr": [
+    "Broie la roche",
+    "Emporte la terre",
+    "Construit les murs",
+    "Retiennent le sol"
+   ],
+   "nl": [
+    "Maalt door de rots",
+    "Voert de aarde af",
+    "Bouwt de wanden",
+    "Houden de grond tegen"
+   ]
+  }
+ }
+}

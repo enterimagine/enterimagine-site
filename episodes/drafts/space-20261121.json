@@ -1,0 +1,230 @@
+{
+ "id": "space-20261121",
+ "world": "space",
+ "guide": "Qubi",
+ "title": {
+  "en": "What is a shooting star?",
+  "fr": "Qu’est-ce qu’une étoile filante ?",
+  "nl": "Wat is een vallende ster?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, I just saw a star zoom across the sky! Did a star really fall down?",
+   "fr": "Qubi, je viens de voir une étoile filer dans le ciel ! Une étoile est vraiment tombée ?",
+   "nl": "Qubi, ik zag net een ster door de lucht schieten! Is er echt een ster naar beneden gevallen?",
+   "img": "Whyzz and Qubi lie on a blanket at night and see a streak of light"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Good news: it wasn’t a star at all! A shooting star is a tiny space rock, often no bigger than a grain of sand, zooming into the air around Earth.",
+   "fr": "Bonne nouvelle : ce n’était pas du tout une étoile ! Une étoile filante, c’est un minuscule caillou de l’espace, souvent pas plus gros qu’un grain de sable, qui fonce dans l’air autour de la Terre.",
+   "nl": "Goed nieuws: het was helemaal geen ster! Een vallende ster is een piepklein ruimtesteentje, vaak niet groter dan een zandkorrel, dat de lucht rond de aarde in raast.",
+   "img": "Qubi shows a tiny glowing speck under a magnifying glass"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "A grain of sand? So someone up there is shaking out a giant beach towel over Earth!",
+   "fr": "Un grain de sable ? Alors quelqu’un là-haut secoue une serviette de plage géante au-dessus de la Terre !",
+   "nl": "Een zandkorrel? Dan schudt iemand daarboven vast een reuzengroot strandlaken uit boven de aarde!",
+   "img": "Whyzz imagines a giant beach towel shaken out above Earth, Qubi giggles"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Ha, no towel! The rock flies so fast that the air in front of it gets squeezed and super hot. It glows and burns up high above us, like a tiny firework.",
+   "fr": "Ha, pas de serviette ! Le caillou va si vite que l’air devant lui est écrasé et devient brûlant. Il brille et se consume tout là-haut, comme un mini feu d’artifice.",
+   "nl": "Haha, geen handdoek! Het steentje gaat zo snel dat de lucht ervoor wordt samengeperst en gloeiend heet wordt. Het licht op en verbrandt hoog boven ons, als een mini-vuurwerkje.",
+   "img": "Whyzz and Qubi in space suits watch a glowing pebble streak through the air high above Earth"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Did you know? Tons of space dust land on Earth every single day! Scientists have even found tiny space specks on the roofs of houses.",
+   "fr": "Le savais-tu ? Chaque jour, des tonnes de poussière de l’espace tombent sur la Terre ! Des scientifiques en ont même trouvé de minuscules grains sur les toits des maisons.",
+   "nl": "Wist je dat? Elke dag vallen er tonnen ruimtestof op de aarde! Wetenschappers hebben zelfs piepkleine ruimtekorreltjes gevonden op de daken van huizen.",
+   "img": "Whyzz and Qubi search for space dust on a rooftop with a magnet and a magnifying glass"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a shooting star is a tiny space rock glowing in the air, not a falling star! If you saw one tonight, what would you wish for?",
+   "fr": "Donc une étoile filante, c’est un petit caillou de l’espace qui brille dans l’air, pas une étoile qui tombe ! Et toi, si tu en voyais une ce soir, quel vœu ferais-tu ?",
+   "nl": "Dus een vallende ster is een piepklein ruimtesteentje dat oplicht in de lucht, geen ster die valt! Als jij er vanavond eentje zag, wat zou jij dan wensen?",
+   "img": "Whyzz and Qubi high-five on a hill while shooting stars cross the sky"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge lie on a cozy blanket in a backyard at night under a deep blue sky full of stars, one bright white streak of light zooms across the sky, Whyzz points up with wide excited eyes and an open mouth, Qubi smiles and looks up too, a small telescope stands next to them. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge holds a big magnifying glass over his open hand, under the glass a tiny glowing speck no bigger than a grain of sand sparkles, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans in with a curious amazed face, backyard at night with stars and a faint streak of light in the sky. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a big dream bubble above his head showing a giant fluffy cartoon cloud shaking out a huge striped beach towel above a small round blue Earth, sparkly grains falling down like glitter, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge giggles next to him on a blanket in a backyard at night. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge, both wearing white space suits with clear round helmets, float safely in space next to the curved blue edge of Earth and watch a tiny pebble streak through the thin air below them, glowing bright orange with a long sparkling trail, amazed happy faces, stars all around. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge sit on a sunny house rooftop with red tiles, Qubi holds a small magnet and a magnifying glass over a little pile of dark dust specks from the gutter, Whyzz looks through the glass with a big surprised smile, blue sky and chimneys around them. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge give each other a high five on top of a grassy hill at night, several bright shooting stars streak across a sky full of stars behind them, a small telescope and a blanket nearby, happy faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What is a shooting star really?",
+    "fr": "Qu’est-ce qu’une étoile filante en vrai ?",
+    "nl": "Wat is een vallende ster echt?"
+   },
+   "o": {
+    "en": [
+     "A star falling to Earth",
+     "A tiny space rock",
+     "A flying firefly"
+    ],
+    "fr": [
+     "Une étoile qui tombe sur la Terre",
+     "Un minuscule caillou de l’espace",
+     "Une luciole qui vole"
+    ],
+    "nl": [
+     "Een ster die op aarde valt",
+     "Een piepklein ruimtesteentje",
+     "Een vliegend vuurvliegje"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How big is the rock of a shooting star often?",
+    "fr": "Quelle taille fait souvent le caillou d’une étoile filante ?",
+    "nl": "Hoe groot is het steentje van een vallende ster vaak?"
+   },
+   "o": {
+    "en": [
+     "As big as a house",
+     "As big as a car",
+     "As small as a grain of sand"
+    ],
+    "fr": [
+     "Aussi gros qu’une maison",
+     "Aussi gros qu’une voiture",
+     "Aussi petit qu’un grain de sable"
+    ],
+    "nl": [
+     "Zo groot als een huis",
+     "Zo groot als een auto",
+     "Zo klein als een zandkorrel"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Why does a shooting star glow?",
+    "fr": "Pourquoi une étoile filante brille-t-elle ?",
+    "nl": "Waarom licht een vallende ster op?"
+   },
+   "o": {
+    "en": [
+     "The air in front of it gets super hot",
+     "It has a lamp inside",
+     "The Moon shines on it"
+    ],
+    "fr": [
+     "L’air devant elle devient brûlant",
+     "Elle a une lampe à l’intérieur",
+     "La Lune l’éclaire"
+    ],
+    "nl": [
+     "De lucht ervoor wordt gloeiend heet",
+     "Er zit een lampje in",
+     "De maan schijnt erop"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Where does a shooting star burn up?",
+    "fr": "Où une étoile filante se consume-t-elle ?",
+    "nl": "Waar verbrandt een vallende ster?"
+   },
+   "o": {
+    "en": [
+     "In the ocean",
+     "High above us",
+     "In your backyard"
+    ],
+    "fr": [
+     "Dans l’océan",
+     "Tout là-haut au-dessus de nous",
+     "Dans ton jardin"
+    ],
+    "nl": [
+     "In de oceaan",
+     "Hoog boven ons",
+     "In je tuin"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How much space dust lands on Earth every day?",
+    "fr": "Combien de poussière de l’espace tombe sur la Terre chaque jour ?",
+    "nl": "Hoeveel ruimtestof valt er elke dag op de aarde?"
+   },
+   "o": {
+    "en": [
+     "Tons",
+     "Just one grain",
+     "None at all"
+    ],
+    "fr": [
+     "Des tonnes",
+     "Un seul grain",
+     "Rien du tout"
+    ],
+    "nl": [
+     "Tonnen",
+     "Maar één korreltje",
+     "Helemaal niets"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "A shooting star’s trip",
+   "fr": "Le voyage d’une étoile filante",
+   "nl": "De reis van een vallende ster"
+  },
+  "intro": {
+   "en": "Put the steps in the right order.",
+   "fr": "Remets les étapes dans le bon ordre.",
+   "nl": "Zet de stappen in de juiste volgorde."
+  },
+  "done": {
+   "en": "Super, star catcher!",
+   "fr": "Super, attrapeur d’étoiles !",
+   "nl": "Super, sterrenvanger!"
+  },
+  "items": {
+   "en": [
+    "A tiny rock floats through space",
+    "Earth crosses its path",
+    "It zooms into the air very fast",
+    "The air in front gets super hot",
+    "It glows as a shooting star"
+   ],
+   "fr": [
+    "Un petit caillou flotte dans l’espace",
+    "La Terre croise son chemin",
+    "Il fonce dans l’air à toute vitesse",
+    "L’air devant lui devient brûlant",
+    "Il brille comme une étoile filante"
+   ],
+   "nl": [
+    "Een steentje zweeft door de ruimte",
+    "De aarde kruist zijn pad",
+    "Het raast razendsnel de lucht in",
+    "De lucht ervoor wordt gloeiend heet",
+    "Het licht op als vallende ster"
+   ]
+  }
+ }
+}

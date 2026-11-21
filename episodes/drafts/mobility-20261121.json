@@ -1,0 +1,245 @@
+{
+ "id": "mobility-20261121",
+ "world": "mobility",
+ "guide": "Sunny",
+ "title": {
+  "en": "How can a huge ship float?",
+  "fr": "Comment un énorme bateau peut-il flotter ?",
+  "nl": "Hoe kan een enorm schip blijven drijven?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, this ship is made of heavy steel and it’s as big as a building! How can it float when a little coin sinks?",
+   "fr": "Sunny, ce bateau est en acier lourd et il est grand comme un immeuble ! Comment peut-il flotter alors qu’une petite pièce coule ?",
+   "nl": "Sunny, dit schip is van zwaar staal en zo groot als een flatgebouw! Hoe kan het blijven drijven als een klein muntje zinkt?",
+   "img": "Whyzz and Sunny at a harbor look up at a giant ship"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Maybe it has a giant secret rubber duck hidden inside! Or millions of tiny fish holding it up!",
+   "fr": "Peut-être qu’il cache un canard en plastique géant à l’intérieur ! Ou des millions de petits poissons qui le portent !",
+   "nl": "Misschien zit er stiekem een reuzenbadeend in! Of houden miljoenen visjes het omhoog!",
+   "img": "Whyzz imagines a giant rubber duck inside the ship and fish holding it up, Sunny laughs"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Ha, no ducks! A ship is shaped like a big bowl full of air. It pushes a lot of water out of the way and the water pushes back up on it.",
+   "fr": "Ha, pas de canards ! Un bateau a la forme d’un grand bol rempli d’air. Il pousse beaucoup d’eau sur le côté et l’eau le pousse vers le haut.",
+   "nl": "Haha, geen eenden! Een schip heeft de vorm van een grote kom vol lucht. Het duwt veel water opzij en dat water duwt het schip omhoog.",
+   "img": "Sunny floats a big empty bowl in a tub of water, Whyzz watches"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Try it with clay: a ball of clay sinks, but the same clay shaped like a boat floats! The wide shape pushes away more water, so the push from below wins.",
+   "fr": "Essaie avec de la pâte à modeler : une boule coule, mais la même pâte en forme de bateau flotte ! La forme large déplace plus d’eau, alors la poussée d’en dessous gagne.",
+   "nl": "Probeer het met klei: een balletje klei zinkt, maar dezelfde klei in de vorm van een bootje blijft drijven! De brede vorm duwt meer water weg, dus de duw van onderen wint.",
+   "img": "A clay ball sinks and a clay boat floats in a clear water tank"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Did you know? Ships have a line painted on their side that shows how much they can carry. If the water reaches that line, the ship is full!",
+   "fr": "Le savais-tu ? Les bateaux ont une ligne peinte sur leur coque qui montre combien ils peuvent porter. Si l’eau arrive à cette ligne, le bateau est plein !",
+   "nl": "Wist je dat? Schepen hebben een streep op hun romp die laat zien hoeveel ze mogen dragen. Komt het water tot aan die streep, dan zit het schip vol!",
+   "img": "Sunny points at a painted stripe on a ship's side just above the water"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So a ship floats because its bowl shape pushes away lots of water! What would you build to float: a raft, a boat or a floating house?",
+   "fr": "Donc un bateau flotte parce que sa forme de bol pousse beaucoup d’eau sur le côté ! Et toi, que construirais-tu pour flotter : un radeau, un bateau ou une maison flottante ?",
+   "nl": "Dus een schip drijft omdat zijn komvorm heel veel water wegduwt! Wat zou jij bouwen om te drijven: een vlot, een boot of een drijvend huis?",
+   "img": "Whyzz and Sunny high-five on a small wooden raft on a calm lake"
+  }
+ ],
+ "prompts": [
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stand on a sunny harbor pier and look up at a gigantic blue-and-white cargo ship floating in the water, Whyzz holds a small shiny coin in one hand and looks puzzled, Sunny smiles, seagulls and calm blue water around them, no signs. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a big dream bubble above his head showing a gigantic yellow rubber duck hiding inside a big ship and many tiny smiling fish holding the ship up from below the water, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge laughs next to him on a sunny harbor pier. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge kneels next to a big clear tub of water on a sunny harbor pier and gently floats a large empty metal bowl on the water, little ripples spread out, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with a curious smile, a big ship floats in the background. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sit at a table with a clear glass water tank, inside a round ball of grey clay lies at the bottom while a little boat made of the same grey clay floats on top, Sunny points at the boat, Whyzz looks amazed, bright cozy workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands on a small boat next to the side of a huge red ship and points at a simple painted white horizontal stripe on the hull just above the water line, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks at it with big curious eyes, calm sea and sunshine. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge give each other a high five on a small wooden raft floating on a calm sparkling lake, trees and hills around, a small toy sailboat floats next to the raft, happy faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What is a big ship made of?",
+    "fr": "En quoi est fait un grand bateau ?",
+    "nl": "Waarvan is een groot schip gemaakt?"
+   },
+   "o": {
+    "en": [
+     "Paper",
+     "Heavy steel",
+     "Jelly"
+    ],
+    "fr": [
+     "En papier",
+     "En acier lourd",
+     "En gelée"
+    ],
+    "nl": [
+     "Papier",
+     "Zwaar staal",
+     "Pudding"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What shape helps a ship float?",
+    "fr": "Quelle forme aide un bateau à flotter ?",
+    "nl": "Welke vorm helpt een schip te drijven?"
+   },
+   "o": {
+    "en": [
+     "A big bowl full of air",
+     "A sharp needle",
+     "A solid ball"
+    ],
+    "fr": [
+     "Un grand bol rempli d’air",
+     "Une aiguille pointue",
+     "Une boule pleine"
+    ],
+    "nl": [
+     "Een grote kom vol lucht",
+     "Een scherpe naald",
+     "Een volle bal"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What does the water do when a ship pushes it away?",
+    "fr": "Que fait l’eau quand un bateau la pousse sur le côté ?",
+    "nl": "Wat doet het water als een schip het opzij duwt?"
+   },
+   "o": {
+    "en": [
+     "It turns to ice",
+     "It disappears",
+     "It pushes back up"
+    ],
+    "fr": [
+     "Elle se transforme en glace",
+     "Elle disparaît",
+     "Elle pousse vers le haut"
+    ],
+    "nl": [
+     "Het wordt ijs",
+     "Het verdwijnt",
+     "Het duwt terug omhoog"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What happens to a ball of clay in water?",
+    "fr": "Que se passe-t-il avec une boule de pâte à modeler dans l’eau ?",
+    "nl": "Wat gebeurt er met een balletje klei in water?"
+   },
+   "o": {
+    "en": [
+     "It sinks",
+     "It floats",
+     "It melts"
+    ],
+    "fr": [
+     "Elle coule",
+     "Elle flotte",
+     "Elle fond"
+    ],
+    "nl": [
+     "Het zinkt",
+     "Het drijft",
+     "Het smelt"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What does the line on a ship’s side show?",
+    "fr": "Que montre la ligne sur la coque d’un bateau ?",
+    "nl": "Wat laat de streep op de romp van een schip zien?"
+   },
+   "o": {
+    "en": [
+     "How fast it goes",
+     "How much it can carry",
+     "Its birthday"
+    ],
+    "fr": [
+     "Sa vitesse",
+     "Combien il peut porter",
+     "Son anniversaire"
+    ],
+    "nl": [
+     "Hoe snel het vaart",
+     "Hoeveel het mag dragen",
+     "Zijn verjaardag"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Will it float?",
+   "fr": "Ça flotte ?",
+   "nl": "Blijft het drijven?"
+  },
+  "intro": {
+   "en": "Pick everything that floats in water.",
+   "fr": "Choisis tout ce qui flotte dans l’eau.",
+   "nl": "Kies alles wat in water blijft drijven."
+  },
+  "done": {
+   "en": "Great job, captain!",
+   "fr": "Bravo, capitaine !",
+   "nl": "Goed gedaan, kapitein!"
+  },
+  "items": {
+   "en": [
+    "A rubber duck",
+    "A coin",
+    "An apple",
+    "A stone",
+    "A clay boat",
+    "A metal key",
+    "An ice cube",
+    "A ball of clay"
+   ],
+   "fr": [
+    "Un canard en plastique",
+    "Une pièce de monnaie",
+    "Une pomme",
+    "Un caillou",
+    "Un bateau en pâte à modeler",
+    "Une clé en métal",
+    "Un glaçon",
+    "Une boule de pâte à modeler"
+   ],
+   "nl": [
+    "Een badeendje",
+    "Een muntje",
+    "Een appel",
+    "Een steen",
+    "Een bootje van klei",
+    "Een metalen sleutel",
+    "Een ijsblokje",
+    "Een balletje klei"
+   ]
+  },
+  "good": [
+   0,
+   2,
+   4,
+   6
+  ]
+ }
+}

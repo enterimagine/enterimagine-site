@@ -8314,5 +8314,437 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Dus een team combineert verschillende talenten en maakt van kleine ideeën grote uitvindingen! Wie zou jij kiezen voor jouw droomteam van uitvinders?"
+ },
+ {
+  "id": "space-20261121-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, I just saw a star zoom across the sky! Did a star really fall down?"
+ },
+ {
+  "id": "space-20261121-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, je viens de voir une étoile filer dans le ciel ! Une étoile est vraiment tombée ?"
+ },
+ {
+  "id": "space-20261121-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, ik zag net een ster door de lucht schieten! Is er echt een ster naar beneden gevallen?"
+ },
+ {
+  "id": "space-20261121-en-2",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Good news: it wasn’t a star at all! A shooting star is a tiny space rock, often no bigger than a grain of sand, zooming into the air around Earth."
+ },
+ {
+  "id": "space-20261121-fr-2",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Bonne nouvelle : ce n’était pas du tout une étoile ! Une étoile filante, c’est un minuscule caillou de l’espace, souvent pas plus gros qu’un grain de sable, qui fonce dans l’air autour de la Terre."
+ },
+ {
+  "id": "space-20261121-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Goed nieuws: het was helemaal geen ster! Een vallende ster is een piepklein ruimtesteentje, vaak niet groter dan een zandkorrel, dat de lucht rond de aarde in raast."
+ },
+ {
+  "id": "space-20261121-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "A grain of sand? So someone up there is shaking out a giant beach towel over Earth!"
+ },
+ {
+  "id": "space-20261121-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Un grain de sable ? Alors quelqu’un là-haut secoue une serviette de plage géante au-dessus de la Terre !"
+ },
+ {
+  "id": "space-20261121-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Een zandkorrel? Dan schudt iemand daarboven vast een reuzengroot strandlaken uit boven de aarde!"
+ },
+ {
+  "id": "space-20261121-en-4",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Ha, no towel! The rock flies so fast that the air in front of it gets squeezed and super hot. It glows and burns up high above us, like a tiny firework."
+ },
+ {
+  "id": "space-20261121-fr-4",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Ha, pas de serviette ! Le caillou va si vite que l’air devant lui est écrasé et devient brûlant. Il brille et se consume tout là-haut, comme un mini feu d’artifice."
+ },
+ {
+  "id": "space-20261121-nl-4",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Haha, geen handdoek! Het steentje gaat zo snel dat de lucht ervoor wordt samengeperst en gloeiend heet wordt. Het licht op en verbrandt hoog boven ons, als een mini-vuurwerkje."
+ },
+ {
+  "id": "space-20261121-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Did you know? Tons of space dust land on Earth every single day! Scientists have even found tiny space specks on the roofs of houses."
+ },
+ {
+  "id": "space-20261121-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Le savais-tu ? Chaque jour, des tonnes de poussière de l’espace tombent sur la Terre ! Des scientifiques en ont même trouvé de minuscules grains sur les toits des maisons."
+ },
+ {
+  "id": "space-20261121-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Wist je dat? Elke dag vallen er tonnen ruimtestof op de aarde! Wetenschappers hebben zelfs piepkleine ruimtekorreltjes gevonden op de daken van huizen."
+ },
+ {
+  "id": "space-20261121-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a shooting star is a tiny space rock glowing in the air, not a falling star! If you saw one tonight, what would you wish for?"
+ },
+ {
+  "id": "space-20261121-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc une étoile filante, c’est un petit caillou de l’espace qui brille dans l’air, pas une étoile qui tombe ! Et toi, si tu en voyais une ce soir, quel vœu ferais-tu ?"
+ },
+ {
+  "id": "space-20261121-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus een vallende ster is een piepklein ruimtesteentje dat oplicht in de lucht, geen ster die valt! Als jij er vanavond eentje zag, wat zou jij dan wensen?"
+ },
+ {
+  "id": "mobility-20261121-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, this ship is made of heavy steel and it’s as big as a building! How can it float when a little coin sinks?"
+ },
+ {
+  "id": "mobility-20261121-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, ce bateau est en acier lourd et il est grand comme un immeuble ! Comment peut-il flotter alors qu’une petite pièce coule ?"
+ },
+ {
+  "id": "mobility-20261121-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, dit schip is van zwaar staal en zo groot als een flatgebouw! Hoe kan het blijven drijven als een klein muntje zinkt?"
+ },
+ {
+  "id": "mobility-20261121-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Maybe it has a giant secret rubber duck hidden inside! Or millions of tiny fish holding it up!"
+ },
+ {
+  "id": "mobility-20261121-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Peut-être qu’il cache un canard en plastique géant à l’intérieur ! Ou des millions de petits poissons qui le portent !"
+ },
+ {
+  "id": "mobility-20261121-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Misschien zit er stiekem een reuzenbadeend in! Of houden miljoenen visjes het omhoog!"
+ },
+ {
+  "id": "mobility-20261121-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no ducks! A ship is shaped like a big bowl full of air. It pushes a lot of water out of the way and the water pushes back up on it."
+ },
+ {
+  "id": "mobility-20261121-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Ha, pas de canards ! Un bateau a la forme d’un grand bol rempli d’air. Il pousse beaucoup d’eau sur le côté et l’eau le pousse vers le haut."
+ },
+ {
+  "id": "mobility-20261121-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Haha, geen eenden! Een schip heeft de vorm van een grote kom vol lucht. Het duwt veel water opzij en dat water duwt het schip omhoog."
+ },
+ {
+  "id": "mobility-20261121-en-4",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Try it with clay: a ball of clay sinks, but the same clay shaped like a boat floats! The wide shape pushes away more water, so the push from below wins."
+ },
+ {
+  "id": "mobility-20261121-fr-4",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Essaie avec de la pâte à modeler : une boule coule, mais la même pâte en forme de bateau flotte ! La forme large déplace plus d’eau, alors la poussée d’en dessous gagne."
+ },
+ {
+  "id": "mobility-20261121-nl-4",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Probeer het met klei: een balletje klei zinkt, maar dezelfde klei in de vorm van een bootje blijft drijven! De brede vorm duwt meer water weg, dus de duw van onderen wint."
+ },
+ {
+  "id": "mobility-20261121-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? Ships have a line painted on their side that shows how much they can carry. If the water reaches that line, the ship is full!"
+ },
+ {
+  "id": "mobility-20261121-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Les bateaux ont une ligne peinte sur leur coque qui montre combien ils peuvent porter. Si l’eau arrive à cette ligne, le bateau est plein !"
+ },
+ {
+  "id": "mobility-20261121-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Wist je dat? Schepen hebben een streep op hun romp die laat zien hoeveel ze mogen dragen. Komt het water tot aan die streep, dan zit het schip vol!"
+ },
+ {
+  "id": "mobility-20261121-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a ship floats because its bowl shape pushes away lots of water! What would you build to float: a raft, a boat or a floating house?"
+ },
+ {
+  "id": "mobility-20261121-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc un bateau flotte parce que sa forme de bol pousse beaucoup d’eau sur le côté ! Et toi, que construirais-tu pour flotter : un radeau, un bateau ou une maison flottante ?"
+ },
+ {
+  "id": "mobility-20261121-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus een schip drijft omdat zijn komvorm heel veel water wegduwt! Wat zou jij bouwen om te drijven: een vlot, een boot of een drijvend huis?"
+ },
+ {
+  "id": "cities-20261121-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, our subway train runs deep under the busy streets! How did anyone dig such a long tunnel without breaking the city above?"
+ },
+ {
+  "id": "cities-20261121-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, notre métro roule tout au fond, sous les rues animées ! Comment a-t-on pu creuser un si long tunnel sans abîmer la ville au-dessus ?"
+ },
+ {
+  "id": "cities-20261121-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, onze metro rijdt diep onder de drukke straten! Hoe heeft iemand zo’n lange tunnel gegraven zonder de stad erboven kapot te maken?"
+ },
+ {
+  "id": "cities-20261121-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "I bet they used a million moles with tiny shovels! Or one very hungry giant worm!"
+ },
+ {
+  "id": "cities-20261121-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je parie qu’ils ont utilisé un million de taupes avec des petites pelles ! Ou un ver de terre géant très affamé !"
+ },
+ {
+  "id": "cities-20261121-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Ik wed dat ze een miljoen mollen met piepkleine schepjes hebben ingezet! Of één heel hongerige reuzenworm!"
+ },
+ {
+  "id": "cities-20261121-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "You’re almost right: a tunnel boring machine looks like a giant metal worm! Its huge round front spins slowly and grinds through rock and soil."
+ },
+ {
+  "id": "cities-20261121-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Tu n’es pas loin : un tunnelier ressemble à un énorme ver en métal ! Sa grande roue avant tourne lentement et broie la roche et la terre."
+ },
+ {
+  "id": "cities-20261121-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Je zit er dicht bij: een tunnelboormachine lijkt op een reusachtige metalen worm! De grote ronde kop draait langzaam en maalt zich door rots en aarde."
+ },
+ {
+  "id": "cities-20261121-en-4",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "A moving belt carries the dirt away and a robot arm builds the tunnel walls from curved concrete pieces, ring after ring. So the ground above stays safe while the machine crawls forward."
+ },
+ {
+  "id": "cities-20261121-fr-4",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Un tapis roulant emporte la terre et un bras mécanique construit les murs du tunnel avec des morceaux de béton courbés, anneau après anneau. Ainsi, le sol au-dessus reste solide pendant que la machine avance."
+ },
+ {
+  "id": "cities-20261121-nl-4",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Een lopende band voert de aarde af en een robotarm bouwt de tunnelwanden uit gebogen stukken beton, ring na ring. Zo blijft de grond erboven stevig terwijl de machine vooruit kruipt."
+ },
+ {
+  "id": "cities-20261121-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? Workers often give their tunnel machine a name, like a pet! Some of these machines are even longer than a soccer field."
+ },
+ {
+  "id": "cities-20261121-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Les ouvriers donnent souvent un prénom à leur tunnelier, comme à un animal de compagnie ! Certaines de ces machines sont même plus longues qu’un terrain de foot."
+ },
+ {
+  "id": "cities-20261121-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat? Arbeiders geven hun tunnelboormachine vaak een naam, net als een huisdier! Sommige van die machines zijn zelfs langer dan een voetbalveld."
+ },
+ {
+  "id": "cities-20261121-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So a giant metal worm digs the tunnel and builds its walls at the same time! If you had your own tunnel machine, what name would you give it?"
+ },
+ {
+  "id": "cities-20261121-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc un énorme ver en métal creuse le tunnel et construit ses murs en même temps ! Et toi, si tu avais ton propre tunnelier, quel nom lui donnerais-tu ?"
+ },
+ {
+  "id": "cities-20261121-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus een reusachtige metalen worm graaft de tunnel en bouwt tegelijk de wanden! Als jij je eigen tunnelboormachine had, welke naam zou jij hem dan geven?"
+ },
+ {
+  "id": "innovation-20261121-en-1",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, my paper airplane always does a loop and crashes into the floor! How can I make it fly farther?"
+ },
+ {
+  "id": "innovation-20261121-fr-1",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Whyzz, mon avion en papier fait toujours un looping et s’écrase par terre ! Comment le faire voler plus loin ?"
+ },
+ {
+  "id": "innovation-20261121-nl-1",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Whyzz, mijn papieren vliegtuigje maakt altijd een looping en crasht op de grond! Hoe laat ik het verder vliegen?"
+ },
+ {
+  "id": "innovation-20261121-en-2",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Easy: glue a tiny jet engine on it! Or train a pigeon to carry it all the way to the kitchen."
+ },
+ {
+  "id": "innovation-20261121-fr-2",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Facile : on colle un petit moteur à réaction dessus ! Ou on dresse un pigeon pour le porter jusqu’à la cuisine."
+ },
+ {
+  "id": "innovation-20261121-nl-2",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Simpel: plak er een mini-straalmotor op! Of train een duif om het helemaal naar de keuken te dragen."
+ },
+ {
+  "id": "innovation-20261121-en-3",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Just kidding! Inventors test like scientists: throw the plane, measure how far it goes, then change only one thing. That way you know which change really helped."
+ },
+ {
+  "id": "innovation-20261121-fr-3",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Je rigole ! Les inventeurs testent comme des scientifiques : on lance l’avion, on mesure la distance, puis on change une seule chose. Comme ça, on sait quel changement a vraiment aidé."
+ },
+ {
+  "id": "innovation-20261121-nl-3",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Grapje! Uitvinders testen zoals wetenschappers: gooi het vliegtuigje, meet hoe ver het gaat en verander dan maar één ding. Zo weet je welke verandering echt heeft geholpen."
+ },
+ {
+  "id": "innovation-20261121-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "If the nose goes up too much, bend the back edges of the wings down a tiny bit. A paper clip on the nose also helps, like a little backpack that keeps it steady."
+ },
+ {
+  "id": "innovation-20261121-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Si le nez monte trop, plie un tout petit peu l’arrière des ailes vers le bas. Un trombone sur le nez aide aussi, comme un petit sac à dos qui le garde stable."
+ },
+ {
+  "id": "innovation-20261121-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Als de neus te veel omhoog gaat, buig dan de achterkant van de vleugels een klein beetje naar beneden. Een paperclip op de neus helpt ook, als een rugzakje dat hem stabiel houdt."
+ },
+ {
+  "id": "innovation-20261121-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Did you know? The world record for a paper airplane is longer than half a soccer field! And it was folded from just one sheet of paper."
+ },
+ {
+  "id": "innovation-20261121-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Le savais-tu ? Le record du monde pour un avion en papier, c’est plus que la moitié d’un terrain de foot ! Et il était plié dans une seule feuille de papier."
+ },
+ {
+  "id": "innovation-20261121-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Wist je dat? Het wereldrecord voor een papieren vliegtuigje is langer dan een half voetbalveld! En het was gevouwen uit maar één vel papier."
+ },
+ {
+  "id": "innovation-20261121-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So inventors test, change one thing and test again until it works! What would you change first to make your paper plane fly farther?"
+ },
+ {
+  "id": "innovation-20261121-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc les inventeurs testent, changent une seule chose et testent encore jusqu’à ce que ça marche ! Et toi, que changerais-tu en premier pour que ton avion vole plus loin ?"
+ },
+ {
+  "id": "innovation-20261121-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus uitvinders testen, veranderen één ding en testen opnieuw tot het werkt! Wat zou jij als eerste veranderen zodat jouw vliegtuigje verder vliegt?"
  }
 ]

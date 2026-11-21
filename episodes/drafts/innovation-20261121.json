@@ -1,0 +1,230 @@
+{
+ "id": "innovation-20261121",
+ "world": "innovation",
+ "guide": "Whyzz",
+ "title": {
+  "en": "How can you make a paper airplane fly farther?",
+  "fr": "Comment faire voler un avion en papier plus loin ?",
+  "nl": "Hoe laat je een papieren vliegtuigje verder vliegen?"
+ },
+ "scenes": [
+  {
+   "speaker": "Pixel",
+   "en": "Whyzz, my paper airplane always does a loop and crashes into the floor! How can I make it fly farther?",
+   "fr": "Whyzz, mon avion en papier fait toujours un looping et s’écrase par terre ! Comment le faire voler plus loin ?",
+   "nl": "Whyzz, mijn papieren vliegtuigje maakt altijd een looping en crasht op de grond! Hoe laat ik het verder vliegen?",
+   "img": "Pixel's paper airplane loops toward the floor, Whyzz watches"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Easy: glue a tiny jet engine on it! Or train a pigeon to carry it all the way to the kitchen.",
+   "fr": "Facile : on colle un petit moteur à réaction dessus ! Ou on dresse un pigeon pour le porter jusqu’à la cuisine.",
+   "nl": "Simpel: plak er een mini-straalmotor op! Of train een duif om het helemaal naar de keuken te dragen.",
+   "img": "Whyzz imagines a paper plane with a jet engine and a pigeon carrying one, Pixel laughs"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Just kidding! Inventors test like scientists: throw the plane, measure how far it goes, then change only one thing. That way you know which change really helped.",
+   "fr": "Je rigole ! Les inventeurs testent comme des scientifiques : on lance l’avion, on mesure la distance, puis on change une seule chose. Comme ça, on sait quel changement a vraiment aidé.",
+   "nl": "Grapje! Uitvinders testen zoals wetenschappers: gooi het vliegtuigje, meet hoe ver het gaat en verander dan maar één ding. Zo weet je welke verandering echt heeft geholpen.",
+   "img": "Whyzz throws a paper plane in a hallway while Pixel measures with a ribbon"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "If the nose goes up too much, bend the back edges of the wings down a tiny bit. A paper clip on the nose also helps, like a little backpack that keeps it steady.",
+   "fr": "Si le nez monte trop, plie un tout petit peu l’arrière des ailes vers le bas. Un trombone sur le nez aide aussi, comme un petit sac à dos qui le garde stable.",
+   "nl": "Als de neus te veel omhoog gaat, buig dan de achterkant van de vleugels een klein beetje naar beneden. Een paperclip op de neus helpt ook, als een rugzakje dat hem stabiel houdt.",
+   "img": "Whyzz bends a wing edge while Pixel clips a paper clip on the nose"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Did you know? The world record for a paper airplane is longer than half a soccer field! And it was folded from just one sheet of paper.",
+   "fr": "Le savais-tu ? Le record du monde pour un avion en papier, c’est plus que la moitié d’un terrain de foot ! Et il était plié dans une seule feuille de papier.",
+   "nl": "Wist je dat? Het wereldrecord voor een papieren vliegtuigje is langer dan een half voetbalveld! En het was gevouwen uit maar één vel papier.",
+   "img": "A paper plane glides very far across a big sports hall, Pixel and Whyzz amazed"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So inventors test, change one thing and test again until it works! What would you change first to make your paper plane fly farther?",
+   "fr": "Donc les inventeurs testent, changent une seule chose et testent encore jusqu’à ce que ça marche ! Et toi, que changerais-tu en premier pour que ton avion vole plus loin ?",
+   "nl": "Dus uitvinders testen, veranderen één ding en testen opnieuw tot het werkt! Wat zou jij als eerste veranderen zodat jouw vliegtuigje verder vliegt?",
+   "img": "Whyzz and Pixel high-five next to a table full of paper planes"
+  }
+ ],
+ "prompts": [
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands in a bright cozy living room and watches her white paper airplane do a funny loop and nose-dive toward the carpet, she has a surprised funny face with her hands on her cheeks, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stands next to her and watches with a curious smile. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs with a big dream bubble above his head showing a white paper airplane with a tiny shiny cartoon jet engine and a little puff of smoke, next to a friendly grey pigeon carrying another paper airplane in its beak, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs next to him in a bright cozy living room. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge throws a white paper airplane down a long bright school hallway, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge kneels on the floor and stretches a plain yellow ribbon along the floor to measure how far it flies, both look focused and happy. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge sits at a wooden table and gently bends the back edge of a white paper airplane wing down, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge sits next to him and clips a small shiny paper clip onto the nose of the plane, colorful paper and pencils on the table, bright cozy workshop. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge stand at one end of a huge empty indoor sports hall with a shiny wooden floor and watch a white paper airplane glide very far through the air across the hall, both amazed with wide eyes and open mouths. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge give each other a high five next to a wooden table covered with many colorful folded paper airplanes, bright cozy workshop, happy proud faces. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What did Pixel’s paper airplane keep doing?",
+    "fr": "Que faisait toujours l’avion en papier de Pixel ?",
+    "nl": "Wat deed het papieren vliegtuigje van Pixel steeds?"
+   },
+   "o": {
+    "en": [
+     "Flying out the window",
+     "Doing a loop and crashing",
+     "Singing a song"
+    ],
+    "fr": [
+     "Il s’envolait par la fenêtre",
+     "Il faisait un looping et s’écrasait",
+     "Il chantait une chanson"
+    ],
+    "nl": [
+     "Uit het raam vliegen",
+     "Een looping maken en crashen",
+     "Een liedje zingen"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How many things should you change between two tests?",
+    "fr": "Combien de choses faut-il changer entre deux tests ?",
+    "nl": "Hoeveel dingen verander je tussen twee testen?"
+   },
+   "o": {
+    "en": [
+     "Only one",
+     "Everything at once",
+     "Nothing ever"
+    ],
+    "fr": [
+     "Une seule",
+     "Tout à la fois",
+     "Jamais rien"
+    ],
+    "nl": [
+     "Maar één",
+     "Alles tegelijk",
+     "Nooit iets"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What can you bend if the nose goes up too much?",
+    "fr": "Que peux-tu plier si le nez monte trop ?",
+    "nl": "Wat kun je buigen als de neus te veel omhoog gaat?"
+   },
+   "o": {
+    "en": [
+     "The window",
+     "The tip of the nose",
+     "The back edges of the wings"
+    ],
+    "fr": [
+     "La fenêtre",
+     "La pointe du nez",
+     "L’arrière des ailes"
+    ],
+    "nl": [
+     "Het raam",
+     "Het puntje van de neus",
+     "De achterkant van de vleugels"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What does a paper clip on the nose do?",
+    "fr": "À quoi sert un trombone sur le nez ?",
+    "nl": "Wat doet een paperclip op de neus?"
+   },
+   "o": {
+    "en": [
+     "It changes the color",
+     "It keeps the plane steady",
+     "It makes a funny sound"
+    ],
+    "fr": [
+     "Il change la couleur",
+     "Il garde l’avion stable",
+     "Il fait un bruit rigolo"
+    ],
+    "nl": [
+     "Hij verandert de kleur",
+     "Hij houdt het vliegtuigje stabiel",
+     "Hij maakt een grappig geluid"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How far did the record paper airplane fly?",
+    "fr": "Jusqu’où a volé l’avion en papier du record ?",
+    "nl": "Hoe ver vloog het record-vliegtuigje?"
+   },
+   "o": {
+    "en": [
+     "Longer than half a soccer field",
+     "Across the ocean",
+     "Just one step"
+    ],
+    "fr": [
+     "Plus que la moitié d’un terrain de foot",
+     "Au-dessus de l’océan",
+     "Un seul pas"
+    ],
+    "nl": [
+     "Verder dan een half voetbalveld",
+     "Over de oceaan",
+     "Maar één stap"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "Test like an inventor",
+   "fr": "Teste comme un inventeur",
+   "nl": "Test als een uitvinder"
+  },
+  "intro": {
+   "en": "Put the testing steps in the right order.",
+   "fr": "Remets les étapes du test dans le bon ordre.",
+   "nl": "Zet de teststappen in de juiste volgorde."
+  },
+  "done": {
+   "en": "Awesome, test pilot!",
+   "fr": "Génial, pilote d’essai !",
+   "nl": "Top, testpiloot!"
+  },
+  "items": {
+   "en": [
+    "Fold your first plane",
+    "Throw it and measure",
+    "Change just one thing",
+    "Throw it again",
+    "Keep the best idea"
+   ],
+   "fr": [
+    "Plie ton premier avion",
+    "Lance-le et mesure",
+    "Change une seule chose",
+    "Lance-le encore",
+    "Garde la meilleure idée"
+   ],
+   "nl": [
+    "Vouw je eerste vliegtuigje",
+    "Gooi het en meet",
+    "Verander maar één ding",
+    "Gooi het opnieuw",
+    "Bewaar het beste idee"
+   ]
+  }
+ }
+}
