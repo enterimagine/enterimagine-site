@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "a5b98debf8c5ca62af077a540ef96e961aace392",
-  "publicPolicySha256": "62fc66423ed6e5d0d55b17a6bfde56f6a0b74fe9dd63294651b13862deb908c8",
+  "sourceCommit": "7a34a3598eb90ee409b28bb90d0bb1c020eb389f",
+  "publicPolicySha256": "5527dadc458847dd8c54c45248c6fc4441c8fd6b790953051e0d26b51cf9b214",
   "nodeVersion": "v24.19.0",
-  "payloadId": "4ca8a3732729622e4f3a503bc931b3746232fce9439a29ff636f16f75fcc0732",
+  "payloadId": "efa3a6673b30e9c01dfe559ecafd47322088196e52d58587d87e9390519a3f2b",
   "files": [
     {
       "path": "404.html",
@@ -17,6 +17,11 @@
       "sha256": "e7d94125f6f5caa3f3fa8896319ffa59807064fe693d89523f74414214e906eb"
     },
     {
+      "path": "assets/articles/can-a-neural-network-find-the-enzyme-that-eats-your-sneakers.webp",
+      "size": 62712,
+      "sha256": "2adc83643c1e4b320a653ea73e90e651ffa2e04ce9015f6b36f7aad081fd7179"
+    },
+    {
       "path": "assets/articles/can-you-cool-a-data-center-in-space.webp",
       "size": 21364,
       "sha256": "4266c8a0a3b9a6a7453079807508172087bd13457d4ed56f18311dbddf842720"
@@ -25,6 +30,11 @@
       "path": "assets/articles/covers/batteries-in-waiting.webp",
       "size": 33212,
       "sha256": "a00064074d2caa9f763aa9b41944398e2d5fc5a447071f75d4890f57d45662a3"
+    },
+    {
+      "path": "assets/articles/covers/can-a-neural-network-find-the-enzyme-that-eats-your-sneakers.webp",
+      "size": 94602,
+      "sha256": "4b01f35b364c62fbd89acf6a0866c52cc6ca8dd451d402084a5c83754efab835"
     },
     {
       "path": "assets/articles/covers/can-you-cool-a-data-center-in-space.webp",
@@ -92,6 +102,11 @@
       "sha256": "b259e1aca59845f3c0c93627481bf9aefa1b793f0366ce1cc630bf102a7d4c50"
     },
     {
+      "path": "assets/articles/covers/the-diamond-that-checks-the-grids-arithmetic.webp",
+      "size": 35668,
+      "sha256": "6db983ab5b272f1488010c62eba80a57e3e679ec639820f15484461e89d867d2"
+    },
+    {
       "path": "assets/articles/covers/the-diamond-that-feels-your-heartbeat.webp",
       "size": 34996,
       "sha256": "e2631632fa8ce7a79bcef6f3f1ca42d76a2908bd57828aad1e00a4675f8464af"
@@ -130,6 +145,16 @@
       "path": "assets/articles/covers/the-last-rehearsal-before-the-first-fare.webp",
       "size": 65154,
       "sha256": "54f2333200fd0bbd5c629b3b647941273c6a3761489ab7d71a2af89d184bb8cf"
+    },
+    {
+      "path": "assets/articles/covers/the-lunch-break-that-refuels-a-big-rig.webp",
+      "size": 109210,
+      "sha256": "633706216a55dbf7e40f164bb4785c1b0f5fe22d444b6db964d7d3a29d865791"
+    },
+    {
+      "path": "assets/articles/covers/the-metal-that-keeps-its-nerve-at-minus-253.webp",
+      "size": 57048,
+      "sha256": "fca8e088e8af5d7acdc033b3e76021a47fe94393fb85a586db4714b521d3f97a"
     },
     {
       "path": "assets/articles/covers/the-molecule-that-sorts-electrons-by-spin.webp",
@@ -195,6 +220,11 @@
       "path": "assets/articles/covers/the-solar-cell-that-gave-up-germanium.webp",
       "size": 82868,
       "sha256": "f1946d9273411c4157aa66bb66cff9db4c1e2f9575f1ea727bc40e30b7067459"
+    },
+    {
+      "path": "assets/articles/covers/the-spacesuit-swatches-that-waited-on-mars.webp",
+      "size": 48482,
+      "sha256": "c4a49ed6e1015e7d0762f4f54b1a76fa7831f04ad0f9c3b9ce02a7359a11f94b"
     },
     {
       "path": "assets/articles/covers/the-swimmer-grown-in-a-dish.webp",
@@ -292,6 +322,11 @@
       "sha256": "c8874c5b9689b62cc461ceba716af7a351f47de7974d721b54cf12ce9f19c5fb"
     },
     {
+      "path": "assets/articles/share/can-a-neural-network-find-the-enzyme-that-eats-your-sneakers.jpg",
+      "size": 169515,
+      "sha256": "52b05005f62d688f13d3c46f9ee6455dfd2bf1a17a9fe3d0a16e7c99f106cb41"
+    },
+    {
       "path": "assets/articles/share/can-you-cool-a-data-center-in-space.jpg",
       "size": 111994,
       "sha256": "8dc4acff74457fac9654a4a9a61a4e9a2923c3f4487ebfce7b778361f4e65529"
@@ -357,6 +392,11 @@
       "sha256": "8fe51aef37a6b3fb2525c2e0541922a4b17306ad3a479bcb4527ee989aa874ec"
     },
     {
+      "path": "assets/articles/share/the-diamond-that-checks-the-grids-arithmetic.jpg",
+      "size": 90027,
+      "sha256": "35f7fca875a5b91f39710ef86e943fe96b2cde7986ffaba4e4003ac78331da42"
+    },
+    {
       "path": "assets/articles/share/the-diamond-that-feels-your-heartbeat.jpg",
       "size": 92265,
       "sha256": "22f1743173040a611fa14b6aeccc4126bff4cd065d9aee5c087a4f25cc830168"
@@ -395,6 +435,16 @@
       "path": "assets/articles/share/the-last-rehearsal-before-the-first-fare.jpg",
       "size": 143292,
       "sha256": "a6cfe06459ef17850d602fa58d76bd4c6a77f52e313e3893713404427528d02c"
+    },
+    {
+      "path": "assets/articles/share/the-lunch-break-that-refuels-a-big-rig.jpg",
+      "size": 195694,
+      "sha256": "85230ee78399b45761956fb0247fc9cd551f597b14c1b1c8e5ec13143f0d7167"
+    },
+    {
+      "path": "assets/articles/share/the-metal-that-keeps-its-nerve-at-minus-253.jpg",
+      "size": 122579,
+      "sha256": "5fad6a80cf77db21f9b7d3e932e9feb18f3f7a7be349e993f08144c81bebd3d0"
     },
     {
       "path": "assets/articles/share/the-molecule-that-sorts-electrons-by-spin.jpg",
@@ -460,6 +510,11 @@
       "path": "assets/articles/share/the-solar-cell-that-gave-up-germanium.jpg",
       "size": 164856,
       "sha256": "3375ef4006e3ff677f7569ee62d0e023ab68b3f397a068fb90cc4b7108b451d1"
+    },
+    {
+      "path": "assets/articles/share/the-spacesuit-swatches-that-waited-on-mars.jpg",
+      "size": 107883,
+      "sha256": "837de6e93d355021f44222d586bae8f2f54d9940dcaddba1bb54f721c21ed44f"
     },
     {
       "path": "assets/articles/share/the-swimmer-grown-in-a-dish.jpg",
@@ -562,6 +617,11 @@
       "sha256": "266b8987376c6a73078729c941efd607269d9b814aa93e86dcc9dfa0eeca13a6"
     },
     {
+      "path": "assets/articles/the-diamond-that-checks-the-grids-arithmetic.webp",
+      "size": 73004,
+      "sha256": "3b44398e720a2f09caa085ec884d353420f4035147ddf6f8c8ae447d3d56750a"
+    },
+    {
       "path": "assets/articles/the-diamond-that-feels-your-heartbeat.webp",
       "size": 45778,
       "sha256": "a9bcf5bec2c673d92e43273519f267058904fa0d0911d7895a3f0d41aa9ec7eb"
@@ -600,6 +660,16 @@
       "path": "assets/articles/the-last-rehearsal-before-the-first-fare.webp",
       "size": 44488,
       "sha256": "88ec3ac33be605d0d664a555f3a67c8559e8286e08e5dbd11bc4bf0a13d438c6"
+    },
+    {
+      "path": "assets/articles/the-lunch-break-that-refuels-a-big-rig.webp",
+      "size": 46890,
+      "sha256": "c0d5f5eed6f78e11d8dfe464062a6688b3a5e427cda2753930885a496358e1dc"
+    },
+    {
+      "path": "assets/articles/the-metal-that-keeps-its-nerve-at-minus-253.webp",
+      "size": 54656,
+      "sha256": "a3b1719b8a1c4951519088d7f477add1826e539f817d594b7e03b8b4aa203894"
     },
     {
       "path": "assets/articles/the-molecule-that-sorts-electrons-by-spin.webp",
@@ -665,6 +735,11 @@
       "path": "assets/articles/the-solar-cell-that-gave-up-germanium.webp",
       "size": 44936,
       "sha256": "5e48de7ddcc80ad62d87564d720a96eca0987b1947988e86ec1742862843ac4b"
+    },
+    {
+      "path": "assets/articles/the-spacesuit-swatches-that-waited-on-mars.webp",
+      "size": 60202,
+      "sha256": "ee8e44b61da47aeae0c8fc7084514822e041bb93823916a50754aaa277b2ce9e"
     },
     {
       "path": "assets/articles/the-swimmer-grown-in-a-dish.webp",
@@ -903,18 +978,18 @@
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 33287,
-      "sha256": "643d9fb7c5579ceaddc0bf3382b349e3b45219cdb44b56d47dd16190cf6ef825"
+      "size": 34041,
+      "sha256": "6069a3db242524707673bd31c2d48a0f2c61e0dee511fc175102acc5fd3ebfbe"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 21733,
-      "sha256": "be7439b498281c06390461c4725e057cabff280de4090a1353a360ba65101904"
+      "size": 23251,
+      "sha256": "0d96a66787581b5098471903692509627c706ad7853df7e31281befd6cce2034"
     },
     {
       "path": "explore/energy/index.html",
-      "size": 27266,
-      "sha256": "f02159896031b6fa9bab284233458098945828caa8449b8c84c14fd8ad7c6435"
+      "size": 30195,
+      "sha256": "ae1774bf437aaabd3b87994c7b1f6482c73b2bab3d556ebb5bb493b30925a1c7"
     },
     {
       "path": "explore/index.html",
@@ -923,33 +998,33 @@
     },
     {
       "path": "explore/innovation/index.html",
-      "size": 24023,
-      "sha256": "44b3cb63d378410bc9f45719076e6ee68d779f6225ed3522035b6d9d8e2badb9"
+      "size": 24802,
+      "sha256": "13b2a8b5c16defd025d8ca35832c4965ebb10c6c413c2ae113ea80749d3c4954"
     },
     {
       "path": "explore/quantum-computing/index.html",
-      "size": 25622,
-      "sha256": "247b8b21d6e771e58ef19b19316b14c7dcc90cae1685a0d661a23ebe49a86eed"
+      "size": 26329,
+      "sha256": "4f0df6bd4b2ca1cd67b83b60612fe1769dc972ed9b9fc1daaf5a215060cab7fb"
     },
     {
       "path": "explore/robotics/index.html",
-      "size": 21238,
-      "sha256": "5e2c408b5be2c8a0784f8d8becf6ff2f4b98442ebd3b4241fa3b3972a8ec343a"
+      "size": 22002,
+      "sha256": "031f35a337f31fa87baa65195a3ba6875b3725621a613421a3c40a2b4b2f2c3b"
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 19451,
-      "sha256": "4616b862f2607802e47e99c3c3b8238f8d0baa0857b3d6454ca21cd0aef7ad17"
+      "size": 20140,
+      "sha256": "7eb4fd996ec4234fca4603702e1dde2740d8c382e1317307ae9d39ec9a080214"
     },
     {
       "path": "explore/smart-mobility/index.html",
-      "size": 19605,
-      "sha256": "7d1dd6dc04b63c93db97644e00b8c4b6e6ae769de9b857fa4accc73e9fa94a59"
+      "size": 21780,
+      "sha256": "5589e8846f96bf0af04d3eff374d8bebf7f544eaf34c9a8cb3f43b10b50252e6"
     },
     {
       "path": "explore/space/index.html",
-      "size": 20784,
-      "sha256": "2f6b6481e5db08cd4456a554241788559bb8447cca252bfa10eca4d090a9513a"
+      "size": 22327,
+      "sha256": "2d266124e09e3114975e9106c9832b3738b4b358b7a348d9a2f78d580b97369a"
     },
     {
       "path": "index.html",
@@ -1107,6 +1182,11 @@
       "sha256": "8efae89c3423e25f4e722100e92cda10850d7236005f9ae53b4cedba195c3781"
     },
     {
+      "path": "universe/can-a-neural-network-find-the-enzyme-that-eats-your-sneakers/index.html",
+      "size": 24842,
+      "sha256": "0c505f0ef5af7f46a2d68b76f74fd4eff9b1e593224d09ad370c200804551486"
+    },
+    {
       "path": "universe/can-you-cool-a-data-center-in-space/index.html",
       "size": 19448,
       "sha256": "2e5276cf29489cbddb23c311aeef50f56bde0a323b765701a09576fc7937377b"
@@ -1118,8 +1198,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 85742,
-      "sha256": "790b258958f32e2ad08673dac951f99915535c8b440cbc4ab9555a6c917cdf2a"
+      "size": 92872,
+      "sha256": "0b4bde53d7f1076025190b72be08418bd029430f5f15e9abc455bd0f3a095af2"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -1177,6 +1257,11 @@
       "sha256": "ff69f379421207505fe71b0b75644d581577c76895e868cc289ce38645a4cdb0"
     },
     {
+      "path": "universe/the-diamond-that-checks-the-grids-arithmetic/index.html",
+      "size": 24537,
+      "sha256": "3d6b12397e2e25c1e0dc81c311ab280adc6af54584605cc269865c8f4c74a4e7"
+    },
+    {
       "path": "universe/the-diamond-that-feels-your-heartbeat/index.html",
       "size": 24474,
       "sha256": "24d7a12984ba3a789641342d1729c54f7492d977a97d472edc1aa6e97474ee52"
@@ -1217,6 +1302,16 @@
       "sha256": "e49cc5628e5e75345b30be55981d1b6d0a516cb88f43d819048086d61cb6616e"
     },
     {
+      "path": "universe/the-lunch-break-that-refuels-a-big-rig/index.html",
+      "size": 23299,
+      "sha256": "59a6a0458e5885e9319c38395f3ecb29d5eafdbd7999640e1f895f70ccf63315"
+    },
+    {
+      "path": "universe/the-metal-that-keeps-its-nerve-at-minus-253/index.html",
+      "size": 24390,
+      "sha256": "758d091d5217e6c8b95864d698a0bc80faa9acc4c56b313986c55b4995158664"
+    },
+    {
       "path": "universe/the-molecule-that-sorts-electrons-by-spin/index.html",
       "size": 23398,
       "sha256": "7418f215ca89f3454d6edffea1e71666cff62e0fb33c10fc5b71eef15c362bc8"
@@ -1253,8 +1348,8 @@
     },
     {
       "path": "universe/the-rescue-that-ran-out-of-sky/index.html",
-      "size": 25220,
-      "sha256": "facba14bd076095bf479eb7930a4c85950bbef27f52f8cb43a57e912038b096c"
+      "size": 25404,
+      "sha256": "b42677a0d3b82b548eca1b3afd74ecc4e42e4466d2d7c4cf23c9cac5a74e1bef"
     },
     {
       "path": "universe/the-robot-in-the-next-aisle/index.html",
@@ -1280,6 +1375,11 @@
       "path": "universe/the-solar-cell-that-gave-up-germanium/index.html",
       "size": 22226,
       "sha256": "3742a680d6f96f256d445c492a7db4702d9ca87fdf4d5fed66d69b4b5c86465f"
+    },
+    {
+      "path": "universe/the-spacesuit-swatches-that-waited-on-mars/index.html",
+      "size": 22870,
+      "sha256": "499dc53df90cebf5157c66cd287c8ae6b0f4917d20ccde4015834bfac656dbea"
     },
     {
       "path": "universe/the-swimmer-grown-in-a-dish/index.html",
@@ -1497,7 +1597,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "62fc66423ed6e5d0d55b17a6bfde56f6a0b74fe9dd63294651b13862deb908c8"
+      "sha256": "5527dadc458847dd8c54c45248c6fc4441c8fd6b790953051e0d26b51cf9b214"
     },
     {
       "path": "tools/recovery-kit.mjs",

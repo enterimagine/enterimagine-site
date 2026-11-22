@@ -50,7 +50,9 @@ const verifiedByHand = new Map([
   ['https://www.nippon.com/en/news/yjj2026042100297/', '2026-11-09'],
   ['https://www.nippon.com/en/news/yjj2026100200125/', '2026-11-09'],
   ['https://new.abb.com/news/detail/128070/abb-and-cosmic-use-ai-powered-robots-to-rebuild-homes-in-los-angeles-area', '2026-11-20'],
-  ['https://wis-wander.weizmann.ac.il/node/8073', '2026-11-21']
+  ['https://wis-wander.weizmann.ac.il/node/8073', '2026-11-21'],
+  ['https://pangea.stanford.edu/ERE/pdf/IGAstandard/SGW/2025/Titov.pdf', '2026-11-22'],
+  ['https://materialssciences.lbl.gov/2026/11/03/competing-mechanisms-toughen-refractory-medium-entropy-alloys-at-20-k/', '2026-11-22']
 ]);
 const ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36';
 async function probe(url) {
