@@ -191,6 +191,22 @@
       "url": "https://enterimagine.com/universe/who-grades-the-machines-homework/",
       "scheduled_at": "2026-11-22T08:45:00+01:00",
       "typefully_draft_id": 12081316
+    },
+    {
+      "number": 25,
+      "slug": "the-diamond-that-feels-your-heartbeat",
+      "title": "The Diamond That Feels Your Heartbeat",
+      "url": "https://enterimagine.com/universe/the-diamond-that-feels-your-heartbeat/",
+      "scheduled_at": "2026-11-22T17:30:00+01:00",
+      "typefully_draft_id": 12100997
+    },
+    {
+      "number": 26,
+      "slug": "the-night-shift-on-the-solar-farm",
+      "title": "The Night Shift on the Solar Farm",
+      "url": "https://enterimagine.com/universe/the-night-shift-on-the-solar-farm/",
+      "scheduled_at": "2026-11-23T08:45:00+01:00",
+      "typefully_draft_id": 12100998
     }
   ]
 }
