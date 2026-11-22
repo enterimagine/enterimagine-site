@@ -1,0 +1,233 @@
+{
+ "id": "energy-20261122",
+ "world": "energy",
+ "guide": "Sunny",
+ "title": {
+  "en": "How does a fridge keep food cold?",
+  "fr": "Comment un frigo garde-t-il les aliments au frais ?",
+  "nl": "Hoe houdt een koelkast je eten koud?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Sunny, my juice is always cold in the fridge, even on a super hot day! How does a fridge make cold?",
+   "fr": "Sunny, mon jus est toujours bien frais dans le frigo, même quand il fait super chaud ! Comment un frigo fabrique-t-il du froid ?",
+   "nl": "Sunny, mijn sap is altijd koud in de koelkast, zelfs op een superwarme dag! Hoe maakt een koelkast kou?",
+   "img": "Whyzz holds an ice-cold juice in front of the fridge"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Here’s the secret: a fridge doesn’t make cold, it moves heat out! A special liquid flows through pipes inside and soaks up the heat from your food.",
+   "fr": "Voici le secret : un frigo ne fabrique pas de froid, il sort la chaleur ! Un liquide spécial circule dans des tuyaux à l’intérieur et absorbe la chaleur de tes aliments.",
+   "nl": "Dit is het geheim: een koelkast maakt geen kou, hij haalt warmte weg! Een speciale vloeistof stroomt door buizen binnenin en neemt de warmte van je eten op.",
+   "img": "Glowing pipes inside a fridge soak up warmth from food"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "As it soaks up heat, the liquid turns into a gas, just like sweat drying on your skin cools you down. Then a pump called a compressor squeezes the gas.",
+   "fr": "En absorbant la chaleur, le liquide devient un gaz, comme la transpiration qui sèche sur ta peau et te rafraîchit. Ensuite, une pompe appelée compresseur comprime le gaz.",
+   "nl": "Terwijl de vloeistof warmte opneemt, wordt hij een gas, zoals zweet dat opdroogt op je huid je afkoelt. Daarna perst een pomp, de compressor, het gas samen.",
+   "img": "A friendly compressor squeezes a puff of gas"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Wait, so there’s no tiny snowman inside doing all the work? I was going to bring him a scarf!",
+   "fr": "Attends, alors il n’y a pas de petit bonhomme de neige qui fait tout le travail là-dedans ? Je voulais lui apporter une écharpe !",
+   "nl": "Wacht, dus er woont geen piepklein sneeuwmannetje in dat al het werk doet? Ik wilde hem nog een sjaal brengen!",
+   "img": "Whyzz searches the fridge with a scarf"
+  },
+  {
+   "speaker": "Sunny",
+   "en": "Ha, no snowman! Did you know the back of a fridge often feels warm, because the squeezed gas lets your food’s heat out there and turns back into a liquid?",
+   "fr": "Ha, pas de bonhomme de neige ! Savais-tu que l’arrière du frigo est souvent tiède, parce que le gaz comprimé y relâche la chaleur de tes aliments et redevient liquide ?",
+   "nl": "Haha, geen sneeuwman! Wist je dat de achterkant van een koelkast vaak warm aanvoelt, omdat het samengeperste gas daar de warmte van je eten loslaat en weer vloeibaar wordt?",
+   "img": "Warm glowing waves rise from the back of the fridge"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the fridge moves heat from inside to outside, again and again, to keep my juice cold! If you designed your own fridge, what would you put inside?",
+   "fr": "Donc le frigo fait passer la chaleur de l’intérieur vers l’extérieur, encore et encore, pour garder mon jus bien frais ! Si tu inventais ton propre frigo, qu’est-ce que tu mettrais dedans ?",
+   "nl": "Dus de koelkast brengt steeds opnieuw warmte van binnen naar buiten, zodat mijn sap koud blijft! Als jij je eigen koelkast mocht ontwerpen, wat zou je erin stoppen?",
+   "img": "Whyzz and Sunny high-five with cold juice"
+  }
+ ],
+ "prompts": [
+  "In a bright sunny summer kitchen with hot sunshine streaming through the window Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge opens a big fridge door and holds up an ice-cold glass of orange juice covered in frosty drops, looking amazed, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge stands next to him fanning herself with her hand and smiling. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A magical cutaway view of a big open fridge with glowing blue pipes winding along its inside walls, soft warm red glows rise from a pizza, a bowl of fruit and a juice bottle and flow into the blue pipes, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge points at the pipes, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge peeks inside with amazed eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A magical cutaway view of the back of a fridge where a friendly round machine with a cartoon face gently squeezes a puff of blue gas like hands squeezing a sponge, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge explains with her hands pressing together, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge wipes a drop of sweat from his forehead and smiles. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright sunny summer kitchen Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge peeks into an open fridge holding a long knitted red scarf, searching for a tiny snowman among the vegetables and milk bottles, Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge laughs out loud behind him. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright sunny summer kitchen Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge and Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge hold their hands near the back of a fridge where soft warm orange glowing waves rise from coiled metal pipes, both looking surprised and delighted. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright sunny summer kitchen Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Sunny, a confident 10-year-old girl with long dark braids, wearing a purple-and-silver suit with a glowing yellow lightning-bolt badge give each other a high-five while holding cold glasses of orange juice in front of an open fridge. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What does a fridge really do?",
+    "fr": "Que fait vraiment un frigo ?",
+    "nl": "Wat doet een koelkast eigenlijk?"
+   },
+   "o": {
+    "en": [
+     "It makes snow",
+     "It moves heat out",
+     "It blows wind"
+    ],
+    "fr": [
+     "Il fabrique de la neige",
+     "Il sort la chaleur",
+     "Il fait du vent"
+    ],
+    "nl": [
+     "Hij maakt sneeuw",
+     "Hij haalt warmte weg",
+     "Hij blaast wind"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What soaks up the heat from your food?",
+    "fr": "Qu’est-ce qui absorbe la chaleur de tes aliments ?",
+    "nl": "Wat neemt de warmte van je eten op?"
+   },
+   "o": {
+    "en": [
+     "A special liquid in pipes",
+     "A sponge",
+     "Ice cream"
+    ],
+    "fr": [
+     "Un liquide spécial dans des tuyaux",
+     "Une éponge",
+     "De la glace"
+    ],
+    "nl": [
+     "Een speciale vloeistof in buizen",
+     "Een spons",
+     "IJs"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Turning into a gas cools things down, just like…",
+    "fr": "Se transformer en gaz rafraîchit, comme…",
+    "nl": "Een gas worden koelt af, net zoals…"
+   },
+   "o": {
+    "en": [
+     "Rain falling",
+     "A balloon popping",
+     "Sweat drying on your skin"
+    ],
+    "fr": [
+     "La pluie qui tombe",
+     "Un ballon qui éclate",
+     "La transpiration qui sèche sur ta peau"
+    ],
+    "nl": [
+     "Regen die valt",
+     "Een ballon die knapt",
+     "Zweet dat opdroogt op je huid"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What is the pump that squeezes the gas called?",
+    "fr": "Comment s’appelle la pompe qui comprime le gaz ?",
+    "nl": "Hoe heet de pomp die het gas samenperst?"
+   },
+   "o": {
+    "en": [
+     "A compressor",
+     "A blender",
+     "A snowman"
+    ],
+    "fr": [
+     "Un compresseur",
+     "Un mixeur",
+     "Un bonhomme de neige"
+    ],
+    "nl": [
+     "Een compressor",
+     "Een blender",
+     "Een sneeuwman"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Why does the back of a fridge often feel warm?",
+    "fr": "Pourquoi l’arrière du frigo est-il souvent tiède ?",
+    "nl": "Waarom voelt de achterkant van een koelkast vaak warm aan?"
+   },
+   "o": {
+    "en": [
+     "A lamp is always on",
+     "The heat from your food goes out there",
+     "The fridge has a fever"
+    ],
+    "fr": [
+     "Une lampe est toujours allumée",
+     "La chaleur de tes aliments sort par là",
+     "Le frigo a de la fièvre"
+    ],
+    "nl": [
+     "Er brandt altijd een lamp",
+     "De warmte van je eten gaat daar naar buiten",
+     "De koelkast heeft koorts"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "Help the fridge move heat",
+   "fr": "Aide le frigo à sortir la chaleur",
+   "nl": "Help de koelkast warmte wegbrengen"
+  },
+  "intro": {
+   "en": "Put the steps in the right order!",
+   "fr": "Remets les étapes dans le bon ordre !",
+   "nl": "Zet de stappen in de goede volgorde!"
+  },
+  "done": {
+   "en": "Brrr! Your juice is nice and cold.",
+   "fr": "Brrr ! Ton jus est bien frais.",
+   "nl": "Brrr! Je sap is lekker koud."
+  },
+  "items": {
+   "en": [
+    "The liquid flows through pipes inside the fridge",
+    "It soaks up heat from your food",
+    "It turns into a gas",
+    "The compressor squeezes the gas",
+    "The gas lets the heat out at the back",
+    "It turns back into a liquid"
+   ],
+   "fr": [
+    "Le liquide circule dans les tuyaux du frigo",
+    "Il absorbe la chaleur des aliments",
+    "Il devient un gaz",
+    "Le compresseur comprime le gaz",
+    "Le gaz relâche la chaleur à l’arrière",
+    "Il redevient liquide"
+   ],
+   "nl": [
+    "De vloeistof stroomt door de buizen in de koelkast",
+    "Hij neemt de warmte van je eten op",
+    "Hij wordt een gas",
+    "De compressor perst het gas samen",
+    "Het gas laat de warmte los aan de achterkant",
+    "Hij wordt weer vloeibaar"
+   ]
+  }
+ }
+}

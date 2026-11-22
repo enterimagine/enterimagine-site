@@ -1,0 +1,241 @@
+{
+ "id": "bloom-20261122",
+ "world": "bloom",
+ "guide": "Bloom",
+ "title": {
+  "en": "Why do apple slices turn brown?",
+  "fr": "Pourquoi les tranches de pomme brunissent-elles ?",
+  "nl": "Waarom worden appelpartjes bruin?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Bloom, I cut an apple for my snack, but after a while the slices turned brown! Did my apple go bad?",
+   "fr": "Bloom, j’ai coupé une pomme pour mon goûter, mais après un moment, les tranches sont devenues brunes ! Ma pomme est pourrie ?",
+   "nl": "Bloom, ik sneed een appel voor mijn tussendoortje, maar na een tijdje werden de partjes bruin! Is mijn appel bedorven?",
+   "img": "Whyzz holds a plate of brown apple slices at a picnic"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Not at all, it’s still safe to eat! When you cut an apple, you break open tiny cells and little helpers inside them called enzymes meet the air.",
+   "fr": "Pas du tout, tu peux encore la manger ! Quand tu coupes une pomme, tu ouvres de minuscules cellules, et des petits assistants appelés enzymes rencontrent l’air.",
+   "nl": "Helemaal niet, je kunt hem nog gewoon eten! Als je een appel snijdt, maak je piepkleine cellen open, en kleine helpers daarin, enzymen, komen in contact met de lucht.",
+   "img": "Tiny cells open inside an apple and little helpers float out"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "The enzymes use oxygen from the air to turn some natural stuff in the apple brown. It’s a bit like the apple getting a tan!",
+   "fr": "Les enzymes utilisent l’oxygène de l’air pour faire brunir certaines substances de la pomme. C’est un peu comme si la pomme bronzait !",
+   "nl": "De enzymen gebruiken zuurstof uit de lucht om bepaalde stofjes in de appel bruin te kleuren. Het is een beetje alsof de appel een kleurtje krijgt!",
+   "img": "An apple slice sunbathes and turns golden brown"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Then I’ll give my apple tiny sunglasses and sunscreen! No more tan for you, apple!",
+   "fr": "Alors je vais donner à ma pomme des petites lunettes de soleil et de la crème solaire ! Fini le bronzage, la pomme !",
+   "nl": "Dan geef ik mijn appel een piepklein zonnebrilletje en zonnebrandcrème! Geen kleurtje meer voor jou, appel!",
+   "img": "Whyzz puts tiny sunglasses on an apple slice"
+  },
+  {
+   "speaker": "Bloom",
+   "en": "Ha, a few drops of lemon juice work better, because the sour juice slows the enzymes down! Did you know bananas and avocados turn brown for the very same reason?",
+   "fr": "Ha, quelques gouttes de jus de citron marchent mieux, car le jus acide ralentit les enzymes ! Savais-tu que les bananes et les avocats brunissent pour la même raison ?",
+   "nl": "Haha, een paar druppels citroensap werken beter, want het zure sap remt de enzymen af! Wist je dat bananen en avocado’s om precies dezelfde reden bruin worden?",
+   "img": "Bloom squeezes lemon on apple slices next to a banana and an avocado"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So cutting lets the air in, enzymes make the brown color and lemon juice slows them down! How would you keep your apple slices fresh?",
+   "fr": "Donc couper laisse entrer l’air, les enzymes fabriquent la couleur brune et le jus de citron les ralentit ! Comment garderais-tu tes tranches de pomme bien fraîches ?",
+   "nl": "Dus door te snijden komt er lucht bij, maken enzymen de bruine kleur en remt citroensap ze af! Hoe zou jij je appelpartjes vers houden?",
+   "img": "Whyzz and Bloom high-five over fresh apple slices"
+  }
+ ],
+ "prompts": [
+  "At a sunny picnic in a green garden Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds up a plate of apple slices that have turned brown and looks puzzled, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge sits on a red-and-white checkered picnic blanket next to a basket of shiny red apples and smiles. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A magical glowing zoomed-in view inside a juicy apple slice where tiny round bubble-like cells break open and little friendly glowing orange helper blobs with happy faces float out into the air, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge explains with an open hand, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge peeks in with amazed eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "At a sunny picnic in a green garden a cute cartoon apple slice with a happy face lies on a plate like it is sunbathing and slowly turns golden brown, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge points at it with a grin, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge laughs. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "At a sunny picnic in a green garden Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge carefully puts tiny sunglasses on an apple slice and dabs it with white sunscreen with a silly serious face, Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge laughs out loud. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "At a sunny picnic in a green garden Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge squeezes half a yellow lemon over fresh white apple slices, next to a brown-spotted banana and a cut-open avocado on the blanket, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with wide surprised eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "At a sunny picnic in a green garden Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Bloom, a friendly 10-year-old boy with brown hair and round glasses, wearing a green explorer jacket with a glowing green DNA badge give each other a high-five over a plate of fresh bright apple slices and lemon halves. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Is a brown apple slice still safe to eat?",
+    "fr": "Une tranche de pomme brune se mange-t-elle encore ?",
+    "nl": "Kun je een bruin appelpartje nog eten?"
+   },
+   "o": {
+    "en": [
+     "No, never",
+     "Yes, it is",
+     "Only birds can eat it"
+    ],
+    "fr": [
+     "Non, jamais",
+     "Oui",
+     "Seulement les oiseaux"
+    ],
+    "nl": [
+     "Nee, nooit",
+     "Ja, gewoon",
+     "Alleen vogels mogen het eten"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What do you break open when you cut an apple?",
+    "fr": "Qu’est-ce que tu ouvres quand tu coupes une pomme ?",
+    "nl": "Wat maak je open als je een appel snijdt?"
+   },
+   "o": {
+    "en": [
+     "Tiny cells",
+     "Tiny eggs",
+     "Tiny balloons"
+    ],
+    "fr": [
+     "De minuscules cellules",
+     "De minuscules œufs",
+     "De minuscules ballons"
+    ],
+    "nl": [
+     "Piepkleine cellen",
+     "Piepkleine eitjes",
+     "Piepkleine ballonnetjes"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What do the enzymes use from the air?",
+    "fr": "Qu’est-ce que les enzymes utilisent dans l’air ?",
+    "nl": "Wat gebruiken de enzymen uit de lucht?"
+   },
+   "o": {
+    "en": [
+     "Rain",
+     "Dust",
+     "Oxygen"
+    ],
+    "fr": [
+     "La pluie",
+     "La poussière",
+     "L’oxygène"
+    ],
+    "nl": [
+     "Regen",
+     "Stof",
+     "Zuurstof"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What slows the enzymes down?",
+    "fr": "Qu’est-ce qui ralentit les enzymes ?",
+    "nl": "Wat remt de enzymen af?"
+   },
+   "o": {
+    "en": [
+     "Tiny sunglasses",
+     "A few drops of lemon juice",
+     "Sugar sprinkles"
+    ],
+    "fr": [
+     "Des petites lunettes de soleil",
+     "Quelques gouttes de jus de citron",
+     "Des vermicelles en sucre"
+    ],
+    "nl": [
+     "Een piepklein zonnebrilletje",
+     "Een paar druppels citroensap",
+     "Suikerhagel"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Which fruits turn brown for the same reason?",
+    "fr": "Quels fruits brunissent pour la même raison ?",
+    "nl": "Welke vruchten worden om dezelfde reden bruin?"
+   },
+   "o": {
+    "en": [
+     "Plastic toy fruits",
+     "Ice cubes",
+     "Bananas and avocados"
+    ],
+    "fr": [
+     "Des fruits en plastique",
+     "Des glaçons",
+     "Les bananes et les avocats"
+    ],
+    "nl": [
+     "Plastic speelgoedfruit",
+     "IJsblokjes",
+     "Bananen en avocado’s"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "pick",
+  "title": {
+   "en": "Keep the apple fresh",
+   "fr": "Garde la pomme bien fraîche",
+   "nl": "Houd de appel vers"
+  },
+  "intro": {
+   "en": "Pick all the tricks that keep apple slices from turning brown!",
+   "fr": "Choisis toutes les astuces qui empêchent les tranches de pomme de brunir !",
+   "nl": "Kies alle trucjes die ervoor zorgen dat appelpartjes niet bruin worden!"
+  },
+  "done": {
+   "en": "Yum! Your apple slices stay fresh and bright.",
+   "fr": "Miam ! Tes tranches de pomme restent bien claires.",
+   "nl": "Lekker! Je appelpartjes blijven mooi licht."
+  },
+  "items": {
+   "en": [
+    "Squeeze lemon juice on them",
+    "Put them in the fridge",
+    "Leave them in the warm sun",
+    "Cover them with cold water",
+    "Give them tiny sunglasses",
+    "Cut them into tiny pieces",
+    "Blow air on them"
+   ],
+   "fr": [
+    "Mettre du jus de citron dessus",
+    "Les mettre au frigo",
+    "Les laisser au soleil",
+    "Les plonger dans de l’eau froide",
+    "Leur mettre des lunettes de soleil",
+    "Les couper en tout petits morceaux",
+    "Souffler de l’air dessus"
+   ],
+   "nl": [
+    "Er citroensap over doen",
+    "Ze in de koelkast leggen",
+    "Ze in de warme zon laten liggen",
+    "Ze onder koud water leggen",
+    "Ze een zonnebrilletje opzetten",
+    "Ze in piepkleine stukjes snijden",
+    "Er lucht op blazen"
+   ]
+  },
+  "good": [
+   0,
+   1,
+   3
+  ]
+ }
+}

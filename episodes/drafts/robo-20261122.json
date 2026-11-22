@@ -1,0 +1,247 @@
+{
+ "id": "robo-20261122",
+ "world": "robo",
+ "guide": "Pixel",
+ "title": {
+  "en": "How does a robot mower know where to mow?",
+  "fr": "Comment un robot tondeuse sait-il où tondre ?",
+  "nl": "Hoe weet een robotmaaier waar hij moet maaien?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, our neighbor’s lawn mower drives all by itself! How does it know where the grass ends and the flowers begin?",
+   "fr": "Pixel, la tondeuse de nos voisins roule toute seule ! Comment sait-elle où s’arrête l’herbe et où commencent les fleurs ?",
+   "nl": "Pixel, de grasmaaier van de buren rijdt helemaal zelf! Hoe weet hij waar het gras ophoudt en de bloemen beginnen?",
+   "img": "Whyzz points at a robot mower over a fence"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Many robot mowers use a thin wire hidden around the edge of the lawn. When the mower feels the wire’s signal, it turns around like at an invisible fence!",
+   "fr": "Beaucoup de robots tondeuses utilisent un fil fin caché tout autour de la pelouse. Le fil envoie un signal, et quand la tondeuse le sent, elle fait demi-tour, comme devant une clôture invisible !",
+   "nl": "Veel robotmaaiers gebruiken een dunne draad die rond het gazon verstopt zit. Die draad zendt een signaal uit, en als de maaier het voelt, draait hij om, als bij een onzichtbaar hek!",
+   "img": "A glowing line at the lawn edge makes the mower turn"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "If it bumps into a tree, a bump sensor tells it to back up and try a new direction. It mows a little bit every day, so the grass stays short and neat.",
+   "fr": "S’il touche un arbre, un capteur de choc lui dit de reculer et de changer de direction. Il tond un petit peu chaque jour, alors l’herbe reste courte et bien nette.",
+   "nl": "Als hij tegen een boom botst, zegt een botssensor dat hij achteruit moet en een andere kant op moet gaan. Hij maait elke dag een klein beetje, zodat het gras kort en netjes blijft.",
+   "img": "The mower bumps gently into a tree and turns"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "Cool, can I ride on it like a tiny race car? Vroom vroom, mowing champion!",
+   "fr": "Trop cool, je peux monter dessus comme sur une petite voiture de course ? Vroum vroum, champion de la tonte !",
+   "nl": "Cool, mag ik erop rijden als een mini-raceauto? Vroem vroem, maaikampioen!",
+   "img": "Whyzz pretends to be a race car driver"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, no riding, it’s a mower, not a race car! Did you know the tiny clippings stay on the lawn and feed the grass, like a little snack for the soil?",
+   "fr": "Ha, on ne monte pas dessus, c’est une tondeuse, pas une voiture de course ! Savais-tu que les petits brins coupés restent sur la pelouse et nourrissent l’herbe, comme un petit goûter pour le sol ?",
+   "nl": "Haha, niet op rijden, het is een maaier en geen raceauto! Wist je dat de piepkleine grassnippers op het gazon blijven liggen en het gras voeden, als een snackje voor de bodem?",
+   "img": "Tiny grass clippings feed happy roots in the soil"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the robot mower feels the hidden wire, turns at trees and drives back to its station to charge! What other garden job would you give to a robot?",
+   "fr": "Donc le robot tondeuse sent le fil caché, tourne devant les arbres et retourne à sa station pour se recharger ! Quel autre travail du jardin donnerais-tu à un robot ?",
+   "nl": "Dus de robotmaaier voelt de verstopte draad, draait bij bomen en rijdt terug naar zijn station om op te laden! Welk ander tuinklusje zou jij aan een robot geven?",
+   "img": "Whyzz and Pixel high-five as the mower parks in its station"
+  }
+ ],
+ "prompts": [
+  "In a sunny backyard garden with a green lawn and colorful flower beds a small friendly round green robot lawn mower with big round headlight eyes drives across the grass by itself, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge leans over a low wooden fence and points at it in surprise, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge stands next to him and smiles. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a sunny backyard garden a thin glowing blue line runs along the edge of the lawn just under the grass like an invisible fence, a small friendly round green robot lawn mower with big round headlight eyes turns around right at the glowing line, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge kneels and points at the line, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a sunny backyard garden a small friendly round green robot lawn mower with big round headlight eyes gently bumps into a big apple tree and backs away with a surprised face, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge explains with a raised finger, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge giggles. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a sunny backyard garden Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge pretends to be a race car driver with racing goggles and a big grin, crouching behind a small friendly round green robot lawn mower with big round headlight eyes, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs and wags her finger playfully. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "A cheerful close-up of a green lawn where tiny grass clippings fall into the soil and cute smiling cartoon roots below the ground happily munch them, a small friendly round green robot lawn mower with big round headlight eyes rolls by, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge kneels and smiles, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks closely through a magnifying glass. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a sunny backyard garden at golden sunset a small friendly round green robot lawn mower with big round headlight eyes parks in its little charging house, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge give each other a big high-five on the neat striped lawn. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "What do many robot mowers use around the lawn?",
+    "fr": "Qu’est-ce que beaucoup de robots tondeuses utilisent autour de la pelouse ?",
+    "nl": "Wat gebruiken veel robotmaaiers rond het gazon?"
+   },
+   "o": {
+    "en": [
+     "A trail of crumbs",
+     "A thin hidden wire",
+     "A row of birds"
+    ],
+    "fr": [
+     "Une traînée de miettes",
+     "Un fil fin caché",
+     "Une rangée d’oiseaux"
+    ],
+    "nl": [
+     "Een spoor van kruimels",
+     "Een dunne verstopte draad",
+     "Een rij vogels"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What does the mower do when it feels the wire’s signal?",
+    "fr": "Que fait la tondeuse quand elle sent le signal du fil ?",
+    "nl": "Wat doet de maaier als hij het signaal van de draad voelt?"
+   },
+   "o": {
+    "en": [
+     "It turns around",
+     "It sings a song",
+     "It goes faster"
+    ],
+    "fr": [
+     "Elle fait demi-tour",
+     "Elle chante une chanson",
+     "Elle accélère"
+    ],
+    "nl": [
+     "Hij draait om",
+     "Hij zingt een liedje",
+     "Hij gaat sneller"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What tells the mower it bumped into a tree?",
+    "fr": "Qu’est-ce qui dit à la tondeuse qu’elle a touché un arbre ?",
+    "nl": "Wat vertelt de maaier dat hij tegen een boom botst?"
+   },
+   "o": {
+    "en": [
+     "A rain cloud",
+     "A loud whistle",
+     "A bump sensor"
+    ],
+    "fr": [
+     "Un nuage de pluie",
+     "Un grand coup de sifflet",
+     "Un capteur de choc"
+    ],
+    "nl": [
+     "Een regenwolk",
+     "Een luid fluitje",
+     "Een botssensor"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Why does the grass stay short and neat?",
+    "fr": "Pourquoi l’herbe reste-t-elle courte et nette ?",
+    "nl": "Waarom blijft het gras kort en netjes?"
+   },
+   "o": {
+    "en": [
+     "It mows a little bit every day",
+     "The grass is made of plastic",
+     "Rabbits eat it all"
+    ],
+    "fr": [
+     "Il tond un petit peu chaque jour",
+     "L’herbe est en plastique",
+     "Les lapins la mangent"
+    ],
+    "nl": [
+     "Hij maait elke dag een klein beetje",
+     "Het gras is van plastic",
+     "Konijnen eten alles op"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What happens to the tiny clippings?",
+    "fr": "Que deviennent les petits brins coupés ?",
+    "nl": "Wat gebeurt er met de piepkleine grassnippers?"
+   },
+   "o": {
+    "en": [
+     "They fly to the Moon",
+     "They stay on the lawn and feed the grass",
+     "The robot eats them"
+    ],
+    "fr": [
+     "Ils s’envolent vers la Lune",
+     "Ils restent sur la pelouse et nourrissent l’herbe",
+     "Le robot les mange"
+    ],
+    "nl": [
+     "Ze vliegen naar de maan",
+     "Ze blijven op het gazon liggen en voeden het gras",
+     "De robot eet ze op"
+    ]
+   },
+   "ok": 1
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Robot mower match",
+   "fr": "Les pièces du robot tondeuse",
+   "nl": "Robotmaaier-match"
+  },
+  "intro": {
+   "en": "Match each part with its job!",
+   "fr": "Relie chaque pièce à son travail !",
+   "nl": "Koppel elk onderdeel aan zijn taak!"
+  },
+  "done": {
+   "en": "Great job! The lawn looks perfect.",
+   "fr": "Bravo ! La pelouse est parfaite.",
+   "nl": "Goed gedaan! Het gazon ziet er perfect uit."
+  },
+  "left": {
+   "en": [
+    "Hidden wire",
+    "Bump sensor",
+    "Spinning blades",
+    "Charging station"
+   ],
+   "fr": [
+    "Le fil caché",
+    "Le capteur de choc",
+    "Les lames qui tournent",
+    "La station de recharge"
+   ],
+   "nl": [
+    "De verstopte draad",
+    "De botssensor",
+    "De draaiende messen",
+    "Het laadstation"
+   ]
+  },
+  "right": {
+   "en": [
+    "Shows where the lawn ends",
+    "Tells it that it hit something",
+    "Cut the grass",
+    "Fills up its battery"
+   ],
+   "fr": [
+    "Montre où s’arrête la pelouse",
+    "Lui dit qu’il a touché quelque chose",
+    "Coupent l’herbe",
+    "Recharge sa batterie"
+   ],
+   "nl": [
+    "Toont waar het gazon ophoudt",
+    "Zegt dat hij ergens tegenaan botst",
+    "Maaien het gras",
+    "Laadt zijn batterij op"
+   ]
+  }
+ }
+}

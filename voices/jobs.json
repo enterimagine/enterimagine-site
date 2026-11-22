@@ -8746,5 +8746,545 @@
   "voice": "nl-BE-ArnaudNeural",
   "pitch": "+12%",
   "text": "Dus uitvinders testen, veranderen één ding en testen opnieuw tot het werkt! Wat zou jij als eerste veranderen zodat jouw vliegtuigje verder vliegt?"
+ },
+ {
+  "id": "pixel-20261122-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, my tablet sorted my photos and put all the cat pictures together! How does a computer know what a cat looks like?"
+ },
+ {
+  "id": "pixel-20261122-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, ma tablette a trié mes photos et a rangé toutes les photos de chats ensemble ! Comment un ordinateur sait-il à quoi ressemble un chat ?"
+ },
+ {
+  "id": "pixel-20261122-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, mijn tablet heeft mijn foto’s gesorteerd en alle kattenfoto’s bij elkaar gezet! Hoe weet een computer hoe een kat eruitziet?"
+ },
+ {
+  "id": "pixel-20261122-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Nobody writes down a rule for it! People show it thousands of photos labeled “cat” or “dog” to study, just like you learned with picture books."
+ },
+ {
+  "id": "pixel-20261122-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Personne ne lui écrit de règle ! On lui montre des milliers de photos avec une étiquette, comme « chat » ou « chien », et il les étudie, comme toi avec tes imagiers."
+ },
+ {
+  "id": "pixel-20261122-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Niemand schrijft een regel voor hem op! Mensen laten hem duizenden foto’s met een label zoals ‘kat’ of ‘hond’ zien, en hij bestudeert ze, net zoals jij leerde met prentenboeken."
+ },
+ {
+  "id": "pixel-20261122-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Bit by bit, it spots patterns: pointy ears, whiskers, a long snout or a wagging tail. Then it can make a guess, even about a photo it has never seen!"
+ },
+ {
+  "id": "pixel-20261122-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Petit à petit, il repère des indices : des oreilles pointues, des moustaches, un long museau ou une queue qui remue. Ensuite, il peut deviner, même avec une photo qu’il n’a jamais vue !"
+ },
+ {
+  "id": "pixel-20261122-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Beetje bij beetje ziet hij patronen: puntige oren, snorharen, een lange snuit of een kwispelende staart. Daarna kan hij raden, zelfs bij een foto die hij nog nooit heeft gezien!"
+ },
+ {
+  "id": "pixel-20261122-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So if I wear cat ears and draw whiskers on my face, will the computer think I’m a cat? Meow!"
+ },
+ {
+  "id": "pixel-20261122-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Alors si je mets des oreilles de chat et que je me dessine des moustaches, l’ordinateur va croire que je suis un chat ? Miaou !"
+ },
+ {
+  "id": "pixel-20261122-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus als ik kattenoren opzet en snorharen op mijn gezicht teken, denkt de computer dan dat ik een kat ben? Miauw!"
+ },
+ {
+  "id": "pixel-20261122-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, it might be fooled for a second! Did you know a computer can mix up a tiny brown dog and a blueberry muffin, because from far away they look alike?"
+ },
+ {
+  "id": "pixel-20261122-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, il pourrait se tromper une seconde ! Savais-tu qu’un ordinateur peut confondre un petit chien brun et un muffin aux myrtilles, parce que de loin, ils se ressemblent ?"
+ },
+ {
+  "id": "pixel-20261122-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, hij kan zich even vergissen! Wist je dat een computer een klein bruin hondje kan verwarren met een bosbessenmuffin, omdat ze er van ver op elkaar lijken?"
+ },
+ {
+  "id": "pixel-20261122-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the computer learns from lots of examples, finds patterns and gets better when people correct its mistakes! What would you teach a computer to recognize?"
+ },
+ {
+  "id": "pixel-20261122-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc l’ordinateur apprend avec plein d’exemples, repère des indices et s’améliore quand on corrige ses erreurs ! Qu’est-ce que tu apprendrais à reconnaître à un ordinateur ?"
+ },
+ {
+  "id": "pixel-20261122-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de computer leert van heel veel voorbeelden, vindt patronen en wordt beter als mensen zijn fouten aanwijzen! Wat zou jij een computer leren herkennen?"
+ },
+ {
+  "id": "qubi-20261122-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Qubi, my drawing sticks to the fridge with a magnet, but the magnet won’t stick to the wooden door! Why does a magnet only stick to some things?"
+ },
+ {
+  "id": "qubi-20261122-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Qubi, mon dessin tient sur le frigo grâce à un aimant, mais l’aimant ne colle pas à la porte en bois ! Pourquoi un aimant ne colle-t-il qu’à certaines choses ?"
+ },
+ {
+  "id": "qubi-20261122-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Qubi, mijn tekening hangt met een magneet aan de koelkast, maar op de houten deur blijft de magneet niet plakken! Waarom plakt een magneet maar aan sommige dingen?"
+ },
+ {
+  "id": "qubi-20261122-en-2",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "It starts with electrons, tiny bits inside every atom. Each electron acts like a super tiny magnet, because of a quantum property called spin!"
+ },
+ {
+  "id": "qubi-20261122-fr-2",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Tout commence avec les électrons, de minuscules particules dans chaque atome. Chaque électron agit comme un tout petit aimant, grâce à une propriété quantique appelée le spin !"
+ },
+ {
+  "id": "qubi-20261122-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Het begint bij elektronen, piepkleine deeltjes in elk atoom. Elk elektron werkt als een superklein magneetje, door een quantumeigenschap die spin heet!"
+ },
+ {
+  "id": "qubi-20261122-en-3",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "In most things, the tiny magnets point every which way and cancel out. But in iron, lots of them line up together, like a whole class facing the same way!"
+ },
+ {
+  "id": "qubi-20261122-fr-3",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Dans la plupart des matières, ces petits aimants pointent dans tous les sens et s’annulent. Mais dans le fer, plein d’entre eux s’alignent, comme toute une classe tournée du même côté !"
+ },
+ {
+  "id": "qubi-20261122-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "In de meeste stoffen wijzen die mini-magneetjes alle kanten op en heffen ze elkaar op. Maar in ijzer gaan er heel veel samen dezelfde kant op wijzen, zoals een hele klas die dezelfde kant op kijkt!"
+ },
+ {
+  "id": "qubi-20261122-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So if I eat lots of spinach full of iron, will I stick to the fridge too? I’ll be Magnet Boy!"
+ },
+ {
+  "id": "qubi-20261122-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Alors si je mange plein d’épinards pleins de fer, je vais coller au frigo moi aussi ? Je serai Super Aimant !"
+ },
+ {
+  "id": "qubi-20261122-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus als ik heel veel spinazie vol ijzer eet, blijf ik dan ook aan de koelkast plakken? Dan word ik Magneetjongen!"
+ },
+ {
+  "id": "qubi-20261122-en-5",
+  "voice": "en-US-BrianNeural",
+  "pitch": "+10%",
+  "text": "Ha, no, the iron in your body is hidden inside tiny molecules, so it can’t line up! Did you know Earth is a giant magnet, which is why a compass needle points north?"
+ },
+ {
+  "id": "qubi-20261122-fr-5",
+  "voice": "fr-FR-HenriNeural",
+  "pitch": "+10%",
+  "text": "Ha, non, le fer dans ton corps est caché dans de minuscules molécules, alors il ne peut pas s’aligner ! Savais-tu que la Terre est un aimant géant, et que c’est pour ça que l’aiguille d’une boussole indique le nord ?"
+ },
+ {
+  "id": "qubi-20261122-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+10%",
+  "text": "Haha, nee, het ijzer in je lichaam zit verstopt in piepkleine moleculen, dus het kan niet op één lijn gaan staan! Wist je dat de aarde een reuzenmagneet is, en dat een kompasnaald daarom naar het noorden wijst?"
+ },
+ {
+  "id": "qubi-20261122-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So tiny electron magnets line up in iron and hold my drawing on the fridge! What would you stick to your fridge with a magnet?"
+ },
+ {
+  "id": "qubi-20261122-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc de minuscules aimants, les électrons, s’alignent dans le fer et tiennent mon dessin sur le frigo ! Qu’est-ce que tu accrocherais sur ton frigo avec un aimant ?"
+ },
+ {
+  "id": "qubi-20261122-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus piepkleine elektronmagneetjes gaan in het ijzer op één lijn staan en houden mijn tekening op de koelkast! Wat zou jij met een magneet op je koelkast hangen?"
+ },
+ {
+  "id": "bloom-20261122-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Bloom, I cut an apple for my snack, but after a while the slices turned brown! Did my apple go bad?"
+ },
+ {
+  "id": "bloom-20261122-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Bloom, j’ai coupé une pomme pour mon goûter, mais après un moment, les tranches sont devenues brunes ! Ma pomme est pourrie ?"
+ },
+ {
+  "id": "bloom-20261122-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Bloom, ik sneed een appel voor mijn tussendoortje, maar na een tijdje werden de partjes bruin! Is mijn appel bedorven?"
+ },
+ {
+  "id": "bloom-20261122-en-2",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Not at all, it’s still safe to eat! When you cut an apple, you break open tiny cells and little helpers inside them called enzymes meet the air."
+ },
+ {
+  "id": "bloom-20261122-fr-2",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Pas du tout, tu peux encore la manger ! Quand tu coupes une pomme, tu ouvres de minuscules cellules, et des petits assistants appelés enzymes rencontrent l’air."
+ },
+ {
+  "id": "bloom-20261122-nl-2",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Helemaal niet, je kunt hem nog gewoon eten! Als je een appel snijdt, maak je piepkleine cellen open, en kleine helpers daarin, enzymen, komen in contact met de lucht."
+ },
+ {
+  "id": "bloom-20261122-en-3",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "The enzymes use oxygen from the air to turn some natural stuff in the apple brown. It’s a bit like the apple getting a tan!"
+ },
+ {
+  "id": "bloom-20261122-fr-3",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Les enzymes utilisent l’oxygène de l’air pour faire brunir certaines substances de la pomme. C’est un peu comme si la pomme bronzait !"
+ },
+ {
+  "id": "bloom-20261122-nl-3",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "De enzymen gebruiken zuurstof uit de lucht om bepaalde stofjes in de appel bruin te kleuren. Het is een beetje alsof de appel een kleurtje krijgt!"
+ },
+ {
+  "id": "bloom-20261122-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Then I’ll give my apple tiny sunglasses and sunscreen! No more tan for you, apple!"
+ },
+ {
+  "id": "bloom-20261122-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Alors je vais donner à ma pomme des petites lunettes de soleil et de la crème solaire ! Fini le bronzage, la pomme !"
+ },
+ {
+  "id": "bloom-20261122-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dan geef ik mijn appel een piepklein zonnebrilletje en zonnebrandcrème! Geen kleurtje meer voor jou, appel!"
+ },
+ {
+  "id": "bloom-20261122-en-5",
+  "voice": "en-US-ChristopherNeural",
+  "pitch": "+12%",
+  "text": "Ha, a few drops of lemon juice work better, because the sour juice slows the enzymes down! Did you know bananas and avocados turn brown for the very same reason?"
+ },
+ {
+  "id": "bloom-20261122-fr-5",
+  "voice": "fr-FR-AlainNeural",
+  "pitch": "+12%",
+  "text": "Ha, quelques gouttes de jus de citron marchent mieux, car le jus acide ralentit les enzymes ! Savais-tu que les bananes et les avocats brunissent pour la même raison ?"
+ },
+ {
+  "id": "bloom-20261122-nl-5",
+  "voice": "nl-NL-MaartenNeural",
+  "pitch": "+18%",
+  "text": "Haha, een paar druppels citroensap werken beter, want het zure sap remt de enzymen af! Wist je dat bananen en avocado’s om precies dezelfde reden bruin worden?"
+ },
+ {
+  "id": "bloom-20261122-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So cutting lets the air in, enzymes make the brown color and lemon juice slows them down! How would you keep your apple slices fresh?"
+ },
+ {
+  "id": "bloom-20261122-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc couper laisse entrer l’air, les enzymes fabriquent la couleur brune et le jus de citron les ralentit ! Comment garderais-tu tes tranches de pomme bien fraîches ?"
+ },
+ {
+  "id": "bloom-20261122-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus door te snijden komt er lucht bij, maken enzymen de bruine kleur en remt citroensap ze af! Hoe zou jij je appelpartjes vers houden?"
+ },
+ {
+  "id": "robo-20261122-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Pixel, our neighbor’s lawn mower drives all by itself! How does it know where the grass ends and the flowers begin?"
+ },
+ {
+  "id": "robo-20261122-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Pixel, la tondeuse de nos voisins roule toute seule ! Comment sait-elle où s’arrête l’herbe et où commencent les fleurs ?"
+ },
+ {
+  "id": "robo-20261122-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Pixel, de grasmaaier van de buren rijdt helemaal zelf! Hoe weet hij waar het gras ophoudt en de bloemen beginnen?"
+ },
+ {
+  "id": "robo-20261122-en-2",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Many robot mowers use a thin wire hidden around the edge of the lawn. When the mower feels the wire’s signal, it turns around like at an invisible fence!"
+ },
+ {
+  "id": "robo-20261122-fr-2",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Beaucoup de robots tondeuses utilisent un fil fin caché tout autour de la pelouse. Le fil envoie un signal, et quand la tondeuse le sent, elle fait demi-tour, comme devant une clôture invisible !"
+ },
+ {
+  "id": "robo-20261122-nl-2",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Veel robotmaaiers gebruiken een dunne draad die rond het gazon verstopt zit. Die draad zendt een signaal uit, en als de maaier het voelt, draait hij om, als bij een onzichtbaar hek!"
+ },
+ {
+  "id": "robo-20261122-en-3",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "If it bumps into a tree, a bump sensor tells it to back up and try a new direction. It mows a little bit every day, so the grass stays short and neat."
+ },
+ {
+  "id": "robo-20261122-fr-3",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "S’il touche un arbre, un capteur de choc lui dit de reculer et de changer de direction. Il tond un petit peu chaque jour, alors l’herbe reste courte et bien nette."
+ },
+ {
+  "id": "robo-20261122-nl-3",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Als hij tegen een boom botst, zegt een botssensor dat hij achteruit moet en een andere kant op moet gaan. Hij maait elke dag een klein beetje, zodat het gras kort en netjes blijft."
+ },
+ {
+  "id": "robo-20261122-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Cool, can I ride on it like a tiny race car? Vroom vroom, mowing champion!"
+ },
+ {
+  "id": "robo-20261122-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Trop cool, je peux monter dessus comme sur une petite voiture de course ? Vroum vroum, champion de la tonte !"
+ },
+ {
+  "id": "robo-20261122-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Cool, mag ik erop rijden als een mini-raceauto? Vroem vroem, maaikampioen!"
+ },
+ {
+  "id": "robo-20261122-en-5",
+  "voice": "en-US-AnaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no riding, it’s a mower, not a race car! Did you know the tiny clippings stay on the lawn and feed the grass, like a little snack for the soil?"
+ },
+ {
+  "id": "robo-20261122-fr-5",
+  "voice": "fr-FR-EloiseNeural",
+  "pitch": "+0%",
+  "text": "Ha, on ne monte pas dessus, c’est une tondeuse, pas une voiture de course ! Savais-tu que les petits brins coupés restent sur la pelouse et nourrissent l’herbe, comme un petit goûter pour le sol ?"
+ },
+ {
+  "id": "robo-20261122-nl-5",
+  "voice": "nl-NL-FennaNeural",
+  "pitch": "+8%",
+  "text": "Haha, niet op rijden, het is een maaier en geen raceauto! Wist je dat de piepkleine grassnippers op het gazon blijven liggen en het gras voeden, als een snackje voor de bodem?"
+ },
+ {
+  "id": "robo-20261122-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the robot mower feels the hidden wire, turns at trees and drives back to its station to charge! What other garden job would you give to a robot?"
+ },
+ {
+  "id": "robo-20261122-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc le robot tondeuse sent le fil caché, tourne devant les arbres et retourne à sa station pour se recharger ! Quel autre travail du jardin donnerais-tu à un robot ?"
+ },
+ {
+  "id": "robo-20261122-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de robotmaaier voelt de verstopte draad, draait bij bomen en rijdt terug naar zijn station om op te laden! Welk ander tuinklusje zou jij aan een robot geven?"
+ },
+ {
+  "id": "energy-20261122-en-1",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Sunny, my juice is always cold in the fridge, even on a super hot day! How does a fridge make cold?"
+ },
+ {
+  "id": "energy-20261122-fr-1",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Sunny, mon jus est toujours bien frais dans le frigo, même quand il fait super chaud ! Comment un frigo fabrique-t-il du froid ?"
+ },
+ {
+  "id": "energy-20261122-nl-1",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Sunny, mijn sap is altijd koud in de koelkast, zelfs op een superwarme dag! Hoe maakt een koelkast kou?"
+ },
+ {
+  "id": "energy-20261122-en-2",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Here’s the secret: a fridge doesn’t make cold, it moves heat out! A special liquid flows through pipes inside and soaks up the heat from your food."
+ },
+ {
+  "id": "energy-20261122-fr-2",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Voici le secret : un frigo ne fabrique pas de froid, il sort la chaleur ! Un liquide spécial circule dans des tuyaux à l’intérieur et absorbe la chaleur de tes aliments."
+ },
+ {
+  "id": "energy-20261122-nl-2",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Dit is het geheim: een koelkast maakt geen kou, hij haalt warmte weg! Een speciale vloeistof stroomt door buizen binnenin en neemt de warmte van je eten op."
+ },
+ {
+  "id": "energy-20261122-en-3",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "As it soaks up heat, the liquid turns into a gas, just like sweat drying on your skin cools you down. Then a pump called a compressor squeezes the gas."
+ },
+ {
+  "id": "energy-20261122-fr-3",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "En absorbant la chaleur, le liquide devient un gaz, comme la transpiration qui sèche sur ta peau et te rafraîchit. Ensuite, une pompe appelée compresseur comprime le gaz."
+ },
+ {
+  "id": "energy-20261122-nl-3",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Terwijl de vloeistof warmte opneemt, wordt hij een gas, zoals zweet dat opdroogt op je huid je afkoelt. Daarna perst een pomp, de compressor, het gas samen."
+ },
+ {
+  "id": "energy-20261122-en-4",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "Wait, so there’s no tiny snowman inside doing all the work? I was going to bring him a scarf!"
+ },
+ {
+  "id": "energy-20261122-fr-4",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Attends, alors il n’y a pas de petit bonhomme de neige qui fait tout le travail là-dedans ? Je voulais lui apporter une écharpe !"
+ },
+ {
+  "id": "energy-20261122-nl-4",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Wacht, dus er woont geen piepklein sneeuwmannetje in dat al het werk doet? Ik wilde hem nog een sjaal brengen!"
+ },
+ {
+  "id": "energy-20261122-en-5",
+  "voice": "en-US-AvaNeural",
+  "pitch": "+0%",
+  "text": "Ha, no snowman! Did you know the back of a fridge often feels warm, because the squeezed gas lets your food’s heat out there and turns back into a liquid?"
+ },
+ {
+  "id": "energy-20261122-fr-5",
+  "voice": "fr-BE-CharlineNeural",
+  "pitch": "+0%",
+  "text": "Ha, pas de bonhomme de neige ! Savais-tu que l’arrière du frigo est souvent tiède, parce que le gaz comprimé y relâche la chaleur de tes aliments et redevient liquide ?"
+ },
+ {
+  "id": "energy-20261122-nl-5",
+  "voice": "nl-BE-DenaNeural",
+  "pitch": "+0%",
+  "text": "Haha, geen sneeuwman! Wist je dat de achterkant van een koelkast vaak warm aanvoelt, omdat het samengeperste gas daar de warmte van je eten loslaat en weer vloeibaar wordt?"
+ },
+ {
+  "id": "energy-20261122-en-6",
+  "voice": "en-US-AndrewNeural",
+  "pitch": "+12%",
+  "text": "So the fridge moves heat from inside to outside, again and again, to keep my juice cold! If you designed your own fridge, what would you put inside?"
+ },
+ {
+  "id": "energy-20261122-fr-6",
+  "voice": "fr-BE-GerardNeural",
+  "pitch": "+12%",
+  "text": "Donc le frigo fait passer la chaleur de l’intérieur vers l’extérieur, encore et encore, pour garder mon jus bien frais ! Si tu inventais ton propre frigo, qu’est-ce que tu mettrais dedans ?"
+ },
+ {
+  "id": "energy-20261122-nl-6",
+  "voice": "nl-BE-ArnaudNeural",
+  "pitch": "+12%",
+  "text": "Dus de koelkast brengt steeds opnieuw warmte van binnen naar buiten, zodat mijn sap koud blijft! Als jij je eigen koelkast mocht ontwerpen, wat zou je erin stoppen?"
  }
 ]

@@ -1,0 +1,253 @@
+{
+ "id": "qubi-20261122",
+ "world": "qubi",
+ "guide": "Qubi",
+ "title": {
+  "en": "Why do magnets stick to the fridge?",
+  "fr": "Pourquoi les aimants collent-ils au frigo ?",
+  "nl": "Waarom blijven magneten aan de koelkast plakken?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Qubi, my drawing sticks to the fridge with a magnet, but the magnet won’t stick to the wooden door! Why does a magnet only stick to some things?",
+   "fr": "Qubi, mon dessin tient sur le frigo grâce à un aimant, mais l’aimant ne colle pas à la porte en bois ! Pourquoi un aimant ne colle-t-il qu’à certaines choses ?",
+   "nl": "Qubi, mijn tekening hangt met een magneet aan de koelkast, maar op de houten deur blijft de magneet niet plakken! Waarom plakt een magneet maar aan sommige dingen?",
+   "img": "Whyzz puts a drawing on the fridge with a magnet"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "It starts with electrons, tiny bits inside every atom. Each electron acts like a super tiny magnet, because of a quantum property called spin!",
+   "fr": "Tout commence avec les électrons, de minuscules particules dans chaque atome. Chaque électron agit comme un tout petit aimant, grâce à une propriété quantique appelée le spin !",
+   "nl": "Het begint bij elektronen, piepkleine deeltjes in elk atoom. Elk elektron werkt als een superklein magneetje, door een quantumeigenschap die spin heet!",
+   "img": "Glowing electrons float around an atom"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "In most things, the tiny magnets point every which way and cancel out. But in iron, lots of them line up together, like a whole class facing the same way!",
+   "fr": "Dans la plupart des matières, ces petits aimants pointent dans tous les sens et s’annulent. Mais dans le fer, plein d’entre eux s’alignent, comme toute une classe tournée du même côté !",
+   "nl": "In de meeste stoffen wijzen die mini-magneetjes alle kanten op en heffen ze elkaar op. Maar in ijzer gaan er heel veel samen dezelfde kant op wijzen, zoals een hele klas die dezelfde kant op kijkt!",
+   "img": "Messy arrows in wood, lined-up arrows in iron"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So if I eat lots of spinach full of iron, will I stick to the fridge too? I’ll be Magnet Boy!",
+   "fr": "Alors si je mange plein d’épinards pleins de fer, je vais coller au frigo moi aussi ? Je serai Super Aimant !",
+   "nl": "Dus als ik heel veel spinazie vol ijzer eet, blijf ik dan ook aan de koelkast plakken? Dan word ik Magneetjongen!",
+   "img": "Whyzz eats spinach and poses like a superhero"
+  },
+  {
+   "speaker": "Qubi",
+   "en": "Ha, no, the iron in your body is hidden inside tiny molecules, so it can’t line up! Did you know Earth is a giant magnet, which is why a compass needle points north?",
+   "fr": "Ha, non, le fer dans ton corps est caché dans de minuscules molécules, alors il ne peut pas s’aligner ! Savais-tu que la Terre est un aimant géant, et que c’est pour ça que l’aiguille d’une boussole indique le nord ?",
+   "nl": "Haha, nee, het ijzer in je lichaam zit verstopt in piepkleine moleculen, dus het kan niet op één lijn gaan staan! Wist je dat de aarde een reuzenmagneet is, en dat een kompasnaald daarom naar het noorden wijst?",
+   "img": "Qubi holds a compass in front of a giant glowing Earth"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So tiny electron magnets line up in iron and hold my drawing on the fridge! What would you stick to your fridge with a magnet?",
+   "fr": "Donc de minuscules aimants, les électrons, s’alignent dans le fer et tiennent mon dessin sur le frigo ! Qu’est-ce que tu accrocherais sur ton frigo avec un aimant ?",
+   "nl": "Dus piepkleine elektronmagneetjes gaan in het ijzer op één lijn staan en houden mijn tekening op de koelkast! Wat zou jij met een magneet op je koelkast hangen?",
+   "img": "Whyzz and Qubi high-five in front of a fridge full of drawings"
+  }
+ ],
+ "prompts": [
+  "In a bright cheerful kitchen Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds a colorful crayon drawing of a house on a big white fridge with a round red magnet, while another round magnet falls off a wooden door next to it, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge smiles with a raised eyebrow. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Inside a magical glowing zoomed-in world of an atom, tiny glowing blue balls float around a bright glowing center and each one shines like a little red-and-blue bar magnet with no markings, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge floats in the scene and explains with open hands, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge floats next to him with wide amazed eyes. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "Two blocks side by side on a workbench: on the left a wooden block with tiny glowing arrows pointing in every direction, on the right a shiny grey iron block with hundreds of tiny glowing arrows all pointing the same way, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge gestures at the iron block, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge compares them in surprise. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright cheerful kitchen Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds a huge bowl of green spinach and strikes a superhero pose with a little red cape, pretending to fly toward a big white fridge, Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge laughs out loud holding his belly. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a grassy hilltop at sunrise Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge holds up a shiny brass compass with a plain blank face and a red needle, a huge glowing planet Earth surrounded by soft swirling glowing loops rises in the sky behind them, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks at the compass in wonder. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright cheerful kitchen Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Qubi, a friendly 10-year-old boy with swept brown hair and a blue-and-yellow tech jacket with a glowing atom badge give each other a high-five in front of a big white fridge covered in colorful crayon drawings held by round magnets. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "Which tiny bits act like super tiny magnets?",
+    "fr": "Quelles minuscules particules agissent comme de tout petits aimants ?",
+    "nl": "Welke piepkleine deeltjes werken als superkleine magneetjes?"
+   },
+   "o": {
+    "en": [
+     "Raindrops",
+     "Electrons",
+     "Crumbs"
+    ],
+    "fr": [
+     "Des gouttes de pluie",
+     "Les électrons",
+     "Des miettes"
+    ],
+    "nl": [
+     "Regendruppels",
+     "Elektronen",
+     "Kruimels"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "What is the quantum property of electrons called?",
+    "fr": "Comment s’appelle la propriété quantique des électrons ?",
+    "nl": "Hoe heet de quantumeigenschap van elektronen?"
+   },
+   "o": {
+    "en": [
+     "Spin",
+     "Jump",
+     "Wiggle"
+    ],
+    "fr": [
+     "Le spin",
+     "Le saut",
+     "Le gigotage"
+    ],
+    "nl": [
+     "Spin",
+     "Sprong",
+     "Wiebel"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "What happens to the tiny magnets in iron?",
+    "fr": "Que se passe-t-il avec les petits aimants dans le fer ?",
+    "nl": "Wat gebeurt er met de mini-magneetjes in ijzer?"
+   },
+   "o": {
+    "en": [
+     "They melt",
+     "They fall asleep",
+     "Lots of them line up together"
+    ],
+    "fr": [
+     "Ils fondent",
+     "Ils s’endorment",
+     "Plein d’entre eux s’alignent"
+    ],
+    "nl": [
+     "Ze smelten",
+     "Ze vallen in slaap",
+     "Heel veel wijzen samen dezelfde kant op"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "Why won’t spinach make you stick to the fridge?",
+    "fr": "Pourquoi les épinards ne te font-ils pas coller au frigo ?",
+    "nl": "Waarom ga je niet aan de koelkast plakken van spinazie?"
+   },
+   "o": {
+    "en": [
+     "Spinach is too green",
+     "The iron is hidden inside tiny molecules",
+     "Fridges don’t like vegetables"
+    ],
+    "fr": [
+     "Les épinards sont trop verts",
+     "Le fer est caché dans de minuscules molécules",
+     "Les frigos n’aiment pas les légumes"
+    ],
+    "nl": [
+     "Spinazie is te groen",
+     "Het ijzer zit verstopt in piepkleine moleculen",
+     "Koelkasten houden niet van groenten"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Why does a compass needle point north?",
+    "fr": "Pourquoi l’aiguille d’une boussole indique-t-elle le nord ?",
+    "nl": "Waarom wijst een kompasnaald naar het noorden?"
+   },
+   "o": {
+    "en": [
+     "The wind pushes it",
+     "It likes the cold",
+     "Earth is a giant magnet"
+    ],
+    "fr": [
+     "Le vent la pousse",
+     "Elle aime le froid",
+     "La Terre est un aimant géant"
+    ],
+    "nl": [
+     "De wind duwt ertegen",
+     "Hij houdt van de kou",
+     "De aarde is een reuzenmagneet"
+    ]
+   },
+   "ok": 2
+  }
+ ],
+ "game": {
+  "type": "match",
+  "title": {
+   "en": "Magnet match",
+   "fr": "Le jeu des aimants",
+   "nl": "Magneten-match"
+  },
+  "intro": {
+   "en": "Match each thing with what it does!",
+   "fr": "Relie chaque chose à ce qu’elle fait !",
+   "nl": "Koppel elk ding aan wat het doet!"
+  },
+  "done": {
+   "en": "Super! You are a magnet master.",
+   "fr": "Super ! Tu es un as des aimants.",
+   "nl": "Super! Jij bent een echte magneetkenner."
+  },
+  "left": {
+   "en": [
+    "Fridge magnet",
+    "Compass needle",
+    "Electron",
+    "Iron",
+    "Earth"
+   ],
+   "fr": [
+    "L’aimant du frigo",
+    "L’aiguille de la boussole",
+    "L’électron",
+    "Le fer",
+    "La Terre"
+   ],
+   "nl": [
+    "De koelkastmagneet",
+    "De kompasnaald",
+    "Het elektron",
+    "IJzer",
+    "De aarde"
+   ]
+  },
+  "right": {
+   "en": [
+    "Holds a drawing on the fridge door",
+    "Points north",
+    "Acts like a super tiny magnet",
+    "Lets lots of tiny magnets line up",
+    "Is a giant magnet"
+   ],
+   "fr": [
+    "Tient un dessin sur la porte du frigo",
+    "Indique le nord",
+    "Agit comme un tout petit aimant",
+    "Laisse plein de petits aimants s’aligner",
+    "Est un aimant géant"
+   ],
+   "nl": [
+    "Houdt een tekening op de koelkastdeur",
+    "Wijst naar het noorden",
+    "Werkt als een superklein magneetje",
+    "Laat veel mini-magneetjes op één lijn staan",
+    "Is een reuzenmagneet"
+   ]
+  }
+ }
+}

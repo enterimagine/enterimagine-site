@@ -1,0 +1,233 @@
+{
+ "id": "pixel-20261122",
+ "world": "pixel",
+ "guide": "Pixel",
+ "title": {
+  "en": "How can a computer tell a cat from a dog?",
+  "fr": "Comment un ordinateur fait-il la différence entre un chat et un chien ?",
+  "nl": "Hoe ziet een computer het verschil tussen een kat en een hond?"
+ },
+ "scenes": [
+  {
+   "speaker": "Whyzz",
+   "en": "Pixel, my tablet sorted my photos and put all the cat pictures together! How does a computer know what a cat looks like?",
+   "fr": "Pixel, ma tablette a trié mes photos et a rangé toutes les photos de chats ensemble ! Comment un ordinateur sait-il à quoi ressemble un chat ?",
+   "nl": "Pixel, mijn tablet heeft mijn foto’s gesorteerd en alle kattenfoto’s bij elkaar gezet! Hoe weet een computer hoe een kat eruitziet?",
+   "img": "Whyzz shows a tablet full of cat photos"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Nobody writes down a rule for it! People show it thousands of photos labeled “cat” or “dog” to study, just like you learned with picture books.",
+   "fr": "Personne ne lui écrit de règle ! On lui montre des milliers de photos avec une étiquette, comme « chat » ou « chien », et il les étudie, comme toi avec tes imagiers.",
+   "nl": "Niemand schrijft een regel voor hem op! Mensen laten hem duizenden foto’s met een label zoals ‘kat’ of ‘hond’ zien, en hij bestudeert ze, net zoals jij leerde met prentenboeken.",
+   "img": "A friendly computer robot studies walls of cat and dog photos"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Bit by bit, it spots patterns: pointy ears, whiskers, a long snout or a wagging tail. Then it can make a guess, even about a photo it has never seen!",
+   "fr": "Petit à petit, il repère des indices : des oreilles pointues, des moustaches, un long museau ou une queue qui remue. Ensuite, il peut deviner, même avec une photo qu’il n’a jamais vue !",
+   "nl": "Beetje bij beetje ziet hij patronen: puntige oren, snorharen, een lange snuit of een kwispelende staart. Daarna kan hij raden, zelfs bij een foto die hij nog nooit heeft gezien!",
+   "img": "Magnifying glasses show a cat’s ears and whiskers and a dog’s snout and tail"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So if I wear cat ears and draw whiskers on my face, will the computer think I’m a cat? Meow!",
+   "fr": "Alors si je mets des oreilles de chat et que je me dessine des moustaches, l’ordinateur va croire que je suis un chat ? Miaou !",
+   "nl": "Dus als ik kattenoren opzet en snorharen op mijn gezicht teken, denkt de computer dan dat ik een kat ben? Miauw!",
+   "img": "Whyzz dresses up as a cat in front of a puzzled robot"
+  },
+  {
+   "speaker": "Pixel",
+   "en": "Ha, it might be fooled for a second! Did you know a computer can mix up a tiny brown dog and a blueberry muffin, because from far away they look alike?",
+   "fr": "Ha, il pourrait se tromper une seconde ! Savais-tu qu’un ordinateur peut confondre un petit chien brun et un muffin aux myrtilles, parce que de loin, ils se ressemblent ?",
+   "nl": "Haha, hij kan zich even vergissen! Wist je dat een computer een klein bruin hondje kan verwarren met een bosbessenmuffin, omdat ze er van ver op elkaar lijken?",
+   "img": "A tiny brown dog sits next to blueberry muffins"
+  },
+  {
+   "speaker": "Whyzz",
+   "en": "So the computer learns from lots of examples, finds patterns and gets better when people correct its mistakes! What would you teach a computer to recognize?",
+   "fr": "Donc l’ordinateur apprend avec plein d’exemples, repère des indices et s’améliore quand on corrige ses erreurs ! Qu’est-ce que tu apprendrais à reconnaître à un ordinateur ?",
+   "nl": "Dus de computer leert van heel veel voorbeelden, vindt patronen en wordt beter als mensen zijn fouten aanwijzen! Wat zou jij een computer leren herkennen?",
+   "img": "Whyzz and Pixel high-five with a cat, a puppy and the robot"
+  }
+ ],
+ "prompts": [
+  "In a cozy living room Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge holds up a tablet showing a grid of cat photos and looks surprised and happy, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge sits next to him on a soft sofa with a fluffy orange cat curled up between them. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright playful room with walls covered in framed photos of cats and dogs a friendly round white computer robot with a big screen face and curious cartoon eyes studies the photos, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge points at the photos and explains, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge watches with interest. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a bright playful room giant glowing magnifying glasses float in the air and show a friendly cartoon cat’s pointy ears and whiskers and a friendly dog’s long snout and wagging tail, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge explains with a raised finger, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge looks amazed. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy living room Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge wears a headband with fluffy cat ears and has whiskers drawn on his cheeks, pretending to be a cat with his hands up like paws, a friendly round white computer robot with a puzzled cartoon face looks at him, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge laughs out loud. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "On a sunny kitchen table a tiny fluffy brown dog sits right next to a plate of blueberry muffins that look just like its face, Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge giggles and points, Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge squints and compares them, a friendly round white computer robot scratches its head. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words",
+  "In a cozy living room Whyzz, a curious kid with a backwards grey-and-red cap and a red-and-navy jacket with a pink question-mark badge and Pixel, a cheerful 10-year-old girl with curly dark hair in two puffs, orange aviator goggles on her head, an orange-and-teal explorer jacket with a round glowing orange badge give each other a big high-five while a friendly round white computer robot cheers and a fluffy orange cat and a happy puppy play at their feet. 3D animated cartoon style, bright cheerful colors, soft cinematic lighting, child-friendly, wide 16:9 scene, no text, no letters, no words"
+ ],
+ "quiz": [
+  {
+   "q": {
+    "en": "How does the computer learn what a cat looks like?",
+    "fr": "Comment l’ordinateur apprend-il à quoi ressemble un chat ?",
+    "nl": "Hoe leert de computer hoe een kat eruitziet?"
+   },
+   "o": {
+    "en": [
+     "It reads a rule book",
+     "From thousands of photos with labels",
+     "It asks a cat"
+    ],
+    "fr": [
+     "Il lit un livre de règles",
+     "Avec des milliers de photos avec une étiquette",
+     "Il demande à un chat"
+    ],
+    "nl": [
+     "Hij leest een regelboek",
+     "Van duizenden foto’s met een label",
+     "Hij vraagt het aan een kat"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "Which clue helps the computer spot a dog?",
+    "fr": "Quel indice aide l’ordinateur à reconnaître un chien ?",
+    "nl": "Welke aanwijzing helpt de computer een hond te herkennen?"
+   },
+   "o": {
+    "en": [
+     "A long snout",
+     "A pink cap",
+     "A blue sky"
+    ],
+    "fr": [
+     "Un long museau",
+     "Une casquette rose",
+     "Un ciel bleu"
+    ],
+    "nl": [
+     "Een lange snuit",
+     "Een roze pet",
+     "Een blauwe lucht"
+    ]
+   },
+   "ok": 0
+  },
+  {
+   "q": {
+    "en": "Can the computer guess with a photo it has never seen?",
+    "fr": "L’ordinateur peut-il deviner avec une photo qu’il n’a jamais vue ?",
+    "nl": "Kan de computer raden bij een foto die hij nooit heeft gezien?"
+   },
+   "o": {
+    "en": [
+     "No, never",
+     "Only on Sundays",
+     "Yes, using the patterns it learned"
+    ],
+    "fr": [
+     "Non, jamais",
+     "Seulement le dimanche",
+     "Oui, grâce aux indices qu’il a appris"
+    ],
+    "nl": [
+     "Nee, nooit",
+     "Alleen op zondag",
+     "Ja, met de patronen die hij heeft geleerd"
+    ]
+   },
+   "ok": 2
+  },
+  {
+   "q": {
+    "en": "What can a computer mix up with a tiny brown dog?",
+    "fr": "Avec quoi un ordinateur peut-il confondre un petit chien brun ?",
+    "nl": "Waarmee kan een computer een klein bruin hondje verwarren?"
+   },
+   "o": {
+    "en": [
+     "A banana",
+     "A blueberry muffin",
+     "A cloud"
+    ],
+    "fr": [
+     "Une banane",
+     "Un muffin aux myrtilles",
+     "Un nuage"
+    ],
+    "nl": [
+     "Een banaan",
+     "Een bosbessenmuffin",
+     "Een wolk"
+    ]
+   },
+   "ok": 1
+  },
+  {
+   "q": {
+    "en": "How does the computer get better?",
+    "fr": "Comment l’ordinateur s’améliore-t-il ?",
+    "nl": "Hoe wordt de computer beter?"
+   },
+   "o": {
+    "en": [
+     "When people correct its mistakes",
+     "When it takes a nap",
+     "When you shake the tablet"
+    ],
+    "fr": [
+     "Quand on corrige ses erreurs",
+     "Quand il fait la sieste",
+     "Quand tu secoues la tablette"
+    ],
+    "nl": [
+     "Als mensen zijn fouten aanwijzen",
+     "Als hij een dutje doet",
+     "Als je de tablet schudt"
+    ]
+   },
+   "ok": 0
+  }
+ ],
+ "game": {
+  "type": "order",
+  "title": {
+   "en": "Teach the computer about cats",
+   "fr": "Apprends à l’ordinateur à reconnaître les chats",
+   "nl": "Leer de computer katten herkennen"
+  },
+  "intro": {
+   "en": "Put the steps in the right order!",
+   "fr": "Remets les étapes dans le bon ordre !",
+   "nl": "Zet de stappen in de goede volgorde!"
+  },
+  "done": {
+   "en": "Purr-fect! Your computer is learning.",
+   "fr": "Bravo ! Ton ordinateur apprend.",
+   "nl": "Top! Je computer leert erbij."
+  },
+  "items": {
+   "en": [
+    "Collect lots of cat and dog photos",
+    "Give each photo a label",
+    "Let the computer look for patterns",
+    "Show it a brand-new photo",
+    "The computer makes a guess",
+    "Correct it if it is wrong"
+   ],
+   "fr": [
+    "Rassembler plein de photos de chats et de chiens",
+    "Donner une étiquette à chaque photo",
+    "Laisser l’ordinateur chercher des indices",
+    "Lui montrer une toute nouvelle photo",
+    "L’ordinateur devine",
+    "Le corriger s’il se trompe"
+   ],
+   "nl": [
+    "Veel foto’s van katten en honden verzamelen",
+    "Elke foto een label geven",
+    "De computer patronen laten zoeken",
+    "Hem een gloednieuwe foto laten zien",
+    "De computer doet een gok",
+    "Hem verbeteren als hij fout zit"
+   ]
+  }
+ }
+}
