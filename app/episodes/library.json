@@ -17598,6 +17598,1233 @@
    },
    "added": "2026-11-21",
    "voice": true
+  },
+  {
+   "id": "pixel-20261122",
+   "world": "pixel",
+   "guide": "Pixel",
+   "title": {
+    "en": "How can a computer tell a cat from a dog?",
+    "fr": "Comment un ordinateur fait-il la différence entre un chat et un chien ?",
+    "nl": "Hoe ziet een computer het verschil tussen een kat en een hond?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, my tablet sorted my photos and put all the cat pictures together! How does a computer know what a cat looks like?",
+     "fr": "Pixel, ma tablette a trié mes photos et a rangé toutes les photos de chats ensemble ! Comment un ordinateur sait-il à quoi ressemble un chat ?",
+     "nl": "Pixel, mijn tablet heeft mijn foto’s gesorteerd en alle kattenfoto’s bij elkaar gezet! Hoe weet een computer hoe een kat eruitziet?",
+     "img": "Whyzz shows a tablet full of cat photos"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Nobody writes down a rule for it! People show it thousands of photos labeled “cat” or “dog” to study, just like you learned with picture books.",
+     "fr": "Personne ne lui écrit de règle ! On lui montre des milliers de photos avec une étiquette, comme « chat » ou « chien », et il les étudie, comme toi avec tes imagiers.",
+     "nl": "Niemand schrijft een regel voor hem op! Mensen laten hem duizenden foto’s met een label zoals ‘kat’ of ‘hond’ zien, en hij bestudeert ze, net zoals jij leerde met prentenboeken.",
+     "img": "A friendly computer robot studies walls of cat and dog photos"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Bit by bit, it spots patterns: pointy ears, whiskers, a long snout or a wagging tail. Then it can make a guess, even about a photo it has never seen!",
+     "fr": "Petit à petit, il repère des indices : des oreilles pointues, des moustaches, un long museau ou une queue qui remue. Ensuite, il peut deviner, même avec une photo qu’il n’a jamais vue !",
+     "nl": "Beetje bij beetje ziet hij patronen: puntige oren, snorharen, een lange snuit of een kwispelende staart. Daarna kan hij raden, zelfs bij een foto die hij nog nooit heeft gezien!",
+     "img": "Magnifying glasses show a cat’s ears and whiskers and a dog’s snout and tail"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So if I wear cat ears and draw whiskers on my face, will the computer think I’m a cat? Meow!",
+     "fr": "Alors si je mets des oreilles de chat et que je me dessine des moustaches, l’ordinateur va croire que je suis un chat ? Miaou !",
+     "nl": "Dus als ik kattenoren opzet en snorharen op mijn gezicht teken, denkt de computer dan dat ik een kat ben? Miauw!",
+     "img": "Whyzz dresses up as a cat in front of a puzzled robot"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, it might be fooled for a second! Did you know a computer can mix up a tiny brown dog and a blueberry muffin, because from far away they look alike?",
+     "fr": "Ha, il pourrait se tromper une seconde ! Savais-tu qu’un ordinateur peut confondre un petit chien brun et un muffin aux myrtilles, parce que de loin, ils se ressemblent ?",
+     "nl": "Haha, hij kan zich even vergissen! Wist je dat een computer een klein bruin hondje kan verwarren met een bosbessenmuffin, omdat ze er van ver op elkaar lijken?",
+     "img": "A tiny brown dog sits next to blueberry muffins"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So the computer learns from lots of examples, finds patterns and gets better when people correct its mistakes! What would you teach a computer to recognize?",
+     "fr": "Donc l’ordinateur apprend avec plein d’exemples, repère des indices et s’améliore quand on corrige ses erreurs ! Qu’est-ce que tu apprendrais à reconnaître à un ordinateur ?",
+     "nl": "Dus de computer leert van heel veel voorbeelden, vindt patronen en wordt beter als mensen zijn fouten aanwijzen! Wat zou jij een computer leren herkennen?",
+     "img": "Whyzz and Pixel high-five with a cat, a puppy and the robot"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "How does the computer learn what a cat looks like?",
+      "fr": "Comment l’ordinateur apprend-il à quoi ressemble un chat ?",
+      "nl": "Hoe leert de computer hoe een kat eruitziet?"
+     },
+     "o": {
+      "en": [
+       "It reads a rule book",
+       "From thousands of photos with labels",
+       "It asks a cat"
+      ],
+      "fr": [
+       "Il lit un livre de règles",
+       "Avec des milliers de photos avec une étiquette",
+       "Il demande à un chat"
+      ],
+      "nl": [
+       "Hij leest een regelboek",
+       "Van duizenden foto’s met een label",
+       "Hij vraagt het aan een kat"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Which clue helps the computer spot a dog?",
+      "fr": "Quel indice aide l’ordinateur à reconnaître un chien ?",
+      "nl": "Welke aanwijzing helpt de computer een hond te herkennen?"
+     },
+     "o": {
+      "en": [
+       "A long snout",
+       "A pink cap",
+       "A blue sky"
+      ],
+      "fr": [
+       "Un long museau",
+       "Une casquette rose",
+       "Un ciel bleu"
+      ],
+      "nl": [
+       "Een lange snuit",
+       "Een roze pet",
+       "Een blauwe lucht"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Can the computer guess with a photo it has never seen?",
+      "fr": "L’ordinateur peut-il deviner avec une photo qu’il n’a jamais vue ?",
+      "nl": "Kan de computer raden bij een foto die hij nooit heeft gezien?"
+     },
+     "o": {
+      "en": [
+       "No, never",
+       "Only on Sundays",
+       "Yes, using the patterns it learned"
+      ],
+      "fr": [
+       "Non, jamais",
+       "Seulement le dimanche",
+       "Oui, grâce aux indices qu’il a appris"
+      ],
+      "nl": [
+       "Nee, nooit",
+       "Alleen op zondag",
+       "Ja, met de patronen die hij heeft geleerd"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What can a computer mix up with a tiny brown dog?",
+      "fr": "Avec quoi un ordinateur peut-il confondre un petit chien brun ?",
+      "nl": "Waarmee kan een computer een klein bruin hondje verwarren?"
+     },
+     "o": {
+      "en": [
+       "A banana",
+       "A blueberry muffin",
+       "A cloud"
+      ],
+      "fr": [
+       "Une banane",
+       "Un muffin aux myrtilles",
+       "Un nuage"
+      ],
+      "nl": [
+       "Een banaan",
+       "Een bosbessenmuffin",
+       "Een wolk"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "How does the computer get better?",
+      "fr": "Comment l’ordinateur s’améliore-t-il ?",
+      "nl": "Hoe wordt de computer beter?"
+     },
+     "o": {
+      "en": [
+       "When people correct its mistakes",
+       "When it takes a nap",
+       "When you shake the tablet"
+      ],
+      "fr": [
+       "Quand on corrige ses erreurs",
+       "Quand il fait la sieste",
+       "Quand tu secoues la tablette"
+      ],
+      "nl": [
+       "Als mensen zijn fouten aanwijzen",
+       "Als hij een dutje doet",
+       "Als je de tablet schudt"
+      ]
+     },
+     "ok": 0
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "Teach the computer about cats",
+     "fr": "Apprends à l’ordinateur à reconnaître les chats",
+     "nl": "Leer de computer katten herkennen"
+    },
+    "intro": {
+     "en": "Put the steps in the right order!",
+     "fr": "Remets les étapes dans le bon ordre !",
+     "nl": "Zet de stappen in de goede volgorde!"
+    },
+    "done": {
+     "en": "Purr-fect! Your computer is learning.",
+     "fr": "Bravo ! Ton ordinateur apprend.",
+     "nl": "Top! Je computer leert erbij."
+    },
+    "items": {
+     "en": [
+      "Collect lots of cat and dog photos",
+      "Give each photo a label",
+      "Let the computer look for patterns",
+      "Show it a brand-new photo",
+      "The computer makes a guess",
+      "Correct it if it is wrong"
+     ],
+     "fr": [
+      "Rassembler plein de photos de chats et de chiens",
+      "Donner une étiquette à chaque photo",
+      "Laisser l’ordinateur chercher des indices",
+      "Lui montrer une toute nouvelle photo",
+      "L’ordinateur devine",
+      "Le corriger s’il se trompe"
+     ],
+     "nl": [
+      "Veel foto’s van katten en honden verzamelen",
+      "Elke foto een label geven",
+      "De computer patronen laten zoeken",
+      "Hem een gloednieuwe foto laten zien",
+      "De computer doet een gok",
+      "Hem verbeteren als hij fout zit"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "AI & Data",
+    "fr": "IA et données",
+    "nl": "AI en data"
+   },
+   "adult": {
+    "en": "For grown-ups: the AI & Data world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde IA et données dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld AI en data in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-22",
+   "voice": true
+  },
+  {
+   "id": "qubi-20261122",
+   "world": "qubi",
+   "guide": "Qubi",
+   "title": {
+    "en": "Why do magnets stick to the fridge?",
+    "fr": "Pourquoi les aimants collent-ils au frigo ?",
+    "nl": "Waarom blijven magneten aan de koelkast plakken?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Qubi, my drawing sticks to the fridge with a magnet, but the magnet won’t stick to the wooden door! Why does a magnet only stick to some things?",
+     "fr": "Qubi, mon dessin tient sur le frigo grâce à un aimant, mais l’aimant ne colle pas à la porte en bois ! Pourquoi un aimant ne colle-t-il qu’à certaines choses ?",
+     "nl": "Qubi, mijn tekening hangt met een magneet aan de koelkast, maar op de houten deur blijft de magneet niet plakken! Waarom plakt een magneet maar aan sommige dingen?",
+     "img": "Whyzz puts a drawing on the fridge with a magnet"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "It starts with electrons, tiny bits inside every atom. Each electron acts like a super tiny magnet, because of a quantum property called spin!",
+     "fr": "Tout commence avec les électrons, de minuscules particules dans chaque atome. Chaque électron agit comme un tout petit aimant, grâce à une propriété quantique appelée le spin !",
+     "nl": "Het begint bij elektronen, piepkleine deeltjes in elk atoom. Elk elektron werkt als een superklein magneetje, door een quantumeigenschap die spin heet!",
+     "img": "Glowing electrons float around an atom"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "In most things, the tiny magnets point every which way and cancel out. But in iron, lots of them line up together, like a whole class facing the same way!",
+     "fr": "Dans la plupart des matières, ces petits aimants pointent dans tous les sens et s’annulent. Mais dans le fer, plein d’entre eux s’alignent, comme toute une classe tournée du même côté !",
+     "nl": "In de meeste stoffen wijzen die mini-magneetjes alle kanten op en heffen ze elkaar op. Maar in ijzer gaan er heel veel samen dezelfde kant op wijzen, zoals een hele klas die dezelfde kant op kijkt!",
+     "img": "Messy arrows in wood, lined-up arrows in iron"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So if I eat lots of spinach full of iron, will I stick to the fridge too? I’ll be Magnet Boy!",
+     "fr": "Alors si je mange plein d’épinards pleins de fer, je vais coller au frigo moi aussi ? Je serai Super Aimant !",
+     "nl": "Dus als ik heel veel spinazie vol ijzer eet, blijf ik dan ook aan de koelkast plakken? Dan word ik Magneetjongen!",
+     "img": "Whyzz eats spinach and poses like a superhero"
+    },
+    {
+     "speaker": "Qubi",
+     "en": "Ha, no, the iron in your body is hidden inside tiny molecules, so it can’t line up! Did you know Earth is a giant magnet, which is why a compass needle points north?",
+     "fr": "Ha, non, le fer dans ton corps est caché dans de minuscules molécules, alors il ne peut pas s’aligner ! Savais-tu que la Terre est un aimant géant, et que c’est pour ça que l’aiguille d’une boussole indique le nord ?",
+     "nl": "Haha, nee, het ijzer in je lichaam zit verstopt in piepkleine moleculen, dus het kan niet op één lijn gaan staan! Wist je dat de aarde een reuzenmagneet is, en dat een kompasnaald daarom naar het noorden wijst?",
+     "img": "Qubi holds a compass in front of a giant glowing Earth"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So tiny electron magnets line up in iron and hold my drawing on the fridge! What would you stick to your fridge with a magnet?",
+     "fr": "Donc de minuscules aimants, les électrons, s’alignent dans le fer et tiennent mon dessin sur le frigo ! Qu’est-ce que tu accrocherais sur ton frigo avec un aimant ?",
+     "nl": "Dus piepkleine elektronmagneetjes gaan in het ijzer op één lijn staan en houden mijn tekening op de koelkast! Wat zou jij met een magneet op je koelkast hangen?",
+     "img": "Whyzz and Qubi high-five in front of a fridge full of drawings"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Which tiny bits act like super tiny magnets?",
+      "fr": "Quelles minuscules particules agissent comme de tout petits aimants ?",
+      "nl": "Welke piepkleine deeltjes werken als superkleine magneetjes?"
+     },
+     "o": {
+      "en": [
+       "Raindrops",
+       "Electrons",
+       "Crumbs"
+      ],
+      "fr": [
+       "Des gouttes de pluie",
+       "Les électrons",
+       "Des miettes"
+      ],
+      "nl": [
+       "Regendruppels",
+       "Elektronen",
+       "Kruimels"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What is the quantum property of electrons called?",
+      "fr": "Comment s’appelle la propriété quantique des électrons ?",
+      "nl": "Hoe heet de quantumeigenschap van elektronen?"
+     },
+     "o": {
+      "en": [
+       "Spin",
+       "Jump",
+       "Wiggle"
+      ],
+      "fr": [
+       "Le spin",
+       "Le saut",
+       "Le gigotage"
+      ],
+      "nl": [
+       "Spin",
+       "Sprong",
+       "Wiebel"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What happens to the tiny magnets in iron?",
+      "fr": "Que se passe-t-il avec les petits aimants dans le fer ?",
+      "nl": "Wat gebeurt er met de mini-magneetjes in ijzer?"
+     },
+     "o": {
+      "en": [
+       "They melt",
+       "They fall asleep",
+       "Lots of them line up together"
+      ],
+      "fr": [
+       "Ils fondent",
+       "Ils s’endorment",
+       "Plein d’entre eux s’alignent"
+      ],
+      "nl": [
+       "Ze smelten",
+       "Ze vallen in slaap",
+       "Heel veel wijzen samen dezelfde kant op"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Why won’t spinach make you stick to the fridge?",
+      "fr": "Pourquoi les épinards ne te font-ils pas coller au frigo ?",
+      "nl": "Waarom ga je niet aan de koelkast plakken van spinazie?"
+     },
+     "o": {
+      "en": [
+       "Spinach is too green",
+       "The iron is hidden inside tiny molecules",
+       "Fridges don’t like vegetables"
+      ],
+      "fr": [
+       "Les épinards sont trop verts",
+       "Le fer est caché dans de minuscules molécules",
+       "Les frigos n’aiment pas les légumes"
+      ],
+      "nl": [
+       "Spinazie is te groen",
+       "Het ijzer zit verstopt in piepkleine moleculen",
+       "Koelkasten houden niet van groenten"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Why does a compass needle point north?",
+      "fr": "Pourquoi l’aiguille d’une boussole indique-t-elle le nord ?",
+      "nl": "Waarom wijst een kompasnaald naar het noorden?"
+     },
+     "o": {
+      "en": [
+       "The wind pushes it",
+       "It likes the cold",
+       "Earth is a giant magnet"
+      ],
+      "fr": [
+       "Le vent la pousse",
+       "Elle aime le froid",
+       "La Terre est un aimant géant"
+      ],
+      "nl": [
+       "De wind duwt ertegen",
+       "Hij houdt van de kou",
+       "De aarde is een reuzenmagneet"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Magnet match",
+     "fr": "Le jeu des aimants",
+     "nl": "Magneten-match"
+    },
+    "intro": {
+     "en": "Match each thing with what it does!",
+     "fr": "Relie chaque chose à ce qu’elle fait !",
+     "nl": "Koppel elk ding aan wat het doet!"
+    },
+    "done": {
+     "en": "Super! You are a magnet master.",
+     "fr": "Super ! Tu es un as des aimants.",
+     "nl": "Super! Jij bent een echte magneetkenner."
+    },
+    "left": {
+     "en": [
+      "Fridge magnet",
+      "Compass needle",
+      "Electron",
+      "Iron",
+      "Earth"
+     ],
+     "fr": [
+      "L’aimant du frigo",
+      "L’aiguille de la boussole",
+      "L’électron",
+      "Le fer",
+      "La Terre"
+     ],
+     "nl": [
+      "De koelkastmagneet",
+      "De kompasnaald",
+      "Het elektron",
+      "IJzer",
+      "De aarde"
+     ]
+    },
+    "right": {
+     "en": [
+      "Holds a drawing on the fridge door",
+      "Points north",
+      "Acts like a super tiny magnet",
+      "Lets lots of tiny magnets line up",
+      "Is a giant magnet"
+     ],
+     "fr": [
+      "Tient un dessin sur la porte du frigo",
+      "Indique le nord",
+      "Agit comme un tout petit aimant",
+      "Laisse plein de petits aimants s’aligner",
+      "Est un aimant géant"
+     ],
+     "nl": [
+      "Houdt een tekening op de koelkastdeur",
+      "Wijst naar het noorden",
+      "Werkt als een superklein magneetje",
+      "Laat veel mini-magneetjes op één lijn staan",
+      "Is een reuzenmagneet"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Quantum",
+    "fr": "Quantique",
+    "nl": "Quantum"
+   },
+   "adult": {
+    "en": "For grown-ups: the Quantum world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Quantique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Quantum in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-22",
+   "voice": true
+  },
+  {
+   "id": "bloom-20261122",
+   "world": "bloom",
+   "guide": "Bloom",
+   "title": {
+    "en": "Why do apple slices turn brown?",
+    "fr": "Pourquoi les tranches de pomme brunissent-elles ?",
+    "nl": "Waarom worden appelpartjes bruin?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Bloom, I cut an apple for my snack, but after a while the slices turned brown! Did my apple go bad?",
+     "fr": "Bloom, j’ai coupé une pomme pour mon goûter, mais après un moment, les tranches sont devenues brunes ! Ma pomme est pourrie ?",
+     "nl": "Bloom, ik sneed een appel voor mijn tussendoortje, maar na een tijdje werden de partjes bruin! Is mijn appel bedorven?",
+     "img": "Whyzz holds a plate of brown apple slices at a picnic"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Not at all, it’s still safe to eat! When you cut an apple, you break open tiny cells and little helpers inside them called enzymes meet the air.",
+     "fr": "Pas du tout, tu peux encore la manger ! Quand tu coupes une pomme, tu ouvres de minuscules cellules, et des petits assistants appelés enzymes rencontrent l’air.",
+     "nl": "Helemaal niet, je kunt hem nog gewoon eten! Als je een appel snijdt, maak je piepkleine cellen open, en kleine helpers daarin, enzymen, komen in contact met de lucht.",
+     "img": "Tiny cells open inside an apple and little helpers float out"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "The enzymes use oxygen from the air to turn some natural stuff in the apple brown. It’s a bit like the apple getting a tan!",
+     "fr": "Les enzymes utilisent l’oxygène de l’air pour faire brunir certaines substances de la pomme. C’est un peu comme si la pomme bronzait !",
+     "nl": "De enzymen gebruiken zuurstof uit de lucht om bepaalde stofjes in de appel bruin te kleuren. Het is een beetje alsof de appel een kleurtje krijgt!",
+     "img": "An apple slice sunbathes and turns golden brown"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Then I’ll give my apple tiny sunglasses and sunscreen! No more tan for you, apple!",
+     "fr": "Alors je vais donner à ma pomme des petites lunettes de soleil et de la crème solaire ! Fini le bronzage, la pomme !",
+     "nl": "Dan geef ik mijn appel een piepklein zonnebrilletje en zonnebrandcrème! Geen kleurtje meer voor jou, appel!",
+     "img": "Whyzz puts tiny sunglasses on an apple slice"
+    },
+    {
+     "speaker": "Bloom",
+     "en": "Ha, a few drops of lemon juice work better, because the sour juice slows the enzymes down! Did you know bananas and avocados turn brown for the very same reason?",
+     "fr": "Ha, quelques gouttes de jus de citron marchent mieux, car le jus acide ralentit les enzymes ! Savais-tu que les bananes et les avocats brunissent pour la même raison ?",
+     "nl": "Haha, een paar druppels citroensap werken beter, want het zure sap remt de enzymen af! Wist je dat bananen en avocado’s om precies dezelfde reden bruin worden?",
+     "img": "Bloom squeezes lemon on apple slices next to a banana and an avocado"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So cutting lets the air in, enzymes make the brown color and lemon juice slows them down! How would you keep your apple slices fresh?",
+     "fr": "Donc couper laisse entrer l’air, les enzymes fabriquent la couleur brune et le jus de citron les ralentit ! Comment garderais-tu tes tranches de pomme bien fraîches ?",
+     "nl": "Dus door te snijden komt er lucht bij, maken enzymen de bruine kleur en remt citroensap ze af! Hoe zou jij je appelpartjes vers houden?",
+     "img": "Whyzz and Bloom high-five over fresh apple slices"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "Is a brown apple slice still safe to eat?",
+      "fr": "Une tranche de pomme brune se mange-t-elle encore ?",
+      "nl": "Kun je een bruin appelpartje nog eten?"
+     },
+     "o": {
+      "en": [
+       "No, never",
+       "Yes, it is",
+       "Only birds can eat it"
+      ],
+      "fr": [
+       "Non, jamais",
+       "Oui",
+       "Seulement les oiseaux"
+      ],
+      "nl": [
+       "Nee, nooit",
+       "Ja, gewoon",
+       "Alleen vogels mogen het eten"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What do you break open when you cut an apple?",
+      "fr": "Qu’est-ce que tu ouvres quand tu coupes une pomme ?",
+      "nl": "Wat maak je open als je een appel snijdt?"
+     },
+     "o": {
+      "en": [
+       "Tiny cells",
+       "Tiny eggs",
+       "Tiny balloons"
+      ],
+      "fr": [
+       "De minuscules cellules",
+       "De minuscules œufs",
+       "De minuscules ballons"
+      ],
+      "nl": [
+       "Piepkleine cellen",
+       "Piepkleine eitjes",
+       "Piepkleine ballonnetjes"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What do the enzymes use from the air?",
+      "fr": "Qu’est-ce que les enzymes utilisent dans l’air ?",
+      "nl": "Wat gebruiken de enzymen uit de lucht?"
+     },
+     "o": {
+      "en": [
+       "Rain",
+       "Dust",
+       "Oxygen"
+      ],
+      "fr": [
+       "La pluie",
+       "La poussière",
+       "L’oxygène"
+      ],
+      "nl": [
+       "Regen",
+       "Stof",
+       "Zuurstof"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What slows the enzymes down?",
+      "fr": "Qu’est-ce qui ralentit les enzymes ?",
+      "nl": "Wat remt de enzymen af?"
+     },
+     "o": {
+      "en": [
+       "Tiny sunglasses",
+       "A few drops of lemon juice",
+       "Sugar sprinkles"
+      ],
+      "fr": [
+       "Des petites lunettes de soleil",
+       "Quelques gouttes de jus de citron",
+       "Des vermicelles en sucre"
+      ],
+      "nl": [
+       "Een piepklein zonnebrilletje",
+       "Een paar druppels citroensap",
+       "Suikerhagel"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "Which fruits turn brown for the same reason?",
+      "fr": "Quels fruits brunissent pour la même raison ?",
+      "nl": "Welke vruchten worden om dezelfde reden bruin?"
+     },
+     "o": {
+      "en": [
+       "Plastic toy fruits",
+       "Ice cubes",
+       "Bananas and avocados"
+      ],
+      "fr": [
+       "Des fruits en plastique",
+       "Des glaçons",
+       "Les bananes et les avocats"
+      ],
+      "nl": [
+       "Plastic speelgoedfruit",
+       "IJsblokjes",
+       "Bananen en avocado’s"
+      ]
+     },
+     "ok": 2
+    }
+   ],
+   "game": {
+    "type": "pick",
+    "title": {
+     "en": "Keep the apple fresh",
+     "fr": "Garde la pomme bien fraîche",
+     "nl": "Houd de appel vers"
+    },
+    "intro": {
+     "en": "Pick all the tricks that keep apple slices from turning brown!",
+     "fr": "Choisis toutes les astuces qui empêchent les tranches de pomme de brunir !",
+     "nl": "Kies alle trucjes die ervoor zorgen dat appelpartjes niet bruin worden!"
+    },
+    "done": {
+     "en": "Yum! Your apple slices stay fresh and bright.",
+     "fr": "Miam ! Tes tranches de pomme restent bien claires.",
+     "nl": "Lekker! Je appelpartjes blijven mooi licht."
+    },
+    "items": {
+     "en": [
+      "Squeeze lemon juice on them",
+      "Put them in the fridge",
+      "Leave them in the warm sun",
+      "Cover them with cold water",
+      "Give them tiny sunglasses",
+      "Cut them into tiny pieces",
+      "Blow air on them"
+     ],
+     "fr": [
+      "Mettre du jus de citron dessus",
+      "Les mettre au frigo",
+      "Les laisser au soleil",
+      "Les plonger dans de l’eau froide",
+      "Leur mettre des lunettes de soleil",
+      "Les couper en tout petits morceaux",
+      "Souffler de l’air dessus"
+     ],
+     "nl": [
+      "Er citroensap over doen",
+      "Ze in de koelkast leggen",
+      "Ze in de warme zon laten liggen",
+      "Ze onder koud water leggen",
+      "Ze een zonnebrilletje opzetten",
+      "Ze in piepkleine stukjes snijden",
+      "Er lucht op blazen"
+     ]
+    },
+    "good": [
+     0,
+     1,
+     3
+    ]
+   },
+   "worldName": {
+    "en": "Biotech",
+    "fr": "Biotech",
+    "nl": "Biotech"
+   },
+   "adult": {
+    "en": "For grown-ups: the Biotech world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Biotech dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Biotech in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-22",
+   "voice": true
+  },
+  {
+   "id": "robo-20261122",
+   "world": "robo",
+   "guide": "Pixel",
+   "title": {
+    "en": "How does a robot mower know where to mow?",
+    "fr": "Comment un robot tondeuse sait-il où tondre ?",
+    "nl": "Hoe weet een robotmaaier waar hij moet maaien?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Pixel, our neighbor’s lawn mower drives all by itself! How does it know where the grass ends and the flowers begin?",
+     "fr": "Pixel, la tondeuse de nos voisins roule toute seule ! Comment sait-elle où s’arrête l’herbe et où commencent les fleurs ?",
+     "nl": "Pixel, de grasmaaier van de buren rijdt helemaal zelf! Hoe weet hij waar het gras ophoudt en de bloemen beginnen?",
+     "img": "Whyzz points at a robot mower over a fence"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Many robot mowers use a thin wire hidden around the edge of the lawn. When the mower feels the wire’s signal, it turns around like at an invisible fence!",
+     "fr": "Beaucoup de robots tondeuses utilisent un fil fin caché tout autour de la pelouse. Le fil envoie un signal, et quand la tondeuse le sent, elle fait demi-tour, comme devant une clôture invisible !",
+     "nl": "Veel robotmaaiers gebruiken een dunne draad die rond het gazon verstopt zit. Die draad zendt een signaal uit, en als de maaier het voelt, draait hij om, als bij een onzichtbaar hek!",
+     "img": "A glowing line at the lawn edge makes the mower turn"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "If it bumps into a tree, a bump sensor tells it to back up and try a new direction. It mows a little bit every day, so the grass stays short and neat.",
+     "fr": "S’il touche un arbre, un capteur de choc lui dit de reculer et de changer de direction. Il tond un petit peu chaque jour, alors l’herbe reste courte et bien nette.",
+     "nl": "Als hij tegen een boom botst, zegt een botssensor dat hij achteruit moet en een andere kant op moet gaan. Hij maait elke dag een klein beetje, zodat het gras kort en netjes blijft.",
+     "img": "The mower bumps gently into a tree and turns"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Cool, can I ride on it like a tiny race car? Vroom vroom, mowing champion!",
+     "fr": "Trop cool, je peux monter dessus comme sur une petite voiture de course ? Vroum vroum, champion de la tonte !",
+     "nl": "Cool, mag ik erop rijden als een mini-raceauto? Vroem vroem, maaikampioen!",
+     "img": "Whyzz pretends to be a race car driver"
+    },
+    {
+     "speaker": "Pixel",
+     "en": "Ha, no riding, it’s a mower, not a race car! Did you know the tiny clippings stay on the lawn and feed the grass, like a little snack for the soil?",
+     "fr": "Ha, on ne monte pas dessus, c’est une tondeuse, pas une voiture de course ! Savais-tu que les petits brins coupés restent sur la pelouse et nourrissent l’herbe, comme un petit goûter pour le sol ?",
+     "nl": "Haha, niet op rijden, het is een maaier en geen raceauto! Wist je dat de piepkleine grassnippers op het gazon blijven liggen en het gras voeden, als een snackje voor de bodem?",
+     "img": "Tiny grass clippings feed happy roots in the soil"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So the robot mower feels the hidden wire, turns at trees and drives back to its station to charge! What other garden job would you give to a robot?",
+     "fr": "Donc le robot tondeuse sent le fil caché, tourne devant les arbres et retourne à sa station pour se recharger ! Quel autre travail du jardin donnerais-tu à un robot ?",
+     "nl": "Dus de robotmaaier voelt de verstopte draad, draait bij bomen en rijdt terug naar zijn station om op te laden! Welk ander tuinklusje zou jij aan een robot geven?",
+     "img": "Whyzz and Pixel high-five as the mower parks in its station"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What do many robot mowers use around the lawn?",
+      "fr": "Qu’est-ce que beaucoup de robots tondeuses utilisent autour de la pelouse ?",
+      "nl": "Wat gebruiken veel robotmaaiers rond het gazon?"
+     },
+     "o": {
+      "en": [
+       "A trail of crumbs",
+       "A thin hidden wire",
+       "A row of birds"
+      ],
+      "fr": [
+       "Une traînée de miettes",
+       "Un fil fin caché",
+       "Une rangée d’oiseaux"
+      ],
+      "nl": [
+       "Een spoor van kruimels",
+       "Een dunne verstopte draad",
+       "Een rij vogels"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What does the mower do when it feels the wire’s signal?",
+      "fr": "Que fait la tondeuse quand elle sent le signal du fil ?",
+      "nl": "Wat doet de maaier als hij het signaal van de draad voelt?"
+     },
+     "o": {
+      "en": [
+       "It turns around",
+       "It sings a song",
+       "It goes faster"
+      ],
+      "fr": [
+       "Elle fait demi-tour",
+       "Elle chante une chanson",
+       "Elle accélère"
+      ],
+      "nl": [
+       "Hij draait om",
+       "Hij zingt een liedje",
+       "Hij gaat sneller"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What tells the mower it bumped into a tree?",
+      "fr": "Qu’est-ce qui dit à la tondeuse qu’elle a touché un arbre ?",
+      "nl": "Wat vertelt de maaier dat hij tegen een boom botst?"
+     },
+     "o": {
+      "en": [
+       "A rain cloud",
+       "A loud whistle",
+       "A bump sensor"
+      ],
+      "fr": [
+       "Un nuage de pluie",
+       "Un grand coup de sifflet",
+       "Un capteur de choc"
+      ],
+      "nl": [
+       "Een regenwolk",
+       "Een luid fluitje",
+       "Een botssensor"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "Why does the grass stay short and neat?",
+      "fr": "Pourquoi l’herbe reste-t-elle courte et nette ?",
+      "nl": "Waarom blijft het gras kort en netjes?"
+     },
+     "o": {
+      "en": [
+       "It mows a little bit every day",
+       "The grass is made of plastic",
+       "Rabbits eat it all"
+      ],
+      "fr": [
+       "Il tond un petit peu chaque jour",
+       "L’herbe est en plastique",
+       "Les lapins la mangent"
+      ],
+      "nl": [
+       "Hij maait elke dag een klein beetje",
+       "Het gras is van plastic",
+       "Konijnen eten alles op"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "What happens to the tiny clippings?",
+      "fr": "Que deviennent les petits brins coupés ?",
+      "nl": "Wat gebeurt er met de piepkleine grassnippers?"
+     },
+     "o": {
+      "en": [
+       "They fly to the Moon",
+       "They stay on the lawn and feed the grass",
+       "The robot eats them"
+      ],
+      "fr": [
+       "Ils s’envolent vers la Lune",
+       "Ils restent sur la pelouse et nourrissent l’herbe",
+       "Le robot les mange"
+      ],
+      "nl": [
+       "Ze vliegen naar de maan",
+       "Ze blijven op het gazon liggen en voeden het gras",
+       "De robot eet ze op"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "match",
+    "title": {
+     "en": "Robot mower match",
+     "fr": "Les pièces du robot tondeuse",
+     "nl": "Robotmaaier-match"
+    },
+    "intro": {
+     "en": "Match each part with its job!",
+     "fr": "Relie chaque pièce à son travail !",
+     "nl": "Koppel elk onderdeel aan zijn taak!"
+    },
+    "done": {
+     "en": "Great job! The lawn looks perfect.",
+     "fr": "Bravo ! La pelouse est parfaite.",
+     "nl": "Goed gedaan! Het gazon ziet er perfect uit."
+    },
+    "left": {
+     "en": [
+      "Hidden wire",
+      "Bump sensor",
+      "Spinning blades",
+      "Charging station"
+     ],
+     "fr": [
+      "Le fil caché",
+      "Le capteur de choc",
+      "Les lames qui tournent",
+      "La station de recharge"
+     ],
+     "nl": [
+      "De verstopte draad",
+      "De botssensor",
+      "De draaiende messen",
+      "Het laadstation"
+     ]
+    },
+    "right": {
+     "en": [
+      "Shows where the lawn ends",
+      "Tells it that it hit something",
+      "Cut the grass",
+      "Fills up its battery"
+     ],
+     "fr": [
+      "Montre où s’arrête la pelouse",
+      "Lui dit qu’il a touché quelque chose",
+      "Coupent l’herbe",
+      "Recharge sa batterie"
+     ],
+     "nl": [
+      "Toont waar het gazon ophoudt",
+      "Zegt dat hij ergens tegenaan botst",
+      "Maaien het gras",
+      "Laadt zijn batterij op"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Robotics",
+    "fr": "Robotique",
+    "nl": "Robotica"
+   },
+   "adult": {
+    "en": "For grown-ups: the Robotics world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Robotique dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Robotica in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-22",
+   "voice": true
+  },
+  {
+   "id": "energy-20261122",
+   "world": "energy",
+   "guide": "Sunny",
+   "title": {
+    "en": "How does a fridge keep food cold?",
+    "fr": "Comment un frigo garde-t-il les aliments au frais ?",
+    "nl": "Hoe houdt een koelkast je eten koud?"
+   },
+   "scenes": [
+    {
+     "speaker": "Whyzz",
+     "en": "Sunny, my juice is always cold in the fridge, even on a super hot day! How does a fridge make cold?",
+     "fr": "Sunny, mon jus est toujours bien frais dans le frigo, même quand il fait super chaud ! Comment un frigo fabrique-t-il du froid ?",
+     "nl": "Sunny, mijn sap is altijd koud in de koelkast, zelfs op een superwarme dag! Hoe maakt een koelkast kou?",
+     "img": "Whyzz holds an ice-cold juice in front of the fridge"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Here’s the secret: a fridge doesn’t make cold, it moves heat out! A special liquid flows through pipes inside and soaks up the heat from your food.",
+     "fr": "Voici le secret : un frigo ne fabrique pas de froid, il sort la chaleur ! Un liquide spécial circule dans des tuyaux à l’intérieur et absorbe la chaleur de tes aliments.",
+     "nl": "Dit is het geheim: een koelkast maakt geen kou, hij haalt warmte weg! Een speciale vloeistof stroomt door buizen binnenin en neemt de warmte van je eten op.",
+     "img": "Glowing pipes inside a fridge soak up warmth from food"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "As it soaks up heat, the liquid turns into a gas, just like sweat drying on your skin cools you down. Then a pump called a compressor squeezes the gas.",
+     "fr": "En absorbant la chaleur, le liquide devient un gaz, comme la transpiration qui sèche sur ta peau et te rafraîchit. Ensuite, une pompe appelée compresseur comprime le gaz.",
+     "nl": "Terwijl de vloeistof warmte opneemt, wordt hij een gas, zoals zweet dat opdroogt op je huid je afkoelt. Daarna perst een pomp, de compressor, het gas samen.",
+     "img": "A friendly compressor squeezes a puff of gas"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "Wait, so there’s no tiny snowman inside doing all the work? I was going to bring him a scarf!",
+     "fr": "Attends, alors il n’y a pas de petit bonhomme de neige qui fait tout le travail là-dedans ? Je voulais lui apporter une écharpe !",
+     "nl": "Wacht, dus er woont geen piepklein sneeuwmannetje in dat al het werk doet? Ik wilde hem nog een sjaal brengen!",
+     "img": "Whyzz searches the fridge with a scarf"
+    },
+    {
+     "speaker": "Sunny",
+     "en": "Ha, no snowman! Did you know the back of a fridge often feels warm, because the squeezed gas lets your food’s heat out there and turns back into a liquid?",
+     "fr": "Ha, pas de bonhomme de neige ! Savais-tu que l’arrière du frigo est souvent tiède, parce que le gaz comprimé y relâche la chaleur de tes aliments et redevient liquide ?",
+     "nl": "Haha, geen sneeuwman! Wist je dat de achterkant van een koelkast vaak warm aanvoelt, omdat het samengeperste gas daar de warmte van je eten loslaat en weer vloeibaar wordt?",
+     "img": "Warm glowing waves rise from the back of the fridge"
+    },
+    {
+     "speaker": "Whyzz",
+     "en": "So the fridge moves heat from inside to outside, again and again, to keep my juice cold! If you designed your own fridge, what would you put inside?",
+     "fr": "Donc le frigo fait passer la chaleur de l’intérieur vers l’extérieur, encore et encore, pour garder mon jus bien frais ! Si tu inventais ton propre frigo, qu’est-ce que tu mettrais dedans ?",
+     "nl": "Dus de koelkast brengt steeds opnieuw warmte van binnen naar buiten, zodat mijn sap koud blijft! Als jij je eigen koelkast mocht ontwerpen, wat zou je erin stoppen?",
+     "img": "Whyzz and Sunny high-five with cold juice"
+    }
+   ],
+   "quiz": [
+    {
+     "q": {
+      "en": "What does a fridge really do?",
+      "fr": "Que fait vraiment un frigo ?",
+      "nl": "Wat doet een koelkast eigenlijk?"
+     },
+     "o": {
+      "en": [
+       "It makes snow",
+       "It moves heat out",
+       "It blows wind"
+      ],
+      "fr": [
+       "Il fabrique de la neige",
+       "Il sort la chaleur",
+       "Il fait du vent"
+      ],
+      "nl": [
+       "Hij maakt sneeuw",
+       "Hij haalt warmte weg",
+       "Hij blaast wind"
+      ]
+     },
+     "ok": 1
+    },
+    {
+     "q": {
+      "en": "What soaks up the heat from your food?",
+      "fr": "Qu’est-ce qui absorbe la chaleur de tes aliments ?",
+      "nl": "Wat neemt de warmte van je eten op?"
+     },
+     "o": {
+      "en": [
+       "A special liquid in pipes",
+       "A sponge",
+       "Ice cream"
+      ],
+      "fr": [
+       "Un liquide spécial dans des tuyaux",
+       "Une éponge",
+       "De la glace"
+      ],
+      "nl": [
+       "Een speciale vloeistof in buizen",
+       "Een spons",
+       "IJs"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Turning into a gas cools things down, just like…",
+      "fr": "Se transformer en gaz rafraîchit, comme…",
+      "nl": "Een gas worden koelt af, net zoals…"
+     },
+     "o": {
+      "en": [
+       "Rain falling",
+       "A balloon popping",
+       "Sweat drying on your skin"
+      ],
+      "fr": [
+       "La pluie qui tombe",
+       "Un ballon qui éclate",
+       "La transpiration qui sèche sur ta peau"
+      ],
+      "nl": [
+       "Regen die valt",
+       "Een ballon die knapt",
+       "Zweet dat opdroogt op je huid"
+      ]
+     },
+     "ok": 2
+    },
+    {
+     "q": {
+      "en": "What is the pump that squeezes the gas called?",
+      "fr": "Comment s’appelle la pompe qui comprime le gaz ?",
+      "nl": "Hoe heet de pomp die het gas samenperst?"
+     },
+     "o": {
+      "en": [
+       "A compressor",
+       "A blender",
+       "A snowman"
+      ],
+      "fr": [
+       "Un compresseur",
+       "Un mixeur",
+       "Un bonhomme de neige"
+      ],
+      "nl": [
+       "Een compressor",
+       "Een blender",
+       "Een sneeuwman"
+      ]
+     },
+     "ok": 0
+    },
+    {
+     "q": {
+      "en": "Why does the back of a fridge often feel warm?",
+      "fr": "Pourquoi l’arrière du frigo est-il souvent tiède ?",
+      "nl": "Waarom voelt de achterkant van een koelkast vaak warm aan?"
+     },
+     "o": {
+      "en": [
+       "A lamp is always on",
+       "The heat from your food goes out there",
+       "The fridge has a fever"
+      ],
+      "fr": [
+       "Une lampe est toujours allumée",
+       "La chaleur de tes aliments sort par là",
+       "Le frigo a de la fièvre"
+      ],
+      "nl": [
+       "Er brandt altijd een lamp",
+       "De warmte van je eten gaat daar naar buiten",
+       "De koelkast heeft koorts"
+      ]
+     },
+     "ok": 1
+    }
+   ],
+   "game": {
+    "type": "order",
+    "title": {
+     "en": "Help the fridge move heat",
+     "fr": "Aide le frigo à sortir la chaleur",
+     "nl": "Help de koelkast warmte wegbrengen"
+    },
+    "intro": {
+     "en": "Put the steps in the right order!",
+     "fr": "Remets les étapes dans le bon ordre !",
+     "nl": "Zet de stappen in de goede volgorde!"
+    },
+    "done": {
+     "en": "Brrr! Your juice is nice and cold.",
+     "fr": "Brrr ! Ton jus est bien frais.",
+     "nl": "Brrr! Je sap is lekker koud."
+    },
+    "items": {
+     "en": [
+      "The liquid flows through pipes inside the fridge",
+      "It soaks up heat from your food",
+      "It turns into a gas",
+      "The compressor squeezes the gas",
+      "The gas lets the heat out at the back",
+      "It turns back into a liquid"
+     ],
+     "fr": [
+      "Le liquide circule dans les tuyaux du frigo",
+      "Il absorbe la chaleur des aliments",
+      "Il devient un gaz",
+      "Le compresseur comprime le gaz",
+      "Le gaz relâche la chaleur à l’arrière",
+      "Il redevient liquide"
+     ],
+     "nl": [
+      "De vloeistof stroomt door de buizen in de koelkast",
+      "Hij neemt de warmte van je eten op",
+      "Hij wordt een gas",
+      "De compressor perst het gas samen",
+      "Het gas laat de warmte los aan de achterkant",
+      "Hij wordt weer vloeibaar"
+     ]
+    }
+   },
+   "worldName": {
+    "en": "Energy",
+    "fr": "Énergie",
+    "nl": "Energie"
+   },
+   "adult": {
+    "en": "For grown-ups: the Energy world in the IMAGINE Scientific Universe",
+    "fr": "Pour les adultes : le monde Énergie dans l’IMAGINE Scientific Universe",
+    "nl": "Voor volwassenen: de wereld Energie in het IMAGINE Scientific Universe"
+   },
+   "added": "2026-11-22",
+   "voice": true
   }
  ]
 }
