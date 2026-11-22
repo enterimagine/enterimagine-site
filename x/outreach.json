@@ -166,7 +166,7 @@
       "url": "https://x.com/esaoperations/status/2124188241247019460",
       "seen": "2026-11-21",
       "draft": "Hard to imagine a longer 37 minutes than a burn with no signal. Mercury hasn't had an orbiter since NASA's MESSENGER ended in 2015, so MPO and Mio arriving together for two views of the same planet is a big moment.",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@NewsHour",
@@ -174,7 +174,7 @@
       "url": "https://x.com/NewsHour/status/2123930600826347619",
       "seen": "2026-11-21",
       "draft": "A big puzzle waiting for them: Mercury is the only rocky planet besides Earth with a global magnetic field, yet it's only about 1 percent as strong as ours. Two orbiters measuring it at once should help show how such a small planet keeps it going.",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@SPACEdotcom",
@@ -182,7 +182,7 @@
       "url": "https://x.com/SPACEdotcom/status/2124181144908496999",
       "seen": "2026-11-21",
       "draft": "Rømer's timings implied light needs about 22 minutes to cross Earth's orbit, while today we know it's closer to 16.6 minutes. Not bad for clocking a moon's eclipses with 17th-century clocks!",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@Nature",
@@ -190,6 +190,30 @@
       "url": "https://x.com/Nature/status/2124163679646077120",
       "seen": "2026-11-21",
       "draft": "If the brain really keeps a record of past infections, that would be a second kind of memory working alongside the immune system's own. Curious whether researchers have a sense of where in the brain those traces might live.",
+      "status": "skipped"
+    },
+    {
+      "account": "@Cmdr_Hadfield",
+      "post": "After 8 years slingshotting through the solar system, it made it! Satellite @BepiColombo braked for 37 mins: now in perma",
+      "url": "https://x.com/Cmdr_Hadfield/status/2124513799357001797",
+      "seen": "2026-11-22",
+      "draft": "Even on a planet that hot, MESSENGER found strong evidence of water ice in permanently shadowed craters near the poles: enough to cover an area the size of Washington, D.C. more than 2 miles deep. Curious what two orbiters will add to that picture!",
+      "status": "drafted"
+    },
+    {
+      "account": "@physorg_com",
+      "post": "An atom-sized black hole with an asteroid’s mass could destroy a fast-spinning star from within, producing a detectable f",
+      "url": "https://x.com/physorg_com/status/2124518943498830043",
+      "seen": "2026-11-22",
+      "draft": "An atom-sized black hole with about a millionth of Earth's mass, quietly eating a star from the inside for millions of years and then blowing it apart within seconds. If such a flash is spotted, how would astronomers tell it apart from other stellar explosions?",
+      "status": "drafted"
+    },
+    {
+      "account": "@newscientist",
+      "post": "Astronomers have caught a giant star in the act of expanding and engulfing another star, and the process is more complex t",
+      "url": "https://x.com/newscientist/status/2124513947554373702",
+      "seen": "2026-11-22",
+      "draft": "For scale: a star 350 times wider than the Sun, placed where our Sun sits, would reach past the orbits of Earth and even Mars. Remarkable that we can watch this happen in Andromeda, about 2.5 million light-years away.",
       "status": "drafted"
     }
   ]
