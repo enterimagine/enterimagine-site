@@ -207,6 +207,22 @@
       "url": "https://enterimagine.com/universe/the-night-shift-on-the-solar-farm/",
       "scheduled_at": "2026-11-23T08:45:00+01:00",
       "typefully_draft_id": 12100998
+    },
+    {
+      "number": 27,
+      "slug": "how-cold-does-a-quantum-computer-need-to-be",
+      "title": "How Cold Does a Quantum Computer Need to Be?",
+      "url": "https://enterimagine.com/universe/how-cold-does-a-quantum-computer-need-to-be/",
+      "scheduled_at": "2026-11-23T17:30:00+01:00",
+      "typefully_draft_id": 12124652
+    },
+    {
+      "number": 28,
+      "slug": "the-last-rehearsal-before-the-first-fare",
+      "title": "The Last Rehearsal Before the First Fare",
+      "url": "https://enterimagine.com/universe/the-last-rehearsal-before-the-first-fare/",
+      "scheduled_at": "2026-11-24T08:45:00+01:00",
+      "typefully_draft_id": 12124653
     }
   ]
 }
