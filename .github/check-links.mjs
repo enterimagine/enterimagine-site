@@ -52,7 +52,10 @@ const verifiedByHand = new Map([
   ['https://new.abb.com/news/detail/128070/abb-and-cosmic-use-ai-powered-robots-to-rebuild-homes-in-los-angeles-area', '2026-11-20'],
   ['https://wis-wander.weizmann.ac.il/node/8073', '2026-11-21'],
   ['https://pangea.stanford.edu/ERE/pdf/IGAstandard/SGW/2025/Titov.pdf', '2026-11-22'],
-  ['https://materialssciences.lbl.gov/2026/11/03/competing-mechanisms-toughen-refractory-medium-entropy-alloys-at-20-k/', '2026-11-22']
+  ['https://materialssciences.lbl.gov/2026/11/03/competing-mechanisms-toughen-refractory-medium-entropy-alloys-at-20-k/', '2026-11-22'],
+  ['https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease', '2026-11-22'],
+  ['https://land.copernicus.eu/pan-european/european-ground-motion-service', '2026-11-23'],
+  ['https://www.sanidad.gob.es/normativa/docs/2026.07.01_CPP_PRD_Aguas_residuales_urbanas.pdf', '2026-11-23']
 ]);
 const ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36';
 async function probe(url) {

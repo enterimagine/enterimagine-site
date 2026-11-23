@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "7a34a3598eb90ee409b28bb90d0bb1c020eb389f",
-  "publicPolicySha256": "5527dadc458847dd8c54c45248c6fc4441c8fd6b790953051e0d26b51cf9b214",
+  "sourceCommit": "5a2366cedcf0c410dd534351b087be37ba670a0b",
+  "publicPolicySha256": "17902b89a358b7c0d2aa47a7880beeaf286c0e6091a6309af123e824b4154d56",
   "nodeVersion": "v24.19.0",
-  "payloadId": "efa3a6673b30e9c01dfe559ecafd47322088196e52d58587d87e9390519a3f2b",
+  "payloadId": "c4cb5658394fc91e6295c2739b70a01833cdf1948bb27cdd3f3cfdb571038a9d",
   "files": [
     {
       "path": "404.html",
@@ -77,6 +77,11 @@
       "sha256": "4fd4a7419746af8eebdefc80eec77c4a9b56e5daf10e48318e88597bbce303de"
     },
     {
+      "path": "assets/articles/covers/the-bacteria-that-never-touch-the-battery.webp",
+      "size": 62308,
+      "sha256": "d582f92d4f1b8a0599fef98fc9f78837aacf99ac12e467a632ba037ffdcd33ab"
+    },
+    {
       "path": "assets/articles/covers/the-brain-scanner-that-lets-you-fidget.webp",
       "size": 52666,
       "sha256": "a9de10aa3aef3440113fd3bc7cd741bf6d1e6718d5fd59c443dc244924f72f6c"
@@ -100,6 +105,11 @@
       "path": "assets/articles/covers/the-clock-inside-the-nucleus.webp",
       "size": 61412,
       "sha256": "b259e1aca59845f3c0c93627481bf9aefa1b793f0366ce1cc630bf102a7d4c50"
+    },
+    {
+      "path": "assets/articles/covers/the-coastline-that-slid-two-feet.webp",
+      "size": 76860,
+      "sha256": "e098d6b58a97ada6b63a96a5aa8e6243fdea8b7dc2b4e18fefcd0b401b376fe0"
     },
     {
       "path": "assets/articles/covers/the-diamond-that-checks-the-grids-arithmetic.webp",
@@ -150,6 +160,11 @@
       "path": "assets/articles/covers/the-lunch-break-that-refuels-a-big-rig.webp",
       "size": 109210,
       "sha256": "633706216a55dbf7e40f164bb4785c1b0f5fe22d444b6db964d7d3a29d865791"
+    },
+    {
+      "path": "assets/articles/covers/the-mechanic-still-climbing-to-work.webp",
+      "size": 64234,
+      "sha256": "9b32951b6cf307dc4cfa27a3f02ff8d42ee9aa4916998eb9216d61652a40e1a9"
     },
     {
       "path": "assets/articles/covers/the-metal-that-keeps-its-nerve-at-minus-253.webp",
@@ -227,9 +242,19 @@
       "sha256": "c4a49ed6e1015e7d0762f4f54b1a76fa7831f04ad0f9c3b9ce02a7359a11f94b"
     },
     {
+      "path": "assets/articles/covers/the-staircase-that-keeps-growing.webp",
+      "size": 69710,
+      "sha256": "5ac642e006b19c35c483061f2b6eca8b7dfb0ab6fa8cc9f735b1c81cb8566fb3"
+    },
+    {
       "path": "assets/articles/covers/the-swimmer-grown-in-a-dish.webp",
       "size": 48526,
       "sha256": "c350ca953eaa042d52f1bfaca262e280ab0d8d69209a15bf538694c6b093e99c"
+    },
+    {
+      "path": "assets/articles/covers/the-voice-on-the-radio-isnt-in-the-plane.webp",
+      "size": 54864,
+      "sha256": "9281bb049db02345ead608f566d6d005b3226cd0671ffe4ffa31a197eac15a7e"
     },
     {
       "path": "assets/articles/covers/two-drills-one-volcano.webp",
@@ -367,6 +392,11 @@
       "sha256": "2eb7149c24228786abd2305da0ad685591d999efae4c0f1a39f7ef415ff4bf5f"
     },
     {
+      "path": "assets/articles/share/the-bacteria-that-never-touch-the-battery.jpg",
+      "size": 132960,
+      "sha256": "f451c1b0dea2a490bbff67ef44ec80e94f45fb733e9bd8ad75ff63e5560792f6"
+    },
+    {
       "path": "assets/articles/share/the-brain-scanner-that-lets-you-fidget.jpg",
       "size": 116761,
       "sha256": "f75ed5d40b7a58034c980fd5f67df71c681a17aaf120cb1369fdd9ae3b018c38"
@@ -390,6 +420,11 @@
       "path": "assets/articles/share/the-clock-inside-the-nucleus.jpg",
       "size": 133673,
       "sha256": "8fe51aef37a6b3fb2525c2e0541922a4b17306ad3a479bcb4527ee989aa874ec"
+    },
+    {
+      "path": "assets/articles/share/the-coastline-that-slid-two-feet.jpg",
+      "size": 151084,
+      "sha256": "43d0af620db6dc4cb533582083447baa61a7a1b71f62bc5d0222812e2cac59bd"
     },
     {
       "path": "assets/articles/share/the-diamond-that-checks-the-grids-arithmetic.jpg",
@@ -440,6 +475,11 @@
       "path": "assets/articles/share/the-lunch-break-that-refuels-a-big-rig.jpg",
       "size": 195694,
       "sha256": "85230ee78399b45761956fb0247fc9cd551f597b14c1b1c8e5ec13143f0d7167"
+    },
+    {
+      "path": "assets/articles/share/the-mechanic-still-climbing-to-work.jpg",
+      "size": 129173,
+      "sha256": "6e666bbf28a41a85d295d95e8ceac97290bd30c6e2a9a6c6848c7059d2dc34b7"
     },
     {
       "path": "assets/articles/share/the-metal-that-keeps-its-nerve-at-minus-253.jpg",
@@ -517,9 +557,19 @@
       "sha256": "837de6e93d355021f44222d586bae8f2f54d9940dcaddba1bb54f721c21ed44f"
     },
     {
+      "path": "assets/articles/share/the-staircase-that-keeps-growing.jpg",
+      "size": 147353,
+      "sha256": "076f52f6613695f6898138b9dc29832bf9728f96aae3a682c13843763a58ffb3"
+    },
+    {
       "path": "assets/articles/share/the-swimmer-grown-in-a-dish.jpg",
       "size": 109923,
       "sha256": "b50dc463aefeca71750280790206c4470fec4a9fb918d8e09ef069701555c768"
+    },
+    {
+      "path": "assets/articles/share/the-voice-on-the-radio-isnt-in-the-plane.jpg",
+      "size": 131963,
+      "sha256": "eb3fbcc0403c26d5f54de423dbf1e99436c047197357337723e6962ca9148d50"
     },
     {
       "path": "assets/articles/share/two-drills-one-volcano.jpg",
@@ -592,6 +642,11 @@
       "sha256": "f8fd99e97b6fb895071a5d42d1b358a07052397c6f9a49702245da1766a31f4b"
     },
     {
+      "path": "assets/articles/the-bacteria-that-never-touch-the-battery.webp",
+      "size": 63498,
+      "sha256": "6efcdc680d3bc58e5d4087a32ca472c9a53cc205842f020e13a50f84e05e141b"
+    },
+    {
       "path": "assets/articles/the-brain-scanner-that-lets-you-fidget.webp",
       "size": 42700,
       "sha256": "9e98298b390acc51e6c6b9f42325d1520f30f1f5eaffed735b95d3132d434ad2"
@@ -615,6 +670,11 @@
       "path": "assets/articles/the-clock-inside-the-nucleus.webp",
       "size": 40082,
       "sha256": "266b8987376c6a73078729c941efd607269d9b814aa93e86dcc9dfa0eeca13a6"
+    },
+    {
+      "path": "assets/articles/the-coastline-that-slid-two-feet.webp",
+      "size": 46608,
+      "sha256": "08c2a848785b72230274b718638fba446fdb5199f420a14494543414175c1026"
     },
     {
       "path": "assets/articles/the-diamond-that-checks-the-grids-arithmetic.webp",
@@ -665,6 +725,11 @@
       "path": "assets/articles/the-lunch-break-that-refuels-a-big-rig.webp",
       "size": 46890,
       "sha256": "c0d5f5eed6f78e11d8dfe464062a6688b3a5e427cda2753930885a496358e1dc"
+    },
+    {
+      "path": "assets/articles/the-mechanic-still-climbing-to-work.webp",
+      "size": 41110,
+      "sha256": "905b9fa78200d09907f32f090116b97b2822dff04e1bb83006a7f5a4b64c6ccd"
     },
     {
       "path": "assets/articles/the-metal-that-keeps-its-nerve-at-minus-253.webp",
@@ -742,9 +807,19 @@
       "sha256": "ee8e44b61da47aeae0c8fc7084514822e041bb93823916a50754aaa277b2ce9e"
     },
     {
+      "path": "assets/articles/the-staircase-that-keeps-growing.webp",
+      "size": 49776,
+      "sha256": "19d31072ba6185d4b748760dd534d3a8b4715d2b311a9b58621e0c2a5d7f4fb3"
+    },
+    {
       "path": "assets/articles/the-swimmer-grown-in-a-dish.webp",
       "size": 28204,
       "sha256": "3ceed0bfb516c0a0d3ab27f398bbac92628b44495790ec1c9fd458e344ac18af"
+    },
+    {
+      "path": "assets/articles/the-voice-on-the-radio-isnt-in-the-plane.webp",
+      "size": 57334,
+      "sha256": "f8693f9c0253e5aa89c27ec797535c9786680aa5ef515d67ff92f5da3a869dcb"
     },
     {
       "path": "assets/articles/two-drills-one-volcano.webp",
@@ -978,18 +1053,18 @@
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 34041,
-      "sha256": "6069a3db242524707673bd31c2d48a0f2c61e0dee511fc175102acc5fd3ebfbe"
+      "size": 35588,
+      "sha256": "e4c73cea54a0aead6566465146b913b274ce2e0e00478478c603d1c1f4e02621"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 23251,
-      "sha256": "0d96a66787581b5098471903692509627c706ad7853df7e31281befd6cce2034"
+      "size": 24030,
+      "sha256": "4b53499c0f6035aeadcdc1b6cbe80b24f64b584350fd8399c1e9ed52a76199e6"
     },
     {
       "path": "explore/energy/index.html",
-      "size": 30195,
-      "sha256": "ae1774bf437aaabd3b87994c7b1f6482c73b2bab3d556ebb5bb493b30925a1c7"
+      "size": 31674,
+      "sha256": "f25ab311b88d407c6ba958772795e2d071afcf7017ddeb3bf530e7866b912907"
     },
     {
       "path": "explore/index.html",
@@ -998,8 +1073,8 @@
     },
     {
       "path": "explore/innovation/index.html",
-      "size": 24802,
-      "sha256": "13b2a8b5c16defd025d8ca35832c4965ebb10c6c413c2ae113ea80749d3c4954"
+      "size": 25581,
+      "sha256": "5e0ee1468b8e3d7bd539905a7de88c01802adf976590458ae9248fcd8e59db11"
     },
     {
       "path": "explore/quantum-computing/index.html",
@@ -1008,23 +1083,23 @@
     },
     {
       "path": "explore/robotics/index.html",
-      "size": 22002,
-      "sha256": "031f35a337f31fa87baa65195a3ba6875b3725621a613421a3c40a2b4b2f2c3b"
+      "size": 23477,
+      "sha256": "65372a03b56382c69d24c65fa797f1e58445e61cf683b73f696ee67938078cb9"
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 20140,
-      "sha256": "7eb4fd996ec4234fca4603702e1dde2740d8c382e1317307ae9d39ec9a080214"
+      "size": 21672,
+      "sha256": "cff4b330b426e2cfe6fa6bb990fe76872a395e3f00cbbde002e985b7f1cd2eaa"
     },
     {
       "path": "explore/smart-mobility/index.html",
-      "size": 21780,
-      "sha256": "5589e8846f96bf0af04d3eff374d8bebf7f544eaf34c9a8cb3f43b10b50252e6"
+      "size": 24094,
+      "sha256": "6ee2d1dad2b48803d5a64f7471ea7ee250f84e735e6f6f9ba3a50e66ec3bb8e4"
     },
     {
       "path": "explore/space/index.html",
-      "size": 22327,
-      "sha256": "2d266124e09e3114975e9106c9832b3738b4b358b7a348d9a2f78d580b97369a"
+      "size": 25334,
+      "sha256": "dd135ddce566a07d262e1eb9fbec3402ac4895fbb4686eee44d110684f23fcd3"
     },
     {
       "path": "index.html",
@@ -1183,8 +1258,8 @@
     },
     {
       "path": "universe/can-a-neural-network-find-the-enzyme-that-eats-your-sneakers/index.html",
-      "size": 24842,
-      "sha256": "0c505f0ef5af7f46a2d68b76f74fd4eff9b1e593224d09ad370c200804551486"
+      "size": 25027,
+      "sha256": "8ec6b24ed7b89ac7ae0ada5f654925861c031c42d6d6bbb14eafdeab2320b74e"
     },
     {
       "path": "universe/can-you-cool-a-data-center-in-space/index.html",
@@ -1198,8 +1273,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 92872,
-      "sha256": "0b4bde53d7f1076025190b72be08418bd029430f5f15e9abc455bd0f3a095af2"
+      "size": 100875,
+      "sha256": "7e7b578b84304822c204f628ae91d0e090edfc528e79a3b4a074f072ab4646b1"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -1232,6 +1307,11 @@
       "sha256": "16bd12de6fafb567f7318107d44387a98ceee87f1213e76b34c96b4af7deb5cc"
     },
     {
+      "path": "universe/the-bacteria-that-never-touch-the-battery/index.html",
+      "size": 22103,
+      "sha256": "4eafc7076d077f52b1c632c4bc56c898535d91c253398de8a75fd66dd04662f9"
+    },
+    {
       "path": "universe/the-brain-scanner-that-lets-you-fidget/index.html",
       "size": 22031,
       "sha256": "80d86d54d7c411b156d69ecf4d4423c7ee58c287d1ff1b1ad814332d8d91ac52"
@@ -1255,6 +1335,11 @@
       "path": "universe/the-clock-inside-the-nucleus/index.html",
       "size": 25280,
       "sha256": "ff69f379421207505fe71b0b75644d581577c76895e868cc289ce38645a4cdb0"
+    },
+    {
+      "path": "universe/the-coastline-that-slid-two-feet/index.html",
+      "size": 21553,
+      "sha256": "32d5bc91b3573cd63a02dcad4c365ccff5cfb648c42f4b0e487b8f7a9bfec2e1"
     },
     {
       "path": "universe/the-diamond-that-checks-the-grids-arithmetic/index.html",
@@ -1305,6 +1390,11 @@
       "path": "universe/the-lunch-break-that-refuels-a-big-rig/index.html",
       "size": 23299,
       "sha256": "59a6a0458e5885e9319c38395f3ecb29d5eafdbd7999640e1f895f70ccf63315"
+    },
+    {
+      "path": "universe/the-mechanic-still-climbing-to-work/index.html",
+      "size": 23756,
+      "sha256": "60356213b586b3adbd6d0de50f97d0116c59deed71f3cfd3795b6b15422d434f"
     },
     {
       "path": "universe/the-metal-that-keeps-its-nerve-at-minus-253/index.html",
@@ -1382,9 +1472,19 @@
       "sha256": "499dc53df90cebf5157c66cd287c8ae6b0f4917d20ccde4015834bfac656dbea"
     },
     {
+      "path": "universe/the-staircase-that-keeps-growing/index.html",
+      "size": 24232,
+      "sha256": "b309b106b1180cd0ae0d9aff3577ecc81d7923b44e014dc80128dda376fc0ad3"
+    },
+    {
       "path": "universe/the-swimmer-grown-in-a-dish/index.html",
       "size": 23885,
       "sha256": "94b8a0921ab50e48435f3d066abe92545f427d5e00e3339fc87091119824e3fb"
+    },
+    {
+      "path": "universe/the-voice-on-the-radio-isnt-in-the-plane/index.html",
+      "size": 25591,
+      "sha256": "bd96cffdf8cc42269474ff7fcaf5d6c3c0fbbd2f61f718d0a7cda141fb275227"
     },
     {
       "path": "universe/two-drills-one-volcano/index.html",
@@ -1597,7 +1697,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "5527dadc458847dd8c54c45248c6fc4441c8fd6b790953051e0d26b51cf9b214"
+      "sha256": "17902b89a358b7c0d2aa47a7880beeaf286c0e6091a6309af123e824b4154d56"
     },
     {
       "path": "tools/recovery-kit.mjs",
