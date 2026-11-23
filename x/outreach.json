@@ -198,7 +198,7 @@
       "url": "https://x.com/Cmdr_Hadfield/status/2124513799357001797",
       "seen": "2026-11-22",
       "draft": "Even on a planet that hot, MESSENGER found strong evidence of water ice in permanently shadowed craters near the poles: enough to cover an area the size of Washington, D.C. more than 2 miles deep. Curious what two orbiters will add to that picture!",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@physorg_com",
@@ -206,7 +206,7 @@
       "url": "https://x.com/physorg_com/status/2124518943498830043",
       "seen": "2026-11-22",
       "draft": "An atom-sized black hole with about a millionth of Earth's mass, quietly eating a star from the inside for millions of years and then blowing it apart within seconds. If such a flash is spotted, how would astronomers tell it apart from other stellar explosions?",
-      "status": "drafted"
+      "status": "skipped"
     },
     {
       "account": "@newscientist",
@@ -214,6 +214,38 @@
       "url": "https://x.com/newscientist/status/2124513947554373702",
       "seen": "2026-11-22",
       "draft": "For scale: a star 350 times wider than the Sun, placed where our Sun sits, would reach past the orbits of Earth and even Mars. Remarkable that we can watch this happen in Andromeda, about 2.5 million light-years away.",
+      "status": "skipped"
+    },
+    {
+      "account": "@GoogleDeepMind",
+      "post": "Quantum computers could one day transform fusion energy, chemistry, and drug discovery - if we can make the algorithms e",
+      "url": "https://x.com/GoogleDeepMind/status/2124911073266413634",
+      "seen": "2026-11-23",
+      "draft": "The Cytochrome P450 result stands out: an enzyme that breaks down most human medicines, now 2.5 times cheaper to simulate with memory down from 481 to 333 qubits. Did the agents mostly find tricks no human had tried or sharpen known ones in clever combinations?",
+      "status": "drafted"
+    },
+    {
+      "account": "@NASA",
+      "post": "We're on our way to explore the mysteries of Europa, an ocean world that could support life. Take a behind-the-scenes lo",
+      "url": "https://x.com/NASA/status/2124903027370774900",
+      "seen": "2026-11-23",
+      "draft": "Nice timing: Europa Clipper swings past Earth on Dec. 3 for a gravity assist before reaching Jupiter in April 2030 for 49 close flybys of Europa. Which instrument are you most excited to see on that first pass?",
+      "status": "drafted"
+    },
+    {
+      "account": "@NASAGoddard",
+      "post": "The great ESCAPADE to Mars. On track to arrive in September 2027, both of NASA's ESCAPADE identical spacecraft just succ",
+      "url": "https://x.com/NASAGoddard/status/2124881661116469435",
+      "seen": "2026-11-23",
+      "draft": "Love this route: looping around L2 and then slingshotting off Earth means a Mars mission no longer has to wait for the two-year launch window. Which result is the team most eager for once the twins split up to watch the solar wind and Mars's response at once?",
+      "status": "drafted"
+    },
+    {
+      "account": "@NASAArtemis",
+      "post": "This week, a supermoon will bring a little extra magic to the night sky. A supermoon occurs when a full Moon coincides wi",
+      "url": "https://x.com/NASAArtemis/status/2124893559291572607",
+      "seen": "2026-11-23",
+      "draft": "A perigee full Moon looks about 14% bigger and 30% brighter than one at apogee, roughly the difference between a nickel and a quarter held at arm's length. The giant Moon on the horizon is a trick of perception on top of that, so moonrise is the best time to look!",
       "status": "drafted"
     }
   ]
