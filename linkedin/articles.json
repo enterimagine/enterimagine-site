@@ -223,6 +223,22 @@
       "url": "https://enterimagine.com/universe/the-last-rehearsal-before-the-first-fare/",
       "scheduled_at": "2026-11-24T08:45:00+01:00",
       "typefully_draft_id": 12124653
+    },
+    {
+      "number": 29,
+      "slug": "what-the-sewer-knew-first",
+      "title": "What the Sewer Knew First",
+      "url": "https://enterimagine.com/universe/what-the-sewer-knew-first/",
+      "scheduled_at": "2026-11-24T17:30:00+01:00",
+      "typefully_draft_id": 12152922
+    },
+    {
+      "number": 30,
+      "slug": "waiting-on-the-plastic-eating-factory",
+      "title": "Waiting on the Plastic-Eating Factory",
+      "url": "https://enterimagine.com/universe/waiting-on-the-plastic-eating-factory/",
+      "scheduled_at": "2026-11-25T08:45:00+01:00",
+      "typefully_draft_id": 12152923
     }
   ]
 }
