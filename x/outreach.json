@@ -1,252 +1,38 @@
 {
   "handled": [
-    {
-      "account": "@physorg_com",
-      "post": "Voyager 1 is nearing a distance no human-made object has reached: one light-day from Earth, where its radio signals will tak",
-      "url": "https://x.com/physorg_com/status/2121875423185244542",
-      "seen": "2026-11-15",
-      "draft": "A full light-day is about 173 times the Earth-Sun distance: sunlight reaches us in about 8 minutes, while a hello to Voyager 1 needs two days for the round trip. Remarkable that a 1977 spacecraft still answers at all.",
-      "status": "skipped"
-    },
-    {
-      "account": "@newscientist",
-      "post": "The doughnut shape of the Event Horizon Telescope’s first image of a black hole has come under fire, but an independent c",
-      "url": "https://x.com/newscientist/status/2121881341922865160",
-      "seen": "2026-11-15",
-      "draft": "Independent checks like this are science at its best. Did the new method also recover the brighter side of the ring, or mainly its size and shape?",
-      "status": "skipped"
-    },
-    {
-      "account": "@Nature",
-      "post": "A pioneering therapy that edits genes inside a recipient’s body continues to be effective four years after treatment",
-      "url": "https://x.com/Nature/status/2121966701189194046",
-      "seen": "2026-11-15",
-      "draft": "Four years of lasting effect from a one-time edit made inside the body is a remarkable milestone. What do researchers see as the next big hurdle: longer safety follow-up or reaching tissues beyond the first targets?",
-      "status": "skipped"
-    },
-    {
-      "account": "@esa",
-      "post": "Our planetary defence mission Hera is about to reveal the first detailed images of asteroid Dimorphos since NASA’s DART im",
-      "url": "https://x.com/esa/status/2122363483354280353",
-      "seen": "2026-11-16",
-      "draft": "What a follow-up to DART: its 2022 impact cut Dimorphos's 11 hour 55 minute orbit around Didymos by about 32 minutes. Can't wait to see whether Hera finds a neat crater or a reshaped moonlet.",
-      "status": "skipped"
-    },
-    {
-      "account": "@NASAHubble",
-      "post": "We're getting closer and closer to the first images from @NASARoman! Here's a quick crash course on how Roman and Hubble wi",
-      "url": "https://x.com/NASAHubble/status/2122371140387582219",
-      "seen": "2026-11-16",
-      "draft": "Roman's main camera captures a patch of sky about 100 times larger than Hubble's infrared camera in one shot. Like pairing a panoramic lens with a zoom lens: one maps the crowd while the other studies the faces.",
-      "status": "skipped"
-    },
-    {
-      "account": "@SPACEdotcom",
-      "post": "The Leonid meteor shower peaks overnight on Nov. 17-18, sending shooting stars racing across the night sky from the directi",
-      "url": "https://x.com/SPACEdotcom/status/2122380936193167626",
-      "seen": "2026-11-16",
-      "draft": "Leonids are some of the fastest meteors around: dust from Comet Tempel-Tuttle hits our atmosphere at about 44 miles per second, fast enough to cross the continental US in roughly a minute. Clear skies to everyone heading out!",
-      "status": "skipped"
-    },
-    {
-      "account": "@IBMResearch",
-      "post": "At SC26 in Chicago, @IBM, @nvidia, and @Fermilab announced plans for a modular quantum computing co-design platform to adv",
-      "url": "https://x.com/IBMResearch/status/2122370483316203814",
-      "seen": "2026-11-16",
-      "draft": "Treating quantum processors as specialists on a classical supercomputing team feels like the realistic path forward. Which nuclear physics problem do you expect to benefit first: nuclear structure or real-time dynamics like scattering?",
-      "status": "skipped"
-    },
-    {
-      "account": "@NASA",
-      "post": "Join us in getting a look at the universe as it has never been seen before. On Dec. 7, at 3:30pm ET (2030 UTC), @NASARoman",
-      "url": "https://x.com/NASA/status/2122740072386609201",
-      "seen": "2026-11-17",
-      "draft": "Roman's 2.4-meter mirror is the same size as Hubble's, yet each snapshot takes in about 100 times more sky. Which first image are you most curious about: a deep galaxy field or the crowded core of our Milky Way?",
-      "status": "skipped"
-    },
-    {
-      "account": "@NASAEarth",
-      "post": "ICYMI: The ozone layer is still on track for long-term recovery, despite a larger Antarctic ozone hole this year. The 2026",
-      "url": "https://x.com/NASAEarth/status/2122723237570253179",
-      "seen": "2026-11-17",
-      "draft": "Good reminder that one big year doesn't undo the trend: the latest UN assessment still expects the Antarctic ozone layer to return to 1980 levels around 2066 thanks to the Montreal Protocol. Wild how much a stubborn polar vortex can still sway a single season.",
-      "status": "skipped"
-    },
-    {
-      "account": "@ScienceMagazine",
-      "post": "Some archaea—an ancient group of microorganisms—have an entirely novel genetic code, according to a 2025 study in Science.",
-      "url": "https://x.com/ScienceMagazine/status/2122751381731786808",
-      "seen": "2026-11-17",
-      "draft": "Pyrrolysine has a great backstory: first found in 2002 in the methane-making microbe Methanosarcina barkeri, it became known as the 22nd genetically encoded amino acid. Do these archaea still use that codon as a stop anywhere, or has it fully switched meaning?",
-      "status": "skipped"
-    },
-    {
-      "account": "@SkyandTelescope",
-      "post": "Hear from Voyager Project Scientist Linda Spilker as she discusses the latest updates from the Voyager probes — and what it",
-      "url": "https://x.com/SkyandTelescope/status/2122735272244711836",
-      "seen": "2026-11-17",
-      "draft": "One light-day is about 173 times the Earth-Sun distance, so a hello to Voyager 1 now takes a full day to arrive and another day for the answer to come back. Not bad for a spacecraft launched in 1977.",
-      "status": "skipped"
-    },
-    {
-      "account": "@NASAWebb",
-      "post": "Two stars enter...\n\nWebb observed the aftermath of a star merger, helping astronomers piece together the fate of the pai",
-      "url": "https://x.com/NASAWebb/status/2123084369023615031",
-      "seen": "2026-11-18",
-      "draft": "From first contact to merger took only about seven orbits, while other known binary star mergers needed thousands. Catching it with Webb just 47 days after the eruption peaked makes this astronomy almost in real time.",
-      "status": "posted"
-    },
-    {
-      "account": "@ScienceNews",
-      "post": "Spacecraft have only ever zipped past binary asteroids, never stayed to explore in detail. That ends now.",
-      "url": "https://x.com/ScienceNews/status/2122778102036148360",
-      "seen": "2026-11-18",
-      "draft": "Binary asteroids may make up about 15 percent of all asteroids, so a close look at Didymos and Dimorphos could teach us about a whole class of objects. Most curious about the Juventas radar: will Dimorphos turn out to be rubble all the way down?",
-      "status": "posted"
-    },
-    {
-      "account": "@sciam",
-      "post": "NASA’s Voyager 1 is now the first human-made object to reach a distance of one light-day from Earth. But it’s unlikely t",
-      "url": "https://x.com/sciam/status/2123008373289308466",
-      "seen": "2026-11-18",
-      "draft": "Even at about 38,000 miles per hour, Voyager 1 needed 49 years to cover one light-day, which is why faster solar sails are so exciting. If a new envoy could carry essentially all published human knowledge, what would you put on top of the pile?",
-      "status": "posted"
-    },
-    {
-      "account": "@QuantaMagazine",
-      "post": "How is it possible that a black hole’s surface tells us about its interior volume? This finding is a critical clue towar",
-      "url": "https://x.com/QuantaMagazine/status/2122805730629542127",
-      "seen": "2026-11-18",
-      "draft": "The idea that a black hole's information may be written on its surface rather than stored in its volume never stops being strange. Do physicists expect the same holographic picture to hold for our own expanding universe?",
-      "status": "posted"
-    },
-    {
-      "account": "@NASA",
-      "post": "These baby stars are going straight to the top of the charts. A new album from @ChandraXray collects snapshots of baby st",
-      "url": "https://x.com/NASA/status/2123435938848067841",
-      "seen": "2026-11-19",
-      "draft": "Love the detail in the Orion track: the more than a thousand young stars Chandra sees there become twinkling sounds while the diffuse X-ray glow plays as pure high tones. Which nursery sounds best to you: Orion, M82, the Cosmic Cliffs or Rho Ophiuchi?",
-      "status": "skipped"
-    },
-    {
-      "account": "@esaoperations",
-      "post": "Big news! @esa's Deep Space Antenna 4 (DSA 4) can now send commands to two spacecraft simultaneously in X-band. DSA 4 is p",
-      "url": "https://x.com/esaoperations/status/2123454735365681588",
-      "seen": "2026-11-19",
-      "draft": "Mars is the perfect test bed: Mars Express and TGO sit close enough in the sky that one pointing of the 35 m dish reaches both, like handing two people different notes in a single move. Could the same trick one day help missions flying near Mercury?",
-      "status": "skipped"
-    },
-    {
-      "account": "@BepiColombo",
-      "post": "We're almost there! On Saturday, 21 November, at 18:24 UTC, 19:24 CET / Sunday 22 November 03:24 JST in Japan, four thrus",
-      "url": "https://x.com/BepiColombo/status/2123750588475449416",
-      "seen": "2026-11-20",
-      "draft": "Nine gravity assists over eight years (one at Earth, two at Venus and six at Mercury), all to slow down enough for Mercury to hold on. Fingers crossed for a clean 37-minute burn: after that, Mio and MPO head to very different orbits for two views of the same planet!",
-      "status": "skipped"
-    },
-    {
-      "account": "@NASASolarSystem",
-      "post": "Millions of people fly every day, but there’s only one trip like this. Send your name nearly a billion miles to Saturn’s m",
-      "url": "https://x.com/NASASolarSystem/status/2123830179617186024",
-      "seen": "2026-11-20",
-      "draft": "Eight sets of coaxial rotors on a world where a dense, calm atmosphere and low gravity make flying the smartest way to explore. Which stop are people most excited for: the dune fields or the rim of Selk crater?",
-      "status": "skipped"
-    },
-    {
-      "account": "@MIT",
-      "post": "Mechanical engineers have developed a dry and stretchy material that could eliminate the need for wet, sticky gel in ultra",
-      "url": "https://x.com/MIT/status/2123793284413763624",
-      "seen": "2026-11-20",
-      "draft": "Swapping sticky gel for a dry, stretchy layer feels like the small detail that makes wearable ultrasound practical. How well does it keep acoustic contact as skin moves and sweats over many hours?",
-      "status": "skipped"
-    },
-    {
-      "account": "@esaoperations",
-      "post": "A turn to silence. As planned, ESA / JAXA's BepiColombo spacecraft has reoriented itself into the required attitude for th",
-      "url": "https://x.com/esaoperations/status/2124188241247019460",
-      "seen": "2026-11-21",
-      "draft": "Hard to imagine a longer 37 minutes than a burn with no signal. Mercury hasn't had an orbiter since NASA's MESSENGER ended in 2015, so MPO and Mio arriving together for two views of the same planet is a big moment.",
-      "status": "skipped"
-    },
-    {
-      "account": "@NewsHour",
-      "post": "A spacecraft is about to enter orbit around Mercury for only the second time in history. The BepiColombo mission is a join",
-      "url": "https://x.com/NewsHour/status/2123930600826347619",
-      "seen": "2026-11-21",
-      "draft": "A big puzzle waiting for them: Mercury is the only rocky planet besides Earth with a global magnetic field, yet it's only about 1 percent as strong as ours. Two orbiters measuring it at once should help show how such a small planet keeps it going.",
-      "status": "skipped"
-    },
-    {
-      "account": "@SPACEdotcom",
-      "post": "On Nov. 21, 1676, the Danish astronomer Ole Rømer discovered the speed of lightwhile observing Jupiter and its moon volcanic",
-      "url": "https://x.com/SPACEdotcom/status/2124181144908496999",
-      "seen": "2026-11-21",
-      "draft": "Rømer's timings implied light needs about 22 minutes to cross Earth's orbit, while today we know it's closer to 16.6 minutes. Not bad for clocking a moon's eclipses with 17th-century clocks!",
-      "status": "skipped"
-    },
-    {
-      "account": "@Nature",
-      "post": "The brain might decode pathogens, store memories of previous illnesses and prepare the body for future threats",
-      "url": "https://x.com/Nature/status/2124163679646077120",
-      "seen": "2026-11-21",
-      "draft": "If the brain really keeps a record of past infections, that would be a second kind of memory working alongside the immune system's own. Curious whether researchers have a sense of where in the brain those traces might live.",
-      "status": "skipped"
-    },
-    {
-      "account": "@Cmdr_Hadfield",
-      "post": "After 8 years slingshotting through the solar system, it made it! Satellite @BepiColombo braked for 37 mins: now in perma",
-      "url": "https://x.com/Cmdr_Hadfield/status/2124513799357001797",
-      "seen": "2026-11-22",
-      "draft": "Even on a planet that hot, MESSENGER found strong evidence of water ice in permanently shadowed craters near the poles: enough to cover an area the size of Washington, D.C. more than 2 miles deep. Curious what two orbiters will add to that picture!",
-      "status": "skipped"
-    },
-    {
-      "account": "@physorg_com",
-      "post": "An atom-sized black hole with an asteroid’s mass could destroy a fast-spinning star from within, producing a detectable f",
-      "url": "https://x.com/physorg_com/status/2124518943498830043",
-      "seen": "2026-11-22",
-      "draft": "An atom-sized black hole with about a millionth of Earth's mass, quietly eating a star from the inside for millions of years and then blowing it apart within seconds. If such a flash is spotted, how would astronomers tell it apart from other stellar explosions?",
-      "status": "skipped"
-    },
-    {
-      "account": "@newscientist",
-      "post": "Astronomers have caught a giant star in the act of expanding and engulfing another star, and the process is more complex t",
-      "url": "https://x.com/newscientist/status/2124513947554373702",
-      "seen": "2026-11-22",
-      "draft": "For scale: a star 350 times wider than the Sun, placed where our Sun sits, would reach past the orbits of Earth and even Mars. Remarkable that we can watch this happen in Andromeda, about 2.5 million light-years away.",
-      "status": "skipped"
-    },
-    {
-      "account": "@GoogleDeepMind",
-      "post": "Quantum computers could one day transform fusion energy, chemistry, and drug discovery - if we can make the algorithms e",
-      "url": "https://x.com/GoogleDeepMind/status/2124911073266413634",
-      "seen": "2026-11-23",
-      "draft": "The Cytochrome P450 result stands out: an enzyme that breaks down most human medicines, now 2.5 times cheaper to simulate with memory down from 481 to 333 qubits. Did the agents mostly find tricks no human had tried or sharpen known ones in clever combinations?",
-      "status": "drafted"
-    },
-    {
-      "account": "@NASA",
-      "post": "We're on our way to explore the mysteries of Europa, an ocean world that could support life. Take a behind-the-scenes lo",
-      "url": "https://x.com/NASA/status/2124903027370774900",
-      "seen": "2026-11-23",
-      "draft": "Nice timing: Europa Clipper swings past Earth on Dec. 3 for a gravity assist before reaching Jupiter in April 2030 for 49 close flybys of Europa. Which instrument are you most excited to see on that first pass?",
-      "status": "drafted"
-    },
-    {
-      "account": "@NASAGoddard",
-      "post": "The great ESCAPADE to Mars. On track to arrive in September 2027, both of NASA's ESCAPADE identical spacecraft just succ",
-      "url": "https://x.com/NASAGoddard/status/2124881661116469435",
-      "seen": "2026-11-23",
-      "draft": "Love this route: looping around L2 and then slingshotting off Earth means a Mars mission no longer has to wait for the two-year launch window. Which result is the team most eager for once the twins split up to watch the solar wind and Mars's response at once?",
-      "status": "drafted"
-    },
-    {
-      "account": "@NASAArtemis",
-      "post": "This week, a supermoon will bring a little extra magic to the night sky. A supermoon occurs when a full Moon coincides wi",
-      "url": "https://x.com/NASAArtemis/status/2124893559291572607",
-      "seen": "2026-11-23",
-      "draft": "A perigee full Moon looks about 14% bigger and 30% brighter than one at apogee, roughly the difference between a nickel and a quarter held at arm's length. The giant Moon on the horizon is a trick of perception on top of that, so moonrise is the best time to look!",
-      "status": "drafted"
-    }
+    {"account": "@physorg_com", "post": "Voyager 1 is nearing a distance no human-made object has reached: one light-day from Earth, where its radio signals will tak", "url": "https://x.com/physorg_com/status/2121875423185244542", "seen": "2026-11-15", "draft": "A full light-day is about 173 times the Earth-Sun distance: sunlight reaches us in about 8 minutes, while a hello to Voyager 1 needs two days for the round trip. Remarkable that a 1977 spacecraft still answers at all.", "status": "skipped"},
+    {"account": "@newscientist", "post": "The doughnut shape of the Event Horizon Telescope’s first image of a black hole has come under fire, but an independent c", "url": "https://x.com/newscientist/status/2121881341922865160", "seen": "2026-11-15", "draft": "Independent checks like this are science at its best. Did the new method also recover the brighter side of the ring, or mainly its size and shape?", "status": "skipped"},
+    {"account": "@Nature", "post": "A pioneering therapy that edits genes inside a recipient’s body continues to be effective four years after treatment", "url": "https://x.com/Nature/status/2121966701189194046", "seen": "2026-11-15", "draft": "Four years of lasting effect from a one-time edit made inside the body is a remarkable milestone. What do researchers see as the next big hurdle: longer safety follow-up or reaching tissues beyond the first targets?", "status": "skipped"},
+    {"account": "@esa", "post": "Our planetary defence mission Hera is about to reveal the first detailed images of asteroid Dimorphos since NASA’s DART im", "url": "https://x.com/esa/status/2122363483354280353", "seen": "2026-11-16", "draft": "What a follow-up to DART: its 2022 impact cut Dimorphos's 11 hour 55 minute orbit around Didymos by about 32 minutes. Can't wait to see whether Hera finds a neat crater or a reshaped moonlet.", "status": "skipped"},
+    {"account": "@NASAHubble", "post": "We're getting closer and closer to the first images from @NASARoman! Here's a quick crash course on how Roman and Hubble wi", "url": "https://x.com/NASAHubble/status/2122371140387582219", "seen": "2026-11-16", "draft": "Roman's main camera captures a patch of sky about 100 times larger than Hubble's infrared camera in one shot. Like pairing a panoramic lens with a zoom lens: one maps the crowd while the other studies the faces.", "status": "skipped"},
+    {"account": "@SPACEdotcom", "post": "The Leonid meteor shower peaks overnight on Nov. 17-18, sending shooting stars racing across the night sky from the directi", "url": "https://x.com/SPACEdotcom/status/2122380936193167626", "seen": "2026-11-16", "draft": "Leonids are some of the fastest meteors around: dust from Comet Tempel-Tuttle hits our atmosphere at about 44 miles per second, fast enough to cross the continental US in roughly a minute. Clear skies to everyone heading out!", "status": "skipped"},
+    {"account": "@IBMResearch", "post": "At SC26 in Chicago, @IBM, @nvidia, and @Fermilab announced plans for a modular quantum computing co-design platform to adv", "url": "https://x.com/IBMResearch/status/2122370483316203814", "seen": "2026-11-16", "draft": "Treating quantum processors as specialists on a classical supercomputing team feels like the realistic path forward. Which nuclear physics problem do you expect to benefit first: nuclear structure or real-time dynamics like scattering?", "status": "skipped"},
+    {"account": "@NASA", "post": "Join us in getting a look at the universe as it has never been seen before. On Dec. 7, at 3:30pm ET (2030 UTC), @NASARoman", "url": "https://x.com/NASA/status/2122740072386609201", "seen": "2026-11-17", "draft": "Roman's 2.4-meter mirror is the same size as Hubble's, yet each snapshot takes in about 100 times more sky. Which first image are you most curious about: a deep galaxy field or the crowded core of our Milky Way?", "status": "skipped"},
+    {"account": "@NASAEarth", "post": "ICYMI: The ozone layer is still on track for long-term recovery, despite a larger Antarctic ozone hole this year. The 2026", "url": "https://x.com/NASAEarth/status/2122723237570253179", "seen": "2026-11-17", "draft": "Good reminder that one big year doesn't undo the trend: the latest UN assessment still expects the Antarctic ozone layer to return to 1980 levels around 2066 thanks to the Montreal Protocol. Wild how much a stubborn polar vortex can still sway a single season.", "status": "skipped"},
+    {"account": "@ScienceMagazine", "post": "Some archaea—an ancient group of microorganisms—have an entirely novel genetic code, according to a 2025 study in Science.", "url": "https://x.com/ScienceMagazine/status/2122751381731786808", "seen": "2026-11-17", "draft": "Pyrrolysine has a great backstory: first found in 2002 in the methane-making microbe Methanosarcina barkeri, it became known as the 22nd genetically encoded amino acid. Do these archaea still use that codon as a stop anywhere, or has it fully switched meaning?", "status": "skipped"},
+    {"account": "@SkyandTelescope", "post": "Hear from Voyager Project Scientist Linda Spilker as she discusses the latest updates from the Voyager probes — and what it", "url": "https://x.com/SkyandTelescope/status/2122735272244711836", "seen": "2026-11-17", "draft": "One light-day is about 173 times the Earth-Sun distance, so a hello to Voyager 1 now takes a full day to arrive and another day for the answer to come back. Not bad for a spacecraft launched in 1977.", "status": "skipped"},
+    {"account": "@NASAWebb", "post": "Two stars enter...\n\nWebb observed the aftermath of a star merger, helping astronomers piece together the fate of the pai", "url": "https://x.com/NASAWebb/status/2123084369023615031", "seen": "2026-11-18", "draft": "From first contact to merger took only about seven orbits, while other known binary star mergers needed thousands. Catching it with Webb just 47 days after the eruption peaked makes this astronomy almost in real time.", "status": "posted"},
+    {"account": "@ScienceNews", "post": "Spacecraft have only ever zipped past binary asteroids, never stayed to explore in detail. That ends now.", "url": "https://x.com/ScienceNews/status/2122778102036148360", "seen": "2026-11-18", "draft": "Binary asteroids may make up about 15 percent of all asteroids, so a close look at Didymos and Dimorphos could teach us about a whole class of objects. Most curious about the Juventas radar: will Dimorphos turn out to be rubble all the way down?", "status": "posted"},
+    {"account": "@sciam", "post": "NASA’s Voyager 1 is now the first human-made object to reach a distance of one light-day from Earth. But it’s unlikely t", "url": "https://x.com/sciam/status/2123008373289308466", "seen": "2026-11-18", "draft": "Even at about 38,000 miles per hour, Voyager 1 needed 49 years to cover one light-day, which is why faster solar sails are so exciting. If a new envoy could carry essentially all published human knowledge, what would you put on top of the pile?", "status": "posted"},
+    {"account": "@QuantaMagazine", "post": "How is it possible that a black hole’s surface tells us about its interior volume? This finding is a critical clue towar", "url": "https://x.com/QuantaMagazine/status/2122805730629542127", "seen": "2026-11-18", "draft": "The idea that a black hole's information may be written on its surface rather than stored in its volume never stops being strange. Do physicists expect the same holographic picture to hold for our own expanding universe?", "status": "posted"},
+    {"account": "@NASA", "post": "These baby stars are going straight to the top of the charts. A new album from @ChandraXray collects snapshots of baby st", "url": "https://x.com/NASA/status/2123435938848067841", "seen": "2026-11-19", "draft": "Love the detail in the Orion track: the more than a thousand young stars Chandra sees there become twinkling sounds while the diffuse X-ray glow plays as pure high tones. Which nursery sounds best to you: Orion, M82, the Cosmic Cliffs or Rho Ophiuchi?", "status": "skipped"},
+    {"account": "@esaoperations", "post": "Big news! @esa's Deep Space Antenna 4 (DSA 4) can now send commands to two spacecraft simultaneously in X-band. DSA 4 is p", "url": "https://x.com/esaoperations/status/2123454735365681588", "seen": "2026-11-19", "draft": "Mars is the perfect test bed: Mars Express and TGO sit close enough in the sky that one pointing of the 35 m dish reaches both, like handing two people different notes in a single move. Could the same trick one day help missions flying near Mercury?", "status": "skipped"},
+    {"account": "@BepiColombo", "post": "We're almost there! On Saturday, 21 November, at 18:24 UTC, 19:24 CET / Sunday 22 November 03:24 JST in Japan, four thrus", "url": "https://x.com/BepiColombo/status/2123750588475449416", "seen": "2026-11-20", "draft": "Nine gravity assists over eight years (one at Earth, two at Venus and six at Mercury), all to slow down enough for Mercury to hold on. Fingers crossed for a clean 37-minute burn: after that, Mio and MPO head to very different orbits for two views of the same planet!", "status": "skipped"},
+    {"account": "@NASASolarSystem", "post": "Millions of people fly every day, but there’s only one trip like this. Send your name nearly a billion miles to Saturn’s m", "url": "https://x.com/NASASolarSystem/status/2123830179617186024", "seen": "2026-11-20", "draft": "Eight sets of coaxial rotors on a world where a dense, calm atmosphere and low gravity make flying the smartest way to explore. Which stop are people most excited for: the dune fields or the rim of Selk crater?", "status": "skipped"},
+    {"account": "@MIT", "post": "Mechanical engineers have developed a dry and stretchy material that could eliminate the need for wet, sticky gel in ultra", "url": "https://x.com/MIT/status/2123793284413763624", "seen": "2026-11-20", "draft": "Swapping sticky gel for a dry, stretchy layer feels like the small detail that makes wearable ultrasound practical. How well does it keep acoustic contact as skin moves and sweats over many hours?", "status": "skipped"},
+    {"account": "@esaoperations", "post": "A turn to silence. As planned, ESA / JAXA's BepiColombo spacecraft has reoriented itself into the required attitude for th", "url": "https://x.com/esaoperations/status/2124188241247019460", "seen": "2026-11-21", "draft": "Hard to imagine a longer 37 minutes than a burn with no signal. Mercury hasn't had an orbiter since NASA's MESSENGER ended in 2015, so MPO and Mio arriving together for two views of the same planet is a big moment.", "status": "skipped"},
+    {"account": "@NewsHour", "post": "A spacecraft is about to enter orbit around Mercury for only the second time in history. The BepiColombo mission is a join", "url": "https://x.com/NewsHour/status/2123930600826347619", "seen": "2026-11-21", "draft": "A big puzzle waiting for them: Mercury is the only rocky planet besides Earth with a global magnetic field, yet it's only about 1 percent as strong as ours. Two orbiters measuring it at once should help show how such a small planet keeps it going.", "status": "skipped"},
+    {"account": "@SPACEdotcom", "post": "On Nov. 21, 1676, the Danish astronomer Ole Rømer discovered the speed of lightwhile observing Jupiter and its moon volcanic", "url": "https://x.com/SPACEdotcom/status/2124181144908496999", "seen": "2026-11-21", "draft": "Rømer's timings implied light needs about 22 minutes to cross Earth's orbit, while today we know it's closer to 16.6 minutes. Not bad for clocking a moon's eclipses with 17th-century clocks!", "status": "skipped"},
+    {"account": "@Nature", "post": "The brain might decode pathogens, store memories of previous illnesses and prepare the body for future threats", "url": "https://x.com/Nature/status/2124163679646077120", "seen": "2026-11-21", "draft": "If the brain really keeps a record of past infections, that would be a second kind of memory working alongside the immune system's own. Curious whether researchers have a sense of where in the brain those traces might live.", "status": "skipped"},
+    {"account": "@Cmdr_Hadfield", "post": "After 8 years slingshotting through the solar system, it made it! Satellite @BepiColombo braked for 37 mins: now in perma", "url": "https://x.com/Cmdr_Hadfield/status/2124513799357001797", "seen": "2026-11-22", "draft": "Even on a planet that hot, MESSENGER found strong evidence of water ice in permanently shadowed craters near the poles: enough to cover an area the size of Washington, D.C. more than 2 miles deep. Curious what two orbiters will add to that picture!", "status": "skipped"},
+    {"account": "@physorg_com", "post": "An atom-sized black hole with an asteroid’s mass could destroy a fast-spinning star from within, producing a detectable f", "url": "https://x.com/physorg_com/status/2124518943498830043", "seen": "2026-11-22", "draft": "An atom-sized black hole with about a millionth of Earth's mass, quietly eating a star from the inside for millions of years and then blowing it apart within seconds. If such a flash is spotted, how would astronomers tell it apart from other stellar explosions?", "status": "skipped"},
+    {"account": "@newscientist", "post": "Astronomers have caught a giant star in the act of expanding and engulfing another star, and the process is more complex t", "url": "https://x.com/newscientist/status/2124513947554373702", "seen": "2026-11-22", "draft": "For scale: a star 350 times wider than the Sun, placed where our Sun sits, would reach past the orbits of Earth and even Mars. Remarkable that we can watch this happen in Andromeda, about 2.5 million light-years away.", "status": "skipped"},
+    {"account": "@GoogleDeepMind", "post": "Quantum computers could one day transform fusion energy, chemistry, and drug discovery - if we can make the algorithms e", "url": "https://x.com/GoogleDeepMind/status/2124911073266413634", "seen": "2026-11-23", "draft": "The Cytochrome P450 result stands out: an enzyme that breaks down most human medicines, now 2.5 times cheaper to simulate with memory down from 481 to 333 qubits. Did the agents mostly find tricks no human had tried or sharpen known ones in clever combinations?", "status": "skipped"},
+    {"account": "@NASA", "post": "We're on our way to explore the mysteries of Europa, an ocean world that could support life. Take a behind-the-scenes lo", "url": "https://x.com/NASA/status/2124903027370774900", "seen": "2026-11-23", "draft": "Nice timing: Europa Clipper swings past Earth on Dec. 3 for a gravity assist before reaching Jupiter in April 2030 for 49 close flybys of Europa. Which instrument are you most excited to see on that first pass?", "status": "skipped"},
+    {"account": "@NASAGoddard", "post": "The great ESCAPADE to Mars. On track to arrive in September 2027, both of NASA's ESCAPADE identical spacecraft just succ", "url": "https://x.com/NASAGoddard/status/2124881661116469435", "seen": "2026-11-23", "draft": "Love this route: looping around L2 and then slingshotting off Earth means a Mars mission no longer has to wait for the two-year launch window. Which result is the team most eager for once the twins split up to watch the solar wind and Mars's response at once?", "status": "skipped"},
+    {"account": "@NASAArtemis", "post": "This week, a supermoon will bring a little extra magic to the night sky. A supermoon occurs when a full Moon coincides wi", "url": "https://x.com/NASAArtemis/status/2124893559291572607", "seen": "2026-11-23", "draft": "A perigee full Moon looks about 14% bigger and 30% brighter than one at apogee, roughly the difference between a nickel and a quarter held at arm's length. The giant Moon on the horizon is a trick of perception on top of that, so moonrise is the best time to look!", "status": "skipped"},
+    {"account": "@esascience", "post": ". @ESA_Euclid just broke its own record 🏆 The #DarkUniverse detective 🕵️ has discovered the most distant quasar to date: a", "url": "https://x.com/esascience/status/2125137531603677578", "seen": "2026-11-24", "draft": "Euclid only set the previous record in July, with a quasar seen about 670 million years after the Big Bang. Dún Aonghasa's light left when the Universe was under 5% of its current age: how did its black hole grow so big so fast?", "status": "drafted"},
+    {"account": "@esa", "post": "BepiColombo is safely in orbit around Mercury! Despite a software issue that cut its orbit insertion manoeuvre short, the ", "url": "https://x.com/esa/status/2124939363075100989", "seen": "2026-11-24", "draft": "Only the second mission ever to orbit Mercury after NASA's MESSENGER (2011 to 2015), this time with two orbiters in one go. Fingers crossed for the 9 December separation: how long until MPO and Mio settle into their own science orbits?", "status": "drafted"},
+    {"account": "@NASAJPL", "post": "Now streaming on NASA+ 📺 Before you even get to the radiation storms at Jupiter, sometimes you have to battle through hurri", "url": "https://x.com/NASAJPL/status/2124993067136811292", "seen": "2026-11-24", "draft": "Hurricane Milton made Europa Clipper wait out the storm before its Oct. 14, 2024 launch. Next up is an Earth flyby on Dec. 3, then 49 close passes of Europa after it reaches Jupiter in April 2030!", "status": "drafted"}
   ]
 }
