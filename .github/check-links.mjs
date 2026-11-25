@@ -44,6 +44,7 @@ for (const slug of dirs) {
 // Links that fail only for cloud servers but were opened by hand and work. Listed with the date of that check;
 // they count as warnings, so a red job always means a new problem. Re-check them now and then.
 const verifiedByHand = new Map([
+  ['https://svs.gsfc.nasa.gov/14774/', '2026-11-25'],
   ['https://epa.gov/climate-indicators/closer-look-heat-related-workplace-deaths', '2026-11-09'],
   ['https://www.fda.gov/drugs/guidances-drugs/development-new-stereoisomeric-drugs', '2026-11-09'],
   ['https://www.nrel.gov/pv/cell-efficiency.html', '2026-11-14'],

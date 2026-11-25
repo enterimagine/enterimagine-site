@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "fb380c06850567e1f922284a6a5b230f194a367f",
+  "sourceCommit": "09ec65646c8da99c08a892a01e73f603f6e555b3",
   "publicPolicySha256": "11c0b69e0fb123f924ceb2f5aa324c2ecd49ff56509258bb7ac802a820eda53a",
   "nodeVersion": "v24.19.0",
   "payloadId": "3dd92512b4de9e83d122aff062f66ad20c2eb72787bfb2fda8475c756133db93",
