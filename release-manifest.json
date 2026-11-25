@@ -1,15 +1,20 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "460d4ae9e5069b8f035083d66554583e8008ee74",
-  "publicPolicySha256": "17902b89a358b7c0d2aa47a7880beeaf286c0e6091a6309af123e824b4154d56",
+  "sourceCommit": "fb380c06850567e1f922284a6a5b230f194a367f",
+  "publicPolicySha256": "11c0b69e0fb123f924ceb2f5aa324c2ecd49ff56509258bb7ac802a820eda53a",
   "nodeVersion": "v24.19.0",
-  "payloadId": "211d590f39a300e89a1178b3c8f5e6e9dca580b70041db2cc0c255fc596d1942",
+  "payloadId": "3dd92512b4de9e83d122aff062f66ad20c2eb72787bfb2fda8475c756133db93",
   "files": [
     {
       "path": "404.html",
       "size": 3779,
       "sha256": "80f96c8109d1e4a9dfaad5d4be9d479ab488a79c5f8490551bcecea4a45eaf89"
+    },
+    {
+      "path": "assets/articles/a-power-bank-with-a-trailer-hitch.webp",
+      "size": 38492,
+      "sha256": "cc6cdb307fc27351adeefcc41ea36468b09e44714d083bf5a93e18cbefb20309"
     },
     {
       "path": "assets/articles/batteries-in-waiting.webp",
@@ -25,6 +30,11 @@
       "path": "assets/articles/can-you-cool-a-data-center-in-space.webp",
       "size": 21364,
       "sha256": "4266c8a0a3b9a6a7453079807508172087bd13457d4ed56f18311dbddf842720"
+    },
+    {
+      "path": "assets/articles/covers/a-power-bank-with-a-trailer-hitch.webp",
+      "size": 66354,
+      "sha256": "6a6145fa6380f305d86d526ecb39ccffc254fab908ab6fcd9854e9d8d69a366c"
     },
     {
       "path": "assets/articles/covers/batteries-in-waiting.webp",
@@ -142,6 +152,11 @@
       "sha256": "480508c8b8042e5fb25454f802b3af9d57768ec9c1e2b7810b9d133da48daffd"
     },
     {
+      "path": "assets/articles/covers/the-fusion-fuel-that-slowly-turns-into-cold.webp",
+      "size": 91454,
+      "sha256": "d27e70fb2de93fe595b6474e77c5740e3e502ca52a6bb1e2e096027a07009777"
+    },
+    {
       "path": "assets/articles/covers/the-germs-that-know-where-the-pipes-will-fail.webp",
       "size": 91516,
       "sha256": "278988e7120e36f13ec5a8164f5af92e8e3b44692798e6f45ed8abc0d0ba1dfb"
@@ -177,6 +192,11 @@
       "sha256": "3d980ed2d729f3973fe75586ebca0ae2db98b8f873bc8b2418be6acbc79ce9bd"
     },
     {
+      "path": "assets/articles/covers/the-molecule-that-used-to-be-the-computer.webp",
+      "size": 82104,
+      "sha256": "c3a2b6b33f6d6857d742880627f6c5aee3707452d0e4f18f053a5b365b6d1e29"
+    },
+    {
       "path": "assets/articles/covers/the-narrow-waist-of-everything.webp",
       "size": 94426,
       "sha256": "064e972bbb32e78f6f36da5d431e78e826f865d9263b2f94ee5298a4048f6504"
@@ -185,6 +205,11 @@
       "path": "assets/articles/covers/the-night-shift-on-the-solar-farm.webp",
       "size": 50018,
       "sha256": "3608d7e74cdafa096617f85c77f7ffd98ebb0299305b7b843eed28de2b577bbc"
+    },
+    {
+      "path": "assets/articles/covers/the-pear-that-heat-couldnt-find.webp",
+      "size": 63650,
+      "sha256": "0cd528b2d8b9b0ffb7b1b7b15b03ebaa7c9aaf268ea35b89043774c056061ed7"
     },
     {
       "path": "assets/articles/covers/the-planet-in-the-mirror.webp",
@@ -255,6 +280,11 @@
       "path": "assets/articles/covers/the-voice-on-the-radio-isnt-in-the-plane.webp",
       "size": 54864,
       "sha256": "9281bb049db02345ead608f566d6d005b3226cd0671ffe4ffa31a197eac15a7e"
+    },
+    {
+      "path": "assets/articles/covers/the-whisper-behind-the-milky-way.webp",
+      "size": 113978,
+      "sha256": "ab228dd0e3607810eea1b2f85a36e9f0df036a6b1c18eda22ac2c0578b9712ae"
     },
     {
       "path": "assets/articles/covers/two-drills-one-volcano.webp",
@@ -340,6 +370,11 @@
       "path": "assets/articles/running-out-of-cold.webp",
       "size": 59232,
       "sha256": "2d2f276d2866e90b6dd4a837e86ed85c6bd287245edc13e8e12550304264f61f"
+    },
+    {
+      "path": "assets/articles/share/a-power-bank-with-a-trailer-hitch.jpg",
+      "size": 143146,
+      "sha256": "b4e6168da608927989678bf9bccba68d619f4c8bb108d9ed464786b19d39e0a3"
     },
     {
       "path": "assets/articles/share/batteries-in-waiting.jpg",
@@ -457,6 +492,11 @@
       "sha256": "6a69a9f688ef41c5302796260f469f14b9ffffcad0182a09547776f937d6bed4"
     },
     {
+      "path": "assets/articles/share/the-fusion-fuel-that-slowly-turns-into-cold.jpg",
+      "size": 176097,
+      "sha256": "c3ec6316e8f021a333e80238222e16d403cf462b0e9b4bb4a28bb221b4a7e8d0"
+    },
+    {
       "path": "assets/articles/share/the-germs-that-know-where-the-pipes-will-fail.jpg",
       "size": 169857,
       "sha256": "969308e08e0f297f06a5f9e9c6808f6ab3dbf2b61c4b6d009bb2d3fdc1da5720"
@@ -492,6 +532,11 @@
       "sha256": "8b07672b919b825fee7da867f52440b11158a2a3d91ecdfe74ceaeac5ea06a12"
     },
     {
+      "path": "assets/articles/share/the-molecule-that-used-to-be-the-computer.jpg",
+      "size": 168419,
+      "sha256": "790ffd4aa5cc9fceaf349afe6ecfbeb45b1a6f9c524c96b7722f75da96ed6cdf"
+    },
+    {
       "path": "assets/articles/share/the-narrow-waist-of-everything.jpg",
       "size": 136133,
       "sha256": "75d17198ca5795fdaff0240dbe46cd4744b8065355c37afe6add5ab4e7851b29"
@@ -500,6 +545,11 @@
       "path": "assets/articles/share/the-night-shift-on-the-solar-farm.jpg",
       "size": 123789,
       "sha256": "73cf466ba2d2b412eec7f8584ea6a1d81f3bfd27bb917e255288f9c385378a8c"
+    },
+    {
+      "path": "assets/articles/share/the-pear-that-heat-couldnt-find.jpg",
+      "size": 132381,
+      "sha256": "0c6c306abe60a7af045b587c9028d7a0b217910a6b4161664b01f63f1575b361"
     },
     {
       "path": "assets/articles/share/the-planet-in-the-mirror.jpg",
@@ -570,6 +620,11 @@
       "path": "assets/articles/share/the-voice-on-the-radio-isnt-in-the-plane.jpg",
       "size": 131963,
       "sha256": "eb3fbcc0403c26d5f54de423dbf1e99436c047197357337723e6962ca9148d50"
+    },
+    {
+      "path": "assets/articles/share/the-whisper-behind-the-milky-way.jpg",
+      "size": 195904,
+      "sha256": "788bef3f143faa2debd894eb6e7bfedc880480759f8df98f8f3f20f0a6ab0060"
     },
     {
       "path": "assets/articles/share/two-drills-one-volcano.jpg",
@@ -707,6 +762,11 @@
       "sha256": "d1bd656180551ca1d4f5b3ebe587b7db69558f2ea968413ed037121f23bab99c"
     },
     {
+      "path": "assets/articles/the-fusion-fuel-that-slowly-turns-into-cold.webp",
+      "size": 52624,
+      "sha256": "fedafcaff45ce58e03c7b5c734514e6f448e3c7225675baee6eb6c362e02116a"
+    },
+    {
       "path": "assets/articles/the-germs-that-know-where-the-pipes-will-fail.webp",
       "size": 56462,
       "sha256": "5b279a0553a3eb7df591ee0fbbccfcc69bddf336d6653faef7ba74a0a08bf58a"
@@ -742,6 +802,11 @@
       "sha256": "002d122d47e21b06fc4e8d60eaf3bed9e239dcf4316edabd4d828c6871f11da5"
     },
     {
+      "path": "assets/articles/the-molecule-that-used-to-be-the-computer.webp",
+      "size": 57542,
+      "sha256": "540bcb7c08345e6adb6c94d944e3f80d749e7e994117fb07a40430aa3b617182"
+    },
+    {
       "path": "assets/articles/the-narrow-waist-of-everything.webp",
       "size": 60572,
       "sha256": "440811682830b085031ea541407f7cd9e880fe92f07b8eea2df486a02fbdf6bd"
@@ -750,6 +815,11 @@
       "path": "assets/articles/the-night-shift-on-the-solar-farm.webp",
       "size": 38714,
       "sha256": "4c83f8ab80c7e90fad612886ef4cbfed2798a2b23f4adf31034bb4192761353d"
+    },
+    {
+      "path": "assets/articles/the-pear-that-heat-couldnt-find.webp",
+      "size": 61870,
+      "sha256": "1abdf153e437fa14adc0ce72fc9e2e8361f9e3db935b004ba32e306d3fa21daf"
     },
     {
       "path": "assets/articles/the-planet-in-the-mirror.webp",
@@ -820,6 +890,11 @@
       "path": "assets/articles/the-voice-on-the-radio-isnt-in-the-plane.webp",
       "size": 57334,
       "sha256": "f8693f9c0253e5aa89c27ec797535c9786680aa5ef515d67ff92f5da3a869dcb"
+    },
+    {
+      "path": "assets/articles/the-whisper-behind-the-milky-way.webp",
+      "size": 61100,
+      "sha256": "d3e0c49addcb2ae62d04e3db27546f2c9e30ad9ff8a21d637c78732ca79b7446"
     },
     {
       "path": "assets/articles/two-drills-one-volcano.webp",
@@ -1053,18 +1128,18 @@
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 35588,
-      "sha256": "e4c73cea54a0aead6566465146b913b274ce2e0e00478478c603d1c1f4e02621"
+      "size": 37040,
+      "sha256": "1f989263d5de08549dddc0d6d9e6039ff1f7e7226e9ad048110283a8ac19b7dc"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 24030,
-      "sha256": "4b53499c0f6035aeadcdc1b6cbe80b24f64b584350fd8399c1e9ed52a76199e6"
+      "size": 24772,
+      "sha256": "1f0e09129d004cad346998e39a4dfe952aff45693609d70744b5f50f77f866e3"
     },
     {
       "path": "explore/energy/index.html",
-      "size": 31674,
-      "sha256": "f25ab311b88d407c6ba958772795e2d071afcf7017ddeb3bf530e7866b912907"
+      "size": 33119,
+      "sha256": "dfceaeac0b6c0aba41e239444236d5776e45311a7af0a8cab1a456c6c9ad9a21"
     },
     {
       "path": "explore/index.html",
@@ -1073,13 +1148,13 @@
     },
     {
       "path": "explore/innovation/index.html",
-      "size": 25581,
-      "sha256": "5e0ee1468b8e3d7bd539905a7de88c01802adf976590458ae9248fcd8e59db11"
+      "size": 26335,
+      "sha256": "32908f5837947953fb39893d506a05943511550aab0c995720db722afe7fc7c2"
     },
     {
       "path": "explore/quantum-computing/index.html",
-      "size": 26329,
-      "sha256": "4f0df6bd4b2ca1cd67b83b60612fe1769dc972ed9b9fc1daaf5a215060cab7fb"
+      "size": 27801,
+      "sha256": "f3b82e801822e9401eed0cb0d1f08209a1be35fe6169023521ce059e94cb3c6a"
     },
     {
       "path": "explore/robotics/index.html",
@@ -1093,13 +1168,13 @@
     },
     {
       "path": "explore/smart-mobility/index.html",
-      "size": 24094,
-      "sha256": "6ee2d1dad2b48803d5a64f7471ea7ee250f84e735e6f6f9ba3a50e66ec3bb8e4"
+      "size": 24809,
+      "sha256": "a8fe9df3375bb021f5b4c7b86f5080d651400e379e7ca0f5a7e6ce4cbd1fe6df"
     },
     {
       "path": "explore/space/index.html",
-      "size": 25334,
-      "sha256": "dd135ddce566a07d262e1eb9fbec3402ac4895fbb4686eee44d110684f23fcd3"
+      "size": 26032,
+      "sha256": "499e22aed90bec688f0290572be1d96f893652bbac3ee4c41cf2cd018519d7bd"
     },
     {
       "path": "index.html",
@@ -1252,6 +1327,11 @@
       "sha256": "5c0da5e3ae5236bba395528756b53ce0e079146e5ad342f2c6ca10b626111292"
     },
     {
+      "path": "universe/a-power-bank-with-a-trailer-hitch/index.html",
+      "size": 23427,
+      "sha256": "e3a56edb33e5aa84ea77b6a720c48caa8ab38c85c873a8e45b9feba2e5e07edf"
+    },
+    {
       "path": "universe/batteries-in-waiting/index.html",
       "size": 25073,
       "sha256": "8efae89c3423e25f4e722100e92cda10850d7236005f9ae53b4cedba195c3781"
@@ -1273,8 +1353,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 100875,
-      "sha256": "7e7b578b84304822c204f628ae91d0e090edfc528e79a3b4a074f072ab4646b1"
+      "size": 107761,
+      "sha256": "d68b52e65310c7bec1f1c44f67b2f35b669d79a39e05003ffed6df5ec703591a"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -1338,8 +1418,8 @@
     },
     {
       "path": "universe/the-coastline-that-slid-two-feet/index.html",
-      "size": 21553,
-      "sha256": "32d5bc91b3573cd63a02dcad4c365ccff5cfb648c42f4b0e487b8f7a9bfec2e1"
+      "size": 21720,
+      "sha256": "79ed48fa65d5a05e0e02e75dc74bddcfed5899544fc58c4891e7a4546c202123"
     },
     {
       "path": "universe/the-diamond-that-checks-the-grids-arithmetic/index.html",
@@ -1370,6 +1450,11 @@
       "path": "universe/the-ferry-that-had-to-hitchhike/index.html",
       "size": 25871,
       "sha256": "48aa18f75bed1dcefd0392d72c835b2ebdbecdb3d6cfa208d7103d77edc74ff7"
+    },
+    {
+      "path": "universe/the-fusion-fuel-that-slowly-turns-into-cold/index.html",
+      "size": 24958,
+      "sha256": "bba43b922a942db1dfa2ecfbc63d2f843a9c6c06fb91360b48f71d38c9c26e47"
     },
     {
       "path": "universe/the-germs-that-know-where-the-pipes-will-fail/index.html",
@@ -1407,6 +1492,11 @@
       "sha256": "7418f215ca89f3454d6edffea1e71666cff62e0fb33c10fc5b71eef15c362bc8"
     },
     {
+      "path": "universe/the-molecule-that-used-to-be-the-computer/index.html",
+      "size": 24181,
+      "sha256": "330599f9ea58e3ac6207221fdc15f69e911ef610cac8f2d531b8b128402b44d4"
+    },
+    {
       "path": "universe/the-narrow-waist-of-everything/index.html",
       "size": 30112,
       "sha256": "80c41782c0615a850969cd535f9c2d00d73791bcbfb03b6c01ebaf425c236cd6"
@@ -1415,6 +1505,11 @@
       "path": "universe/the-night-shift-on-the-solar-farm/index.html",
       "size": 22745,
       "sha256": "0f9e403a490f2c6e8da16f3965775df56aeeb853091ec0939d581a7e2ad8ecb9"
+    },
+    {
+      "path": "universe/the-pear-that-heat-couldnt-find/index.html",
+      "size": 22203,
+      "sha256": "dd0fdb157856b1e9ab10811814bb4609bf8c735cfb8b9b118c9239276730eeaa"
     },
     {
       "path": "universe/the-planet-in-the-mirror/index.html",
@@ -1485,6 +1580,11 @@
       "path": "universe/the-voice-on-the-radio-isnt-in-the-plane/index.html",
       "size": 25591,
       "sha256": "bd96cffdf8cc42269474ff7fcaf5d6c3c0fbbd2f61f718d0a7cda141fb275227"
+    },
+    {
+      "path": "universe/the-whisper-behind-the-milky-way/index.html",
+      "size": 25022,
+      "sha256": "a6efa0f229cd648be4e85fb8924d5f6eba0e3ab84ac5fc15d88e8c076d040d6c"
     },
     {
       "path": "universe/two-drills-one-volcano/index.html",
@@ -1697,7 +1797,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "17902b89a358b7c0d2aa47a7880beeaf286c0e6091a6309af123e824b4154d56"
+      "sha256": "11c0b69e0fb123f924ceb2f5aa324c2ecd49ff56509258bb7ac802a820eda53a"
     },
     {
       "path": "tools/recovery-kit.mjs",
