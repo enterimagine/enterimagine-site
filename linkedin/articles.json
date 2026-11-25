@@ -239,6 +239,22 @@
       "url": "https://enterimagine.com/universe/waiting-on-the-plastic-eating-factory/",
       "scheduled_at": "2026-11-25T08:45:00+01:00",
       "typefully_draft_id": 12152923
+    },
+    {
+      "number": 31,
+      "slug": "when-the-robot-picks-up-the-surgeons-tools",
+      "title": "When the Robot Picks Up the Surgeon's Tools",
+      "url": "https://enterimagine.com/universe/when-the-robot-picks-up-the-surgeons-tools/",
+      "scheduled_at": "2026-11-25T17:30:00+01:00",
+      "typefully_draft_id": 12179468
+    },
+    {
+      "number": 32,
+      "slug": "the-chip-that-asks-which-hand-life-uses",
+      "title": "The Chip That Asks Which Hand Life Uses",
+      "url": "https://enterimagine.com/universe/the-chip-that-asks-which-hand-life-uses/",
+      "scheduled_at": "2026-11-26T08:45:00+01:00",
+      "typefully_draft_id": 12179469
     }
   ]
 }
