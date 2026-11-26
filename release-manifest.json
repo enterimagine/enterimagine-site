@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "09ec65646c8da99c08a892a01e73f603f6e555b3",
-  "publicPolicySha256": "11c0b69e0fb123f924ceb2f5aa324c2ecd49ff56509258bb7ac802a820eda53a",
+  "sourceCommit": "ee368b32c3c96ee853825bbfa40122990d782c87",
+  "publicPolicySha256": "06d5f4c0c8460866c8063746a2edfbdf04b644e7543fd5ef95f427fc92262525",
   "nodeVersion": "v24.19.0",
-  "payloadId": "3dd92512b4de9e83d122aff062f66ad20c2eb72787bfb2fda8475c756133db93",
+  "payloadId": "5e23968d0999c45c97b603d4ebb283377c06e4643356f10099510eae0edac759",
   "files": [
     {
       "path": "404.html",
@@ -50,6 +50,11 @@
       "path": "assets/articles/covers/can-you-cool-a-data-center-in-space.webp",
       "size": 54532,
       "sha256": "394b859c22d16b151e53986bd7fb9634af29ffec534037e9408db26f73c35a22"
+    },
+    {
+      "path": "assets/articles/covers/heating-a-city-with-five-degree-water.webp",
+      "size": 107204,
+      "sha256": "b184a4782c78337897877ba8ed8e0f7f0f1db2b7e705414b9d84709e91a85c00"
     },
     {
       "path": "assets/articles/covers/how-cold-does-a-quantum-computer-need-to-be.webp",
@@ -132,6 +137,11 @@
       "sha256": "e2631632fa8ce7a79bcef6f3f1ca42d76a2908bd57828aad1e00a4675f8464af"
     },
     {
+      "path": "assets/articles/covers/the-drone-that-races-with-one-eye.webp",
+      "size": 33430,
+      "sha256": "5544693cf1ec681e0b5ed2e13e97d9ce2cbfba1c6ba183964bd43695111c3d58"
+    },
+    {
       "path": "assets/articles/covers/the-dust-that-leaves-on-its-own.webp",
       "size": 63330,
       "sha256": "ca9989607472bad093c3b4334260295ec3d2ecd1838662fe1432f7fe88d2acf7"
@@ -172,6 +182,11 @@
       "sha256": "54f2333200fd0bbd5c629b3b647941273c6a3761489ab7d71a2af89d184bb8cf"
     },
     {
+      "path": "assets/articles/covers/the-lattice-with-no-weakest-link.webp",
+      "size": 59446,
+      "sha256": "db5f6d1365e2914e677e5adac30d66d40d1400d51f9fc804569fad664cd3fe1e"
+    },
+    {
       "path": "assets/articles/covers/the-lunch-break-that-refuels-a-big-rig.webp",
       "size": 109210,
       "sha256": "633706216a55dbf7e40f164bb4785c1b0f5fe22d444b6db964d7d3a29d865791"
@@ -210,6 +225,11 @@
       "path": "assets/articles/covers/the-pear-that-heat-couldnt-find.webp",
       "size": 63650,
       "sha256": "0cd528b2d8b9b0ffb7b1b7b15b03ebaa7c9aaf268ea35b89043774c056061ed7"
+    },
+    {
+      "path": "assets/articles/covers/the-pig-kidney-that-held-a-place-in-line.webp",
+      "size": 55438,
+      "sha256": "706d6535f1544a4ea0c7e91525f045f90aa839234730c79a0592c45aca888bd2"
     },
     {
       "path": "assets/articles/covers/the-planet-in-the-mirror.webp",
@@ -347,6 +367,16 @@
       "sha256": "882d28fb910303e3bb3e0c1d6c0e454f2ecaa170b5c3a284be3702fe301ff982"
     },
     {
+      "path": "assets/articles/covers/who-will-give-hubble-a-lift.webp",
+      "size": 81176,
+      "sha256": "a4a0447ab8bb1b6f82f719fc85525166d37296f62cb1fd0177cab74f06cbd307"
+    },
+    {
+      "path": "assets/articles/heating-a-city-with-five-degree-water.webp",
+      "size": 56260,
+      "sha256": "f9e03acaf682ec97851735fc51e10c19b5dc29484b546fba97d640ce3348f8c5"
+    },
+    {
       "path": "assets/articles/how-cold-does-a-quantum-computer-need-to-be.webp",
       "size": 59004,
       "sha256": "226c94a3d082da25efcfec17491be5e37d8c88783133afe2940153c5c47d1a9e"
@@ -390,6 +420,11 @@
       "path": "assets/articles/share/can-you-cool-a-data-center-in-space.jpg",
       "size": 111994,
       "sha256": "8dc4acff74457fac9654a4a9a61a4e9a2923c3f4487ebfce7b778361f4e65529"
+    },
+    {
+      "path": "assets/articles/share/heating-a-city-with-five-degree-water.jpg",
+      "size": 193734,
+      "sha256": "37ec82dc5747e6736b27a966838b65c5b20e18a4406407322c204137f0d88cac"
     },
     {
       "path": "assets/articles/share/how-cold-does-a-quantum-computer-need-to-be.jpg",
@@ -472,6 +507,11 @@
       "sha256": "22f1743173040a611fa14b6aeccc4126bff4cd065d9aee5c087a4f25cc830168"
     },
     {
+      "path": "assets/articles/share/the-drone-that-races-with-one-eye.jpg",
+      "size": 83934,
+      "sha256": "78049e8d1308bf0d9917dab53acc65a8aa198f40439d9f0716e72128f64077d7"
+    },
+    {
       "path": "assets/articles/share/the-dust-that-leaves-on-its-own.jpg",
       "size": 138528,
       "sha256": "c304986b501c28181eceb599b9bd5b2532a36ea98850927cae3cf0a1a913e1e3"
@@ -512,6 +552,11 @@
       "sha256": "a6cfe06459ef17850d602fa58d76bd4c6a77f52e313e3893713404427528d02c"
     },
     {
+      "path": "assets/articles/share/the-lattice-with-no-weakest-link.jpg",
+      "size": 127750,
+      "sha256": "6dc0323abd8860a378b404671a5ca513b33cd5c3b1eae09698bb67f92f1d2fa8"
+    },
+    {
       "path": "assets/articles/share/the-lunch-break-that-refuels-a-big-rig.jpg",
       "size": 195694,
       "sha256": "85230ee78399b45761956fb0247fc9cd551f597b14c1b1c8e5ec13143f0d7167"
@@ -550,6 +595,11 @@
       "path": "assets/articles/share/the-pear-that-heat-couldnt-find.jpg",
       "size": 132381,
       "sha256": "0c6c306abe60a7af045b587c9028d7a0b217910a6b4161664b01f63f1575b361"
+    },
+    {
+      "path": "assets/articles/share/the-pig-kidney-that-held-a-place-in-line.jpg",
+      "size": 124467,
+      "sha256": "7657c9d6d28aab2b175433568cb8b8b2b7645fc6f82b9f93dc6a3a6b09b83e5a"
     },
     {
       "path": "assets/articles/share/the-planet-in-the-mirror.jpg",
@@ -687,6 +737,11 @@
       "sha256": "776fa06aa81b1685590c0a14918921bd3e9306daf289f738af3a98c015d7fd1d"
     },
     {
+      "path": "assets/articles/share/who-will-give-hubble-a-lift.jpg",
+      "size": 160914,
+      "sha256": "b914a3f431b397afdfb7106ec66a0408a892b7366a88ad82a2f7d8bc7074c13d"
+    },
+    {
       "path": "assets/articles/the-archive-that-fits-in-a-pill.webp",
       "size": 43262,
       "sha256": "6dd7a9487f499d97e53f67d2cc460ecca238a4d36c8df1cbf1c6034fa035bcd4"
@@ -742,6 +797,11 @@
       "sha256": "a9bcf5bec2c673d92e43273519f267058904fa0d0911d7895a3f0d41aa9ec7eb"
     },
     {
+      "path": "assets/articles/the-drone-that-races-with-one-eye.webp",
+      "size": 46128,
+      "sha256": "8227a14226f127fc20f91f17a91a93f85a816d925cab52cd13213a32f363a0bf"
+    },
+    {
       "path": "assets/articles/the-dust-that-leaves-on-its-own.webp",
       "size": 37734,
       "sha256": "b9b1b88cca4e1d643c6d39ed40933db25606b32a2db2a37772b9276e368711b7"
@@ -782,6 +842,11 @@
       "sha256": "88ec3ac33be605d0d664a555f3a67c8559e8286e08e5dbd11bc4bf0a13d438c6"
     },
     {
+      "path": "assets/articles/the-lattice-with-no-weakest-link.webp",
+      "size": 50640,
+      "sha256": "c17a0a17f843a4a1b91b0681187314d3d001a93294a7ab7daf35d5fd3f1dbc80"
+    },
+    {
       "path": "assets/articles/the-lunch-break-that-refuels-a-big-rig.webp",
       "size": 46890,
       "sha256": "c0d5f5eed6f78e11d8dfe464062a6688b3a5e427cda2753930885a496358e1dc"
@@ -820,6 +885,11 @@
       "path": "assets/articles/the-pear-that-heat-couldnt-find.webp",
       "size": 61870,
       "sha256": "1abdf153e437fa14adc0ce72fc9e2e8361f9e3db935b004ba32e306d3fa21daf"
+    },
+    {
+      "path": "assets/articles/the-pig-kidney-that-held-a-place-in-line.webp",
+      "size": 52894,
+      "sha256": "36955ab6f786325b4ce3a1dd0689980b70c8006018a4852e6e70bba449ac0102"
     },
     {
       "path": "assets/articles/the-planet-in-the-mirror.webp",
@@ -955,6 +1025,11 @@
       "path": "assets/articles/who-sets-out-the-triangles-when-no-one-is-driving.webp",
       "size": 69362,
       "sha256": "5883a86cb477d5c72c935a56a16dcbeb80b5e36c264d2c8f8ee86c81ad975371"
+    },
+    {
+      "path": "assets/articles/who-will-give-hubble-a-lift.webp",
+      "size": 56458,
+      "sha256": "c77d42e959d2af16ab2c0b6c2c7e9bd93ad377a2b2d5fb6e6692691c56145609"
     },
     {
       "path": "assets/episodes/when-data-centers-heat-our-homes.webp",
@@ -1128,18 +1203,18 @@
     },
     {
       "path": "explore/ai-data/index.html",
-      "size": 37040,
-      "sha256": "1f989263d5de08549dddc0d6d9e6039ff1f7e7226e9ad048110283a8ac19b7dc"
+      "size": 38505,
+      "sha256": "77bb85dad15f574a480160e473ff0f72bb92aaf538901d2e4d1d53803dddf9ca"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 24772,
-      "sha256": "1f0e09129d004cad346998e39a4dfe952aff45693609d70744b5f50f77f866e3"
+      "size": 25507,
+      "sha256": "9b3736e8baf57cf8f50d3abcbdcf2e356f4c1f1b048f6c8191ce90e8322613d3"
     },
     {
       "path": "explore/energy/index.html",
-      "size": 33119,
-      "sha256": "dfceaeac0b6c0aba41e239444236d5776e45311a7af0a8cab1a456c6c9ad9a21"
+      "size": 33823,
+      "sha256": "d29cbf8dba71008aef631952975b21c5077917f086600d8afd6379185c000acc"
     },
     {
       "path": "explore/index.html",
@@ -1148,8 +1223,8 @@
     },
     {
       "path": "explore/innovation/index.html",
-      "size": 26335,
-      "sha256": "32908f5837947953fb39893d506a05943511550aab0c995720db722afe7fc7c2"
+      "size": 28470,
+      "sha256": "064a5600d880e9d7564804688148b894d2f415bf3312bb978f0a6b80bc143392"
     },
     {
       "path": "explore/quantum-computing/index.html",
@@ -1158,23 +1233,23 @@
     },
     {
       "path": "explore/robotics/index.html",
-      "size": 23477,
-      "sha256": "65372a03b56382c69d24c65fa797f1e58445e61cf683b73f696ee67938078cb9"
+      "size": 25606,
+      "sha256": "1d09cc4b1d5b9822cdd75d9fd347e9a4ffd7bc6b3293913aa4c0303176137873"
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 21672,
-      "sha256": "cff4b330b426e2cfe6fa6bb990fe76872a395e3f00cbbde002e985b7f1cd2eaa"
+      "size": 22376,
+      "sha256": "8b9a86e4dacae6c729826e8aabd73ba886ac88b429bc10d533dc93dff55a62c8"
     },
     {
       "path": "explore/smart-mobility/index.html",
-      "size": 24809,
-      "sha256": "a8fe9df3375bb021f5b4c7b86f5080d651400e379e7ca0f5a7e6ce4cbd1fe6df"
+      "size": 25538,
+      "sha256": "19dd805a2628b8746b0d0270c85fa72ecce40df55548799ff60f8d12323bc070"
     },
     {
       "path": "explore/space/index.html",
-      "size": 26032,
-      "sha256": "499e22aed90bec688f0290572be1d96f893652bbac3ee4c41cf2cd018519d7bd"
+      "size": 26696,
+      "sha256": "3f6da7e3766682af159f17622b5c124f2085807bf7b46f175fa84c563d6f9ab5"
     },
     {
       "path": "index.html",
@@ -1328,8 +1403,8 @@
     },
     {
       "path": "universe/a-power-bank-with-a-trailer-hitch/index.html",
-      "size": 23427,
-      "sha256": "e3a56edb33e5aa84ea77b6a720c48caa8ab38c85c873a8e45b9feba2e5e07edf"
+      "size": 23601,
+      "sha256": "07edc0aee0a81b30d60d05e5d65eed5e2cca3cf25dac4bff5a466990030042ab"
     },
     {
       "path": "universe/batteries-in-waiting/index.html",
@@ -1347,14 +1422,19 @@
       "sha256": "2e5276cf29489cbddb23c311aeef50f56bde0a323b765701a09576fc7937377b"
     },
     {
+      "path": "universe/heating-a-city-with-five-degree-water/index.html",
+      "size": 24182,
+      "sha256": "d1d8a09259b006bfb498a9359c26d862e65fb10916f78737ff4dd39c342b0af1"
+    },
+    {
       "path": "universe/how-cold-does-a-quantum-computer-need-to-be/index.html",
       "size": 22688,
       "sha256": "4c9e2c6cf37002050491e26292e712b5a3a5493f02c73f4f73012aede3930a3d"
     },
     {
       "path": "universe/index.html",
-      "size": 107761,
-      "sha256": "d68b52e65310c7bec1f1c44f67b2f35b669d79a39e05003ffed6df5ec703591a"
+      "size": 114715,
+      "sha256": "0b79691534ab18544aec601b99d0a741335e9c703cc6950410a65057746c703f"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -1432,6 +1512,11 @@
       "sha256": "24d7a12984ba3a789641342d1729c54f7492d977a97d472edc1aa6e97474ee52"
     },
     {
+      "path": "universe/the-drone-that-races-with-one-eye/index.html",
+      "size": 22677,
+      "sha256": "7c6b04be915a35eb59a839ed7b3b5f5f72a6656c59bdb4083145aed4a240d85c"
+    },
+    {
       "path": "universe/the-dust-that-leaves-on-its-own/index.html",
       "size": 27399,
       "sha256": "9016154005e8314e2dedcb19a8c3749f0c23f470f831407b23014976aff832fd"
@@ -1472,6 +1557,11 @@
       "sha256": "e49cc5628e5e75345b30be55981d1b6d0a516cb88f43d819048086d61cb6616e"
     },
     {
+      "path": "universe/the-lattice-with-no-weakest-link/index.html",
+      "size": 23204,
+      "sha256": "e67dbb26806b8ac34b22d6cf9b0e7103faa78d547bd30c2a5499c7b8dcdb8924"
+    },
+    {
       "path": "universe/the-lunch-break-that-refuels-a-big-rig/index.html",
       "size": 23299,
       "sha256": "59a6a0458e5885e9319c38395f3ecb29d5eafdbd7999640e1f895f70ccf63315"
@@ -1510,6 +1600,11 @@
       "path": "universe/the-pear-that-heat-couldnt-find/index.html",
       "size": 22203,
       "sha256": "dd0fdb157856b1e9ab10811814bb4609bf8c735cfb8b9b118c9239276730eeaa"
+    },
+    {
+      "path": "universe/the-pig-kidney-that-held-a-place-in-line/index.html",
+      "size": 25036,
+      "sha256": "d6ff8e630a49d17c758d830db1c38652de220510c434c50c4bc12bed9580b229"
     },
     {
       "path": "universe/the-planet-in-the-mirror/index.html",
@@ -1645,6 +1740,11 @@
       "path": "universe/who-sets-out-the-triangles-when-no-one-is-driving/index.html",
       "size": 22576,
       "sha256": "7b7680f3eecbe79fa25f0dccfc079be7be0c77719a6c87876e823b536ef9faf5"
+    },
+    {
+      "path": "universe/who-will-give-hubble-a-lift/index.html",
+      "size": 22831,
+      "sha256": "eafdcd3cf20b3d68a104422c0e7e5c30b5fb138159200f5b132ea15ff11b9ce7"
     },
     {
       "path": "what-if/index.html",
@@ -1797,7 +1897,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "11c0b69e0fb123f924ceb2f5aa324c2ecd49ff56509258bb7ac802a820eda53a"
+      "sha256": "06d5f4c0c8460866c8063746a2edfbdf04b644e7543fd5ef95f427fc92262525"
     },
     {
       "path": "tools/recovery-kit.mjs",
