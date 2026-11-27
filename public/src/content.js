@@ -19,18 +19,18 @@ export const assets = {
 };
 const episodeId = 'when-gpus-meet-quantum-computing';
 export const characters = [
-  { id: 'dali', name: 'Dali', role: 'The Systems Thinker', tagline: 'Connects the systems.', focus: ['Smart Mobility', 'Energy', 'Future Systems'], description: 'Connects technology, infrastructure and human needs to see the bigger picture.', perspective: 'What happens when technologies stop evolving separately and start working as one system?', technologies: ['smart-mobility', 'energy', 'smart-cities'], episodes: ['when-mobility-meets-energy', 'when-stations-become-a-network', 'when-parking-goes-underground', 'when-data-centers-heat-our-homes'] },
-  { id: 'sofia', name: 'Sofia', role: 'The Intelligence Architect', tagline: 'Explores intelligence.', focus: ['AI', 'Data', 'Digital Intelligence'], description: 'Explores how intelligence, data and human creativity can work together to expand what is possible.', perspective: 'What happens when AI stops being just a tool and becomes a partner in how we think, create and solve problems?', technologies: ['ai-data', 'robotics', 'innovation'], episodes: [episodeId, 'when-data-centers-heat-our-homes'] },
+  { id: 'dali', name: 'Dali', role: 'The Systems Thinker', tagline: 'Connects the systems.', focus: ['Smart Mobility', 'Energy', 'Future Systems'], description: 'Connects technology, infrastructure and human needs to see the bigger picture.', perspective: 'What happens when technologies stop evolving separately and start working as one system?', technologies: ['smart-mobility', 'energy', 'smart-cities'], episodes: ['when-mobility-meets-energy', 'when-stations-become-a-network', 'when-parking-goes-underground', 'when-data-centers-heat-our-homes', 'when-the-city-breathes', 'when-nothing-goes-to-waste'] },
+  { id: 'sofia', name: 'Sofia', role: 'The Intelligence Architect', tagline: 'Explores intelligence.', focus: ['AI', 'Data', 'Digital Intelligence'], description: 'Explores how intelligence, data and human creativity can work together to expand what is possible.', perspective: 'What happens when AI stops being just a tool and becomes a partner in how we think, create and solve problems?', technologies: ['ai-data', 'robotics', 'innovation'], episodes: [episodeId, 'when-data-centers-heat-our-homes', 'when-nothing-goes-to-waste'] },
   { id: 'leo', name: 'Leo', role: 'The Quantum Explorer', tagline: 'Tests the science.', focus: ['Quantum Computing', 'Advanced Science', 'Future Computing'], description: 'Looks beyond the limits of classical computing to explore entirely new ways of solving the impossible.', perspective: 'What becomes possible when computing is no longer limited by the rules we know today?', technologies: ['quantum-computing', 'space'], episodes: [episodeId] },
-  { id: 'maya', name: 'Maya', role: 'The Life Innovator', tagline: 'Considers life and humanity.', focus: ['Biotech', 'Health', 'Human Longevity'], description: 'Explores how science and technology can help us live longer, healthier lives while working with nature rather than against it.', perspective: 'What happens when we learn not only to treat disease, but to understand and redesign the biology of life itself?', technologies: ['biotech'], episodes: [] },
-  { id: 'ethan', name: 'Ethan', role: 'The Challenger', tagline: 'Challenges the assumptions.', focus: ['Risk & Ethics', 'Economics & Scalability', 'Technology Adoption', 'Critical Thinking'], description: 'Challenges assumptions and brings a practical perspective to ambitious ideas. He questions assumptions, exposes trade-offs and tests whether an idea can work responsibly in the real world.', perspective: 'But what are we missing?', technologies: ['innovation'], episodes: [episodeId, 'when-mobility-meets-energy', 'when-stations-become-a-network', 'when-parking-goes-underground', 'when-data-centers-heat-our-homes'] }
+  { id: 'maya', name: 'Maya', role: 'The Life Innovator', tagline: 'Considers life and humanity.', focus: ['Biotech', 'Health', 'Human Longevity'], description: 'Explores how science and technology can help us live longer, healthier lives while working with nature rather than against it.', perspective: 'What happens when we learn not only to treat disease, but to understand and redesign the biology of life itself?', technologies: ['biotech'], episodes: ['when-the-city-breathes'] },
+  { id: 'ethan', name: 'Ethan', role: 'The Challenger', tagline: 'Challenges the assumptions.', focus: ['Risk & Ethics', 'Economics & Scalability', 'Technology Adoption', 'Critical Thinking'], description: 'Challenges assumptions and brings a practical perspective to ambitious ideas. He questions assumptions, exposes trade-offs and tests whether an idea can work responsibly in the real world.', perspective: 'But what are we missing?', technologies: ['innovation'], episodes: [episodeId, 'when-mobility-meets-energy', 'when-stations-become-a-network', 'when-parking-goes-underground', 'when-data-centers-heat-our-homes', 'when-the-city-breathes', 'when-nothing-goes-to-waste'] }
 ].map(character => ({ ...character, portrait: assets[character.id], path: '/minds/' + character.id + '/' }));
 
 // Broad editorial labels, not predictions of deployment dates.
 const domain = (id, name, shortDescription, characters, relatedTechnologies, maturity, horizon) => ({
   id, name, shortDescription, description: shortDescription, image: assets[id],
   characters, relatedTechnologies, maturity, horizon,
-  episodes: id === 'ai-data' ? [episodeId, 'when-data-centers-heat-our-homes'] : id === 'quantum-computing' ? [episodeId] : id === 'energy' ? ['when-mobility-meets-energy', 'when-stations-become-a-network', 'when-data-centers-heat-our-homes'] : id === 'smart-mobility' ? ['when-mobility-meets-energy', 'when-parking-goes-underground'] : id === 'smart-cities' ? ['when-stations-become-a-network', 'when-parking-goes-underground', 'when-data-centers-heat-our-homes'] : [],
+  episodes: ({ 'ai-data': [episodeId, 'when-data-centers-heat-our-homes'], 'quantum-computing': [episodeId], energy: ['when-mobility-meets-energy', 'when-stations-become-a-network', 'when-data-centers-heat-our-homes', 'when-the-city-breathes'], 'smart-mobility': ['when-mobility-meets-energy', 'when-parking-goes-underground'], 'smart-cities': ['when-stations-become-a-network', 'when-parking-goes-underground', 'when-data-centers-heat-our-homes', 'when-the-city-breathes', 'when-nothing-goes-to-waste'], biotech: ['when-the-city-breathes'], robotics: ['when-nothing-goes-to-waste'], innovation: ['when-nothing-goes-to-waste'] })[id] || [],
   path: '/explore/' + id + '/'
 });
 export const technologies = [
@@ -246,10 +246,115 @@ export const episodes = [{
     "adaptation": "Music excerpt edited, ducked beneath narration, and faded."
   },
   "relatedEpisodes": [
-    "when-parking-goes-underground",
-    "when-stations-become-a-network"
+    "when-the-city-breathes",
+    "when-parking-goes-underground"
   ],
   "path": "/episodes/when-data-centers-heat-our-homes/"
+}, {
+  "id": "when-the-city-breathes",
+  "slug": "when-the-city-breathes",
+  "number": 6,
+  "title": "When the City Breathes",
+  "hook": "What if every building were alive?",
+  "summary": "Heatwaves bake the streets and summer storms overflow the drains. Episode 006 brings three living buildings together in one neighborhood: algae panels and trees on the walls, every roof and square catching rain and a cistern under the square that waters the plants and cools the servers.",
+  "videoProvider": "youtube",
+  "videoId": "xO_9WemSmPA",
+  "videoUrl": "https://youtu.be/xO_9WemSmPA",
+  "status": "Published on YouTube",
+  "artwork": "/assets/episodes/when-the-city-breathes.webp",
+  "artworkAlt": "Illustrative aerial view at dusk of a green glass tower topped with trees beside a square with fountains, from IMAGINE Episode 006",
+  "perspectiveLabel": "Editorial perspectives",
+  "characters": [
+    "dali",
+    "maya"
+  ],
+  "supportingCharacters": [
+    "ethan"
+  ],
+  "technologies": [
+    "smart-cities",
+    "energy",
+    "biotech"
+  ],
+  "classification": {
+    "maturity": "Algae façades, forest towers and water squares exist; the breathing district is a concept",
+    "horizon": "Today and future possibilities"
+  },
+  "applications": [
+    "Algae façades",
+    "Trees on buildings",
+    "Water squares",
+    "Rainwater reuse"
+  ],
+  "currentReality": "In Hamburg an apartment building grows algae in its glass panels, in Milan two towers carry more than seven hundred trees and in Rotterdam a square holds up to 1.8 million liters of storm water. Each exists today, but separately.",
+  "futurePossibility": "Could one neighborhood do all three at once: algae and trees on every wall, rain caught by every roof and square and stored water that cools the streets and the servers?",
+  "realismNotes": "Algae façades are still expensive and delicate and the Hamburg building delivered about half of its design output. Trees on towers need cranes, watering and constant care. No building can make all its own water, so the city's pipes stay as backup. The breathing district is an IMAGINE concept, not an existing project.",
+  "whatIfQuestion": "What if every building were alive?",
+  "musicCredit": {
+    "attribution": "“Discovery” by Scott Buckley. Released under Creative Commons Attribution 4.0 International (CC BY 4.0).",
+    "website": "https://www.scottbuckley.com.au/",
+    "trackUrl": "https://www.scottbuckley.com.au/library/discovery/",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Music excerpt edited, ducked beneath narration, and faded."
+  },
+  "relatedEpisodes": [
+    "when-data-centers-heat-our-homes",
+    "when-nothing-goes-to-waste"
+  ],
+  "path": "/episodes/when-the-city-breathes/"
+},
+{
+  "id": "when-nothing-goes-to-waste",
+  "slug": "when-nothing-goes-to-waste",
+  "number": 7,
+  "title": "When Nothing Goes to Waste",
+  "hook": "What if a city never threw anything away?",
+  "summary": "Every week trucks haul our trash out of town and most of it is never used again. Episode 007 imagines one loop under the streets: robot pods deliver parcels to every building, carry waste and broken things back to a recovery hub and send materials back to the makers.",
+  "videoProvider": "youtube",
+  "videoId": "1UxO2BE_eug",
+  "videoUrl": "https://youtu.be/1UxO2BE_eug",
+  "status": "Published on YouTube",
+  "artwork": "/assets/episodes/when-nothing-goes-to-waste.webp",
+  "artworkAlt": "Illustrative evening street where people look down through a glowing glass panel in the pavement at robot pods in a tunnel below, from IMAGINE Episode 007",
+  "perspectiveLabel": "Editorial perspectives",
+  "characters": [
+    "dali",
+    "sofia"
+  ],
+  "supportingCharacters": [
+    "ethan"
+  ],
+  "technologies": [
+    "smart-cities",
+    "robotics",
+    "innovation"
+  ],
+  "classification": {
+    "maturity": "Vacuum waste collection, recycling robots and CO₂-storing concrete exist; the robot loop is a concept",
+    "horizon": "Today and future possibilities"
+  },
+  "applications": [
+    "Underground waste collection",
+    "Recycling robots",
+    "Buildings as material banks",
+    "CO₂-storing concrete"
+  ],
+  "currentReality": "In parts of Stockholm trash already travels underground through vacuum pipes. Apple's recycling robot Daisy can take apart about two hundred iPhones an hour. New concrete can lock captured carbon dioxide into stone.",
+  "futurePossibility": "Could one loop under the streets deliver everything a building needs and bring back everything it no longer uses, so a town keeps its materials in use?",
+  "realismNotes": "Tunnels are costly and far easier to build in a new district than under an old city; in Switzerland, planning for the Cargo sous terrain freight tunnels was paused in 2025 because its private funding was not secured. Most products are not yet designed to be taken apart and some waste will always leave town. The robot loop and recovery hub are an IMAGINE concept; zero waste is a direction, not a promise.",
+  "whatIfQuestion": "What if a city never threw anything away?",
+  "musicCredit": {
+    "attribution": "“Discovery” by Scott Buckley. Released under Creative Commons Attribution 4.0 International (CC BY 4.0).",
+    "website": "https://www.scottbuckley.com.au/",
+    "trackUrl": "https://www.scottbuckley.com.au/library/discovery/",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "adaptation": "Music excerpt edited, ducked beneath narration, and faded."
+  },
+  "relatedEpisodes": [
+    "when-the-city-breathes",
+    "when-parking-goes-underground"
+  ],
+  "path": "/episodes/when-nothing-goes-to-waste/"
 }];
 export const characterById = Object.fromEntries(characters.map(item => [item.id, item]));
 export const technologyById = Object.fromEntries(technologies.map(item => [item.id, item]));

@@ -74,6 +74,18 @@ export const episodeCapabilities = {
     capability('established','Heat pumps that raise server heat to heating temperature','Standard equipment; electricity use and cost vary.'),
     capability('emerging','Seasonal heat storage','Pilots and early projects; size, ground conditions and cost decide.'),
     capability('imagined','A data tower with servers below and homes above','An IMAGINE concept, not an existing project; grid capacity, safety separation and a backup heat source are real challenges.')
+  ],
+  'when-the-city-breathes': [
+    capability('established','Water squares that store storm water','Operating in Rotterdam; size and drainage decide what they can hold.'),
+    capability('established','Towers carrying hundreds of trees','Operating in Milan; cranes, watering and constant care are needed.'),
+    capability('emerging','Algae façades that make heat and biomass','A building in Hamburg; still expensive and delicate, with about half of the design output delivered.'),
+    capability('imagined','A breathing district that cools itself and reuses every drop of rain','An IMAGINE concept, not an existing project; the city\'s pipes stay as backup.')
+  ],
+  'when-nothing-goes-to-waste': [
+    capability('established','Vacuum pipes that collect trash underground','Operating in parts of Stockholm; easier in new districts.'),
+    capability('established','Robots that take products apart for recycling','Operating for some products; most products are not yet designed to be taken apart.'),
+    capability('emerging','Concrete that stores captured carbon dioxide','Available today; how much carbon it stores varies by mix and project.'),
+    capability('imagined','One robot loop for deliveries and returns with a recovery hub','An IMAGINE concept, not an existing project; tunnel cost and funding are real challenges.')
   ]
 };
 

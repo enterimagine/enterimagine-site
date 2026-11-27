@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "kind": "imagine-public-release",
-  "sourceCommit": "ee368b32c3c96ee853825bbfa40122990d782c87",
-  "publicPolicySha256": "06d5f4c0c8460866c8063746a2edfbdf04b644e7543fd5ef95f427fc92262525",
+  "sourceCommit": "e13a4c56e10351809bb2611fbc938bae1096e973",
+  "publicPolicySha256": "e180d5832415aa902f9c4e480d4ec4474a8cdc3225df12eccffdf65fe992b87b",
   "nodeVersion": "v24.19.0",
-  "payloadId": "5e23968d0999c45c97b603d4ebb283377c06e4643356f10099510eae0edac759",
+  "payloadId": "14e94859355cf5c25574ff4549b8cbb49456cd7e930a4c50eff5f0357e0ea0df",
   "files": [
     {
       "path": "404.html",
@@ -1047,6 +1047,11 @@
       "sha256": "ca3e3b21cf815ea92bfac8bcef08fd9dfe87a5a3858724027b15fdee784b4fc1"
     },
     {
+      "path": "assets/episodes/when-nothing-goes-to-waste.webp",
+      "size": 182378,
+      "sha256": "851bfd4fc65722ac1c494b378d8bab13a3f2875278cd3e8896796be6018beb6a"
+    },
+    {
       "path": "assets/episodes/when-parking-goes-underground.webp",
       "size": 86742,
       "sha256": "d38da3a3d5b5bc0790a8e55f0800945de436e7ea1fbd2dacb5d2dd62957cfae8"
@@ -1055,6 +1060,11 @@
       "path": "assets/episodes/when-stations-become-a-network.webp",
       "size": 153432,
       "sha256": "78c9075c0270d1996c2ece744b342d0464a00770df7065e11363c79682a70934"
+    },
+    {
+      "path": "assets/episodes/when-the-city-breathes.webp",
+      "size": 112764,
+      "sha256": "1903ace713ba1b78c85dfaf96594f6ff3b1409079efdd4e5e2fe58beaa368a5a"
     },
     {
       "path": "assets/hero.webp",
@@ -1173,13 +1183,13 @@
     },
     {
       "path": "episodes/index.html",
-      "size": 11498,
-      "sha256": "9cd58c67a8d1c63107ab4418e68c89db28f083ee2b1d71ad1ffad95915285192"
+      "size": 14284,
+      "sha256": "37e4781562835df55218f2f1d437a265fe560381a1e8ec28c66b9ac8759a0d78"
     },
     {
       "path": "episodes/when-data-centers-heat-our-homes/index.html",
-      "size": 17691,
-      "sha256": "bc616b4648f0a675cd349f533fec334afe1b2cd0f2ed2e05965e1b9a2c0f731c"
+      "size": 18121,
+      "sha256": "82579cefabf7b1293ba659f907578cff77fa6cd78e1e23b93f565771d3ea0427"
     },
     {
       "path": "episodes/when-gpus-meet-quantum-computing/index.html",
@@ -1192,6 +1202,11 @@
       "sha256": "78c9d36b048daf68c6c9f10426fe38531caa37b8c547ef8c457ebaefaf9ed6a5"
     },
     {
+      "path": "episodes/when-nothing-goes-to-waste/index.html",
+      "size": 18402,
+      "sha256": "68e2894ef32d711569be544757dc52808ec1b6b9e7a28027e3bba5a29c39a446"
+    },
+    {
       "path": "episodes/when-parking-goes-underground/index.html",
       "size": 16493,
       "sha256": "5a3af39c8d460bd4b79b503eb529963bad8d304f9c3da7a3c5e0be50806bb90d"
@@ -1202,19 +1217,24 @@
       "sha256": "173e0fed9ee89e78d423109e1a9d86c0c77648d0c0ead5c4fbe0cd79fa42c2c5"
     },
     {
+      "path": "episodes/when-the-city-breathes/index.html",
+      "size": 17975,
+      "sha256": "2b5d605f1ffae8741894826208015216382ab4f1cfa2aa8cc082d74214e4a49a"
+    },
+    {
       "path": "explore/ai-data/index.html",
       "size": 38505,
       "sha256": "77bb85dad15f574a480160e473ff0f72bb92aaf538901d2e4d1d53803dddf9ca"
     },
     {
       "path": "explore/biotech/index.html",
-      "size": 25507,
-      "sha256": "9b3736e8baf57cf8f50d3abcbdcf2e356f4c1f1b048f6c8191ce90e8322613d3"
+      "size": 26448,
+      "sha256": "22027f7d9278f38dad9b0775225a2e67a39c8f951adaaddb1f30b0f8562bf9e7"
     },
     {
       "path": "explore/energy/index.html",
-      "size": 33823,
-      "sha256": "d29cbf8dba71008aef631952975b21c5077917f086600d8afd6379185c000acc"
+      "size": 34734,
+      "sha256": "6e5fae3ecab1a4a39de32d880e9df0fff7e998a5a4c75674f95085eb519de7db"
     },
     {
       "path": "explore/index.html",
@@ -1223,8 +1243,8 @@
     },
     {
       "path": "explore/innovation/index.html",
-      "size": 28470,
-      "sha256": "064a5600d880e9d7564804688148b894d2f415bf3312bb978f0a6b80bc143392"
+      "size": 29408,
+      "sha256": "02e72d66fe84317f44b5984e11c1284be312c75e5d1909682440bee864df5d52"
     },
     {
       "path": "explore/quantum-computing/index.html",
@@ -1233,13 +1253,13 @@
     },
     {
       "path": "explore/robotics/index.html",
-      "size": 25606,
-      "sha256": "1d09cc4b1d5b9822cdd75d9fd347e9a4ffd7bc6b3293913aa4c0303176137873"
+      "size": 26586,
+      "sha256": "5a954b32e716ede232a0bf378b6ccd4b18548b0d9692d955c2f9eca5d8a931e7"
     },
     {
       "path": "explore/smart-cities/index.html",
-      "size": 22376,
-      "sha256": "8b9a86e4dacae6c729826e8aabd73ba886ac88b429bc10d533dc93dff55a62c8"
+      "size": 24219,
+      "sha256": "fad68e22ddb362a013588fedfa8da203dc68f60ed411943bd1956a4b038b7750"
     },
     {
       "path": "explore/smart-mobility/index.html",
@@ -1263,13 +1283,13 @@
     },
     {
       "path": "minds/dali/index.html",
-      "size": 12087,
-      "sha256": "cc33ca5d010e06eda8b127f8be3226a3374161f4a0c88655189cc568fe7b6b6a"
+      "size": 13970,
+      "sha256": "e4fb9ae25ef5ee368a22bac4786aa11be687c673649d5d5ef15df5bdb66fb170"
     },
     {
       "path": "minds/ethan/index.html",
-      "size": 12678,
-      "sha256": "8fb8ad7189275b99efd5429825d339f59de077b1664239ce5e47fe20b8bd05b9"
+      "size": 14521,
+      "sha256": "013cb0c0be6e0024abaa9ba0c47f9fe1ea152653e38878de87de418cc34dc08b"
     },
     {
       "path": "minds/index.html",
@@ -1283,13 +1303,13 @@
     },
     {
       "path": "minds/maya/index.html",
-      "size": 7955,
-      "sha256": "1fe0c949152bf69da70b6004257b1c86256abfe94e346ea5c5f65d1f61267a99"
+      "size": 9005,
+      "sha256": "a92aca4fbab09514f0e3ea1fb251ef29b1fdb73280f566be0b6ba73a8e9f5dd8"
     },
     {
       "path": "minds/sofia/index.html",
-      "size": 8950,
-      "sha256": "29c01524b7e38831cdfe89c75b714cb8245caa2af560747869173d86e11c002e"
+      "size": 9882,
+      "sha256": "992ab1ddfe2b7947a7674554662b07d5baf6ef0eafb3b75394a972a259675538"
     },
     {
       "path": "moderate/index.html",
@@ -1318,8 +1338,8 @@
     },
     {
       "path": "src/content.js",
-      "size": 17913,
-      "sha256": "6f9aeff4eaa0dabfd8c773fee1e3e7b7edfc78af2e8c97d394c66fdf48ca5ebc"
+      "size": 23897,
+      "sha256": "35c7351476a7c860be5d8b533aaba5c89bf6207e5a799cd8472013ae3688f722"
     },
     {
       "path": "src/idea-main.js",
@@ -1353,8 +1373,8 @@
     },
     {
       "path": "src/routes.js",
-      "size": 745,
-      "sha256": "3d75a8506d94d9e3fbd611cf167c1574ef2a227e6cc76286bfe2e4d0d14cd2de"
+      "size": 801,
+      "sha256": "6c6f8eabd12c6ccb1f7f4241a0f028315e197574c5a5d765e1f7ec98f253ea14"
     },
     {
       "path": "src/styles.css",
@@ -1373,8 +1393,8 @@
     },
     {
       "path": "src/universe.js",
-      "size": 9546,
-      "sha256": "a82b636552d9d6800da74ce8887542625ab7f4078e0b03fd309d21859b0bdcf8"
+      "size": 10882,
+      "sha256": "2a632df3d35865c09a777904168f57634173194484ef3cb647318296628e8ef0"
     },
     {
       "path": "src/what-if-components.js",
@@ -1413,8 +1433,8 @@
     },
     {
       "path": "universe/can-a-neural-network-find-the-enzyme-that-eats-your-sneakers/index.html",
-      "size": 25027,
-      "sha256": "8ec6b24ed7b89ac7ae0ada5f654925861c031c42d6d6bbb14eafdeab2320b74e"
+      "size": 25611,
+      "sha256": "3845ab51bf44880a0b9200151f58da9f6157f0df72c35f9d8ce9d2c7e924fab7"
     },
     {
       "path": "universe/can-you-cool-a-data-center-in-space/index.html",
@@ -1433,8 +1453,8 @@
     },
     {
       "path": "universe/index.html",
-      "size": 114715,
-      "sha256": "0b79691534ab18544aec601b99d0a741335e9c703cc6950410a65057746c703f"
+      "size": 115738,
+      "sha256": "46a9f3e4519ced63266e2f0bbfbb5d2689b9c74aff5c8fa208e58c68f45daed5"
     },
     {
       "path": "universe/medicine-for-one/index.html",
@@ -1608,8 +1628,8 @@
     },
     {
       "path": "universe/the-planet-in-the-mirror/index.html",
-      "size": 19835,
-      "sha256": "63e32ba0139aa7b1064be034758d71db903651a171c2615b0eb5d33de99fe8fc"
+      "size": 20376,
+      "sha256": "20ad65291b80ed7914af3c6c835db480d712db3dc3f28f9082ca113ed0fbd45e"
     },
     {
       "path": "universe/the-power-plant-that-drills-sideways/index.html",
@@ -1688,8 +1708,8 @@
     },
     {
       "path": "universe/waiting-on-the-plastic-eating-factory/index.html",
-      "size": 24124,
-      "sha256": "f8550c204309185ea3a666f38cdcb1fae0430bb85ebab73af24f3e2cfc2a0c36"
+      "size": 24708,
+      "sha256": "e678c527f08c9fce1db6ed1a9bd47771b450bdef53aab05cdb8a072469c1b99f"
     },
     {
       "path": "universe/what-the-plane-left-behind/index.html",
@@ -1897,7 +1917,7 @@
     },
     {
       "path": "tools/publication-policy.mjs",
-      "sha256": "06d5f4c0c8460866c8063746a2edfbdf04b644e7543fd5ef95f427fc92262525"
+      "sha256": "e180d5832415aa902f9c4e480d4ec4474a8cdc3225df12eccffdf65fe992b87b"
     },
     {
       "path": "tools/recovery-kit.mjs",
