@@ -287,6 +287,22 @@
       "url": "https://enterimagine.com/universe/the-power-plant-that-drills-sideways/",
       "scheduled_at": "2026-11-28T08:45:00+01:00",
       "typefully_draft_id": 12226902
+    },
+    {
+      "number": 37,
+      "slug": "what-the-plane-left-behind",
+      "title": "What the Plane Left Behind",
+      "url": "https://enterimagine.com/universe/what-the-plane-left-behind/",
+      "scheduled_at": "2026-11-28T17:30:00+01:00",
+      "typefully_draft_id": 12250680
+    },
+    {
+      "number": 38,
+      "slug": "the-building-that-arrives-flat",
+      "title": "The Building That Arrives Flat",
+      "url": "https://enterimagine.com/universe/the-building-that-arrives-flat/",
+      "scheduled_at": "2026-11-29T08:45:00+01:00",
+      "typefully_draft_id": 12250681
     }
   ]
 }
